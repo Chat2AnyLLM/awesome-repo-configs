@@ -4,5 +4,11 @@
     "name": "awesome-claude-agents",
     "branch": "main",
     "enabled": true
+  },
+  "wshobson/agents": {
+    "owner": "wshobson",
+    "name": "agents",
+    "branch": "main",
+    "enabled": true
   }
 }
