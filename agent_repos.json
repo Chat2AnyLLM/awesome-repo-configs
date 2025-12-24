@@ -9,6 +9,7 @@
     "owner": "wshobson",
     "name": "agents",
     "branch": "main",
-    "enabled": true
+    "enabled": true,
+    "agentsPath": "plugins"
   }
 }
