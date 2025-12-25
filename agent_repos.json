@@ -12,9 +12,9 @@
     "enabled": true,
     "agentsPath": "plugins"
   },
-  "K-Dense-AI/claude-scientific-skills": {
-    "owner": "K-Dense-AI",
-    "name": "claude-scientific-skills",
+  "lst97/claude-code-sub-agents": {
+    "owner": "lst97",
+    "name": "claude-code-sub-agents",
     "branch": "main",
     "enabled": true
   }
