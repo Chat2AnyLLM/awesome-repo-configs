@@ -4,5 +4,11 @@
     "name": "claude-scientific-skills",
     "branch": "main",
     "enabled": true
+  },
+  "Jeffallan/claude-skills": {
+    "owner": "Jeffallan",
+    "name": "claude-skills",
+    "branch": "main",
+    "enabled": true
   }
 }
