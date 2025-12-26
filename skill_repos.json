@@ -10,5 +10,11 @@
     "name": "claude-skills",
     "branch": "main",
     "enabled": true
+  },
+  "PleasePrompto/notebooklm-skill": {
+    "owner": "PleasePrompto",
+    "name": "notebooklm-skill",
+    "branch": "main",
+    "enabled": true
   }
 }
