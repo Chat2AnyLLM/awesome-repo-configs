@@ -1,0 +1,11 @@
+{
+  "claude-equity-research-marketplace": {
+    "name": "claude-equity-research-marketplace",
+    "description": "Claude Code plugins for professional equity research and financial analysis",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "quant-sentiment-ai",
+    "repoName": "claude-equity-research",
+    "repoBranch": "main"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "K-Dense-AI/claude-scientific-skills": {
+    "owner": "K-Dense-AI",
+    "name": "claude-scientific-skills",
+    "branch": "main",
+    "enabled": true
+  }
+}
