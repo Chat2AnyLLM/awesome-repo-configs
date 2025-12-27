@@ -16,5 +16,14 @@
     "repoOwner": "davila7",
     "repoName": "claude-code-templates",
     "repoBranch": "main"
+  },
+  "microsoft-docs-mcp": {
+    "name": "microsoft-docs-mcp",
+    "description": "Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MicrosoftDocs",
+    "repoName": "mcp",
+    "repoBranch": "main"
   }
 }
