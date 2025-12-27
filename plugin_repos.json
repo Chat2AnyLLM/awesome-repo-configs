@@ -25,5 +25,23 @@
     "repoOwner": "MicrosoftDocs",
     "repoName": "mcp",
     "repoBranch": "main"
+  },
+  "daymade/claude-code-skills": {
+    "name": "daymade/claude-code-skills",
+    "description": "Claude Code skills and plugins from daymade",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "daymade",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
+  },
+  "bradleygolden/claude-marketplace-elixir": {
+    "name": "bradleygolden/claude-marketplace-elixir",
+    "description": "Claude Marketplace for Elixir",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bradleygolden",
+    "repoName": "claude-marketplace-elixir",
+    "repoBranch": "main"
   }
 }

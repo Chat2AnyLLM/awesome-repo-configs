@@ -28,5 +28,17 @@
     "name": "mcp",
     "branch": "main",
     "enabled": true
+  },
+  "daymade/claude-code-skills": {
+    "owner": "daymade",
+    "name": "claude-code-skills",
+    "branch": "main",
+    "enabled": true
+  },
+  "bradleygolden/claude-marketplace-elixir": {
+    "owner": "bradleygolden",
+    "name": "claude-marketplace-elixir",
+    "branch": "main",
+    "enabled": true
   }
 }
