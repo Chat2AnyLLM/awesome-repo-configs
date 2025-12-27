@@ -7,5 +7,14 @@
     "repoOwner": "quant-sentiment-ai",
     "repoName": "claude-equity-research",
     "repoBranch": "main"
+  },
+  "claude-code-templates": {
+    "name": "claude-code-templates",
+    "description": "A collection of community-driven templates and automated workflows for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davila7",
+    "repoName": "claude-code-templates",
+    "repoBranch": "main"
   }
 }
