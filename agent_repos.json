@@ -23,5 +23,12 @@
     "name": "agents",
     "branch": "main",
     "enabled": true
+  },
+  "Dexploarer/hyper-forge": {
+    "owner": "Dexploarer",
+    "name": "hyper-forge",
+    "branch": "main",
+    "enabled": true,
+    "agentsPath": ".claude/agents"
   }
 }
