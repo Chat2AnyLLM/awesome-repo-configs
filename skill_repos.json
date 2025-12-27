@@ -16,5 +16,17 @@
     "name": "notebooklm-skill",
     "branch": "main",
     "enabled": true
+  },
+  "davila7/claude-code-templates": {
+    "owner": "davila7",
+    "name": "claude-code-templates",
+    "branch": "main",
+    "enabled": true
+  },
+  "MicrosoftDocs/mcp": {
+    "owner": "MicrosoftDocs",
+    "name": "mcp",
+    "branch": "main",
+    "enabled": true
   }
 }
