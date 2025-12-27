@@ -17,5 +17,11 @@
     "name": "claude-code-sub-agents",
     "branch": "main",
     "enabled": true
+  },
+  "contains-studio/agents": {
+    "owner": "contains-studio",
+    "name": "agents",
+    "branch": "main",
+    "enabled": true
   }
 }
