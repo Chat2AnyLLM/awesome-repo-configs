@@ -64,5 +64,11 @@
     "name": "n8n-skills",
     "branch": "main",
     "enabled": true
+  },
+  "lackeyjb/playwright-skill": {
+    "owner": "lackeyjb",
+    "name": "playwright-skill",
+    "branch": "main",
+    "enabled": true
   }
 }

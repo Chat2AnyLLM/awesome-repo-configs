@@ -88,5 +88,14 @@
     "repoOwner": "czlonkowski",
     "repoName": "n8n-skills",
     "repoBranch": "main"
+  },
+  "lackeyjb/playwright-skill": {
+    "name": "lackeyjb/playwright-skill",
+    "description": "Claude Code Skill for browser automation with Playwright for testing and validation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lackeyjb",
+    "repoName": "playwright-skill",
+    "repoBranch": "main"
   }
 }
