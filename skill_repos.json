@@ -82,5 +82,11 @@
     "name": "AI-research-SKILLs",
     "branch": "main",
     "enabled": true
+  },
+  "OneWave-AI/claude-skills": {
+    "owner": "OneWave-AI",
+    "name": "claude-skills",
+    "branch": "main",
+    "enabled": true
   }
 }
