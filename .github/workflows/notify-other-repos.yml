@@ -1,0 +1,58 @@
+name: Notify Other Repos on Config Change
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'agent_repos.json'
+      - 'plugin_repos.json'
+      - 'skill_repos.json'
+
+jobs:
+  notify-other-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch event to awesome-claude-plugins
+        run: |
+          curl -s -X POST \
+            -H "Authorization: Bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/Chat2AnyLLM/awesome-claude-plugins/dispatches \
+            -d '{
+              "event_type": "config-updated",
+              "client_payload": {
+                "source_repo": "awesome-repo-configs",
+                "ref": "${{ github.ref }}",
+                "sha": "${{ github.sha }}"
+              }
+            }'
+
+      - name: Dispatch event to awesome-claude-agents
+        run: |
+          curl -s -X POST \
+            -H "Authorization: Bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/Chat2AnyLLM/awesome-claude-agents/dispatches \
+            -d '{
+              "event_type": "config-updated",
+              "client_payload": {
+                "source_repo": "awesome-repo-configs",
+                "ref": "${{ github.ref }}",
+                "sha": "${{ github.sha }}"
+              }
+            }'
+
+      - name: Dispatch event to awesome-claude-skills
+        run: |
+          curl -s -X POST \
+            -H "Authorization: Bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/Chat2AnyLLM/awesome-claude-skills/dispatches \
+            -d '{
+              "event_type": "config-updated",
+              "client_payload": {
+                "source_repo": "awesome-repo-configs",
+                "ref": "${{ github.ref }}",
+                "sha": "${{ github.sha }}"
+              }
+            }'
