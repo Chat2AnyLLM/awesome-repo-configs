@@ -52,5 +52,11 @@
     "name": "claude-skills-marketplace",
     "branch": "main",
     "enabled": true
+  },
+  "mrgoonie/claudekit-skills": {
+    "owner": "mrgoonie",
+    "name": "claudekit-skills",
+    "branch": "main",
+    "enabled": true
   }
 }
