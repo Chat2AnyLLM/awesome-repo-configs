@@ -58,5 +58,11 @@
     "name": "claudekit-skills",
     "branch": "main",
     "enabled": true
+  },
+  "czlonkowski/n8n-skills": {
+    "owner": "czlonkowski",
+    "name": "n8n-skills",
+    "branch": "main",
+    "enabled": true
   }
 }

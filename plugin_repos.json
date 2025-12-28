@@ -79,5 +79,14 @@
     "repoOwner": "SawyerHood",
     "repoName": "dev-browser",
     "repoBranch": "main"
+  },
+  "czlonkowski/n8n-skills": {
+    "name": "czlonkowski/n8n-skills",
+    "description": "n8n skillset for Claude Code to build flawless n8n workflows using the n8n-mcp MCP server",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "czlonkowski",
+    "repoName": "n8n-skills",
+    "repoBranch": "main"
   }
 }
