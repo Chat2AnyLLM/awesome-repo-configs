@@ -43,5 +43,14 @@
     "repoOwner": "bradleygolden",
     "repoName": "claude-marketplace-elixir",
     "repoBranch": "main"
+  },
+  "Piebald-AI/claude-code-lsps": {
+    "name": "Piebald-AI/claude-code-lsps",
+    "description": "Claude Code Plugin Marketplace with LSP servers (requires tweakcc currently)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Piebald-AI",
+    "repoName": "claude-code-lsps",
+    "repoBranch": "main"
   }
 }
