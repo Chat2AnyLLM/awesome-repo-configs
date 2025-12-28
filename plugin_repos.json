@@ -70,5 +70,14 @@
     "repoOwner": "adrianpuiu",
     "repoName": "claude-skills-marketplace",
     "repoBranch": "main"
+  },
+  "SawyerHood/dev-browser": {
+    "name": "SawyerHood/dev-browser",
+    "description": "A browser automation plugin for Claude Code that enables browser control for testing and verification during development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SawyerHood",
+    "repoName": "dev-browser",
+    "repoBranch": "main"
   }
 }
