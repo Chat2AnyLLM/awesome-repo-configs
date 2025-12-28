@@ -115,5 +115,14 @@
     "repoOwner": "secondsky",
     "repoName": "sap-skills",
     "repoBranch": "main"
+  },
+  "anthropics/claude-plugins-official": {
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official Claude plugins and MCP servers from Anthropics",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anthropics",
+    "repoName": "claude-plugins-official",
+    "repoBranch": "main"
   }
 }
