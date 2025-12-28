@@ -61,5 +61,14 @@
     "repoOwner": "athola",
     "repoName": "claude-night-market",
     "repoBranch": "main"
+  },
+  "adrianpuiu/claude-skills-marketplace": {
+    "name": "adrianpuiu/claude-skills-marketplace",
+    "description": "A comprehensive skill that establishes Claude as a Project Architect to generate detailed planning documents that serve as blueprints for AI-assisted software development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adrianpuiu",
+    "repoName": "claude-skills-marketplace",
+    "repoBranch": "main"
   }
 }

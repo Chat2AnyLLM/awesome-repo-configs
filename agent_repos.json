@@ -36,5 +36,11 @@
     "name": "claude-night-market",
     "branch": "main",
     "enabled": true
+  },
+  "adrianpuiu/claude-skills-marketplace": {
+    "owner": "adrianpuiu",
+    "name": "claude-skills-marketplace",
+    "branch": "main",
+    "enabled": true
   }
 }
