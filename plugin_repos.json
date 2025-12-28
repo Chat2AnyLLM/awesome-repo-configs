@@ -97,5 +97,14 @@
     "repoOwner": "lackeyjb",
     "repoName": "playwright-skill",
     "repoBranch": "main"
+  },
+  "BrownFineSecurity/iothackbot": {
+    "name": "BrownFineSecurity/iothackbot",
+    "description": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BrownFineSecurity",
+    "repoName": "iothackbot",
+    "repoBranch": "master"
   }
 }

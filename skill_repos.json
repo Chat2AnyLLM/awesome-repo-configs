@@ -70,5 +70,11 @@
     "name": "playwright-skill",
     "branch": "main",
     "enabled": true
+  },
+  "BrownFineSecurity/iothackbot": {
+    "owner": "BrownFineSecurity",
+    "name": "iothackbot",
+    "branch": "master",
+    "enabled": true
   }
 }
