@@ -88,5 +88,11 @@
     "name": "claude-skills",
     "branch": "main",
     "enabled": true
+  },
+  "antvis/Infographic": {
+    "owner": "antvis",
+    "name": "Infographic",
+    "branch": "master",
+    "enabled": true
   }
 }
