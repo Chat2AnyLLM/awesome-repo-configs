@@ -107,13 +107,13 @@
     "repoName": "iothackbot",
     "repoBranch": "master"
   },
-  "zechenzhangAGI/AI-research-SKILLs": {
-    "name": "zechenzhangAGI/AI-research-SKILLs",
-    "description": "Comprehensive open-source library of AI research and engineering skills for Claude Code and other AI models",
+  "secondsky/sap-skills": {
+    "name": "secondsky/sap-skills",
+    "description": "SAP skills for Claude Code",
     "enabled": true,
     "type": "marketplace",
-    "repoOwner": "zechenzhangAGI",
-    "repoName": "AI-research-SKILLs",
+    "repoOwner": "secondsky",
+    "repoName": "sap-skills",
     "repoBranch": "main"
   }
 }
