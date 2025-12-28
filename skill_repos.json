@@ -93,6 +93,7 @@
     "owner": "antvis",
     "name": "Infographic",
     "branch": "master",
+    "skillsPath": "./",
     "enabled": true
   }
 }
