@@ -76,5 +76,11 @@
     "name": "iothackbot",
     "branch": "master",
     "enabled": true
+  },
+  "zechenzhangAGI/AI-research-SKILLs": {
+    "owner": "zechenzhangAGI",
+    "name": "AI-research-SKILLs",
+    "branch": "main",
+    "enabled": true
   }
 }

@@ -106,5 +106,14 @@
     "repoOwner": "BrownFineSecurity",
     "repoName": "iothackbot",
     "repoBranch": "master"
+  },
+  "zechenzhangAGI/AI-research-SKILLs": {
+    "name": "zechenzhangAGI/AI-research-SKILLs",
+    "description": "Comprehensive open-source library of AI research and engineering skills for Claude Code and other AI models",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zechenzhangAGI",
+    "repoName": "AI-research-SKILLs",
+    "repoBranch": "main"
   }
 }
