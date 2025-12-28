@@ -30,5 +30,11 @@
     "branch": "main",
     "enabled": true,
     "agentsPath": ".claude/agents"
+  },
+  "athola/claude-night-market": {
+    "owner": "athola",
+    "name": "claude-night-market",
+    "branch": "main",
+    "enabled": true
   }
 }

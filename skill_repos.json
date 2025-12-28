@@ -40,5 +40,11 @@
     "name": "claude-marketplace-elixir",
     "branch": "main",
     "enabled": true
+  },
+  "athola/claude-night-market": {
+    "owner": "athola",
+    "name": "claude-night-market",
+    "branch": "main",
+    "enabled": true
   }
 }

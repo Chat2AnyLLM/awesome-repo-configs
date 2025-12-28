@@ -52,5 +52,14 @@
     "repoOwner": "Piebald-AI",
     "repoName": "claude-code-lsps",
     "repoBranch": "main"
+  },
+  "athola/claude-night-market": {
+    "name": "athola/claude-night-market",
+    "description": "Marketplace repo for Claude Code Plugins developed from personal projects and workflow",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "athola",
+    "repoName": "claude-night-market",
+    "repoBranch": "main"
   }
 }
