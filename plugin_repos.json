@@ -124,5 +124,14 @@
     "repoOwner": "anthropics",
     "repoName": "claude-plugins-official",
     "repoBranch": "main"
+  },
+  "anthropics/claude-code": {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code repository from Anthropic",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anthropics",
+    "repoName": "claude-code",
+    "repoBranch": "main"
   }
 }

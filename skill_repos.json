@@ -95,5 +95,11 @@
     "branch": "master",
     "skillsPath": "./",
     "enabled": true
+  },
+  "anthropics/claude-code": {
+    "owner": "anthropics",
+    "name": "claude-code",
+    "branch": "main",
+    "enabled": true
   }
 }
