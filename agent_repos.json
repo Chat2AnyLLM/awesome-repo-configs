@@ -49,10 +49,11 @@
     "branch": "main",
     "enabled": true
   },
-  "anthropics/claude-code": {
-    "owner": "anthropics",
-    "name": "claude-code",
+  "diet103/claude-code-infrastructure-showcase": {
+    "owner": "diet103",
+    "name": "claude-code-infrastructure-showcase",
     "branch": "main",
-    "enabled": true
+    "enabled": true,
+    "agentsPath": ".claude/agents"
   }
 }

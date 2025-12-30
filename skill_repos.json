@@ -101,5 +101,11 @@
     "name": "claude-code",
     "branch": "main",
     "enabled": true
+  },
+  "weipanux/seo-geo-blog-writer": {
+    "owner": "weipanux",
+    "name": "seo-geo-blog-writer",
+    "branch": "main",
+    "enabled": true
   }
 }
