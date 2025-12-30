@@ -153,7 +153,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "obra",
-    "repoName": "superpowers-marketplace",
+    "repoName": "superpowers-marketplace"
   },
   "awesome-claude-code-plugins": {
     "name": "awesome-claude-code-plugins",
@@ -161,7 +161,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "ccplugins",
-    "repoName": "awesome-claude-code-plugins",
+    "repoName": "awesome-claude-code-plugins"
   },
   "cc-marketplace": {
     "name": "cc-marketplace",
@@ -169,7 +169,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "ananddtyagi",
-    "repoName": "claude-code-marketplace",
+    "repoName": "claude-code-marketplace"
   },
   "anthropic-agent-skills": {
     "name": "anthropic-agent-skills",
@@ -177,7 +177,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "anthropics",
-    "repoName": "skills",
+    "repoName": "skills"
   },
   "claude-code-workflows": {
     "name": "claude-code-workflows",
@@ -185,7 +185,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "wshobson",
-    "repoName": "agents",
+    "repoName": "agents"
   },
   "superpowers-dev": {
     "name": "superpowers-dev",
@@ -193,7 +193,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "obra",
-    "repoName": "superpowers",
+    "repoName": "superpowers"
   },
   "claude-code-plugins-plus": {
     "name": "claude-code-plugins-plus",
@@ -201,7 +201,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "jeremylongshore",
-    "repoName": "claude-code-plugins-plus",
+    "repoName": "claude-code-plugins-plus"
   },
   "hcp-terraform-skills": {
     "name": "hcp-terraform-skills",
@@ -209,7 +209,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "hashi-demo-lab",
-    "repoName": "claude-skill-hcp-terraform",
+    "repoName": "claude-skill-hcp-terraform"
   },
   "mag-claude-plugins": {
     "name": "mag-claude-plugins",
@@ -217,7 +217,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "MadAppGang",
-    "repoName": "claude-code",
+    "repoName": "claude-code"
   },
   "thedotmack": {
     "name": "thedotmack",
@@ -225,7 +225,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "thedotmack",
-    "repoName": "claude-mem",
+    "repoName": "claude-mem"
   },
   "awesome-claude-skills": {
     "name": "awesome-claude-skills",
@@ -233,7 +233,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "ComposioHQ",
-    "repoName": "awesome-claude-skills",
+    "repoName": "awesome-claude-skills"
   },
   "claude-code-plugins": {
     "name": "claude-code-plugins",
