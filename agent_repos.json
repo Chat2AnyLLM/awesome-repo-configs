@@ -48,5 +48,11 @@
     "name": "claudekit-skills",
     "branch": "main",
     "enabled": true
+  },
+  "anthropics/claude-code": {
+    "owner": "anthropics",
+    "name": "claude-code",
+    "branch": "main",
+    "enabled": true
   }
 }
