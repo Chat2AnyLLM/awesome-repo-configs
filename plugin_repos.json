@@ -235,6 +235,15 @@
     "repoOwner": "ComposioHQ",
     "repoName": "awesome-claude-skills"
   },
+  "claude-code-lsps": {
+  "name": "claude-code-lsps",
+  "description": "A collection of Language Server Protocol (LSP) configurations and tools optimized for Claude Code",
+  "enabled": true,
+  "type": "marketplace",
+  "repoOwner": "Piebald-AI",
+  "repoName": "claude-code-lsps",
+  "repoBranch": "main"
+},
   "claude-code-plugins": {
     "name": "claude-code-plugins",
     "description": "Bundled plugins for Claude Code including Agent SDK development tools, PR review toolkit, and commit workflows",
