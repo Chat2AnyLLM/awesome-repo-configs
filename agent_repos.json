@@ -55,5 +55,11 @@
     "branch": "main",
     "enabled": true,
     "agentsPath": ".claude/agents"
+  },
+  "VoltAgent/awesome-claude-code-subagents": {
+    "owner": "VoltAgent",
+    "name": "awesome-claude-code-subagents",
+    "branch": "main",
+    "enabled": true
   }
 }
