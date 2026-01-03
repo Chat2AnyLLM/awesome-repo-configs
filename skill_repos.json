@@ -107,5 +107,23 @@
     "name": "seo-geo-blog-writer",
     "branch": "main",
     "enabled": true
+  },
+  "Prat011/awesome-llm-skills": {
+    "owner": "Prat011",
+    "name": "awesome-llm-skills",
+    "branch": "main",
+    "enabled": true
+  },
+  "bear2u/my-skills": {
+    "owner": "bear2u",
+    "name": "my-skills",
+    "branch": "main",
+    "enabled": true
+  },
+  "huggingface/skills": {
+    "owner": "huggingface",
+    "name": "skills",
+    "branch": "main",
+    "enabled": true
   }
 }
