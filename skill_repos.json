@@ -125,5 +125,11 @@
     "name": "skills",
     "branch": "main",
     "enabled": true
+  },
+  "CloudAI-X/claude-workflow-v2": {
+    "owner": "CloudAI-X",
+    "name": "claude-workflow-v2",
+    "branch": "main",
+    "enabled": true
   }
 }
