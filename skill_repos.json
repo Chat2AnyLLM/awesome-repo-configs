@@ -131,5 +131,11 @@
     "name": "claude-workflow-v2",
     "branch": "main",
     "enabled": true
+  },
+  "OthmanAdi/planning-with-files": {
+    "owner": "OthmanAdi",
+    "name": "planning-with-files",
+    "branch": "main",
+    "enabled": true
   }
 }
