@@ -252,5 +252,14 @@
     "repoOwner": "anthropics",
     "repoName": "claude-code",
     "repoBranch": "main"
+  },
+  "kepano/obsidian-skills": {
+    "name": "kepano/obsidian-skills",
+    "description": "Obsidian skills and plugins for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kepano",
+    "repoName": "obsidian-skills",
+    "repoBranch": "main"
   }
 }

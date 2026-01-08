@@ -137,5 +137,11 @@
     "name": "planning-with-files",
     "branch": "main",
     "enabled": true
+  },
+  "kepano/obsidian-skills": {
+    "owner": "kepano",
+    "name": "obsidian-skills",
+    "branch": "main",
+    "enabled": true
   }
 }
