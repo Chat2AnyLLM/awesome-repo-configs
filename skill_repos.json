@@ -143,5 +143,11 @@
     "name": "obsidian-skills",
     "branch": "main",
     "enabled": true
+  },
+  "GBSOSS/skill-from-masters": {
+    "owner": "GBSOSS",
+    "name": "skill-from-masters",
+    "branch": "main",
+    "enabled": true
   }
 }
