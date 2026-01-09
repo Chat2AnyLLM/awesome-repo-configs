@@ -261,5 +261,14 @@
     "repoOwner": "kepano",
     "repoName": "obsidian-skills",
     "repoBranch": "main"
+  },
+  "iamzhihuix/happy-claude-skills": {
+    "name": "iamzhihuix/happy-claude-skills",
+    "description": "Happy Claude skills repository",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iamzhihuix",
+    "repoName": "happy-claude-skills",
+    "repoBranch": "main"
   }
 }

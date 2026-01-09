@@ -150,5 +150,11 @@
     "branch": "main",
     "skillsPath": "./skill-from-masters",
     "enabled": true
+  },
+  "iamzhihuix/happy-claude-skills": {
+    "owner": "iamzhihuix",
+    "name": "happy-claude-skills",
+    "branch": "main",
+    "enabled": true
   }
 }
