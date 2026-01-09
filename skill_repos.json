@@ -148,6 +148,7 @@
     "owner": "GBSOSS",
     "name": "skill-from-masters",
     "branch": "main",
+    "skillsPath": "./skill-from-masters",
     "enabled": true
   }
 }
