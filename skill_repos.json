@@ -156,5 +156,11 @@
     "name": "happy-claude-skills",
     "branch": "main",
     "enabled": true
+  },
+  "anthropics/claude-plugins-official": {
+    "owner": "anthropics",
+    "name": "claude-plugins-official",
+    "branch": "main",
+    "enabled": true
   }
 }
