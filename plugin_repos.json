@@ -270,5 +270,14 @@
     "repoOwner": "iamzhihuix",
     "repoName": "happy-claude-skills",
     "repoBranch": "main"
+  },
+  "affaan-m/everything-claude-code": {
+    "name": "affaan-m/everything-claude-code",
+    "description": "Everything Claude Code repository",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "affaan-m",
+    "repoName": "everything-claude-code",
+    "repoBranch": "main"
   }
 }

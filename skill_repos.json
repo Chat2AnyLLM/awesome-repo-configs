@@ -162,5 +162,11 @@
     "name": "claude-plugins-official",
     "branch": "main",
     "enabled": true
+  },
+  "nextlevelbuilder/ui-ux-pro-max-skill": {
+    "owner": "nextlevelbuilder",
+    "name": "ui-ux-pro-max-skill",
+    "branch": "main",
+    "enabled": true
   }
 }
