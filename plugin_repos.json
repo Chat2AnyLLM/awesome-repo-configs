@@ -271,6 +271,15 @@
     "repoName": "happy-claude-skills",
     "repoBranch": "main"
   },
+  "nextlevelbuilder/ui-ux-pro-max-skill": {
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "description": "UI/UX Pro Max skill for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nextlevelbuilder",
+    "repoName": "ui-ux-pro-max-skill",
+    "repoBranch": "main"
+  },
   "affaan-m/everything-claude-code": {
     "name": "affaan-m/everything-claude-code",
     "description": "Everything Claude Code repository",
