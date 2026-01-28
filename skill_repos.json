@@ -168,5 +168,12 @@
     "name": "ui-ux-pro-max-skill",
     "branch": "main",
     "enabled": true
+  },
+  "moltbot/skills": {
+    "owner": "moltbot",
+    "name": "skills",
+    "branch": "main",
+    "skillsPath": "/skills",
+    "enabled": true
   }
 }
