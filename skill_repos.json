@@ -11,6 +11,12 @@
     "branch": "main",
     "enabled": true
   },
+  "ComposioHQ/awesome-claude-skills": {
+    "owner": "ComposioHQ",
+    "name": "awesome-claude-skills",
+    "branch": "main",
+    "enabled": true
+  },
   "PleasePrompto/notebooklm-skill": {
     "owner": "PleasePrompto",
     "name": "notebooklm-skill",
