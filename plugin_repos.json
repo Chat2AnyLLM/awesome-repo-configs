@@ -1,4 +1,13 @@
 {
+  "sitemd": {
+    "name": "sitemd",
+    "description": "Build websites from Markdown. MCP server and Claude Code plugin with 22 tools for creating pages, generating content, configuring settings, and deploying static sites.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sitemd-cc",
+    "repoName": "sitemd",
+    "repoBranch": "main"
+  },
   "claude-equity-research-marketplace": {
     "name": "claude-equity-research-marketplace",
     "description": "Claude Code plugins for professional equity research and financial analysis",
