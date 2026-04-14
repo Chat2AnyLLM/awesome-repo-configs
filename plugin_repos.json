@@ -280,5 +280,14 @@
     "repoOwner": "affaan-m",
     "repoName": "everything-claude-code",
     "repoBranch": "main"
+  },
+  "inhouseseo/superseo-skills": {
+    "name": "inhouseseo/superseo-skills",
+    "description": "11 SEO skills for page audits, content briefs, article writing, E-E-A-T audits, semantic gap analysis, featured snippets, topic clusters, and link building. Each skill fetches pages and reads top-ranking competitors itself.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inhouseseo",
+    "repoName": "superseo-skills",
+    "repoBranch": "main"
   }
 }
