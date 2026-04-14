@@ -181,5 +181,12 @@
     "branch": "main",
     "skillsPath": "/skills",
     "enabled": true
+  },
+  "inhouseseo/superseo-skills": {
+    "owner": "inhouseseo",
+    "name": "superseo-skills",
+    "branch": "main",
+    "skillsPath": "/skills",
+    "enabled": true
   }
 }
