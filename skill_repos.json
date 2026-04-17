@@ -5,7 +5,13 @@
     "branch": "main",
     "enabled": true
   },
-  "Jeffallan/claude-skills": {
+  "salespeak-ai/buyer-eval-skill": {
+        "owner": "salespeak-ai",
+        "name": "buyer-eval-skill",
+        "branch": "main",
+        "enabled": true
+  },
+    "Jeffallan/claude-skills": {
     "owner": "Jeffallan",
     "name": "claude-skills",
     "branch": "main",
