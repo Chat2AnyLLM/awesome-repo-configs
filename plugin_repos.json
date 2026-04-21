@@ -280,5 +280,14 @@
     "repoOwner": "affaan-m",
     "repoName": "everything-claude-code",
     "repoBranch": "main"
+  },
+  "cyvnrs/smdd-toolkit": {
+    "name": "cyvnrs/smdd-toolkit",
+    "description": "Structured Markdown Driven Development skills for Claude Code. Plan projects as prose markdown before writing a line of code, then build component-by-component with atomic, parallel-safe sub-agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cyvnrs",
+    "repoName": "smdd-toolkit",
+    "repoBranch": "main"
   }
 }
