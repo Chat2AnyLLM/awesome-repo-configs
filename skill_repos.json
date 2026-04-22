@@ -181,5 +181,12 @@
     "branch": "main",
     "skillsPath": "/skills",
     "enabled": true
+  },
+  "takechanman1228/claude-ecom": {
+    "owner": "takechanman1228",
+    "name": "claude-ecom",
+    "branch": "main",
+    "skillsPath": "/skills",
+    "enabled": true
   }
 }
