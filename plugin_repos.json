@@ -307,5 +307,122 @@
     "repoOwner": "inhouseseo",
     "repoName": "superseo-skills",
     "repoBranch": "main"
+  },
+  "asynkor/asynkor": {
+    "name": "asynkor/asynkor",
+    "description": "File leasing for AI agent teams. One MCP server. Any IDE. Zero merge conflicts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asynkor",
+    "repoName": "asynkor",
+    "repoBranch": "main"
+  },
+  "Rich627/whatsapp-claude-plugin": {
+    "name": "Rich627/whatsapp-claude-plugin",
+    "description": "Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rich627",
+    "repoName": "whatsapp-claude-plugin",
+    "repoBranch": "main"
+  },
+  "AgentBuildersApp/eight-eyes": {
+    "name": "AgentBuildersApp/eight-eyes",
+    "description": "Eight constrained reviewers for hook-enforced multi-agent code review. Each scoped to a different failure surface.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AgentBuildersApp",
+    "repoName": "eight-eyes",
+    "repoBranch": "main"
+  },
+  "lendtrain/autoresearch-for-skills": {
+    "name": "lendtrain/autoresearch-for-skills",
+    "description": "Claude Code plugin that autonomously optimizes skill prompts using Karpathy's autoresearch methodology.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lendtrain",
+    "repoName": "autoresearch-for-skills",
+    "repoBranch": "main"
+  },
+  "khendzel/skills-janitor": {
+    "name": "khendzel/skills-janitor",
+    "description": "Audit, track usage, and manage your Claude Code and OpenAI Codex skills. 7 slash commands, zero dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "khendzel",
+    "repoName": "skills-janitor",
+    "repoBranch": "main"
+  },
+  "smorky850612/Aurakit": {
+    "name": "smorky850612/Aurakit",
+    "description": "All-in-one Claude Code skill with 33 modes, 6-layer security, 23 hooks, and 75% token savings.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smorky850612",
+    "repoName": "Aurakit",
+    "repoBranch": "main"
+  },
+  "Digidai/product-manager-skills": {
+    "name": "Digidai/product-manager-skills",
+    "description": "PM skill for Claude Code: diagnose SaaS metrics, critique PRDs, plan roadmaps, run discovery, and coach PM career transitions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Digidai",
+    "repoName": "product-manager-skills",
+    "repoBranch": "main"
+  },
+  "Xquik-dev/x-twitter-scraper": {
+    "name": "Xquik-dev/x-twitter-scraper",
+    "description": "X (Twitter) data platform skill for AI coding agents. 111 REST API endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Xquik-dev",
+    "repoName": "x-twitter-scraper",
+    "repoBranch": "main"
+  },
+  "ammawla/encode-toolkit": {
+    "name": "ammawla/encode-toolkit",
+    "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ammawla",
+    "repoName": "encode-toolkit",
+    "repoBranch": "main"
+  },
+  "chopratejas/vitals": {
+    "name": "chopratejas/vitals",
+    "description": "Codebase vital signs for Claude Code — finds hotspots, diagnoses root causes, ranks fixes by ROI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chopratejas",
+    "repoName": "vitals",
+    "repoBranch": "main"
+  },
+  "Smart-AI-Memory/attune-ai": {
+    "name": "Smart-AI-Memory/attune-ai",
+    "description": "AI-powered developer workflows with cost optimization and multi-agent orchestration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Smart-AI-Memory",
+    "repoName": "attune-ai",
+    "repoBranch": "main"
+  },
+  "researchaudio/voicebrief-plugin": {
+    "name": "researchaudio/voicebrief-plugin",
+    "description": "Claude Code plugin — Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "researchaudio",
+    "repoName": "voicebrief-plugin",
+    "repoBranch": "main"
+  },
+  "ArcBlock/myvibe-skills": {
+    "name": "ArcBlock/myvibe-skills",
+    "description": "MyVibe Skills — AI-powered web page creation and MyVibe publishing capabilities.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArcBlock",
+    "repoName": "myvibe-skills",
+    "repoBranch": "main"
   }
 }
