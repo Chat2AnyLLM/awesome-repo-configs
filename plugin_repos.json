@@ -424,5 +424,50 @@
     "repoOwner": "ArcBlock",
     "repoName": "myvibe-skills",
     "repoBranch": "main"
+  },
+  "raphaelchristi/harness-evolver": {
+    "name": "raphaelchristi/harness-evolver",
+    "description": "Automated harness evolution for AI agents. Iteratively optimizes system prompts, routing, retrieval, and orchestration code using counterfactual diagnosis.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raphaelchristi",
+    "repoName": "harness-evolver",
+    "repoBranch": "main"
+  },
+  "nex-crm/nex-as-a-skill": {
+    "name": "nex-crm/nex-as-a-skill",
+    "description": "Organizational context and memory plugin for AI agents. Unifies conversations with email, Slack, CRM, and 100+ tools into one knowledge graph.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nex-crm",
+    "repoName": "nex-as-a-skill",
+    "repoBranch": "main"
+  },
+  "MKToronto/python-clean-architecture": {
+    "name": "MKToronto/python-clean-architecture",
+    "description": "Claude Code plugin to scaffold, review, and refactor Python projects with clean code and architecture. 12 slash commands, 25 design patterns, 22 code quality rules.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MKToronto",
+    "repoName": "python-clean-architecture",
+    "repoBranch": "main"
+  },
+  "twofoldtech-dakota/plugin-gtm": {
+    "name": "twofoldtech-dakota/plugin-gtm",
+    "description": "Go-to-market engine for Claude Code. Analyze products, build GTM strategies, generate launch content, and track launches from the terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "twofoldtech-dakota",
+    "repoName": "plugin-gtm",
+    "repoBranch": "main"
+  },
+  "xiaobei930/claude-code-best-practices": {
+    "name": "xiaobei930/claude-code-best-practices",
+    "description": "Production-ready Claude Code plugin with role-based workflows (PM/Led/Dev/QA), 40 commands, 17 skills, 8 agents, 33 rules, 21 hooks, and auto-learning pipeline.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xiaobei930",
+    "repoName": "claude-code-best-practices",
+    "repoBranch": "main"
   }
 }
