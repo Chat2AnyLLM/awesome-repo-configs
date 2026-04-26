@@ -188,5 +188,24 @@
     "branch": "main",
     "skillsPath": "/skills",
     "enabled": true
+  },
+  "inhouseseo/superseo-skills": {
+    "owner": "inhouseseo",
+    "name": "superseo-skills",
+    "branch": "main",
+    "skillsPath": "/skills",
+    "enabled": true
+  },
+  "salespeak-ai/buyer-eval-skill": {
+    "owner": "salespeak-ai",
+    "name": "buyer-eval-skill",
+    "branch": "main",
+    "enabled": true
+  },
+  "jaimeschwarz/brandvoice": {
+    "owner": "jaimeschwarz",
+    "name": "brandvoice",
+    "branch": "main",
+    "enabled": true
   }
 }
