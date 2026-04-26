@@ -67,5 +67,17 @@
     "name": "claude-workflow-v2",
     "branch": "main",
     "enabled": true
+  },
+  "Xquik-dev/x-twitter-scraper": {
+    "owner": "Xquik-dev",
+    "name": "x-twitter-scraper",
+    "branch": "main",
+    "enabled": true
+  },
+  "daxaur/openpaw": {
+    "owner": "daxaur",
+    "name": "openpaw",
+    "branch": "main",
+    "enabled": true
   }
 }
