@@ -207,5 +207,26 @@
     "name": "brandvoice",
     "branch": "main",
     "enabled": true
+  },
+  "shitianfang/coware-skills": {
+    "owner": "shitianfang",
+    "name": "coware-skills",
+    "branch": "main",
+    "skillsPath": "/coware",
+    "enabled": true
+  },
+  "ZeroPointRepo/youtube-skills": {
+    "owner": "ZeroPointRepo",
+    "name": "youtube-skills",
+    "branch": "main",
+    "skillsPath": "/skills",
+    "enabled": true
+  },
+  "toroleapinc/claude-brain": {
+    "owner": "toroleapinc",
+    "name": "claude-brain",
+    "branch": "main",
+    "skillsPath": "/skills",
+    "enabled": true
   }
 }
