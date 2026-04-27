@@ -228,5 +228,12 @@
     "branch": "main",
     "skillsPath": "/skills",
     "enabled": true
+  },
+  "sinaayyy/claude-obsidian-reporter": {
+    "owner": "sinaayyy",
+    "name": "claude-obsidian-reporter",
+    "branch": "main",
+    "skillsPath": ".claude/skills",
+    "enabled": true
   }
 }
