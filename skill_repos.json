@@ -235,5 +235,12 @@
     "branch": "main",
     "skillsPath": ".claude/skills",
     "enabled": true
+  },
+  "connerlambden/bgpt-mcp": {
+    "owner": "connerlambden",
+    "name": "bgpt-mcp",
+    "branch": "main",
+    "skillsPath": "/skills",
+    "enabled": true
   }
 }
