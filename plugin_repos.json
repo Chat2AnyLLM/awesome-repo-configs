@@ -469,5 +469,14 @@
     "repoOwner": "xiaobei930",
     "repoName": "claude-code-best-practices",
     "repoBranch": "main"
+  },
+  "monzphere/zabbix-module-builder": {
+    "name": "monzphere/zabbix-module-builder",
+    "description": "Scaffold production-ready Zabbix 7.x frontend modules with one slash command. Generates manifest, Module.php, controller, view, JS and CSS following MonZphere conventions: mnz- scoped CSS, blue/dark theme, _() i18n, CProfile, CWebUser, .js.php views, MonZphere footer. Commercial - $5/month.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Monzphere",
+    "repoName": "zabbix-module-builder",
+    "repoBranch": "main"
   }
 }
