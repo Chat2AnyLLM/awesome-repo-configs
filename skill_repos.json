@@ -242,5 +242,11 @@
     "branch": "main",
     "skillsPath": "/skills",
     "enabled": true
+  },
+  "voidborne-d/master-skill": {
+    "owner": "voidborne-d",
+    "name": "master-skill",
+    "branch": "main",
+    "enabled": true
   }
 }
