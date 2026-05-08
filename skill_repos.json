@@ -229,6 +229,13 @@
     "skillsPath": "/skills",
     "enabled": true
   },
+  "Xquik-dev/x-twitter-scraper": {
+    "owner": "Xquik-dev",
+    "name": "x-twitter-scraper",
+    "branch": "master",
+    "skillsPath": "/skills",
+    "enabled": true
+  },
   "sinaayyy/claude-obsidian-reporter": {
     "owner": "sinaayyy",
     "name": "claude-obsidian-reporter",
