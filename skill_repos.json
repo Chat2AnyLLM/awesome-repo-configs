@@ -242,5 +242,12 @@
     "branch": "main",
     "skillsPath": "/skills",
     "enabled": true
+  },
+  "ejentum/ejentum-mcp": {
+    "owner": "ejentum",
+    "name": "ejentum-mcp",
+    "branch": "main",
+    "skillsPath": "skills",
+    "enabled": true
   }
 }

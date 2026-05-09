@@ -469,5 +469,14 @@
     "repoOwner": "xiaobei930",
     "repoName": "claude-code-best-practices",
     "repoBranch": "main"
+  },
+  "ejentum/ejentum-mcp": {
+    "name": "ejentum/ejentum-mcp",
+    "description": "Reasoning Harness for agentic AI: 4 MCP tools (harness_reasoning, harness_code, harness_anti_deception, harness_memory) plus 4 SKILL.md files for autonomous routing. Each call returns an engineered cognitive scaffold (failure pattern, procedure, suppression vectors, falsification test) that addresses attention decay, sycophantic collapse, and hallucination drift. Free tier 100 calls.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ejentum",
+    "repoName": "ejentum-mcp",
+    "repoBranch": "main"
   }
 }
