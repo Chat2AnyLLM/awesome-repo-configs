@@ -478,5 +478,14 @@
     "repoOwner": "ejentum",
     "repoName": "ejentum-mcp",
     "repoBranch": "main"
+  },
+  "bentleypark/claude-code-mobile-spine": {
+    "name": "bentleypark/claude-code-mobile-spine",
+    "description": "Claude Code plugin marketplace bundling mobile-spine — scaffolds a meta-repo coordinating 4 subagents (api/pm/android/ios) for mobile teams whose Android, iOS, and Backend live in 3 separate repos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bentleypark",
+    "repoName": "claude-code-mobile-spine",
+    "repoBranch": "main"
   }
 }
