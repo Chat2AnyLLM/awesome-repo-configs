@@ -120,6 +120,13 @@
     "branch": "main",
     "enabled": true
   },
+  "luoyuctl/agenttrace": {
+    "owner": "luoyuctl",
+    "name": "agenttrace",
+    "branch": "master",
+    "skillsPath": "skills",
+    "enabled": true
+  },
   "bear2u/my-skills": {
     "owner": "bear2u",
     "name": "my-skills",
