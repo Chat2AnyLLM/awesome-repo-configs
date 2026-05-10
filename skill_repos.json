@@ -229,6 +229,13 @@
     "skillsPath": "/skills",
     "enabled": true
   },
+  "Xquik-dev/x-twitter-scraper": {
+    "owner": "Xquik-dev",
+    "name": "x-twitter-scraper",
+    "branch": "master",
+    "skillsPath": "/skills",
+    "enabled": true
+  },
   "sinaayyy/claude-obsidian-reporter": {
     "owner": "sinaayyy",
     "name": "claude-obsidian-reporter",
@@ -248,6 +255,12 @@
     "name": "ejentum-mcp",
     "branch": "main",
     "skillsPath": "skills",
+    "enabled": true
+  },
+  "voidborne-d/master-skill": {
+    "owner": "voidborne-d",
+    "name": "master-skill",
+    "branch": "main",
     "enabled": true
   }
 }
