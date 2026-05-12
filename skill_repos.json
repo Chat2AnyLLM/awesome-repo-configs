@@ -269,5 +269,12 @@
     "name": "master-skill",
     "branch": "main",
     "enabled": true
+  },
+  "takechanman1228/claude-persona": {
+    "owner": "takechanman1228",
+    "name": "claude-persona",
+    "branch": "main",
+    "skillsPath": "/skills",
+    "enabled": true
   }
 }
