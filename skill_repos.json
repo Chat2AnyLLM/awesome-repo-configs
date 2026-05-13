@@ -283,5 +283,12 @@
     "branch": "main",
     "skillsPath": "/skills",
     "enabled": true
+  },
+  "swarmclawai/andrej-karpathy-skills": {
+    "owner": "swarmclawai",
+    "name": "andrej-karpathy-skills",
+    "branch": "main",
+    "skillsPath": "skills",
+    "enabled": true
   }
 }
