@@ -243,6 +243,13 @@
     "skillsPath": "/skills",
     "enabled": true
   },
+  "Xquik-dev/tweetclaw": {
+    "owner": "Xquik-dev",
+    "name": "tweetclaw",
+    "branch": "master",
+    "skillsPath": "/skills",
+    "enabled": true
+  },
   "sinaayyy/claude-obsidian-reporter": {
     "owner": "sinaayyy",
     "name": "claude-obsidian-reporter",
