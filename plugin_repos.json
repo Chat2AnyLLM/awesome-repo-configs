@@ -487,5 +487,14 @@
     "repoOwner": "bentleypark",
     "repoName": "claude-code-mobile-spine",
     "repoBranch": "main"
+  },
+  "explorium-ai/vibeprospecting-plugin": {
+    "name": "vibeprospecting",
+    "description": "Vibe Prospecting plugins for Claude Code — B2B data (150M+ businesses, 800M+ professionals), lead-list building, prospect enrichment, executive discovery, and multi-step GTM workflows via the Explorium MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "explorium-ai",
+    "repoName": "vibeprospecting-plugin",
+    "repoBranch": "main"
   }
 }
