@@ -32,3 +32,16 @@ Validates helper logic used by the incoming PR review workflow for:
 ```bash
 python3 tests/test_pr_review_config.py
 ```
+
+## test_readme_pr_reminder.py
+
+Validates helper logic used by the README reminder workflow for:
+
+1. **README Detection**: Checks that direct root README edits are detected
+2. **Comment Content**: Confirms the reminder links contributors to the contribution guide and valid config repo
+
+### Running Tests Locally
+
+```bash
+python3 tests/test_readme_pr_reminder.py
+```
