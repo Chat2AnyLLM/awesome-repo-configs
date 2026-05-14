@@ -10,7 +10,7 @@ import urllib.request
 
 API_URL = os.environ.get("GITHUB_API_URL", "https://api.github.com")
 COMMENT_MARKER = "<!-- awesome-repo-configs-readme-reminder -->"
-ROOT_README_PATHS_LOWERCASE = {"readme", "readme.md"}
+ROOT_README_PATH_LOWERCASE = "readme.md"
 CONTRIBUTING_URL = "https://github.com/Chat2AnyLLM/awesome-repo-configs/blob/main/CONTRIBUTING.md"
 REPO_URL = "https://github.com/Chat2AnyLLM/awesome-repo-configs"
 
@@ -60,9 +60,7 @@ def paginated(path, token):
 
 def changed_readme_directly(changed_files):
     """Return True only for direct edits to the repository root README files."""
-    return any(
-        item.get("filename", "").strip("/").lower() in ROOT_README_PATHS_LOWERCASE for item in changed_files
-    )
+    return any(item.get("filename", "").lower() == ROOT_README_PATH_LOWERCASE for item in changed_files)
 
 
 def build_comment():
