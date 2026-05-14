@@ -487,5 +487,14 @@
     "repoOwner": "bentleypark",
     "repoName": "claude-code-mobile-spine",
     "repoBranch": "main"
+  },
+  "Marazii/research-co-pilot": {
+    "name": "Marazii/research-co-pilot",
+    "description": "Comprehensive research co-pilot for Claude Code and claude.ai — 14 skills across the academic research lifecycle: literature review, methodology, ethics, data analysis, qualitative coding, manuscript drafting, replication, grants, talks, peer review, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Marazii",
+    "repoName": "research-co-pilot",
+    "repoBranch": "main"
   }
 }
