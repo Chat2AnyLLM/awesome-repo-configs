@@ -1,0 +1,29 @@
+name: Remind README PR Contributors
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - 'README.md'
+      - 'README'
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
+jobs:
+  remind-readme-contribution:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout trusted workflow code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Remind contributor to use config files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: python3 .github/scripts/remind_readme_contribution.py
