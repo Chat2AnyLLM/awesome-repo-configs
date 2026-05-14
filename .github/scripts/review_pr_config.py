@@ -267,6 +267,19 @@ def get_tree_paths(owner, repo, ref, token):
     return {item["path"] for item in data.get("tree", []) if item.get("type") == "blob"}, None
 
 
+def merge_pull_request(repository, pr_number, token):
+    status, data = api_request(
+        f"/repos/{repository}/pulls/{pr_number}/merge",
+        token,
+        method="PUT",
+        payload={"merge_method": "merge"},
+    )
+    if status == 405:
+        raise RuntimeError(data.get("message", "Pull request is not mergeable (conflicts, required checks, or branch protection rules may be blocking the merge)"))
+    if status >= 400:
+        raise RuntimeError(data.get("message", f"Unable to merge pull request: {status}"))
+
+
 def comment_on_pr(repository, pr_number, token, body):
     comments = paginated(f"/repos/{repository}/issues/{pr_number}/comments", token)
     existing = next((comment for comment in comments if COMMENT_MARKER in comment.get("body", "")), None)
@@ -385,7 +398,14 @@ def main():
     body = build_comment(errors, warnings, checked_entries, changed_config_files)
     comment_on_pr(repository, pr_number, token, body)
     print(body)
-    return 1 if errors else 0
+    if errors:
+        return 1
+    try:
+        merge_pull_request(repository, pr_number, token)
+        print("Pull request merged automatically.")
+    except RuntimeError as exc:
+        print(f"::warning::Auto-merge skipped: {exc}")
+    return 0
 
 
 if __name__ == "__main__":
