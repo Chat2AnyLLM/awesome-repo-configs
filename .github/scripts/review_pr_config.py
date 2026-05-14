@@ -4,7 +4,6 @@
 import base64
 import json
 import os
-import re
 import sys
 import urllib.error
 import urllib.parse
@@ -17,6 +16,7 @@ CONFIG_FILES = {
 }
 COMMENT_MARKER = "<!-- awesome-repo-configs-pr-review -->"
 API_URL = os.environ.get("GITHUB_API_URL", "https://api.github.com")
+PLUGIN_MANIFEST = ".claude-plugin/plugin.json"
 
 
 class DuplicateKeyError(ValueError):
@@ -53,6 +53,14 @@ def normalize_relative_path(value, field_name):
 
 def join_path(prefix, suffix):
     return f"{prefix}/{suffix}" if prefix else suffix
+
+
+def is_nested_skill_file(path, skills_root):
+    prefix = f"{skills_root}/" if skills_root else ""
+    if not path.startswith(prefix) or not path.endswith("/SKILL.md"):
+        return False
+    relative_path = path[len(prefix) :]
+    return relative_path.count("/") == 1
 
 
 def entry_repo_fields(config_file, entry):
@@ -112,12 +120,13 @@ def assess_plugin_standard(entry, tree_paths):
     plugin_path, path_errors = normalize_relative_path(entry.get("pluginPath"), "pluginPath")
     errors.extend(path_errors)
 
-    manifests = {path[: -len("/.claude-plugin/plugin.json")] for path in tree_paths if path.endswith("/.claude-plugin/plugin.json")}
-    if ".claude-plugin/plugin.json" in tree_paths:
+    manifest_suffix = f"/{PLUGIN_MANIFEST}"
+    manifests = {path.removesuffix(manifest_suffix) for path in tree_paths if path.endswith(manifest_suffix)}
+    if PLUGIN_MANIFEST in tree_paths:
         manifests.add("")
 
     if plugin_path:
-        if join_path(plugin_path, ".claude-plugin/plugin.json") not in tree_paths:
+        if join_path(plugin_path, PLUGIN_MANIFEST) not in tree_paths:
             errors.append("Claude Code plugins require `.claude-plugin/plugin.json` at the configured `pluginPath`.")
             return errors, warnings
         roots = [plugin_path]
@@ -131,7 +140,7 @@ def assess_plugin_standard(entry, tree_paths):
         has_component = any(
             path.startswith(join_path(root, "commands/")) and path.endswith(".md")
             or path.startswith(join_path(root, "agents/")) and path.endswith(".md")
-            or re.match(rf"^{re.escape(join_path(root, 'skills'))}/[^/]+/SKILL\.md$", path)
+            or is_nested_skill_file(path, join_path(root, "skills"))
             or path == join_path(root, "hooks/hooks.json")
             or path == join_path(root, ".mcp.json")
             for path in tree_paths
@@ -150,8 +159,7 @@ def assess_skill_standard(entry, tree_paths):
 
     if skills_path:
         direct_skill = join_path(skills_path, "SKILL.md")
-        nested_skill = re.compile(rf"^{re.escape(skills_path)}/[^/]+/SKILL\.md$")
-        if direct_skill not in tree_paths and not any(nested_skill.match(path) for path in tree_paths):
+        if direct_skill not in tree_paths and not any(is_nested_skill_file(path, skills_path) for path in tree_paths):
             errors.append("Claude Code skills require `SKILL.md` at `skillsPath` or in skill subdirectories.")
     else:
         skill_files = [path for path in tree_paths if path.endswith("SKILL.md")]
