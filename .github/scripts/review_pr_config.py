@@ -157,7 +157,7 @@ def assess_skill_standard(entry, tree_paths):
         skill_files = [path for path in tree_paths if path.endswith("SKILL.md")]
         if not skill_files:
             errors.append("No Claude Code skill found. Expected at least one `SKILL.md` file.")
-        elif not any("/skills/" in f"/{path}" or path == "SKILL.md" for path in skill_files):
+        elif not any(path.startswith("skills/") or "/skills/" in path or path == "SKILL.md" for path in skill_files):
             warnings.append("Found `SKILL.md`, but the standard layout uses `skills/<skill-name>/SKILL.md`.")
 
     return errors, warnings
