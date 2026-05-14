@@ -23,6 +23,9 @@ class ReadmePrReminderTests(unittest.TestCase):
             )
         )
 
+    def test_ignores_nested_readme_changes(self):
+        self.assertFalse(REMINDER.changed_readme_directly([{"filename": "docs/README.md"}]))
+
     def test_build_comment_includes_guide_and_repo_links(self):
         comment = REMINDER.build_comment()
         self.assertIn("CONTRIBUTING.md", comment)
