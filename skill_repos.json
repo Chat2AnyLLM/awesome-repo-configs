@@ -290,5 +290,12 @@
     "branch": "main",
     "skillsPath": "skills",
     "enabled": true
+  },
+  "epiral/bb-browser": {
+    "owner": "epiral",
+    "name": "bb-browser",
+    "branch": "main",
+    "skillsPath": "skills",
+    "enabled": true
   }
 }
