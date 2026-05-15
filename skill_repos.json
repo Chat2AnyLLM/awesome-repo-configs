@@ -297,5 +297,11 @@
     "branch": "main",
     "skillsPath": "skills",
     "enabled": true
+  },
+  "yehudalevy-collab/polis-protocol": {
+    "owner": "yehudalevy-collab",
+    "name": "polis-protocol",
+    "branch": "main",
+    "enabled": true
   }
 }
