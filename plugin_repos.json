@@ -28,7 +28,7 @@
   },
   "microsoft-docs-mcp": {
     "name": "microsoft-docs-mcp",
-    "description": "Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples",
+    "description": "Official Microsoft Learn MCP Server \u2013 powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "MicrosoftDocs",
@@ -237,14 +237,14 @@
     "repoName": "claude-mem"
   },
   "claude-code-lsps": {
-  "name": "claude-code-lsps",
-  "description": "A collection of Language Server Protocol (LSP) configurations and tools optimized for Claude Code",
-  "enabled": true,
-  "type": "marketplace",
-  "repoOwner": "Piebald-AI",
-  "repoName": "claude-code-lsps",
-  "repoBranch": "main"
-},
+    "name": "claude-code-lsps",
+    "description": "A collection of Language Server Protocol (LSP) configurations and tools optimized for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Piebald-AI",
+    "repoName": "claude-code-lsps",
+    "repoBranch": "main"
+  },
   "claude-code-plugins": {
     "name": "claude-code-plugins",
     "description": "Bundled plugins for Claude Code including Agent SDK development tools, PR review toolkit, and commit workflows",
@@ -319,7 +319,7 @@
   },
   "Rich627/whatsapp-claude-plugin": {
     "name": "Rich627/whatsapp-claude-plugin",
-    "description": "Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control.",
+    "description": "Claude Code WhatsApp channel plugin \u2014 run AI directly from WhatsApp, voice transcription, remote tool approval, access control.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "Rich627",
@@ -382,7 +382,7 @@
   },
   "ammawla/encode-toolkit": {
     "name": "ammawla/encode-toolkit",
-    "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments.",
+    "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit \u2014 search, download, track, and analyze functional genomics experiments.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "ammawla",
@@ -391,7 +391,7 @@
   },
   "chopratejas/vitals": {
     "name": "chopratejas/vitals",
-    "description": "Codebase vital signs for Claude Code — finds hotspots, diagnoses root causes, ranks fixes by ROI.",
+    "description": "Codebase vital signs for Claude Code \u2014 finds hotspots, diagnoses root causes, ranks fixes by ROI.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "chopratejas",
@@ -409,7 +409,7 @@
   },
   "researchaudio/voicebrief-plugin": {
     "name": "researchaudio/voicebrief-plugin",
-    "description": "Claude Code plugin — Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors.",
+    "description": "Claude Code plugin \u2014 Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "researchaudio",
@@ -418,7 +418,7 @@
   },
   "ArcBlock/myvibe-skills": {
     "name": "ArcBlock/myvibe-skills",
-    "description": "MyVibe Skills — AI-powered web page creation and MyVibe publishing capabilities.",
+    "description": "MyVibe Skills \u2014 AI-powered web page creation and MyVibe publishing capabilities.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "ArcBlock",
@@ -481,7 +481,7 @@
   },
   "bentleypark/claude-code-mobile-spine": {
     "name": "bentleypark/claude-code-mobile-spine",
-    "description": "Claude Code plugin marketplace bundling mobile-spine — scaffolds a meta-repo coordinating 4 subagents (api/pm/android/ios) for mobile teams whose Android, iOS, and Backend live in 3 separate repos.",
+    "description": "Claude Code plugin marketplace bundling mobile-spine \u2014 scaffolds a meta-repo coordinating 4 subagents (api/pm/android/ios) for mobile teams whose Android, iOS, and Backend live in 3 separate repos.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "bentleypark",
@@ -490,7 +490,7 @@
   },
   "explorium-ai/vibeprospecting-plugin": {
     "name": "vibeprospecting",
-    "description": "Vibe Prospecting plugins for Claude Code — B2B data (150M+ businesses, 800M+ professionals), lead-list building, prospect enrichment, executive discovery, and multi-step GTM workflows via the Explorium MCP.",
+    "description": "Vibe Prospecting plugins for Claude Code \u2014 B2B data (150M+ businesses, 800M+ professionals), lead-list building, prospect enrichment, executive discovery, and multi-step GTM workflows via the Explorium MCP.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "explorium-ai",
@@ -499,11 +499,20 @@
   },
   "Marazii/research-co-pilot": {
     "name": "Marazii/research-co-pilot",
-    "description": "Comprehensive research co-pilot for Claude Code and claude.ai — 14 skills across the academic research lifecycle: literature review, methodology, ethics, data analysis, qualitative coding, manuscript drafting, replication, grants, talks, peer review, and more.",
+    "description": "Comprehensive research co-pilot for Claude Code and claude.ai \u2014 14 skills across the academic research lifecycle: literature review, methodology, ethics, data analysis, qualitative coding, manuscript drafting, replication, grants, talks, peer review, and more.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "Marazii",
     "repoName": "research-co-pilot",
+    "repoBranch": "main"
+  },
+  "pluginpool": {
+    "name": "pluginpool",
+    "description": "Ten focused Claude Code plugins for everyday developer productivity (commit-narrator, pr-storyteller, test-gap, deps-doctor, env-lint, secret-guard, standup-gen, todo-harvest, flaky-detector, changelog-forge). 89 hermetic tests, Python stdlib only at runtime, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mturac",
+    "repoName": "pluginpool",
     "repoBranch": "main"
   }
 }
