@@ -303,5 +303,11 @@
     "name": "polis-protocol",
     "branch": "main",
     "enabled": true
+  },
+  "mturac/recsys-pipeline-architect": {
+    "owner": "mturac",
+    "name": "recsys-pipeline-architect",
+    "branch": "main",
+    "enabled": true
   }
 }
