@@ -514,5 +514,14 @@
     "repoOwner": "mturac",
     "repoName": "pluginpool",
     "repoBranch": "main"
+  },
+  "nvwalj-memory-pack": {
+    "name": "nvwalj-memory-pack",
+    "description": "Six battle-tested slash commands for daily Claude Code workflow: /scope (5-step planning before coding), /review (security to correctness to performance), /explain-this, /postmortem, /upgrade-deps, /release-notes. Hand-written, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nvwalj",
+    "repoName": "claude-code-memory-pack",
+    "repoBranch": "main"
   }
 }
