@@ -17,6 +17,7 @@ CONFIG_FILES = {
 COMMENT_MARKER = "<!-- awesome-repo-configs-pr-review -->"
 API_URL = os.environ.get("GITHUB_API_URL", "https://api.github.com")
 PLUGIN_MANIFEST = ".claude-plugin/plugin.json"
+MARKETPLACE_MANIFEST = ".claude-plugin/marketplace.json"
 
 
 class DuplicateKeyError(ValueError):
@@ -120,20 +121,21 @@ def assess_plugin_standard(entry, tree_paths):
     plugin_path, path_errors = normalize_relative_path(entry.get("pluginPath"), "pluginPath")
     errors.extend(path_errors)
 
-    manifest_suffix = f"/{PLUGIN_MANIFEST}"
+    manifest_name = MARKETPLACE_MANIFEST if entry.get("type") == "marketplace" else PLUGIN_MANIFEST
+    manifest_suffix = f"/{manifest_name}"
     manifests = {path.removesuffix(manifest_suffix) for path in tree_paths if path.endswith(manifest_suffix)}
-    if PLUGIN_MANIFEST in tree_paths:
+    if manifest_name in tree_paths:
         manifests.add("")
 
     if plugin_path:
-        if join_path(plugin_path, PLUGIN_MANIFEST) not in tree_paths:
-            errors.append("Claude Code plugins require `.claude-plugin/plugin.json` at the configured `pluginPath`.")
+        if join_path(plugin_path, manifest_name) not in tree_paths:
+            errors.append(f"Claude Code plugins require `{manifest_name}` at the configured `pluginPath`.")
             return errors, warnings
         roots = [plugin_path]
     else:
         roots = sorted(manifests)
         if not roots:
-            errors.append("No Claude Code plugin manifest found. Expected `.claude-plugin/plugin.json` under the plugin root.")
+            errors.append(f"No Claude Code plugin manifest found. Expected `{manifest_name}` under the plugin root.")
             return errors, warnings
 
     for root in roots:
