@@ -110,7 +110,7 @@ def validate_entry_schema(config_file, key, entry):
 
     owner, repo, _ = entry_repo_fields(config_file, entry)
     if isinstance(owner, str) and isinstance(repo, str) and key != f"{owner}/{repo}":
-        warnings.append(f"`{key}` does not match `{owner}/{repo}`.")
+        warnings.append(f"`{key}` does not match `{owner}/{repo}`. Consider renaming the entry key to `{owner}/{repo}` for consistency.")
 
     return errors, warnings
 
