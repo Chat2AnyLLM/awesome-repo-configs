@@ -13,6 +13,9 @@ on:
       pr_number:
         description: 'Pull request number to review'
         required: true
+  push:
+    branches:
+      - copilot/run-review-again
 
 permissions:
   contents: write
@@ -31,6 +34,6 @@ jobs:
       - name: Review submitted repo config changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number || '29' }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python3 .github/scripts/review_pr_config.py
