@@ -523,5 +523,14 @@
     "repoOwner": "nvwalj",
     "repoName": "claude-code-memory-pack",
     "repoBranch": "main"
+  },
+  "archcore-plugins": {
+    "name": "archcore-plugins",
+    "description": "Archcore plugins for AI coding agents — make your AI code with your project's architecture, rules, and decisions. Git-native context engineering across Claude Code, Cursor, and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "archcore-ai",
+    "repoName": "plugin",
+    "repoBranch": "main"
   }
 }
