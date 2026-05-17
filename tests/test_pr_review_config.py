@@ -35,6 +35,27 @@ class ReviewPrConfigTests(unittest.TestCase):
         self.assertEqual([], errors)
         self.assertEqual([], warnings)
 
+    def test_marketplace_plugin_standard_accepts_marketplace_manifest(self):
+        entry = {"pluginPath": "plugins/example", "type": "marketplace"}
+        errors, warnings = REVIEW.assess_plugin_standard(
+            entry,
+            {
+                "plugins/example/.claude-plugin/marketplace.json",
+                "plugins/example/skills/review/SKILL.md",
+            },
+        )
+        self.assertEqual([], errors)
+        self.assertEqual([], warnings)
+
+    def test_standard_plugin_still_requires_plugin_manifest(self):
+        entry = {"pluginPath": "plugins/example", "type": "plugin"}
+        errors, warnings = REVIEW.assess_plugin_standard(
+            entry,
+            {"plugins/example/.claude-plugin/marketplace.json"},
+        )
+        self.assertIn("Claude Code plugins require `.claude-plugin/plugin.json`", errors[0])
+        self.assertEqual([], warnings)
+
     def test_skill_standard_accepts_nested_skill(self):
         entry = {"skillsPath": "skills"}
         errors, warnings = REVIEW.assess_skill_standard(entry, {"skills/review/SKILL.md"})
