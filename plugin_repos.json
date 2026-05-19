@@ -541,5 +541,14 @@
     "repoOwner": "3dnow",
     "repoName": "claude-link",
     "repoBranch": "main"
+  },
+  "harness-maker": {
+    "name": "harness-maker",
+    "description": "Interview-shaped, grade-gated AI coding harness for Claude Code · Cursor · Codex. Project profiler + 10-dim interview, edit-preserving block-merge upgrades, anti-rot crawlers, worktree isolation, AI-readiness rubric with ranked improvement actions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ecro",
+    "repoName": "harness-maker",
+    "repoBranch": "main"
   }
 }
