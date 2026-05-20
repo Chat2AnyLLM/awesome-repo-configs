@@ -309,5 +309,12 @@
     "name": "recsys-pipeline-architect",
     "branch": "main",
     "enabled": true
+  },
+  "Sequenzy/skills": {
+    "owner": "Sequenzy",
+    "name": "skills",
+    "branch": "main",
+    "skillsPath": "skills",
+    "enabled": true
   }
 }
