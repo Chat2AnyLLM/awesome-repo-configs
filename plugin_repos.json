@@ -550,5 +550,14 @@
     "repoOwner": "Ecro",
     "repoName": "harness-maker",
     "repoBranch": "main"
+  },
+  "vibeworkload": {
+    "name": "vibeworkload",
+    "description": "Render a single anonymized PNG of your Claude Code workload (messages, tool calls, tokens, active hours) over the last N hours. Local-only; nothing leaves the machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "3dnow",
+    "repoName": "vibeworkload",
+    "repoBranch": "main"
   }
 }
