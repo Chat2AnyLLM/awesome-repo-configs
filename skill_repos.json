@@ -1,4 +1,10 @@
 {
+  "ndesv21/socialclaw": {
+    "owner": "ndesv21",
+    "name": "socialclaw",
+    "branch": "main",
+    "enabled": true
+  },
   "K-Dense-AI/claude-scientific-skills": {
     "owner": "K-Dense-AI",
     "name": "claude-scientific-skills",
