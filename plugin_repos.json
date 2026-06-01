@@ -568,5 +568,14 @@
     "repoOwner": "ggrigo",
     "repoName": "align",
     "repoBranch": "main"
+  },
+  "claude-bridge": {
+    "name": "claude-bridge",
+    "description": "A Claude Code plugin that drives a browser when a task needs the web: your logged-in Chrome via the Claude in Chrome extension, or a bundled headless browser for public lookups. Runs autonomously and reports back in the terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Stigmavlc",
+    "repoName": "claude-bridge",
+    "repoBranch": "main"
   }
 }
