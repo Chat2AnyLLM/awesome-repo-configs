@@ -352,5 +352,11 @@
         "name": "doc2math-skill",
         "branch": "main",
         "enabled": true
+    },
+    "xvary-research/claude-code-stock-analysis-skill": {
+        "owner": "xvary-research",
+        "name": "claude-code-stock-analysis-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
