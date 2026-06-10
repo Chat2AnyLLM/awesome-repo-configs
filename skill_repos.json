@@ -364,5 +364,11 @@
         "name": "taste-scorer",
         "branch": "main",
         "enabled": true
+    },
+    "openapi/openapi-skills": {
+        "owner": "openapi",
+        "name": "openapi-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

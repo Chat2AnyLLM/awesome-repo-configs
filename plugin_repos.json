@@ -604,5 +604,14 @@
     "repoOwner": "innovestrum",
     "repoName": "keelson",
     "repoBranch": "main"
+  },
+  "openapi-skills": {
+    "name": "openapi-skills",
+    "description": "Official Openapi marketplace plugin: 11 agent skills for the Openapi API platform - company data, official documents, KYC/risk, verification, geo data, messaging, e-signatures, e-invoicing, automotive and utilities.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "openapi",
+    "repoName": "openapi-skills",
+    "repoBranch": "main"
   }
 }
