@@ -622,5 +622,14 @@
     "repoOwner": "SergeiGorbatiuk",
     "repoName": "startup-superpowers",
     "repoBranch": "main"
+  },
+  "kreuzberg": {
+    "name": "kreuzberg",
+    "description": "Claude Code plugin marketplace for Kreuzberg document intelligence, Kreuzberg Cloud extraction, and kreuzcrawl web crawling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kreuzberg-dev",
+    "repoName": "plugins",
+    "repoBranch": "main"
   }
 }
