@@ -613,5 +613,14 @@
     "repoOwner": "openapi",
     "repoName": "openapi-skills",
     "repoBranch": "main"
+  },
+  "startup-superpowers": {
+    "name": "startup-superpowers",
+    "description": "Local-first startup advisor for Claude Code: competitor discovery, market research, hypothesis tracking, customer interviews, surveys, and MVP design — all as plain markdown files in your project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SergeiGorbatiuk",
+    "repoName": "startup-superpowers",
+    "repoBranch": "main"
   }
 }
