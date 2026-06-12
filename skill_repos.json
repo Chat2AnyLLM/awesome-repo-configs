@@ -377,5 +377,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "mantoufan/seedance-prompts-skill": {
+        "owner": "mantoufan",
+        "name": "seedance-prompts-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
