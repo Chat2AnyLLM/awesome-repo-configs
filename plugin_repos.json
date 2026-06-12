@@ -640,5 +640,14 @@
     "repoOwner": "mantoufan",
     "repoName": "seedance-prompts-skill",
     "repoBranch": "main"
+  },
+  "dos-kernel": {
+    "name": "dos-kernel",
+    "description": "Trust kernel for AI-agent fleets, packaged as a Claude Code plugin marketplace: hooks that verify \"done\" claims against git evidence, refuse file collisions between concurrent agents, and audit commit claims vs their own diffs; bundles the dos MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anthony-chaudhary",
+    "repoName": "dos-kernel",
+    "repoBranch": "master"
   }
 }
