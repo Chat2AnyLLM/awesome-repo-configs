@@ -631,5 +631,14 @@
     "repoOwner": "kreuzberg-dev",
     "repoName": "plugins",
     "repoBranch": "main"
+  },
+  "seedance-prompts": {
+    "name": "seedance-prompts",
+    "description": "Idea→screenplay→AI-video-prompt pipeline Claude Skill/plugin for Seedance 2.0 (Doubao/Jimeng). Distills Douyin creator tutorials into cinematic-language, prompt-engineering, realism keyword libraries + a 50–100 episode short-drama screenwriting module.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mantoufan",
+    "repoName": "seedance-prompts-skill",
+    "repoBranch": "main"
   }
 }
