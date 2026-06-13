@@ -658,5 +658,14 @@
     "repoOwner": "MrBogomips",
     "repoName": "agentic-harness",
     "repoBranch": "main"
+  },
+  "codex-helper": {
+    "name": "codex-helper",
+    "description": "Non-blocking Claude <-> Codex orchestration for Claude Code: multi-turn review dialogues, aspect-based code reviews, and Codex implementation jobs in isolated git worktrees, exposed as MCP tools plus slash commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "toniles",
+    "repoName": "codex-helper-plugin",
+    "repoBranch": "main"
   }
 }
