@@ -649,5 +649,14 @@
     "repoOwner": "anthony-chaudhary",
     "repoName": "dos-kernel",
     "repoBranch": "master"
+  },
+  "agentic-harness": {
+    "name": "agentic-harness",
+    "description": "Claude Code plugin that builds, reviews, and maintains a project's agentic harness — the agents, skills, and orchestrator under .claude/. Coordinates with existing spec-driven-development systems and issue trackers instead of reinventing them, and can sync a repo-native tracker with Jira/Linear.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MrBogomips",
+    "repoName": "agentic-harness",
+    "repoBranch": "main"
   }
 }
