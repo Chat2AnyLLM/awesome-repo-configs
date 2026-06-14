@@ -384,5 +384,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "alexconner-79/ill-communication": {
+        "owner": "alexconner-79",
+        "name": "ill-communication",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
