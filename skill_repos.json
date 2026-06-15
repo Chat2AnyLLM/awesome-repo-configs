@@ -391,5 +391,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "YujxZJCN/teaching-skills": {
+        "owner": "YujxZJCN",
+        "name": "teaching-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
