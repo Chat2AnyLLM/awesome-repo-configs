@@ -398,5 +398,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "maxbaluev/accreted-intelligence": {
+        "owner": "maxbaluev",
+        "name": "accreted-intelligence",
+        "branch": "main",
+        "skillsPath": "plugins/claude/skills",
+        "enabled": true
     }
 }
