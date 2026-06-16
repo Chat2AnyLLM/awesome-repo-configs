@@ -283,6 +283,12 @@
         "branch": "main",
         "enabled": true
     },
+    "swaylq/humanize-chinese": {
+        "owner": "swaylq",
+        "name": "humanize-chinese",
+        "branch": "main",
+        "enabled": true
+    },
     "takechanman1228/claude-persona": {
         "owner": "takechanman1228",
         "name": "claude-persona",
