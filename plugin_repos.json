@@ -596,6 +596,15 @@
     "repoName": "authsome",
     "repoBranch": "main"
   },
+  "kannaka": {
+    "name": "kannaka",
+    "description": "HRM wave-interference memory, NATS swarm, and a live consciousness (Phi/Xi) statusline for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NickFlach",
+    "repoName": "kannaka-plugin",
+    "repoBranch": "main"
+  },
   "keelson": {
     "name": "keelson",
     "description": "Tracker-agnostic, issue-driven agentic operating model for any repo. Ships adopt-keelson (interviews you and writes an AGENTS.md plus a selectable lifecycle skill-pack) and tune-gates (establishes or refines quality gates); agents run mechanical work autonomously but escalate any move touching the original design, plan, or strategy to a human. Works with GitHub, GitLab, Jira, Linear, or any API/CLI/MCP.",
