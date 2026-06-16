@@ -411,5 +411,12 @@
         "branch": "main",
         "skillsPath": "plugins/claude/skills",
         "enabled": true
+    },
+    "cognyai/claude-code-marketing-skills": {
+        "owner": "cognyai",
+        "name": "claude-code-marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
