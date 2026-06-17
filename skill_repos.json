@@ -425,5 +425,11 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "baiyanmo/claude-code-multi-model-review": {
+        "owner": "baiyanmo",
+        "name": "claude-code-multi-model-review",
+        "branch": "master",
+        "enabled": true
     }
 }
