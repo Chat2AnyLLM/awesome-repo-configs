@@ -445,5 +445,11 @@
         "name": "claude-code-multi-model-review",
         "branch": "master",
         "enabled": true
+    },
+    "oleksbard/claude-find-skill": {
+        "owner": "oleksbard",
+        "name": "claude-find-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
