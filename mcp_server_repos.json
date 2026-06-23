@@ -1,0 +1,2502 @@
+{
+  "21st-dev/magic-mcp": {
+    "owner": "21st-dev",
+    "name": "magic-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "magic-mcp"
+  },
+  "302ai/302_sandbox_mcp": {
+    "owner": "302ai",
+    "name": "302_sandbox_mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "sandbox-mcp"
+  },
+  "4everland/4everland-hosting-mcp": {
+    "owner": "4everland",
+    "name": "4everland-hosting-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "4everland-hosting-mcp"
+  },
+  "66julienmartin/MCP-server-Deepseek_R1": {
+    "owner": "66julienmartin",
+    "name": "MCP-server-Deepseek_R1",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "deepseek-r1"
+  },
+  "66julienmartin/MCP-server-Qwen_Max": {
+    "owner": "66julienmartin",
+    "name": "MCP-server-Qwen_Max",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "qwen-max"
+  },
+  "AI-QL/chat-mcp": {
+    "owner": "AI-QL",
+    "name": "chat-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "chatmcp"
+  },
+  "Adfin-Engineering/mcp-server-adfin": {
+    "owner": "Adfin-Engineering",
+    "name": "mcp-server-adfin",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-adfin"
+  },
+  "AgentDeskAI/browser-tools-mcp": {
+    "owner": "AgentDeskAI",
+    "name": "browser-tools-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "browser-tools-mcp",
+    "subPath": "browser-tools-mcp"
+  },
+  "Aiven-Open/mcp-aiven": {
+    "owner": "Aiven-Open",
+    "name": "mcp-aiven",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-aiven"
+  },
+  "Arize-ai/phoenix": {
+    "owner": "Arize-ai",
+    "name": "phoenix",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "phoenix-mcp",
+    "subPath": "js/packages/phoenix-mcp"
+  },
+  "AshDevFr/discourse-mcp-server": {
+    "owner": "AshDevFr",
+    "name": "discourse-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "discourse"
+  },
+  "AudienseCo/mcp-audiense-insights": {
+    "owner": "AudienseCo",
+    "name": "mcp-audiense-insights",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "mcp-audiense-insights",
+    "note": "archived"
+  },
+  "Automata-Labs-team/code-sandbox-mcp": {
+    "owner": "Automata-Labs-team",
+    "name": "code-sandbox-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "code-sandbox-mcp"
+  },
+  "Boston343/starwind-ui-mcp": {
+    "owner": "Boston343",
+    "name": "starwind-ui-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "starwind-ui"
+  },
+  "CartographAI/atlas-docs-mcp": {
+    "owner": "CartographAI",
+    "name": "atlas-docs-mcp",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "atlas-docs-mcp"
+  },
+  "ChristianHinge/dicom-mcp": {
+    "owner": "ChristianHinge",
+    "name": "dicom-mcp",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "dicom"
+  },
+  "ChristophEnglisch/keycloak-model-context-protocol": {
+    "owner": "ChristophEnglisch",
+    "name": "keycloak-model-context-protocol",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "keycloak-mcp"
+  },
+  "ChronulusAI/chronulus-mcp": {
+    "owner": "ChronulusAI",
+    "name": "chronulus-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "chronulus-mcp"
+  },
+  "CircleCI-Public/mcp-server-circleci": {
+    "owner": "CircleCI-Public",
+    "name": "mcp-server-circleci",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-circleci"
+  },
+  "ClickHouse/mcp-clickhouse": {
+    "owner": "ClickHouse",
+    "name": "mcp-clickhouse",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-clickhouse"
+  },
+  "CoderGamester/mcp-unity": {
+    "owner": "CoderGamester",
+    "name": "mcp-unity",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "unity3d-game-engine"
+  },
+  "Coding-Solo/godot-mcp": {
+    "owner": "Coding-Solo",
+    "name": "godot-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "godot"
+  },
+  "ConechoAI/openai-websearch-mcp": {
+    "owner": "ConechoAI",
+    "name": "openai-websearch-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "openai-websearch-mcp"
+  },
+  "DMontgomery40/deepseek-mcp-server": {
+    "owner": "DMontgomery40",
+    "name": "deepseek-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "deepseek-mcp-server"
+  },
+  "Dhravya/apple-mcp": {
+    "owner": "Dhravya",
+    "name": "apple-mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "apple-mcp",
+    "note": "archived"
+  },
+  "EduBase/MCP": {
+    "owner": "EduBase",
+    "name": "MCP",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "edubase"
+  },
+  "EnesCinr/twitter-mcp": {
+    "owner": "EnesCinr",
+    "name": "twitter-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "twitter-mcp"
+  },
+  "Fewsats/fewsats-mcp": {
+    "owner": "Fewsats",
+    "name": "fewsats-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "fewsats-mcp"
+  },
+  "Fibery-inc/fibery-mcp-server": {
+    "owner": "Fibery-inc",
+    "name": "fibery-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "fibery-mcp-server"
+  },
+  "Flux159/mcp-server-kubernetes": {
+    "owner": "Flux159",
+    "name": "mcp-server-kubernetes",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "kubernetes"
+  },
+  "GLips/Figma-Context-MCP": {
+    "owner": "GLips",
+    "name": "Figma-Context-MCP",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "figma"
+  },
+  "GoPlausible/algorand-mcp": {
+    "owner": "GoPlausible",
+    "name": "algorand-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "algorand"
+  },
+  "GongRzhe/Calendar-Autoauth-MCP-Server": {
+    "owner": "GongRzhe",
+    "name": "Calendar-Autoauth-MCP-Server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "calendar",
+    "note": "archived"
+  },
+  "GongRzhe/Gmail-MCP-Server": {
+    "owner": "GongRzhe",
+    "name": "Gmail-MCP-Server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "gmail",
+    "note": "archived"
+  },
+  "GongRzhe/Image-Generation-MCP-Server": {
+    "owner": "GongRzhe",
+    "name": "Image-Generation-MCP-Server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "image-generation",
+    "note": "archived"
+  },
+  "GongRzhe/JSON-MCP-Server": {
+    "owner": "GongRzhe",
+    "name": "JSON-MCP-Server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "json",
+    "note": "archived"
+  },
+  "GongRzhe/Langflow-DOC-QA-SERVER": {
+    "owner": "GongRzhe",
+    "name": "Langflow-DOC-QA-SERVER",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "langflow-doc-qa-server",
+    "note": "archived"
+  },
+  "GongRzhe/Quickchart-MCP-Server": {
+    "owner": "GongRzhe",
+    "name": "Quickchart-MCP-Server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "quickchart",
+    "note": "archived"
+  },
+  "GongRzhe/TRAVEL-PLANNER-MCP-Server": {
+    "owner": "GongRzhe",
+    "name": "TRAVEL-PLANNER-MCP-Server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "travel-planner",
+    "note": "archived"
+  },
+  "GongRzhe/terminal-controller-mcp": {
+    "owner": "GongRzhe",
+    "name": "terminal-controller-mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "terminal-control",
+    "note": "archived"
+  },
+  "GreptimeTeam/greptimedb": {
+    "owner": "GreptimeTeam",
+    "name": "greptimedb",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "greptimedb"
+  },
+  "GreptimeTeam/greptimedb-mcp-server": {
+    "owner": "GreptimeTeam",
+    "name": "greptimedb-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "greptimedb-mcp-server"
+  },
+  "IBM/wxflows": {
+    "owner": "IBM",
+    "name": "wxflows",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "wxflows",
+    "subPath": "examples/mcp"
+  },
+  "JetBrains/mcp-jetbrains": {
+    "owner": "JetBrains",
+    "name": "mcp-jetbrains",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-jetbrains"
+  },
+  "JexinSam/mssql_mcp_server": {
+    "owner": "JexinSam",
+    "name": "mssql_mcp_server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mssql"
+  },
+  "Laksh-star/mcp-server-tmdb": {
+    "owner": "Laksh-star",
+    "name": "mcp-server-tmdb",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "tmdb"
+  },
+  "LaurieWired/GhidraMCP": {
+    "owner": "LaurieWired",
+    "name": "GhidraMCP",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ghidra-mcp"
+  },
+  "MFYDev/ghost-mcp": {
+    "owner": "MFYDev",
+    "name": "ghost-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ghost"
+  },
+  "Machine-To-Machine/f1-mcp-server": {
+    "owner": "Machine-To-Machine",
+    "name": "f1-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "f1-mcp-server"
+  },
+  "Machine-To-Machine/m2m-mcp-server-ssh-client": {
+    "owner": "Machine-To-Machine",
+    "name": "m2m-mcp-server-ssh-client",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "m2m-ssh-gateway"
+  },
+  "MarkusPfundstein/mcp-gsuite": {
+    "owner": "MarkusPfundstein",
+    "name": "mcp-gsuite",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-gsuite"
+  },
+  "MarkusPfundstein/mcp-obsidian": {
+    "owner": "MarkusPfundstein",
+    "name": "mcp-obsidian",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-obsidian"
+  },
+  "MindscapeHQ/mcp-server-raygun": {
+    "owner": "MindscapeHQ",
+    "name": "mcp-server-raygun",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-raygun"
+  },
+  "MiniMax-AI/MiniMax-MCP": {
+    "owner": "MiniMax-AI",
+    "name": "MiniMax-MCP",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "minimax-mcp"
+  },
+  "MxIris-Reverse-Engineering/ida-mcp-server": {
+    "owner": "MxIris-Reverse-Engineering",
+    "name": "ida-mcp-server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "ida-mcp",
+    "note": "archived"
+  },
+  "OctagonAI/octagon-mcp-server": {
+    "owner": "OctagonAI",
+    "name": "octagon-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "octagon-mcp-server"
+  },
+  "Omedia/mcp-server-drupal": {
+    "owner": "Omedia",
+    "name": "mcp-server-drupal",
+    "branch": "develop",
+    "enabled": true,
+    "serverName": "drupal"
+  },
+  "ProgramComputer/NASA-MCP-server": {
+    "owner": "ProgramComputer",
+    "name": "NASA-MCP-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "nasa"
+  },
+  "RamXX/mcp-tavily": {
+    "owner": "RamXX",
+    "name": "mcp-tavily",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "tavily-search",
+    "note": "archived"
+  },
+  "Saik0s/mcp-browser-use": {
+    "owner": "Saik0s",
+    "name": "mcp-browser-use",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-browser-use"
+  },
+  "Selenium39/mcp-server-weibo": {
+    "owner": "Selenium39",
+    "name": "mcp-server-weibo",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "mcp-server-weibo"
+  },
+  "ShenghaiWang/xcodebuild": {
+    "owner": "ShenghaiWang",
+    "name": "xcodebuild",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "xcodebuild"
+  },
+  "Shopify/dev-mcp": {
+    "owner": "Shopify",
+    "name": "dev-mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "shopify-dev",
+    "note": "unreachable: HTTP 404"
+  },
+  "Simon-Kansara/ableton-live-mcp-server": {
+    "owner": "Simon-Kansara",
+    "name": "ableton-live-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ableton-live"
+  },
+  "SimonB97/win-cli-mcp-server": {
+    "owner": "SimonB97",
+    "name": "win-cli-mcp-server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "windows-cli",
+    "note": "archived"
+  },
+  "Spathodea-Network/opencti-mcp": {
+    "owner": "Spathodea-Network",
+    "name": "opencti-mcp",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "opencti"
+  },
+  "StarRocks/mcp-server-starrocks": {
+    "owner": "StarRocks",
+    "name": "mcp-server-starrocks",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-starrocks"
+  },
+  "StevenStavrakis/obsidian-mcp": {
+    "owner": "StevenStavrakis",
+    "name": "obsidian-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "obsidian-mcp"
+  },
+  "TencentEdgeOne/edgeone-pages-mcp": {
+    "owner": "TencentEdgeOne",
+    "name": "edgeone-pages-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "edgeone-pages-mcp"
+  },
+  "Unstructured-IO/UNS-MCP": {
+    "owner": "Unstructured-IO",
+    "name": "UNS-MCP",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "uns-mcp"
+  },
+  "VectorInstitute/mcp-goodnews": {
+    "owner": "VectorInstitute",
+    "name": "mcp-goodnews",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "goodnews"
+  },
+  "Verodat/verodat-mcp-server": {
+    "owner": "Verodat",
+    "name": "verodat-mcp-server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "verodat-mcp-server",
+    "note": "unreachable: HTTP 404"
+  },
+  "VeyraX/veyrax-mcp": {
+    "owner": "VeyraX",
+    "name": "veyrax-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "veyrax-mcp"
+  },
+  "XGenerationLab/xiyan_mcp_server": {
+    "owner": "XGenerationLab",
+    "name": "xiyan_mcp_server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "xiyan-mcp-server"
+  },
+  "XeroAPI/xero-mcp-server": {
+    "owner": "XeroAPI",
+    "name": "xero-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "xero-mcp-server"
+  },
+  "Xquik-dev/x-twitter-scraper": {
+    "owner": "Xquik-dev",
+    "name": "x-twitter-scraper",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "xquik"
+  },
+  "YanxingLiu/dify-mcp-server": {
+    "owner": "YanxingLiu",
+    "name": "dify-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "dify"
+  },
+  "YuChenSSR/mindmap-mcp-server": {
+    "owner": "YuChenSSR",
+    "name": "mindmap-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mindmap"
+  },
+  "ZilongXue/claude-post": {
+    "owner": "ZilongXue",
+    "name": "claude-post",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "claudepost"
+  },
+  "ZubeidHendricks/youtube-mcp-server": {
+    "owner": "ZubeidHendricks",
+    "name": "youtube-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "youtube"
+  },
+  "aarora79/aws-cost-explorer-mcp-server": {
+    "owner": "aarora79",
+    "name": "aws-cost-explorer-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "aws-cost-explorer"
+  },
+  "abel9851/mcp-server-mariadb": {
+    "owner": "abel9851",
+    "name": "mcp-server-mariadb",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mariadb"
+  },
+  "abhiz123/todoist-mcp-server": {
+    "owner": "abhiz123",
+    "name": "todoist-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "todoist"
+  },
+  "adenot/mcp-google-search": {
+    "owner": "adenot",
+    "name": "mcp-google-search",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "google-custom-search"
+  },
+  "adityak74/mcp-scholarly": {
+    "owner": "adityak74",
+    "name": "mcp-scholarly",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "scholarly"
+  },
+  "agentrpc/agentrpc": {
+    "owner": "agentrpc",
+    "name": "agentrpc",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "agentrpc"
+  },
+  "ahnlabio/bicscan-mcp": {
+    "owner": "ahnlabio",
+    "name": "bicscan-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "bicscan-mcp"
+  },
+  "ahujasid/ableton-mcp": {
+    "owner": "ahujasid",
+    "name": "ableton-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ableton-mcp"
+  },
+  "ahujasid/blender-mcp": {
+    "owner": "ahujasid",
+    "name": "blender-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "blender"
+  },
+  "aindreyway/mcp-codex-keeper": {
+    "owner": "aindreyway",
+    "name": "mcp-codex-keeper",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "mcp-codex-keeper",
+    "note": "unreachable: HTTP 404"
+  },
+  "alexander-zuev/supabase-mcp-server": {
+    "owner": "alexander-zuev",
+    "name": "supabase-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "supabase-mcp"
+  },
+  "alioshr/memory-bank-mcp": {
+    "owner": "alioshr",
+    "name": "memory-bank-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "memory-bank-mcp"
+  },
+  "aliyun/alibabacloud-hologres-mcp-server": {
+    "owner": "aliyun",
+    "name": "alibabacloud-hologres-mcp-server",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "alicloud-hologres"
+  },
+  "anaisbetts/mcp-installer": {
+    "owner": "anaisbetts",
+    "name": "mcp-installer",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-installer"
+  },
+  "anshumax/world_bank_mcp_server": {
+    "owner": "anshumax",
+    "name": "world_bank_mcp_server",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "world-bank-data-api"
+  },
+  "apeyroux/mcp-xmind": {
+    "owner": "apeyroux",
+    "name": "mcp-xmind",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "xmind"
+  },
+  "apify/actors-mcp-server": {
+    "owner": "apify",
+    "name": "actors-mcp-server",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "actors-mcp-server"
+  },
+  "apify/mcp-server-rag-web-browser": {
+    "owner": "apify",
+    "name": "mcp-server-rag-web-browser",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "rag-web-browser",
+    "note": "archived"
+  },
+  "apimatic/apimatic-validator-mcp": {
+    "owner": "apimatic",
+    "name": "apimatic-validator-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "apimatic-validator-mcp"
+  },
+  "armorwallet/armor-crypto-mcp": {
+    "owner": "armorwallet",
+    "name": "armor-crypto-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "armor-crypto"
+  },
+  "ashiknesin/pushover-mcp": {
+    "owner": "ashiknesin",
+    "name": "pushover-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "pushover"
+  },
+  "asusevski/opendota-mcp-server": {
+    "owner": "asusevski",
+    "name": "opendota-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "opendota"
+  },
+  "aws-samples/sample-mcp-server-s3": {
+    "owner": "aws-samples",
+    "name": "sample-mcp-server-s3",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "aws-s3"
+  },
+  "aws/aws-knowledge-mcp-server": {
+    "owner": "aws",
+    "name": "aws-knowledge-mcp-server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "aws-knowledge-mcp-server",
+    "note": "unreachable: HTTP 404"
+  },
+  "awslabs/aws-documentation-mcp-server": {
+    "owner": "awslabs",
+    "name": "aws-documentation-mcp-server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "awslabs.aws-documentation-mcp-server",
+    "note": "unreachable: HTTP 404"
+  },
+  "axiomhq/mcp-server-axiom": {
+    "owner": "axiomhq",
+    "name": "mcp-server-axiom",
+    "branch": "master",
+    "enabled": false,
+    "serverName": "mcp-server-axiom",
+    "note": "archived"
+  },
+  "baidu-maps/mcp": {
+    "owner": "baidu-maps",
+    "name": "mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "baidumap"
+  },
+  "bankless/onchain-mcp": {
+    "owner": "bankless",
+    "name": "onchain-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "onchain-mcp"
+  },
+  "barryyip0625/mcp-discord": {
+    "owner": "barryyip0625",
+    "name": "mcp-discord",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-discord"
+  },
+  "baryhuang/mcp-headless-gmail": {
+    "owner": "baryhuang",
+    "name": "mcp-headless-gmail",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "gmail-headless"
+  },
+  "baryhuang/mcp-server-any-openapi": {
+    "owner": "baryhuang",
+    "name": "mcp-server-any-openapi",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "openapi-anyapi"
+  },
+  "baryhuang/mcp-server-aws-resources-python": {
+    "owner": "baryhuang",
+    "name": "mcp-server-aws-resources-python",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "aws-resources-operations"
+  },
+  "basicmachines-co/basic-memory": {
+    "owner": "basicmachines-co",
+    "name": "basic-memory",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "basic-memory"
+  },
+  "bazinga012/mcp_code_executor": {
+    "owner": "bazinga012",
+    "name": "mcp_code_executor",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "code-executor"
+  },
+  "benjamine/jsondiffpatch": {
+    "owner": "benjamine",
+    "name": "jsondiffpatch",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "diff-mcp",
+    "subPath": "packages/diff-mcp"
+  },
+  "bharathvaj-ganesan/whois-mcp": {
+    "owner": "bharathvaj-ganesan",
+    "name": "whois-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "whois-mcp"
+  },
+  "bigcodegen/mcp-neovim-server": {
+    "owner": "bigcodegen",
+    "name": "mcp-neovim-server",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "neovim"
+  },
+  "blazickjp/arxiv-mcp-server": {
+    "owner": "blazickjp",
+    "name": "arxiv-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "arxiv-mcp"
+  },
+  "block/vscode-mcp": {
+    "owner": "block",
+    "name": "vscode-mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "vscode-mcp",
+    "note": "archived"
+  },
+  "boikot-xyz/boikot": {
+    "owner": "boikot-xyz",
+    "name": "boikot",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "boikot-mcp"
+  },
+  "box-community/mcp-server-box": {
+    "owner": "box-community",
+    "name": "mcp-server-box",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "mcp-server-box",
+    "note": "archived"
+  },
+  "browserbase/mcp-server-browserbase": {
+    "owner": "browserbase",
+    "name": "mcp-server-browserbase",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-browserbase"
+  },
+  "burningion/video-editing-mcp": {
+    "owner": "burningion",
+    "name": "video-editing-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "video-editor"
+  },
+  "buryhuang/mcp-hubspot": {
+    "owner": "buryhuang",
+    "name": "mcp-hubspot",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "hubspot"
+  },
+  "bytebase/dbhub": {
+    "owner": "bytebase",
+    "name": "dbhub",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "dbhub"
+  },
+  "calclavia/mcp-obsidian": {
+    "owner": "calclavia",
+    "name": "mcp-obsidian",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "obsidian-markdown-notes",
+    "note": "unreachable: HTTP 404"
+  },
+  "calvernaz/alphavantage": {
+    "owner": "calvernaz",
+    "name": "alphavantage",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "alphavantage"
+  },
+  "carterlasalle/mac_messages_mcp": {
+    "owner": "carterlasalle",
+    "name": "mac_messages_mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mac-messages-mcp"
+  },
+  "chargebee/agentkit": {
+    "owner": "chargebee",
+    "name": "agentkit",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "agentkit",
+    "note": "archived"
+  },
+  "chroma-core/chroma-mcp": {
+    "owner": "chroma-core",
+    "name": "chroma-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "chroma-mcp"
+  },
+  "ckreiling/mcp-server-docker": {
+    "owner": "ckreiling",
+    "name": "mcp-server-docker",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "docker"
+  },
+  "cloudflare/mcp-server-cloudflare": {
+    "owner": "cloudflare",
+    "name": "mcp-server-cloudflare",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-cloudflare"
+  },
+  "cloudflare/workers-mcp": {
+    "owner": "cloudflare",
+    "name": "workers-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "workers-mcp"
+  },
+  "comet-ml/opik": {
+    "owner": "comet-ml",
+    "name": "opik",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "opik"
+  },
+  "comet-ml/opik-mcp": {
+    "owner": "comet-ml",
+    "name": "opik-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "opik-mcp"
+  },
+  "cr7258/elasticsearch-mcp-server": {
+    "owner": "cr7258",
+    "name": "elasticsearch-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "elasticsearch"
+  },
+  "cyberchitta/llm-context.py": {
+    "owner": "cyberchitta",
+    "name": "llm-context.py",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "llm-context"
+  },
+  "cyberchitta/scrapling-fetch-mcp": {
+    "owner": "cyberchitta",
+    "name": "scrapling-fetch-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "scrapling-fetch"
+  },
+  "da-okazaki/mcp-neo4j-server": {
+    "owner": "da-okazaki",
+    "name": "mcp-neo4j-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "neo4j"
+  },
+  "dappierai/dappier-mcp": {
+    "owner": "dappierai",
+    "name": "dappier-mcp",
+    "branch": "staging",
+    "enabled": true,
+    "serverName": "dappier"
+  },
+  "datalayer/jupyter-mcp-server": {
+    "owner": "datalayer",
+    "name": "jupyter-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "jupyter-mcp"
+  },
+  "deepfates/mcp-replicate": {
+    "owner": "deepfates",
+    "name": "mcp-replicate",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "replicate",
+    "note": "archived"
+  },
+  "delorenj/mcp-server-ticketmaster": {
+    "owner": "delorenj",
+    "name": "mcp-server-ticketmaster",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ticketmaster"
+  },
+  "descope-sample-apps/descope-mcp-server": {
+    "owner": "descope-sample-apps",
+    "name": "descope-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "descope"
+  },
+  "designcomputer/mysql_mcp_server": {
+    "owner": "designcomputer",
+    "name": "mysql_mcp_server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mysql"
+  },
+  "devhub/devhub-cms-mcp": {
+    "owner": "devhub",
+    "name": "devhub-cms-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "devhub-cms-mcp"
+  },
+  "dianfengxiaobo/optimade-mcp-server": {
+    "owner": "dianfengxiaobo",
+    "name": "optimade-mcp-server",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "optimade-mcp-server"
+  },
+  "dinghuazhou/sample-mcp-server-tos": {
+    "owner": "dinghuazhou",
+    "name": "sample-mcp-server-tos",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "volcengine-tos"
+  },
+  "dmayboroda/minima": {
+    "owner": "dmayboroda",
+    "name": "minima",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "minima"
+  },
+  "doitintl/doit-mcp-server": {
+    "owner": "doitintl",
+    "name": "doit-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "doit"
+  },
+  "dschuler36/reaper-mcp-server": {
+    "owner": "dschuler36",
+    "name": "reaper-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "reaper"
+  },
+  "dvcrn/mcp-server-siri-shortcuts": {
+    "owner": "dvcrn",
+    "name": "mcp-server-siri-shortcuts",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "siri-shortcuts"
+  },
+  "e2b-dev/mcp-server": {
+    "owner": "e2b-dev",
+    "name": "mcp-server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "e2b-mcp-server",
+    "note": "archived"
+  },
+  "elevenlabs/elevenlabs-mcp": {
+    "owner": "elevenlabs",
+    "name": "elevenlabs-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "elevenlabs-mcp"
+  },
+  "elie222/inbox-zero": {
+    "owner": "elie222",
+    "name": "inbox-zero",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "inbox-zero"
+  },
+  "ergut/mcp-bigquery-server": {
+    "owner": "ergut",
+    "name": "mcp-bigquery-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "bigquery"
+  },
+  "esignaturescom/mcp-server-esignatures": {
+    "owner": "esignaturescom",
+    "name": "mcp-server-esignatures",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "mcp-server-esignatures"
+  },
+  "evalstate/mcp-hfspace": {
+    "owner": "evalstate",
+    "name": "mcp-hfspace",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "huggingface-spaces"
+  },
+  "exa-labs/exa-mcp-server": {
+    "owner": "exa-labs",
+    "name": "exa-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "exa-mcp-server"
+  },
+  "executeautomation/mcp-playwright": {
+    "owner": "executeautomation",
+    "name": "mcp-playwright",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-playwright"
+  },
+  "ezyang/codemcp": {
+    "owner": "ezyang",
+    "name": "codemcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "codemcp"
+  },
+  "fastnai/mcp-fastn": {
+    "owner": "fastnai",
+    "name": "mcp-fastn",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "fastn-ai-unified-api-mcp-server"
+  },
+  "fatwang2/search1api-mcp": {
+    "owner": "fatwang2",
+    "name": "search1api-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "search1api-mcp"
+  },
+  "felores/airtable-mcp": {
+    "owner": "felores",
+    "name": "airtable-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "airtable"
+  },
+  "felores/cloudinary-mcp-server": {
+    "owner": "felores",
+    "name": "cloudinary-mcp-server",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "cloudinary"
+  },
+  "felores/placid-mcp-server": {
+    "owner": "felores",
+    "name": "placid-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "placid-app"
+  },
+  "ferrislucas/iterm-mcp": {
+    "owner": "ferrislucas",
+    "name": "iterm-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "iterm-mcp"
+  },
+  "financial-datasets/mcp-server": {
+    "owner": "financial-datasets",
+    "name": "mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "financial-datasets"
+  },
+  "fingertip-com/fingertip-mcp": {
+    "owner": "fingertip-com",
+    "name": "fingertip-mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "fingertip",
+    "note": "unreachable: HTTP 404"
+  },
+  "fireproof-storage/mcp-database-server": {
+    "owner": "fireproof-storage",
+    "name": "mcp-database-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "fireproof-mcp"
+  },
+  "freestylefly/mcp-server-weread": {
+    "owner": "freestylefly",
+    "name": "mcp-server-weread",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "mcp-server-weread"
+  },
+  "furey/mongodb-lens": {
+    "owner": "furey",
+    "name": "mongodb-lens",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mongodb-lens"
+  },
+  "gannonh/firebase-mcp": {
+    "owner": "gannonh",
+    "name": "firebase-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "firebase"
+  },
+  "github/github-mcp-server": {
+    "owner": "github",
+    "name": "github-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "github"
+  },
+  "gotohuman/gotohuman-mcp-server": {
+    "owner": "gotohuman",
+    "name": "gotohuman-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "gotohuman-mcp-server"
+  },
+  "grafana/mcp-grafana": {
+    "owner": "grafana",
+    "name": "mcp-grafana",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-grafana"
+  },
+  "graphlit/graphlit-mcp-server": {
+    "owner": "graphlit",
+    "name": "graphlit-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "graphlit-mcp-server"
+  },
+  "hannesj/mcp-graphql-schema": {
+    "owner": "hannesj",
+    "name": "mcp-graphql-schema",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "graphql-schema"
+  },
+  "hannesj/mcp-openapi-schema": {
+    "owner": "hannesj",
+    "name": "mcp-openapi-schema",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "openapi-schema"
+  },
+  "haris-musa/excel-mcp-server": {
+    "owner": "haris-musa",
+    "name": "excel-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "excel"
+  },
+  "heroku/heroku-mcp-server": {
+    "owner": "heroku",
+    "name": "heroku-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "heroku"
+  },
+  "heurist-network/heurist-mesh-mcp-server": {
+    "owner": "heurist-network",
+    "name": "heurist-mesh-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "heurist-mesh-agent"
+  },
+  "hichana/goalstory-mcp": {
+    "owner": "hichana",
+    "name": "goalstory-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "goal-story"
+  },
+  "horizondatawave/hdw-mcp-server": {
+    "owner": "horizondatawave",
+    "name": "hdw-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "hdw-linkedin"
+  },
+  "hungryrobot1/MCP-PIF": {
+    "owner": "hungryrobot1",
+    "name": "MCP-PIF",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "pif"
+  },
+  "hustcc/mcp-mermaid": {
+    "owner": "hustcc",
+    "name": "mcp-mermaid",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-mermaid"
+  },
+  "hyperbrowserai/mcp": {
+    "owner": "hyperbrowserai",
+    "name": "mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "hyperbrowser"
+  },
+  "iFurySt/RedNote-MCP": {
+    "owner": "iFurySt",
+    "name": "RedNote-MCP",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "rednote-mcp"
+  },
+  "idoru/influxdb-mcp-server": {
+    "owner": "idoru",
+    "name": "influxdb-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "influxdb"
+  },
+  "idosal/git-mcp": {
+    "owner": "idosal",
+    "name": "git-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "git-mcp"
+  },
+  "ihor-sokoliuk/mcp-searxng": {
+    "owner": "ihor-sokoliuk",
+    "name": "mcp-searxng",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "searxng"
+  },
+  "inkeep/mcp-server-python": {
+    "owner": "inkeep",
+    "name": "mcp-server-python",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "inkeep"
+  },
+  "integration-app/mcp-server": {
+    "owner": "integration-app",
+    "name": "mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server"
+  },
+  "integromat/make-mcp-server": {
+    "owner": "integromat",
+    "name": "make-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "make-mcp-server"
+  },
+  "isaacwasserman/mcp-snowflake-server": {
+    "owner": "isaacwasserman",
+    "name": "mcp-snowflake-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "snowflake"
+  },
+  "isaacwasserman/mcp-vegalite-server": {
+    "owner": "isaacwasserman",
+    "name": "mcp-vegalite-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "vega-lite"
+  },
+  "its-dart/dart-mcp-server": {
+    "owner": "its-dart",
+    "name": "dart-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "dart-mcp-server"
+  },
+  "ivo-toby/contentful-mcp": {
+    "owner": "ivo-toby",
+    "name": "contentful-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "contentful-mcp"
+  },
+  "jae-jae/fetcher-mcp": {
+    "owner": "jae-jae",
+    "name": "fetcher-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "fetcher-mcp"
+  },
+  "jamsocket/forevervm": {
+    "owner": "jamsocket",
+    "name": "forevervm",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "forevervm"
+  },
+  "jerhadf/linear-mcp-server": {
+    "owner": "jerhadf",
+    "name": "linear-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "linear"
+  },
+  "jjsantos01/qgis_mcp": {
+    "owner": "jjsantos01",
+    "name": "qgis_mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "qgis"
+  },
+  "joeseesun/qiniu-mcp-joe": {
+    "owner": "joeseesun",
+    "name": "qiniu-mcp-joe",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "qiniu-mcp-joe"
+  },
+  "john-zhang-dev/xero-mcp": {
+    "owner": "john-zhang-dev",
+    "name": "xero-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "@john-zhang-dev/xero-mcp-server"
+  },
+  "joshuayoes/ios-simulator-mcp": {
+    "owner": "joshuayoes",
+    "name": "ios-simulator-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ios-simulator-mcp"
+  },
+  "kagisearch/kagimcp": {
+    "owner": "kagisearch",
+    "name": "kagimcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "kagimcp"
+  },
+  "kapilduraphe/okta-mcp-server": {
+    "owner": "kapilduraphe",
+    "name": "okta-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "okta"
+  },
+  "kapilduraphe/webflow-mcp-server": {
+    "owner": "kapilduraphe",
+    "name": "webflow-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "webflow"
+  },
+  "keboola/keboola-mcp-server": {
+    "owner": "keboola",
+    "name": "keboola-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "keboola-mcp-server"
+  },
+  "kenjihikmatullah/productboard-mcp": {
+    "owner": "kenjihikmatullah",
+    "name": "productboard-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "productboard"
+  },
+  "kenliao94/mcp-server-rabbitmq": {
+    "owner": "kenliao94",
+    "name": "mcp-server-rabbitmq",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "rabbitmq"
+  },
+  "kiliczsh/mcp-mongo-server": {
+    "owner": "kiliczsh",
+    "name": "mcp-mongo-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mongodb"
+  },
+  "kiwamizamurai/mcp-kibela-server": {
+    "owner": "kiwamizamurai",
+    "name": "mcp-kibela-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "kibela"
+  },
+  "ko1ynnky/github-actions-mcp-server": {
+    "owner": "ko1ynnky",
+    "name": "github-actions-mcp-server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "github-actions",
+    "note": "archived"
+  },
+  "kpsunil97/devrev-mcp-server": {
+    "owner": "kpsunil97",
+    "name": "devrev-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "devrev"
+  },
+  "kukapay/crypto-feargreed-mcp": {
+    "owner": "kukapay",
+    "name": "crypto-feargreed-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "crypto-feargreed-mcp"
+  },
+  "kukapay/cryptopanic-mcp-server": {
+    "owner": "kukapay",
+    "name": "cryptopanic-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "cryptopanic-mcp-server"
+  },
+  "kukapay/dune-analytics-mcp": {
+    "owner": "kukapay",
+    "name": "dune-analytics-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "dune-analytics-mcp"
+  },
+  "kukapay/whale-tracker-mcp": {
+    "owner": "kukapay",
+    "name": "whale-tracker-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "whale-tracker-mcp"
+  },
+  "langfuse/mcp-server-langfuse": {
+    "owner": "langfuse",
+    "name": "mcp-server-langfuse",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-langfuse"
+  },
+  "leehanchung/bing-search-mcp": {
+    "owner": "leehanchung",
+    "name": "bing-search-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "bing-web-search-api"
+  },
+  "lenwood/cfbd-mcp-server": {
+    "owner": "lenwood",
+    "name": "cfbd-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "cfbd-api"
+  },
+  "leonardsellem/n8n-mcp-server": {
+    "owner": "leonardsellem",
+    "name": "n8n-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "n8n"
+  },
+  "line/line-bot-mcp-server": {
+    "owner": "line",
+    "name": "line-bot-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "line-bot"
+  },
+  "lingodotdev/lingo.dev": {
+    "owner": "lingodotdev",
+    "name": "lingo.dev",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "lingo-dev"
+  },
+  "lishenxydlgzs/aws-athena-mcp": {
+    "owner": "lishenxydlgzs",
+    "name": "aws-athena-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "aws-athena"
+  },
+  "liuyoshio/mcp-compass": {
+    "owner": "liuyoshio",
+    "name": "mcp-compass",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-compass"
+  },
+  "lloydzhou/bitable-mcp": {
+    "owner": "lloydzhou",
+    "name": "bitable-mcp",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "bitable-mcp"
+  },
+  "longmans/coin_api_mcp": {
+    "owner": "longmans",
+    "name": "coin_api_mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "coin-api-mcp"
+  },
+  "longyi1207/glean-mcp-server": {
+    "owner": "longyi1207",
+    "name": "glean-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "glean"
+  },
+  "magnetai/mcp-free-usdc-transfer": {
+    "owner": "magnetai",
+    "name": "mcp-free-usdc-transfer",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "base-free-usdc-transfer"
+  },
+  "mailgun/mailgun-mcp-server": {
+    "owner": "mailgun",
+    "name": "mailgun-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mailgun"
+  },
+  "makenotion/notion-mcp-server": {
+    "owner": "makenotion",
+    "name": "notion-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "notion-mcp"
+  },
+  "mamertofabian/mcp-everything-search": {
+    "owner": "mamertofabian",
+    "name": "mcp-everything-search",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "everything-search"
+  },
+  "manusa/kubernetes-mcp-server": {
+    "owner": "manusa",
+    "name": "kubernetes-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "kubernetes-and-openshift"
+  },
+  "marctheshark3/ergo-mcp": {
+    "owner": "marctheshark3",
+    "name": "ergo-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ergo-blockchain-mcp"
+  },
+  "mcpdotdirect/evm-mcp-server": {
+    "owner": "mcpdotdirect",
+    "name": "evm-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "evm-mcp-server"
+  },
+  "mcpso/mcp-server-chatsum": {
+    "owner": "mcpso",
+    "name": "mcp-server-chatsum",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "chatsum"
+  },
+  "meilisearch/meilisearch-mcp": {
+    "owner": "meilisearch",
+    "name": "meilisearch-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "meilisearch-mcp"
+  },
+  "mektigboy/server-hyperliquid": {
+    "owner": "mektigboy",
+    "name": "server-hyperliquid",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "hyperliquid"
+  },
+  "mem0ai/mem0-mcp": {
+    "owner": "mem0ai",
+    "name": "mem0-mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "mem0-mcp",
+    "note": "archived"
+  },
+  "mendableai/firecrawl-mcp-server": {
+    "owner": "mendableai",
+    "name": "firecrawl-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "firecrawl"
+  },
+  "metoro-io/metoro-mcp-server": {
+    "owner": "metoro-io",
+    "name": "metoro-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "metoro-mcp-server"
+  },
+  "mfukushim/map-traveler-mcp": {
+    "owner": "mfukushim",
+    "name": "map-traveler-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "virtual-location-google-street-view-etc"
+  },
+  "microsoft/markitdown": {
+    "owner": "microsoft",
+    "name": "markitdown",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "markitdown",
+    "subPath": "packages/markitdown-mcp"
+  },
+  "microsoft/microsoft-learn-mcp": {
+    "owner": "microsoft",
+    "name": "microsoft-learn-mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "microsoft-learn",
+    "note": "unreachable: HTTP 404"
+  },
+  "microsoft/playwright-mcp": {
+    "owner": "microsoft",
+    "name": "playwright-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "playwright"
+  },
+  "mobile-next/mobile-mcp": {
+    "owner": "mobile-next",
+    "name": "mobile-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mobile-mcp"
+  },
+  "modelcontextprotocol/servers": {
+    "owner": "modelcontextprotocol",
+    "name": "servers",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "aws-kb-retrieval"
+  },
+  "motherduckdb/mcp-server-motherduck": {
+    "owner": "motherduckdb",
+    "name": "mcp-server-motherduck",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-motherduck"
+  },
+  "needle-ai/needle-mcp": {
+    "owner": "needle-ai",
+    "name": "needle-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "needle-mcp"
+  },
+  "neo4j-contrib/mcp-neo4j": {
+    "owner": "neo4j-contrib",
+    "name": "mcp-neo4j",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-neo4j-aura-api"
+  },
+  "neondatabase/mcp-server-neon": {
+    "owner": "neondatabase",
+    "name": "mcp-server-neon",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-neon"
+  },
+  "nickclyde/duckduckgo-mcp-server": {
+    "owner": "nickclyde",
+    "name": "duckduckgo-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "duckduckgo-mcp"
+  },
+  "nkapila6/mcp-local-rag": {
+    "owner": "nkapila6",
+    "name": "mcp-local-rag",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-local-rag"
+  },
+  "nota/gyazo-mcp-server": {
+    "owner": "nota",
+    "name": "gyazo-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "gyazo"
+  },
+  "nrwl/nx-console": {
+    "owner": "nrwl",
+    "name": "nx-console",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "nx-mcp",
+    "subPath": "apps/nx-mcp"
+  },
+  "nspady/google-calendar-mcp": {
+    "owner": "nspady",
+    "name": "google-calendar-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "google-calendar"
+  },
+  "oceanbase/mcp-oceanbase": {
+    "owner": "oceanbase",
+    "name": "mcp-oceanbase",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-oceanbase"
+  },
+  "ognis1205/mcp-server-unitycatalog": {
+    "owner": "ognis1205",
+    "name": "mcp-server-unitycatalog",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "unity-catalog"
+  },
+  "open-strategy-partners/osp_marketing_tools": {
+    "owner": "open-strategy-partners",
+    "name": "osp_marketing_tools",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "open-strategy-partners-marketing-tools"
+  },
+  "openbnb-org/mcp-server-airbnb": {
+    "owner": "openbnb-org",
+    "name": "mcp-server-airbnb",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "airbnb"
+  },
+  "oraios/serena": {
+    "owner": "oraios",
+    "name": "serena",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "serena"
+  },
+  "oschina/mcp-gitee": {
+    "owner": "oschina",
+    "name": "mcp-gitee",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "mcp-gitee"
+  },
+  "osomai/servicenow-mcp": {
+    "owner": "osomai",
+    "name": "servicenow-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "servicenow"
+  },
+  "oxylabs/oxylabs-mcp": {
+    "owner": "oxylabs",
+    "name": "oxylabs-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "oxylabs-mcp"
+  },
+  "pab1it0/adx-mcp-server": {
+    "owner": "pab1it0",
+    "name": "adx-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "azure-adx"
+  },
+  "pab1it0/prometheus-mcp-server": {
+    "owner": "pab1it0",
+    "name": "prometheus-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "prometheus"
+  },
+  "pathintegral-institute/mcp.science": {
+    "owner": "pathintegral-institute",
+    "name": "mcp.science",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "gpaw-computation"
+  },
+  "pfldy2850/py-mcp-naver": {
+    "owner": "pfldy2850",
+    "name": "py-mcp-naver",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "naver"
+  },
+  "pomazanbohdan/mcp-uuidv7-generator": {
+    "owner": "pomazanbohdan",
+    "name": "mcp-uuidv7-generator",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "@pomazanbohdan/mcp-uuidv7-generator"
+  },
+  "ppl-ai/modelcontextprotocol": {
+    "owner": "ppl-ai",
+    "name": "modelcontextprotocol",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "perplexity"
+  },
+  "prajwalnayak7/mcp-server-redis": {
+    "owner": "prajwalnayak7",
+    "name": "mcp-server-redis",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "redis"
+  },
+  "prisma/prisma": {
+    "owner": "prisma",
+    "name": "prisma",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "prisma"
+  },
+  "privetin/chroma": {
+    "owner": "privetin",
+    "name": "chroma",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "chroma"
+  },
+  "privetin/dataset-viewer": {
+    "owner": "privetin",
+    "name": "dataset-viewer",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "dataset-viewer"
+  },
+  "pydantic/logfire-mcp": {
+    "owner": "pydantic",
+    "name": "logfire-mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "logfire-mcp",
+    "note": "archived"
+  },
+  "pydantic/pydantic-ai": {
+    "owner": "pydantic",
+    "name": "pydantic-ai",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-run-python",
+    "subPath": "mcp-run-python"
+  },
+  "pyroprompts/any-chat-completions-mcp": {
+    "owner": "pyroprompts",
+    "name": "any-chat-completions-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "any-chat-completions"
+  },
+  "qdrant/mcp-server-qdrant": {
+    "owner": "qdrant",
+    "name": "mcp-server-qdrant",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "mcp-server-qdrant"
+  },
+  "quazaai/UnityMCPIntegration": {
+    "owner": "quazaai",
+    "name": "UnityMCPIntegration",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "unity-integration-advanced"
+  },
+  "r-huijts/ns-mcp-server": {
+    "owner": "r-huijts",
+    "name": "ns-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ns-travel-information"
+  },
+  "r-huijts/rijksmuseum-mcp": {
+    "owner": "r-huijts",
+    "name": "rijksmuseum-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "rijksmuseum"
+  },
+  "ramp-public/ramp-mcp": {
+    "owner": "ramp-public",
+    "name": "ramp-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ramp-mcp"
+  },
+  "raoulbia-ai/mcp-server-for-intercom": {
+    "owner": "raoulbia-ai",
+    "name": "mcp-server-for-intercom",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "intercom"
+  },
+  "ravenwits/mcp-server-arangodb": {
+    "owner": "ravenwits",
+    "name": "mcp-server-arangodb",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "arangodb"
+  },
+  "reading-plus-ai/mcp-server-data-exploration": {
+    "owner": "reading-plus-ai",
+    "name": "mcp-server-data-exploration",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "data-exploration"
+  },
+  "redis/mcp-redis": {
+    "owner": "redis",
+    "name": "mcp-redis",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-redis"
+  },
+  "rember/rember-mcp": {
+    "owner": "rember",
+    "name": "rember-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "rember-mcp"
+  },
+  "resend/mcp-send-email": {
+    "owner": "resend",
+    "name": "mcp-send-email",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-send-email"
+  },
+  "rishijatia/fantasy-pl-mcp": {
+    "owner": "rishijatia",
+    "name": "fantasy-pl-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "fantasy-pl"
+  },
+  "rishikavikondala/mcp-server-aws": {
+    "owner": "rishikavikondala",
+    "name": "mcp-server-aws",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "aws"
+  },
+  "riza-io/riza-mcp": {
+    "owner": "riza-io",
+    "name": "riza-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "riza-mcp"
+  },
+  "rohitg00/kubectl-mcp-server": {
+    "owner": "rohitg00",
+    "name": "kubectl-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "kubectl-mcp"
+  },
+  "rudra-ravi/wikipedia-mcp": {
+    "owner": "rudra-ravi",
+    "name": "wikipedia-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "wikipedia-mcp"
+  },
+  "ruixingshi/deepseek-thinker-mcp": {
+    "owner": "ruixingshi",
+    "name": "deepseek-thinker-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "deepseek-thinker-mcp"
+  },
+  "run-llama/mcp-server-llamacloud": {
+    "owner": "run-llama",
+    "name": "mcp-server-llamacloud",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "llamacloud"
+  },
+  "runekaagaard/mcp-alchemy": {
+    "owner": "runekaagaard",
+    "name": "mcp-alchemy",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-alchemy"
+  },
+  "rusiaaman/wcgw": {
+    "owner": "rusiaaman",
+    "name": "wcgw",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "wcgw"
+  },
+  "sakce/mcp-server-monday": {
+    "owner": "sakce",
+    "name": "mcp-server-monday",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "monday-com"
+  },
+  "scorzeth/anki-mcp-server": {
+    "owner": "scorzeth",
+    "name": "anki-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "anki"
+  },
+  "screenshotone/mcp": {
+    "owner": "screenshotone",
+    "name": "mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "screenshotone"
+  },
+  "semgrep/mcp": {
+    "owner": "semgrep",
+    "name": "mcp",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "mcp",
+    "note": "archived"
+  },
+  "sergehuber/inoyu-mcp-unomi-server": {
+    "owner": "sergehuber",
+    "name": "inoyu-mcp-unomi-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "inoyu"
+  },
+  "shanejonas/openrpc-mpc-server": {
+    "owner": "shanejonas",
+    "name": "openrpc-mpc-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "openrpc"
+  },
+  "shannonlal/mcp-postman": {
+    "owner": "shannonlal",
+    "name": "mcp-postman",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "postman"
+  },
+  "singlestore-labs/mcp-server-singlestore": {
+    "owner": "singlestore-labs",
+    "name": "mcp-server-singlestore",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-singlestore"
+  },
+  "sirmews/mcp-pinecone": {
+    "owner": "sirmews",
+    "name": "mcp-pinecone",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "pinecone",
+    "note": "archived"
+  },
+  "skydeckai/mcp-server-rememberizer": {
+    "owner": "skydeckai",
+    "name": "mcp-server-rememberizer",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "rememberizer-ai"
+  },
+  "smat-dev/jinni": {
+    "owner": "smat-dev",
+    "name": "jinni",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "jinni"
+  },
+  "smn2gnt/MCP-Salesforce": {
+    "owner": "smn2gnt",
+    "name": "MCP-Salesforce",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "salesforce-mcp"
+  },
+  "snagasuri/deebo-prototype": {
+    "owner": "snagasuri",
+    "name": "deebo-prototype",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "deebo-prototype",
+    "note": "unreachable: HTTP 404"
+  },
+  "snaggle-ai/openapi-mcp-server": {
+    "owner": "snaggle-ai",
+    "name": "openapi-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "openapi"
+  },
+  "sonnylazuardi/cursor-talk-to-figma-mcp": {
+    "owner": "sonnylazuardi",
+    "name": "cursor-talk-to-figma-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "cursor-talk-to-figma-mcp"
+  },
+  "sooperset/mcp-atlassian": {
+    "owner": "sooperset",
+    "name": "mcp-atlassian",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "atlassian"
+  },
+  "sparfenyuk/mcp-proxy": {
+    "owner": "sparfenyuk",
+    "name": "mcp-proxy",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-proxy"
+  },
+  "stripe/agent-toolkit": {
+    "owner": "stripe",
+    "name": "agent-toolkit",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "stripe"
+  },
+  "strowk/mcp-k8s-go": {
+    "owner": "strowk",
+    "name": "mcp-k8s-go",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-k8s-go"
+  },
+  "suhail-ak-s/mcp-typesense-server": {
+    "owner": "suhail-ak-s",
+    "name": "mcp-typesense-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "typesense"
+  },
+  "sunsetcoder/flightradar24-mcp-server": {
+    "owner": "sunsetcoder",
+    "name": "flightradar24-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "flightradar24"
+  },
+  "syucream/holaspirit-mcp-server": {
+    "owner": "syucream",
+    "name": "holaspirit-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "holaspirit"
+  },
+  "syucream/lightdash-mcp-server": {
+    "owner": "syucream",
+    "name": "lightdash-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "lightdash"
+  },
+  "tavily-ai/tavily-mcp": {
+    "owner": "tavily-ai",
+    "name": "tavily-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "tavily-mcp"
+  },
+  "teddyzxcv/ntfy-mcp": {
+    "owner": "teddyzxcv",
+    "name": "ntfy-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ntfy-mcp"
+  },
+  "tesla0225/mcp-create": {
+    "owner": "tesla0225",
+    "name": "mcp-create",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-create"
+  },
+  "thirdweb-dev/ai": {
+    "owner": "thirdweb-dev",
+    "name": "ai",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "thirdweb"
+  },
+  "tinybirdco/mcp-tinybird": {
+    "owner": "tinybirdco",
+    "name": "mcp-tinybird",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "mcp-tinybird",
+    "note": "archived"
+  },
+  "tinyfish-io/agentql-mcp": {
+    "owner": "tinyfish-io",
+    "name": "agentql-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "agentql-mcp"
+  },
+  "translated/lara-mcp": {
+    "owner": "translated",
+    "name": "lara-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "lara-mcp"
+  },
+  "turbot/steampipe-mcp": {
+    "owner": "turbot",
+    "name": "steampipe-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "steampipe"
+  },
+  "unifai-network/unifai-mcp-server": {
+    "owner": "unifai-network",
+    "name": "unifai-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "unifai-mcp-server"
+  },
+  "upstash/context7": {
+    "owner": "upstash",
+    "name": "context7",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "context7"
+  },
+  "v-3/discordmcp": {
+    "owner": "v-3",
+    "name": "discordmcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "discord"
+  },
+  "v-3/notion-server": {
+    "owner": "v-3",
+    "name": "notion-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "notion"
+  },
+  "varunneal/spotify-mcp": {
+    "owner": "varunneal",
+    "name": "spotify-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "spotify"
+  },
+  "vectorize-io/vectorize-mcp-server": {
+    "owner": "vectorize-io",
+    "name": "vectorize-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "vectorize-mcp-server"
+  },
+  "vidhupv/x-mcp": {
+    "owner": "vidhupv",
+    "name": "x-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "x-twitter"
+  },
+  "vivekVells/mcp-pandoc": {
+    "owner": "vivekVells",
+    "name": "mcp-pandoc",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "pandoc"
+  },
+  "voska/hass-mcp": {
+    "owner": "voska",
+    "name": "hass-mcp",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "home-assistant"
+  },
+  "whataboutyou-ai/eunomia-MCP-server": {
+    "owner": "whataboutyou-ai",
+    "name": "eunomia-MCP-server",
+    "branch": "main",
+    "enabled": false,
+    "serverName": "eunomia",
+    "note": "archived"
+  },
+  "wonderwhy-er/DesktopCommanderMCP": {
+    "owner": "wonderwhy-er",
+    "name": "DesktopCommanderMCP",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "desktop-commander-mcp"
+  },
+  "xxxbrian/mcp-rquest": {
+    "owner": "xxxbrian",
+    "name": "mcp-rquest",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "rquest"
+  },
+  "yamadashy/repomix": {
+    "owner": "yamadashy",
+    "name": "repomix",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "repomix"
+  },
+  "yangkyeongmo/mcp-server-apache-airflow": {
+    "owner": "yangkyeongmo",
+    "name": "mcp-server-apache-airflow",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "airflow"
+  },
+  "yanmxa/multicluster-mcp-server": {
+    "owner": "yanmxa",
+    "name": "multicluster-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "multicluster-mcp-sever"
+  },
+  "yuanoOo/oceanbase_mcp_server": {
+    "owner": "yuanoOo",
+    "name": "oceanbase_mcp_server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "oceanbase"
+  },
+  "zcaceres/fetch-mcp": {
+    "owner": "zcaceres",
+    "name": "fetch-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "fetch-mcp"
+  },
+  "zcaceres/gtasks-mcp": {
+    "owner": "zcaceres",
+    "name": "gtasks-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "google-tasks"
+  },
+  "zcaceres/mcp-markdownify-server": {
+    "owner": "zcaceres",
+    "name": "mcp-markdownify-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "markdownify"
+  },
+  "zenml-io/mcp-zenml": {
+    "owner": "zenml-io",
+    "name": "mcp-zenml",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-zenml"
+  },
+  "zilliztech/mcp-server-milvus": {
+    "owner": "zilliztech",
+    "name": "mcp-server-milvus",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "mcp-server-milvus"
+  }
+}

@@ -40,7 +40,10 @@ def main():
     json_files = [
         'agent_repos.json',
         'plugin_repos.json',
-        'skill_repos.json'
+        'skill_repos.json',
+        'instruction_repos.json',
+        'prompt_repos.json',
+        'mcp_server_repos.json'
     ]
 
     all_valid = True

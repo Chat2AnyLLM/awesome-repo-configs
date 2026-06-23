@@ -80,6 +80,9 @@ def build_comment():
             "- `agent_repos.json`",
             "- `plugin_repos.json`",
             "- `skill_repos.json`",
+            "- `instruction_repos.json`",
+            "- `prompt_repos.json`",
+            "- `mcp_server_repos.json`",
         ]
     )
 

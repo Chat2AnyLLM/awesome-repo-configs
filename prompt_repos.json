@@ -1,0 +1,9 @@
+{
+  "Chat2AnyLLM/awesome-prompts": {
+    "owner": "Chat2AnyLLM",
+    "name": "awesome-prompts",
+    "branch": "master",
+    "enabled": true,
+    "catalogFile": "dist/prompts.json"
+  }
+}

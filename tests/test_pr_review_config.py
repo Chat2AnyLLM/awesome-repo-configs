@@ -71,6 +71,60 @@ class ReviewPrConfigTests(unittest.TestCase):
         self.assertIn("`owner/name.enabled` must be a boolean.", errors)
         self.assertEqual([], warnings)
 
+    def test_instruction_schema_accepts_minimal_entry(self):
+        errors, warnings = REVIEW.validate_entry_schema(
+            "instruction_repos.json",
+            "anthropics/claude-code",
+            {"owner": "anthropics", "name": "claude-code", "branch": "main", "enabled": True},
+        )
+        self.assertEqual([], errors)
+        self.assertEqual([], warnings)
+
+    def test_prompt_schema_accepts_catalog_file(self):
+        errors, warnings = REVIEW.validate_entry_schema(
+            "prompt_repos.json",
+            "Chat2AnyLLM/awesome-prompts",
+            {
+                "owner": "Chat2AnyLLM",
+                "name": "awesome-prompts",
+                "branch": "master",
+                "enabled": True,
+                "catalogFile": "dist/prompts.json",
+            },
+        )
+        self.assertEqual([], errors)
+        self.assertEqual([], warnings)
+
+    def test_mcp_server_schema_accepts_sub_path_and_server_name(self):
+        errors, warnings = REVIEW.validate_entry_schema(
+            "mcp_server_repos.json",
+            "modelcontextprotocol/servers",
+            {
+                "owner": "modelcontextprotocol",
+                "name": "servers",
+                "branch": "main",
+                "enabled": True,
+                "serverName": "fetch",
+                "subPath": "src/fetch",
+            },
+        )
+        self.assertEqual([], errors)
+        self.assertEqual([], warnings)
+
+    def test_mcp_server_schema_rejects_bad_sub_path(self):
+        errors, _ = REVIEW.validate_entry_schema(
+            "mcp_server_repos.json",
+            "x/y",
+            {"owner": "x", "name": "y", "branch": "main", "enabled": True, "subPath": "../escape"},
+        )
+        self.assertTrue(any("subPath" in e for e in errors))
+
+    def test_assess_claude_standard_skips_non_claude_kinds(self):
+        for config_file in ("instruction_repos.json", "prompt_repos.json", "mcp_server_repos.json"):
+            errors, warnings = REVIEW.assess_claude_standard(config_file, {}, set())
+            self.assertEqual([], errors, f"{config_file} should have no errors")
+            self.assertEqual([], warnings, f"{config_file} should have no warnings")
+
 
 if __name__ == "__main__":
     unittest.main()
