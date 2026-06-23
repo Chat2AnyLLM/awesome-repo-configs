@@ -1297,5 +1297,14 @@
     "repoOwner": "mcpads",
     "repoName": "create-retro-game-kr-patch",
     "repoBranch": "main"
+  },
+  "yuting0624/antigravity-for-claude-code": {
+    "name": "antigravity-for-claude-code",
+    "description": "Run the Antigravity CLI (Gemini) as a collaborating sub-agent inside Claude Code. Claude stays the conductor (requirements, architecture, the hard 20%, verification); deterministic high-volume work (scaffolding, test generation, first-pass review, migrations, web/Vertex AI Search) routes to Gemini for measured frontier-model cost reduction at equal quality.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yuting0624",
+    "repoName": "antigravity-for-claude-code",
+    "repoBranch": "master"
   }
 }
