@@ -13,6 +13,9 @@ CONFIG_FILES = {
     "agent_repos.json": "agent",
     "plugin_repos.json": "plugin",
     "skill_repos.json": "skill",
+    "instruction_repos.json": "instruction",
+    "prompt_repos.json": "prompt",
+    "mcp_server_repos.json": "mcp_server",
 }
 COMMENT_MARKER = "<!-- awesome-repo-configs-pr-review -->"
 API_URL = os.environ.get("GITHUB_API_URL", "https://api.github.com")
@@ -100,10 +103,18 @@ def validate_entry_schema(config_file, key, entry):
         for field in required_strings:
             if not isinstance(entry.get(field), str) or not entry.get(field).strip():
                 errors.append(f"`{key}.{field}` must be a non-empty string.")
-        path_field = "agentsPath" if kind == "agent" else "skillsPath"
-        if path_field in entry:
+        path_field_map = {"agent": "agentsPath", "skill": "skillsPath"}
+        path_field = path_field_map.get(kind)
+        if path_field and path_field in entry:
             _, path_errors = normalize_relative_path(entry.get(path_field), path_field)
             errors.extend(f"`{key}` {error}" for error in path_errors)
+        if "subPath" in entry:
+            _, path_errors = normalize_relative_path(entry.get("subPath"), "subPath")
+            errors.extend(f"`{key}` {error}" for error in path_errors)
+        if "catalogFile" in entry:
+            catalog = entry.get("catalogFile")
+            if not isinstance(catalog, str) or not catalog.strip():
+                errors.append(f"`{key}.catalogFile` must be a non-empty string when provided.")
 
     if not isinstance(entry.get("enabled"), bool):
         errors.append(f"`{key}.enabled` must be a boolean.")
@@ -200,7 +211,10 @@ def assess_claude_standard(config_file, entry, tree_paths):
         return assess_plugin_standard(entry, tree_paths)
     if kind == "skill":
         return assess_skill_standard(entry, tree_paths)
-    return assess_agent_standard(entry, tree_paths)
+    if kind == "agent":
+        return assess_agent_standard(entry, tree_paths)
+    # instruction / prompt / mcp_server: no Claude Code layout to enforce
+    return [], []
 
 
 def api_request(path, token, method="GET", payload=None):
