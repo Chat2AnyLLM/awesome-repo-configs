@@ -387,5 +387,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "frankxai/agentic-creator-os": {
+    "owner": "frankxai",
+    "name": "agentic-creator-os",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Caesar-Nexus-Labs/caesar-harness-agent": {
+    "owner": "Caesar-Nexus-Labs",
+    "name": "caesar-harness-agent",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "muckybuzzwoo/claude-code-youtube-extract": {
+    "owner": "muckybuzzwoo",
+    "name": "claude-code-youtube-extract",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sventorben/decider": {
+    "owner": "sventorben",
+    "name": "decider",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

@@ -1486,5 +1486,104 @@
     "repoOwner": "cdeust",
     "repoName": "zetetic-team-subagents",
     "repoBranch": "main"
+  },
+  "kylehughes/the-unofficial-swift-programming-language-skill": {
+    "name": "kylehughes/the-unofficial-swift-programming-language-skill",
+    "description": "The Swift Programming Language, packaged as a Skill for LLMs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kylehughes",
+    "repoName": "the-unofficial-swift-programming-language-skill",
+    "repoBranch": "main"
+  },
+  "prismatic-io/prismatic-skills": {
+    "name": "prismatic-io/prismatic-skills",
+    "description": "Claude (Agent) Skills for building code-native integrations and custom connectors on the Prismatic.io platform",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "prismatic-io",
+    "repoName": "prismatic-skills",
+    "repoBranch": "main"
+  },
+  "andyed/muriel": {
+    "name": "andyed/muriel",
+    "description": "Teaches Claude to use a dozen visualization-building tools \u2014 raster, SVG, web, video, terminal, interactive, gaze plots, heatmaps, science figures. Brand tokens and 8:1 contrast audit built in.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andyed",
+    "repoName": "muriel",
+    "repoBranch": "main"
+  },
+  "codingSamss/all-my-ai-needs": {
+    "name": "codingSamss/all-my-ai-needs",
+    "description": "Claude Code + Codex \u53cc\u5e73\u53f0 AI dotfiles\uff1a\u7edf\u4e00\u7ba1\u7406 skills/agents/hooks\uff0c\u5e76\u4e00\u952e\u540c\u6b65\u5230 ~/.claude \u4e0e ~/.codex\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codingSamss",
+    "repoName": "all-my-ai-needs",
+    "repoBranch": "master"
+  },
+  "frankxai/agentic-creator-os": {
+    "name": "frankxai/agentic-creator-os",
+    "description": "Agentic Creator OS v11 \u2014 The operating system for AI-powered creators. 90+ skills, 65+ commands, 38 agents, 8 plugins. Works with Claude Code, Cursor, Windsurf, Gemini.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "frankxai",
+    "repoName": "agentic-creator-os",
+    "repoBranch": "main"
+  },
+  "Caesar-Nexus-Labs/caesar-harness-agent": {
+    "name": "Caesar-Nexus-Labs/caesar-harness-agent",
+    "description": "Author-once AI agent harness for Claude Code subagents, AGENTS.md, and native cross-platform coding agent outputs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Caesar-Nexus-Labs",
+    "repoName": "caesar-harness-agent",
+    "repoBranch": "main"
+  },
+  "davebream/claude-of-alexandria": {
+    "name": "davebream/claude-of-alexandria",
+    "description": "Claude plugin for rigorous biblical study. TDD-built to prevent AI failures: psychologizing texts, moralistic applications, genre mistakes, and exegetical shortcuts. Faithful, Christ-centered analysis for teaching, se...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davebream",
+    "repoName": "claude-of-alexandria",
+    "repoBranch": "main"
+  },
+  "Shada01245/the-unofficial-swift-programming-language-skill": {
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swift content.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Shada01245",
+    "repoName": "the-unofficial-swift-programming-language-skill",
+    "repoBranch": "main"
+  },
+  "dryvist/claude-code-plugins": {
+    "name": "dryvist/claude-code-plugins",
+    "description": "My custom claude code (hopefully agentsmd soon) plugins for when I've scoured the interwebs and all the existing CC marketplaces but couldn't find anything good enough.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dryvist",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "mappamind/mappamind": {
+    "name": "mappamind/mappamind",
+    "description": "See what your AI coding agent just did to your system's behavior, flow, and architecture. Grounded in real code, visual, in-session at the accept moment.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mappamind",
+    "repoName": "mappamind",
+    "repoBranch": "main"
+  },
+  "muckybuzzwoo/claude-code-youtube-extract": {
+    "name": "muckybuzzwoo/claude-code-youtube-extract",
+    "description": "Turn any YouTube video into a searchable Markdown file with structured summary, chapter-aligned screenshots, and multi-video synthesis \u2014 from inside Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "muckybuzzwoo",
+    "repoName": "claude-code-youtube-extract",
+    "repoBranch": "main"
   }
 }

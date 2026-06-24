@@ -1330,5 +1330,101 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "kylehughes/the-unofficial-swift-programming-language-skill": {
+        "owner": "kylehughes",
+        "name": "the-unofficial-swift-programming-language-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "prismatic-io/prismatic-skills": {
+        "owner": "prismatic-io",
+        "name": "prismatic-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "andyed/muriel": {
+        "owner": "andyed",
+        "name": "muriel",
+        "branch": "main",
+        "enabled": true
+    },
+    "codingSamss/all-my-ai-needs": {
+        "owner": "codingSamss",
+        "name": "all-my-ai-needs",
+        "branch": "master",
+        "enabled": true
+    },
+    "ibangtam/seo-toolkit": {
+        "owner": "ibangtam",
+        "name": "seo-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ds-vibe/html-explainer": {
+        "owner": "ds-vibe",
+        "name": "html-explainer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "frankxai/agentic-creator-os": {
+        "owner": "frankxai",
+        "name": "agentic-creator-os",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "BambooGap/skills-orchestrator": {
+        "owner": "BambooGap",
+        "name": "skills-orchestrator",
+        "branch": "main",
+        "enabled": true
+    },
+    "davebream/claude-of-alexandria": {
+        "owner": "davebream",
+        "name": "claude-of-alexandria",
+        "branch": "main",
+        "enabled": true
+    },
+    "Shada01245/the-unofficial-swift-programming-language-skill": {
+        "owner": "Shada01245",
+        "name": "the-unofficial-swift-programming-language-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "dryvist/claude-code-plugins": {
+        "owner": "dryvist",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "valorisa/Claude-Skills": {
+        "owner": "valorisa",
+        "name": "Claude-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mappamind/mappamind": {
+        "owner": "mappamind",
+        "name": "mappamind",
+        "branch": "main",
+        "enabled": true
+    },
+    "muckybuzzwoo/claude-code-youtube-extract": {
+        "owner": "muckybuzzwoo",
+        "name": "claude-code-youtube-extract",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sventorben/decider": {
+        "owner": "sventorben",
+        "name": "decider",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
