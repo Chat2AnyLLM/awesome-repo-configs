@@ -1736,5 +1736,110 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "gmickel/flow-next": {
+        "owner": "gmickel",
+        "name": "flow-next",
+        "branch": "main",
+        "enabled": true
+    },
+    "hoangsonww/Claude-Code-Agent-Monitor": {
+        "owner": "hoangsonww",
+        "name": "Claude-Code-Agent-Monitor",
+        "branch": "master",
+        "enabled": true
+    },
+    "bitwize-music-studio/claude-ai-music-skills": {
+        "owner": "bitwize-music-studio",
+        "name": "claude-ai-music-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JayantDevkar/claude-code-karma": {
+        "owner": "JayantDevkar",
+        "name": "claude-code-karma",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zexuanw958-svg/travel-plan-viz": {
+        "owner": "zexuanw958-svg",
+        "name": "travel-plan-viz",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aperivue/medsci-skills": {
+        "owner": "Aperivue",
+        "name": "medsci-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oaustegard/claude-skills": {
+        "owner": "oaustegard",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Junhanliu-dev/espalier-engineering": {
+        "owner": "Junhanliu-dev",
+        "name": "espalier-engineering",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yurukusa/cc-safe-setup": {
+        "owner": "yurukusa",
+        "name": "cc-safe-setup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "heymegabyte/claude-skills": {
+        "owner": "heymegabyte",
+        "name": "claude-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "KirKruglov/claude-skills-kit": {
+        "owner": "KirKruglov",
+        "name": "claude-skills-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "liminalshruti/liminal-agents": {
+        "owner": "liminalshruti",
+        "name": "liminal-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YurunChen/repo-docs-skills": {
+        "owner": "YurunChen",
+        "name": "repo-docs-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "startx-founders/claude-skills": {
+        "owner": "startx-founders",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rjroy/vibe-garden": {
+        "owner": "rjroy",
+        "name": "vibe-garden",
+        "branch": "main",
+        "enabled": true
+    },
+    "sofumel/claude-handoff-revive": {
+        "owner": "sofumel",
+        "name": "claude-handoff-revive",
+        "branch": "main",
+        "enabled": true
     }
 }

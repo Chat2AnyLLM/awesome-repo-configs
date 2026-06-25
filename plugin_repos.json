@@ -1828,5 +1828,113 @@
     "repoOwner": "Dannykkh",
     "repoName": "skill-olympus",
     "repoBranch": "master"
+  },
+  "gmickel/flow-next": {
+    "name": "gmickel/flow-next",
+    "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gmickel",
+    "repoName": "flow-next",
+    "repoBranch": "main"
+  },
+  "hoangsonww/Claude-Code-Agent-Monitor": {
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hoangsonww",
+    "repoName": "Claude-Code-Agent-Monitor",
+    "repoBranch": "master"
+  },
+  "bitwize-music-studio/claude-ai-music-skills": {
+    "name": "bitwize-music-studio/claude-ai-music-skills",
+    "description": "Human + AI music production workflow for Suno - skills, templates, and tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitwize-music-studio",
+    "repoName": "claude-ai-music-skills",
+    "repoBranch": "main"
+  },
+  "Aperivue/medsci-skills": {
+    "name": "Aperivue/medsci-skills",
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication figures. Built by a physician-researcher, tested on real publications. MIT licensed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aperivue",
+    "repoName": "medsci-skills",
+    "repoBranch": "main"
+  },
+  "oaustegard/claude-skills": {
+    "name": "oaustegard/claude-skills",
+    "description": "My collection of Claude skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oaustegard",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Junhanliu-dev/espalier-engineering": {
+    "name": "Junhanliu-dev/espalier-engineering",
+    "description": "Train your AI coders the way you'd train a vine \u2014 discover your codebase's actual patterns, then encode them as Claude Code rules, skills, agents, hooks, and a guided pipeline so generated code lands inside your conve...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Junhanliu-dev",
+    "repoName": "espalier-engineering",
+    "repoBranch": "main"
+  },
+  "yurukusa/cc-safe-setup": {
+    "name": "yurukusa/cc-safe-setup",
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 890+ example hooks, MIT, zero dependencies \u2014 built from real autonomous Claude Code opera...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yurukusa",
+    "repoName": "cc-safe-setup",
+    "repoBranch": "main"
+  },
+  "heymegabyte/claude-skills": {
+    "name": "heymegabyte/claude-skills",
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heymegabyte",
+    "repoName": "claude-skills",
+    "repoBranch": "master"
+  },
+  "liminalshruti/liminal-agents": {
+    "name": "liminalshruti/liminal-agents",
+    "description": "Three bounded agents (Analyst, SDR, Auditor) that do agency-priced B2B work locally. Each refuses out of lane and names the right agent. SQLCipher-encrypted vault keeps the record. Built for the AI Agent Economy Hacka...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "liminalshruti",
+    "repoName": "liminal-agents",
+    "repoBranch": "main"
+  },
+  "startx-founders/claude-skills": {
+    "name": "startx-founders/claude-skills",
+    "description": "Community-curated catalog of Claude Code skills built by StartX founders. Curated, not Anthropic-audited.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "startx-founders",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "rjroy/vibe-garden": {
+    "name": "rjroy/vibe-garden",
+    "description": "Claude Code plugins: Compass Rose (GitHub Projects), Lore Development (project context), Notify Hook (desktop/mobile notifications), Mind Reader (session feedback).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rjroy",
+    "repoName": "vibe-garden",
+    "repoBranch": "main"
+  },
+  "sofumel/claude-handoff-revive": {
+    "name": "sofumel/claude-handoff-revive",
+    "description": "Resume Claude Code work after rate/usage/context limits without replaying the prior transcript. Auto-saves at 90%/95% usage. Plugin-installable, 10 languages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sofumel",
+    "repoName": "claude-handoff-revive",
+    "repoBranch": "main"
   }
 }
