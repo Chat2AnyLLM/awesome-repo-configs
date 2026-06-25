@@ -562,5 +562,47 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "michtio/craftcms-claude-skills": {
+    "owner": "michtio",
+    "name": "craftcms-claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "komluk/scaffolding": {
+    "owner": "komluk",
+    "name": "scaffolding",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "domengabrovsek/claude": {
+    "owner": "domengabrovsek",
+    "name": "claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ashikparvez89/larouex-fullstack-plugin": {
+    "owner": "Ashikparvez89",
+    "name": "larouex-fullstack-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "OrodruinLabs/nazgul": {
+    "owner": "OrodruinLabs",
+    "name": "nazgul",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "randomittin/heimdall": {
+    "owner": "randomittin",
+    "name": "heimdall",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

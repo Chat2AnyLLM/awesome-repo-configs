@@ -1841,5 +1841,96 @@
         "name": "claude-handoff-revive",
         "branch": "main",
         "enabled": true
+    },
+    "Nako0/devglobe-extension": {
+        "owner": "Nako0",
+        "name": "devglobe-extension",
+        "branch": "main",
+        "enabled": true
+    },
+    "michtio/craftcms-claude-skills": {
+        "owner": "michtio",
+        "name": "craftcms-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "komluk/scaffolding": {
+        "owner": "komluk",
+        "name": "scaffolding",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jxpeng98/qiongli": {
+        "owner": "jxpeng98",
+        "name": "qiongli",
+        "branch": "main",
+        "enabled": true
+    },
+    "domengabrovsek/claude": {
+        "owner": "domengabrovsek",
+        "name": "claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rookiestar28/Agentique-CLI": {
+        "owner": "rookiestar28",
+        "name": "Agentique-CLI",
+        "branch": "main",
+        "enabled": true
+    },
+    "apoorvjain25/production-audit": {
+        "owner": "apoorvjain25",
+        "name": "production-audit",
+        "branch": "main",
+        "enabled": true
+    },
+    "OrodruinLabs/nazgul": {
+        "owner": "OrodruinLabs",
+        "name": "nazgul",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KevinZai/commander": {
+        "owner": "KevinZai",
+        "name": "commander",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "randomittin/heimdall": {
+        "owner": "randomittin",
+        "name": "heimdall",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Nirvaan05/Bleu-Plugin": {
+        "owner": "Nirvaan05",
+        "name": "Bleu-Plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "markphelps/agent-plugins": {
+        "owner": "markphelps",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "toBzh30/Claude-Project-Bootstrap": {
+        "owner": "toBzh30",
+        "name": "Claude-Project-Bootstrap",
+        "branch": "main",
+        "enabled": true
+    },
+    "stealth-engine/skills": {
+        "owner": "stealth-engine",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

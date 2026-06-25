@@ -1936,5 +1936,95 @@
     "repoOwner": "sofumel",
     "repoName": "claude-handoff-revive",
     "repoBranch": "main"
+  },
+  "Nako0/devglobe-extension": {
+    "name": "Nako0/devglobe-extension",
+    "description": "Official Extensions for DevGlobe. Show up on a 3D globe in real time while you code, with automatic time tracking and coding metrics.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nako0",
+    "repoName": "devglobe-extension",
+    "repoBranch": "main"
+  },
+  "michtio/craftcms-claude-skills": {
+    "name": "michtio/craftcms-claude-skills",
+    "description": "Production-ready Claude Code skills, agents, and project templates for Craft CMS 5 development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "michtio",
+    "repoName": "craftcms-claude-skills",
+    "repoBranch": "main"
+  },
+  "komluk/scaffolding": {
+    "name": "komluk/scaffolding",
+    "description": "11 agents, 31 skills, 15 commands, 8 hooks \u2014 spec-driven multi-agent orchestration for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "komluk",
+    "repoName": "scaffolding",
+    "repoBranch": "main"
+  },
+  "apoorvjain25/production-audit": {
+    "name": "apoorvjain25/production-audit",
+    "description": "Claude Code skill that audits your product until it stops finding things - then proves it. 24 lenses, 2 convergence loops, 0 hedging.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "apoorvjain25",
+    "repoName": "production-audit",
+    "repoBranch": "main"
+  },
+  "Ashikparvez89/larouex-fullstack-plugin": {
+    "name": "Ashikparvez89/larouex-fullstack-plugin",
+    "description": "\ud83c\udf10 Build modern full-stack web applications easily with the Claude Code plugin, featuring 81 commands and 12 AI agents for efficient development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ashikparvez89",
+    "repoName": "larouex-fullstack-plugin",
+    "repoBranch": "main"
+  },
+  "OrodruinLabs/nazgul": {
+    "name": "OrodruinLabs/nazgul",
+    "description": "Multi-agent autonomous development loop for Claude Code \u2014 17 agents, review pipeline, context management, and parallel execution",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OrodruinLabs",
+    "repoName": "nazgul",
+    "repoBranch": "main"
+  },
+  "KevinZai/commander": {
+    "name": "KevinZai/commander",
+    "description": "CC Commander \u2014 Master Claude Code instantly. 61 plugin skills, 22 specialist agents, 23 lifecycle hooks (38 handlers), dynamic workflows + /ccc-ultracode on Opus 4.8. Free for now. commanderplugin.com",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KevinZai",
+    "repoName": "commander",
+    "repoBranch": "main"
+  },
+  "randomittin/heimdall": {
+    "name": "randomittin/heimdall",
+    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical checkpointing, wave-based planning with acceptance gates, caveman ultra (~75% token savings). On...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "randomittin",
+    "repoName": "heimdall",
+    "repoBranch": "main"
+  },
+  "Nirvaan05/Bleu-Plugin": {
+    "name": "Nirvaan05/Bleu-Plugin",
+    "description": "Bleu - Claude Code plugin for living blueprints. Turns ideas into a file-backed markdown wiki (vision, architecture, ADRs, action points) that survives /clear and hands off to GSD or Superpowers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nirvaan05",
+    "repoName": "Bleu-Plugin",
+    "repoBranch": "main"
+  },
+  "toBzh30/Claude-Project-Bootstrap": {
+    "name": "toBzh30/Claude-Project-Bootstrap",
+    "description": "A Claude Code plugin that bootstraps a shared project ground truth \u2014 GitHub Project board, working agreements, and CLAUDE.md \u2014 so Claude and your team stay in sync across sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "toBzh30",
+    "repoName": "Claude-Project-Bootstrap",
+    "repoBranch": "main"
   }
 }
