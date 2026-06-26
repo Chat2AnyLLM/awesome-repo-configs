@@ -2407,5 +2407,103 @@
         "name": "ai-coding-principles",
         "branch": "main",
         "enabled": true
+    },
+    "teng-lin/notebooklm-py": {
+        "owner": "teng-lin",
+        "name": "notebooklm-py",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "worldwonderer/video-recap-skills": {
+        "owner": "worldwonderer",
+        "name": "video-recap-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "antonbabenko/deliberation": {
+        "owner": "antonbabenko",
+        "name": "deliberation",
+        "branch": "master",
+        "enabled": true
+    },
+    "joomcode/joompulse-skills": {
+        "owner": "joomcode",
+        "name": "joompulse-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pilotspace/ADD": {
+        "owner": "pilotspace",
+        "name": "ADD",
+        "branch": "main",
+        "enabled": true
+    },
+    "jikig-ai/soleur": {
+        "owner": "jikig-ai",
+        "name": "soleur",
+        "branch": "main",
+        "enabled": true
+    },
+    "linxule/kimi-plugin-cc": {
+        "owner": "linxule",
+        "name": "kimi-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "GrillerGeek/idd-framework": {
+        "owner": "GrillerGeek",
+        "name": "idd-framework",
+        "branch": "main",
+        "enabled": true
+    },
+    "giggsoinc/andie": {
+        "owner": "giggsoinc",
+        "name": "andie",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Wolfe-Jam/faf-skills": {
+        "owner": "Wolfe-Jam",
+        "name": "faf-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "easyinplay/harnessed": {
+        "owner": "easyinplay",
+        "name": "harnessed",
+        "branch": "main",
+        "enabled": true
+    },
+    "broomva/skills": {
+        "owner": "broomva",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qxbyte/pluginhub": {
+        "owner": "qxbyte",
+        "name": "pluginhub",
+        "branch": "main",
+        "enabled": true
+    },
+    "robertnowell/marketing-pipeline": {
+        "owner": "robertnowell",
+        "name": "marketing-pipeline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vanducng/skills": {
+        "owner": "vanducng",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

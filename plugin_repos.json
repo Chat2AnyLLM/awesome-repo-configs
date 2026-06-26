@@ -2386,5 +2386,104 @@
     "repoOwner": "unvulcanised-watercress762",
     "repoName": "mem9",
     "repoBranch": "main"
+  },
+  "worldwonderer/video-recap-skills": {
+    "name": "worldwonderer/video-recap-skills",
+    "description": "Turn any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "worldwonderer",
+    "repoName": "video-recap-skills",
+    "repoBranch": "main"
+  },
+  "antonbabenko/deliberation": {
+    "name": "antonbabenko/deliberation",
+    "description": "Ask Codex, Gemini, Grok, and 400+ OpenRouter models (Qwen, Kimi, DeepSeek) for second opinions or arbiter-mediated consensus. One MCP server for Claude Code, Codex, Cursor, Kiro, OpenCode. Measures which models earn t...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "antonbabenko",
+    "repoName": "deliberation",
+    "repoBranch": "master"
+  },
+  "joomcode/joompulse-skills": {
+    "name": "joomcode/joompulse-skills",
+    "description": "Public Claude agent skills that turn JoomPulse data into Mercado Livre seller workflows: market research, competitor tracking, product discovery. Requires JoomPulse MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joomcode",
+    "repoName": "joompulse-skills",
+    "repoBranch": "main"
+  },
+  "pilotspace/ADD": {
+    "name": "pilotspace/ADD",
+    "description": "ADD . one LOOP skill \u27f3 5 Specs \u27f3 8 Growth-Steps",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pilotspace",
+    "repoName": "ADD",
+    "repoBranch": "main"
+  },
+  "jikig-ai/soleur": {
+    "name": "jikig-ai/soleur",
+    "description": "The Company-as-a-Service platform. Build, ship, and scale -- powered by AI teams.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jikig-ai",
+    "repoName": "soleur",
+    "repoBranch": "main"
+  },
+  "linxule/kimi-plugin-cc": {
+    "name": "linxule/kimi-plugin-cc",
+    "description": "Claude Code plugin that delegates read-only review, adversarial review, free-form ask, and write-capable rescue work to the local Kimi CLI. Includes an opt-in stop-time review gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "linxule",
+    "repoName": "kimi-plugin-cc",
+    "repoBranch": "main"
+  },
+  "giggsoinc/andie": {
+    "name": "giggsoinc/andie",
+    "description": "Multi-modal sharp thinker \u2014 FeynTech + Drama modes for Claude, Perplexity, ChatGPT, Manus",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "giggsoinc",
+    "repoName": "andie",
+    "repoBranch": "main"
+  },
+  "Wolfe-Jam/faf-skills": {
+    "name": "Wolfe-Jam/faf-skills",
+    "description": "Claude Code skills for .faf \u2014 reusable workflows for project DNA management",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Wolfe-Jam",
+    "repoName": "faf-skills",
+    "repoBranch": "main"
+  },
+  "qxbyte/pluginhub": {
+    "name": "qxbyte/pluginhub",
+    "description": "\u63d2\u4ef6\u5e93",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qxbyte",
+    "repoName": "pluginhub",
+    "repoBranch": "main"
+  },
+  "robertnowell/marketing-pipeline": {
+    "name": "robertnowell/marketing-pipeline",
+    "description": "Problem-first automated marketing pipeline for open source projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robertnowell",
+    "repoName": "marketing-pipeline",
+    "repoBranch": "main"
+  },
+  "vanducng/skills": {
+    "name": "vanducng/skills",
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vanducng",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }
