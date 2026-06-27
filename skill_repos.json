@@ -2621,5 +2621,132 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "getzikra/Zikra": {
+        "owner": "getzikra",
+        "name": "Zikra",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JasonColapietro/suede-creator-skills": {
+        "owner": "JasonColapietro",
+        "name": "suede-creator-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Vit129/agy-plugin-cc": {
+        "owner": "Vit129",
+        "name": "agy-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "Bugrasemerkant/web-quality-skills": {
+        "owner": "Bugrasemerkant",
+        "name": "web-quality-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "suboss87/FDEOps": {
+        "owner": "suboss87",
+        "name": "FDEOps",
+        "branch": "Main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Makiya1202/ai-agents-skills": {
+        "owner": "Makiya1202",
+        "name": "ai-agents-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hackermanishackerman/claude-skills-vault": {
+        "owner": "hackermanishackerman",
+        "name": "claude-skills-vault",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "channel47/plugins": {
+        "owner": "channel47",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "OpenGHz/embodied-ai-paper-writer": {
+        "owner": "OpenGHz",
+        "name": "embodied-ai-paper-writer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mooreceipts/ai-sandbox": {
+        "owner": "mooreceipts",
+        "name": "ai-sandbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ryukyagamilight/terminal-skills": {
+        "owner": "ryukyagamilight",
+        "name": "terminal-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "0xc000022070/agentic-flake": {
+        "owner": "0xc000022070",
+        "name": "agentic-flake",
+        "branch": "main",
+        "enabled": true
+    },
+    "humongus69/langsmith-fetch-skill": {
+        "owner": "humongus69",
+        "name": "langsmith-fetch-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Modellix/modellix-skill": {
+        "owner": "Modellix",
+        "name": "modellix-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "batterfried-philosophy172/Agent-Startup-Skills": {
+        "owner": "batterfried-philosophy172",
+        "name": "Agent-Startup-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "inquisitive-production852/github-optimization-skill": {
+        "owner": "inquisitive-production852",
+        "name": "github-optimization-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gshepptech/bits-and-mortar": {
+        "owner": "gshepptech",
+        "name": "bits-and-mortar",
+        "branch": "main",
+        "enabled": true
+    },
+    "vindm/dotclaude": {
+        "owner": "vindm",
+        "name": "dotclaude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cjcsecurity/claude-code-dual-build": {
+        "owner": "cjcsecurity",
+        "name": "claude-code-dual-build",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

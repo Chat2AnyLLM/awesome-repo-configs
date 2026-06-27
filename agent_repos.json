@@ -730,5 +730,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Vit129/agy-plugin-cc": {
+    "owner": "Vit129",
+    "name": "agy-plugin-cc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mooreceipts/ai-sandbox": {
+    "owner": "mooreceipts",
+    "name": "ai-sandbox",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "vindm/dotclaude": {
+    "owner": "vindm",
+    "name": "dotclaude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "cjcsecurity/claude-code-dual-build": {
+    "owner": "cjcsecurity",
+    "name": "claude-code-dual-build",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

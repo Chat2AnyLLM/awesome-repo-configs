@@ -2584,5 +2584,68 @@
     "repoOwner": "qiaeru",
     "repoName": "skills-github",
     "repoBranch": "main"
+  },
+  "Vit129/agy-plugin-cc": {
+    "name": "Vit129/agy-plugin-cc",
+    "description": "Claude Code plugin for Google's Antigravity (agy) CLI coding assistant and Antigravity IDE integration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Vit129",
+    "repoName": "agy-plugin-cc",
+    "repoBranch": "main"
+  },
+  "suboss87/FDEOps": {
+    "name": "suboss87/FDEOps",
+    "description": "The discipline and methodology for Forward Deployed Engineers. 34 skills, deterministic CLI, self-writing engagement memory. Works with any AI coding tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "suboss87",
+    "repoName": "FDEOps",
+    "repoBranch": "Main"
+  },
+  "channel47/plugins": {
+    "name": "channel47/plugins",
+    "description": "Legacy Channel47 plugin packaging; standalone skills now live in channel47/skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "channel47",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "gshepptech/bits-and-mortar": {
+    "name": "gshepptech/bits-and-mortar",
+    "description": "Bits & Mortar \u2014 a Claude Code plugin marketplace. Drew draws it. Mason builds it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gshepptech",
+    "repoName": "bits-and-mortar",
+    "repoBranch": "main"
+  },
+  "88plug/claude-code-plugins": {
+    "name": "88plug/claude-code-plugins",
+    "description": "Curated plugins by 88plug \u2014 install via /plugin marketplace add 88plug/claude-code-plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "anlor1002-alt/regressionledger": {
+    "name": "anlor1002-alt/regressionledger",
+    "description": "Claude Code hook that blocks fixes that already failed - fingerprints edits, links them to test outcomes, survives context compaction. 100% of disguised repeat fixes caught, zero false blocks (npm run bench).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anlor1002-alt",
+    "repoName": "regressionledger",
+    "repoBranch": "main"
+  },
+  "vindm/dotclaude": {
+    "name": "vindm/dotclaude",
+    "description": "AI dev infrastructure framework for Claude Code. /dotclaude:bootstrap authors CLAUDE.md + docs/ + .claude/ tuned to your project. Per-domain: design (showpiece), coding, planning, testing, data, ai-workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vindm",
+    "repoName": "dotclaude",
+    "repoBranch": "main"
   }
 }
