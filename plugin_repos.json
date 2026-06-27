@@ -1,7 +1,7 @@
 {
   "4-successful-ai-life": {
     "name": "4 Successful AI Life",
-    "description": "Curated Claude Code plugin marketplace — UI/UX excellence, session auto-naming & handoff, and prompt engineering.",
+    "description": "Curated Claude Code plugin marketplace \u2014 UI/UX excellence, session auto-naming & handoff, and prompt engineering.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "fernando-bertholdo",
@@ -2655,6 +2655,78 @@
     "type": "marketplace",
     "repoOwner": "vindm",
     "repoName": "dotclaude",
+    "repoBranch": "main"
+  },
+  "kunickiaj/codemem": {
+    "name": "kunickiaj/codemem",
+    "description": "A lightweight persistent-memory companion for OpenCode & Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kunickiaj",
+    "repoName": "codemem",
+    "repoBranch": "main"
+  },
+  "developer-overheid-nl/skills-standaarden": {
+    "name": "developer-overheid-nl/skills-standaarden",
+    "description": "Claude Code plugin voor het werken met Logius standaarden voor Nederlandse overheidsinteroperabiliteit (88 repos, 9 domeinen)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "developer-overheid-nl",
+    "repoName": "skills-standaarden",
+    "repoBranch": "main"
+  },
+  "jozobeer/mojiemoji-plugin": {
+    "name": "jozobeer/mojiemoji-plugin",
+    "description": "Claude Code plugin marketplace for mojiemoji.jozo.beer \u2014 expressive Japanese stamp rendering for GitHub markdown",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jozobeer",
+    "repoName": "mojiemoji-plugin",
+    "repoBranch": "main"
+  },
+  "developer-overheid-nl/skills-geo": {
+    "name": "developer-overheid-nl/skills-geo",
+    "description": "Claude Code plugin voor Geonovum geo-standaarden voor ruimtelijke data in Nederland",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "developer-overheid-nl",
+    "repoName": "skills-geo",
+    "repoBranch": "main"
+  },
+  "tuanle96/odoo-ai-skills": {
+    "name": "tuanle96/odoo-ai-skills",
+    "description": "Claude Code skills suite for AI-driven Odoo 17/18/19 development: read ground truth from the running instance first (fields, MRO/super chains, views, security, runtime flow + state with default redaction, reverse fiel...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tuanle96",
+    "repoName": "odoo-ai-skills",
+    "repoBranch": "main"
+  },
+  "428alexander9/claude-skills-marketplace": {
+    "name": "428alexander9/claude-skills-marketplace",
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software development with clear boundaries and traceable requirements.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "428alexander9",
+    "repoName": "claude-skills-marketplace",
+    "repoBranch": "master"
+  },
+  "jmagar/cortex": {
+    "name": "jmagar/cortex",
+    "description": "Homelab syslog receiver plus MCP server for searching, tailing, and correlating logs across hosts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jmagar",
+    "repoName": "cortex",
+    "repoBranch": "main"
+  },
+  "lc-semba-ryuichiro/semba-claude-plugins": {
+    "name": "lc-semba-ryuichiro/semba-claude-plugins",
+    "description": "\u81ea\u524d\u306e Claude Code \u306e Plugin \u7ba1\u7406\u30ea\u30dd\u30b8\u30c8\u30ea",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lc-semba-ryuichiro",
+    "repoName": "semba-claude-plugins",
     "repoBranch": "main"
   }
 }

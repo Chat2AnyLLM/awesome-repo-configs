@@ -2748,5 +2748,141 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "JuneYaooo/nihaisha-nishi-tcm": {
+        "owner": "JuneYaooo",
+        "name": "nihaisha-nishi-tcm",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aiskillstore/marketplace": {
+        "owner": "aiskillstore",
+        "name": "marketplace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tobihagemann/turbo": {
+        "owner": "tobihagemann",
+        "name": "turbo",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mark393295827/third-brain-v5-skills": {
+        "owner": "Mark393295827",
+        "name": "third-brain-v5-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Zhonghao1995/agentic-swmm-workflow": {
+        "owner": "Zhonghao1995",
+        "name": "agentic-swmm-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "developer-overheid-nl/skills-standaarden": {
+        "owner": "developer-overheid-nl",
+        "name": "skills-standaarden",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andykear/FileMaker-XML-field-definitions": {
+        "owner": "andykear",
+        "name": "FileMaker-XML-field-definitions",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jozobeer/mojiemoji-plugin": {
+        "owner": "jozobeer",
+        "name": "mojiemoji-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Neetx/ai-research-radar": {
+        "owner": "Neetx",
+        "name": "ai-research-radar",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "developer-overheid-nl/skills-geo": {
+        "owner": "developer-overheid-nl",
+        "name": "skills-geo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cypggs/fullstack-deploy": {
+        "owner": "cypggs",
+        "name": "fullstack-deploy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tuanle96/odoo-ai-skills": {
+        "owner": "tuanle96",
+        "name": "odoo-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "428alexander9/claude-skills-marketplace": {
+        "owner": "428alexander9",
+        "name": "claude-skills-marketplace",
+        "branch": "master",
+        "enabled": true
+    },
+    "mrgnfndr-dr/mind-clone": {
+        "owner": "mrgnfndr-dr",
+        "name": "mind-clone",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Neetx/ai-security-research-radar": {
+        "owner": "Neetx",
+        "name": "ai-security-research-radar",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Zephyrex21/claude-leetcode-helper": {
+        "owner": "Zephyrex21",
+        "name": "claude-leetcode-helper",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shauryalowkeygotaura/brand-launchpad": {
+        "owner": "shauryalowkeygotaura",
+        "name": "brand-launchpad",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jmagar/cortex": {
+        "owner": "jmagar",
+        "name": "cortex",
+        "branch": "main",
+        "enabled": true
+    },
+    "lc-semba-ryuichiro/semba-claude-plugins": {
+        "owner": "lc-semba-ryuichiro",
+        "name": "semba-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Recepay6358/claude-code-best-practice": {
+        "owner": "Recepay6358",
+        "name": "claude-code-best-practice",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
