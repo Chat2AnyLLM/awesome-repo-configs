@@ -772,5 +772,47 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "akira993/doc-audit-harness": {
+    "owner": "akira993",
+    "name": "doc-audit-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Mikacr1138/claude-bug-bounty": {
+    "owner": "Mikacr1138",
+    "name": "claude-bug-bounty",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bondarewicz/dreamteam": {
+    "owner": "bondarewicz",
+    "name": "dreamteam",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "odere-pro/claude-wiki-pages-plugin": {
+    "owner": "odere-pro",
+    "name": "claude-wiki-pages-plugin",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "evgenii-studitskikh/Claude-Code-SaaS-Studio": {
+    "owner": "evgenii-studitskikh",
+    "name": "Claude-Code-SaaS-Studio",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "qkitzero/kage-bunshin": {
+    "owner": "qkitzero",
+    "name": "kage-bunshin",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

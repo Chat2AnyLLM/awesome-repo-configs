@@ -2884,5 +2884,126 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "agentkit-seo/agentkit-seo": {
+        "owner": "agentkit-seo",
+        "name": "agentkit-seo",
+        "branch": "main",
+        "enabled": true
+    },
+    "lebsral/DSPy-Programming-not-prompting-LMs-skills": {
+        "owner": "lebsral",
+        "name": "DSPy-Programming-not-prompting-LMs-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "patriarchal-boothose896/notebooklm-py": {
+        "owner": "patriarchal-boothose896",
+        "name": "notebooklm-py",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "akira993/doc-audit-harness": {
+        "owner": "akira993",
+        "name": "doc-audit-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Paretofilm/superpowers-gstack": {
+        "owner": "Paretofilm",
+        "name": "superpowers-gstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nariatrip191/my-claude-skills": {
+        "owner": "nariatrip191",
+        "name": "my-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Marine-softdrink524/claude-skills": {
+        "owner": "Marine-softdrink524",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Anusd6703/writers-room-story-engine": {
+        "owner": "Anusd6703",
+        "name": "writers-room-story-engine",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Mikacr1138/claude-bug-bounty": {
+        "owner": "Mikacr1138",
+        "name": "claude-bug-bounty",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ibadbasit/skill_doc2ppt": {
+        "owner": "ibadbasit",
+        "name": "skill_doc2ppt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jaydenluckertjes-ai/Carmack-Council": {
+        "owner": "jaydenluckertjes-ai",
+        "name": "Carmack-Council",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rubyt5673/trade-show-skills": {
+        "owner": "rubyt5673",
+        "name": "trade-show-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "SURFLIN2030/swing-skills": {
+        "owner": "SURFLIN2030",
+        "name": "swing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hamza-ali-shahjahan/hamzaish": {
+        "owner": "hamza-ali-shahjahan",
+        "name": "hamzaish",
+        "branch": "main",
+        "enabled": true
+    },
+    "odere-pro/claude-wiki-pages-plugin": {
+        "owner": "odere-pro",
+        "name": "claude-wiki-pages-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "evgenii-studitskikh/Claude-Code-SaaS-Studio": {
+        "owner": "evgenii-studitskikh",
+        "name": "Claude-Code-SaaS-Studio",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "claude-hangar/claude-hangar": {
+        "owner": "claude-hangar",
+        "name": "claude-hangar",
+        "branch": "main",
+        "enabled": true
+    },
+    "qkitzero/kage-bunshin": {
+        "owner": "qkitzero",
+        "name": "kage-bunshin",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

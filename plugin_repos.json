@@ -1,7 +1,7 @@
 {
-    "verifyax-plugins": {
+  "verifyax-plugins": {
     "name": "VerifyAX Plugins",
-    "description": "Marketplace for the VerifyAX simulation-based agent verification platform — an MCP server plugin (conversational, no-code) and a REST API skill plugin (code-first): register agents, generate scenarios, run simulations, and fetch evaluations.",
+    "description": "Marketplace for the VerifyAX simulation-based agent verification platform \u2014 an MCP server plugin (conversational, no-code) and a REST API skill plugin (code-first): register agents, generate scenarios, run simulations, and fetch evaluations.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "verifyax",
@@ -2736,6 +2736,69 @@
     "type": "marketplace",
     "repoOwner": "lc-semba-ryuichiro",
     "repoName": "semba-claude-plugins",
+    "repoBranch": "main"
+  },
+  "agentkit-seo/agentkit-seo": {
+    "name": "agentkit-seo/agentkit-seo",
+    "description": "Portable AI agent skills and framework for evidence-based career optimization across GitHub, LinkedIn, CV/ATS, portfolios, and X, with one reusable source of truth.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agentkit-seo",
+    "repoName": "agentkit-seo",
+    "repoBranch": "main"
+  },
+  "lebsral/DSPy-Programming-not-prompting-LMs-skills": {
+    "name": "lebsral/DSPy-Programming-not-prompting-LMs-skills",
+    "description": "AI skills for Claude Code, Cursor, and other coding agents. Build reliable AI features with DSPy \u2014 classification, RAG, parsing, agents, and more. Just type /ai-do.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lebsral",
+    "repoName": "DSPy-Programming-not-prompting-LMs-skills",
+    "repoBranch": "main"
+  },
+  "akira993/doc-audit-harness": {
+    "name": "akira993/doc-audit-harness",
+    "description": "Change-driven documentation audit harness \u2014 a Claude Code plugin (docaudit). Diffs since the last clean audit, maps changed code/config to impacted docs, delegates doc checks, and drives /code-review + /security-revie...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akira993",
+    "repoName": "doc-audit-harness",
+    "repoBranch": "main"
+  },
+  "Paretofilm/superpowers-gstack": {
+    "name": "Paretofilm/superpowers-gstack",
+    "description": "How to use Superpowers and GStack together with Claude Code. Workflow manual, routing plugin, and CLAUDE.md generator. Use both frameworks \u2014 each in the phase where it excels.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Paretofilm",
+    "repoName": "superpowers-gstack",
+    "repoBranch": "main"
+  },
+  "hamza-ali-shahjahan/hamzaish": {
+    "name": "hamza-ali-shahjahan/hamzaish",
+    "description": "Get into Builder Mode \u2014 an AI-native startup factory and OS you point Claude Code (or Cursor/Codex/Windsurf) at.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hamza-ali-shahjahan",
+    "repoName": "hamzaish",
+    "repoBranch": "main"
+  },
+  "odere-pro/claude-wiki-pages-plugin": {
+    "name": "odere-pro/claude-wiki-pages-plugin",
+    "description": "A Claude Code plugin for Obsidian \u2014 Karpathy's LLM Wiki shipped as a four-layer, hook-enforced agent stack with multi-agent orchestration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "odere-pro",
+    "repoName": "claude-wiki-pages-plugin",
+    "repoBranch": "main"
+  },
+  "claude-hangar/claude-hangar": {
+    "name": "claude-hangar/claude-hangar",
+    "description": "Production-grade configuration management for Claude Code. Hooks, agents, skills, multi-project orchestration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claude-hangar",
+    "repoName": "claude-hangar",
     "repoBranch": "main"
   }
 }
