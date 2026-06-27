@@ -1,4 +1,13 @@
 {
+    "verifyax-plugins": {
+    "name": "VerifyAX Plugins",
+    "description": "Marketplace for the VerifyAX simulation-based agent verification platform — an MCP server plugin (conversational, no-code) and a REST API skill plugin (code-first): register agents, generate scenarios, run simulations, and fetch evaluations.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "verifyax",
+    "repoName": "verifyax-plugins",
+    "repoBranch": "main"
+  },
   "4-successful-ai-life": {
     "name": "4 Successful AI Life",
     "description": "Curated Claude Code plugin marketplace \u2014 UI/UX excellence, session auto-naming & handoff, and prompt engineering.",
