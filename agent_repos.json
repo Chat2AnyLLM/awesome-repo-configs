@@ -891,5 +891,47 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "shinpr/claude-code-workflows": {
+    "owner": "shinpr",
+    "name": "claude-code-workflows",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jianshuo/claude-skills": {
+    "owner": "jianshuo",
+    "name": "claude-skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ngocsangyem/MeowKit": {
+    "owner": "ngocsangyem",
+    "name": "MeowKit",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "costajohnt/oss-autopilot": {
+    "owner": "costajohnt",
+    "name": "oss-autopilot",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mickeyyaya/evolve-loop": {
+    "owner": "mickeyyaya",
+    "name": "evolve-loop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jperrello/C0BALT_CUT": {
+    "owner": "jperrello",
+    "name": "C0BALT_CUT",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

@@ -3259,5 +3259,95 @@
     "repoOwner": "bim-ba",
     "repoName": "ai",
     "repoBranch": "main"
+  },
+  "shinpr/claude-code-workflows": {
+    "name": "shinpr/claude-code-workflows",
+    "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shinpr",
+    "repoName": "claude-code-workflows",
+    "repoBranch": "main"
+  },
+  "jianshuo/claude-skills": {
+    "name": "jianshuo/claude-skills",
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jianshuo",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "deeleeramone/PyWry": {
+    "name": "deeleeramone/PyWry",
+    "description": "PyWry is a cross-platform app factory, rendering engine and UI toolkit for Python that produces native desktop, web, and notebook experiences from a single API.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deeleeramone",
+    "repoName": "PyWry",
+    "repoBranch": "develop"
+  },
+  "ngocsangyem/MeowKit": {
+    "name": "ngocsangyem/MeowKit",
+    "description": "Production ready. AI Agent Workflow System for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ngocsangyem",
+    "repoName": "MeowKit",
+    "repoBranch": "main"
+  },
+  "costajohnt/oss-autopilot": {
+    "name": "costajohnt/oss-autopilot",
+    "description": "Claude Code plugin \u2014 AI-powered autopilot for managing open source contributions. Track PRs, respond to maintainers, discover issues, maintain velocity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "costajohnt",
+    "repoName": "oss-autopilot",
+    "repoBranch": "main"
+  },
+  "mickeyyaya/evolve-loop": {
+    "name": "mickeyyaya/evolve-loop",
+    "description": "Self-improving AI pipeline that autonomously discovers, builds, audits, and ships improvements to any codebase. 4 agents, 5 phases, eval gating, continuous learning. Plugin for Claude Code & Gemini CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mickeyyaya",
+    "repoName": "evolve-loop",
+    "repoBranch": "main"
+  },
+  "jordantplows/STARTUP-OS.MD": {
+    "name": "jordantplows/STARTUP-OS.MD",
+    "description": "The One Person AI Agent Company. Build an entire startup with Startup OS. Entire team of agents taking you from idea to customer",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jordantplows",
+    "repoName": "STARTUP-OS.MD",
+    "repoBranch": "main"
+  },
+  "claude-contrib/claude-services": {
+    "name": "claude-contrib/claude-services",
+    "description": "Production-ready MCP servers for Claude Code \u2014 browser automation, filesystem access, sequential thinking, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claude-contrib",
+    "repoName": "claude-services",
+    "repoBranch": "main"
+  },
+  "Goodsmileduck/claude-registry": {
+    "name": "Goodsmileduck/claude-registry",
+    "description": "Community marketplace of Claude Code plugins: DevOps skill packs (Terraform, Kubernetes, CI/CD, cloud platforms, DigitalOcean), CLAUDE.md optimization, and diagramming \u2014 gated by a best-practices lint + security-audit...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Goodsmileduck",
+    "repoName": "claude-registry",
+    "repoBranch": "main"
+  },
+  "TNT-Likely/honeycomb": {
+    "name": "TNT-Likely/honeycomb",
+    "description": "\ud83c\udf6f AI \u5f00\u53d1\u80fd\u529b\u6c89\u6dc0\u4ed3 \u2014 \u8de8\u5de5\u5177\u53ef\u590d\u7528\u7684 skills \u96c6\u5408(Claude Code plugin marketplace \u5206\u53d1,SKILL.md \u8de8\u5de5\u5177\u53ef\u7528)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TNT-Likely",
+    "repoName": "honeycomb",
+    "repoBranch": "main"
   }
 }

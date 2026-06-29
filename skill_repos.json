@@ -3621,5 +3621,97 @@
         "name": "ai",
         "branch": "main",
         "enabled": true
+    },
+    "shinpr/claude-code-workflows": {
+        "owner": "shinpr",
+        "name": "claude-code-workflows",
+        "branch": "main",
+        "enabled": true
+    },
+    "jianshuo/claude-skills": {
+        "owner": "jianshuo",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "deeleeramone/PyWry": {
+        "owner": "deeleeramone",
+        "name": "PyWry",
+        "branch": "develop",
+        "enabled": true
+    },
+    "ngocsangyem/MeowKit": {
+        "owner": "ngocsangyem",
+        "name": "MeowKit",
+        "branch": "main",
+        "enabled": true
+    },
+    "costajohnt/oss-autopilot": {
+        "owner": "costajohnt",
+        "name": "oss-autopilot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "varunk130/ai-workflow-playbooks": {
+        "owner": "varunk130",
+        "name": "ai-workflow-playbooks",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mickeyyaya/evolve-loop": {
+        "owner": "mickeyyaya",
+        "name": "evolve-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yanliudesign/job-description-skill": {
+        "owner": "yanliudesign",
+        "name": "job-description-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "varunk130/AI-Eval-Skills": {
+        "owner": "varunk130",
+        "name": "AI-Eval-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jordantplows/STARTUP-OS.MD": {
+        "owner": "jordantplows",
+        "name": "STARTUP-OS.MD",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Goodsmileduck/claude-registry": {
+        "owner": "Goodsmileduck",
+        "name": "claude-registry",
+        "branch": "main",
+        "enabled": true
+    },
+    "TNT-Likely/honeycomb": {
+        "owner": "TNT-Likely",
+        "name": "honeycomb",
+        "branch": "main",
+        "enabled": true
+    },
+    "yanliudesign/resume-builder-skill": {
+        "owner": "yanliudesign",
+        "name": "resume-builder-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jperrello/C0BALT_CUT": {
+        "owner": "jperrello",
+        "name": "C0BALT_CUT",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
