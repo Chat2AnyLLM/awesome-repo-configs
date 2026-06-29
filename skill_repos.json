@@ -1,4 +1,11 @@
 {
+    "javimosch/machin": {
+        "owner": "javimosch",
+        "name": "machin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "Bria-AI/bria-skill": {
         "owner": "Bria-AI",
         "name": "bria-skill",

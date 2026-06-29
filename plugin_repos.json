@@ -1,4 +1,13 @@
 {
+  "machin": {
+    "name": "machin (MFL)",
+    "description": "A language an AI agent writes as cheaply as Python that compiles through C to a tiny native binary (single static binary, no runtime). The machin plugin bundles 5 agent skills: machin-start (when to reach for machin + a zero-to-shipped quickstart with measured benchmarks) plus web, backend, gamedev, and deploy how-tos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "javimosch",
+    "repoName": "machin",
+    "repoBranch": "main"
+  },
   "verifyax-plugins": {
     "name": "VerifyAX Plugins",
     "description": "Marketplace for the VerifyAX simulation-based agent verification platform \u2014 an MCP server plugin (conversational, no-code) and a REST API skill plugin (code-first): register agents, generate scenarios, run simulations, and fetch evaluations.",
