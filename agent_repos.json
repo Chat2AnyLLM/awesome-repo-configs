@@ -947,5 +947,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "hllrm/G-Forge": {
+    "owner": "hllrm",
+    "name": "G-Forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "markusbegerow/board-of-directors": {
+    "owner": "markusbegerow",
+    "name": "board-of-directors",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

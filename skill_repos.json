@@ -3808,5 +3808,125 @@
         "name": "techne",
         "branch": "main",
         "enabled": true
+    },
+    "saidwivedi/research-skills": {
+        "owner": "saidwivedi",
+        "name": "research-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "x0c/doc-skills": {
+        "owner": "x0c",
+        "name": "doc-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yugef3h/leo-skills": {
+        "owner": "yugef3h",
+        "name": "leo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "voidmatcha/e2e-skills": {
+        "owner": "voidmatcha",
+        "name": "e2e-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hllrm/G-Forge": {
+        "owner": "hllrm",
+        "name": "G-Forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Zandereins/hydra": {
+        "owner": "Zandereins",
+        "name": "hydra",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "stakekit/agentkit": {
+        "owner": "stakekit",
+        "name": "agentkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "danieljustus/symaira-eraseme": {
+        "owner": "danieljustus",
+        "name": "symaira-eraseme",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jpvarbed/artifact-studio-tools": {
+        "owner": "jpvarbed",
+        "name": "artifact-studio-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thmsgo18/presentation-forge": {
+        "owner": "thmsgo18",
+        "name": "presentation-forge",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "goldenprofile/skills": {
+        "owner": "goldenprofile",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "gonoff/claude-todos-skill": {
+        "owner": "gonoff",
+        "name": "claude-todos-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tstanmay13/product-view": {
+        "owner": "tstanmay13",
+        "name": "product-view",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "karem505/character-animation-skill": {
+        "owner": "karem505",
+        "name": "character-animation-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ophis-fi/skills": {
+        "owner": "ophis-fi",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "chenweil/skillcaddy": {
+        "owner": "chenweil",
+        "name": "skillcaddy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dhk/skill-map": {
+        "owner": "dhk",
+        "name": "skill-map",
+        "branch": "main",
+        "enabled": true
+    },
+    "kazhuki7/agentskills-proxy": {
+        "owner": "kazhuki7",
+        "name": "agentskills-proxy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

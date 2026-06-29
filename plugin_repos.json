@@ -3475,5 +3475,95 @@
     "repoOwner": "ajbarea",
     "repoName": "techne",
     "repoBranch": "main"
+  },
+  "saidwivedi/research-skills": {
+    "name": "saidwivedi/research-skills",
+    "description": "Claude Code skills for AI/ML researchers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saidwivedi",
+    "repoName": "research-skills",
+    "repoBranch": "main"
+  },
+  "voidmatcha/e2e-skills": {
+    "name": "voidmatcha/e2e-skills",
+    "description": "AI agent testing toolkit for Playwright and Cypress: generate E2E tests from scratch, review existing specs against 24 anti-patterns (P0/P1/P2 silent-always-pass smells), and debug flaky failures from playwright-repor...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "voidmatcha",
+    "repoName": "e2e-skills",
+    "repoBranch": "main"
+  },
+  "hllrm/G-Forge": {
+    "name": "hllrm/G-Forge",
+    "description": "hllrm/G-Forge \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hllrm",
+    "repoName": "G-Forge",
+    "repoBranch": "main"
+  },
+  "stakekit/agentkit": {
+    "name": "stakekit/agentkit",
+    "description": "The official tooling for Yield.xyz AgentKit \u2014 a Claude Code plugin, standalone skills, and connection guides for the Yield.xyz AgentKit MCP Server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stakekit",
+    "repoName": "agentkit",
+    "repoBranch": "main"
+  },
+  "markusbegerow/board-of-directors": {
+    "name": "markusbegerow/board-of-directors",
+    "description": "AI-powered Board of Directors for multi-perspective strategic decisions. 10 director archetypes (Musk, Altman, Hassabis, Li, Nadella, Huang, Pichai, Hoffman, Ng, Jobs) + 7 shared methodology skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "markusbegerow",
+    "repoName": "board-of-directors",
+    "repoBranch": "main"
+  },
+  "goldenprofile/skills": {
+    "name": "goldenprofile/skills",
+    "description": "LLM Skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "goldenprofile",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "gonoff/claude-todos-skill": {
+    "name": "gonoff/claude-todos-skill",
+    "description": "Per-project todo tracking + project brain + autonomous plan-then-build, with a local broadsheet dashboard for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gonoff",
+    "repoName": "claude-todos-skill",
+    "repoBranch": "main"
+  },
+  "tstanmay13/product-view": {
+    "name": "tstanmay13/product-view",
+    "description": "A Claude Code skill that flips Claude out of code-language and into product-language",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tstanmay13",
+    "repoName": "product-view",
+    "repoBranch": "main"
+  },
+  "ophis-fi/skills": {
+    "name": "ophis-fi/skills",
+    "description": "Official Ophis plugins for Claude Code: swap tokens onchain via the Ophis MCP server (MEV-protected, gasless, keyless).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ophis-fi",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "dhk/skill-map": {
+    "name": "dhk/skill-map",
+    "description": "A living reference for the Agent Skills ecosystem",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dhk",
+    "repoName": "skill-map",
+    "repoBranch": "main"
   }
 }
