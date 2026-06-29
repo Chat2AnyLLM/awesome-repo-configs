@@ -3574,5 +3574,104 @@
     "repoOwner": "dhk",
     "repoName": "skill-map",
     "repoBranch": "main"
+  },
+  "jabrena/plinth": {
+    "name": "jabrena/plinth",
+    "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers combined with a human-in-the-loop model to modernize real-world SDLC practices.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jabrena",
+    "repoName": "plinth",
+    "repoBranch": "main"
+  },
+  "borghei/Claude-Skills": {
+    "name": "borghei/Claude-Skills",
+    "description": "343 AI skills, 76 expert agents, and 835 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, and more. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "borghei",
+    "repoName": "Claude-Skills",
+    "repoBranch": "main"
+  },
+  "haabe/mycelium": {
+    "name": "haabe/mycelium",
+    "description": "AI made building cheap. It didn't make deciding cheap. Mycelium is a Claude Code harness that makes your agent run discovery and weigh evidence before it writes code. It earns the right to start. Built for software, c...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "haabe",
+    "repoName": "mycelium",
+    "repoBranch": "main"
+  },
+  "suxrobGM/jobpilot": {
+    "name": "suxrobGM/jobpilot",
+    "description": "Claude Code plugin that autonomously searches job boards, auto-fills applications, generates cover letters, and preps for interviews - powered by your resume",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "suxrobGM",
+    "repoName": "jobpilot",
+    "repoBranch": "main"
+  },
+  "borghei/AI-Skills-German-Law": {
+    "name": "borghei/AI-Skills-German-Law",
+    "description": "AI skills for German legal practice and EU compliance. 48 plugins, 103 skills across general law, Fachanwaltschaften, regulated industries, IP/Medien, and EU frameworks (KI-VO, NIS2, HinSchG, LkSG, DORA, DSA/DMA, CSRD...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "borghei",
+    "repoName": "AI-Skills-German-Law",
+    "repoBranch": "main"
+  },
+  "DropFan/claude-code-plugins": {
+    "name": "DropFan/claude-code-plugins",
+    "description": "Claude Code plugins collection - custom plugins and curated favorites. chat-saver/skill-extractor/codex-bridge/etc...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DropFan",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "master"
+  },
+  "zircote/adr": {
+    "name": "zircote/adr",
+    "description": "Claude Code plugin for complete ADR lifecycle management with multi-format support (MADR, Nygard, Y-Statement), compliance auditing, and configurable workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zircote",
+    "repoName": "adr",
+    "repoBranch": "main"
+  },
+  "michalekz/claude-bridge": {
+    "name": "michalekz/claude-bridge",
+    "description": "Multi-chat orchestration plugin for Claude Code. File-based inbox, peer messaging, cross-session search across all your chats.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "michalekz",
+    "repoName": "claude-bridge",
+    "repoBranch": "main"
+  },
+  "charliechenye/SkillGate": {
+    "name": "charliechenye/SkillGate",
+    "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky changes, and block unapproved agent behavior in CI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "charliechenye",
+    "repoName": "SkillGate",
+    "repoBranch": "main"
+  },
+  "PradiptaPutra/cold-shower": {
+    "name": "PradiptaPutra/cold-shower",
+    "description": "Reality check for vibe-coded apps. 6-audit Claude Code skill: LLM costs, AI security, code health, deps, prod readiness, git/DevOps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PradiptaPutra",
+    "repoName": "cold-shower",
+    "repoBranch": "main"
+  },
+  "waqas1412/claude-harness": {
+    "name": "waqas1412/claude-harness",
+    "description": "Portable, self-adapting Claude Code harness: advisor agents, profile-driven /pr and /ticket skills, enforcement hooks, and /harness-init that tailors any repo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "waqas1412",
+    "repoName": "claude-harness",
+    "repoBranch": "main"
   }
 }

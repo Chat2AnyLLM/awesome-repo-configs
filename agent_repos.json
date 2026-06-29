@@ -961,5 +961,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "borghei/Claude-Skills": {
+    "owner": "borghei",
+    "name": "Claude-Skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "zircote/adr": {
+    "owner": "zircote",
+    "name": "adr",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

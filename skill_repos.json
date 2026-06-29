@@ -3935,5 +3935,115 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jabrena/plinth": {
+        "owner": "jabrena",
+        "name": "plinth",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "borghei/Claude-Skills": {
+        "owner": "borghei",
+        "name": "Claude-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "haabe/mycelium": {
+        "owner": "haabe",
+        "name": "mycelium",
+        "branch": "main",
+        "enabled": true
+    },
+    "suxrobGM/jobpilot": {
+        "owner": "suxrobGM",
+        "name": "jobpilot",
+        "branch": "main",
+        "enabled": true
+    },
+    "a-tokyo/agent-skills": {
+        "owner": "a-tokyo",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "borghei/AI-Skills-German-Law": {
+        "owner": "borghei",
+        "name": "AI-Skills-German-Law",
+        "branch": "main",
+        "enabled": true
+    },
+    "peterzat/zat.env": {
+        "owner": "peterzat",
+        "name": "zat.env",
+        "branch": "main",
+        "enabled": true
+    },
+    "DropFan/claude-code-plugins": {
+        "owner": "DropFan",
+        "name": "claude-code-plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "cairnscore/cairn-score-skill": {
+        "owner": "cairnscore",
+        "name": "cairn-score-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zircote/adr": {
+        "owner": "zircote",
+        "name": "adr",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "varunk130/ai-gtm-skill-library": {
+        "owner": "varunk130",
+        "name": "ai-gtm-skill-library",
+        "branch": "master",
+        "enabled": true
+    },
+    "varunk130/ai-customer-discovery-skills": {
+        "owner": "varunk130",
+        "name": "ai-customer-discovery-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "michalekz/claude-bridge": {
+        "owner": "michalekz",
+        "name": "claude-bridge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "varunk130/ai-ux-skill-library": {
+        "owner": "varunk130",
+        "name": "ai-ux-skill-library",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "charliechenye/SkillGate": {
+        "owner": "charliechenye",
+        "name": "SkillGate",
+        "branch": "main",
+        "enabled": true
+    },
+    "PradiptaPutra/cold-shower": {
+        "owner": "PradiptaPutra",
+        "name": "cold-shower",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "waqas1412/claude-harness": {
+        "owner": "waqas1412",
+        "name": "claude-harness",
+        "branch": "main",
+        "enabled": true
     }
 }
