@@ -3349,5 +3349,131 @@
     "repoOwner": "TNT-Likely",
     "repoName": "honeycomb",
     "repoBranch": "main"
+  },
+  "serpapi/serpapi-claude-plugin": {
+    "name": "serpapi/serpapi-claude-plugin",
+    "description": "Claude Plugin for SerpApi API.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serpapi",
+    "repoName": "serpapi-claude-plugin",
+    "repoBranch": "main"
+  },
+  "kenspc/kenspc-claude-plugin": {
+    "name": "kenspc/kenspc-claude-plugin",
+    "description": "Principle-first software-development workflow for Claude Code \u2014 brief \u2192 plan \u2192 task \u2192 implement \u2192 review, built for current-gen models.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kenspc",
+    "repoName": "kenspc-claude-plugin",
+    "repoBranch": "main"
+  },
+  "andreilungeanu/cursor-delegate-mcp": {
+    "name": "andreilungeanu/cursor-delegate-mcp",
+    "description": "Use Cursor from inside Claude Code. Delegate a coding task to Cursor's agent, get structured results back, and let Claude stay in the driver's seat.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andreilungeanu",
+    "repoName": "cursor-delegate-mcp",
+    "repoBranch": "main"
+  },
+  "soreavis/property-deep-dive": {
+    "name": "soreavis/property-deep-dive",
+    "description": "Pre-purchase property due-diligence across 126 countries \u00d7 41 user-invocable sections + 4 cross-cutting layers \u2014 tax, risks, yield, visa, mortgage, schools, scams, title-fraud monitoring, seller-withholding, foreign-b...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soreavis",
+    "repoName": "property-deep-dive",
+    "repoBranch": "main"
+  },
+  "mrkhachaturov/ccode-personal-plugins": {
+    "name": "mrkhachaturov/ccode-personal-plugins",
+    "description": "Personal Claude Code plugin directory with automated upstream sync from the official marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrkhachaturov",
+    "repoName": "ccode-personal-plugins",
+    "repoBranch": "main"
+  },
+  "claude-contrib/claude-extensions": {
+    "name": "claude-contrib/claude-extensions",
+    "description": "Hooks, context rules, and session automation for Claude Code \u2014 applied automatically, every session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claude-contrib",
+    "repoName": "claude-extensions",
+    "repoBranch": "main"
+  },
+  "claude-contrib/claude-skills": {
+    "name": "claude-contrib/claude-skills",
+    "description": "Slash commands for Claude Code \u2014 manage GitHub issues and pull requests, one focused workflow at a time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claude-contrib",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "MisterVitoPro/qa-claude-market": {
+    "name": "MisterVitoPro/qa-claude-market",
+    "description": "Claude Code plugin marketplace: qa-swarm (multi-agent code review + TDD fixes), code-atlas (architecture index + queryable graph), plan-runner (parallel plan execution), jupiter (spec consolidation)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MisterVitoPro",
+    "repoName": "qa-claude-market",
+    "repoBranch": "main"
+  },
+  "honerlaw/agent-marketplace": {
+    "name": "honerlaw/agent-marketplace",
+    "description": "A personal plugin marketplace for AI coding agents. Each plugin provides skills and automation scripts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "honerlaw",
+    "repoName": "agent-marketplace",
+    "repoBranch": "main"
+  },
+  "rizonetech/claude-plugins": {
+    "name": "rizonetech/claude-plugins",
+    "description": "Rizonetech's Claude Code plugin marketplace \u2014 browser automation via ChromeMCP, with more plugins to come",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rizonetech",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Zavelinski/claude-code-skills": {
+    "name": "Zavelinski/claude-code-skills",
+    "description": "Open-source (MIT) Claude Code plugin marketplace: 9 focused skills incl. skill-security-scan, adversarial-verify, godmode. Install with one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zavelinski",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
+  },
+  "svenhorvath/claude-marketplace": {
+    "name": "svenhorvath/claude-marketplace",
+    "description": "Claude Code Plugin Marketplace \u2014 Vaultkeeper, Protokoll-Skill, Tool-Enhancer",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "svenhorvath",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "openplanr/marketplace": {
+    "name": "openplanr/marketplace",
+    "description": "Official Claude Code plugin marketplace for openplanr.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "openplanr",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "ajbarea/techne": {
+    "name": "ajbarea/techne",
+    "description": "Nine Claude skills for multi-repo workflows: audit builds, tame CI, sync docs\u2194code, and keep sister repos in lockstep.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ajbarea",
+    "repoName": "techne",
+    "repoBranch": "main"
   }
 }

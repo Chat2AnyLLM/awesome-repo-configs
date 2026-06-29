@@ -3713,5 +3713,100 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "serpapi/serpapi-claude-plugin": {
+        "owner": "serpapi",
+        "name": "serpapi-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Anmol-Srv/sigil": {
+        "owner": "Anmol-Srv",
+        "name": "sigil",
+        "branch": "master",
+        "enabled": true
+    },
+    "GrayMa77er/tiny-spec": {
+        "owner": "GrayMa77er",
+        "name": "tiny-spec",
+        "branch": "main",
+        "enabled": true
+    },
+    "seductive-bercy787/learn-from-claudecode": {
+        "owner": "seductive-bercy787",
+        "name": "learn-from-claudecode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Out-bloodspavin173/openalex-skill": {
+        "owner": "Out-bloodspavin173",
+        "name": "openalex-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kenspc/kenspc-claude-plugin": {
+        "owner": "kenspc",
+        "name": "kenspc-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "andreilungeanu/cursor-delegate-mcp": {
+        "owner": "andreilungeanu",
+        "name": "cursor-delegate-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "riqxa/skills-best-practices": {
+        "owner": "riqxa",
+        "name": "skills-best-practices",
+        "branch": "main",
+        "enabled": true
+    },
+    "soreavis/property-deep-dive": {
+        "owner": "soreavis",
+        "name": "property-deep-dive",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "reasonless-throne486/sast-skills": {
+        "owner": "reasonless-throne486",
+        "name": "sast-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mrkhachaturov/ccode-personal-plugins": {
+        "owner": "mrkhachaturov",
+        "name": "ccode-personal-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "MisterVitoPro/qa-claude-market": {
+        "owner": "MisterVitoPro",
+        "name": "qa-claude-market",
+        "branch": "main",
+        "enabled": true
+    },
+    "honerlaw/agent-marketplace": {
+        "owner": "honerlaw",
+        "name": "agent-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "rizonetech/claude-plugins": {
+        "owner": "rizonetech",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ajbarea/techne": {
+        "owner": "ajbarea",
+        "name": "techne",
+        "branch": "main",
+        "enabled": true
     }
 }
