@@ -1045,5 +1045,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "louisdijkstra/claude-toolbox": {
+    "owner": "louisdijkstra",
+    "name": "claude-toolbox",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ORION2809/claude-Fulcrum": {
+    "owner": "ORION2809",
+    "name": "claude-Fulcrum",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

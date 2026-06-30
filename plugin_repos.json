@@ -3988,5 +3988,104 @@
     "repoOwner": "effythealien",
     "repoName": "plumb-line",
     "repoBranch": "main"
+  },
+  "secondsky/claude-skills": {
+    "name": "secondsky/claude-skills",
+    "description": "Production-ready skills for Claude Code CLI - Cloudflare, React, Tailwind v4, and AI integrations",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "secondsky",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "respira-press/agent-skills-wordpress": {
+    "name": "respira-press/agent-skills-wordpress",
+    "description": "Agent skills for WordPress \u2014 works in Claude Code, Codex, Antigravity, Cursor, and any agent supporting Skills + MCP. Audit, optimize, fix, and migrate WordPress sites.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "respira-press",
+    "repoName": "agent-skills-wordpress",
+    "repoBranch": "main"
+  },
+  "Flagrare/agent-skills": {
+    "name": "Flagrare/agent-skills",
+    "description": "Claude Code skills that wrap your full dev cycle \u2014 ticket intake, ATDD planning, code review, doc-drift audits, PR writing, and changelogs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Flagrare",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "kklimuk/docx-cli": {
+    "name": "kklimuk/docx-cli",
+    "description": "CLI for AI agents (Claude, Codex) to read, edit, and comment on .docx files with full format fidelity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kklimuk",
+    "repoName": "docx-cli",
+    "repoBranch": "main"
+  },
+  "eins78/agent-skills": {
+    "name": "eins78/agent-skills",
+    "description": "Agent skills collection: session management, TypeScript patterns, Chrome CDP, tmux, Apple integrations",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eins78",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "rcmiskin10/x-poster": {
+    "name": "rcmiskin10/x-poster",
+    "description": "Post to X from inside Claude \u2014 draft by talking, preview the cost, confirm, ship. BYO X app (pay-per-use, ~$0.015/post), OAuth by clicking a link, never auto-publishes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rcmiskin10",
+    "repoName": "x-poster",
+    "repoBranch": "main"
+  },
+  "chrismccoy/skills": {
+    "name": "chrismccoy/skills",
+    "description": "My Claude Code Custom Skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chrismccoy",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "24111999/claude-skills": {
+    "name": "24111999/claude-skills",
+    "description": "\ud83d\udcca Create and edit PowerPoint presentations effortlessly with Claude Skills using XML manipulation for streamlined content management.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "24111999",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "chigyel/claude-cs": {
+    "name": "chigyel/claude-cs",
+    "description": "\ud83e\udd16 Build custom customer support automation with Claude Code, streamlining ticket management and enhancing response efficiency for your business.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chigyel",
+    "repoName": "claude-cs",
+    "repoBranch": "main"
+  },
+  "photostructure/claude-code-skills": {
+    "name": "photostructure/claude-code-skills",
+    "description": "Opinionated Claude Code workflow skills: iterative planning, proof-based review, and clean Conventional Commits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "photostructure",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
+  },
+  "ORION2809/claude-Fulcrum": {
+    "name": "ORION2809/claude-Fulcrum",
+    "description": "ORION2809/claude-Fulcrum \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ORION2809",
+    "repoName": "claude-Fulcrum",
+    "repoBranch": "main"
   }
 }

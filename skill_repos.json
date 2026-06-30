@@ -4361,5 +4361,116 @@
         "name": "pmo-platform",
         "branch": "main",
         "enabled": true
+    },
+    "secondsky/claude-skills": {
+        "owner": "secondsky",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "respira-press/agent-skills-wordpress": {
+        "owner": "respira-press",
+        "name": "agent-skills-wordpress",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MobileReality/mdma": {
+        "owner": "MobileReality",
+        "name": "mdma",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Flagrare/agent-skills": {
+        "owner": "Flagrare",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kklimuk/docx-cli": {
+        "owner": "kklimuk",
+        "name": "docx-cli",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Magithar/SKILLmama": {
+        "owner": "Magithar",
+        "name": "SKILLmama",
+        "branch": "main",
+        "enabled": true
+    },
+    "eins78/agent-skills": {
+        "owner": "eins78",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chrismccoy/skills": {
+        "owner": "chrismccoy",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "craaft/skill": {
+        "owner": "craaft",
+        "name": "skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "riffkit/skill": {
+        "owner": "riffkit",
+        "name": "skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "longtengsiha/arbitrum-dapp-skill": {
+        "owner": "longtengsiha",
+        "name": "arbitrum-dapp-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "24111999/claude-skills": {
+        "owner": "24111999",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "wasulajr/headsup": {
+        "owner": "wasulajr",
+        "name": "headsup",
+        "branch": "main",
+        "enabled": true
+    },
+    "Nima-Edelkhani/claude-ux-design-skill": {
+        "owner": "Nima-Edelkhani",
+        "name": "claude-ux-design-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "photostructure/claude-code-skills": {
+        "owner": "photostructure",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "louisdijkstra/claude-toolbox": {
+        "owner": "louisdijkstra",
+        "name": "claude-toolbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ORION2809/claude-Fulcrum": {
+        "owner": "ORION2809",
+        "name": "claude-Fulcrum",
+        "branch": "main",
+        "enabled": true
     }
 }
