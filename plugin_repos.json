@@ -3799,5 +3799,104 @@
     "repoOwner": "Christophe1997",
     "repoName": "agent-extentions",
     "repoBranch": "main"
+  },
+  "KarmaloopAI/Jiva": {
+    "name": "KarmaloopAI/Jiva",
+    "description": "Jiva is a CLI-first, open source autonomous AI agent and open alternative to Claude. Written in TypeScript with native support for Sarvam-105B and gpt-oss-120b, it autonomously plans and executes tasks from your termi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KarmaloopAI",
+    "repoName": "Jiva",
+    "repoBranch": "main"
+  },
+  "FlorianBruniaux/github-roast-tpc": {
+    "name": "FlorianBruniaux/github-roast-tpc",
+    "description": "Claude Code plugin that audits a GitHub profile through its author's intent: README review, AI-marker detection, recruiter signals, keyword and SEO advice. From The Product Crew (TPC) GitHub Roast live.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FlorianBruniaux",
+    "repoName": "github-roast-tpc",
+    "repoBranch": "main"
+  },
+  "tuannv0069/claude-doc-genome": {
+    "name": "tuannv0069/claude-doc-genome",
+    "description": "One-shot Claude Code plugin to bootstrap an AI-agent documentation system (CLAUDE.md + rules + agent-guide).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tuannv0069",
+    "repoName": "claude-doc-genome",
+    "repoBranch": "main"
+  },
+  "neotherapper/claude-plugins": {
+    "name": "neotherapper/claude-plugins",
+    "description": "Georgios Pilitsoglou's Claude Code plugins \u2014 works with Claude Code, Gemini CLI, Copilot, Cursor, and OpenCode",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "neotherapper",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "berrydev-ai/skills": {
+    "name": "berrydev-ai/skills",
+    "description": "Berry Development Skills \u2014 Claude Code plugin marketplace (skills packaged as plugins)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "berrydev-ai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "softwaresoftware-dev/softwaresoftware-plugins": {
+    "name": "softwaresoftware-dev/softwaresoftware-plugins",
+    "description": "Claude Code plugin marketplace by softwaresoftware.dev",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "softwaresoftware-dev",
+    "repoName": "softwaresoftware-plugins",
+    "repoBranch": "main"
+  },
+  "jzills/Claude-Marketplace": {
+    "name": "jzills/Claude-Marketplace",
+    "description": "A modular marketplace of custom Claude Code skills, plugins, hooks, and AI workflow extensions built for reusable agentic developer workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jzills",
+    "repoName": "Claude-Marketplace",
+    "repoBranch": "main"
+  },
+  "devkindhq/agency-marketplace": {
+    "name": "devkindhq/agency-marketplace",
+    "description": "Agency marketplace is main skill sets of people and workflows in a BAU agency.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devkindhq",
+    "repoName": "agency-marketplace",
+    "repoBranch": "main"
+  },
+  "UCJung/uc-taskmanager-claude-agent": {
+    "name": "UCJung/uc-taskmanager-claude-agent",
+    "description": "Claude Code CLI\uc6a9 \ubc94\uc6a9 \uc791\uc5c5 \ud30c\uc774\ud504\ub77c\uc778 \uc11c\ube0c\uc5d0\uc774\uc804\ud2b8",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UCJung",
+    "repoName": "uc-taskmanager-claude-agent",
+    "repoBranch": "main"
+  },
+  "spideynolove/hekate": {
+    "name": "spideynolove/hekate",
+    "description": "Autonomous multi-agent development system with intelligent provider routing, quota-aware orchestration, and token-efficient execution",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spideynolove",
+    "repoName": "hekate",
+    "repoBranch": "main"
+  },
+  "goharabbas321/zeoel-framework": {
+    "name": "goharabbas321/zeoel-framework",
+    "description": "23-agent AI development team for Claude Code, Cursor, and Gemini CLI. Multi-agent orchestration framework with strict TDD, sprint planning, 420+ skills, and automated QA/security/SEO audits. Stop vibe-coding \u2014 start s...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "goharabbas321",
+    "repoName": "zeoel-framework",
+    "repoBranch": "main"
   }
 }

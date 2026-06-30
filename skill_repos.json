@@ -4137,5 +4137,94 @@
         "name": "agent-extentions",
         "branch": "main",
         "enabled": true
+    },
+    "KarmaloopAI/Jiva": {
+        "owner": "KarmaloopAI",
+        "name": "Jiva",
+        "branch": "main",
+        "enabled": true
+    },
+    "ChronoAIProject/Ornn": {
+        "owner": "ChronoAIProject",
+        "name": "Ornn",
+        "branch": "develop",
+        "enabled": true
+    },
+    "JiHuiYiYou/msh-skill": {
+        "owner": "JiHuiYiYou",
+        "name": "msh-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "FlorianBruniaux/github-roast-tpc": {
+        "owner": "FlorianBruniaux",
+        "name": "github-roast-tpc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tuannv0069/claude-doc-genome": {
+        "owner": "tuannv0069",
+        "name": "claude-doc-genome",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neotherapper/claude-plugins": {
+        "owner": "neotherapper",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "berrydev-ai/skills": {
+        "owner": "berrydev-ai",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jzills/Claude-Marketplace": {
+        "owner": "jzills",
+        "name": "Claude-Marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "devkindhq/agency-marketplace": {
+        "owner": "devkindhq",
+        "name": "agency-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "latuconsinafr/claude-code-config": {
+        "owner": "latuconsinafr",
+        "name": "claude-code-config",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UCJung/uc-taskmanager-claude-agent": {
+        "owner": "UCJung",
+        "name": "uc-taskmanager-claude-agent",
+        "branch": "main",
+        "enabled": true
+    },
+    "srivtx/solana-superchargers": {
+        "owner": "srivtx",
+        "name": "solana-superchargers",
+        "branch": "main",
+        "enabled": true
+    },
+    "spideynolove/hekate": {
+        "owner": "spideynolove",
+        "name": "hekate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "goharabbas321/zeoel-framework": {
+        "owner": "goharabbas321",
+        "name": "zeoel-framework",
+        "branch": "main",
+        "enabled": true
     }
 }

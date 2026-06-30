@@ -996,5 +996,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "FlorianBruniaux/github-roast-tpc": {
+    "owner": "FlorianBruniaux",
+    "name": "github-roast-tpc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "thespamer/claude-code-arsenal": {
+    "owner": "thespamer",
+    "name": "claude-code-arsenal",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "latuconsinafr/claude-code-config": {
+    "owner": "latuconsinafr",
+    "name": "claude-code-config",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rockscy/shipcrew": {
+    "owner": "rockscy",
+    "name": "shipcrew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jonase47/ccpr": {
+    "owner": "jonase47",
+    "name": "ccpr",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
