@@ -3898,5 +3898,95 @@
     "repoOwner": "goharabbas321",
     "repoName": "zeoel-framework",
     "repoBranch": "main"
+  },
+  "ya5huk/findash": {
+    "name": "ya5huk/findash",
+    "description": "An Israeli Claude Finance Plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ya5huk",
+    "repoName": "findash",
+    "repoBranch": "main"
+  },
+  "raelli/octowiz": {
+    "name": "raelli/octowiz",
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and routed through planning, TDD, review, and QA workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raelli",
+    "repoName": "octowiz",
+    "repoBranch": "main"
+  },
+  "jhlee0409/claude-harness-kit": {
+    "name": "jhlee0409/claude-harness-kit",
+    "description": "Claude Code plugin that introspects a repo's stack and generates a tailored harness \u2014 a CLAUDE.md spine, a stack-specific architect agent, and a verify hook wired to your real test/lint commands. Node/Python/Go/Rust,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jhlee0409",
+    "repoName": "claude-harness-kit",
+    "repoBranch": "main"
+  },
+  "goldenprofile/llm-skills": {
+    "name": "goldenprofile/llm-skills",
+    "description": "LLM Skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "goldenprofile",
+    "repoName": "llm-skills",
+    "repoBranch": "master"
+  },
+  "odere-pro/claude-software-3-0-marketplace": {
+    "name": "odere-pro/claude-software-3-0-marketplace",
+    "description": "The odere-pro Claude Code marketplace \u2014 one registry for every plugin I ship. Add it once, then install any tool as @odere-pro. Browse the catalog with live search.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "odere-pro",
+    "repoName": "claude-software-3-0-marketplace",
+    "repoBranch": "main"
+  },
+  "bitwise-media-group/skills": {
+    "name": "bitwise-media-group/skills",
+    "description": "Coding agent marketplace for skills used by the BitWise Media Group.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitwise-media-group",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "swapnil-agrim/loopsmith": {
+    "name": "swapnil-agrim/loopsmith",
+    "description": "Portable Goal-Based SDLC for Claude Code \u2014 interactive goal-mode + autonomous park-and-continue loop-mode, installable into any repo as a plugin. Zero runtime deps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "swapnil-agrim",
+    "repoName": "loopsmith",
+    "repoBranch": "main"
+  },
+  "khmm12/solidjs-v2-skills": {
+    "name": "khmm12/solidjs-v2-skills",
+    "description": "Claude Code skills for SolidJS 2.0 \u2014 write, migrate, and review solid-js 2.x code without React/1.x reflexes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "khmm12",
+    "repoName": "solidjs-v2-skills",
+    "repoBranch": "main"
+  },
+  "caezium/nib": {
+    "name": "caezium/nib",
+    "description": "Turn any idea or article into hand-drawn editorial illustrations starring your own character \u2014 free on your ChatGPT/Codex sub. An agent skill (Claude Code, Codex, Cursor, Gemini) + a macOS app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "caezium",
+    "repoName": "nib",
+    "repoBranch": "main"
+  },
+  "effythealien/plumb-line": {
+    "name": "effythealien/plumb-line",
+    "description": "A plumb line finds true vertical by gravity alone. plumb-line is a provenance library and Claude Code plugin that does the same for code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "effythealien",
+    "repoName": "plumb-line",
+    "repoBranch": "main"
   }
 }

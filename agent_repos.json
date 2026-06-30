@@ -1031,5 +1031,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jhlee0409/claude-harness-kit": {
+    "owner": "jhlee0409",
+    "name": "claude-harness-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "odere-pro/claude-software-3-0-marketplace": {
+    "owner": "odere-pro",
+    "name": "claude-software-3-0-marketplace",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

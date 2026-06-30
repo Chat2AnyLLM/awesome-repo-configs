@@ -4227,12 +4227,132 @@
         "branch": "main",
         "enabled": true
     },
-
     "albertoclemente/agentic-design-patterns-skills": {
         "owner": "albertoclemente",
         "name": "agentic-design-patterns-skills",
         "branch": "main",
         "skillsPath": "skills",
+        "enabled": true
+    },
+    "dembrandt/dembrandt-skills": {
+        "owner": "dembrandt",
+        "name": "dembrandt-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ya5huk/findash": {
+        "owner": "ya5huk",
+        "name": "findash",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KKenny0/card-skill": {
+        "owner": "KKenny0",
+        "name": "card-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "raelli/octowiz": {
+        "owner": "raelli",
+        "name": "octowiz",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jhlee0409/claude-harness-kit": {
+        "owner": "jhlee0409",
+        "name": "claude-harness-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "goldenprofile/llm-skills": {
+        "owner": "goldenprofile",
+        "name": "llm-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "odere-pro/claude-software-3-0-marketplace": {
+        "owner": "odere-pro",
+        "name": "claude-software-3-0-marketplace",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "bitwise-media-group/skills": {
+        "owner": "bitwise-media-group",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "softwaresoftware-dev/claude-browser-bridge": {
+        "owner": "softwaresoftware-dev",
+        "name": "claude-browser-bridge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "swapnil-agrim/loopsmith": {
+        "owner": "swapnil-agrim",
+        "name": "loopsmith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "khmm12/solidjs-v2-skills": {
+        "owner": "khmm12",
+        "name": "solidjs-v2-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eagerworks/kamal-skill": {
+        "owner": "eagerworks",
+        "name": "kamal-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bjgreenberg/senior-engineering-partner": {
+        "owner": "bjgreenberg",
+        "name": "senior-engineering-partner",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "caezium/nib": {
+        "owner": "caezium",
+        "name": "nib",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ggwhite/share-html": {
+        "owner": "ggwhite",
+        "name": "share-html",
+        "branch": "main",
+        "enabled": true
+    },
+    "fathanghani864/oh-my-openclaw": {
+        "owner": "fathanghani864",
+        "name": "oh-my-openclaw",
+        "branch": "main",
+        "enabled": true
+    },
+    "effythealien/plumb-line": {
+        "owner": "effythealien",
+        "name": "plumb-line",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cody-hutson/pmo-platform": {
+        "owner": "cody-hutson",
+        "name": "pmo-platform",
+        "branch": "main",
         "enabled": true
     }
 }
