@@ -1,4 +1,11 @@
 {
+    "aouellets/skillme": {
+        "owner": "aouellets",
+        "name": "skillme",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "javimosch/machin": {
         "owner": "javimosch",
         "name": "machin",
