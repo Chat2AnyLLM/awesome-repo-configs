@@ -4226,5 +4226,12 @@
         "name": "zeoel-framework",
         "branch": "main",
         "enabled": true
-    }
+    },
+
+"albertoclemente/agentic-design-patterns-skills": {
+    "owner": "albertoclemente",
+    "name": "agentic-design-patterns-skills",
+    "branch": "main",
+    "skillsPath": "skills",
+    "enabled": true
 }
