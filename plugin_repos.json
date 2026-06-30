@@ -3673,5 +3673,131 @@
     "repoOwner": "waqas1412",
     "repoName": "claude-harness",
     "repoBranch": "main"
+  },
+  "greglas75/zuvo": {
+    "name": "greglas75/zuvo",
+    "description": "Auto-activating, multi-agent skill ecosystem for Claude Code, Codex, and Cursor. 51 skills, 26 agents, quality gates, knowledge store, adversarial review, content writing & optimization.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "greglas75",
+    "repoName": "zuvo",
+    "repoBranch": "main"
+  },
+  "inkatze/planwright": {
+    "name": "inkatze/planwright",
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inkatze",
+    "repoName": "planwright",
+    "repoBranch": "main"
+  },
+  "jsyzlbw/bbwatch": {
+    "name": "jsyzlbw/bbwatch",
+    "description": "\u6e2f\u4e2d\u6df1 Blackboard \u76d1\u63a7 + \u8bfe\u4ef6\u6279\u91cf\u4e0b\u8f7d\u7684 Claude Code \u63d2\u4ef6\uff1a\u81ea\u52a8\u53d1\u73b0\u65b0\u4f5c\u4e1a/\u6539\u671f/\u516c\u544a/\u51fa\u5206\uff0c\u65e5\u591c\u4efb\u52a1\u770b\u677f\uff0c\u5bf9\u8bdd\u5f0f\u4e0b\u8bfe\u4ef6\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jsyzlbw",
+    "repoName": "bbwatch",
+    "repoBranch": "main"
+  },
+  "taipt1504/claudehut": {
+    "name": "taipt1504/claudehut",
+    "description": "A Claude Code plugin for Java & Spring Boot backend engineers that turns one task into a gate-enforced 7-phase agentic workflow \u2014 Discover \u2192 Brainstorm \u2192 Spec \u2192 Plan \u2192 Implement \u2192 Review \u2192 Learn. Native hooks, 11 suba...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "taipt1504",
+    "repoName": "claudehut",
+    "repoBranch": "main"
+  },
+  "Jose-Ribeir/claude-code-review-gate": {
+    "name": "Jose-Ribeir/claude-code-review-gate",
+    "description": "Native Claude Code AI code review + blocking pre-commit gate on your Claude subscription. Per-file reviewer subagents, severity/confidence verdicts. open-code-review, done compliantly.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jose-Ribeir",
+    "repoName": "claude-code-review-gate",
+    "repoBranch": "main"
+  },
+  "vdk888/bubble-shield-public": {
+    "name": "vdk888/bubble-shield-public",
+    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no account needed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vdk888",
+    "repoName": "bubble-shield-public",
+    "repoBranch": "main"
+  },
+  "SpencerPresley/spencer-and-claude-sitting-in-a-tree": {
+    "name": "SpencerPresley/spencer-and-claude-sitting-in-a-tree",
+    "description": "K-I-S-S-I-N-G",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SpencerPresley",
+    "repoName": "spencer-and-claude-sitting-in-a-tree",
+    "repoBranch": "main"
+  },
+  "bledden/claude-recall-marketplace": {
+    "name": "bledden/claude-recall-marketplace",
+    "description": "Marketplace for the recall plugin (bledden/claude-recall-plugin)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bledden",
+    "repoName": "claude-recall-marketplace",
+    "repoBranch": "main"
+  },
+  "fazer-ai/skills": {
+    "name": "fazer-ai/skills",
+    "description": "Claude Code marketplace for fazer.ai plugins. Subscription-gated plugins distributed via the fazer.ai private npm registry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fazer-ai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "howar31/howar31-marketplace": {
+    "name": "howar31/howar31-marketplace",
+    "description": "Howar31's personal Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "howar31",
+    "repoName": "howar31-marketplace",
+    "repoBranch": "main"
+  },
+  "EpicVillage/Hyperloop-Skill": {
+    "name": "EpicVillage/Hyperloop-Skill",
+    "description": "A self-verifying agent loop for Claude Code \u2014 design the loop, set the destination, and it drives until your checks pass.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EpicVillage",
+    "repoName": "Hyperloop-Skill",
+    "repoBranch": "main"
+  },
+  "KubeRocketCI/claude-plugins": {
+    "name": "KubeRocketCI/claude-plugins",
+    "description": "Claude Code Plugins for the KubeRocketCI Platform",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KubeRocketCI",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Mapika/claude-plugins": {
+    "name": "Mapika/claude-plugins",
+    "description": "One marketplace for all of Mark Marosi's Claude Code plugins \u2014 plainly, paper-reader, nice-figures.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mapika",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Christophe1997/agent-extentions": {
+    "name": "Christophe1997/agent-extentions",
+    "description": "my own agent skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Christophe1997",
+    "repoName": "agent-extentions",
+    "repoBranch": "main"
   }
 }

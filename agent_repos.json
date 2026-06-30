@@ -975,5 +975,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AndriyKalashnykov/flight-path": {
+    "owner": "AndriyKalashnykov",
+    "name": "flight-path",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "taipt1504/claudehut": {
+    "owner": "taipt1504",
+    "name": "claudehut",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Jose-Ribeir/claude-code-review-gate": {
+    "owner": "Jose-Ribeir",
+    "name": "claude-code-review-gate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -4045,5 +4045,97 @@
         "name": "claude-harness",
         "branch": "main",
         "enabled": true
+    },
+    "greglas75/zuvo": {
+        "owner": "greglas75",
+        "name": "zuvo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "inkatze/planwright": {
+        "owner": "inkatze",
+        "name": "planwright",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AndriyKalashnykov/flight-path": {
+        "owner": "AndriyKalashnykov",
+        "name": "flight-path",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "jsyzlbw/bbwatch": {
+        "owner": "jsyzlbw",
+        "name": "bbwatch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "taipt1504/claudehut": {
+        "owner": "taipt1504",
+        "name": "claudehut",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "khanhvo2172-dotcom/seo-skills": {
+        "owner": "khanhvo2172-dotcom",
+        "name": "seo-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Jose-Ribeir/claude-code-review-gate": {
+        "owner": "Jose-Ribeir",
+        "name": "claude-code-review-gate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vdk888/bubble-shield-public": {
+        "owner": "vdk888",
+        "name": "bubble-shield-public",
+        "branch": "main",
+        "enabled": true
+    },
+    "SpencerPresley/spencer-and-claude-sitting-in-a-tree": {
+        "owner": "SpencerPresley",
+        "name": "spencer-and-claude-sitting-in-a-tree",
+        "branch": "main",
+        "enabled": true
+    },
+    "bledden/claude-recall-marketplace": {
+        "owner": "bledden",
+        "name": "claude-recall-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "EpicVillage/Hyperloop-Skill": {
+        "owner": "EpicVillage",
+        "name": "Hyperloop-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hotopla5976/software-design-philosophy-skill": {
+        "owner": "hotopla5976",
+        "name": "software-design-philosophy-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "KubeRocketCI/claude-plugins": {
+        "owner": "KubeRocketCI",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Christophe1997/agent-extentions": {
+        "owner": "Christophe1997",
+        "name": "agent-extentions",
+        "branch": "main",
+        "enabled": true
     }
 }
