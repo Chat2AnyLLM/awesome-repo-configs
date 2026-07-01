@@ -4818,5 +4818,106 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "nyldn/claude-octopus": {
+        "owner": "nyldn",
+        "name": "claude-octopus",
+        "branch": "main",
+        "enabled": true
+    },
+    "BioTender-max/awesome-bio-agent-skills": {
+        "owner": "BioTender-max",
+        "name": "awesome-bio-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oprogramadorreal/optimus-claude": {
+        "owner": "oprogramadorreal",
+        "name": "optimus-claude",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maioio/genesis-architect": {
+        "owner": "maioio",
+        "name": "genesis-architect",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sgaunet/claude-plugins": {
+        "owner": "sgaunet",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "lohani-mohit/shipcheck": {
+        "owner": "lohani-mohit",
+        "name": "shipcheck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "apresmoi/jianglens": {
+        "owner": "apresmoi",
+        "name": "jianglens",
+        "branch": "main",
+        "enabled": true
+    },
+    "jieliapp/plugins": {
+        "owner": "jieliapp",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "rodovalhofs/maestro": {
+        "owner": "rodovalhofs",
+        "name": "maestro",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ryanhanley13/antipatterns": {
+        "owner": "ryanhanley13",
+        "name": "antipatterns",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alikmlsipahi/youtube-to-spec": {
+        "owner": "alikmlsipahi",
+        "name": "youtube-to-spec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "haiggoh/claude-code-desktop-sync": {
+        "owner": "haiggoh",
+        "name": "claude-code-desktop-sync",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "paraqualis/paraqualis-gxp": {
+        "owner": "paraqualis",
+        "name": "paraqualis-gxp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergiparpal/Sproutgraph": {
+        "owner": "sergiparpal",
+        "name": "Sproutgraph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergiparpal/Cambrian": {
+        "owner": "sergiparpal",
+        "name": "Cambrian",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -1136,5 +1136,54 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "nyldn/claude-octopus": {
+    "owner": "nyldn",
+    "name": "claude-octopus",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "oprogramadorreal/optimus-claude": {
+    "owner": "oprogramadorreal",
+    "name": "optimus-claude",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sgaunet/claude-plugins": {
+    "owner": "sgaunet",
+    "name": "claude-plugins",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Mnemoclaw/immune": {
+    "owner": "Mnemoclaw",
+    "name": "immune",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "paraqualis/paraqualis-gxp": {
+    "owner": "paraqualis",
+    "name": "paraqualis-gxp",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "augusto-romero-arango/eda-evsourcing-azure-harness": {
+    "owner": "augusto-romero-arango",
+    "name": "eda-evsourcing-azure-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sergiparpal/Sproutgraph": {
+    "owner": "sergiparpal",
+    "name": "Sproutgraph",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

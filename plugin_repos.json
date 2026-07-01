@@ -4348,5 +4348,86 @@
     "repoOwner": "U0001F3A2",
     "repoName": "liquid-org",
     "repoBranch": "main"
+  },
+  "nyldn/claude-octopus": {
+    "name": "nyldn/claude-octopus",
+    "description": "Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nyldn",
+    "repoName": "claude-octopus",
+    "repoBranch": "main"
+  },
+  "oprogramadorreal/optimus-claude": {
+    "name": "oprogramadorreal/optimus-claude",
+    "description": "Primes your project for peak Claude Code performance",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oprogramadorreal",
+    "repoName": "optimus-claude",
+    "repoBranch": "master"
+  },
+  "sgaunet/claude-plugins": {
+    "name": "sgaunet/claude-plugins",
+    "description": "A curated collection of specialized Claude Code plugins designed to enhance your development workflow with intelligent agents, skills, and commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sgaunet",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "jieliapp/plugins": {
+    "name": "jieliapp/plugins",
+    "description": "Plugins for syncing AI coding sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jieliapp",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "haiggoh/claude-code-desktop-sync": {
+    "name": "haiggoh/claude-code-desktop-sync",
+    "description": "Keep MCP servers in sync between Claude Code and Claude Desktop \u2014 a cross-platform Claude Code plugin (SessionStart hook + companion skill) that mirrors config both ways, backs up first, and flags what it can't sync.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "haiggoh",
+    "repoName": "claude-code-desktop-sync",
+    "repoBranch": "main"
+  },
+  "paraqualis/paraqualis-gxp": {
+    "name": "paraqualis/paraqualis-gxp",
+    "description": "Life-sciences CSV & GxP toolkit for Claude Code \u2014 GAMP 5, 21 CFR Part 11, EU GMP Annex 11, the live eCFR & openFDA, and an IQ/OQ/PQ qualification engine. Slash commands, auto-invoked skills, parallel sub-agents, an MC...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paraqualis",
+    "repoName": "paraqualis-gxp",
+    "repoBranch": "main"
+  },
+  "augusto-romero-arango/eda-evsourcing-azure-harness": {
+    "name": "augusto-romero-arango/eda-evsourcing-azure-harness",
+    "description": "Claude Code plugin: harness EDA + Event Sourcing + Azure Functions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "augusto-romero-arango",
+    "repoName": "eda-evsourcing-azure-harness",
+    "repoBranch": "main"
+  },
+  "sergiparpal/Sproutgraph": {
+    "name": "sergiparpal/Sproutgraph",
+    "description": "A Claude Code plugin that grows a document into a grounded, queryable knowledge graph. It generates ideas freely, then grounds them: every non-deterministic edge must quote a verbatim span from your source and survive...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sergiparpal",
+    "repoName": "Sproutgraph",
+    "repoBranch": "main"
+  },
+  "sergiparpal/Cambrian": {
+    "name": "sergiparpal/Cambrian",
+    "description": "Domain-agnostic Claude Code plugin that turns any creative brief into a diverse, non-clich\u00e9 slate of ideas\u2014a Cambrian burst, not a regression to the mean. A local, server-less engine (MAP-Elites + geometric novelty +...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sergiparpal",
+    "repoName": "Cambrian",
+    "repoBranch": "main"
   }
 }
