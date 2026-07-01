@@ -4087,5 +4087,77 @@
     "repoOwner": "ORION2809",
     "repoName": "claude-Fulcrum",
     "repoBranch": "main"
+  },
+  "backblaze-labs/claude-skill-b2-cloud-storage": {
+    "name": "backblaze-labs/claude-skill-b2-cloud-storage",
+    "description": "Claude Skill for Backblaze B2 Cloud Storage management from the terminal. Manage buckets, list and search files, audit storage usage, detect stale or large objects, review security posture, and safely clean up data us...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "backblaze-labs",
+    "repoName": "claude-skill-b2-cloud-storage",
+    "repoBranch": "main"
+  },
+  "codybrom/clairvoyance": {
+    "name": "codybrom/clairvoyance",
+    "description": "ESP for AI Coding \u2014 Agent skills on the philosophy on software design, grounded in decades of engineering experience.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codybrom",
+    "repoName": "clairvoyance",
+    "repoBranch": "main"
+  },
+  "ncaq/konoka": {
+    "name": "ncaq/konoka",
+    "description": "AI prompts, agents, and skills as loadable plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ncaq",
+    "repoName": "konoka",
+    "repoBranch": "master"
+  },
+  "suxrobGM/claude-plugins": {
+    "name": "suxrobGM/claude-plugins",
+    "description": "Marketplace of Claude Code plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "suxrobGM",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "morodomi/dev-crew": {
+    "name": "morodomi/dev-crew",
+    "description": "AI development team as a Claude Code plugin -- TDD workflow, security audit, and phase-boundary compaction.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "morodomi",
+    "repoName": "dev-crew",
+    "repoBranch": "main"
+  },
+  "modeled-information-format/claude-code-plugins": {
+    "name": "modeled-information-format/claude-code-plugins",
+    "description": "The modeled-information-format Claude Code plugin marketplace: a SHA-pinned, attestation-verified org catalog (marketplace.json) plus its published Astro catalog site.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "modeled-information-format",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "polrai-bg/polr-ai-skills": {
+    "name": "polrai-bg/polr-ai-skills",
+    "description": "Public Claude Code plugin marketplace from POLR AI. Install a skill with one command, or fork and run your own. Includes daily-brief and agentic-os.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "polrai-bg",
+    "repoName": "polr-ai-skills",
+    "repoBranch": "main"
+  },
+  "Ludovic33Fr/product-ai-toolbox": {
+    "name": "Ludovic33Fr/product-ai-toolbox",
+    "description": "A curated repository of agents and skills designed for Product Managers. It provides practical templates, workflows, and best practices to leverage AI effectively across discovery, delivery, and decision-making.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ludovic33Fr",
+    "repoName": "product-ai-toolbox",
+    "repoBranch": "main"
   }
 }

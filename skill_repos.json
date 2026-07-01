@@ -4472,5 +4472,133 @@
         "name": "claude-Fulcrum",
         "branch": "main",
         "enabled": true
+    },
+    "backblaze-labs/claude-skill-b2-cloud-storage": {
+        "owner": "backblaze-labs",
+        "name": "claude-skill-b2-cloud-storage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "codybrom/clairvoyance": {
+        "owner": "codybrom",
+        "name": "clairvoyance",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yanliudesign/behavior-question-skill": {
+        "owner": "yanliudesign",
+        "name": "behavior-question-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ncaq/konoka": {
+        "owner": "ncaq",
+        "name": "konoka",
+        "branch": "master",
+        "enabled": true
+    },
+    "suxrobGM/claude-plugins": {
+        "owner": "suxrobGM",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "morodomi/dev-crew": {
+        "owner": "morodomi",
+        "name": "dev-crew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "happysasha18/track-coach": {
+        "owner": "happysasha18",
+        "name": "track-coach",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pgundlupetvenkatesh/mdb_api_layer": {
+        "owner": "pgundlupetvenkatesh",
+        "name": "mdb_api_layer",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "SylphxAI/skills": {
+        "owner": "SylphxAI",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "polrai-bg/polr-ai-skills": {
+        "owner": "polrai-bg",
+        "name": "polr-ai-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Povaz/claude-code-dotfiles": {
+        "owner": "Povaz",
+        "name": "claude-code-dotfiles",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ludovic33Fr/product-ai-toolbox": {
+        "owner": "Ludovic33Fr",
+        "name": "product-ai-toolbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "floccose-burner9185/wow-harness": {
+        "owner": "floccose-burner9185",
+        "name": "wow-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "dbtlr/atlas-skills": {
+        "owner": "dbtlr",
+        "name": "atlas-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ksx9797/security-sweep-plugin": {
+        "owner": "Ksx9797",
+        "name": "security-sweep-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "motivated-groupthink347/boss-skill": {
+        "owner": "motivated-groupthink347",
+        "name": "boss-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Smaller-rawdata285/cost-guardian": {
+        "owner": "Smaller-rawdata285",
+        "name": "cost-guardian",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Julianalost754/infostyle-skill": {
+        "owner": "Julianalost754",
+        "name": "infostyle-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Johncli7941/claude-skill-video-transcribe": {
+        "owner": "Johncli7941",
+        "name": "claude-skill-video-transcribe",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

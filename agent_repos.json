@@ -1059,5 +1059,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "codybrom/clairvoyance": {
+    "owner": "codybrom",
+    "name": "clairvoyance",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "morodomi/dev-crew": {
+    "owner": "morodomi",
+    "name": "dev-crew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ludovic33Fr/product-ai-toolbox": {
+    "owner": "Ludovic33Fr",
+    "name": "product-ai-toolbox",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
