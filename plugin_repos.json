@@ -4240,5 +4240,113 @@
     "repoOwner": "ai4paper",
     "repoName": "apaper-plugin",
     "repoBranch": "main"
+  },
+  "renezander030/capcut-cli": {
+    "name": "renezander030/capcut-cli",
+    "description": "Independent, unofficial CLI to edit CapCut and JianYing projects \u2014 subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json directly. Not affiliated with ByteDance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "renezander030",
+    "repoName": "capcut-cli",
+    "repoBranch": "master"
+  },
+  "nikolai-vysotskyi/trace-mcp": {
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nikolai-vysotskyi",
+    "repoName": "trace-mcp",
+    "repoBranch": "master"
+  },
+  "XPOZpublic/xpoz-agent-skills": {
+    "name": "XPOZpublic/xpoz-agent-skills",
+    "description": "Agent skills for social media intelligence, powered by Xpoz. Compatible with Claude Code, Codex CLI, and ChatGPT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "XPOZpublic",
+    "repoName": "xpoz-agent-skills",
+    "repoBranch": "main"
+  },
+  "deepfusionlabs/deep-init": {
+    "name": "deepfusionlabs/deep-init",
+    "description": "Claude Code plugin that writes grounded, verified context for your coding agent \u2014 every claim checked against your code. Lean CLAUDE.md + deep docs, 100% local, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deepfusionlabs",
+    "repoName": "deep-init",
+    "repoBranch": "main"
+  },
+  "BytesFromToby/plumbline": {
+    "name": "BytesFromToby/plumbline",
+    "description": "A \"trust, but verify\" workflow of AI-agent skills: prompt to verified code, every step trackable and deviations logged \u2014 plus an autonomous maintenance loop to keep a built project honest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BytesFromToby",
+    "repoName": "plumbline",
+    "repoBranch": "main"
+  },
+  "davidteren/hotwire-codex-skills": {
+    "name": "davidteren/hotwire-codex-skills",
+    "description": "Unofficial Claude Code skillset inspired by The Rails and Hotwire Codex \u2014 8 skills for building interactive Rails + Hotwire apps (Turbo, Stimulus, Hotwire Native) across web, iOS & Android, each with a runnable checker.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davidteren",
+    "repoName": "hotwire-codex-skills",
+    "repoBranch": "main"
+  },
+  "estevanhernandez-stack-ed/vibe-plugins": {
+    "name": "estevanhernandez-stack-ed/vibe-plugins",
+    "description": "The 626 Labs plugin marketplace for Claude Code \u2014 a coordinated family of plugins for spec-driven building, iteration, docs, tests, security, and research. Paste this repo into Claude Code to install the whole Vibe ec...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "estevanhernandez-stack-ed",
+    "repoName": "vibe-plugins",
+    "repoBranch": "main"
+  },
+  "10CG/aria-plugin": {
+    "name": "10CG/aria-plugin",
+    "description": "Aria AI-DDD Plugin for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "10CG",
+    "repoName": "aria-plugin",
+    "repoBranch": "master"
+  },
+  "saqqdy/kafka-log-analyzer": {
+    "name": "saqqdy/kafka-log-analyzer",
+    "description": "Intelligent Kafka log analysis with real-time monitoring, anomaly detection, and source code linking",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saqqdy",
+    "repoName": "kafka-log-analyzer",
+    "repoBranch": "master"
+  },
+  "kora-projects/kora-skills": {
+    "name": "kora-projects/kora-skills",
+    "description": "Agent Skills for Kora Framework \u2014 compile-time DI for Java/Kotlin backend development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kora-projects",
+    "repoName": "kora-skills",
+    "repoBranch": "master"
+  },
+  "bertbertov/claude-stack": {
+    "name": "bertbertov/claude-stack",
+    "description": "A working Claude Code config from a solo builder who ships \u2014 156 skills, 6 hooks, conductor routing pattern, auto-dedupe watch.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bertbertov",
+    "repoName": "claude-stack",
+    "repoBranch": "main"
+  },
+  "U0001F3A2/liquid-org": {
+    "name": "U0001F3A2/liquid-org",
+    "description": "Agent organizations as first-class persisted data",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "U0001F3A2",
+    "repoName": "liquid-org",
+    "repoBranch": "main"
   }
 }

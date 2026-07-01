@@ -4716,5 +4716,107 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "renezander030/capcut-cli": {
+        "owner": "renezander030",
+        "name": "capcut-cli",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nikolai-vysotskyi/trace-mcp": {
+        "owner": "nikolai-vysotskyi",
+        "name": "trace-mcp",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "XPOZpublic/xpoz-agent-skills": {
+        "owner": "XPOZpublic",
+        "name": "xpoz-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "deepfusionlabs/deep-init": {
+        "owner": "deepfusionlabs",
+        "name": "deep-init",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BytesFromToby/plumbline": {
+        "owner": "BytesFromToby",
+        "name": "plumbline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LeonMelamud/claude-code-security-review": {
+        "owner": "LeonMelamud",
+        "name": "claude-code-security-review",
+        "branch": "main",
+        "enabled": true
+    },
+    "w4xqz/code-review-skill": {
+        "owner": "w4xqz",
+        "name": "code-review-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "davidteren/hotwire-codex-skills": {
+        "owner": "davidteren",
+        "name": "hotwire-codex-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "10CG/aria-plugin": {
+        "owner": "10CG",
+        "name": "aria-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "itmakshi-del/banana-claude": {
+        "owner": "itmakshi-del",
+        "name": "banana-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kora-projects/kora-skills": {
+        "owner": "kora-projects",
+        "name": "kora-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "bertbertov/claude-stack": {
+        "owner": "bertbertov",
+        "name": "claude-stack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Diegocortes15/playwright-ia-automation-framework-saucedemo": {
+        "owner": "Diegocortes15",
+        "name": "playwright-ia-automation-framework-saucedemo",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Glowboth/skillsync-mcp": {
+        "owner": "Glowboth",
+        "name": "skillsync-mcp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "U0001F3A2/liquid-org": {
+        "owner": "U0001F3A2",
+        "name": "liquid-org",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

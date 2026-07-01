@@ -1115,5 +1115,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "BytesFromToby/plumbline": {
+    "owner": "BytesFromToby",
+    "name": "plumbline",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "10CG/aria-plugin": {
+    "owner": "10CG",
+    "name": "aria-plugin",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "itmakshi-del/banana-claude": {
+    "owner": "itmakshi-del",
+    "name": "banana-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
