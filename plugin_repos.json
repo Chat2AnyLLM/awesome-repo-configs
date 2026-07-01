@@ -4159,5 +4159,86 @@
     "repoOwner": "Ludovic33Fr",
     "repoName": "product-ai-toolbox",
     "repoBranch": "main"
+  },
+  "pattern-ai-labs/agentcall": {
+    "name": "pattern-ai-labs/agentcall",
+    "description": "AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Meet, Teams, Zoom (Beta)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pattern-ai-labs",
+    "repoName": "agentcall",
+    "repoBranch": "main"
+  },
+  "beefiker/superloopy": {
+    "name": "beefiker/superloopy",
+    "description": "Lightweight Codex/Claude loop harness with strict evidence gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "beefiker",
+    "repoName": "superloopy",
+    "repoBranch": "main"
+  },
+  "brilliantdirectories/brilliant-directories-mcp": {
+    "name": "brilliantdirectories/brilliant-directories-mcp",
+    "description": "Official MCP server for Brilliant Directories \u2014 manage members, posts, leads, reviews, pages, and more from any AI agent. OpenAPI 3.1 spec included.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brilliantdirectories",
+    "repoName": "brilliant-directories-mcp",
+    "repoBranch": "main"
+  },
+  "Marcel-Bich/marcel-bich-claude-marketplace": {
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Marcel-Bich",
+    "repoName": "marcel-bich-claude-marketplace",
+    "repoBranch": "main"
+  },
+  "KtKID/x-dev-pipeline": {
+    "name": "KtKID/x-dev-pipeline",
+    "description": "Development workflow plugin for AI coding agents with structured req/plan/dev/review/fix loops and a lightweight quick-dev entry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KtKID",
+    "repoName": "x-dev-pipeline",
+    "repoBranch": "main"
+  },
+  "alvis-HaoH/gkd": {
+    "name": "alvis-HaoH/gkd",
+    "description": "Claude Code \u59d4\u6d3e plugin:\u628a\u4efb\u52a1\u6d3e\u7ed9\u6362\u8111\u7684agent,\u65e2\u7701\u4e3b Claude \u7684 token,\u540c\u65f6\u5f15\u5165\u4e0d\u540c\u6a21\u578b\u7684\u89c6\u89d2\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alvis-HaoH",
+    "repoName": "gkd",
+    "repoBranch": "main"
+  },
+  "toolbox-playground/super-claudio": {
+    "name": "toolbox-playground/super-claudio",
+    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "toolbox-playground",
+    "repoName": "super-claudio",
+    "repoBranch": "main"
+  },
+  "s977043/river-review": {
+    "name": "s977043/river-review",
+    "description": "Review Judgment as Code for AI-assisted development \u2014 codify your team's review standards as repo-owned skills and run them across plans, diffs, tests, and prior reviews.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "s977043",
+    "repoName": "river-review",
+    "repoBranch": "main"
+  },
+  "ai4paper/apaper-plugin": {
+    "name": "ai4paper/apaper-plugin",
+    "description": "Claude Code plugin for academic paper authoring: bundles writing/figure/PDF skills with the apaper-mcp server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ai4paper",
+    "repoName": "apaper-plugin",
+    "repoBranch": "main"
   }
 }

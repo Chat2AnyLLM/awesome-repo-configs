@@ -4607,5 +4607,114 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "bitjaru/styleseed": {
+        "owner": "bitjaru",
+        "name": "styleseed",
+        "branch": "main",
+        "enabled": true
+    },
+    "pattern-ai-labs/agentcall": {
+        "owner": "pattern-ai-labs",
+        "name": "agentcall",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "beefiker/superloopy": {
+        "owner": "beefiker",
+        "name": "superloopy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brilliantdirectories/brilliant-directories-mcp": {
+        "owner": "brilliantdirectories",
+        "name": "brilliant-directories-mcp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "KtKID/x-dev-pipeline": {
+        "owner": "KtKID",
+        "name": "x-dev-pipeline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alvis-HaoH/gkd": {
+        "owner": "alvis-HaoH",
+        "name": "gkd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "v0id-byte/peg-design-system": {
+        "owner": "v0id-byte",
+        "name": "peg-design-system",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MaoranSun/paper-to-storyboard": {
+        "owner": "MaoranSun",
+        "name": "paper-to-storyboard",
+        "branch": "main",
+        "enabled": true
+    },
+    "jsuvic/agent-profile": {
+        "owner": "jsuvic",
+        "name": "agent-profile",
+        "branch": "master",
+        "enabled": true
+    },
+    "toolbox-playground/super-claudio": {
+        "owner": "toolbox-playground",
+        "name": "super-claudio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "s977043/river-review": {
+        "owner": "s977043",
+        "name": "river-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "digitalsamba/digital-samba-skill": {
+        "owner": "digitalsamba",
+        "name": "digital-samba-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ai4paper/apaper-plugin": {
+        "owner": "ai4paper",
+        "name": "apaper-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arome3/arnen-blog-illustration": {
+        "owner": "arome3",
+        "name": "arnen-blog-illustration",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MaxSchoon/ixbrl": {
+        "owner": "MaxSchoon",
+        "name": "ixbrl",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "square-lupus579/30x-seo": {
+        "owner": "square-lupus579",
+        "name": "30x-seo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

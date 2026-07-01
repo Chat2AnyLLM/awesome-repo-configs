@@ -1080,5 +1080,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "beefiker/superloopy": {
+    "owner": "beefiker",
+    "name": "superloopy",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jsuvic/agent-profile": {
+    "owner": "jsuvic",
+    "name": "agent-profile",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "toolbox-playground/super-claudio": {
+    "owner": "toolbox-playground",
+    "name": "super-claudio",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "s977043/river-review": {
+    "owner": "s977043",
+    "name": "river-review",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "square-lupus579/30x-seo": {
+    "owner": "square-lupus579",
+    "name": "30x-seo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
