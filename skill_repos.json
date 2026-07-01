@@ -4600,5 +4600,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "mambalabsdev/mamba-labs-skills": {
+        "owner": "mambalabsdev",
+        "name": "mamba-labs-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
