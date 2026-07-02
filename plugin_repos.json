@@ -4519,5 +4519,14 @@
     "repoOwner": "dapih",
     "repoName": "cobaduluk",
     "repoBranch": "main"
+  },
+  "AlvisoOculus/optionsahoy-claude-plugin": {
+    "name": "OptionsAhoy",
+    "description": "Deterministic US equity-compensation tax optimizer: incentive stock option (ISO) exercise and alternative minimum tax (AMT) planning, non-qualified stock option (NSO) and restricted stock unit (RSU) decisions, single-stock concentration, protective puts, qualified small business stock (QSBS) checks, and equity funding plans. Bundles a hosted MCP server plus one planning skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AlvisoOculus",
+    "repoName": "optionsahoy-claude-plugin",
+    "repoBranch": "main"
   }
 }
