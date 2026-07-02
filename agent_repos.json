@@ -1220,5 +1220,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "hex/claude-council": {
+    "owner": "hex",
+    "name": "claude-council",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lugassawan/swe-workbench": {
+    "owner": "lugassawan",
+    "name": "swe-workbench",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Elevatormusic/apple-hig": {
+    "owner": "Elevatormusic",
+    "name": "apple-hig",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "hayashiii-ghub/hikizan": {
+    "owner": "hayashiii-ghub",
+    "name": "hikizan",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

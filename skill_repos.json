@@ -5079,5 +5079,105 @@
         "name": "cobaduluk",
         "branch": "main",
         "enabled": true
+    },
+    "Kaelio/ktx": {
+        "owner": "Kaelio",
+        "name": "ktx",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hex/claude-council": {
+        "owner": "hex",
+        "name": "claude-council",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yanmxa/cc-plugins": {
+        "owner": "yanmxa",
+        "name": "cc-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Uxcel-Lab/product-skills": {
+        "owner": "Uxcel-Lab",
+        "name": "product-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "qiankunli/devloop": {
+        "owner": "qiankunli",
+        "name": "devloop",
+        "branch": "main",
+        "enabled": true
+    },
+    "lugassawan/swe-workbench": {
+        "owner": "lugassawan",
+        "name": "swe-workbench",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Elevatormusic/apple-hig": {
+        "owner": "Elevatormusic",
+        "name": "apple-hig",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "veryCoolTimo/imagegen-skills": {
+        "owner": "veryCoolTimo",
+        "name": "imagegen-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zxc7563598/skillbox": {
+        "owner": "zxc7563598",
+        "name": "skillbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lennney/gate-all-skills": {
+        "owner": "lennney",
+        "name": "gate-all-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hayashiii-ghub/hikizan": {
+        "owner": "hayashiii-ghub",
+        "name": "hikizan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vchrl/dune-sui-query-builder": {
+        "owner": "vchrl",
+        "name": "dune-sui-query-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CyrilLeMat/temper-skills": {
+        "owner": "CyrilLeMat",
+        "name": "temper-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "cubha/claude-skills": {
+        "owner": "cubha",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "asynchronos/operator47-plugins": {
+        "owner": "asynchronos",
+        "name": "operator47-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

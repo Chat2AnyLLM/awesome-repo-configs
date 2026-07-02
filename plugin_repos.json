@@ -4528,5 +4528,104 @@
     "repoOwner": "AlvisoOculus",
     "repoName": "optionsahoy-claude-plugin",
     "repoBranch": "main"
+  },
+  "hex/claude-council": {
+    "name": "hex/claude-council",
+    "description": "Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hex",
+    "repoName": "claude-council",
+    "repoBranch": "main"
+  },
+  "yanmxa/cc-plugins": {
+    "name": "yanmxa/cc-plugins",
+    "description": "Claude Code plugins for lazy developers (in a good way) - automate and capture workflows to reclaim your time",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yanmxa",
+    "repoName": "cc-plugins",
+    "repoBranch": "main"
+  },
+  "Uxcel-Lab/product-skills": {
+    "name": "Uxcel-Lab/product-skills",
+    "description": "Expert UX design and product management skills for AI assistants, built from the Uxcel learning library.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Uxcel-Lab",
+    "repoName": "product-skills",
+    "repoBranch": "main"
+  },
+  "qiankunli/devloop": {
+    "name": "qiankunli/devloop",
+    "description": "A guard-railed, closed-loop workflow for AI coding agents: live state bus + execution-level hard intercepts on Claude Code (GitHub PR / GitLab MR). From step-level to requirement-level \u2014 eval-driven, spec-driven, huma...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qiankunli",
+    "repoName": "devloop",
+    "repoBranch": "main"
+  },
+  "lugassawan/swe-workbench": {
+    "name": "lugassawan/swe-workbench",
+    "description": "Claude Code plugin \u2014 senior-engineer toolkit with Clean Architecture, DDD, SOLID, TDD, design patterns, and Go/Rust/TypeScript expertise. Includes a full development lifecycle skill backed by superpowers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lugassawan",
+    "repoName": "swe-workbench",
+    "repoBranch": "main"
+  },
+  "Elevatormusic/apple-hig": {
+    "name": "Elevatormusic/apple-hig",
+    "description": "Claude Code plugin that designs and reviews UIs to Apple's Human Interface Guidelines across iOS, iPadOS, macOS, watchOS, tvOS, and visionOS.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Elevatormusic",
+    "repoName": "apple-hig",
+    "repoBranch": "main"
+  },
+  "veryCoolTimo/imagegen-skills": {
+    "name": "veryCoolTimo/imagegen-skills",
+    "description": "Turn a one-line idea into a production-grade, copy-paste-ready AI image prompt for posters, landing and UI mockups, ads, game art, and logos. A Claude Code skill optimized for gpt-image-2. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "veryCoolTimo",
+    "repoName": "imagegen-skills",
+    "repoBranch": "main"
+  },
+  "hayashiii-ghub/hikizan": {
+    "name": "hayashiii-ghub/hikizan",
+    "description": "Claude Code plugin / Agent Skills pack \u2014 verb-split skills for design, review, TDD, and PR flow, with deterministic git hooks as safety floors",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hayashiii-ghub",
+    "repoName": "hikizan",
+    "repoBranch": "main"
+  },
+  "SHIN620265/claude-pet": {
+    "name": "SHIN620265/claude-pet",
+    "description": "Desktop companion pet for Claude Code (Windows)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SHIN620265",
+    "repoName": "claude-pet",
+    "repoBranch": "main"
+  },
+  "cubha/claude-skills": {
+    "name": "cubha/claude-skills",
+    "description": "Curated marketplace of production-grade Claude Code skills & plugins \u2014 planning, parallel dev, debugging, design linting, adversarial review",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cubha",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "asynchronos/operator47-plugins": {
+    "name": "asynchronos/operator47-plugins",
+    "description": "Claude Code plugins \u2014 lazy-load, context optimization, workflow automation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asynchronos",
+    "repoName": "operator47-plugins",
+    "repoBranch": "main"
   }
 }
