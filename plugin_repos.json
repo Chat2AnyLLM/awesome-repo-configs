@@ -4726,5 +4726,113 @@
     "repoOwner": "NASA-PDS",
     "repoName": "pds-agent-skills",
     "repoBranch": "main"
+  },
+  "serejaris/personal-corp-skills": {
+    "name": "serejaris/personal-corp-skills",
+    "description": "Public Claude Code skills for Personal Corp, product work, AI operations, and agent-assisted development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serejaris",
+    "repoName": "personal-corp-skills",
+    "repoBranch": "main"
+  },
+  "tigerless-labs/autoharness": {
+    "name": "tigerless-labs/autoharness",
+    "description": "A self-learning skill layer for Claude Code \u2014 distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tigerless-labs",
+    "repoName": "autoharness",
+    "repoBranch": "main"
+  },
+  "alicicek/tale-mode": {
+    "name": "alicicek/tale-mode",
+    "description": "A discipline plugin for Claude Code + OpenAI Codex \u2014 plan first, verify against the real code, receipts on every decision, independent adversarial review, and a self-armed loop that keeps going until a real check pass...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alicicek",
+    "repoName": "tale-mode",
+    "repoBranch": "main"
+  },
+  "rasatpetabit/masterplan": {
+    "name": "rasatpetabit/masterplan",
+    "description": "Brainstorm \u2192 plan \u2192 execute development workflow plugin for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rasatpetabit",
+    "repoName": "masterplan",
+    "repoBranch": "main"
+  },
+  "martinholovsky/SOTA-skills": {
+    "name": "martinholovsky/SOTA-skills",
+    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT modes, audit checklists.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martinholovsky",
+    "repoName": "SOTA-skills",
+    "repoBranch": "main"
+  },
+  "sup3x/claude-code-eco": {
+    "name": "sup3x/claude-code-eco",
+    "description": "Eco mode for Claude Code. /eco: -31% to -73% output tokens with critical findings intact; /eco-max: up to -75% with lowered effort. Measured hardest on Claude Fable 5 (fable5), deep-studied on Sonnet 5, works on Opus...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sup3x",
+    "repoName": "claude-code-eco",
+    "repoBranch": "main"
+  },
+  "aj604/toolshed": {
+    "name": "aj604/toolshed",
+    "description": "Reference docs as checkable claims \u2014 a Claude Code plugin for the documentation lifecycle: bootstrap \u2192 write \u2192 detect drift \u2192 fix.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aj604",
+    "repoName": "toolshed",
+    "repoBranch": "main"
+  },
+  "SlashyIsTaken/fp-pluginplaza": {
+    "name": "SlashyIsTaken/fp-pluginplaza",
+    "description": "Flarepoint | A plaza of small, behavioural Claude Code plugins that make the AI's cognitive state explicit and persistent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SlashyIsTaken",
+    "repoName": "fp-pluginplaza",
+    "repoBranch": "main"
+  },
+  "charlesphilippebelhadj/avaa-dev-flow-trace": {
+    "name": "charlesphilippebelhadj/avaa-dev-flow-trace",
+    "description": "End-to-end reachability audit plugin for Claude Code. Finds broken calls, inert triggers, dead endpoints, swallowed errors \u2014 powered by the Debug Pilleur Master methodology. Tracing the flow is the source of truth. By...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "charlesphilippebelhadj",
+    "repoName": "avaa-dev-flow-trace",
+    "repoBranch": "main"
+  },
+  "raghatatepiyush/conductor": {
+    "name": "raghatatepiyush/conductor",
+    "description": "Safety-railed orchestration for Claude Code: plans behind an approval gate, routes to specialist plugins, tests and security-reviews every change, and stages the result - never commits, never touches production.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raghatatepiyush",
+    "repoName": "conductor",
+    "repoBranch": "main"
+  },
+  "shrekshrek/project-workflow": {
+    "name": "shrekshrek/project-workflow",
+    "description": "Spec-driven feature development blueprint for AI-assisted coding \u2014 methodology docs + starter template + Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shrekshrek",
+    "repoName": "project-workflow",
+    "repoBranch": "main"
+  },
+  "johantor/zion": {
+    "name": "johantor/zion",
+    "description": "Claude Code plugins for feature delivery",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johantor",
+    "repoName": "zion",
+    "repoBranch": "main"
   }
 }

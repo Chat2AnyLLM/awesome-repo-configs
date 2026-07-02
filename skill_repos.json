@@ -5283,5 +5283,103 @@
         "name": "pds-agent-skills",
         "branch": "main",
         "enabled": true
+    },
+    "gooseworks-ai/goose-skills": {
+        "owner": "gooseworks-ai",
+        "name": "goose-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "serejaris/personal-corp-skills": {
+        "owner": "serejaris",
+        "name": "personal-corp-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "prakhar1114/ai_mime": {
+        "owner": "prakhar1114",
+        "name": "ai_mime",
+        "branch": "main",
+        "enabled": true
+    },
+    "alicicek/tale-mode": {
+        "owner": "alicicek",
+        "name": "tale-mode",
+        "branch": "main",
+        "enabled": true
+    },
+    "rasatpetabit/masterplan": {
+        "owner": "rasatpetabit",
+        "name": "masterplan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "martinholovsky/SOTA-skills": {
+        "owner": "martinholovsky",
+        "name": "SOTA-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sup3x/claude-code-eco": {
+        "owner": "sup3x",
+        "name": "claude-code-eco",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "soulmachine/skills": {
+        "owner": "soulmachine",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "pj-costello/slop-guard": {
+        "owner": "pj-costello",
+        "name": "slop-guard",
+        "branch": "main",
+        "enabled": true
+    },
+    "aj604/toolshed": {
+        "owner": "aj604",
+        "name": "toolshed",
+        "branch": "main",
+        "enabled": true
+    },
+    "SlashyIsTaken/fp-pluginplaza": {
+        "owner": "SlashyIsTaken",
+        "name": "fp-pluginplaza",
+        "branch": "main",
+        "enabled": true
+    },
+    "charlesphilippebelhadj/avaa-dev-flow-trace": {
+        "owner": "charlesphilippebelhadj",
+        "name": "avaa-dev-flow-trace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "raghatatepiyush/conductor": {
+        "owner": "raghatatepiyush",
+        "name": "conductor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shrekshrek/project-workflow": {
+        "owner": "shrekshrek",
+        "name": "project-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johantor/zion": {
+        "owner": "johantor",
+        "name": "zion",
+        "branch": "main",
+        "enabled": true
     }
 }

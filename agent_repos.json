@@ -1269,5 +1269,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "tigerless-labs/autoharness": {
+    "owner": "tigerless-labs",
+    "name": "autoharness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rasatpetabit/masterplan": {
+    "owner": "rasatpetabit",
+    "name": "masterplan",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "raghatatepiyush/conductor": {
+    "owner": "raghatatepiyush",
+    "name": "conductor",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "shrekshrek/project-workflow": {
+    "owner": "shrekshrek",
+    "name": "project-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
