@@ -1,4 +1,10 @@
 {
+    "SakethKanchi/resume-radar": {
+        "owner": "SakethKanchi",
+        "name": "resume-radar",
+        "branch": "main",
+        "enabled": true
+    },
     "aouellets/skillme": {
         "owner": "aouellets",
         "name": "skillme",
