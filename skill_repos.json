@@ -4925,5 +4925,110 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "notque/vexjoy-agent": {
+        "owner": "notque",
+        "name": "vexjoy-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TseringYuu/anyviz": {
+        "owner": "TseringYuu",
+        "name": "anyviz",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zgbrenner/agentcounsel": {
+        "owner": "zgbrenner",
+        "name": "agentcounsel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Akshat2634/Codelens-AI": {
+        "owner": "Akshat2634",
+        "name": "Codelens-AI",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "jungjaehoon-lifegamez/MAMA": {
+        "owner": "jungjaehoon-lifegamez",
+        "name": "MAMA",
+        "branch": "main",
+        "enabled": true
+    },
+    "simiancraft/simiancraft-skills": {
+        "owner": "simiancraft",
+        "name": "simiancraft-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ai-screams/howl": {
+        "owner": "ai-screams",
+        "name": "howl",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pactkit/claude-code-plugin": {
+        "owner": "pactkit",
+        "name": "claude-code-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "mars-tw/web-card-game-skill": {
+        "owner": "mars-tw",
+        "name": "web-card-game-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Renn-Labs/Looptimal": {
+        "owner": "Renn-Labs",
+        "name": "Looptimal",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SuanFishXYY/sptler": {
+        "owner": "SuanFishXYY",
+        "name": "sptler",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kelp/kelp-claude-plugins": {
+        "owner": "kelp",
+        "name": "kelp-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "5dive-ai/5dive-plugins": {
+        "owner": "5dive-ai",
+        "name": "5dive-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "s977043/PlanGate": {
+        "owner": "s977043",
+        "name": "PlanGate",
+        "branch": "main",
+        "enabled": true
+    },
+    "hjongc/humanizer-kr": {
+        "owner": "hjongc",
+        "name": "humanizer-kr",
+        "branch": "main",
+        "enabled": true
+    },
+    "dapih/cobaduluk": {
+        "owner": "dapih",
+        "name": "cobaduluk",
+        "branch": "main",
+        "enabled": true
     }
 }

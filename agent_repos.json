@@ -1185,5 +1185,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "notque/vexjoy-agent": {
+    "owner": "notque",
+    "name": "vexjoy-agent",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "simiancraft/simiancraft-skills": {
+    "owner": "simiancraft",
+    "name": "simiancraft-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "pactkit/claude-code-plugin": {
+    "owner": "pactkit",
+    "name": "claude-code-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "s977043/PlanGate": {
+    "owner": "s977043",
+    "name": "PlanGate",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "dapih/cobaduluk": {
+    "owner": "dapih",
+    "name": "cobaduluk",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

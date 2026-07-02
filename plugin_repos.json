@@ -4429,5 +4429,95 @@
     "repoOwner": "sergiparpal",
     "repoName": "Cambrian",
     "repoBranch": "main"
+  },
+  "jungjaehoon-lifegamez/MAMA": {
+    "name": "jungjaehoon-lifegamez/MAMA",
+    "description": "Always-on companion for Claude that remembers your decisions and their evolution. Local-first memory       using SQLite + transformers.js embeddings.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jungjaehoon-lifegamez",
+    "repoName": "MAMA",
+    "repoBranch": "main"
+  },
+  "simiancraft/simiancraft-skills": {
+    "name": "simiancraft/simiancraft-skills",
+    "description": "Public Claude Code skills and agents from simiancraft. Marketplace-installable.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "simiancraft",
+    "repoName": "simiancraft-skills",
+    "repoBranch": "main"
+  },
+  "ai-screams/howl": {
+    "name": "ai-screams/howl",
+    "description": "\u26a1 Blazing-fast Go statusline HUD for Claude Code \u2014 13 metrics, adaptive layouts, zero dependencies",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ai-screams",
+    "repoName": "howl",
+    "repoBranch": "main"
+  },
+  "pactkit/claude-code-plugin": {
+    "name": "pactkit/claude-code-plugin",
+    "description": "PactKit plugin for Claude Code \u2014 install via /plugin marketplace add pactkit/claude-code-plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pactkit",
+    "repoName": "claude-code-plugin",
+    "repoBranch": "main"
+  },
+  "Renn-Labs/Looptimal": {
+    "name": "Renn-Labs/Looptimal",
+    "description": "Looptimal \u2014 turn an objective into a delivered, VERIFIED outcome: a sealed acceptance suite, the right loop, a war-game pass, domain-expert execution (maker != checker), and a separate verifier. Contains the loop-desi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Renn-Labs",
+    "repoName": "Looptimal",
+    "repoBranch": "main"
+  },
+  "kelp/kelp-claude-plugins": {
+    "name": "kelp/kelp-claude-plugins",
+    "description": "Claude Code plugins: language-agnostic TDD pipeline and Zig 0.15.x corrective context",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kelp",
+    "repoName": "kelp-claude-plugins",
+    "repoBranch": "main"
+  },
+  "5dive-ai/5dive-plugins": {
+    "name": "5dive-ai/5dive-plugins",
+    "description": "Claude Code plugin marketplace maintained by 5dive \u2014 Telegram bridge and related agent-channel integrations.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "5dive-ai",
+    "repoName": "5dive-plugins",
+    "repoBranch": "main"
+  },
+  "s977043/PlanGate": {
+    "name": "s977043/PlanGate",
+    "description": "Gate-based workflow for AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "s977043",
+    "repoName": "PlanGate",
+    "repoBranch": "main"
+  },
+  "hjongc/humanizer-kr": {
+    "name": "hjongc/humanizer-kr",
+    "description": "AI \ud2f0 \ub098\ub294 \ud55c\uad6d\uc5b4\ub97c \uc0ac\ub78c \ub9d0\ucc98\ub7fc, \ub9e5\ub77d\uc5d0 \ub9de\uac8c \uace0\uce58\ub294 Codex\u00b7Claude Code \uc2a4\ud0ac",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hjongc",
+    "repoName": "humanizer-kr",
+    "repoBranch": "main"
+  },
+  "dapih/cobaduluk": {
+    "name": "dapih/cobaduluk",
+    "description": "AI Agent Skills to convert and refine large and complex Excel table into JSON format with efficient token spending and continual learning",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dapih",
+    "repoName": "cobaduluk",
+    "repoBranch": "main"
   }
 }
