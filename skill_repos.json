@@ -5179,5 +5179,109 @@
         "name": "operator47-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "microsoft/power-platform-skills": {
+        "owner": "microsoft",
+        "name": "power-platform-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "NikiforovAll/claude-code-rules": {
+        "owner": "NikiforovAll",
+        "name": "claude-code-rules",
+        "branch": "main",
+        "enabled": true
+    },
+    "mulhamna/jira-commands": {
+        "owner": "mulhamna",
+        "name": "jira-commands",
+        "branch": "main",
+        "enabled": true
+    },
+    "AlterLab-IEU/AlterLab-Academic-Skills": {
+        "owner": "AlterLab-IEU",
+        "name": "AlterLab-Academic-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Pupok462/open-geo": {
+        "owner": "Pupok462",
+        "name": "open-geo",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "labeveryday/claude-put-in-work": {
+        "owner": "labeveryday",
+        "name": "claude-put-in-work",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "owgit/ai-collab-bridge": {
+        "owner": "owgit",
+        "name": "ai-collab-bridge",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "coinpaprika/skills": {
+        "owner": "coinpaprika",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "fusedio/skills": {
+        "owner": "fusedio",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mikhail-Za/Goalkeeper-Claude-skill": {
+        "owner": "Mikhail-Za",
+        "name": "Goalkeeper-Claude-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "felipemelendez/llm-orchestrator": {
+        "owner": "felipemelendez",
+        "name": "llm-orchestrator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wardawgmalvicious/claude-config": {
+        "owner": "wardawgmalvicious",
+        "name": "claude-config",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sling86/it-cli-plugin": {
+        "owner": "sling86",
+        "name": "it-cli-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "stefan-stepzero/shipkit": {
+        "owner": "stefan-stepzero",
+        "name": "shipkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "popjam-io/skills": {
+        "owner": "popjam-io",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NASA-PDS/pds-agent-skills": {
+        "owner": "NASA-PDS",
+        "name": "pds-agent-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

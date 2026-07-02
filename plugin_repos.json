@@ -4627,5 +4627,104 @@
     "repoOwner": "asynchronos",
     "repoName": "operator47-plugins",
     "repoBranch": "main"
+  },
+  "microsoft/power-platform-skills": {
+    "name": "microsoft/power-platform-skills",
+    "description": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "microsoft",
+    "repoName": "power-platform-skills",
+    "repoBranch": "main"
+  },
+  "NikiforovAll/claude-code-rules": {
+    "name": "NikiforovAll/claude-code-rules",
+    "description": "Learn practical techniques to enhance your AI-assisted development workflow with Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NikiforovAll",
+    "repoName": "claude-code-rules",
+    "repoBranch": "main"
+  },
+  "mulhamna/jira-commands": {
+    "name": "mulhamna/jira-commands",
+    "description": "Jira toolkit for terminals, coding assistants, and bots.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mulhamna",
+    "repoName": "jira-commands",
+    "repoBranch": "main"
+  },
+  "AlterLab-IEU/AlterLab-Academic-Skills": {
+    "name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "description": "210 evaluated academic Claude/agent skills across 16 research domains \u2014 bioinformatics, cheminformatics, data science, databases, clinical, Turkish academia & more. Every skill ships an executable eval (agentskills.io...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AlterLab-IEU",
+    "repoName": "AlterLab-Academic-Skills",
+    "repoBranch": "main"
+  },
+  "Pupok462/open-geo": {
+    "name": "Pupok462/open-geo",
+    "description": "open-geo \u2014 GEO (Generative Engine Optimization) visibility tracker: measure how a brand surfaces in AI answers, with a FastAPI/React dashboard and dark-themed PDF reports.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pupok462",
+    "repoName": "open-geo",
+    "repoBranch": "main"
+  },
+  "fusedio/skills": {
+    "name": "fusedio/skills",
+    "description": "Fused skills and plugins for AIs like Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fusedio",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Mikhail-Za/Goalkeeper-Claude-skill": {
+    "name": "Mikhail-Za/Goalkeeper-Claude-skill",
+    "description": "Fable 5 workflow Loop; A Claude Code skill: autonomous build / audit / verify loop that runs until a machine-checkable contract passes, with   \u258e deterministic anti-spin stop conditions (no-progress, retry, oscillation...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mikhail-Za",
+    "repoName": "Goalkeeper-Claude-skill",
+    "repoBranch": "main"
+  },
+  "felipemelendez/llm-orchestrator": {
+    "name": "felipemelendez/llm-orchestrator",
+    "description": "Deploy a coordinated team of AI engineers to any codebase. A Claude Code plugin with structured workflow, two-stage code review, autonomous BLOCKED recovery, and a research gate that verifies external APIs against cur...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "felipemelendez",
+    "repoName": "llm-orchestrator",
+    "repoBranch": "main"
+  },
+  "sling86/it-cli-plugin": {
+    "name": "sling86/it-cli-plugin",
+    "description": "Claude Code plugin for the its IT-systems CLI \u2014 drive RMM, Entra ID, Intune, Microsoft 365, Dokploy, Bitwarden, UniFi, Wrike, Azure and more from one shell.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sling86",
+    "repoName": "it-cli-plugin",
+    "repoBranch": "main"
+  },
+  "popjam-io/skills": {
+    "name": "popjam-io/skills",
+    "description": "Free agent skills for marketing, ads & creatives by POPJAM.IO \u2014 npx skills add popjam-io/skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "popjam-io",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "NASA-PDS/pds-agent-skills": {
+    "name": "NASA-PDS/pds-agent-skills",
+    "description": "Claude Code skills marketplace for NASA PDS workflows - automated release notes, program status reports, and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NASA-PDS",
+    "repoName": "pds-agent-skills",
+    "repoBranch": "main"
   }
 }

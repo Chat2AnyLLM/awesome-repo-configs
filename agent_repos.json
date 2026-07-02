@@ -1248,5 +1248,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Pupok462/open-geo": {
+    "owner": "Pupok462",
+    "name": "open-geo",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "felipemelendez/llm-orchestrator": {
+    "owner": "felipemelendez",
+    "name": "llm-orchestrator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "wardawgmalvicious/claude-config": {
+    "owner": "wardawgmalvicious",
+    "name": "claude-config",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
