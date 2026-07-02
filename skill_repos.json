@@ -1,4 +1,53 @@
 {
+    "sergebulaev/linkedin-skills": {
+        "owner": "sergebulaev",
+        "name": "linkedin-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergebulaev/x-skills": {
+        "owner": "sergebulaev",
+        "name": "x-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergebulaev/instagram-skills": {
+        "owner": "sergebulaev",
+        "name": "instagram-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergebulaev/youtube-skills": {
+        "owner": "sergebulaev",
+        "name": "youtube-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergebulaev/threads-skills": {
+        "owner": "sergebulaev",
+        "name": "threads-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergebulaev/tiktok-skills": {
+        "owner": "sergebulaev",
+        "name": "tiktok-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergebulaev/facebook-skills": {
+        "owner": "sergebulaev",
+        "name": "facebook-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "SakethKanchi/resume-radar": {
         "owner": "SakethKanchi",
         "name": "resume-radar",
