@@ -5607,5 +5607,99 @@
         "name": "claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "vibhasdutta/loop-engineer": {
+        "owner": "vibhasdutta",
+        "name": "loop-engineer",
+        "branch": "main",
+        "enabled": true
+    },
+    "nevenincs/vaultspec-core": {
+        "owner": "nevenincs",
+        "name": "vaultspec-core",
+        "branch": "main",
+        "enabled": true
+    },
+    "Abdulaziz-almoshen/orbit": {
+        "owner": "Abdulaziz-almoshen",
+        "name": "orbit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "filippolmt/skills": {
+        "owner": "filippolmt",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "anchit-choudhry/gryffin-calorai": {
+        "owner": "anchit-choudhry",
+        "name": "gryffin-calorai",
+        "branch": "main",
+        "enabled": true
+    },
+    "lawzava/megapowers": {
+        "owner": "lawzava",
+        "name": "megapowers",
+        "branch": "main",
+        "enabled": true
+    },
+    "sysCat64/md-to-html": {
+        "owner": "sysCat64",
+        "name": "md-to-html",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mrvnklm/claude-plugins": {
+        "owner": "mrvnklm",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "9uiLe/plugins": {
+        "owner": "9uiLe",
+        "name": "plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "endorphin-ai/hasbrains-agent-kit": {
+        "owner": "endorphin-ai",
+        "name": "hasbrains-agent-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "youki0p0/jen-marketplace": {
+        "owner": "youki0p0",
+        "name": "jen-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "aliasunder/agent-plugins": {
+        "owner": "aliasunder",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "immigration2000/unreal-mcp-kit": {
+        "owner": "immigration2000",
+        "name": "unreal-mcp-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Louisedinky226/superstack": {
+        "owner": "Louisedinky226",
+        "name": "superstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lucagattoni/TidyClaudeMD": {
+        "owner": "lucagattoni",
+        "name": "TidyClaudeMD",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

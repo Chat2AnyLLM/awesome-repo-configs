@@ -5005,5 +5005,131 @@
     "repoOwner": "neckarshore-skills",
     "repoName": "neckarshore-plugins",
     "repoBranch": "main"
+  },
+  "vibhasdutta/loop-engineer": {
+    "name": "vibhasdutta/loop-engineer",
+    "description": "Loop engineering skill for AI \u2014 scaffold a 9-agent team that discovers, implements, verifies, and iterates until your goal is met.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vibhasdutta",
+    "repoName": "loop-engineer",
+    "repoBranch": "main"
+  },
+  "Abdulaziz-almoshen/orbit": {
+    "name": "Abdulaziz-almoshen/orbit",
+    "description": "\ud83d\udef0\ufe0f Orbit \u2014 turn any repo into a self-prompting agentic loop (memory + sub-agent team + skills + loop + hard stop conditions). A Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Abdulaziz-almoshen",
+    "repoName": "orbit",
+    "repoBranch": "main"
+  },
+  "filippolmt/skills": {
+    "name": "filippolmt/skills",
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upstream via git-subdir and auto-updated by Renovate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "filippolmt",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "lawzava/megapowers": {
+    "name": "lawzava/megapowers",
+    "description": "Skills, plugins, and hooks that change how coding agents work \u2014 Claude Code, Codex, OpenCode, Antigravity. Measured, not vibed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lawzava",
+    "repoName": "megapowers",
+    "repoBranch": "main"
+  },
+  "sysCat64/md-to-html": {
+    "name": "sysCat64/md-to-html",
+    "description": "Content-aware Markdown-to-HTML plugin that generates self-contained HTML pages for Claude Code, Codex, and Antigravity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sysCat64",
+    "repoName": "md-to-html",
+    "repoBranch": "main"
+  },
+  "mrvnklm/claude-plugins": {
+    "name": "mrvnklm/claude-plugins",
+    "description": "Claude Code plugin marketplace by @mrvnklm. Add once, install any plugin. First plugin: pinpoint \u2014 live in-browser UI annotation \u2192 Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrvnklm",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "9uiLe/plugins": {
+    "name": "9uiLe/plugins",
+    "description": "Claude Code \u7528\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u96c6\u3081\u305f Marketplace\u3002tech-docs\uff08ADR / \u6280\u8853\u4ed5\u69d8\u66f8 / \u6c4e\u7528\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092 1 \u679a HTML \u3067\u751f\u6210\uff09\u3068 quality-architect\uff08ISO/IEC 25010 \u3067\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3\u8a2d\u8a08 / \u30b3\u30fc\u30c9\u30ec\u30d3\u30e5\u30fc\uff09\u3092\u53ce\u9332\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "9uiLe",
+    "repoName": "plugins",
+    "repoBranch": "master"
+  },
+  "littlebearapps/lba-plugins": {
+    "name": "littlebearapps/lba-plugins",
+    "description": "Claude Code plugin marketplace for Little Bear Apps",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "littlebearapps",
+    "repoName": "lba-plugins",
+    "repoBranch": "main"
+  },
+  "endorphin-ai/hasbrains-agent-kit": {
+    "name": "endorphin-ai/hasbrains-agent-kit",
+    "description": "The battle-tested Claude Code kit behind HasBrainsAI \u2014 agent skills, subagents & slash commands for production multi-agent systems. Install in one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "endorphin-ai",
+    "repoName": "hasbrains-agent-kit",
+    "repoBranch": "main"
+  },
+  "Barusamico3839/tech-teku-toolkit": {
+    "name": "Barusamico3839/tech-teku-toolkit",
+    "description": "Tech-Teku's toolkit of Claude Code harness plugins \u2014 brainstorm-harness: a light-themed brainstorm window for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Barusamico3839",
+    "repoName": "tech-teku-toolkit",
+    "repoBranch": "main"
+  },
+  "youki0p0/jen-marketplace": {
+    "name": "youki0p0/jen-marketplace",
+    "description": "PMO-Style multi-agent orchestrator for Claude Code. Fable 5 conducts, 18 agents build & verify. Give it a goal, get verified work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "youki0p0",
+    "repoName": "jen-marketplace",
+    "repoBranch": "main"
+  },
+  "aliasunder/agent-plugins": {
+    "name": "aliasunder/agent-plugins",
+    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specialized skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aliasunder",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "immigration2000/unreal-mcp-kit": {
+    "name": "immigration2000/unreal-mcp-kit",
+    "description": "Set up Claude + Unreal Engine and inject engine-level gotcha knowledge. setup-ue58-mcp: one-command UE 5.8 official MCP setup (plugins, .mcp.json, CLAUDE.md, auto-start). setup-ue57: UE 5.7 path via community servers...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "immigration2000",
+    "repoName": "unreal-mcp-kit",
+    "repoBranch": "main"
+  },
+  "lucagattoni/TidyClaudeMD": {
+    "name": "lucagattoni/TidyClaudeMD",
+    "description": "Self-improving Claude Code skills that keep every repo's CLAUDE.md slim without losing information",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucagattoni",
+    "repoName": "TidyClaudeMD",
+    "repoBranch": "main"
   }
 }

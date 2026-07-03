@@ -1346,5 +1346,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "anchit-choudhry/gryffin-calorai": {
+    "owner": "anchit-choudhry",
+    "name": "gryffin-calorai",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "sysCat64/md-to-html": {
+    "owner": "sysCat64",
+    "name": "md-to-html",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
