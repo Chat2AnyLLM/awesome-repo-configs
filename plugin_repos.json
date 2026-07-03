@@ -4834,5 +4834,95 @@
     "repoOwner": "johantor",
     "repoName": "zion",
     "repoBranch": "main"
+  },
+  "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance": {
+    "name": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
+    "description": "Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, EU AI Act, ISO 42001, ISO 27701, DORA, CSRD, India's DPDPA, CMMC...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sushegaad",
+    "repoName": "Claude-Skills-Governance-Risk-and-Compliance",
+    "repoBranch": "main"
+  },
+  "JeongJaeSoon/agent-guard": {
+    "name": "JeongJaeSoon/agent-guard",
+    "description": "Real-time secret-leak guardrails for AI coding agents (Claude Code, Codex), Git hooks, and CI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JeongJaeSoon",
+    "repoName": "agent-guard",
+    "repoBranch": "main"
+  },
+  "chenyuxiaojin/xiaochen-skills": {
+    "name": "chenyuxiaojin/xiaochen-skills",
+    "description": "14 Claude Code skills for video, content publishing & knowledge management \u2014 DaVinci subs, WeChat, Obsidian, GEO.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chenyuxiaojin",
+    "repoName": "xiaochen-skills",
+    "repoBranch": "main"
+  },
+  "rennf93/opus-fable-playbook": {
+    "name": "rennf93/opus-fable-playbook",
+    "description": "Make Claude Opus 4.8 behave like Claude Fable 5 \u2014 doctrine output style, drift-catching hooks, and an eval loop against golden Fable transcripts. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rennf93",
+    "repoName": "opus-fable-playbook",
+    "repoBranch": "master"
+  },
+  "metraton/gaia": {
+    "name": "metraton/gaia",
+    "description": "Security-first multi-agent orchestration plugin for Claude Code \u2014 classifies every command by risk, gates state-changing operations behind consent, injects project context, and routes work to specialist agents. One un...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "metraton",
+    "repoName": "gaia",
+    "repoBranch": "main"
+  },
+  "mr-kelly/skills": {
+    "name": "mr-kelly/skills",
+    "description": "Agent Skills by mr-kelly",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mr-kelly",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "NVZver/claude-marketplace": {
+    "name": "NVZver/claude-marketplace",
+    "description": "Claude Code plugins for spec-first development: every agent claim cites a source, every code change traces to a requirement, and ceremony scales to the weight of the task.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NVZver",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "noppu-labs/ai-toolkit": {
+    "name": "noppu-labs/ai-toolkit",
+    "description": "Toolkit for agentic development of Laravel & React apps",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "noppu-labs",
+    "repoName": "ai-toolkit",
+    "repoBranch": "main"
+  },
+  "Heretyc/subagent-mcp": {
+    "name": "Heretyc/subagent-mcp",
+    "description": "Every provider at once. Min-Max every agent and simplify every session. Enables automatic seamless agentic workflows that freely use the best available model for the exact type of work being done *across providers*. A...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Heretyc",
+    "repoName": "subagent-mcp",
+    "repoBranch": "main"
+  },
+  "okisdev/claude-code-fusion": {
+    "name": "okisdev/claude-code-fusion",
+    "description": "Multi-model orchestration for Claude Code: Claude worker tiers plus the Codex and Grok CLIs as peer engineers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "okisdev",
+    "repoName": "claude-code-fusion",
+    "repoBranch": "main"
   }
 }

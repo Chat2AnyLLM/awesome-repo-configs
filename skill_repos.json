@@ -5381,5 +5381,104 @@
         "name": "zion",
         "branch": "main",
         "enabled": true
+    },
+    "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance": {
+        "owner": "Sushegaad",
+        "name": "Claude-Skills-Governance-Risk-and-Compliance",
+        "branch": "main",
+        "enabled": true
+    },
+    "pcliangx/AppGenesisForge": {
+        "owner": "pcliangx",
+        "name": "AppGenesisForge",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "tizzy916/claude-skill-humanities-writing-companion": {
+        "owner": "tizzy916",
+        "name": "claude-skill-humanities-writing-companion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Benknightdark/neo-skills": {
+        "owner": "Benknightdark",
+        "name": "neo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "geekjourneyx/namelens": {
+        "owner": "geekjourneyx",
+        "name": "namelens",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chenyuxiaojin/xiaochen-skills": {
+        "owner": "chenyuxiaojin",
+        "name": "xiaochen-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "trisouro/slop-guard": {
+        "owner": "trisouro",
+        "name": "slop-guard",
+        "branch": "main",
+        "enabled": true
+    },
+    "rennf93/opus-fable-playbook": {
+        "owner": "rennf93",
+        "name": "opus-fable-playbook",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "metraton/gaia": {
+        "owner": "metraton",
+        "name": "gaia",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mars-tw/tower-defense-skill": {
+        "owner": "mars-tw",
+        "name": "tower-defense-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mr-kelly/skills": {
+        "owner": "mr-kelly",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NVZver/claude-marketplace": {
+        "owner": "NVZver",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "noppu-labs/ai-toolkit": {
+        "owner": "noppu-labs",
+        "name": "ai-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Heretyc/subagent-mcp": {
+        "owner": "Heretyc",
+        "name": "subagent-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "okisdev/claude-code-fusion": {
+        "owner": "okisdev",
+        "name": "claude-code-fusion",
+        "branch": "main",
+        "enabled": true
     }
 }

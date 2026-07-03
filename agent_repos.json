@@ -1297,5 +1297,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "pcliangx/AppGenesisForge": {
+    "owner": "pcliangx",
+    "name": "AppGenesisForge",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rennf93/opus-fable-playbook": {
+    "owner": "rennf93",
+    "name": "opus-fable-playbook",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "metraton/gaia": {
+    "owner": "metraton",
+    "name": "gaia",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "NVZver/claude-marketplace": {
+    "owner": "NVZver",
+    "name": "claude-marketplace",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Heretyc/subagent-mcp": {
+    "owner": "Heretyc",
+    "name": "subagent-mcp",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
