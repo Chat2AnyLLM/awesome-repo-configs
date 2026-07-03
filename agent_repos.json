@@ -1332,5 +1332,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "shimo4228/claude-skill-paper-ecosystem": {
+    "owner": "shimo4228",
+    "name": "claude-skill-paper-ecosystem",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "papanito/ai-skills": {
+    "owner": "papanito",
+    "name": "ai-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

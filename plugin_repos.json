@@ -4924,5 +4924,86 @@
     "repoOwner": "okisdev",
     "repoName": "claude-code-fusion",
     "repoBranch": "main"
+  },
+  "Rylaa/fable5-orchestrator": {
+    "name": "Rylaa/fable5-orchestrator",
+    "description": "Keep Claude Fable 5 (or Opus) as your daily driver without draining your usage limit \u2014 token-frugal multi-agent orchestration plugin for Claude Code: model-tier routing, Requirements Ledger, enforced guard hooks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rylaa",
+    "repoName": "fable5-orchestrator",
+    "repoBranch": "main"
+  },
+  "sungjunlee/beopsuny-skill": {
+    "name": "sungjunlee/beopsuny-skill",
+    "description": "\ud55c\uad6d \ubc95\ubb34 \uc2e4\ubb34\ub97c \uc704\ud55c Claude Code skill \u2014 \ubc95\ub839\u00b7\ud310\ub840 \uc870\uc0ac, \uacc4\uc57d\uc11c \uac80\ud1a0, \ucef4\ud50c\ub77c\uc774\uc5b8\uc2a4. Korean legal research skill for Claude Code (statute, case law, contract review, compliance).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sungjunlee",
+    "repoName": "beopsuny-skill",
+    "repoBranch": "main"
+  },
+  "sukoji/loadout": {
+    "name": "sukoji/loadout",
+    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A recommender + installer, not a list you read.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sukoji",
+    "repoName": "loadout",
+    "repoBranch": "main"
+  },
+  "shck-dev/ccx-context-system": {
+    "name": "shck-dev/ccx-context-system",
+    "description": "Portable scratch-notebook context management for Claude Code: per-thread STATE.md handoffs + a compiled INDEX dashboard. Plugin marketplace carrying the ccx plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shck-dev",
+    "repoName": "ccx-context-system",
+    "repoBranch": "main"
+  },
+  "TaewoooPark/UIForge": {
+    "name": "TaewoooPark/UIForge",
+    "description": "Forge masterpiece UI, not AI slop \u2014 a design art-director plugin for Claude Code. Forces a deliberate choice on every design axis (type, color, space, motion), sources components from vetted registries, and gates outp...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TaewoooPark",
+    "repoName": "UIForge",
+    "repoBranch": "main"
+  },
+  "wei18/apple-dev-skills": {
+    "name": "wei18/apple-dev-skills",
+    "description": "Reusable Claude Code skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialist skill repos",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wei18",
+    "repoName": "apple-dev-skills",
+    "repoBranch": "main"
+  },
+  "NanookAI/skills": {
+    "name": "NanookAI/skills",
+    "description": "Plugin marketplace for NanookAI Claude Code agent skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NanookAI",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "smk-labs/claude-plugins": {
+    "name": "smk-labs/claude-plugins",
+    "description": "One marketplace for everything I have built for Claude Code: plugins, skills, commands, and agents, organized by category.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smk-labs",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "neckarshore-skills/neckarshore-plugins": {
+    "name": "neckarshore-skills/neckarshore-plugins",
+    "description": "The Neckarshore AI plugin marketplace for Claude Code \u2014 Obsidian Vault Autopilot and more, one /plugin marketplace add away.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "neckarshore-skills",
+    "repoName": "neckarshore-plugins",
+    "repoBranch": "main"
   }
 }

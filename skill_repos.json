@@ -5480,5 +5480,132 @@
         "name": "claude-code-fusion",
         "branch": "main",
         "enabled": true
+    },
+    "Agents365-ai/mermaid-skill": {
+        "owner": "Agents365-ai",
+        "name": "mermaid-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gtrabanco/agentic-workflow": {
+        "owner": "gtrabanco",
+        "name": "agentic-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "forint573/miAI-Humanizer-Skill-Awesome": {
+        "owner": "forint573",
+        "name": "miAI-Humanizer-Skill-Awesome",
+        "branch": "main",
+        "enabled": true
+    },
+    "sungjunlee/beopsuny-skill": {
+        "owner": "sungjunlee",
+        "name": "beopsuny-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gogolumo/rbsmithy-roblox-claude-skill": {
+        "owner": "gogolumo",
+        "name": "rbsmithy-roblox-claude-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sukoji/loadout": {
+        "owner": "sukoji",
+        "name": "loadout",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aident-AI/aident-skill": {
+        "owner": "Aident-AI",
+        "name": "aident-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shck-dev/ccx-context-system": {
+        "owner": "shck-dev",
+        "name": "ccx-context-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "TaewoooPark/UIForge": {
+        "owner": "TaewoooPark",
+        "name": "UIForge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "XiaofeiCY/performance-report-assistant-skill": {
+        "owner": "XiaofeiCY",
+        "name": "performance-report-assistant-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "shimo4228/claude-skill-paper-ecosystem": {
+        "owner": "shimo4228",
+        "name": "claude-skill-paper-ecosystem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/readme-writer": {
+        "owner": "shimo4228",
+        "name": "readme-writer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vittobh/pm-os": {
+        "owner": "vittobh",
+        "name": "pm-os",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "papanito/ai-skills": {
+        "owner": "papanito",
+        "name": "ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wei18/apple-dev-skills": {
+        "owner": "wei18",
+        "name": "apple-dev-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "reezanahamed/learn-by-building": {
+        "owner": "reezanahamed",
+        "name": "learn-by-building",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "msewell/agent-stuff": {
+        "owner": "msewell",
+        "name": "agent-stuff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mjcreativelab/mjcreativelab-agent-prompts": {
+        "owner": "mjcreativelab",
+        "name": "mjcreativelab-agent-prompts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smk-labs/claude-plugins": {
+        "owner": "smk-labs",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }
