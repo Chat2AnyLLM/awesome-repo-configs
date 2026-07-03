@@ -5701,5 +5701,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Ruya-AI/cozempic": {
+        "owner": "Ruya-AI",
+        "name": "cozempic",
+        "branch": "main",
+        "enabled": true
+    },
+    "shepsci/kaggle-skill": {
+        "owner": "shepsci",
+        "name": "kaggle-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PHY041/claude-skill-reddit": {
+        "owner": "PHY041",
+        "name": "claude-skill-reddit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "iliaal/whetstone": {
+        "owner": "iliaal",
+        "name": "whetstone",
+        "branch": "master",
+        "enabled": true
+    },
+    "lenar-amirov/product-pipeline-public": {
+        "owner": "lenar-amirov",
+        "name": "product-pipeline-public",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ilyautov/small-business-ru": {
+        "owner": "ilyautov",
+        "name": "small-business-ru",
+        "branch": "main",
+        "enabled": true
+    },
+    "KAppMaker/KAppMaker-CLI": {
+        "owner": "KAppMaker",
+        "name": "KAppMaker-CLI",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Pavel-Kravchenko/Bioinformatics": {
+        "owner": "Pavel-Kravchenko",
+        "name": "Bioinformatics",
+        "branch": "main",
+        "skillsPath": "Skills",
+        "enabled": true
+    },
+    "gabrieldabbah/genesis": {
+        "owner": "gabrieldabbah",
+        "name": "genesis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ahad690/fiverr-gig-optimizer": {
+        "owner": "Ahad690",
+        "name": "fiverr-gig-optimizer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HelloThisWorld/agent-skill-verification-template": {
+        "owner": "HelloThisWorld",
+        "name": "agent-skill-verification-template",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ddanntheman/GrantForge": {
+        "owner": "ddanntheman",
+        "name": "GrantForge",
+        "branch": "main",
+        "enabled": true
+    },
+    "srobinson/helioy-plugins": {
+        "owner": "srobinson",
+        "name": "helioy-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aexagon/mneme": {
+        "owner": "Aexagon",
+        "name": "mneme",
+        "branch": "main",
+        "enabled": true
+    },
+    "GergKllai1/coding-conventions": {
+        "owner": "GergKllai1",
+        "name": "coding-conventions",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jdanigo/hydraia": {
+        "owner": "jdanigo",
+        "name": "hydraia",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

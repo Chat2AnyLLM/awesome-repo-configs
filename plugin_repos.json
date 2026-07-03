@@ -5131,5 +5131,131 @@
     "repoOwner": "lucagattoni",
     "repoName": "TidyClaudeMD",
     "repoBranch": "main"
+  },
+  "Ruya-AI/cozempic": {
+    "name": "Ruya-AI/cozempic",
+    "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered pruning",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ruya-AI",
+    "repoName": "cozempic",
+    "repoBranch": "main"
+  },
+  "shepsci/kaggle-skill": {
+    "name": "shepsci/kaggle-skill",
+    "description": "Complete Kaggle integration plugin/skill for AI coding agents \u2014 competition reports, dataset/model downloads, notebook execution, and badge collection. Works with Claude Code, Gemini CLI, Cursor, Codex, OpenClaw, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shepsci",
+    "repoName": "kaggle-skill",
+    "repoBranch": "main"
+  },
+  "iliaal/whetstone": {
+    "name": "iliaal/whetstone",
+    "description": "AI-powered development tools. 19 agents, 22 commands, 30 skills, 1 hook, 1 MCP server for code review, research, design, and workflow automation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iliaal",
+    "repoName": "whetstone",
+    "repoBranch": "master"
+  },
+  "lenar-amirov/product-pipeline-public": {
+    "name": "lenar-amirov/product-pipeline-public",
+    "description": "Run a product initiative as a tracked journey \u2014    not a toolbox of one-shot answers. Persistent   state, living PRD, evidence-typed hypotheses.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lenar-amirov",
+    "repoName": "product-pipeline-public",
+    "repoBranch": "main"
+  },
+  "ilyautov/small-business-ru": {
+    "name": "ilyautov/small-business-ru",
+    "description": "34 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 AI-\u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0420\u0424: \u043d\u0430\u043b\u043e\u0433\u0438 \u0423\u0421\u041d, \u0434\u0435\u043d\u044c\u0433\u0438, \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u043e\u043d\u0442\u0440\u0430\u0433\u0435\u043d\u0442\u0430 \u043f\u043e \u0418\u041d\u041d. \u0427\u0438\u0441\u043b\u0430 \u0441\u0447\u0438\u0442\u0430\u044e\u0442\u0441\u044f \u043a\u043e\u0434\u043e\u043c, \u0434\u0430\u043d\u043d\u044b\u0435 \u0438\u0437 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0445 \u0440\u0435\u0435\u0441\u0442\u0440\u043e\u0432.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilyautov",
+    "repoName": "small-business-ru",
+    "repoBranch": "main"
+  },
+  "KAppMaker/KAppMaker-CLI": {
+    "name": "KAppMaker/KAppMaker-CLI",
+    "description": "KAppMaker CLI tool that automates mobile app setup \u2014 Firebase, App Store Connect, Adapty, signing, publishing, and AI-powered logo/screenshot generation in one workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KAppMaker",
+    "repoName": "KAppMaker-CLI",
+    "repoBranch": "main"
+  },
+  "Pavel-Kravchenko/Bioinformatics": {
+    "name": "Pavel-Kravchenko/Bioinformatics",
+    "description": "208 bioinformatics skills for Claude Code \u2014 NGS, single-cell, metagenomics, structural biology, algorithms, AI for science",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pavel-Kravchenko",
+    "repoName": "Bioinformatics",
+    "repoBranch": "main"
+  },
+  "gabrieldabbah/genesis": {
+    "name": "gabrieldabbah/genesis",
+    "description": "Claude Code plugin: empty folder \u2192 a working, tested, secured app. Autonomous greenfield builds under an Opus overlord + specialist agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gabrieldabbah",
+    "repoName": "genesis",
+    "repoBranch": "main"
+  },
+  "Ahad690/fiverr-gig-optimizer": {
+    "name": "Ahad690/fiverr-gig-optimizer",
+    "description": "Research-backed Fiverr gig optimizer \u2014 a Claude Code skill with deterministic competition + pricing scoring (no ML, no guessed market numbers).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ahad690",
+    "repoName": "fiverr-gig-optimizer",
+    "repoBranch": "main"
+  },
+  "ddanntheman/GrantForge": {
+    "name": "ddanntheman/GrantForge",
+    "description": "Full-lifecycle grant writing engine for Claude \u2014 opportunity discovery, RFP intake, cited research, drafting, budgets, and mock-scorer review, in your organization's voice.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ddanntheman",
+    "repoName": "GrantForge",
+    "repoBranch": "main"
+  },
+  "srobinson/helioy-plugins": {
+    "name": "srobinson/helioy-plugins",
+    "description": "Claude Code plugin \u2014 11 skills, 4 MCP servers for the Helioy AI ecosystem",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "srobinson",
+    "repoName": "helioy-plugins",
+    "repoBranch": "main"
+  },
+  "Aexagon/mneme": {
+    "name": "Aexagon/mneme",
+    "description": "Mneme \u2014 a self-improving cache + skill engine for Claude Code. Loads a persistent cache into every chat and learns across sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aexagon",
+    "repoName": "mneme",
+    "repoBranch": "main"
+  },
+  "GergKllai1/coding-conventions": {
+    "name": "GergKllai1/coding-conventions",
+    "description": "On-demand coding-conventions catalog for Claude Code \u2014 captures reusable patterns at checkpoints and scaffolds a project-local convention catalog in any repo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GergKllai1",
+    "repoName": "coding-conventions",
+    "repoBranch": "main"
+  },
+  "jdanigo/hydraia": {
+    "name": "jdanigo/hydraia",
+    "description": "Self-contained agentic development harness for Claude Code \u2014 one command runs the full feature pipeline (plan \u2192 execute \u2192 double review) with security gates baked in.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jdanigo",
+    "repoName": "hydraia",
+    "repoBranch": "main"
   }
 }
