@@ -5925,5 +5925,106 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "powerofjinbo/phdtaketaketake": {
+        "owner": "powerofjinbo",
+        "name": "phdtaketaketake",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Global-Slice/claude-plugin": {
+        "owner": "Global-Slice",
+        "name": "claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "siddiqss/semantic-seo-suite": {
+        "owner": "siddiqss",
+        "name": "semantic-seo-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sanexxxx777/curated-claude-code": {
+        "owner": "Sanexxxx777",
+        "name": "curated-claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sgomez/developer-skills": {
+        "owner": "sgomez",
+        "name": "developer-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jlifyio/wyx": {
+        "owner": "jlifyio",
+        "name": "wyx",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "timoncool/prompt-warrior": {
+        "owner": "timoncool",
+        "name": "prompt-warrior",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wan-huiyan/claude-ecosystem-hygiene": {
+        "owner": "wan-huiyan",
+        "name": "claude-ecosystem-hygiene",
+        "branch": "main",
+        "enabled": true
+    },
+    "0x61A/fullstack-pro-max": {
+        "owner": "0x61A",
+        "name": "fullstack-pro-max",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AnotherSava/claude-code-common": {
+        "owner": "AnotherSava",
+        "name": "claude-code-common",
+        "branch": "main",
+        "enabled": true
+    },
+    "lemur47/si-protocols": {
+        "owner": "lemur47",
+        "name": "si-protocols",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Abed-Zahed/claude-skills-kit": {
+        "owner": "Abed-Zahed",
+        "name": "claude-skills-kit",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "waittim/MemoryCustodian": {
+        "owner": "waittim",
+        "name": "MemoryCustodian",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "whomsfun-ai/claude-toolkit": {
+        "owner": "whomsfun-ai",
+        "name": "claude-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "scagogogo/mvn-skills": {
+        "owner": "scagogogo",
+        "name": "mvn-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

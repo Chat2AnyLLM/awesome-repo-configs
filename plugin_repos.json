@@ -5338,5 +5338,113 @@
     "repoOwner": "gxgeek-n",
     "repoName": "wenqu-mem",
     "repoBranch": "main"
+  },
+  "powerofjinbo/phdtaketaketake": {
+    "name": "powerofjinbo/phdtaketaketake",
+    "description": "Connection-first PhD advisor matcher \u2014 find the right advisor by network strength, not h-index. Quantitative 4.0 scoring across Connection, Publication, Experience, GPA.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "powerofjinbo",
+    "repoName": "phdtaketaketake",
+    "repoBranch": "main"
+  },
+  "Global-Slice/claude-plugin": {
+    "name": "Global-Slice/claude-plugin",
+    "description": "Claude Code plugin marketplace for Slice \u2014 cap table, equity, compliance, and MCP integrations.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Global-Slice",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
+  "siddiqss/semantic-seo-suite": {
+    "name": "siddiqss/semantic-seo-suite",
+    "description": "Grounded semantic SEO, GEO & off-page as Claude Code skills \u2014 with a fabrication guard that refuses to invent numbers. Free & MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "siddiqss",
+    "repoName": "semantic-seo-suite",
+    "repoBranch": "main"
+  },
+  "cdeust/automatised-pipeline": {
+    "name": "cdeust/automatised-pipeline",
+    "description": "Codebase intelligence as an MCP server \u2014 tree-sitter AST \u2192 LadybugDB graph \u2192 Louvain communities \u2192 hybrid BM25 + TF-IDF + RRF search. 23 tools \u00b7 10 stages \u00b7 220 tests \u00b7 Rust \u00b7 Clean Architecture. The read-only intelli...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdeust",
+    "repoName": "automatised-pipeline",
+    "repoBranch": "main"
+  },
+  "sgomez/developer-skills": {
+    "name": "sgomez/developer-skills",
+    "description": "Unattended PRD delivery for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sgomez",
+    "repoName": "developer-skills",
+    "repoBranch": "main"
+  },
+  "jlifyio/wyx": {
+    "name": "jlifyio/wyx",
+    "description": "Architecture guardrails for LLM-assisted development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jlifyio",
+    "repoName": "wyx",
+    "repoBranch": "main"
+  },
+  "timoncool/prompt-warrior": {
+    "name": "timoncool/prompt-warrior",
+    "description": "Agent skill: your AI coding logs as a gamified character sheet \u2014 Claude Code, Codex, OpenCode, Gemini, Copilot. 74 achievements, fixed-scale metrics, LLM-written chronicle, research-backed advice. 100% local, RU/EN.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "timoncool",
+    "repoName": "prompt-warrior",
+    "repoBranch": "main"
+  },
+  "wan-huiyan/claude-ecosystem-hygiene": {
+    "name": "wan-huiyan/claude-ecosystem-hygiene",
+    "description": "Three complementary skills for auditing and maintaining Claude Code ecosystem health: skills, memory, handoffs, ADRs, worktrees, and automation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wan-huiyan",
+    "repoName": "claude-ecosystem-hygiene",
+    "repoBranch": "main"
+  },
+  "saqqdy/ai-code-reviewer-plus": {
+    "name": "saqqdy/ai-code-reviewer-plus",
+    "description": "AI-powered intelligent code reviewer \u2014 multi-dimensional semantic analysis, five-tier severity classification, actionable fix suggestions via Claude Code Skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saqqdy",
+    "repoName": "ai-code-reviewer-plus",
+    "repoBranch": "master"
+  },
+  "whomsfun-ai/claude-toolkit": {
+    "name": "whomsfun-ai/claude-toolkit",
+    "description": "Small, honest Claude Code tools that work in the CLI and the desktop app. Starting with /handoff \u2014 hand a task to a fresh session that mirrors your model, effort and permissions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "whomsfun-ai",
+    "repoName": "claude-toolkit",
+    "repoBranch": "main"
+  },
+  "scagogogo/mvn-skills": {
+    "name": "scagogogo/mvn-skills",
+    "description": "Comprehensive Maven toolkit supporting Skills, Go SDK, CLI, and MCP \u2014 execute builds, parse POM, manage dependencies, install Maven, automate Java workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scagogogo",
+    "repoName": "mvn-skills",
+    "repoBranch": "main"
+  },
+  "pzehrel/cc-squirrel-auto-switch": {
+    "name": "pzehrel/cc-squirrel-auto-switch",
+    "description": "Claude Code plugin: auto-switch Squirrel (Rime) input method based on vim mode \u2014 ABC in NORMAL, Chinese in INSERT",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pzehrel",
+    "repoName": "cc-squirrel-auto-switch",
+    "repoBranch": "main"
   }
 }
