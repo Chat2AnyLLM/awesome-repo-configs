@@ -6026,5 +6026,119 @@
         "name": "mvn-skills",
         "branch": "main",
         "enabled": true
+    },
+    "rrezartprebreza/spring-boot-skills": {
+        "owner": "rrezartprebreza",
+        "name": "spring-boot-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jason201385-commits/positioning-companion": {
+        "owner": "jason201385-commits",
+        "name": "positioning-companion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lhitches/claude-seo-skills": {
+        "owner": "lhitches",
+        "name": "claude-seo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "scagogogo/versions-skills": {
+        "owner": "scagogogo",
+        "name": "versions-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tomoking2004/claude-plugins": {
+        "owner": "tomoking2004",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "F2077/doc-sweep": {
+        "owner": "F2077",
+        "name": "doc-sweep",
+        "branch": "main",
+        "enabled": true
+    },
+    "devcsde/oatda-skills": {
+        "owner": "devcsde",
+        "name": "oatda-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nthansen/funbox-plugins": {
+        "owner": "nthansen",
+        "name": "funbox-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "mtkhawaja/java-skills": {
+        "owner": "mtkhawaja",
+        "name": "java-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vereal-app/sendle-plugin": {
+        "owner": "vereal-app",
+        "name": "sendle-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aezizhu/hyperworkflows": {
+        "owner": "aezizhu",
+        "name": "hyperworkflows",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seal-7/shintenshin": {
+        "owner": "seal-7",
+        "name": "shintenshin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Overwhelming-ellibertador775/fiz-invoicing-skill": {
+        "owner": "Overwhelming-ellibertador775",
+        "name": "fiz-invoicing-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Northwestern-caddo190/dashmotion": {
+        "owner": "Northwestern-caddo190",
+        "name": "dashmotion",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "perocar8967/super-geo-agent-readiness": {
+        "owner": "perocar8967",
+        "name": "super-geo-agent-readiness",
+        "branch": "main",
+        "enabled": true
+    },
+    "xxluffyxx40/cera-reasoning-harness": {
+        "owner": "xxluffyxx40",
+        "name": "cera-reasoning-harness",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sosteam65/app-store-connect-skill": {
+        "owner": "sosteam65",
+        "name": "app-store-connect-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

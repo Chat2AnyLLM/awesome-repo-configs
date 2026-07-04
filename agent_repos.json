@@ -1416,5 +1416,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mtkhawaja/java-skills": {
+    "owner": "mtkhawaja",
+    "name": "java-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "vereal-app/sendle-plugin": {
+    "owner": "vereal-app",
+    "name": "sendle-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "aezizhu/hyperworkflows": {
+    "owner": "aezizhu",
+    "name": "hyperworkflows",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

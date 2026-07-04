@@ -5446,5 +5446,86 @@
     "repoOwner": "pzehrel",
     "repoName": "cc-squirrel-auto-switch",
     "repoBranch": "main"
+  },
+  "scagogogo/versions-skills": {
+    "name": "scagogogo/versions-skills",
+    "description": "Go version number library + CLI + MCP server + Claude Code Skills \u2014 parsing, comparison, sorting, grouping, constraints, range queries, visualization. Works with Claude Code, Cursor, Windsurf, VS Code Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scagogogo",
+    "repoName": "versions-skills",
+    "repoBranch": "main"
+  },
+  "tomoking2004/claude-plugins": {
+    "name": "tomoking2004/claude-plugins",
+    "description": "Claude Code \u30d7\u30e9\u30b0\u30a4\u30f3\u306e\u30de\u30fc\u30b1\u30c3\u30c8\u30d7\u30ec\u30a4\u30b9\uff0e\u30b3\u30fc\u30c9\u30fb\u6587\u66f8\u30fb\u30b3\u30df\u30c3\u30c8\u3092\u4e00\u3064\u306e\u7f8e\u306e\u57fa\u6e96\uff08BEAUTY.md\uff09\u3067\u8cab\u304d\uff0c\u8d70\u67fb\u304c\u30bc\u30ed\u3092\u8fd4\u3059\u78ba\u5b9a\u7248\uff1d\u4e0d\u52d5\u70b9\u307e\u3067\u78e8\u304f\uff0e\u57fa\u6e96\u305d\u306e\u3082\u306e\u3082\u78e8\u304b\u308c\u3066\u81ea\u5df1\u9032\u5316\u3059\u308b\uff0e",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomoking2004",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "F2077/doc-sweep": {
+    "name": "F2077/doc-sweep",
+    "description": "Documentation alignment plugin for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "F2077",
+    "repoName": "doc-sweep",
+    "repoBranch": "main"
+  },
+  "devcsde/oatda-skills": {
+    "name": "devcsde/oatda-skills",
+    "description": "Claude Code plugin: 9 skills for OATDA unified LLM API gateway - text, vision, image, video, audio (TTS/STT/translation). 10+ providers, 1 API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devcsde",
+    "repoName": "oatda-skills",
+    "repoBranch": "main"
+  },
+  "nthansen/funbox-plugins": {
+    "name": "nthansen/funbox-plugins",
+    "description": "funbox \u2014 a Claude Code plugin marketplace. A small, growing set of self-contained, independently versioned plugins for working in Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nthansen",
+    "repoName": "funbox-plugins",
+    "repoBranch": "main"
+  },
+  "mtkhawaja/java-skills": {
+    "name": "mtkhawaja/java-skills",
+    "description": "A Claude Code plugin and marketplace providing a skills library for high-quality Java development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mtkhawaja",
+    "repoName": "java-skills",
+    "repoBranch": "main"
+  },
+  "vereal-app/sendle-plugin": {
+    "name": "vereal-app/sendle-plugin",
+    "description": "Send Claude Code threads, notes, and local Markdown/HTML files to your Kindle as clean EPUBs \u2014 the official Sendle plugin for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vereal-app",
+    "repoName": "sendle-plugin",
+    "repoBranch": "main"
+  },
+  "aezizhu/hyperworkflows": {
+    "name": "aezizhu/hyperworkflows",
+    "description": "Stop taking your coding agent's word for it: script-computed verdicts, re-executable reports (zero LLM calls), N-version tournament delivery, CI evidence gate. Claude Code plugin + 17 tool adapters.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aezizhu",
+    "repoName": "hyperworkflows",
+    "repoBranch": "main"
+  },
+  "seal-7/shintenshin": {
+    "name": "seal-7/shintenshin",
+    "description": "\u5fc3\u8ee2\u8eab Mind-Body Transfer Jutsu for Claude Code \u2014 hand your entire conversation to someone else with a single E2E-encrypted link",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seal-7",
+    "repoName": "shintenshin",
+    "repoBranch": "main"
   }
 }
