@@ -5527,5 +5527,11 @@
     "repoOwner": "seal-7",
     "repoName": "shintenshin",
     "repoBranch": "main"
+  },
+  "mohocp/dataecho": {
+    "owner": "mohocp",
+    "name": "dataecho",
+    "branch": "main",
+    "enabled": true
   }
 }
