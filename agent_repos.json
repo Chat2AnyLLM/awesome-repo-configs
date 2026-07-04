@@ -1437,5 +1437,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "fockus/skill-memory-bank": {
+    "owner": "fockus",
+    "name": "skill-memory-bank",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kenmulford/milestone-driver": {
+    "owner": "kenmulford",
+    "name": "milestone-driver",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "andresnator/agents-orchestrator": {
+    "owner": "andresnator",
+    "name": "agents-orchestrator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

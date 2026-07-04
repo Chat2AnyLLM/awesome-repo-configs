@@ -6140,5 +6140,124 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "fockus/skill-memory-bank": {
+        "owner": "fockus",
+        "name": "skill-memory-bank",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ngvoicu/specmint-core": {
+        "owner": "ngvoicu",
+        "name": "specmint-core",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "seldonframe/seldonframe": {
+        "owner": "seldonframe",
+        "name": "seldonframe",
+        "branch": "main",
+        "enabled": true
+    },
+    "Nolpak14/getregdata": {
+        "owner": "Nolpak14",
+        "name": "getregdata",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ngvoicu/kluris": {
+        "owner": "ngvoicu",
+        "name": "kluris",
+        "branch": "main",
+        "enabled": true
+    },
+    "abullard1/claude-bionify": {
+        "owner": "abullard1",
+        "name": "claude-bionify",
+        "branch": "main",
+        "enabled": true
+    },
+    "ngvoicu/specmint-tdd": {
+        "owner": "ngvoicu",
+        "name": "specmint-tdd",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kenmulford/milestone-driver": {
+        "owner": "kenmulford",
+        "name": "milestone-driver",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bordumb/recurve": {
+        "owner": "bordumb",
+        "name": "recurve",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "andresnator/agents-orchestrator": {
+        "owner": "andresnator",
+        "name": "agents-orchestrator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "1beebe/beebe-qualitative-skills": {
+        "owner": "1beebe",
+        "name": "beebe-qualitative-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "twisker/ipman": {
+        "owner": "twisker",
+        "name": "ipman",
+        "branch": "main",
+        "enabled": true
+    },
+    "duylam/claude-code-engineering-assembly": {
+        "owner": "duylam",
+        "name": "claude-code-engineering-assembly",
+        "branch": "main",
+        "enabled": true
+    },
+    "technomaton/edpa": {
+        "owner": "technomaton",
+        "name": "edpa",
+        "branch": "main",
+        "enabled": true
+    },
+    "jinhuang712/claude-code-queue": {
+        "owner": "jinhuang712",
+        "name": "claude-code-queue",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rodolfoostolaza-ux/openrouter-review": {
+        "owner": "rodolfoostolaza-ux",
+        "name": "openrouter-review",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "happysasha18/product-prover": {
+        "owner": "happysasha18",
+        "name": "product-prover",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "agustinvillegas/repomap": {
+        "owner": "agustinvillegas",
+        "name": "repomap",
+        "branch": "skill",
+        "enabled": true
     }
 }

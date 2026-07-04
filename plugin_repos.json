@@ -5527,5 +5527,59 @@
     "repoOwner": "seal-7",
     "repoName": "shintenshin",
     "repoBranch": "main"
+  },
+  "seldonframe/seldonframe": {
+    "name": "seldonframe/seldonframe",
+    "description": "seldonframe/seldonframe \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seldonframe",
+    "repoName": "seldonframe",
+    "repoBranch": "main"
+  },
+  "abullard1/claude-bionify": {
+    "name": "abullard1/claude-bionify",
+    "description": "Bionic reading for Claude Code: bolds the leading part of each word in Claude's streamed replies so your eyes move faster. Zero dependencies, display-only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abullard1",
+    "repoName": "claude-bionify",
+    "repoBranch": "main"
+  },
+  "kenmulford/milestone-driver": {
+    "name": "kenmulford/milestone-driver",
+    "description": "Hand Claude Code a GitHub milestone; it drives every issue to a merged PR \u2014 TDD-enforced, mechanically gated, and bounded to your integration branch.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kenmulford",
+    "repoName": "milestone-driver",
+    "repoBranch": "main"
+  },
+  "duylam/claude-code-engineering-assembly": {
+    "name": "duylam/claude-code-engineering-assembly",
+    "description": "A Claude Code marketplace for software engineering",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "duylam",
+    "repoName": "claude-code-engineering-assembly",
+    "repoBranch": "main"
+  },
+  "technomaton/edpa": {
+    "name": "technomaton/edpa",
+    "description": "EDPA \u2014 Evidence-Driven Proportional Allocation. Derive hours from Git evidence. No timesheets.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "technomaton",
+    "repoName": "edpa",
+    "repoBranch": "main"
+  },
+  "jinhuang712/claude-code-queue": {
+    "name": "jinhuang712/claude-code-queue",
+    "description": "A prompt queue for Claude Code: /queue defers a message until the current turn ends, instead of injecting it at the next tool-call boundary. Per-session FIFO.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jinhuang712",
+    "repoName": "claude-code-queue",
+    "repoBranch": "master"
   }
 }
