@@ -5807,5 +5807,123 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Kevin7Qi/codex-collab": {
+        "owner": "Kevin7Qi",
+        "name": "codex-collab",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "heliohq/ship": {
+        "owner": "heliohq",
+        "name": "ship",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ViryaZheng/promptly-prompt": {
+        "owner": "ViryaZheng",
+        "name": "promptly-prompt",
+        "branch": "main",
+        "enabled": true
+    },
+    "qwwiwi/dashi-plugin-claude-code": {
+        "owner": "qwwiwi",
+        "name": "dashi-plugin-claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "isvlasov/rageatc-oss": {
+        "owner": "isvlasov",
+        "name": "rageatc-oss",
+        "branch": "main",
+        "enabled": true
+    },
+    "harnessprotocol/harness-kit": {
+        "owner": "harnessprotocol",
+        "name": "harness-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "rocketmandrey/claude-recall": {
+        "owner": "rocketmandrey",
+        "name": "claude-recall",
+        "branch": "main",
+        "enabled": true
+    },
+    "littlebearapps/contextdocs": {
+        "owner": "littlebearapps",
+        "name": "contextdocs",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "NexaDuo/mARC": {
+        "owner": "NexaDuo",
+        "name": "mARC",
+        "branch": "main",
+        "enabled": true
+    },
+    "Side-Peng/clinpub": {
+        "owner": "Side-Peng",
+        "name": "clinpub",
+        "branch": "main",
+        "enabled": true
+    },
+    "matejformanek/postgres-claude": {
+        "owner": "matejformanek",
+        "name": "postgres-claude",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "mbarlow/samdin": {
+        "owner": "mbarlow",
+        "name": "samdin",
+        "branch": "main",
+        "enabled": true
+    },
+    "alainabo/aso-dual-agent-review": {
+        "owner": "alainabo",
+        "name": "aso-dual-agent-review",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "sator-imaging/suggest-skills": {
+        "owner": "sator-imaging",
+        "name": "suggest-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "chris-peterson/anchor": {
+        "owner": "chris-peterson",
+        "name": "anchor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gxgeek-n/wenqu-mem": {
+        "owner": "gxgeek-n",
+        "name": "wenqu-mem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saverio87/net-worth": {
+        "owner": "saverio87",
+        "name": "net-worth",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "jeroromano/claude-code-orchestration-template": {
+        "owner": "jeroromano",
+        "name": "claude-code-orchestration-template",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

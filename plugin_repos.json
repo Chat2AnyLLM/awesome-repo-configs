@@ -5257,5 +5257,86 @@
     "repoOwner": "jdanigo",
     "repoName": "hydraia",
     "repoBranch": "main"
+  },
+  "heliohq/ship": {
+    "name": "heliohq/ship",
+    "description": "An agentic development harness for Claude Code, Codex & Cursor: gated pipeline from spec to green checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heliohq",
+    "repoName": "ship",
+    "repoBranch": "main"
+  },
+  "ViryaZheng/promptly-prompt": {
+    "name": "ViryaZheng/promptly-prompt",
+    "description": "Claude Code skill that forces AI to understand before executing. Three disciplines: cognition check, requirement understanding, method search.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ViryaZheng",
+    "repoName": "promptly-prompt",
+    "repoBranch": "main"
+  },
+  "isvlasov/rageatc-oss": {
+    "name": "isvlasov/rageatc-oss",
+    "description": "Practical Claude Code / Cowork plugins for sharper thinking and structured problem-solving the slow way",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "isvlasov",
+    "repoName": "rageatc-oss",
+    "repoBranch": "main"
+  },
+  "harnessprotocol/harness-kit": {
+    "name": "harnessprotocol/harness-kit",
+    "description": "Your plugins, skills, MCP servers, hooks, conventions, and governance packaged into a single config",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "harnessprotocol",
+    "repoName": "harness-kit",
+    "repoBranch": "main"
+  },
+  "littlebearapps/contextdocs": {
+    "name": "littlebearapps/contextdocs",
+    "description": "Your AI agent maintains its own context files \u2014 a Claude Code plugin with an AGENTS-first model that covers Codex, Copilot, Cursor, Gemini, and 3 more tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "littlebearapps",
+    "repoName": "contextdocs",
+    "repoBranch": "main"
+  },
+  "NexaDuo/mARC": {
+    "name": "NexaDuo/mARC",
+    "description": "mARC \u00b7 Multi-Agent Relay Control \u2014 an installable AI engineering team for Claude Code. A tech-lead orchestrates specialist subagents (dev \u00b7 SRE \u00b7 design \u00b7 security), enforces a pre-merge security gate, and runs in any...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NexaDuo",
+    "repoName": "mARC",
+    "repoBranch": "main"
+  },
+  "Side-Peng/clinpub": {
+    "name": "Side-Peng/clinpub",
+    "description": "End-to-end clinical data analysis and publication accelerator for SCI Q1/Q2 journals \u2014 Claude Code Plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Side-Peng",
+    "repoName": "clinpub",
+    "repoBranch": "main"
+  },
+  "chris-peterson/anchor": {
+    "name": "chris-peterson/anchor",
+    "description": "bridge.ai/anchor: skills for consistent and effective source control",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chris-peterson",
+    "repoName": "anchor",
+    "repoBranch": "main"
+  },
+  "gxgeek-n/wenqu-mem": {
+    "name": "gxgeek-n/wenqu-mem",
+    "description": "\u6d59\u5927MEM\u5de5\u7a0b\u7ba1\u7406\u7855\u58eb\u5b66\u4f4d\u8bba\u6587\u5168\u6d41\u7a0b\u5199\u4f5c\u6280\u80fd\u5305\uff5c21\u4e2aClaude Code+Codex\u6280\u80fd\uff1a\u5199\u4f5c\u00b7\u8303\u6587\u8bed\u4f53\u00b7\u964dAIGC\u53bbAI\u5473\u00b7\u6587\u732e\u00b7\u5ba1\u7a3f\u00b7LaTeX(zjuthesis)\u00b7Word\u00b7\u7b54\u8fa9 | MEM master thesis writing toolkit (Claude/Codex agent skills)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gxgeek-n",
+    "repoName": "wenqu-mem",
+    "repoBranch": "main"
   }
 }

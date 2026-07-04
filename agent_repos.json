@@ -1374,5 +1374,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "littlebearapps/contextdocs": {
+    "owner": "littlebearapps",
+    "name": "contextdocs",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "matejformanek/postgres-claude": {
+    "owner": "matejformanek",
+    "name": "postgres-claude",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "jeroromano/claude-code-orchestration-template": {
+    "owner": "jeroromano",
+    "name": "claude-code-orchestration-template",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
