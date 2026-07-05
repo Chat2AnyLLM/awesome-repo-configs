@@ -6467,5 +6467,140 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "techygarg/lattice": {
+        "owner": "techygarg",
+        "name": "lattice",
+        "branch": "main",
+        "enabled": true
+    },
+    "ralvarezdev/ralvaskills": {
+        "owner": "ralvarezdev",
+        "name": "ralvaskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PawlakCamille/cami-design": {
+        "owner": "PawlakCamille",
+        "name": "cami-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sh5623/fe-rail": {
+        "owner": "sh5623",
+        "name": "fe-rail",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DengShiyingA/x-copywriter-skill": {
+        "owner": "DengShiyingA",
+        "name": "x-copywriter-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MrBridgeHQ/aromatic-herb-gardening-expert": {
+        "owner": "MrBridgeHQ",
+        "name": "aromatic-herb-gardening-expert",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrBridgeHQ/github-profile-optimizer": {
+        "owner": "MrBridgeHQ",
+        "name": "github-profile-optimizer",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "MrBridgeHQ/kaggle-profile-optimizer": {
+        "owner": "MrBridgeHQ",
+        "name": "kaggle-profile-optimizer",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "MrBridgeHQ/hf-profile-optimizer": {
+        "owner": "MrBridgeHQ",
+        "name": "hf-profile-optimizer",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Max-Levitskiy/claude-code-marketplace": {
+        "owner": "Max-Levitskiy",
+        "name": "claude-code-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "yasyf/cc-transcript": {
+        "owner": "yasyf",
+        "name": "cc-transcript",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alelaguard/agentguards-plugins": {
+        "owner": "alelaguard",
+        "name": "agentguards-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "adequate-supervisor298/qif-to-qfx": {
+        "owner": "adequate-supervisor298",
+        "name": "qif-to-qfx",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Poppify/poppify-claude-plugin": {
+        "owner": "Poppify",
+        "name": "poppify-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "j-ronk/backchannel": {
+        "owner": "j-ronk",
+        "name": "backchannel",
+        "branch": "main",
+        "enabled": true
+    },
+    "janineagu4049/live-workshop-skill": {
+        "owner": "janineagu4049",
+        "name": "live-workshop-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ahbrvntie/java-jacoco-coverage-backfill": {
+        "owner": "Ahbrvntie",
+        "name": "java-jacoco-coverage-backfill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tranminhductt/bulkcut-coach": {
+        "owner": "tranminhductt",
+        "name": "bulkcut-coach",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ALQ78/skill-framadate": {
+        "owner": "ALQ78",
+        "name": "skill-framadate",
+        "branch": "main",
+        "enabled": true
+    },
+    "aShu-guo/ts-abbreviation-skill": {
+        "owner": "aShu-guo",
+        "name": "ts-abbreviation-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -5743,5 +5743,68 @@
     "repoOwner": "modelrunner",
     "repoName": "agent-skills",
     "repoBranch": "main"
+  },
+  "techygarg/lattice": {
+    "name": "techygarg/lattice",
+    "description": "Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and team standards. Better process, not just better prompts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "techygarg",
+    "repoName": "lattice",
+    "repoBranch": "main"
+  },
+  "sh5623/fe-rail": {
+    "name": "sh5623/fe-rail",
+    "description": "Claude Code plugin \u2014 spec \u2192 build \u2192 review \u2192 PR harness for Next.js, Vite SPA & TypeScript (Tailwind, shadcn/ui)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sh5623",
+    "repoName": "fe-rail",
+    "repoBranch": "main"
+  },
+  "Max-Levitskiy/claude-code-marketplace": {
+    "name": "Max-Levitskiy/claude-code-marketplace",
+    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Max-Levitskiy",
+    "repoName": "claude-code-marketplace",
+    "repoBranch": "main"
+  },
+  "yasyf/cc-transcript": {
+    "name": "yasyf/cc-transcript",
+    "description": "Grep every Claude Code session you've ever run.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yasyf",
+    "repoName": "cc-transcript",
+    "repoBranch": "main"
+  },
+  "alelaguard/agentguards-plugins": {
+    "name": "alelaguard/agentguards-plugins",
+    "description": "Official AgentGuards plugin marketplace \u2014 LLM security guardrails for AI coding agents (Claude Code + OpenAI Codex): jailbreak/prompt-injection detection, web-content scanning, data-exfiltration blocking, destructive-...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alelaguard",
+    "repoName": "agentguards-plugins",
+    "repoBranch": "main"
+  },
+  "Poppify/poppify-claude-plugin": {
+    "name": "Poppify/poppify-claude-plugin",
+    "description": "MCP server and Claude Code plugin for photo to TikTok, Instagram Reels, YouTube Shorts, and Facebook video. Upload 1\u201310 photos, get a captioned reel. 27 MCP tools + 4 skills + 3 slash commands. $0.06 base render, 50 f...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Poppify",
+    "repoName": "poppify-claude-plugin",
+    "repoBranch": "main"
+  },
+  "j-ronk/backchannel": {
+    "name": "j-ronk/backchannel",
+    "description": "A private, end-to-end-encrypted background channel that keeps separate AI coding sessions aware of each other's progress. Separate sessions, shared context, no shared execution",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "j-ronk",
+    "repoName": "backchannel",
+    "repoBranch": "main"
   }
 }

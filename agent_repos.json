@@ -1479,5 +1479,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sh5623/fe-rail": {
+    "owner": "sh5623",
+    "name": "fe-rail",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Incorrect-limp303/get-shit-done": {
+    "owner": "Incorrect-limp303",
+    "name": "get-shit-done",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
