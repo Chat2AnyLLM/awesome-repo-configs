@@ -1493,5 +1493,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "alex-feel/claude-code-artifacts-public": {
+    "owner": "alex-feel",
+    "name": "claude-code-artifacts-public",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ipeirotis/paper-revision-editor": {
+    "owner": "ipeirotis",
+    "name": "paper-revision-editor",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

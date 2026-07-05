@@ -5806,5 +5806,50 @@
     "repoOwner": "j-ronk",
     "repoName": "backchannel",
     "repoBranch": "main"
+  },
+  "LukasNiessen/terrashark": {
+    "name": "LukasNiessen/terrashark",
+    "description": "Terraform Skill for Claude Code and Codex. LLMs hallucinate a lot with Terraform - TerraShark fixes this. It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hash...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LukasNiessen",
+    "repoName": "terrashark",
+    "repoBranch": "main"
+  },
+  "sodam-ai/SoDam-Agent": {
+    "name": "sodam-ai/SoDam-Agent",
+    "description": "Claude Code\uc5d0 \uc5ed\ud560\ubcc4 AI \uc5d0\uc774\uc804\ud2b8 \ud300 6\uc885(\uc6f9\uc571\u00b7\ubb38\uc11c\u00b7\ub9ac\uc11c\uce58\u00b7\ub9c8\ucf00\ud305\u00b7\ub370\uc774\ud130, \ubaa8\ub450 \ub4f1\ub85d)\uc744 \ud50c\ub7ec\uadf8\uc778 \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4\ub85c \ud55c \ubc88\uc5d0 \uc124\uce58\ud558\uace0, Codex\uc6a9\uc73c\ub85c\ub3c4 \ubc88\uc5ed(\ubca0\ud0c0)\ud558\uba70, \uc124\uce58 \ud6c4 \uc5d0\uc774\uc804\ud2b8\ub97c \uc9c1\uc811 \ub9cc\ub4e4\uace0\u00b7\uac00\ub974\uce58\uace0\u00b7\uad00\ub9ac\ud558\ub294 \ube44\uac1c\ubc1c\uc790\uc6a9 \ub3c4\uad6c. \uc790\ub3d9 \ubc31\uc5c5\u00b7\uc704\ud5d8 \uba85\ub839 \uacbd\uace0\u00b7MCP(context7) \ub3d9\ubd09\u00b7Apache-2.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sodam-ai",
+    "repoName": "SoDam-Agent",
+    "repoBranch": "feat/plugin-marketplace"
+  },
+  "cportka/claude-plugins": {
+    "name": "cportka/claude-plugins",
+    "description": "Claude Code plugin marketplace for Portka Tools & Standards: bootstrap a new repo, analyze screen recordings, evaluate websites/apps, format tabulature, chords and lyric sheets. Thank you. I'm so happy to present my o...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cportka",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "bold-minds/bots": {
+    "name": "bold-minds/bots",
+    "description": "Ladder \u2014 an Enneagram-calibrated personal growth companion for Claude Code. Goal tracking, accountability, coaching from 27 published thought leaders.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bold-minds",
+    "repoName": "bots",
+    "repoBranch": "main"
+  },
+  "beydemirfurkan/appstore-release": {
+    "name": "beydemirfurkan/appstore-release",
+    "description": "Ship an iOS app to App Store review end-to-end via the App Store Connect API \u2014 an agent skill. ~90% automated, config-driven, SOLID clean-architecture.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "beydemirfurkan",
+    "repoName": "appstore-release",
+    "repoBranch": "main"
   }
 }

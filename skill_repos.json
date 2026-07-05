@@ -6602,5 +6602,73 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "LukasNiessen/terrashark": {
+        "owner": "LukasNiessen",
+        "name": "terrashark",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "0xArchiveIO/0xarchive-skill": {
+        "owner": "0xArchiveIO",
+        "name": "0xarchive-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alex-feel/claude-code-artifacts-public": {
+        "owner": "alex-feel",
+        "name": "claude-code-artifacts-public",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ZachRouan/agent-desktop-interface": {
+        "owner": "ZachRouan",
+        "name": "agent-desktop-interface",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ipeirotis/paper-revision-editor": {
+        "owner": "ipeirotis",
+        "name": "paper-revision-editor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "BKR-57/symfony-ux-skills": {
+        "owner": "BKR-57",
+        "name": "symfony-ux-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cportka/claude-plugins": {
+        "owner": "cportka",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "bold-minds/bots": {
+        "owner": "bold-minds",
+        "name": "bots",
+        "branch": "main",
+        "enabled": true
+    },
+    "beydemirfurkan/appstore-release": {
+        "owner": "beydemirfurkan",
+        "name": "appstore-release",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yanliudesign/salary-negotiation": {
+        "owner": "yanliudesign",
+        "name": "salary-negotiation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
