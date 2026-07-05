@@ -6379,5 +6379,93 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "NevaMind-AI/memU": {
+        "owner": "NevaMind-AI",
+        "name": "memU",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ratel-ai/ratel": {
+        "owner": "ratel-ai",
+        "name": "ratel",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "FrkAk/piyaz": {
+        "owner": "FrkAk",
+        "name": "piyaz",
+        "branch": "main",
+        "enabled": true
+    },
+    "molefrog/moi": {
+        "owner": "molefrog",
+        "name": "moi",
+        "branch": "main",
+        "enabled": true
+    },
+    "HeiGeAi/HeiGe-SuanMing": {
+        "owner": "HeiGeAi",
+        "name": "HeiGe-SuanMing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "raghatatepiyush/ringmaster": {
+        "owner": "raghatatepiyush",
+        "name": "ringmaster",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rjvim/ai-skills": {
+        "owner": "rjvim",
+        "name": "ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yujiyamane/pbi-ai-skills": {
+        "owner": "yujiyamane",
+        "name": "pbi-ai-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "developer-overheid-nl/skills-internet": {
+        "owner": "developer-overheid-nl",
+        "name": "skills-internet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Daeguk-Sun/dcNess": {
+        "owner": "Daeguk-Sun",
+        "name": "dcNess",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MJL-ren/blindspot-audit": {
+        "owner": "MJL-ren",
+        "name": "blindspot-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "498AS/linkedin-profile-optimizer": {
+        "owner": "498AS",
+        "name": "linkedin-profile-optimizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "0x61A/frontend-dev-skill": {
+        "owner": "0x61A",
+        "name": "frontend-dev-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

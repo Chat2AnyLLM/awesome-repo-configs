@@ -5662,5 +5662,77 @@
     "repoOwner": "luxsolari",
     "repoName": "whiting",
     "repoBranch": "main"
+  },
+  "FrkAk/piyaz": {
+    "name": "FrkAk/piyaz",
+    "description": "The agentic workspace where people and AI coding agents work together on every project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FrkAk",
+    "repoName": "piyaz",
+    "repoBranch": "main"
+  },
+  "raghatatepiyush/ringmaster": {
+    "name": "raghatatepiyush/ringmaster",
+    "description": "Safety-railed orchestration for Claude Code: plans behind an approval gate, routes to specialist plugins, tests and security-reviews every change, and stages the result - never commits, never touches production.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raghatatepiyush",
+    "repoName": "ringmaster",
+    "repoBranch": "main"
+  },
+  "rjvim/ai-skills": {
+    "name": "rjvim/ai-skills",
+    "description": "rjvim/ai-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rjvim",
+    "repoName": "ai-skills",
+    "repoBranch": "main"
+  },
+  "yujiyamane/pbi-ai-skills": {
+    "name": "yujiyamane/pbi-ai-skills",
+    "description": "The Power BI Skill Pack for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yujiyamane",
+    "repoName": "pbi-ai-skills",
+    "repoBranch": "main"
+  },
+  "developer-overheid-nl/skills-internet": {
+    "name": "developer-overheid-nl/skills-internet",
+    "description": "Claude Code plugin voor het testen en implementeren van moderne internetstandaarden conform internet.nl",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "developer-overheid-nl",
+    "repoName": "skills-internet",
+    "repoBranch": "main"
+  },
+  "Daeguk-Sun/dcNess": {
+    "name": "Daeguk-Sun/dcNess",
+    "description": "Claude Code PR workflow guard that stops skipped tests, skipped reviews, and file-boundary violations before PRs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Daeguk-Sun",
+    "repoName": "dcNess",
+    "repoBranch": "main"
+  },
+  "F2077/defossilize": {
+    "name": "F2077/defossilize",
+    "description": "A Claude Code plugin that rebuilds your understanding of code you've forgotten, inherited, or never understood \u2014 including AI-written code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "F2077",
+    "repoName": "defossilize",
+    "repoBranch": "main"
+  },
+  "MJL-ren/blindspot-audit": {
+    "name": "MJL-ren/blindspot-audit",
+    "description": "A portable AI-agent skill for finding project blind spots, unknown unknowns, hidden risks, and missing decisions, with a durable ledger for repeat audits across Claude Code, Codex, and OpenCode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MJL-ren",
+    "repoName": "blindspot-audit",
+    "repoBranch": "main"
   }
 }

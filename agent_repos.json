@@ -1465,5 +1465,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "raghatatepiyush/ringmaster": {
+    "owner": "raghatatepiyush",
+    "name": "ringmaster",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Daeguk-Sun/dcNess": {
+    "owner": "Daeguk-Sun",
+    "name": "dcNess",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
