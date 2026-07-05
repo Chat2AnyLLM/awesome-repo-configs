@@ -1458,5 +1458,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "punt-labs/lux": {
+    "owner": "punt-labs",
+    "name": "lux",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

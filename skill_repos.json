@@ -6259,5 +6259,125 @@
         "name": "repomap",
         "branch": "skill",
         "enabled": true
+    },
+    "aaron-he-zhu/aaron-marketing-skills": {
+        "owner": "aaron-he-zhu",
+        "name": "aaron-marketing-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Agents365-ai/asta-skill": {
+        "owner": "Agents365-ai",
+        "name": "asta-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Weaverse/.agents": {
+        "owner": "Weaverse",
+        "name": ".agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stephenlzc/humanize-mba-text-skill": {
+        "owner": "stephenlzc",
+        "name": "humanize-mba-text-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ScienceIsNeato/slop-mop": {
+        "owner": "ScienceIsNeato",
+        "name": "slop-mop",
+        "branch": "main",
+        "enabled": true
+    },
+    "paniolo-ai/scan": {
+        "owner": "paniolo-ai",
+        "name": "scan",
+        "branch": "main",
+        "enabled": true
+    },
+    "glitchwerks/claude-wayfinder": {
+        "owner": "glitchwerks",
+        "name": "claude-wayfinder",
+        "branch": "main",
+        "enabled": true
+    },
+    "bearlike/Grove": {
+        "owner": "bearlike",
+        "name": "Grove",
+        "branch": "current",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "kev365/xways-xtension-builder-skill": {
+        "owner": "kev365",
+        "name": "xways-xtension-builder-skill",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ritesh31/claude-pre-merge-conflict-predictor": {
+        "owner": "ritesh31",
+        "name": "claude-pre-merge-conflict-predictor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Srltas/claude-skills": {
+        "owner": "Srltas",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "punt-labs/lux": {
+        "owner": "punt-labs",
+        "name": "lux",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrSongP/computer-use": {
+        "owner": "MrSongP",
+        "name": "computer-use",
+        "branch": "master",
+        "enabled": true
+    },
+    "luxsolari/whiting": {
+        "owner": "luxsolari",
+        "name": "whiting",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "khasky/public-client-leak-audit": {
+        "owner": "khasky",
+        "name": "public-client-leak-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "khasky/human-readable-refactor": {
+        "owner": "khasky",
+        "name": "human-readable-refactor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "khasky/clean-markdown-human": {
+        "owner": "khasky",
+        "name": "clean-markdown-human",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "khasky/humanizer-en": {
+        "owner": "khasky",
+        "name": "humanizer-en",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

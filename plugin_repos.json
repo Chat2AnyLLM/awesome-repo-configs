@@ -5581,5 +5581,86 @@
     "repoOwner": "jinhuang712",
     "repoName": "claude-code-queue",
     "repoBranch": "master"
+  },
+  "aaron-he-zhu/aaron-marketing-skills": {
+    "name": "aaron-he-zhu/aaron-marketing-skills",
+    "description": "69 marketing skills + 5 commands for Claude Code & AI agents across 4 disciplines \u2014 SEO/GEO, influencer (IMPACT), paid ads (ROAS) & email (SEND) \u2014 on one shared contract. 5 quality frameworks with auditor gates: CORE-...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaron-he-zhu",
+    "repoName": "aaron-marketing-skills",
+    "repoBranch": "main"
+  },
+  "ScienceIsNeato/slop-mop": {
+    "name": "ScienceIsNeato/slop-mop",
+    "description": "forcing agentic coder's path of least resistance through long-term maintainable codepaths",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ScienceIsNeato",
+    "repoName": "slop-mop",
+    "repoBranch": "main"
+  },
+  "paniolo-ai/scan": {
+    "name": "paniolo-ai/scan",
+    "description": "Thin agent adapters for @paniolo/scan \u2014 run the AI Technical Debt Scanner from any coding agent and optionally remediate findings. Portable skill (npx skills add paniolo-ai/scan --all), Claude Code plugin (/paniolo-sc...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paniolo-ai",
+    "repoName": "scan",
+    "repoBranch": "main"
+  },
+  "glitchwerks/claude-wayfinder": {
+    "name": "glitchwerks/claude-wayfinder",
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the router has read the conversation \u2014 post-cognitive routing instead of prose-scanning. Auto-generates i...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "glitchwerks",
+    "repoName": "claude-wayfinder",
+    "repoBranch": "main"
+  },
+  "kev365/xways-xtension-builder-skill": {
+    "name": "kev365/xways-xtension-builder-skill",
+    "description": "Claude Code skill + knowledge base for authoring X-Ways Forensics X-Tensions (unofficial community project).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kev365",
+    "repoName": "xways-xtension-builder-skill",
+    "repoBranch": "main"
+  },
+  "ritesh31/claude-pre-merge-conflict-predictor": {
+    "name": "ritesh31/claude-pre-merge-conflict-predictor",
+    "description": "Claude Code skill: predict merge conflicts before opening a PR by checking file overlap against other open PRs/branches",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ritesh31",
+    "repoName": "claude-pre-merge-conflict-predictor",
+    "repoBranch": "main"
+  },
+  "punt-labs/lux": {
+    "name": "punt-labs/lux",
+    "description": "GUI - a whiteboard and dashboard interface for agents to share visual data with humans.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "punt-labs",
+    "repoName": "lux",
+    "repoBranch": "main"
+  },
+  "MrSongP/computer-use": {
+    "name": "MrSongP/computer-use",
+    "description": "Local Windows computer-use plugin for Codex and Claude Code, exposing UI Automation, screenshots, input control, app launch, and MCP tooling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MrSongP",
+    "repoName": "computer-use",
+    "repoBranch": "master"
+  },
+  "luxsolari/whiting": {
+    "name": "luxsolari/whiting",
+    "description": "Claude Code plugin: wires a repo's CHANGELOG.md to GitHub Releases \u2014 push a version tag, get a Release with the matching changelog section as the body.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "luxsolari",
+    "repoName": "whiting",
+    "repoBranch": "main"
   }
 }
