@@ -5734,5 +5734,14 @@
     "repoOwner": "MJL-ren",
     "repoName": "blindspot-audit",
     "repoBranch": "main"
+  },
+  "modelrunner-agent-skills": {
+    "name": "ModelRunner Agent Skills",
+    "description": "Generate real product visuals with AI via the ModelRunner MCP \u2014 App Store / Google Play screenshots (device frames, on-brand backgrounds, ASO headlines) and bulk on-spec iOS demo assets. Two skills, portable across Claude Code, Codex, Cursor & Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "modelrunner",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
   }
 }
