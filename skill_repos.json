@@ -7016,5 +7016,108 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jackterror/writers-room-story-engine": {
+        "owner": "jackterror",
+        "name": "writers-room-story-engine",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Borda/AI-Rig": {
+        "owner": "Borda",
+        "name": "AI-Rig",
+        "branch": "main",
+        "enabled": true
+    },
+    "FrancescoBorzi/agent-toolkit": {
+        "owner": "FrancescoBorzi",
+        "name": "agent-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zhebil/claude-code-plugins": {
+        "owner": "zhebil",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "HeyRenan/showreel": {
+        "owner": "HeyRenan",
+        "name": "showreel",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zihao-Wu06/claude-code-orchestrate": {
+        "owner": "Zihao-Wu06",
+        "name": "claude-code-orchestrate",
+        "branch": "main",
+        "enabled": true
+    },
+    "smarzban/agent-sdlc": {
+        "owner": "smarzban",
+        "name": "agent-sdlc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "spxrogers/oura-toolkit": {
+        "owner": "spxrogers",
+        "name": "oura-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "oliveira7015/openclawby-skills": {
+        "owner": "oliveira7015",
+        "name": "openclawby-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jpmsilva1/ai-research-ecosystem": {
+        "owner": "jpmsilva1",
+        "name": "ai-research-ecosystem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anhermon/claude-public": {
+        "owner": "anhermon",
+        "name": "claude-public",
+        "branch": "main",
+        "enabled": true
+    },
+    "modeled-information-format/mif-docs-plugin": {
+        "owner": "modeled-information-format",
+        "name": "mif-docs-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eltonylfgi-blip/claude-code-usage-guard": {
+        "owner": "eltonylfgi-blip",
+        "name": "claude-code-usage-guard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jjilli/fable-flow": {
+        "owner": "jjilli",
+        "name": "fable-flow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Noncontinuous-centaur165/claude-codex-crypto-devkit": {
+        "owner": "Noncontinuous-centaur165",
+        "name": "claude-codex-crypto-devkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "DefaultPerson/iron-skills": {
+        "owner": "DefaultPerson",
+        "name": "iron-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

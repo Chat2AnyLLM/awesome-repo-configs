@@ -6148,5 +6148,122 @@
     "repoOwner": "hhamja",
     "repoName": "loop-harness",
     "repoBranch": "main"
+  },
+  "Borda/AI-Rig": {
+    "name": "Borda/AI-Rig",
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Python and ML open-source development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Borda",
+    "repoName": "AI-Rig",
+    "repoBranch": "main"
+  },
+  "FrancescoBorzi/agent-toolkit": {
+    "name": "FrancescoBorzi/agent-toolkit",
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FrancescoBorzi",
+    "repoName": "agent-toolkit",
+    "repoBranch": "main"
+  },
+  "zhebil/claude-code-plugins": {
+    "name": "zhebil/claude-code-plugins",
+    "description": "Claude Code plugin marketplace with developer productivity hooks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zhebil",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "HeyRenan/showreel": {
+    "name": "HeyRenan/showreel",
+    "description": "Claude Code plugin for visual docs \u2014 annotated screenshots, feature demos, flow walkthrough recordings (gif/mp4), terminal captures and before/after composites, one command each. Self-contained Chromium, self-validate...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HeyRenan",
+    "repoName": "showreel",
+    "repoBranch": "main"
+  },
+  "Zihao-Wu06/claude-code-orchestrate": {
+    "name": "Zihao-Wu06/claude-code-orchestrate",
+    "description": "A Claude Code skill for orchestrating Opus/Sonnet/Haiku subagents plus a cross-vendor Codex peer",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zihao-Wu06",
+    "repoName": "claude-code-orchestrate",
+    "repoBranch": "main"
+  },
+  "nebinfra/claude-plugins": {
+    "name": "nebinfra/claude-plugins",
+    "description": "NebInfra Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nebinfra",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "smarzban/agent-sdlc": {
+    "name": "smarzban/agent-sdlc",
+    "description": "A full-SDLC pipeline for AI coding agents: idea -> acceptance criteria -> architecture -> techstack -> atomic plan -> readiness gate -> test-first subagent build -> reviewed PR. Installable as a Claude Code / Cursor p...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smarzban",
+    "repoName": "agent-sdlc",
+    "repoBranch": "main"
+  },
+  "spxrogers/oura-toolkit": {
+    "name": "spxrogers/oura-toolkit",
+    "description": "Oura Ring toolkit (CLI, SDKs, MCP, Agent Plugins)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spxrogers",
+    "repoName": "oura-toolkit",
+    "repoBranch": "main"
+  },
+  "anhermon/claude-public": {
+    "name": "anhermon/claude-public",
+    "description": "Angel Hermon's public Claude Code plugins and skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anhermon",
+    "repoName": "claude-public",
+    "repoBranch": "main"
+  },
+  "modeled-information-format/mif-docs-plugin": {
+    "name": "modeled-information-format/mif-docs-plugin",
+    "description": "MIF-first documentation skill suite for Claude Code: one skill per document genre (Diataxis, ADR, RFC/PEP, runbook, PRD, Kiro, arc42/C4, changelog) over a MIF Level 1-to-3 floor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "modeled-information-format",
+    "repoName": "mif-docs-plugin",
+    "repoBranch": "main"
+  },
+  "eltonylfgi-blip/claude-code-usage-guard": {
+    "name": "eltonylfgi-blip/claude-code-usage-guard",
+    "description": "Claude Code plugin: in-session warnings when you're burning usage fast, plus a /usage command. Zero deps, local-only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eltonylfgi-blip",
+    "repoName": "claude-code-usage-guard",
+    "repoBranch": "main"
+  },
+  "jjilli/fable-flow": {
+    "name": "jjilli/fable-flow",
+    "description": "Claude Code plugin: multi-agent shipping pipeline tuned for Claude Fable 5 \u2014 scouts, xhigh architect, parallel worktree implementers, Opus 4.8 review loop, bug iteration, pipeline memory",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jjilli",
+    "repoName": "fable-flow",
+    "repoBranch": "main"
+  },
+  "DefaultPerson/iron-skills": {
+    "name": "DefaultPerson/iron-skills",
+    "description": "Battle-tested skills for AI coding agents in Claude Code and Codex CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DefaultPerson",
+    "repoName": "iron-skills",
+    "repoBranch": "main"
   }
 }

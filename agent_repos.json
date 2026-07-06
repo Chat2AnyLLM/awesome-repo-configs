@@ -1570,5 +1570,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jpmsilva1/ai-research-ecosystem": {
+    "owner": "jpmsilva1",
+    "name": "ai-research-ecosystem",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jjilli/fable-flow": {
+    "owner": "jjilli",
+    "name": "fable-flow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DefaultPerson/iron-skills": {
+    "owner": "DefaultPerson",
+    "name": "iron-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
