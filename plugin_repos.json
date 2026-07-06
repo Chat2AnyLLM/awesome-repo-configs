@@ -6040,5 +6040,113 @@
     "repoOwner": "awrshift",
     "repoName": "claude-friends",
     "repoBranch": "main"
+  },
+  "hyperfx-ai/marketing-skills": {
+    "name": "hyperfx-ai/marketing-skills",
+    "description": "Marketing skills for AI agents \u2014 paid ads, social media, SEO, competitor research, creative generation, email, analytics, and more. Powered by Hyper MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hyperfx-ai",
+    "repoName": "marketing-skills",
+    "repoBranch": "main"
+  },
+  "raiyanyahya/justsaydone": {
+    "name": "raiyanyahya/justsaydone",
+    "description": "Up to 95% shorter replies with Claude Code. Save output token spend.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raiyanyahya",
+    "repoName": "justsaydone",
+    "repoBranch": "master"
+  },
+  "kgelster/awesome-ecom-skills": {
+    "name": "kgelster/awesome-ecom-skills",
+    "description": "Shopify agency playbooks as Claude agent skills: catalog cleanup, SEO metadata, structured data, redirects, landing pages. Markdown-only. The playbook companion to Shopify's official AI toolkit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kgelster",
+    "repoName": "awesome-ecom-skills",
+    "repoBranch": "main"
+  },
+  "kickinrad/personas": {
+    "name": "kickinrad/personas",
+    "description": "Self-evolving AI personas built on Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kickinrad",
+    "repoName": "personas",
+    "repoBranch": "main"
+  },
+  "thebestmensch/claude-code-multimodel-workflow": {
+    "name": "thebestmensch/claude-code-multimodel-workflow",
+    "description": "JM's Claude Code workflow as a redistributable plugin: rules, hooks, agents, commands, and tweakcc patches packaged for less-advanced CC users.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thebestmensch",
+    "repoName": "claude-code-multimodel-workflow",
+    "repoBranch": "main"
+  },
+  "XBlueSky/cortexes": {
+    "name": "XBlueSky/cortexes",
+    "description": "Personal knowledge vault plugin for Claude Code \u2014 session recording, memory distillation, and hybrid semantic + BM25 retrieval.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "XBlueSky",
+    "repoName": "cortexes",
+    "repoBranch": "plugin"
+  },
+  "ronnieiscoo/bootstrap-expert": {
+    "name": "ronnieiscoo/bootstrap-expert",
+    "description": "ronnieiscoo/bootstrap-expert \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ronnieiscoo",
+    "repoName": "bootstrap-expert",
+    "repoBranch": "main"
+  },
+  "stotihv/skills": {
+    "name": "stotihv/skills",
+    "description": "\ud83e\udd16 Coordinate multi-agent tasks and enhance workflow with versatile skills for autonomous planning and execution.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stotihv",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "artemy/semaphore": {
+    "name": "artemy/semaphore",
+    "description": "AI Agent status indicator for your desk",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "artemy",
+    "repoName": "semaphore",
+    "repoBranch": "main"
+  },
+  "pszypowicz/claude-skills": {
+    "name": "pszypowicz/claude-skills",
+    "description": "A small Claude Code marketplace: ado, swift-concurrency, modern-swift, go-dev, worktrees.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pszypowicz",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Fluory/claude-sync-kit": {
+    "name": "Fluory/claude-sync-kit",
+    "description": "Wizard skill that syncs your Claude Code setup (settings, custom skills, plugin/MCP enablement) across machines via a private GitHub repo. Plugin + own marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fluory",
+    "repoName": "claude-sync-kit",
+    "repoBranch": "main"
+  },
+  "hhamja/loop-harness": {
+    "name": "hhamja/loop-harness",
+    "description": "Claude Code plugin for loop engineering: implement-verify cycles with machine-verifiable stop conditions, an independent read-only verifier agent, and disk-based state that survives session death",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hhamja",
+    "repoName": "loop-harness",
+    "repoBranch": "main"
   }
 }

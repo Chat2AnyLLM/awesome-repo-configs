@@ -1563,5 +1563,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "hhamja/loop-harness": {
+    "owner": "hhamja",
+    "name": "loop-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

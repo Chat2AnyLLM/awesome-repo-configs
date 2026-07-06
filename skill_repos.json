@@ -6890,5 +6890,124 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Storybloq/storybloq": {
+        "owner": "Storybloq",
+        "name": "storybloq",
+        "branch": "main",
+        "enabled": true
+    },
+    "wanshuiyin/Anti-Autoresearch": {
+        "owner": "wanshuiyin",
+        "name": "Anti-Autoresearch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hyperfx-ai/marketing-skills": {
+        "owner": "hyperfx-ai",
+        "name": "marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DeliciousBuding/xiaohongshu-skill": {
+        "owner": "DeliciousBuding",
+        "name": "xiaohongshu-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "crypdick/pynchy": {
+        "owner": "crypdick",
+        "name": "pynchy",
+        "branch": "main",
+        "enabled": true
+    },
+    "kgelster/awesome-ecom-skills": {
+        "owner": "kgelster",
+        "name": "awesome-ecom-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kickinrad/personas": {
+        "owner": "kickinrad",
+        "name": "personas",
+        "branch": "main",
+        "enabled": true
+    },
+    "LeifDiao/doc-atlas": {
+        "owner": "LeifDiao",
+        "name": "doc-atlas",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "royvergara/design-team-os": {
+        "owner": "royvergara",
+        "name": "design-team-os",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "XBlueSky/cortexes": {
+        "owner": "XBlueSky",
+        "name": "cortexes",
+        "branch": "plugin",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ronnieiscoo/bootstrap-expert": {
+        "owner": "ronnieiscoo",
+        "name": "bootstrap-expert",
+        "branch": "main",
+        "enabled": true
+    },
+    "zhanglunet/mba": {
+        "owner": "zhanglunet",
+        "name": "mba",
+        "branch": "main",
+        "enabled": true
+    },
+    "javier-garzas/ia-product-management": {
+        "owner": "javier-garzas",
+        "name": "ia-product-management",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stotihv/skills": {
+        "owner": "stotihv",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "gptme/gptme-cc-plugin": {
+        "owner": "gptme",
+        "name": "gptme-cc-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pszypowicz/claude-skills": {
+        "owner": "pszypowicz",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Fluory/claude-sync-kit": {
+        "owner": "Fluory",
+        "name": "claude-sync-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hhamja/loop-harness": {
+        "owner": "hhamja",
+        "name": "loop-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
