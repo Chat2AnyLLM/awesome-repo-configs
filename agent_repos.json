@@ -1507,5 +1507,33 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "ckorhonen/claude-skills": {
+    "owner": "ckorhonen",
+    "name": "claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "88plug/addlightness": {
+    "owner": "88plug",
+    "name": "addlightness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "88plug/trigger-my-training": {
+    "owner": "88plug",
+    "name": "trigger-my-training",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "88plug/scientific-method": {
+    "owner": "88plug",
+    "name": "scientific-method",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -6670,5 +6670,115 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Borelchu/menhera-loop": {
+        "owner": "Borelchu",
+        "name": "menhera-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ckorhonen/claude-skills": {
+        "owner": "ckorhonen",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ANTHO56200/synapse-memory": {
+        "owner": "ANTHO56200",
+        "name": "synapse-memory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ndisisnd/msg": {
+        "owner": "ndisisnd",
+        "name": "msg",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "harakiro/harakiro-marketplace": {
+        "owner": "harakiro",
+        "name": "harakiro-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "88plug/screen-mcp": {
+        "owner": "88plug",
+        "name": "screen-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/recover-from-false-positive": {
+        "owner": "88plug",
+        "name": "recover-from-false-positive",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nubasu/Pseudo-Fable-Framework": {
+        "owner": "nubasu",
+        "name": "Pseudo-Fable-Framework",
+        "branch": "main",
+        "enabled": true
+    },
+    "sureshg/skills": {
+        "owner": "sureshg",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fldicoahkiin/agent-skills-card": {
+        "owner": "Fldicoahkiin",
+        "name": "agent-skills-card",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "88plug/addlightness": {
+        "owner": "88plug",
+        "name": "addlightness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/project-prospector": {
+        "owner": "88plug",
+        "name": "project-prospector",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/drive-remote-terminal": {
+        "owner": "88plug",
+        "name": "drive-remote-terminal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/drift-detector": {
+        "owner": "88plug",
+        "name": "drift-detector",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/trigger-my-training": {
+        "owner": "88plug",
+        "name": "trigger-my-training",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/scientific-method": {
+        "owner": "88plug",
+        "name": "scientific-method",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

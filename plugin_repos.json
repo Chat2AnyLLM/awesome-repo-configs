@@ -5851,5 +5851,113 @@
     "repoOwner": "beydemirfurkan",
     "repoName": "appstore-release",
     "repoBranch": "main"
+  },
+  "bhpark1013/claudenews": {
+    "name": "bhpark1013/claudenews",
+    "description": "Fill Claude Code's agent wait time with dev news \u2014 Hacker News, GitHub Trending & per-language sources in your status line, auto-translated with short summaries.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bhpark1013",
+    "repoName": "claudenews",
+    "repoBranch": "main"
+  },
+  "Borelchu/menhera-loop": {
+    "name": "Borelchu/menhera-loop",
+    "description": "\"Done\" means nothing \u2014 a menhera-style completion gate for Claude Code that blocks empty completion claims until tests actually ran green and no TODOs are left behind.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Borelchu",
+    "repoName": "menhera-loop",
+    "repoBranch": "main"
+  },
+  "ckorhonen/claude-skills": {
+    "name": "ckorhonen/claude-skills",
+    "description": "A curated collection of skills for Claude Code and Codex \u2014 specialized capabilities across development, design, AI, security, and more. Part of the cdd.dev/skills family.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ckorhonen",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "harakiro/harakiro-marketplace": {
+    "name": "harakiro/harakiro-marketplace",
+    "description": "Claude Code plugin marketplace \u2014 AI development tools by harakiro",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "harakiro",
+    "repoName": "harakiro-marketplace",
+    "repoBranch": "main"
+  },
+  "88plug/screen-mcp": {
+    "name": "88plug/screen-mcp",
+    "description": "Eyes and hands on a Linux Wayland desktop: screenshot, click, type, scroll, drag, read any visible app over xdg-desktop-portal. MCP server + drive-screen skill. CPU-only, GNOME/Wayland.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "screen-mcp",
+    "repoBranch": "main"
+  },
+  "88plug/recover-from-false-positive": {
+    "name": "88plug/recover-from-false-positive",
+    "description": "Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: removes the triggering message + refusal turn, re-stitches the parentUuid chain so the session resum...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "recover-from-false-positive",
+    "repoBranch": "main"
+  },
+  "88plug/addlightness": {
+    "name": "88plug/addlightness",
+    "description": "Simplify, then add lightness \u2014 a zero-dep Claude Code plugin that removes AI-generated code fat while preserving behavior, then benchmarks the speedup. Measure weight, trim, verify equivalence, benchmark.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "addlightness",
+    "repoBranch": "main"
+  },
+  "88plug/project-prospector": {
+    "name": "88plug/project-prospector",
+    "description": "Discover, catalog, and rank everything you've built or sketched on a machine \u2014 two-pass parallel read-only sweep, tiered novelty/leverage ranking.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "project-prospector",
+    "repoBranch": "main"
+  },
+  "88plug/drive-remote-terminal": {
+    "name": "88plug/drive-remote-terminal",
+    "description": "Drive an interactive full-screen TUI on a remote machine over tmux/screen + SSH like a human (type-wait-screenshot-read loop).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "drive-remote-terminal",
+    "repoBranch": "main"
+  },
+  "88plug/drift-detector": {
+    "name": "88plug/drift-detector",
+    "description": "Detects behavioral drift from your Claude output contract and steers it back \u2014 deterministic, dependency-free, 100% accuracy on 170-session corpus.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "drift-detector",
+    "repoBranch": "main"
+  },
+  "88plug/trigger-my-training": {
+    "name": "88plug/trigger-my-training",
+    "description": "Ground-first reflex for Claude Code: the agent judges complexity from its own training, grounds before acting, and is hard-blocked from the irreversible step until it has.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "trigger-my-training",
+    "repoBranch": "main"
+  },
+  "88plug/scientific-method": {
+    "name": "88plug/scientific-method",
+    "description": "Falsification-first investigation + invention workflow for Claude Code: hypothesis ledgers, controlled experiments, REFUTE-first verification, and provable invention.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "scientific-method",
+    "repoBranch": "main"
   }
 }
