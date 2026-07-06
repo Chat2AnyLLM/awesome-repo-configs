@@ -7009,5 +7009,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "zenlee123/routerbase-agent-skills": {
+        "owner": "zenlee123",
+        "name": "routerbase-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
