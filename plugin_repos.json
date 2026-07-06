@@ -5959,5 +5959,86 @@
     "repoOwner": "88plug",
     "repoName": "scientific-method",
     "repoBranch": "main"
+  },
+  "romiluz13/cc10x": {
+    "name": "romiluz13/cc10x",
+    "description": "The Loop Engine for Claude Code \u2014 engineer the loop, not the prompt. 1 router \u00b7 9 agents \u00b7 16 skills \u00b7 4 workflows. Fail-closed gates, test honesty, anti-anchored review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "romiluz13",
+    "repoName": "cc10x",
+    "repoBranch": "main"
+  },
+  "JetBrains/teamcity-cli": {
+    "name": "JetBrains/teamcity-cli",
+    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JetBrains",
+    "repoName": "teamcity-cli",
+    "repoBranch": "main"
+  },
+  "claude-world/director-mode-lite": {
+    "name": "claude-world/director-mode-lite",
+    "description": "Use Claude Code like a Director, not a Programmer. Free toolkit with Auto-Loop, Self-Evolving Loop, 25 commands, 14 agents, 29 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claude-world",
+    "repoName": "director-mode-lite",
+    "repoBranch": "main"
+  },
+  "Nevaberry/nevaberry-plugins": {
+    "name": "Nevaberry/nevaberry-plugins",
+    "description": "Plugins and Knowledge Patches for AI - filling gaps in Claude's knowledge about language and framework features released after training cutoff",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nevaberry",
+    "repoName": "nevaberry-plugins",
+    "repoBranch": "main"
+  },
+  "procoders/superpowers-v": {
+    "name": "procoders/superpowers-v",
+    "description": "Compound V \u2014 sidekick to Superpowers. Triple parallel pre-flight (code archaeology + domain-expert with audience search + library/doc validator via Context7), Disjoint File Partition Map, batched parallel Opus dispatc...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "procoders",
+    "repoName": "superpowers-v",
+    "repoBranch": "main"
+  },
+  "pdugan20/claudelint": {
+    "name": "pdugan20/claudelint",
+    "description": "A linter for Claude Code projects. Validates CLAUDE.md files, skills, settings, hooks, MCP servers, and plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pdugan20",
+    "repoName": "claudelint",
+    "repoBranch": "main"
+  },
+  "D0NMEGA/donnyclaude": {
+    "name": "D0NMEGA/donnyclaude",
+    "description": "Verified workflow engine for Claude Code: durable project memory, phase planning, subagents, and deterministic completion gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "D0NMEGA",
+    "repoName": "donnyclaude",
+    "repoBranch": "main"
+  },
+  "osouthgate/agent-plus": {
+    "name": "osouthgate/agent-plus",
+    "description": "A framework for building deterministic CLI tools that Claude Code shells out to. Universal primitives + a marketplace convention for service wrappers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "osouthgate",
+    "repoName": "agent-plus",
+    "repoBranch": "main"
+  },
+  "awrshift/claude-friends": {
+    "name": "awrshift/claude-friends",
+    "description": "Claude has friends. On the calls that matter it asks AIs from other families \u2014 Gemini, a fresh-eyes second Claude, optionally GPT \u2014 who catch the blind spots one model can't see alone.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "awrshift",
+    "repoName": "claude-friends",
+    "repoBranch": "main"
   }
 }

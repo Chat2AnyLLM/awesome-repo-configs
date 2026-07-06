@@ -1535,5 +1535,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "claude-world/director-mode-lite": {
+    "owner": "claude-world",
+    "name": "director-mode-lite",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "procoders/superpowers-v": {
+    "owner": "procoders",
+    "name": "superpowers-v",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "pdugan20/claudelint": {
+    "owner": "pdugan20",
+    "name": "claudelint",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "awrshift/claude-friends": {
+    "owner": "awrshift",
+    "name": "claude-friends",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

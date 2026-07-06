@@ -6780,5 +6780,115 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "romiluz13/cc10x": {
+        "owner": "romiluz13",
+        "name": "cc10x",
+        "branch": "main",
+        "enabled": true
+    },
+    "BANANASJIM/rdc-cli": {
+        "owner": "BANANASJIM",
+        "name": "rdc-cli",
+        "branch": "master",
+        "enabled": true
+    },
+    "JetBrains/teamcity-cli": {
+        "owner": "JetBrains",
+        "name": "teamcity-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "claude-world/director-mode-lite": {
+        "owner": "claude-world",
+        "name": "director-mode-lite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "googlarz/finance-assistant": {
+        "owner": "googlarz",
+        "name": "finance-assistant",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "awrshift/claude-memory-kit": {
+        "owner": "awrshift",
+        "name": "claude-memory-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Nevaberry/nevaberry-plugins": {
+        "owner": "Nevaberry",
+        "name": "nevaberry-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "procoders/superpowers-v": {
+        "owner": "procoders",
+        "name": "superpowers-v",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DefaultPerson/agent-setup": {
+        "owner": "DefaultPerson",
+        "name": "agent-setup",
+        "branch": "master",
+        "enabled": true
+    },
+    "pdugan20/claudelint": {
+        "owner": "pdugan20",
+        "name": "claudelint",
+        "branch": "main",
+        "enabled": true
+    },
+    "D0NMEGA/donnyclaude": {
+        "owner": "D0NMEGA",
+        "name": "donnyclaude",
+        "branch": "main",
+        "enabled": true
+    },
+    "fruafr/skills": {
+        "owner": "fruafr",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "osouthgate/agent-plus": {
+        "owner": "osouthgate",
+        "name": "agent-plus",
+        "branch": "main",
+        "enabled": true
+    },
+    "awrshift/claude-friends": {
+        "owner": "awrshift",
+        "name": "claude-friends",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AnayDhawan/Components": {
+        "owner": "AnayDhawan",
+        "name": "Components",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jassics/agentscanner": {
+        "owner": "jassics",
+        "name": "agentscanner",
+        "branch": "main",
+        "enabled": true
+    },
+    "fideguch/bochi": {
+        "owner": "fideguch",
+        "name": "bochi",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
