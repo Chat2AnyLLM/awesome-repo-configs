@@ -1,4 +1,18 @@
 {
+    "nusantara-ventures/goldprice-skills": {
+        "owner": "nusantara-ventures",
+        "name": "goldprice-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nusantara-ventures/exchangerate-skills": {
+        "owner": "nusantara-ventures",
+        "name": "exchangerate-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "sergebulaev/linkedin-skills": {
         "owner": "sergebulaev",
         "name": "linkedin-skills",
