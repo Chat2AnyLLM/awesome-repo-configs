@@ -6454,5 +6454,86 @@
     "repoOwner": "host452b",
     "repoName": "polish",
     "repoBranch": "main"
+  },
+  "uwuclxdy/claudix": {
+    "name": "uwuclxdy/claudix",
+    "description": "Semantic search plugin for Claude Code using LMStudio, Ollama or any OpenAI-compatible API",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uwuclxdy",
+    "repoName": "claudix",
+    "repoBranch": "mommy"
+  },
+  "Ghostfreak-cypher/backend-security-skill": {
+    "name": "Ghostfreak-cypher/backend-security-skill",
+    "description": "Claude Code plugin & marketplace for defensive backend security: audits, dependency/config scanning, secure-coding guidance, and a phased zero-to-hardened roadmap. OWASP Top 10 / ASVS anchored, benchmarked against Nod...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ghostfreak-cypher",
+    "repoName": "backend-security-skill",
+    "repoBranch": "main"
+  },
+  "SamuraiZac/desktop-ui-mastery": {
+    "name": "SamuraiZac/desktop-ui-mastery",
+    "description": "Reasoning-first desktop UI design skill for Claude Code, Codex, and any AGENTS.md tool. 30 masters decomposed into stealable principles, token derivation, and a slop linter.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SamuraiZac",
+    "repoName": "desktop-ui-mastery",
+    "repoBranch": "main"
+  },
+  "mrhinkle/aienterprise-skills": {
+    "name": "mrhinkle/aienterprise-skills",
+    "description": "Open source Agent Skills for Claude Code and Cowork \u2014 writing, web, social, and chief-of-staff bundles (12 skills).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrhinkle",
+    "repoName": "aienterprise-skills",
+    "repoBranch": "main"
+  },
+  "fablerlabs/relay": {
+    "name": "fablerlabs/relay",
+    "description": "\ud83d\udef0\ufe0f Human-in-the-loop request queue for autonomous agents \u2014 one Cloudflare Worker. Built and run in production by an autonomous Claude agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fablerlabs",
+    "repoName": "relay",
+    "repoBranch": "main"
+  },
+  "tmoody1973/pasteup": {
+    "name": "tmoody1973/pasteup",
+    "description": "Halftone paper-collage stop-motion for Claude Code. Cut. Paste. Wobble. Deterministic assemble-from-empty motion with the handmade stop-motion wobble built in \u2014 no paid video model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tmoody1973",
+    "repoName": "pasteup",
+    "repoBranch": "main"
+  },
+  "ly8427/gan-zhong-xue": {
+    "name": "ly8427/gan-zhong-xue",
+    "description": "\u5e72\u4e2d\u5b66 (Learning by Doing) \u2014 a Claude Code skill that cures vibe-coding: turns AI-shipped changes you didn't truly understand into understanding you can restate and transfer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ly8427",
+    "repoName": "gan-zhong-xue",
+    "repoBranch": "main"
+  },
+  "C0FFEEC0DE/agnthive": {
+    "name": "C0FFEEC0DE/agnthive",
+    "description": "Claude Code with a software engineering discipline built in \u2014 a hook-gated SDLC profile wraps every prompt in discover \u2192 design \u2192 implement \u2192 verify \u2192 review \u2192 docs, eight specialist agents collaborate with guardrails...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "C0FFEEC0DE",
+    "repoName": "agnthive",
+    "repoBranch": "main"
+  },
+  "MysticRyuujin/rpcwright": {
+    "name": "MysticRyuujin/rpcwright",
+    "description": "A Claude Skill for engineering & conformance-testing Ethereum JSON-RPC (execution-apis) changes across EL clients \u2014 go-ethereum, Nethermind, Besu, Erigon, Reth, ethrex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MysticRyuujin",
+    "repoName": "rpcwright",
+    "repoBranch": "main"
   }
 }

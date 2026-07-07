@@ -1633,5 +1633,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "manastalukdar/ai-devstudio": {
+    "owner": "manastalukdar",
+    "name": "ai-devstudio",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

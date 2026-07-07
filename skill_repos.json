@@ -7344,5 +7344,84 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "naxoc/claude-briefs": {
+        "owner": "naxoc",
+        "name": "claude-briefs",
+        "branch": "main",
+        "enabled": true
+    },
+    "DOTfei/borrowed-brain-pro": {
+        "owner": "DOTfei",
+        "name": "borrowed-brain-pro",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "manastalukdar/ai-devstudio": {
+        "owner": "manastalukdar",
+        "name": "ai-devstudio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ghostfreak-cypher/backend-security-skill": {
+        "owner": "Ghostfreak-cypher",
+        "name": "backend-security-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "SamuraiZac/desktop-ui-mastery": {
+        "owner": "SamuraiZac",
+        "name": "desktop-ui-mastery",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mrhinkle/aienterprise-skills": {
+        "owner": "mrhinkle",
+        "name": "aienterprise-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "suwa-sh/multi-cloud-lifecycle-skills": {
+        "owner": "suwa-sh",
+        "name": "multi-cloud-lifecycle-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "y-a-v-a/skills": {
+        "owner": "y-a-v-a",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "tmoody1973/pasteup": {
+        "owner": "tmoody1973",
+        "name": "pasteup",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ly8427/gan-zhong-xue": {
+        "owner": "ly8427",
+        "name": "gan-zhong-xue",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "C0FFEEC0DE/agnthive": {
+        "owner": "C0FFEEC0DE",
+        "name": "agnthive",
+        "branch": "main",
+        "enabled": true
+    },
+    "MysticRyuujin/rpcwright": {
+        "owner": "MysticRyuujin",
+        "name": "rpcwright",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
