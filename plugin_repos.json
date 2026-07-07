@@ -6544,5 +6544,86 @@
     "repoOwner": "LeonMelamud",
     "repoName": "agentcore-toolkit",
     "repoBranch": "main"
+  },
+  "LeadMagic/gtm-skills": {
+    "name": "LeadMagic/gtm-skills",
+    "description": "205 production GTM agent skills for Claude Code \u2014 sales, outbound, prospecting, RevOps, ABM, PLG, CS, automation. Framework-cited playbooks with artifacts + QA scripts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LeadMagic",
+    "repoName": "gtm-skills",
+    "repoBranch": "main"
+  },
+  "stuinfla/ruvnet-brain": {
+    "name": "stuinfla/ruvnet-brain",
+    "description": "RuvNet Brain \u2014 a downloadable, source-grounded brain for Claude Code over Reuven Cohen's (rUv's) RuvNet stack: RuVector/RVF, Ruflo, AgentDB, RuLake, SPARC + 21 building blocks. Grounds Claude in real source via one MC...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stuinfla",
+    "repoName": "ruvnet-brain",
+    "repoBranch": "main"
+  },
+  "taylorbanks/page-foundry": {
+    "name": "taylorbanks/page-foundry",
+    "description": "Turn one brief into a finished homepage, landing page, or sales page: high-converting, written in your voice, fast, accessible, and built so it never reads or looks AI-made.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "taylorbanks",
+    "repoName": "page-foundry",
+    "repoBranch": "main"
+  },
+  "fabdelgado/fable-mode": {
+    "name": "fabdelgado/fable-mode",
+    "description": "Claude Code skill that clones Fable 5's reasoning habits \u2014 the playbook Fable wrote about itself. A/B validated: 20/20 convergence, blind-judge parity. One-line install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fabdelgado",
+    "repoName": "fable-mode",
+    "repoBranch": "main"
+  },
+  "EL-HAMDAOUI-Othmane/agent-reachout": {
+    "name": "EL-HAMDAOUI-Othmane/agent-reachout",
+    "description": "\ud83d\udcf2 Connect your AI agent to Telegram for timely updates and decisions, ensuring smooth workflows without needing to monitor the terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EL-HAMDAOUI-Othmane",
+    "repoName": "agent-reachout",
+    "repoBranch": "main"
+  },
+  "voidrank/Trainlint": {
+    "name": "voidrank/Trainlint",
+    "description": "A linter for AI/ML training \u2014 and for the AI agent doing it. Catches the silent mistakes (loss drops, nothing crashes, model quietly wrong) before they cost you a week of GPU.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "voidrank",
+    "repoName": "Trainlint",
+    "repoBranch": "master"
+  },
+  "Magos-Biologis/nb-claude-skill": {
+    "name": "Magos-Biologis/nb-claude-skill",
+    "description": "Token-efficient Jupyter notebook reading and editing for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Magos-Biologis",
+    "repoName": "nb-claude-skill",
+    "repoBranch": "master"
+  },
+  "iansmith/slopstop": {
+    "name": "iansmith/slopstop",
+    "description": "slopstop is a system for using Claude Code with a ticketing system to have better context with fewer tokens in the context window.  It also documents what has been done and concerns about the ticket.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iansmith",
+    "repoName": "slopstop",
+    "repoBranch": "master"
+  },
+  "WillyV347/twitterBookmarks": {
+    "name": "WillyV347/twitterBookmarks",
+    "description": "Bookmark Income Engine \u2014 Claude Code plugin that converts X bookmarks into scored revenue opportunities and implementation plans via multi-agent pipeline",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WillyV347",
+    "repoName": "twitterBookmarks",
+    "repoBranch": "main"
   }
 }

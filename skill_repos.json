@@ -7437,5 +7437,127 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "pcx-wave/vibe-skill": {
+        "owner": "pcx-wave",
+        "name": "vibe-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LeadMagic/gtm-skills": {
+        "owner": "LeadMagic",
+        "name": "gtm-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pcx-wave/gemini-skill": {
+        "owner": "pcx-wave",
+        "name": "gemini-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "stuinfla/ruvnet-brain": {
+        "owner": "stuinfla",
+        "name": "ruvnet-brain",
+        "branch": "main",
+        "enabled": true
+    },
+    "hanzhcn/laohan-skills": {
+        "owner": "hanzhcn",
+        "name": "laohan-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "pcx-wave/opencode-skill": {
+        "owner": "pcx-wave",
+        "name": "opencode-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pcx-wave/glean": {
+        "owner": "pcx-wave",
+        "name": "glean",
+        "branch": "main",
+        "enabled": true
+    },
+    "taylorbanks/page-foundry": {
+        "owner": "taylorbanks",
+        "name": "page-foundry",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fabdelgado/fable-mode": {
+        "owner": "fabdelgado",
+        "name": "fable-mode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chris-peterson/tack": {
+        "owner": "chris-peterson",
+        "name": "tack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Magos-Biologis/nb-claude-skill": {
+        "owner": "Magos-Biologis",
+        "name": "nb-claude-skill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iansmith/slopstop": {
+        "owner": "iansmith",
+        "name": "slopstop",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WillyV347/twitterBookmarks": {
+        "owner": "WillyV347",
+        "name": "twitterBookmarks",
+        "branch": "main",
+        "enabled": true
+    },
+    "bmurphy201/revenue-messaging-framework": {
+        "owner": "bmurphy201",
+        "name": "revenue-messaging-framework",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alex-jb/shadow-mentor": {
+        "owner": "alex-jb",
+        "name": "shadow-mentor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "huguryildiz/fable-mode": {
+        "owner": "huguryildiz",
+        "name": "fable-mode",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "topcoder1/jz_skills": {
+        "owner": "topcoder1",
+        "name": "jz_skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cruisefeed/cruisefeed-skill": {
+        "owner": "cruisefeed",
+        "name": "cruisefeed-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
