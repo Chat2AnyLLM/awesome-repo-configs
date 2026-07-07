@@ -6364,5 +6364,95 @@
     "repoOwner": "liu1700",
     "repoName": "gw",
     "repoBranch": "main"
+  },
+  "yonatangross/orchestkit": {
+    "name": "yonatangross/orchestkit",
+    "description": "The Complete AI Development Toolkit for Claude Code \u2014 113 skills, 37 agents, 212 hooks. Production-ready patterns for full-stack development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yonatangross",
+    "repoName": "orchestkit",
+    "repoBranch": "main"
+  },
+  "joanseg/specmanager": {
+    "name": "joanseg/specmanager",
+    "description": "Spec-driven development for Claude Code. SpecManager gives you an agile AI team that takes a feature from interview \u2192 PRD \u2192 Architecture \u2192 Design \u2192 Plan \u2192 Build \u2192 Walkthrough.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joanseg",
+    "repoName": "specmanager",
+    "repoBranch": "main"
+  },
+  "imsaif/design-with-claude": {
+    "name": "imsaif/design-with-claude",
+    "description": "37 specialist agents + 1 master command \u2014 38 design experts as Claude Code commands. Bring senior design expertise into every coding session.  No runtime. No dependencies. No API keys. Just markdown files that give Cl...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "imsaif",
+    "repoName": "design-with-claude",
+    "repoBranch": "main"
+  },
+  "hah23255/adb-android-control": {
+    "name": "hah23255/adb-android-control",
+    "description": "Comprehensive Android device control via ADB \u2014 typed Python package + CLI + Claude Code skill. Master Tester Doctrine governed (338 tests, 1.59:1 ratio).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hah23255",
+    "repoName": "adb-android-control",
+    "repoBranch": "main"
+  },
+  "andresanemic/lore-plugin": {
+    "name": "andresanemic/lore-plugin",
+    "description": "Turn hard-earned experience into reusable judgment for AI-assisted development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andresanemic",
+    "repoName": "lore-plugin",
+    "repoBranch": "main"
+  },
+  "hmj1026/dhpk": {
+    "name": "hmj1026/dhpk",
+    "description": "Reusable Claude Code dev harness plugin \u2014 agents, commands, skills, hooks, opt-in stack modules",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hmj1026",
+    "repoName": "dhpk",
+    "repoBranch": "main"
+  },
+  "sandypoli-boop/sansheng-skills": {
+    "name": "sandypoli-boop/sansheng-skills",
+    "description": "A collection of battle-tested Claude Code skills by \u53c1\u7b19 \u00b7 \u4e00\u5957\u5b9e\u6218\u6253\u78e8\u7684 Claude Code \u6280\u80fd\u5408\u96c6",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sandypoli-boop",
+    "repoName": "sansheng-skills",
+    "repoBranch": "main"
+  },
+  "shrirambhat/fabulous": {
+    "name": "shrirambhat/fabulous",
+    "description": "Make Opus work like Claude Fable 5 - a Claude Code plugin that injects Fable's working doctrine at session start, with per-task playbooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shrirambhat",
+    "repoName": "fabulous",
+    "repoBranch": "main"
+  },
+  "PsychQuant/claude-hot-limit": {
+    "name": "PsychQuant/claude-hot-limit",
+    "description": "\u9632 fan-out \u66b4\u885d\u649e Anthropic acceleration-limit / short-burst \u7bc0\u6d41\uff08429/529\uff09\u7684 Claude Code plugin\uff08\u81ea\u5e36 marketplace\uff09\u3002pacing-guard PreToolUse hook\uff1aburst \u8d85\u91cf deny\u3001Fable 5 \u958b Workflow deny\u3001\u9593\u9694\u592a\u8fd1 sleep\u3001\u5bec fan-out \u5efa\u8b70 pin \u4fbf\u5b9c model\uff1btrip-rec...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PsychQuant",
+    "repoName": "claude-hot-limit",
+    "repoBranch": "main"
+  },
+  "host452b/polish": {
+    "name": "host452b/polish",
+    "description": "Claude Code skill/plugin that rewrites a raw question into a high-performing LLM prompt by auto-selecting research-backed prompt-engineering strategies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "host452b",
+    "repoName": "polish",
+    "repoBranch": "main"
   }
 }

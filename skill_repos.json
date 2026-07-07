@@ -7223,5 +7223,126 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "JSONbored/awesome-claude": {
+        "owner": "JSONbored",
+        "name": "awesome-claude",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "yonatangross/orchestkit": {
+        "owner": "yonatangross",
+        "name": "orchestkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hao0321/ai-media-generator": {
+        "owner": "Hao0321",
+        "name": "ai-media-generator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Frappucc1no/recall-loom": {
+        "owner": "Frappucc1no",
+        "name": "recall-loom",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Vladimir-Human/humanizer-ru": {
+        "owner": "Vladimir-Human",
+        "name": "humanizer-ru",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "publisher-skill/publisher": {
+        "owner": "publisher-skill",
+        "name": "publisher",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Hasasasa/claude-skill-html-to-pptx": {
+        "owner": "Hasasasa",
+        "name": "claude-skill-html-to-pptx",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hah23255/adb-android-control": {
+        "owner": "hah23255",
+        "name": "adb-android-control",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Edmonds-Commerce-Limited/claude-code-hooks-daemon": {
+        "owner": "Edmonds-Commerce-Limited",
+        "name": "claude-code-hooks-daemon",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "deciqAI/knowledge-skills": {
+        "owner": "deciqAI",
+        "name": "knowledge-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "magnusrodseth/dotfiles": {
+        "owner": "magnusrodseth",
+        "name": "dotfiles",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "andresanemic/lore-plugin": {
+        "owner": "andresanemic",
+        "name": "lore-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hmj1026/dhpk": {
+        "owner": "hmj1026",
+        "name": "dhpk",
+        "branch": "main",
+        "enabled": true
+    },
+    "sandypoli-boop/sansheng-skills": {
+        "owner": "sandypoli-boop",
+        "name": "sansheng-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YoniChechik/claude-code-config": {
+        "owner": "YoniChechik",
+        "name": "claude-code-config",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shrirambhat/fabulous": {
+        "owner": "shrirambhat",
+        "name": "fabulous",
+        "branch": "main",
+        "enabled": true
+    },
+    "PsychQuant/claude-hot-limit": {
+        "owner": "PsychQuant",
+        "name": "claude-hot-limit",
+        "branch": "main",
+        "enabled": true
+    },
+    "host452b/polish": {
+        "owner": "host452b",
+        "name": "polish",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

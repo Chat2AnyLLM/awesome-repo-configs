@@ -1612,5 +1612,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Edmonds-Commerce-Limited/claude-code-hooks-daemon": {
+    "owner": "Edmonds-Commerce-Limited",
+    "name": "claude-code-hooks-daemon",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "magnusrodseth/dotfiles": {
+    "owner": "magnusrodseth",
+    "name": "dotfiles",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "hmj1026/dhpk": {
+    "owner": "hmj1026",
+    "name": "dhpk",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
