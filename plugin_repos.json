@@ -6535,5 +6535,14 @@
     "repoOwner": "MysticRyuujin",
     "repoName": "rpcwright",
     "repoBranch": "main"
+  },
+  "LeonMelamud/agentcore-toolkit": {
+    "name": "LeonMelamud/agentcore-toolkit",
+    "description": "Deploy, operate, and migrate AI agents on Amazon Bedrock AgentCore. Harness-first migration from 15 coding assistants (Claude Code, Copilot, Cursor, ...) to managed harnesses + Strands runtimes, verified against AgentCore CLI 0.22.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LeonMelamud",
+    "repoName": "agentcore-toolkit",
+    "repoBranch": "main"
   }
 }
