@@ -7119,5 +7119,109 @@
         "name": "iron-skills",
         "branch": "main",
         "enabled": true
+    },
+    "tjdrhs90/flutter-flame-harness": {
+        "owner": "tjdrhs90",
+        "name": "flutter-flame-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KKenny0/buddybar": {
+        "owner": "KKenny0",
+        "name": "buddybar",
+        "branch": "main",
+        "enabled": true
+    },
+    "ahump20/Austin-Writing---Communication-Style-Archive": {
+        "owner": "ahump20",
+        "name": "Austin-Writing---Communication-Style-Archive",
+        "branch": "main",
+        "enabled": true
+    },
+    "RockyHong/super-bootstrap": {
+        "owner": "RockyHong",
+        "name": "super-bootstrap",
+        "branch": "main",
+        "enabled": true
+    },
+    "baizhiyuan/finding-unknowns-skill": {
+        "owner": "baizhiyuan",
+        "name": "finding-unknowns-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexmmatos/essentials-claude-code": {
+        "owner": "alexmmatos",
+        "name": "essentials-claude-code",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "sulipapa/localize-infographic-pdf": {
+        "owner": "sulipapa",
+        "name": "localize-infographic-pdf",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "glubean/skill": {
+        "owner": "glubean",
+        "name": "skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "vineetu/simple-host": {
+        "owner": "vineetu",
+        "name": "simple-host",
+        "branch": "main",
+        "enabled": true
+    },
+    "jackterror/script-to-video-production-agent": {
+        "owner": "jackterror",
+        "name": "script-to-video-production-agent",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jackterror/persuasion-audit-engine": {
+        "owner": "jackterror",
+        "name": "persuasion-audit-engine",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "x77xdavid-prog/checkup-skills": {
+        "owner": "x77xdavid-prog",
+        "name": "checkup-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "lets-forge/forge-plugins": {
+        "owner": "lets-forge",
+        "name": "forge-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "theclaymethod/artifacture": {
+        "owner": "theclaymethod",
+        "name": "artifacture",
+        "branch": "main",
+        "enabled": true
+    },
+    "luoxianzi/praetor": {
+        "owner": "luoxianzi",
+        "name": "praetor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "liu1700/gw": {
+        "owner": "liu1700",
+        "name": "gw",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

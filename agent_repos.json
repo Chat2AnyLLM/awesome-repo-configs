@@ -1591,5 +1591,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "baizhiyuan/finding-unknowns-skill": {
+    "owner": "baizhiyuan",
+    "name": "finding-unknowns-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "alexmmatos/essentials-claude-code": {
+    "owner": "alexmmatos",
+    "name": "essentials-claude-code",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "luoxianzi/praetor": {
+    "owner": "luoxianzi",
+    "name": "praetor",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

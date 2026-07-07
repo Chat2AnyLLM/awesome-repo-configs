@@ -6265,5 +6265,104 @@
     "repoOwner": "DefaultPerson",
     "repoName": "iron-skills",
     "repoBranch": "main"
+  },
+  "tjdrhs90/flutter-flame-harness": {
+    "name": "tjdrhs90/flutter-flame-harness",
+    "description": "Idea-to-store harness for Flutter/Flame games",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tjdrhs90",
+    "repoName": "flutter-flame-harness",
+    "repoBranch": "main"
+  },
+  "KKenny0/buddybar": {
+    "name": "KKenny0/buddybar",
+    "description": "\ud83d\udc3e A virtual pet statusline for Claude Code \u2014 watches your rhythm, coaches your pace, grows with you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KKenny0",
+    "repoName": "buddybar",
+    "repoBranch": "main"
+  },
+  "RockyHong/super-bootstrap": {
+    "name": "RockyHong/super-bootstrap",
+    "description": "Claude Code plugin: one command scaffolds CLAUDE.md, picks skills/MCPs for your stack, and adds a route-aware workflow with doc-sync commit gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RockyHong",
+    "repoName": "super-bootstrap",
+    "repoBranch": "main"
+  },
+  "baizhiyuan/finding-unknowns-skill": {
+    "name": "baizhiyuan/finding-unknowns-skill",
+    "description": "A Claude Code skill for discovering your unknowns (unknown unknowns / unknown knowns) before, during, and after implementation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "baizhiyuan",
+    "repoName": "finding-unknowns-skill",
+    "repoBranch": "main"
+  },
+  "alexmmatos/essentials-claude-code": {
+    "name": "alexmmatos/essentials-claude-code",
+    "description": "Measure Claude Code Adoption",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexmmatos",
+    "repoName": "essentials-claude-code",
+    "repoBranch": "main"
+  },
+  "vineetu/simple-host": {
+    "name": "vineetu/simple-host",
+    "description": "Deploy websites to simple-host.app from your coding agent (Claude Code, Codex, Cursor) \u2014 one-command install. Static hosting + a per-site backend: state, collections, private pages, templates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vineetu",
+    "repoName": "simple-host",
+    "repoBranch": "main"
+  },
+  "x77xdavid-prog/checkup-skills": {
+    "name": "x77xdavid-prog/checkup-skills",
+    "description": "claude-checkup \uc2a4\ud0ac \ubc88\ub4e4 \u2014 \ud504\ub86c\ud504\ud2b8 \uc791\uc131\u00b7\ud55c\uad6d \uacf5\uacf5\ub370\uc774\ud130 API \uc5f0\ub3d9\u00b7repo \uc815\ub9ac (Claude Code plugin marketplace)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "x77xdavid-prog",
+    "repoName": "checkup-skills",
+    "repoBranch": "master"
+  },
+  "lets-forge/forge-plugins": {
+    "name": "lets-forge/forge-plugins",
+    "description": "Claude Code plugins by lets-forge \u2014 skills, hooks, agents, and MCP integrations used across forge-labs projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lets-forge",
+    "repoName": "forge-plugins",
+    "repoBranch": "main"
+  },
+  "theclaymethod/artifacture": {
+    "name": "theclaymethod/artifacture",
+    "description": "Verified visual explainers for coding agents \u2014 MDX/React authoring, deterministic design-quality verification, multi-model eval harness",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theclaymethod",
+    "repoName": "artifacture",
+    "repoBranch": "main"
+  },
+  "luoxianzi/praetor": {
+    "name": "luoxianzi/praetor",
+    "description": "Claude Code plugin \u2014 Claude plans, Codex executes, a binding judge verifies. Explicit dispatch, zero config.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "luoxianzi",
+    "repoName": "praetor",
+    "repoBranch": "main"
+  },
+  "liu1700/gw": {
+    "name": "liu1700/gw",
+    "description": "Branch-aware local HTTPS gateway for git worktrees \u2014 every branch gets trusted HTTPS URLs. Zero port conflicts for parallel dev and AI agent sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "liu1700",
+    "repoName": "gw",
+    "repoBranch": "main"
   }
 }
