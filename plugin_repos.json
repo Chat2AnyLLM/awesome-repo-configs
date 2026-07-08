@@ -6922,5 +6922,95 @@
     "repoOwner": "senderkit",
     "repoName": "senderkit-skills",
     "repoBranch": "main"
+  },
+  "CrowdStrike/foundry-skills": {
+    "name": "CrowdStrike/foundry-skills",
+    "description": "AI coding assistant skills for building CrowdStrike Falcon Foundry apps: scaffolding, deployment, and best practices for API integrations, collections, functions, UI extensions, UI pages, and workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CrowdStrike",
+    "repoName": "foundry-skills",
+    "repoBranch": "main"
+  },
+  "johnkozaris/jko-claude-plugins": {
+    "name": "johnkozaris/jko-claude-plugins",
+    "description": "Claude Code plugin marketplace \u2014 Rust, ESP32 C++, Python backend, SwiftUI, dead code detection",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnkozaris",
+    "repoName": "jko-claude-plugins",
+    "repoBranch": "main"
+  },
+  "kalinbogatzevski/captain-memo": {
+    "name": "kalinbogatzevski/captain-memo",
+    "description": "Cross-AI local memory for coding agents \u2014 Claude Code, Codex, Gemini & Cursor share one private local corpus. Hybrid search, recency-decay, indefinite retention.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kalinbogatzevski",
+    "repoName": "captain-memo",
+    "repoBranch": "master"
+  },
+  "RealDougEubanks/ClaudeMarketplace": {
+    "name": "RealDougEubanks/ClaudeMarketplace",
+    "description": "A community-driven collection of custom skills for Claude Code, Anthropic's CLI tool for software engineering with Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RealDougEubanks",
+    "repoName": "ClaudeMarketplace",
+    "repoBranch": "main"
+  },
+  "queelius/claude-anvil": {
+    "name": "queelius/claude-anvil",
+    "description": "A forge for Claude Code plugins \u2014 academic research, fiction worldbuilding, publication workflows, and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "queelius",
+    "repoName": "claude-anvil",
+    "repoBranch": "master"
+  },
+  "june9593/memarium-plugin": {
+    "name": "june9593/memarium-plugin",
+    "description": "Memarium Claude Code plugin \u2014 digest sessions into chronicles + topics, recall past notes before work. Standalone, no extra CLI required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "june9593",
+    "repoName": "memarium-plugin",
+    "repoBranch": "main"
+  },
+  "ERuban/claude-obsidian-sessions": {
+    "name": "ERuban/claude-obsidian-sessions",
+    "description": "Claude Code plugin + marketplace for Obsidian session tracking: /obsidian:compress saves the current session as a structured log, /obsidian:resume loads project context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ERuban",
+    "repoName": "claude-obsidian-sessions",
+    "repoBranch": "main"
+  },
+  "nikolay-kornev/moonshot": {
+    "name": "nikolay-kornev/moonshot",
+    "description": "nikolay-kornev/moonshot \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nikolay-kornev",
+    "repoName": "moonshot",
+    "repoBranch": "main"
+  },
+  "SWEStash/swe-workflow-skills": {
+    "name": "SWEStash/swe-workflow-skills",
+    "description": "A comprehensive SWE workflow, encoded. Might be useful to you too.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SWEStash",
+    "repoName": "swe-workflow-skills",
+    "repoBranch": "main"
+  },
+  "sergiparpal/Burgess": {
+    "name": "sergiparpal/Burgess",
+    "description": "The full creative cycle in one Claude Code plugin: diverge without collapsing to the mean, converge without believing your own ideas. A grounded knowledge graph fused with a local MAP-Elites + DPP idea engine. Embeddi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sergiparpal",
+    "repoName": "Burgess",
+    "repoBranch": "main"
   }
 }

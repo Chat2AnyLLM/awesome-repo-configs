@@ -1675,5 +1675,12 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sergiparpal/Burgess": {
+    "owner": "sergiparpal",
+    "name": "Burgess",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

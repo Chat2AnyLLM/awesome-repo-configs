@@ -7910,5 +7910,76 @@
         "name": ".dotfiles",
         "branch": "main",
         "enabled": true
+    },
+    "appautomaton/presentation": {
+        "owner": "appautomaton",
+        "name": "presentation",
+        "branch": "main",
+        "enabled": true
+    },
+    "CrowdStrike/foundry-skills": {
+        "owner": "CrowdStrike",
+        "name": "foundry-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johnkozaris/jko-claude-plugins": {
+        "owner": "johnkozaris",
+        "name": "jko-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "h3nryprod01/design-taste": {
+        "owner": "h3nryprod01",
+        "name": "design-taste",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kalinbogatzevski/captain-memo": {
+        "owner": "kalinbogatzevski",
+        "name": "captain-memo",
+        "branch": "master",
+        "enabled": true
+    },
+    "RealDougEubanks/ClaudeMarketplace": {
+        "owner": "RealDougEubanks",
+        "name": "ClaudeMarketplace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "queelius/claude-anvil": {
+        "owner": "queelius",
+        "name": "claude-anvil",
+        "branch": "master",
+        "enabled": true
+    },
+    "june9593/memarium-plugin": {
+        "owner": "june9593",
+        "name": "memarium-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nikolay-kornev/moonshot": {
+        "owner": "nikolay-kornev",
+        "name": "moonshot",
+        "branch": "main",
+        "enabled": true
+    },
+    "SWEStash/swe-workflow-skills": {
+        "owner": "SWEStash",
+        "name": "swe-workflow-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sergiparpal/Burgess": {
+        "owner": "sergiparpal",
+        "name": "Burgess",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
