@@ -7559,5 +7559,144 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "markfulton/claude-antigravity-agents": {
+        "owner": "markfulton",
+        "name": "claude-antigravity-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "longbridge/skills": {
+        "owner": "longbridge",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "konglong87/superPM": {
+        "owner": "konglong87",
+        "name": "superPM",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brycewang-stanford/AER-Skills": {
+        "owner": "brycewang-stanford",
+        "name": "AER-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "archubbuck/workspace-architect": {
+        "owner": "archubbuck",
+        "name": "workspace-architect",
+        "branch": "main",
+        "enabled": true
+    },
+    "DYAI2025/Plumbline": {
+        "owner": "DYAI2025",
+        "name": "Plumbline",
+        "branch": "main",
+        "enabled": true
+    },
+    "TerminallyLazy/Tree-Ring-Memory": {
+        "owner": "TerminallyLazy",
+        "name": "Tree-Ring-Memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gammaremover/gamma-watermark-remover-skill": {
+        "owner": "gammaremover",
+        "name": "gamma-watermark-remover-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ShieldNet-360/secure-vibe": {
+        "owner": "ShieldNet-360",
+        "name": "secure-vibe",
+        "branch": "main",
+        "enabled": true
+    },
+    "tessaryai/plugins": {
+        "owner": "tessaryai",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "m1908293028-boop/Knowledge-Teacher": {
+        "owner": "m1908293028-boop",
+        "name": "Knowledge-Teacher",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ndisisnd/cook": {
+        "owner": "ndisisnd",
+        "name": "cook",
+        "branch": "main",
+        "enabled": true
+    },
+    "X-RayLuan/awesome-ceo-stack": {
+        "owner": "X-RayLuan",
+        "name": "awesome-ceo-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "DXShelley/obsidian-cli-plugins-skill": {
+        "owner": "DXShelley",
+        "name": "obsidian-cli-plugins-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kelsi-bizer/bizer-ai-agent-skills": {
+        "owner": "kelsi-bizer",
+        "name": "bizer-ai-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "huguryildiz/fable-protocol": {
+        "owner": "huguryildiz",
+        "name": "fable-protocol",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sandypoli-boop/sansheng-gemini-video": {
+        "owner": "sandypoli-boop",
+        "name": "sansheng-gemini-video",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sandypoli-boop/sansheng-distill": {
+        "owner": "sandypoli-boop",
+        "name": "sansheng-distill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "IvanMurzak/claude-code-game-dev": {
+        "owner": "IvanMurzak",
+        "name": "claude-code-game-dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "OvOhao/paper-explainer": {
+        "owner": "OvOhao",
+        "name": "paper-explainer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bsromero/excel-house-charts": {
+        "owner": "bsromero",
+        "name": "excel-house-charts",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

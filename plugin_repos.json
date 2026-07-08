@@ -6625,5 +6625,77 @@
     "repoOwner": "WillyV347",
     "repoName": "twitterBookmarks",
     "repoBranch": "main"
+  },
+  "longbridge/skills": {
+    "name": "longbridge/skills",
+    "description": "longbridge/skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "longbridge",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "konglong87/superPM": {
+    "name": "konglong87/superPM",
+    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "konglong87",
+    "repoName": "superPM",
+    "repoBranch": "main"
+  },
+  "brycewang-stanford/AER-Skills": {
+    "name": "brycewang-stanford/AER-Skills",
+    "description": "Agent skills that help you publish in the AER faster \u2014 identification-first empirics, AEA-compliant replication, Keith-Head intros, R&R rebuttals for AER / AER:Insights / AEJ. | \u52a9\u4f60\u66f4\u5feb\u53d1\u8868 AER \u8bba\u6587\u7684 agent skill \u6808\uff1a\u8bc6\u522b\u4f18\u5148\u5b9e\u8bc1\u3001AEA...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brycewang-stanford",
+    "repoName": "AER-Skills",
+    "repoBranch": "main"
+  },
+  "tessaryai/plugins": {
+    "name": "tessaryai/plugins",
+    "description": "tessaryai/plugins \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tessaryai",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "kelsi-bizer/bizer-ai-agent-skills": {
+    "name": "kelsi-bizer/bizer-ai-agent-skills",
+    "description": "Bizer's open AI agent skills library \u2014 portable SKILL.md bundles backed by published research and evaluations. Works in any agent, best in Bizer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kelsi-bizer",
+    "repoName": "bizer-ai-agent-skills",
+    "repoBranch": "main"
+  },
+  "sandypoli-boop/sansheng-gemini-video": {
+    "name": "sandypoli-boop/sansheng-gemini-video",
+    "description": "\u7ed9 Claude Code \u4e00\u53cc\u770b\u89c6\u9891\u7684\u773c\u775b:\u6574\u6bb5\u89c6\u9891\u4ea4\u7ed9 Gemini \u539f\u751f\u591a\u6a21\u6001\u5410\u7ed3\u6784\u5316 JSON \u00b7 Real eyes for video via Gemini, by \u53c1\u7b19",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sandypoli-boop",
+    "repoName": "sansheng-gemini-video",
+    "repoBranch": "main"
+  },
+  "sandypoli-boop/sansheng-distill": {
+    "name": "sandypoli-boop/sansheng-distill",
+    "description": "\u628a\u4e00\u672c\u4e66\u6216\u4e00\u7ec4\u89c6\u9891\u84b8\u998f\u6210\u5355\u6587\u4ef6\u4ea4\u4e92 HTML \u9875 \u00b7 A book/video distillation skill for Claude Code, by \u53c1\u7b19",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sandypoli-boop",
+    "repoName": "sansheng-distill",
+    "repoBranch": "main"
+  },
+  "IvanMurzak/claude-code-game-dev": {
+    "name": "IvanMurzak/claude-code-game-dev",
+    "description": "Claude Code plugins for AI game development \u2014 Unreal, Unity & Godot. Let Claude create a project, install the engine plugin, log in, and open the editor automatically.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IvanMurzak",
+    "repoName": "claude-code-game-dev",
+    "repoBranch": "main"
   }
 }
