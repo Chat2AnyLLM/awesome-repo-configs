@@ -13,6 +13,13 @@
         "skillsPath": "skills",
         "enabled": true
     },
+    "nusantara-ventures/dino-markets-skills": {
+        "owner": "nusantara-ventures",
+        "name": "dino-markets-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
     "sergebulaev/linkedin-skills": {
         "owner": "sergebulaev",
         "name": "linkedin-skills",
