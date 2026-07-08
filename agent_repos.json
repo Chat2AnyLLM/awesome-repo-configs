@@ -1640,5 +1640,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "idean3885/claude-ops-agent": {
+    "owner": "idean3885",
+    "name": "claude-ops-agent",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "a9650615/LLM_constitution": {
+    "owner": "a9650615",
+    "name": "LLM_constitution",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mkrtchian/spec-driven-dev": {
+    "owner": "mkrtchian",
+    "name": "spec-driven-dev",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

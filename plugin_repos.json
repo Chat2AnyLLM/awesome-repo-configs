@@ -6697,5 +6697,113 @@
     "repoOwner": "IvanMurzak",
     "repoName": "claude-code-game-dev",
     "repoBranch": "main"
+  },
+  "jananthan30/Resume-Builder": {
+    "name": "jananthan30/Resume-Builder",
+    "description": "AI-powered resume & cover letter generator with dual ATS + HR scoring. Works for any profession. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jananthan30",
+    "repoName": "Resume-Builder",
+    "repoBranch": "master"
+  },
+  "berkayturk/appstore-precheck": {
+    "name": "berkayturk/appstore-precheck",
+    "description": "Read-only iOS App Store pre-submission check: scans 20 rejection vectors, wraps Apple's fastlane precheck, watches guideline drift, and runs an adversarial reviewer pass before you submit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "berkayturk",
+    "repoName": "appstore-precheck",
+    "repoBranch": "main"
+  },
+  "ClaudeRegistry/marketplace": {
+    "name": "ClaudeRegistry/marketplace",
+    "description": "Plugin marketplace for Claude Code. Browse, discover, and install community tools for enhanced AI-powered development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ClaudeRegistry",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "wan-huiyan/cutify-this": {
+    "name": "wan-huiyan/cutify-this",
+    "description": "Add a cute, hand-authored SVG favicon to a web app \u2014 4 techniques (emoji, gradient blob, 16\u00d716 pixel art, text sticker). A Claude Code skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wan-huiyan",
+    "repoName": "cutify-this",
+    "repoBranch": "main"
+  },
+  "V-Songbird/foundry": {
+    "name": "V-Songbird/foundry",
+    "description": "My agentic plugins. Tools that make AI Agents plan better, talk less, build leaner, and stop guessing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "V-Songbird",
+    "repoName": "foundry",
+    "repoBranch": "main"
+  },
+  "real-case/marvin-toolkit": {
+    "name": "real-case/marvin-toolkit",
+    "description": "Claude Code toolset for AI development without panic",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "real-case",
+    "repoName": "marvin-toolkit",
+    "repoBranch": "main"
+  },
+  "Jarroslav/agentic-os": {
+    "name": "Jarroslav/agentic-os",
+    "description": "A governed, portable engineering platform for coding agents \u2014 the governance layer (agentic-os) plus the SDLC pipeline that runs on it (agentic-sdlc). Evidence-grounded repo discovery, audited agent contracts, HITL es...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jarroslav",
+    "repoName": "agentic-os",
+    "repoBranch": "main"
+  },
+  "jihkyuo/docsherpa": {
+    "name": "jihkyuo/docsherpa",
+    "description": "Build and grow an agent-readable documentation architecture \u2014 a Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jihkyuo",
+    "repoName": "docsherpa",
+    "repoBranch": "main"
+  },
+  "idean3885/claude-ops-agent": {
+    "name": "idean3885/claude-ops-agent",
+    "description": "\uc774\uc288\u00b7\uba40\ud2f0\ub808\ud3ec \ud50c\ub85c\uc6b0, \ucf58\ud150\uce20 \uc791\uc131\u00b7\uac80\uc99d, \uaddc\uce59 \uc790\ub3d9 \uc801\uc6a9\uc744 \ubb36\uc740 \uac1c\uc778\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "idean3885",
+    "repoName": "claude-ops-agent",
+    "repoBranch": "main"
+  },
+  "a9650615/LLM_constitution": {
+    "name": "a9650615/LLM_constitution",
+    "description": "An operating constitution for AI coding agents \u2014 invariant-grounded rules, dispatch discipline, and verification floors that bind any LLM. Packaged as a self-hosted Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "a9650615",
+    "repoName": "LLM_constitution",
+    "repoBranch": "main"
+  },
+  "mkrtchian/spec-driven-dev": {
+    "name": "mkrtchian/spec-driven-dev",
+    "description": "A structured workflow for AI-assisted development: from discussion to reviewed, tested, standards-compliant code, through a version-controlled plan.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mkrtchian",
+    "repoName": "spec-driven-dev",
+    "repoBranch": "main"
+  },
+  "ArulVelusamy/generate-walkthrough": {
+    "name": "ArulVelusamy/generate-walkthrough",
+    "description": "A Claude Code skill that turns any codebase into a single self-contained HTML walkthrough \u2014 a forensic, source-verified, screen-by-screen trace grounded in real file:line evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArulVelusamy",
+    "repoName": "generate-walkthrough",
+    "repoBranch": "main"
   }
 }

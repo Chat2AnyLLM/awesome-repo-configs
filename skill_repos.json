@@ -7698,5 +7698,103 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "leemysw/feishu-docx": {
+        "owner": "leemysw",
+        "name": "feishu-docx",
+        "branch": "main",
+        "enabled": true
+    },
+    "bjwanneng/veriflow-cc": {
+        "owner": "bjwanneng",
+        "name": "veriflow-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "Agents365-ai/imagenCN": {
+        "owner": "Agents365-ai",
+        "name": "imagenCN",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "berkayturk/appstore-precheck": {
+        "owner": "berkayturk",
+        "name": "appstore-precheck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ClaudeRegistry/marketplace": {
+        "owner": "ClaudeRegistry",
+        "name": "marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "wan-huiyan/cutify-this": {
+        "owner": "wan-huiyan",
+        "name": "cutify-this",
+        "branch": "main",
+        "enabled": true
+    },
+    "x-name15/gorrent": {
+        "owner": "x-name15",
+        "name": "gorrent",
+        "branch": "main",
+        "enabled": true
+    },
+    "gregoirefissore25-tech/starpilot": {
+        "owner": "gregoirefissore25-tech",
+        "name": "starpilot",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "real-case/marvin-toolkit": {
+        "owner": "real-case",
+        "name": "marvin-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Jarroslav/agentic-os": {
+        "owner": "Jarroslav",
+        "name": "agentic-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "jihkyuo/docsherpa": {
+        "owner": "jihkyuo",
+        "name": "docsherpa",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "idean3885/claude-ops-agent": {
+        "owner": "idean3885",
+        "name": "claude-ops-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "a9650615/LLM_constitution": {
+        "owner": "a9650615",
+        "name": "LLM_constitution",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mkrtchian/spec-driven-dev": {
+        "owner": "mkrtchian",
+        "name": "spec-driven-dev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ArulVelusamy/generate-walkthrough": {
+        "owner": "ArulVelusamy",
+        "name": "generate-walkthrough",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
