@@ -7803,5 +7803,112 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "fcakyon/claude-codex-settings": {
+        "owner": "fcakyon",
+        "name": "claude-codex-settings",
+        "branch": "main",
+        "enabled": true
+    },
+    "OutSystems/outsystems-mcp": {
+        "owner": "OutSystems",
+        "name": "outsystems-mcp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Chili-Piper/mcp-assets": {
+        "owner": "Chili-Piper",
+        "name": "mcp-assets",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "denysdovhan/agents": {
+        "owner": "denysdovhan",
+        "name": "agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bx33661/oh-my-vul": {
+        "owner": "bx33661",
+        "name": "oh-my-vul",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ryan-scheinberg/remote-workstreams": {
+        "owner": "ryan-scheinberg",
+        "name": "remote-workstreams",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "davdittrich/delegate-agy": {
+        "owner": "davdittrich",
+        "name": "delegate-agy",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gitguffaw/codex-router": {
+        "owner": "gitguffaw",
+        "name": "codex-router",
+        "branch": "codex/router-v1",
+        "enabled": true
+    },
+    "gfargo/skills": {
+        "owner": "gfargo",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yokeloop/yoke": {
+        "owner": "yokeloop",
+        "name": "yoke",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "snehag01/rebound": {
+        "owner": "snehag01",
+        "name": "rebound",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "derio-net/super-fr": {
+        "owner": "derio-net",
+        "name": "super-fr",
+        "branch": "main",
+        "enabled": true
+    },
+    "senderkit/senderkit-skills": {
+        "owner": "senderkit",
+        "name": "senderkit-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DOTfei/Learn-From-Failure": {
+        "owner": "DOTfei",
+        "name": "Learn-From-Failure",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "chenxi-bot21/ai-job-search-pipeline": {
+        "owner": "chenxi-bot21",
+        "name": "ai-job-search-pipeline",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kborovik/.dotfiles": {
+        "owner": "kborovik",
+        "name": ".dotfiles",
+        "branch": "main",
+        "enabled": true
     }
 }

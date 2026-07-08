@@ -6814,5 +6814,113 @@
     "repoOwner": "ArulVelusamy",
     "repoName": "generate-walkthrough",
     "repoBranch": "main"
+  },
+  "fcakyon/claude-codex-settings": {
+    "name": "fcakyon/claude-codex-settings",
+    "description": "My personal Claude Code and OpenAI Codex setup with battle-tested skills, plugins, hooks and agents that I use daily.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fcakyon",
+    "repoName": "claude-codex-settings",
+    "repoBranch": "main"
+  },
+  "OutSystems/outsystems-mcp": {
+    "name": "OutSystems/outsystems-mcp",
+    "description": "Plugins for the OutSystems remote MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OutSystems",
+    "repoName": "outsystems-mcp",
+    "repoBranch": "main"
+  },
+  "developer-overheid-nl/skills-marketplace": {
+    "name": "developer-overheid-nl/skills-marketplace",
+    "description": "Centrale catalogus van AI-assistant plugins voor de Nederlandse Overheid",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "developer-overheid-nl",
+    "repoName": "skills-marketplace",
+    "repoBranch": "main"
+  },
+  "Chili-Piper/mcp-assets": {
+    "name": "Chili-Piper/mcp-assets",
+    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show analysis, availability checks, and user onboarding/offboarding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Chili-Piper",
+    "repoName": "mcp-assets",
+    "repoBranch": "main"
+  },
+  "ryan-scheinberg/remote-workstreams": {
+    "name": "ryan-scheinberg/remote-workstreams",
+    "description": "Voice driven secure workstream management for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryan-scheinberg",
+    "repoName": "remote-workstreams",
+    "repoBranch": "main"
+  },
+  "davdittrich/delegate-agy": {
+    "name": "davdittrich/delegate-agy",
+    "description": "Claude Code plugin that bridges to agy (Google Antigravity CLI) \u2014 adds Gemini, GPT-OSS, and grounded web search to Claude sessions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davdittrich",
+    "repoName": "delegate-agy",
+    "repoBranch": "master"
+  },
+  "gitguffaw/codex-router": {
+    "name": "gitguffaw/codex-router",
+    "description": "Policy-backed Codex delegation and review for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gitguffaw",
+    "repoName": "codex-router",
+    "repoBranch": "codex/router-v1"
+  },
+  "gfargo/skills": {
+    "name": "gfargo/skills",
+    "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gfargo",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "yokeloop/yoke": {
+    "name": "yokeloop/yoke",
+    "description": "Claude Code plugin and marketplace of skills & commands for the full dev loop: /task \u2192 /plan \u2192 /do \u2192 /review \u2192 /gca \u2192 /gp \u2192 /pr. Plus /prd, /issues,   /explore, /grill, /bootstrap, /handoff and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yokeloop",
+    "repoName": "yoke",
+    "repoBranch": "main"
+  },
+  "snehag01/rebound": {
+    "name": "snehag01/rebound",
+    "description": "Rebound \u2014 your comeback, engineered. Honesty-first resume tailoring plugin for Claude Code. Knocked down. Not out.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "snehag01",
+    "repoName": "rebound",
+    "repoBranch": "main"
+  },
+  "derio-net/super-fr": {
+    "name": "derio-net/super-fr",
+    "description": "Claude Code plugin suite: superpowers-wrapped planning, devcontainer+worktree isolation, goal-to-PR autonomy, and phase dispatch to VibeKanban runners",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "derio-net",
+    "repoName": "super-fr",
+    "repoBranch": "main"
+  },
+  "senderkit/senderkit-skills": {
+    "name": "senderkit/senderkit-skills",
+    "description": "Add and operate transactional email, SMS, push & web-push from your AI coding agent \u2014 no provider lock-in. Skills + MCP for Claude Code, Codex & Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "senderkit",
+    "repoName": "senderkit-skills",
+    "repoBranch": "main"
   }
 }

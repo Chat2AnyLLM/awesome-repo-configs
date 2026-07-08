@@ -1661,5 +1661,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "bx33661/oh-my-vul": {
+    "owner": "bx33661",
+    "name": "oh-my-vul",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "davdittrich/delegate-agy": {
+    "owner": "davdittrich",
+    "name": "delegate-agy",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
