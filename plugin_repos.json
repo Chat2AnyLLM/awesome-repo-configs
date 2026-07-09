@@ -1,7 +1,7 @@
 {
   "claude-meseeks": {
     "name": "mr-meeseeks",
-    "description": "Plays a Mr. Meeseeks voice line whenever Claude Code is waiting on you — a done clip when it finishes, an asking clip on approval prompts, and a feedback clip when you send a prompt. Toggleable per category.",
+    "description": "Plays a Mr. Meeseeks voice line whenever Claude Code is waiting on you \u2014 a done clip when it finishes, an asking clip on approval prompts, and a feedback clip when you send a prompt. Toggleable per category.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "thephw",
@@ -7020,6 +7020,87 @@
     "type": "marketplace",
     "repoOwner": "sergiparpal",
     "repoName": "Burgess",
+    "repoBranch": "main"
+  },
+  "galyarderlabs/galyarder-framework": {
+    "name": "galyarderlabs/galyarder-framework",
+    "description": "The framework that powers your Agentic Company",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "galyarderlabs",
+    "repoName": "galyarder-framework",
+    "repoBranch": "main"
+  },
+  "linehaul-ai/linehaulai-claude-marketplace": {
+    "name": "linehaul-ai/linehaulai-claude-marketplace",
+    "description": "Claude Marketplace of some of the tools we use with Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "linehaul-ai",
+    "repoName": "linehaulai-claude-marketplace",
+    "repoBranch": "main"
+  },
+  "blockdancez/PreviewShip": {
+    "name": "blockdancez/PreviewShip",
+    "description": "Deploy frontend builds, HTML, Markdown, and AI coding agent chat transcripts to public PreviewShip URLs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blockdancez",
+    "repoName": "PreviewShip",
+    "repoBranch": "main"
+  },
+  "YasuakiOmokawa/skills": {
+    "name": "YasuakiOmokawa/skills",
+    "description": "Agent skills for improve AI prototype driven development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YasuakiOmokawa",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "2naive/claude-telegram-topics": {
+    "name": "2naive/claude-telegram-topics",
+    "description": "Telegram channel for Claude Code with 1 project = 1 forum topic. Concurrent multi-project support via a leader/follower bridge. Clean fork of the official Anthropic Telegram plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2naive",
+    "repoName": "claude-telegram-topics",
+    "repoBranch": "main"
+  },
+  "Studio-Moser/skills-n-stuff": {
+    "name": "Studio-Moser/skills-n-stuff",
+    "description": "Product research, market intelligence, and content tools for AI-native teams",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Studio-Moser",
+    "repoName": "skills-n-stuff",
+    "repoBranch": "main"
+  },
+  "dyasnurhakim/smithy-claude": {
+    "name": "dyasnurhakim/smithy-claude",
+    "description": "A full dev workflow plugin for Claude Code: research \u2192 plan \u2192 implement (TDD optional) \u2192 multi-persona review \u2192 test. It asks instead of assuming, remembers progress across sessions, and blocks destructive commands un...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dyasnurhakim",
+    "repoName": "smithy-claude",
+    "repoBranch": "main"
+  },
+  "unnest-wintenboy/egovframe-guardian": {
+    "name": "unnest-wintenboy/egovframe-guardian",
+    "description": "Dual Codex and Claude Code plugin for eGovFrame development guidance and guardrails.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "unnest-wintenboy",
+    "repoName": "egovframe-guardian",
+    "repoBranch": "main"
+  },
+  "noetaris-lab/nexis": {
+    "name": "noetaris-lab/nexis",
+    "description": "Claude Code plugin for ZettelKasten-style note capture, codebase survey, and agentic RAG retrieval",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "noetaris-lab",
+    "repoName": "nexis",
     "repoBranch": "main"
   }
 }

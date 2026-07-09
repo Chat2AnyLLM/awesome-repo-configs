@@ -1682,5 +1682,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "salmanashraf/mobile-agency": {
+    "owner": "salmanashraf",
+    "name": "mobile-agency",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "galyarderlabs/galyarder-framework": {
+    "owner": "galyarderlabs",
+    "name": "galyarder-framework",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "dyasnurhakim/smithy-claude": {
+    "owner": "dyasnurhakim",
+    "name": "smithy-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "noetaris-lab/nexis": {
+    "owner": "noetaris-lab",
+    "name": "nexis",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
