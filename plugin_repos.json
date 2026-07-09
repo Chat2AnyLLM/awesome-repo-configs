@@ -1,7 +1,7 @@
 {
   "madarco/agentbox": {
     "name": "AgentBox",
-    "description": "Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud (Hetzner / Daytona / Vercel / E2B / DigitalOcean). Sub-1s checkpoint startup; git credentials kept on the host.",
+    "description": "Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM \u2014 local Docker, self-hosted, or cloud (Hetzner / Daytona / Vercel / E2B / DigitalOcean). Sub-1s checkpoint startup; git credentials kept on the host.",
     "enabled": true,
     "type": "plugin",
     "repoOwner": "madarco",
@@ -7110,6 +7110,96 @@
     "type": "marketplace",
     "repoOwner": "noetaris-lab",
     "repoName": "nexis",
+    "repoBranch": "main"
+  },
+  "Dianel555/DSkills": {
+    "name": "Dianel555/DSkills",
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dianel555",
+    "repoName": "DSkills",
+    "repoBranch": "main"
+  },
+  "PostHog/ai-plugin": {
+    "name": "PostHog/ai-plugin",
+    "description": "Official PostHog plugin for Claude Code, Cursor, Gemini, Codex and other AI coding tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PostHog",
+    "repoName": "ai-plugin",
+    "repoBranch": "main"
+  },
+  "AgamiAI/agami-core": {
+    "name": "AgamiAI/agami-core",
+    "description": "The trust layer between AI and your data. Turns your database schema into a governed semantic model so AI answers with correct SQL and a receipt on every answer. Run it locally, or self-host a shared team server with...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AgamiAI",
+    "repoName": "agami-core",
+    "repoBranch": "main"
+  },
+  "Elnora-AI/elnora-cli": {
+    "name": "Elnora-AI/elnora-cli",
+    "description": "Elnora CLI \u2014 command-line interface for the Elnora bioprotocol platform",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Elnora-AI",
+    "repoName": "elnora-cli",
+    "repoBranch": "main"
+  },
+  "lklimek/claudius": {
+    "name": "lklimek/claudius",
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lklimek",
+    "repoName": "claudius",
+    "repoBranch": "main"
+  },
+  "NamrataAShettar/claude-sethu": {
+    "name": "NamrataAShettar/claude-sethu",
+    "description": "\ud83d\udd0c A Claude Code plugin to run terminal commands right in the prompt box: see the output yourself for free, or share it with Claude when you want it acted on.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NamrataAShettar",
+    "repoName": "claude-sethu",
+    "repoBranch": "main"
+  },
+  "mxslr/mlcraft": {
+    "name": "mxslr/mlcraft",
+    "description": "A research-first AI/ML research-engineer workflow for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mxslr",
+    "repoName": "mlcraft",
+    "repoBranch": "main"
+  },
+  "SONGYEONGSIN/vibe-flow": {
+    "name": "SONGYEONGSIN/vibe-flow",
+    "description": "Self-evolving Claude Code workflow kit \u2014 44 skills, 22 agents, 29 hooks. /plugin install vibe-flow. Karpathy principles, TDD strict, audit cycle 3.0\u21924.53/5.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SONGYEONGSIN",
+    "repoName": "vibe-flow",
+    "repoBranch": "main"
+  },
+  "niharya/skills-drawer": {
+    "name": "niharya/skills-drawer",
+    "description": "The skill shelf of Nihar Bhagat \u2014 a Claude Code plugin marketplace with three skills for designers, frontend devs, and job applicants.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "niharya",
+    "repoName": "skills-drawer",
+    "repoBranch": "main"
+  },
+  "AiGuangInc/suxiaoqiang-cli": {
+    "name": "AiGuangInc/suxiaoqiang-cli",
+    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your local machine so you can edit them with your favorite editor or AI coding agent, then push chang...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AiGuangInc",
+    "repoName": "suxiaoqiang-cli",
     "repoBranch": "main"
   }
 }

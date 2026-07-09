@@ -8073,5 +8073,113 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Dianel555/DSkills": {
+        "owner": "Dianel555",
+        "name": "DSkills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PostHog/ai-plugin": {
+        "owner": "PostHog",
+        "name": "ai-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AgamiAI/agami-core": {
+        "owner": "AgamiAI",
+        "name": "agami-core",
+        "branch": "main",
+        "enabled": true
+    },
+    "YX-hueimie/claude-omni": {
+        "owner": "YX-hueimie",
+        "name": "claude-omni",
+        "branch": "main",
+        "enabled": true
+    },
+    "Elnora-AI/elnora-cli": {
+        "owner": "Elnora-AI",
+        "name": "elnora-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "new-xp/ultrademo": {
+        "owner": "new-xp",
+        "name": "ultrademo",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "lklimek/claudius": {
+        "owner": "lklimek",
+        "name": "claudius",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mxslr/mlcraft": {
+        "owner": "mxslr",
+        "name": "mlcraft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SONGYEONGSIN/vibe-flow": {
+        "owner": "SONGYEONGSIN",
+        "name": "vibe-flow",
+        "branch": "main",
+        "enabled": true
+    },
+    "niharya/skills-drawer": {
+        "owner": "niharya",
+        "name": "skills-drawer",
+        "branch": "main",
+        "enabled": true
+    },
+    "askuma/generate-tech-stack": {
+        "owner": "askuma",
+        "name": "generate-tech-stack",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "askuma/workflow-generator": {
+        "owner": "askuma",
+        "name": "workflow-generator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AiGuangInc/suxiaoqiang-cli": {
+        "owner": "AiGuangInc",
+        "name": "suxiaoqiang-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hedging8563/tokenlab-skills": {
+        "owner": "hedging8563",
+        "name": "tokenlab-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "danielsitek/skills": {
+        "owner": "danielsitek",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AgenticPW/AgenticPW": {
+        "owner": "AgenticPW",
+        "name": "AgenticPW",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

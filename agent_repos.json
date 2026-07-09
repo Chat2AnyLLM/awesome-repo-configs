@@ -1710,5 +1710,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "PostHog/ai-plugin": {
+    "owner": "PostHog",
+    "name": "ai-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lklimek/claudius": {
+    "owner": "lklimek",
+    "name": "claudius",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mxslr/mlcraft": {
+    "owner": "mxslr",
+    "name": "mlcraft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "AgenticPW/AgenticPW": {
+    "owner": "AgenticPW",
+    "name": "AgenticPW",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
