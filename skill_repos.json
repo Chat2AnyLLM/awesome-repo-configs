@@ -8410,5 +8410,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "sanjay3290/ai-skills": {
+        "owner": "sanjay3290",
+        "name": "ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
