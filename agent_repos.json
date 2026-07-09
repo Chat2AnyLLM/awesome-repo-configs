@@ -1738,5 +1738,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "indranilbanerjee/digital-marketing-pro": {
+    "owner": "indranilbanerjee",
+    "name": "digital-marketing-pro",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "nekohasekai/my-codex-plugin": {
+    "owner": "nekohasekai",
+    "name": "my-codex-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "johanthoren/jeff": {
+    "owner": "johanthoren",
+    "name": "jeff",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

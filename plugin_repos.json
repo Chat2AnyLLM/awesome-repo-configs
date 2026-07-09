@@ -7201,5 +7201,86 @@
     "repoOwner": "AiGuangInc",
     "repoName": "suxiaoqiang-cli",
     "repoBranch": "main"
+  },
+  "xr843/Master-skill": {
+    "name": "xr843/Master-skill",
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xr843",
+    "repoName": "Master-skill",
+    "repoBranch": "main"
+  },
+  "indranilbanerjee/digital-marketing-pro": {
+    "name": "indranilbanerjee/digital-marketing-pro",
+    "description": "Open-source AI marketing plugin for agencies & in-house teams \u2014 158 skills, 25 specialist agents, 12-Part Strategy Flow, Cowork team-persistent, EU AI Act Article 50 ready, 6-platform AEO/GEO incl. Google AI Mode. Ins...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "indranilbanerjee",
+    "repoName": "digital-marketing-pro",
+    "repoBranch": "main"
+  },
+  "futuresearch/futuresearch-python": {
+    "name": "futuresearch/futuresearch-python",
+    "description": "A toolkit for frontier forecasting.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "futuresearch",
+    "repoName": "futuresearch-python",
+    "repoBranch": "main"
+  },
+  "nekohasekai/my-codex-plugin": {
+    "name": "nekohasekai/my-codex-plugin",
+    "description": "Better Codex plugin for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nekohasekai",
+    "repoName": "my-codex-plugin",
+    "repoBranch": "main"
+  },
+  "vanterx/mssql-performance-skills": {
+    "name": "vanterx/mssql-performance-skills",
+    "description": "SQL Server performance tuning skills for LLMs \u2014 829 checks across 26 skills covering T-SQL, execution plans, wait stats, deadlocks, Query Store, indexes, encryption, Always On AG, WSFC, ERRORLOG, SPN, memory, disk I/O...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vanterx",
+    "repoName": "mssql-performance-skills",
+    "repoBranch": "main"
+  },
+  "jeltehomminga/figma-design-skills": {
+    "name": "jeltehomminga/figma-design-skills",
+    "description": "Two composable Claude Code skills for design-to-code fidelity: extract exact specs from Figma, then verify the running web or mobile app matches them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jeltehomminga",
+    "repoName": "figma-design-skills",
+    "repoBranch": "main"
+  },
+  "johanthoren/jeff": {
+    "name": "johanthoren/jeff",
+    "description": "You're the boss. Claude Code is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johanthoren",
+    "repoName": "jeff",
+    "repoBranch": "main"
+  },
+  "e1024kb/wise-claude": {
+    "name": "e1024kb/wise-claude",
+    "description": "A Claude Code copilot: flat /wise-* slash commands, a workflow engine, and autonomous git / PR / ticket-planning pipelines.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "e1024kb",
+    "repoName": "wise-claude",
+    "repoBranch": "main"
+  },
+  "eins78/meteoswiss-llm-tools": {
+    "name": "eins78/meteoswiss-llm-tools",
+    "description": "Meteoswiss Open Data Tools for LLMs - MCP server and Agent Skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eins78",
+    "repoName": "meteoswiss-llm-tools",
+    "repoBranch": "main"
   }
 }

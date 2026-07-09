@@ -8181,5 +8181,125 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "xr843/Master-skill": {
+        "owner": "xr843",
+        "name": "Master-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "indranilbanerjee/digital-marketing-pro": {
+        "owner": "indranilbanerjee",
+        "name": "digital-marketing-pro",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "harshaneel/humanize": {
+        "owner": "harshaneel",
+        "name": "humanize",
+        "branch": "main",
+        "enabled": true
+    },
+    "futuresearch/futuresearch-python": {
+        "owner": "futuresearch",
+        "name": "futuresearch-python",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ZachRouan/gridhand": {
+        "owner": "ZachRouan",
+        "name": "gridhand",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "soheilmomeniii/positioning-products": {
+        "owner": "soheilmomeniii",
+        "name": "positioning-products",
+        "branch": "main",
+        "enabled": true
+    },
+    "nekohasekai/my-codex-plugin": {
+        "owner": "nekohasekai",
+        "name": "my-codex-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Agents365-ai/videogenCN": {
+        "owner": "Agents365-ai",
+        "name": "videogenCN",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mimaowang/econ-compass": {
+        "owner": "mimaowang",
+        "name": "econ-compass",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vanterx/mssql-performance-skills": {
+        "owner": "vanterx",
+        "name": "mssql-performance-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "byte271/mirrorframe": {
+        "owner": "byte271",
+        "name": "mirrorframe",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jeltehomminga/figma-design-skills": {
+        "owner": "jeltehomminga",
+        "name": "figma-design-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "agents-inc/cli": {
+        "owner": "agents-inc",
+        "name": "cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "johanthoren/jeff": {
+        "owner": "johanthoren",
+        "name": "jeff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "e1024kb/wise-claude": {
+        "owner": "e1024kb",
+        "name": "wise-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "eins78/meteoswiss-llm-tools": {
+        "owner": "eins78",
+        "name": "meteoswiss-llm-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "Agents365-ai/ocrCN": {
+        "owner": "Agents365-ai",
+        "name": "ocrCN",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joanseg/video-social-editor": {
+        "owner": "joanseg",
+        "name": "video-social-editor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
