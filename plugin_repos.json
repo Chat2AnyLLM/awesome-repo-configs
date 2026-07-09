@@ -7282,5 +7282,113 @@
     "repoOwner": "eins78",
     "repoName": "meteoswiss-llm-tools",
     "repoBranch": "main"
+  },
+  "sickn33/agentic-awesome-skills": {
+    "name": "sickn33/agentic-awesome-skills",
+    "description": "Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/c...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sickn33",
+    "repoName": "agentic-awesome-skills",
+    "repoBranch": "main"
+  },
+  "CoriChui/bakeoff": {
+    "name": "CoriChui/bakeoff",
+    "description": "Turn one decision into a judged tournament of solutions, then pick the best \u2014 a Claude Code skill that generates candidates, auto-derives the rubric, judges independently, and returns a defensible winner.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CoriChui",
+    "repoName": "bakeoff",
+    "repoBranch": "main"
+  },
+  "drewburchfield/not-my-job": {
+    "name": "drewburchfield/not-my-job",
+    "description": "Agentic workflow plugins for tasks you'd rather not do yourself. Someone has to secure your secrets, sort your inbox, and tell you when you're wrong. It's not going to be you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drewburchfield",
+    "repoName": "not-my-job",
+    "repoBranch": "master"
+  },
+  "robertoecf/adversarial-review": {
+    "name": "robertoecf/adversarial-review",
+    "description": "Review triad plugin for Claude Code: prompt optimization, adversarial red-team review, plan validation, and intelligent orchestration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robertoecf",
+    "repoName": "adversarial-review",
+    "repoBranch": "main"
+  },
+  "emaballarin/ccplugins": {
+    "name": "emaballarin/ccplugins",
+    "description": "Personal plugins for Claude Code (& friends)... maybe worth sharing!",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emaballarin",
+    "repoName": "ccplugins",
+    "repoBranch": "main"
+  },
+  "metallurgical/ogre-runner": {
+    "name": "metallurgical/ogre-runner",
+    "description": "A Claude Code plugin that turns issues, problem statements, and feature requests \u2192 reviewed plans \u2192 focused tasks \u2192 and produces high-quality code changes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "metallurgical",
+    "repoName": "ogre-runner",
+    "repoBranch": "main"
+  },
+  "LucioLiu/nuwa": {
+    "name": "LucioLiu/nuwa",
+    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team (v9.0)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LucioLiu",
+    "repoName": "nuwa",
+    "repoBranch": "main"
+  },
+  "lukaskellerstein/claude-my-marketplace": {
+    "name": "lukaskellerstein/claude-my-marketplace",
+    "description": "A collection of Claude Code plugins \u2014 dev tools, documentation, infra, Figma, media generation, design direction, and web design. Reusable skills, agents, and commands across projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lukaskellerstein",
+    "repoName": "claude-my-marketplace",
+    "repoBranch": "main"
+  },
+  "Bangs00/claude-media-control": {
+    "name": "Bangs00/claude-media-control",
+    "description": "System-wide now-playing control for macOS from Claude Code \u2014 zero dependencies, no OAuth, any app (Spotify, Apple Music, browsers)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Bangs00",
+    "repoName": "claude-media-control",
+    "repoBranch": "main"
+  },
+  "DylanMerigaud/fintech-roast": {
+    "name": "DylanMerigaud/fintech-roast",
+    "description": "An agent that roasts the code that touches money. Sourced rulebook + Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DylanMerigaud",
+    "repoName": "fintech-roast",
+    "repoBranch": "main"
+  },
+  "suhang56/awesome-autoloop": {
+    "name": "suhang56/awesome-autoloop",
+    "description": "An opinionated 5-agent pipeline + enforcement-hook framework for Claude Code \u2014 it blocks footguns on purpose and documents every gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "suhang56",
+    "repoName": "awesome-autoloop",
+    "repoBranch": "main"
+  },
+  "gauravs19/enterprise-architecture-skill": {
+    "name": "gauravs19/enterprise-architecture-skill",
+    "description": "Unified enterprise & software architecture Claude Code skill: C4+Structurizr, ArchiMate, TOGAF ADM, arc42+ADR. Diagram, document, review, and model the enterprise.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gauravs19",
+    "repoName": "enterprise-architecture-skill",
+    "repoBranch": "main"
   }
 }

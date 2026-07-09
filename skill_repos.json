@@ -8301,5 +8301,114 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "sickn33/agentic-awesome-skills": {
+        "owner": "sickn33",
+        "name": "agentic-awesome-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ar9av/PaperOrchestra": {
+        "owner": "Ar9av",
+        "name": "PaperOrchestra",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CoriChui/bakeoff": {
+        "owner": "CoriChui",
+        "name": "bakeoff",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "robertoecf/adversarial-review": {
+        "owner": "robertoecf",
+        "name": "adversarial-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rgourley/quant-garage": {
+        "owner": "rgourley",
+        "name": "quant-garage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EthanYoQ/Skill-hub": {
+        "owner": "EthanYoQ",
+        "name": "Skill-hub",
+        "branch": "mine",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emaballarin/ccplugins": {
+        "owner": "emaballarin",
+        "name": "ccplugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "lanfuli/follow-amazon-daily": {
+        "owner": "lanfuli",
+        "name": "follow-amazon-daily",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "metallurgical/ogre-runner": {
+        "owner": "metallurgical",
+        "name": "ogre-runner",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "robertgorsuch/AI-JasperReports-Generator": {
+        "owner": "robertgorsuch",
+        "name": "AI-JasperReports-Generator",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "lukaskellerstein/claude-my-marketplace": {
+        "owner": "lukaskellerstein",
+        "name": "claude-my-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "Bangs00/claude-media-control": {
+        "owner": "Bangs00",
+        "name": "claude-media-control",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DylanMerigaud/fintech-roast": {
+        "owner": "DylanMerigaud",
+        "name": "fintech-roast",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "suhang56/awesome-autoloop": {
+        "owner": "suhang56",
+        "name": "awesome-autoloop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "w932635477-bit/validate-idea": {
+        "owner": "w932635477-bit",
+        "name": "validate-idea",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gauravs19/enterprise-architecture-skill": {
+        "owner": "gauravs19",
+        "name": "enterprise-architecture-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

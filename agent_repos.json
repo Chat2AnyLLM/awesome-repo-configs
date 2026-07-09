@@ -1759,5 +1759,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "CoriChui/bakeoff": {
+    "owner": "CoriChui",
+    "name": "bakeoff",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DylanMerigaud/fintech-roast": {
+    "owner": "DylanMerigaud",
+    "name": "fintech-roast",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "suhang56/awesome-autoloop": {
+    "owner": "suhang56",
+    "name": "awesome-autoloop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
