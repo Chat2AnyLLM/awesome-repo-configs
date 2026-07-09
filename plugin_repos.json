@@ -1,4 +1,13 @@
 {
+  "madarco/agentbox": {
+    "name": "AgentBox",
+    "description": "Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud (Hetzner / Daytona / Vercel / E2B / DigitalOcean). Sub-1s checkpoint startup; git credentials kept on the host.",
+    "enabled": true,
+    "type": "plugin",
+    "repoOwner": "madarco",
+    "repoName": "agentbox",
+    "repoBranch": "main"
+  },
   "claude-meseeks": {
     "name": "mr-meeseeks",
     "description": "Plays a Mr. Meeseeks voice line whenever Claude Code is waiting on you \u2014 a done clip when it finishes, an asking clip on approval prompts, and a feedback clip when you send a prompt. Toggleable per category.",
