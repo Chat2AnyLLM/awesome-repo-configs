@@ -1,4 +1,13 @@
 {
+  "claude-meseeks": {
+    "name": "mr-meeseeks",
+    "description": "Plays a Mr. Meeseeks voice line whenever Claude Code is waiting on you — a done clip when it finishes, an asking clip on approval prompts, and a feedback clip when you send a prompt. Toggleable per category.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thephw",
+    "repoName": "claude-meseeks",
+    "repoBranch": "main"
+  },
   "localplugins": {
     "name": "localplugins",
     "description": "Local-first Claude Code plugins that run entirely on your machine, with no accounts and no keys. Bundles content-multiplier (turn one idea into on-brand, multi-channel, multi-language content), green-keeper (keep tests and types green as you code, with a no-fake-green guarantee), and money-map (understand any bank or card CSV: categorize, summarize, and flag anomalies with deterministic math).",
