@@ -7390,5 +7390,104 @@
     "repoOwner": "gauravs19",
     "repoName": "enterprise-architecture-skill",
     "repoBranch": "main"
+  },
+  "eldermoraes/quarkus-agentic-scaffolding": {
+    "name": "eldermoraes/quarkus-agentic-scaffolding",
+    "description": "Scaffolding skill + always-on conventions (CLAUDE.md/AGENTS.md) for Quarkus + LangChain4j agentic AI apps: AI services, multi-agent workflows, and RAG. Installable in Claude Code, Codex, Copilot, Cursor, and any Agent...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eldermoraes",
+    "repoName": "quarkus-agentic-scaffolding",
+    "repoBranch": "main"
+  },
+  "glitchwerks/claude-plugins": {
+    "name": "glitchwerks/claude-plugins",
+    "description": "Claude Code plugins marketplace for @glitchwerks projects",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "glitchwerks",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "carlosrberto/cc-plugins": {
+    "name": "carlosrberto/cc-plugins",
+    "description": "My marketplace of Claude Code plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "carlosrberto",
+    "repoName": "cc-plugins",
+    "repoBranch": "main"
+  },
+  "nuko-nova-dynamics/claude-marketplace": {
+    "name": "nuko-nova-dynamics/claude-marketplace",
+    "description": "Claude Code plugins built at Nuko Nova Dynamics",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nuko-nova-dynamics",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "Truncuso/cogwright": {
+    "name": "Truncuso/cogwright",
+    "description": "Claude Code plugin marketplace \u2014 goalforge (spec-driven agent orchestration) and future tenants",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Truncuso",
+    "repoName": "cogwright",
+    "repoBranch": "main"
+  },
+  "victor-hac-work/ai-unknowns-resolver": {
+    "name": "victor-hac-work/ai-unknowns-resolver",
+    "description": "\ud83e\udded Claude Code plugin: find your unknowns before they get expensive \u2014 quadrant assessment, blindspot/interview/prototype routing, deviation log, quiz merge gate",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "victor-hac-work",
+    "repoName": "ai-unknowns-resolver",
+    "repoBranch": "main"
+  },
+  "kktu6507/universal-dev-flow-plugin": {
+    "name": "kktu6507/universal-dev-flow-plugin",
+    "description": "Claude Code plugin: a plan-gated, risk-proportional code-review & release-readiness workflow (plan \u2192 approve \u2192 implement \u2192 verify \u2192 review \u2192 gatekeeper verdict). Near-zero false positives; a low-noise reviewer + ship/...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kktu6507",
+    "repoName": "universal-dev-flow-plugin",
+    "repoBranch": "master"
+  },
+  "KumarSashank/motiscope": {
+    "name": "KumarSashank/motiscope",
+    "description": "Recreate any web animation from a screen recording. A motion-design plugin: analyzes motion (timing, easing, stagger, loops) and rebuilds it as GSAP / CSS / Framer Motion / Lottie code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KumarSashank",
+    "repoName": "motiscope",
+    "repoBranch": "main"
+  },
+  "WaterTian/cc-bot": {
+    "name": "WaterTian/cc-bot",
+    "description": "Develop project from group chat \u2014 by Claude Code. \u63a5 AI \u8fdb\u7fa4\u91cc\u5f00\u53d1\u9879\u76ee\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WaterTian",
+    "repoName": "cc-bot",
+    "repoBranch": "main"
+  },
+  "NatChung/english-recap": {
+    "name": "NatChung/english-recap",
+    "description": "\u5f9e\u4f60\u4e00\u76f4\u91cd\u8907\u72af\u7684\u82f1\u6587\u932f\u8aa4\u5b78\u82f1\u6587 \u2014 \u804a\u5929\u6642\u81ea\u52d5\u6539\u932f\u3001\u9577\u671f\u8a18\u9304\uff0c\u7528 /english-recap \u7d71\u8a08\u5f31\u9ede\u3002A Claude Code plugin that corrects your English as you chat and mines your recurring mistakes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NatChung",
+    "repoName": "english-recap",
+    "repoBranch": "main"
+  },
+  "alexmakarski/critic-gauntlet": {
+    "name": "alexmakarski/critic-gauntlet",
+    "description": "Adversarial multi-model architecture critic for Claude Code. Four AI models argue against your proposal in parallel; raw objections surfaced verbatim, then synthesized.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexmakarski",
+    "repoName": "critic-gauntlet",
+    "repoBranch": "main"
   }
 }

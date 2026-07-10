@@ -8417,5 +8417,86 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "TexasBedouin/vibe-check": {
+        "owner": "TexasBedouin",
+        "name": "vibe-check",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "altafino/FableClaudeMDForOpus": {
+        "owner": "altafino",
+        "name": "FableClaudeMDForOpus",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "atdy/maoxuan-product-agent": {
+        "owner": "atdy",
+        "name": "maoxuan-product-agent",
+        "branch": "main",
+        "enabled": true
+    },
+    "Price-Win/pricewin-skills-hub": {
+        "owner": "Price-Win",
+        "name": "pricewin-skills-hub",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eldermoraes/quarkus-agentic-scaffolding": {
+        "owner": "eldermoraes",
+        "name": "quarkus-agentic-scaffolding",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "glitchwerks/claude-plugins": {
+        "owner": "glitchwerks",
+        "name": "claude-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "victor-hac-work/ai-unknowns-resolver": {
+        "owner": "victor-hac-work",
+        "name": "ai-unknowns-resolver",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kktu6507/universal-dev-flow-plugin": {
+        "owner": "kktu6507",
+        "name": "universal-dev-flow-plugin",
+        "branch": "master",
+        "enabled": true
+    },
+    "KumarSashank/motiscope": {
+        "owner": "KumarSashank",
+        "name": "motiscope",
+        "branch": "main",
+        "enabled": true
+    },
+    "WaterTian/cc-bot": {
+        "owner": "WaterTian",
+        "name": "cc-bot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NatChung/english-recap": {
+        "owner": "NatChung",
+        "name": "english-recap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexmakarski/critic-gauntlet": {
+        "owner": "alexmakarski",
+        "name": "critic-gauntlet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

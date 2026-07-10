@@ -1780,5 +1780,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "KumarSashank/motiscope": {
+    "owner": "KumarSashank",
+    "name": "motiscope",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "WaterTian/cc-bot": {
+    "owner": "WaterTian",
+    "name": "cc-bot",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
