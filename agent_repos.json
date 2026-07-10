@@ -1808,5 +1808,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "cdeust/Cortex": {
+    "owner": "cdeust",
+    "name": "Cortex",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

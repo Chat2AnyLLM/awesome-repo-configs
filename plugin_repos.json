@@ -7588,5 +7588,77 @@
     "repoOwner": "seob717",
     "repoName": "ziptie",
     "repoBranch": "main"
+  },
+  "cdeust/Cortex": {
+    "name": "cdeust/Cortex",
+    "description": "Accountable memory for AI agents \u2014 it forgets on purpose, says \"I don't know\" when unsure, and flags its own contradictions. Local-first \u00b7 MCP \u00b7 MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdeust",
+    "repoName": "Cortex",
+    "repoBranch": "main"
+  },
+  "helius-labs/core-ai": {
+    "name": "helius-labs/core-ai",
+    "description": "Official Helius AI tooling repository",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "helius-labs",
+    "repoName": "core-ai",
+    "repoBranch": "main"
+  },
+  "eai-org/agent-toolkit": {
+    "name": "eai-org/agent-toolkit",
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eai-org",
+    "repoName": "agent-toolkit",
+    "repoBranch": "main"
+  },
+  "tomzion90/superstack": {
+    "name": "tomzion90/superstack",
+    "description": "Step by step, from idea to production, a Claude plugin that takes non-technical founders from a raw idea to a real, launched product. Guided kickoff + autonomous, test-enforced build loop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomzion90",
+    "repoName": "superstack",
+    "repoBranch": "main"
+  },
+  "Servosity/msp-skills": {
+    "name": "Servosity/msp-skills",
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your network.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Servosity",
+    "repoName": "msp-skills",
+    "repoBranch": "main"
+  },
+  "anilcancakir/claude-code": {
+    "name": "anilcancakir/claude-code",
+    "description": "Plan-first development partner for Claude Code: interview-driven plans, tier-routed agents (haiku/sonnet/opus), and an adversarial review chain that verifies through real usage.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anilcancakir",
+    "repoName": "claude-code",
+    "repoBranch": "main"
+  },
+  "JonasR-Git/agent-council-cc": {
+    "name": "JonasR-Git/agent-council-cc",
+    "description": "Multi-agent code review for Claude Code: Claude + Codex + Grok review independently, then critique each other and reach consensus.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JonasR-Git",
+    "repoName": "agent-council-cc",
+    "repoBranch": "master"
+  },
+  "HDHNezherParking-cum-Y638-Intl-Ltd/titan": {
+    "name": "HDHNezherParking-cum-Y638-Intl-Ltd/titan",
+    "description": "A disciplined 10-stage autonomous agent pipeline (Reflexion, Tree Search, ReAct) for Claude Code and AI coding agents. Lifts local LLMs to senior engineering quality.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HDHNezherParking-cum-Y638-Intl-Ltd",
+    "repoName": "titan",
+    "repoBranch": "master"
   }
 }

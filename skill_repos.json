@@ -8614,5 +8614,93 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "cdeust/Cortex": {
+        "owner": "cdeust",
+        "name": "Cortex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "helius-labs/core-ai": {
+        "owner": "helius-labs",
+        "name": "core-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "eai-org/agent-toolkit": {
+        "owner": "eai-org",
+        "name": "agent-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tomzion90/superstack": {
+        "owner": "tomzion90",
+        "name": "superstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rahmanef63/si-coder-agent": {
+        "owner": "rahmanef63",
+        "name": "si-coder-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Servosity/msp-skills": {
+        "owner": "Servosity",
+        "name": "msp-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sfrangulov/skill-graveyard": {
+        "owner": "sfrangulov",
+        "name": "skill-graveyard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anilcancakir/claude-code": {
+        "owner": "anilcancakir",
+        "name": "claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "JonasR-Git/agent-council-cc": {
+        "owner": "JonasR-Git",
+        "name": "agent-council-cc",
+        "branch": "master",
+        "enabled": true
+    },
+    "luxsolari/lux-swiss": {
+        "owner": "luxsolari",
+        "name": "lux-swiss",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HDHNezherParking-cum-Y638-Intl-Ltd/titan": {
+        "owner": "HDHNezherParking-cum-Y638-Intl-Ltd",
+        "name": "titan",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kau10082/slide-verify": {
+        "owner": "kau10082",
+        "name": "slide-verify",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zcz718/paperradar": {
+        "owner": "zcz718",
+        "name": "paperradar",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
