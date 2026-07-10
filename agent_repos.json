@@ -1794,5 +1794,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "nagisanzenin/engram": {
+    "owner": "nagisanzenin",
+    "name": "engram",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "soumabali/token-router": {
+    "owner": "soumabali",
+    "name": "token-router",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

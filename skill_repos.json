@@ -8498,5 +8498,121 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "nagisanzenin/engram": {
+        "owner": "nagisanzenin",
+        "name": "engram",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ferdinandobons/brand-docs": {
+        "owner": "ferdinandobons",
+        "name": "brand-docs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DataZooDE/anofox-forecast": {
+        "owner": "DataZooDE",
+        "name": "anofox-forecast",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "GxFn/Wakeflow": {
+        "owner": "GxFn",
+        "name": "Wakeflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "skyf0xx/better-thinking": {
+        "owner": "skyf0xx",
+        "name": "better-thinking",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "knowhowlab/agent-testkit": {
+        "owner": "knowhowlab",
+        "name": "agent-testkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "give-jd/deep-security-check": {
+        "owner": "give-jd",
+        "name": "deep-security-check",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "newan2001/delta-engage": {
+        "owner": "newan2001",
+        "name": "delta-engage",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JMY2003/a-skill-to-do-anything-in-xiaohongshu": {
+        "owner": "JMY2003",
+        "name": "a-skill-to-do-anything-in-xiaohongshu",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kpab/awesome-fun-claude-skills": {
+        "owner": "kpab",
+        "name": "awesome-fun-claude-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Spenny24/fsoma-transformation-brief-skill": {
+        "owner": "Spenny24",
+        "name": "fsoma-transformation-brief-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jajupmochi/agent-harness": {
+        "owner": "jajupmochi",
+        "name": "agent-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Runesmith-Studio/deep-reach": {
+        "owner": "Runesmith-Studio",
+        "name": "deep-reach",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "atretyak1985/swarmery": {
+        "owner": "atretyak1985",
+        "name": "swarmery",
+        "branch": "main",
+        "enabled": true
+    },
+    "soumabali/token-router": {
+        "owner": "soumabali",
+        "name": "token-router",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ttncode/ttnplugins": {
+        "owner": "ttncode",
+        "name": "ttnplugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "mohamamd991/TencentDB-Agent-Memory": {
+        "owner": "mohamamd991",
+        "name": "TencentDB-Agent-Memory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

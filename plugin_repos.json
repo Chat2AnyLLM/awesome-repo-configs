@@ -7489,5 +7489,104 @@
     "repoOwner": "alexmakarski",
     "repoName": "critic-gauntlet",
     "repoBranch": "main"
+  },
+  "nagisanzenin/engram": {
+    "name": "nagisanzenin/engram",
+    "description": "Evidence-based learning engine for Claude Code \u2014 first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nagisanzenin",
+    "repoName": "engram",
+    "repoBranch": "main"
+  },
+  "ferdinandobons/brand-docs": {
+    "name": "ferdinandobons/brand-docs",
+    "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, sty...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ferdinandobons",
+    "repoName": "brand-docs",
+    "repoBranch": "main"
+  },
+  "GxFn/Wakeflow": {
+    "name": "GxFn/Wakeflow",
+    "description": "Dual-host Wakeflow plugins for Codex and Claude Code: controller state roots, task packages, direct-thread/session delivery, evidence review, and local-first runtime.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GxFn",
+    "repoName": "Wakeflow",
+    "repoBranch": "main"
+  },
+  "skyf0xx/better-thinking": {
+    "name": "skyf0xx/better-thinking",
+    "description": "Move beyond 'think hard' - to Better Thinking for Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skyf0xx",
+    "repoName": "better-thinking",
+    "repoBranch": "master"
+  },
+  "knowhowlab/agent-testkit": {
+    "name": "knowhowlab/agent-testkit",
+    "description": "Universal E2E & manual acceptance testing skills for Claude Code \u2014 every run writes a protocol",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "knowhowlab",
+    "repoName": "agent-testkit",
+    "repoBranch": "main"
+  },
+  "give-jd/deep-security-check": {
+    "name": "give-jd/deep-security-check",
+    "description": "Defensive, read-only security assessment skill for Claude Code (Semgrep + osv-scanner + gitleaks) with a reproducible reliability grade (0-100, A-F).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "give-jd",
+    "repoName": "deep-security-check",
+    "repoBranch": "main"
+  },
+  "jajupmochi/agent-harness": {
+    "name": "jajupmochi/agent-harness",
+    "description": "Linlin's curated AI agent harness configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferences, and project templates. Loadable into any new project so a fresh /init can pick the relevant...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jajupmochi",
+    "repoName": "agent-harness",
+    "repoBranch": "main"
+  },
+  "atretyak1985/swarmery": {
+    "name": "atretyak1985/swarmery",
+    "description": "The craft of agent swarms \u2014 a vendor-neutral, multi-project Claude Code agent framework (plugin marketplace): one shared core + opt-in domain packs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atretyak1985",
+    "repoName": "swarmery",
+    "repoBranch": "main"
+  },
+  "soumabali/token-router": {
+    "name": "soumabali/token-router",
+    "description": "Automatic 3-tier model routing for Claude Code (haiku/sonnet/opus \u2192 your router) \u2014 cuts token cost by dispatching scan/index work to cheap models.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soumabali",
+    "repoName": "token-router",
+    "repoBranch": "main"
+  },
+  "ttncode/ttnplugins": {
+    "name": "ttncode/ttnplugins",
+    "description": "\ud83d\ude80 Gated AI dev pipeline for the UNIOSS team \u2014 GitLab ticket in, reviewed and verified CodeIgniter change out.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ttncode",
+    "repoName": "ttnplugins",
+    "repoBranch": "main"
+  },
+  "seob717/ziptie": {
+    "name": "seob717/ziptie",
+    "description": "Compile CLAUDE.md rules into trigger-bound hooks \u2014 a Claude Code plugin that delivers each rule at the moment it matters.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seob717",
+    "repoName": "ziptie",
+    "repoBranch": "main"
   }
 }
