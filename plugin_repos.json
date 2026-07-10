@@ -7660,5 +7660,95 @@
     "repoOwner": "HDHNezherParking-cum-Y638-Intl-Ltd",
     "repoName": "titan",
     "repoBranch": "master"
+  },
+  "OPTIMETA/PAIDEIA": {
+    "name": "OPTIMETA/PAIDEIA",
+    "description": "Paideia \u2014 a Claude Code plugin that forms exam readiness locally. Stop renting your own learning.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OPTIMETA",
+    "repoName": "PAIDEIA",
+    "repoBranch": "main"
+  },
+  "thlandgraf/cc-marketplace": {
+    "name": "thlandgraf/cc-marketplace",
+    "description": "Claude Code plugins for spec-driven development workflows: SPECLAN integration, BMAD-METHOD interop, and SDD automation skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thlandgraf",
+    "repoName": "cc-marketplace",
+    "repoBranch": "master"
+  },
+  "gfargo/tui-design-skill": {
+    "name": "gfargo/tui-design-skill",
+    "description": "Claude Skill for building clean, professional terminal UIs & CLIs \u2014 covers Bubble Tea, Ratatui, Textual, and Ink across Go, Rust, Python, and TypeScript",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gfargo",
+    "repoName": "tui-design-skill",
+    "repoBranch": "main"
+  },
+  "aomi-labs/skills": {
+    "name": "aomi-labs/skills",
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aomi-labs",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "sdsrss/claudemd": {
+    "name": "sdsrss/claudemd",
+    "description": "Claude Code plugin: AI-CODING-SPEC v6.11 enforcement via shell hooks + spec distribution into ~/.claude/. Blocks banned vocab in commit messages, unsafe rm -rf $VAR, push-on-red-CI, unread MEMORY.md before ship. Ships...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdsrss",
+    "repoName": "claudemd",
+    "repoBranch": "main"
+  },
+  "palusc/dotpersona": {
+    "name": "palusc/dotpersona",
+    "description": "\ud83c\udfad Persona \u2014 role-based operating modes for Claude. Hire an expert, not a tool: each persona is a mindset, a method, a quality bar, and the skills to deliver.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "palusc",
+    "repoName": "dotpersona",
+    "repoBranch": "main"
+  },
+  "manderse21/claude-powershell-lsp": {
+    "name": "manderse21/claude-powershell-lsp",
+    "description": "Real-time PowerShell diagnostics and PSScriptAnalyzer fixes inside Claude Code, as it edits your .ps1/.psm1/.psd1 -- powered by PowerShell Editor Services.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "manderse21",
+    "repoName": "claude-powershell-lsp",
+    "repoBranch": "main"
+  },
+  "ronniepinnell/casper": {
+    "name": "ronniepinnell/casper",
+    "description": "\ud83d\udc7b The friendly ghost in your git. Your AI said done \u2014 Casper makes it prove it. Claim-evidence hooks + a verdict ledger for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ronniepinnell",
+    "repoName": "casper",
+    "repoBranch": "main"
+  },
+  "jovylle/build-ready": {
+    "name": "jovylle/build-ready",
+    "description": "Score a spec's autonomous-build readiness before any code exists \u2014 a portable Agent Skill that red-teams your PLAN/SPEC from a zero-context builder's seat. Works in Claude Code & opencode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jovylle",
+    "repoName": "build-ready",
+    "repoBranch": "main"
+  },
+  "Kotty2998/claude-plugins-official": {
+    "name": "Kotty2998/claude-plugins-official",
+    "description": "\ud83d\udee0\ufe0f Discover and install high-quality plugins for Claude Code, from internal tools to community contributions, enhancing your development experience.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kotty2998",
+    "repoName": "claude-plugins-official",
+    "repoBranch": "main"
   }
 }
