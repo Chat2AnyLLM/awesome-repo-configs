@@ -1815,5 +1815,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "solanabr/auditor-skill": {
+    "owner": "solanabr",
+    "name": "auditor-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

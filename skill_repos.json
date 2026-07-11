@@ -8833,5 +8833,46 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "aerovato/magic-compact": {
+        "owner": "aerovato",
+        "name": "magic-compact",
+        "branch": "main",
+        "enabled": true
+    },
+    "solanabr/auditor-skill": {
+        "owner": "solanabr",
+        "name": "auditor-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sandypoli-boop/sansheng-write": {
+        "owner": "sandypoli-boop",
+        "name": "sansheng-write",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Dcrr1717/skill-advisor": {
+        "owner": "Dcrr1717",
+        "name": "skill-advisor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cyh-skill/field-graph": {
+        "owner": "cyh-skill",
+        "name": "field-graph",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kazuyakurashima/which-model": {
+        "owner": "kazuyakurashima",
+        "name": "which-model",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

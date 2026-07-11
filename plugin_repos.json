@@ -7750,5 +7750,50 @@
     "repoOwner": "Kotty2998",
     "repoName": "claude-plugins-official",
     "repoBranch": "main"
+  },
+  "aerovato/magic-compact": {
+    "name": "aerovato/magic-compact",
+    "description": "Lossless context compression plugin for Claude Code & OpenCode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aerovato",
+    "repoName": "magic-compact",
+    "repoBranch": "main"
+  },
+  "wakatime/claude-code-wakatime": {
+    "name": "wakatime/claude-code-wakatime",
+    "description": "Track how much time you spend using Claude Code to AI-code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wakatime",
+    "repoName": "claude-code-wakatime",
+    "repoBranch": "main"
+  },
+  "solanabr/auditor-skill": {
+    "name": "solanabr/auditor-skill",
+    "description": "Claude Code / agentic security skill for Solana programs and software. Full audit-firm lifecycle, executable PoC + fix-patch delivery, a Rust pre-scanner + cross-audit memory, 1,346 checks across 20 checklists, and 13...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "solanabr",
+    "repoName": "auditor-skill",
+    "repoBranch": "main"
+  },
+  "sandypoli-boop/sansheng-write": {
+    "name": "sandypoli-boop/sansheng-write",
+    "description": "\u4e2d\u6587\u957f\u6587\u5199\u4f5c\u5f15\u64ce \u00b7 Claude Code skill\uff1a\u9009\u9898\u2192\u5927\u7eb2\u2192\u6b63\u6587\u2192\u6539\u7a3f\u2192\u5fae\u4fe1\u6392\u7248\u2192\u914d\u56fe\u3002\u5582\u5b83\u4f60\u7684\u8bed\u6599\uff0c\u5b83\u957f\u51fa\u4f60\u7684\u58f0\u97f3\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sandypoli-boop",
+    "repoName": "sansheng-write",
+    "repoBranch": "main"
+  },
+  "Dcrr1717/skill-advisor": {
+    "name": "Dcrr1717/skill-advisor",
+    "description": "Claude Code skill that scans your installed skills and reasons which ones fit your project - workflow, external AI tools, and honest gap reporting included.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dcrr1717",
+    "repoName": "skill-advisor",
+    "repoBranch": "main"
   }
 }
