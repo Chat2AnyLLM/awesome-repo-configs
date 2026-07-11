@@ -7858,5 +7858,86 @@
     "repoOwner": "alvarose",
     "repoName": "android-update-deps",
     "repoBranch": "main"
+  },
+  "Shweta-Mishra-ai/tokenmizer": {
+    "name": "Shweta-Mishra-ai/tokenmizer",
+    "description": "Graph memory for AI agents \u2014 decisions, context, and session history that survive across every conversation. Works with any LLM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Shweta-Mishra-ai",
+    "repoName": "tokenmizer",
+    "repoBranch": "main"
+  },
+  "skymanbp/cc-enslaver": {
+    "name": "skymanbp/cc-enslaver",
+    "description": "A Claude Code plugin and LLM-agnostic rule pack that enforces systematic thinking, verified citations, and root-cause analysis \u2014 eliminating reactive, lazy AI behavior.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skymanbp",
+    "repoName": "cc-enslaver",
+    "repoBranch": "main"
+  },
+  "s1ddh-rth/context-health": {
+    "name": "s1ddh-rth/context-health",
+    "description": "Watches your Claude Code session live and flags when context goes bad - distraction, confusion, goal-drift, and an opt-in contradiction check - as a color-coded statusline. Local-first, $0 API cost by default, fully o...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "s1ddh-rth",
+    "repoName": "context-health",
+    "repoBranch": "main"
+  },
+  "ABTdomain/domainkits-plugins": {
+    "name": "ABTdomain/domainkits-plugins",
+    "description": "DomainKits connects Claude to live domain data. Built-in workflows help verify domains from multiple angles before making decisions. Supports domain search, analysis, brand conflict detection, valuation, trend discovery,",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ABTdomain",
+    "repoName": "domainkits-plugins",
+    "repoBranch": "main"
+  },
+  "jx-hxxx/hi-vibe": {
+    "name": "jx-hxxx/hi-vibe",
+    "description": "Vibe-coding seatbelt for Claude Code \u2014 doc automation + AI discipline + machine-enforced quality",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jx-hxxx",
+    "repoName": "hi-vibe",
+    "repoBranch": "main"
+  },
+  "granthiaai/granthiaai-plugins": {
+    "name": "granthiaai/granthiaai-plugins",
+    "description": "Team memory & search for Claude Code - turn your team's Claude Code conversation history into a searchable, shared knowledge base.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "granthiaai",
+    "repoName": "granthiaai-plugins",
+    "repoBranch": "main"
+  },
+  "mclayer/plugin-codeforge": {
+    "name": "mclayer/plugin-codeforge",
+    "description": "mclayer/plugin-codeforge \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mclayer",
+    "repoName": "plugin-codeforge",
+    "repoBranch": "main"
+  },
+  "nogunix/janus": {
+    "name": "nogunix/janus",
+    "description": "OpenShift/RHEL/CNV research & investigation pipeline for Claude Code \u2014 crash forensics, upgrade/compat analysis, CVE impact, component behavior.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nogunix",
+    "repoName": "janus",
+    "repoBranch": "main"
+  },
+  "dwgx/SmartCLI": {
+    "name": "dwgx/SmartCLI",
+    "description": "Three Agent Skills over one pluggable PTY + pyte core: drive TUIs, design terminal effects, and render cell-accurate UIs. pip install smartcli-toolkit",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dwgx",
+    "repoName": "SmartCLI",
+    "repoBranch": "main"
   }
 }

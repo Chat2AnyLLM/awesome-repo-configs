@@ -8977,5 +8977,93 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "JuneYaooo/gpt-image2-ppt-skills": {
+        "owner": "JuneYaooo",
+        "name": "gpt-image2-ppt-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Shweta-Mishra-ai/tokenmizer": {
+        "owner": "Shweta-Mishra-ai",
+        "name": "tokenmizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "skymanbp/cc-enslaver": {
+        "owner": "skymanbp",
+        "name": "cc-enslaver",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "openclawby/openclawby-skills": {
+        "owner": "openclawby",
+        "name": "openclawby-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "joseruiz1571/healthcare-privacy-grc-toolkit": {
+        "owner": "joseruiz1571",
+        "name": "healthcare-privacy-grc-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "s1ddh-rth/context-health": {
+        "owner": "s1ddh-rth",
+        "name": "context-health",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ABTdomain/domainkits-plugins": {
+        "owner": "ABTdomain",
+        "name": "domainkits-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jx-hxxx/hi-vibe": {
+        "owner": "jx-hxxx",
+        "name": "hi-vibe",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mclayer/plugin-codeforge": {
+        "owner": "mclayer",
+        "name": "plugin-codeforge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nogunix/janus": {
+        "owner": "nogunix",
+        "name": "janus",
+        "branch": "main",
+        "enabled": true
+    },
+    "AnYejun/blind-vault": {
+        "owner": "AnYejun",
+        "name": "blind-vault",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "djfksjd/ir-search": {
+        "owner": "djfksjd",
+        "name": "ir-search",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dwgx/SmartCLI": {
+        "owner": "dwgx",
+        "name": "SmartCLI",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

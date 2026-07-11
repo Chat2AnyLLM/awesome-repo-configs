@@ -1822,5 +1822,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "skymanbp/cc-enslaver": {
+    "owner": "skymanbp",
+    "name": "cc-enslaver",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jx-hxxx/hi-vibe": {
+    "owner": "jx-hxxx",
+    "name": "hi-vibe",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mclayer/plugin-codeforge": {
+    "owner": "mclayer",
+    "name": "plugin-codeforge",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
