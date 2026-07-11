@@ -7939,5 +7939,104 @@
     "repoOwner": "dwgx",
     "repoName": "SmartCLI",
     "repoBranch": "main"
+  },
+  "sherifabdlnaby/skills": {
+    "name": "sherifabdlnaby/skills",
+    "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sherifabdlnaby",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "slavins-co/cellartracker-mcp": {
+    "name": "slavins-co/cellartracker-mcp",
+    "description": "A local MCP server to connect AI tools to your wine cellar",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slavins-co",
+    "repoName": "cellartracker-mcp",
+    "repoBranch": "main"
+  },
+  "ramboz/jig": {
+    "name": "ramboz/jig",
+    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable spec, implementation, review, and memory workflow to AI-assisted software projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ramboz",
+    "repoName": "jig",
+    "repoBranch": "main"
+  },
+  "rhnfzl/slide-sage": {
+    "name": "rhnfzl/slide-sage",
+    "description": "Show your presentations with charts, diagrams, and code highlighting. Works with most AI coding tools (Claude Code, Codex, Cursor, AMP).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rhnfzl",
+    "repoName": "slide-sage",
+    "repoBranch": "main"
+  },
+  "anthonymaley/apple-music": {
+    "name": "anthonymaley/apple-music",
+    "description": "Apple Music TUI, CLI Claude Code skill for macOS, control playback, multi-room AirPlay, and playlists from the terminal or in natural language from Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anthonymaley",
+    "repoName": "apple-music",
+    "repoBranch": "main"
+  },
+  "kennykankush/skillpack": {
+    "name": "kennykankush/skillpack",
+    "description": "My daily-driver Claude Code and Codex loadout",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kennykankush",
+    "repoName": "skillpack",
+    "repoBranch": "main"
+  },
+  "lbk-open/super-spec": {
+    "name": "lbk-open/super-spec",
+    "description": "Agent Skills that take a requirement \u2014 or a production alert \u2014 to a reviewed pull request: multi-agent TDD coding, a parallel review panel with severity-graded verdicts, living OpenSpec-compatible specs, and per-langu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lbk-open",
+    "repoName": "super-spec",
+    "repoBranch": "main"
+  },
+  "relusion/vg-sdlc-claude-plugins": {
+    "name": "relusion/vg-sdlc-claude-plugins",
+    "description": "Agent-agnostic merge bar and spec-driven Claude Code plugins for governed software delivery.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "relusion",
+    "repoName": "vg-sdlc-claude-plugins",
+    "repoBranch": "main"
+  },
+  "AgenticPawan/FullStack-Pilot": {
+    "name": "AgenticPawan/FullStack-Pilot",
+    "description": "Claude Code plugin marketplace for Angular + .NET + SQL Server + Azure - governance skills, agents, and audit/fix pipelines for full-stack Microsoft shops.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AgenticPawan",
+    "repoName": "FullStack-Pilot",
+    "repoBranch": "master"
+  },
+  "sherifabdlnaby/claude-iterm-vars": {
+    "name": "sherifabdlnaby/claude-iterm-vars",
+    "description": "Expose Claude Code session metadata as iTerm2 user vars.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sherifabdlnaby",
+    "repoName": "claude-iterm-vars",
+    "repoBranch": "main"
+  },
+  "longsizhuo/i-see-you": {
+    "name": "longsizhuo/i-see-you",
+    "description": "\u8ba9TA\u770b\u5230\u8fd9\u4e2a\u4e16\u754c",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "longsizhuo",
+    "repoName": "i-see-you",
+    "repoBranch": "main"
   }
 }

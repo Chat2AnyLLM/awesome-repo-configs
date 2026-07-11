@@ -9065,5 +9065,90 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ToDealMarket/tdm-agentpay": {
+        "owner": "ToDealMarket",
+        "name": "tdm-agentpay",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sherifabdlnaby/skills": {
+        "owner": "sherifabdlnaby",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "slavins-co/cellartracker-mcp": {
+        "owner": "slavins-co",
+        "name": "cellartracker-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ramboz/jig": {
+        "owner": "ramboz",
+        "name": "jig",
+        "branch": "main",
+        "enabled": true
+    },
+    "rhnfzl/slide-sage": {
+        "owner": "rhnfzl",
+        "name": "slide-sage",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Sarakael78/Bridge-Search": {
+        "owner": "Sarakael78",
+        "name": "Bridge-Search",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "anthonymaley/apple-music": {
+        "owner": "anthonymaley",
+        "name": "apple-music",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kennykankush/skillpack": {
+        "owner": "kennykankush",
+        "name": "skillpack",
+        "branch": "main",
+        "enabled": true
+    },
+    "lbk-open/super-spec": {
+        "owner": "lbk-open",
+        "name": "super-spec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "relusion/vg-sdlc-claude-plugins": {
+        "owner": "relusion",
+        "name": "vg-sdlc-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "AgenticPawan/FullStack-Pilot": {
+        "owner": "AgenticPawan",
+        "name": "FullStack-Pilot",
+        "branch": "master",
+        "enabled": true
+    },
+    "longsizhuo/i-see-you": {
+        "owner": "longsizhuo",
+        "name": "i-see-you",
+        "branch": "main",
+        "enabled": true
+    },
+    "skyestaq/repo-shakedown": {
+        "owner": "skyestaq",
+        "name": "repo-shakedown",
+        "branch": "main",
+        "enabled": true
     }
 }
