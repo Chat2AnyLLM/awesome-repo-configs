@@ -8874,5 +8874,108 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "This-HW/claude-code-kit": {
+        "owner": "This-HW",
+        "name": "claude-code-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "TheaDust/lore": {
+        "owner": "TheaDust",
+        "name": "lore",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "w3nabil/become-human": {
+        "owner": "w3nabil",
+        "name": "become-human",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cabbagecachekid/red-pen": {
+        "owner": "cabbagecachekid",
+        "name": "red-pen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mehdiforoozandeh/skills": {
+        "owner": "mehdiforoozandeh",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kompiro/hane": {
+        "owner": "kompiro",
+        "name": "hane",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill": {
+        "owner": "unpronounceable-ordersphenisciformes466",
+        "name": "roblox-best-practices-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "cabbagecachekid/neon-jetpack": {
+        "owner": "cabbagecachekid",
+        "name": "neon-jetpack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TropinAlexey/continuum": {
+        "owner": "TropinAlexey",
+        "name": "continuum",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alvarose/android-update-deps": {
+        "owner": "alvarose",
+        "name": "android-update-deps",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NatChang/news-digest": {
+        "owner": "NatChang",
+        "name": "news-digest",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "josezuma/yc-pitch-deck-max": {
+        "owner": "josezuma",
+        "name": "yc-pitch-deck-max",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "josezuma/geo-local-skill": {
+        "owner": "josezuma",
+        "name": "geo-local-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "josezuma/competitor-geo-watch": {
+        "owner": "josezuma",
+        "name": "competitor-geo-watch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "xnjiang/autowhisper-skill": {
+        "owner": "xnjiang",
+        "name": "autowhisper-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

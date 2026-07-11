@@ -7795,5 +7795,68 @@
     "repoOwner": "Dcrr1717",
     "repoName": "skill-advisor",
     "repoBranch": "main"
+  },
+  "This-HW/claude-code-kit": {
+    "name": "This-HW/claude-code-kit",
+    "description": "Claude Code plugin \u2014 33 agents + 16 skills. Planning, implementation, review, security. Listed in Anthropic's community plugin catalog.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "This-HW",
+    "repoName": "claude-code-kit",
+    "repoBranch": "main"
+  },
+  "cabbagecachekid/red-pen": {
+    "name": "cabbagecachekid/red-pen",
+    "description": "Keep AI-assisted writing honest and yours: an AI-written check, a cringe check, and a full-review orchestrator (anti-inflation + fact passes). Composable Claude Agent Skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cabbagecachekid",
+    "repoName": "red-pen",
+    "repoBranch": "main"
+  },
+  "kompiro/hane": {
+    "name": "kompiro/hane",
+    "description": "Reusable Claude Code skills for branch/worktree-based PR workflow, design docs, acceptance tests, and doc maintenance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kompiro",
+    "repoName": "hane",
+    "repoBranch": "main"
+  },
+  "cabbagecachekid/neon-jetpack": {
+    "name": "cabbagecachekid/neon-jetpack",
+    "description": "Free Claude skills that keep AI-assisted writing honest and yours: line edits, AI-tell checks, tone audits, full reviews, UX reviews, journey maps, copyright basics.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cabbagecachekid",
+    "repoName": "neon-jetpack",
+    "repoBranch": "main"
+  },
+  "TropinAlexey/continuum": {
+    "name": "TropinAlexey/continuum",
+    "description": "See the usage limit coming, decide what to do with what's left, and pick up where you stopped. Provider- and OS-agnostic Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TropinAlexey",
+    "repoName": "continuum",
+    "repoBranch": "main"
+  },
+  "lbwds/clever-sprite": {
+    "name": "lbwds/clever-sprite",
+    "description": "Claude Code \u63d2\u4ef6\u96c6",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lbwds",
+    "repoName": "clever-sprite",
+    "repoBranch": "main"
+  },
+  "alvarose/android-update-deps": {
+    "name": "alvarose/android-update-deps",
+    "description": "A Claude skill for the safe, gated review & update of Android (Kotlin/Gradle) dependencies in a version catalog \u2014 detects updates, analyzes risk, and applies only after your confirmation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alvarose",
+    "repoName": "android-update-deps",
+    "repoBranch": "main"
   }
 }
