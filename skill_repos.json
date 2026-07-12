@@ -9293,5 +9293,12 @@
         "name": "chageun",
         "branch": "main",
         "enabled": true
+    },
+    "metrox-eth/quit-sponsor": {
+        "owner": "metrox-eth",
+        "name": "quit-sponsor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
