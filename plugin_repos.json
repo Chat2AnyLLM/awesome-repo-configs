@@ -8173,5 +8173,95 @@
     "repoOwner": "chacheum",
     "repoName": "chageun",
     "repoBranch": "main"
+  },
+  "pitimon/8-habit-ai-dev": {
+    "name": "pitimon/8-habit-ai-dev",
+    "description": "Stop vibe coding \u2014 13 skills, 7 steps, 8 habits. Structured AI-assisted development powered by Covey's proven principles.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pitimon",
+    "repoName": "8-habit-ai-dev",
+    "repoBranch": "main"
+  },
+  "Ap6pack/outrider-recon": {
+    "name": "Ap6pack/outrider-recon",
+    "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-click install, 11 skills, optional MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ap6pack",
+    "repoName": "outrider-recon",
+    "repoBranch": "main"
+  },
+  "iroha924/mumei": {
+    "name": "iroha924/mumei",
+    "description": "Your build is green \u2014 but did the agent make it green by weakening the tests? mumei re-runs them from a clean HEAD, freezes what must not be tuned, and reads the diff for deleted tests and suppressed errors. Enforced...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iroha924",
+    "repoName": "mumei",
+    "repoBranch": "main"
+  },
+  "cwf818/topgauge": {
+    "name": "cwf818/topgauge",
+    "description": "A provider-agnostic Claude Code statusline plugin for token-plan usage / remaining quota or balance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cwf818",
+    "repoName": "topgauge",
+    "repoBranch": "main"
+  },
+  "ehzawad/codex-council": {
+    "name": "ehzawad/codex-council",
+    "description": "Multi-perspective parallel Codex review for Claude Code \u2014 N sub-agents, each framed with a role you decide per call.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ehzawad",
+    "repoName": "codex-council",
+    "repoBranch": "main"
+  },
+  "aby-studio-works/garelier": {
+    "name": "aby-studio-works/garelier",
+    "description": "AI agent skills for resumable project control. Garelier (Garage + Atelier) organizes PM, knowledge, review, and execution lanes for Claude Code / Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aby-studio-works",
+    "repoName": "garelier",
+    "repoBranch": "main"
+  },
+  "Moliboy5000/.claude": {
+    "name": "Moliboy5000/.claude",
+    "description": "Claude dotfile containing skills, agents etc I use.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Moliboy5000",
+    "repoName": ".claude",
+    "repoBranch": "main"
+  },
+  "Virag-Koradiya/graybeard": {
+    "name": "Virag-Koradiya/graybeard",
+    "description": "Universal engineering judgment for Claude Code. Read before editing, reuse before writing, verify before shipping.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Virag-Koradiya",
+    "repoName": "graybeard",
+    "repoBranch": "main"
+  },
+  "boranesn/agentic-base": {
+    "name": "boranesn/agentic-base",
+    "description": "Claude Code i\u00e7in disiplin katman\u0131 \u2014 append-only log, deterministik g\u00fcvenlik gate'leri, confidence e\u015fikleri ve insan onay kuyru\u011fu (plugin marketplace)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "boranesn",
+    "repoName": "agentic-base",
+    "repoBranch": "master"
+  },
+  "martimramos/cairn-claude-memory": {
+    "name": "martimramos/cairn-claude-memory",
+    "description": "Per-repo session memory for Claude Code: a NOW.md + daily journals that survive across sessions. Files are earned, not scaffolded.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martimramos",
+    "repoName": "cairn-claude-memory",
+    "repoBranch": "main"
   }
 }

@@ -9300,5 +9300,119 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "WenyuChiou/awesome-agentic-ai-zh": {
+        "owner": "WenyuChiou",
+        "name": "awesome-agentic-ai-zh",
+        "branch": "main",
+        "enabled": true
+    },
+    "celados/mcpx": {
+        "owner": "celados",
+        "name": "mcpx",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jmagar/tailscale-rmcp": {
+        "owner": "jmagar",
+        "name": "tailscale-rmcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/unraid-rmcp": {
+        "owner": "jmagar",
+        "name": "unraid-rmcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "pitimon/8-habit-ai-dev": {
+        "owner": "pitimon",
+        "name": "8-habit-ai-dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ap6pack/outrider-recon": {
+        "owner": "Ap6pack",
+        "name": "outrider-recon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iroha924/mumei": {
+        "owner": "iroha924",
+        "name": "mumei",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jmagar/unifi-rmcp": {
+        "owner": "jmagar",
+        "name": "unifi-rmcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/gotify-rmcp": {
+        "owner": "jmagar",
+        "name": "gotify-rmcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/arcane-rmcp": {
+        "owner": "jmagar",
+        "name": "arcane-rmcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/apprise-rmcp": {
+        "owner": "jmagar",
+        "name": "apprise-rmcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "ehzawad/codex-council": {
+        "owner": "ehzawad",
+        "name": "codex-council",
+        "branch": "main",
+        "enabled": true
+    },
+    "ENEmyr/brief": {
+        "owner": "ENEmyr",
+        "name": "brief",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aby-studio-works/garelier": {
+        "owner": "aby-studio-works",
+        "name": "garelier",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Moliboy5000/.claude": {
+        "owner": "Moliboy5000",
+        "name": ".claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "Virag-Koradiya/graybeard": {
+        "owner": "Virag-Koradiya",
+        "name": "graybeard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "boranesn/agentic-base": {
+        "owner": "boranesn",
+        "name": "agentic-base",
+        "branch": "master",
+        "enabled": true
+    },
+    "martimramos/cairn-claude-memory": {
+        "owner": "martimramos",
+        "name": "cairn-claude-memory",
+        "branch": "main",
+        "enabled": true
     }
 }
