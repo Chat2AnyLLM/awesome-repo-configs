@@ -9150,5 +9150,69 @@
         "name": "repo-shakedown",
         "branch": "main",
         "enabled": true
+    },
+    "PangenomeAI/academic-skills-food-nutrition": {
+        "owner": "PangenomeAI",
+        "name": "academic-skills-food-nutrition",
+        "branch": "main",
+        "enabled": true
+    },
+    "PALAMBUR/palambur-method": {
+        "owner": "PALAMBUR",
+        "name": "palambur-method",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qingxuantang/tar-engine": {
+        "owner": "qingxuantang",
+        "name": "tar-engine",
+        "branch": "master",
+        "enabled": true
+    },
+    "GaimsDevSoftware/glaze-coder": {
+        "owner": "GaimsDevSoftware",
+        "name": "glaze-coder",
+        "branch": "main",
+        "enabled": true
+    },
+    "severzemlya/hato": {
+        "owner": "severzemlya",
+        "name": "hato",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "manhquydev/flow-skill": {
+        "owner": "manhquydev",
+        "name": "flow-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "0xNyk/unmachined": {
+        "owner": "0xNyk",
+        "name": "unmachined",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "janghwansangai/secure-vibe-coding": {
+        "owner": "janghwansangai",
+        "name": "secure-vibe-coding",
+        "branch": "master",
+        "enabled": true
+    },
+    "Arthurz7887/choose-ontario-agent": {
+        "owner": "Arthurz7887",
+        "name": "choose-ontario-agent",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill": {
+        "owner": "imhzm",
+        "name": "EDIT-REELS-LIKE-PRO-Claude-Skill",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -8038,5 +8038,68 @@
     "repoOwner": "longsizhuo",
     "repoName": "i-see-you",
     "repoBranch": "main"
+  },
+  "PangenomeAI/academic-skills-food-nutrition": {
+    "name": "PangenomeAI/academic-skills-food-nutrition",
+    "description": "Open food & nutrition science research skill suite for Claude Code and Codex \u2014 multi-agent research/write/review/figure skills + journal author-guideline skills. Initiated by the Food Science Group, University of Melb...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PangenomeAI",
+    "repoName": "academic-skills-food-nutrition",
+    "repoBranch": "main"
+  },
+  "PALAMBUR/palambur-method": {
+    "name": "PALAMBUR/palambur-method",
+    "description": "M\u00e9thode Palambur \u2014 skill Claude Code : clarification cibl\u00e9e (questions avant production) pour un livrable m\u00e9tier de qualit\u00e9, avec garde-fous suisses (LEg, nLPD, CO) et protection des donn\u00e9es par d\u00e9faut. Pens\u00e9 pour les...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PALAMBUR",
+    "repoName": "palambur-method",
+    "repoBranch": "main"
+  },
+  "clever-cc-plugins/marketplace": {
+    "name": "clever-cc-plugins/marketplace",
+    "description": "A small family of MIT-licensed plugins for Claude Code. Opinionated and built around one rule: Every line costs tokens on every message.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clever-cc-plugins",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "urda-anvil/claude-plugins": {
+    "name": "urda-anvil/claude-plugins",
+    "description": "Urda Anvil Claude Code plugins marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "urda-anvil",
+    "repoName": "claude-plugins",
+    "repoBranch": "master"
+  },
+  "GaimsDevSoftware/glaze-coder": {
+    "name": "GaimsDevSoftware/glaze-coder",
+    "description": "Build, edit and run Glaze (Raycast) Mac apps from Claude Code for free, using your own Claude instead of Glaze credits. Then publish to the Glaze Store.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GaimsDevSoftware",
+    "repoName": "glaze-coder",
+    "repoBranch": "main"
+  },
+  "severzemlya/hato": {
+    "name": "severzemlya/hato",
+    "description": "\ud83d\udd4a Carrier pigeons for Claude Code \u2014 sessions that message, broadcast, and wake each other across your machines",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "severzemlya",
+    "repoName": "hato",
+    "repoBranch": "main"
+  },
+  "manhquydev/flow-skill": {
+    "name": "manhquydev/flow-skill",
+    "description": "/flow - gated build harness skill: idea -> real done-evidence via honest gates, a durable knowledge loop, and a mechanical usage log closed into a feedback loop (recall + propose + prune). Cross-vendor agent ladder (c...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "manhquydev",
+    "repoName": "flow-skill",
+    "repoBranch": "master"
   }
 }
