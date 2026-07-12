@@ -9414,5 +9414,63 @@
         "name": "cairn-claude-memory",
         "branch": "main",
         "enabled": true
+    },
+    "cgallic/kai-cmo-harness": {
+        "owner": "cgallic",
+        "name": "kai-cmo-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "frankxai/library-os": {
+        "owner": "frankxai",
+        "name": "library-os",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "MrBinnacle/skills": {
+        "owner": "MrBinnacle",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EdytaKucharska/keel": {
+        "owner": "EdytaKucharska",
+        "name": "keel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ekawijayasusilo/personal-claude-setup": {
+        "owner": "ekawijayasusilo",
+        "name": "personal-claude-setup",
+        "branch": "main",
+        "enabled": true
+    },
+    "home-dev-lab/workflow-toolbox": {
+        "owner": "home-dev-lab",
+        "name": "workflow-toolbox",
+        "branch": "main",
+        "enabled": true
+    },
+    "ChrisPachulski/evergreen": {
+        "owner": "ChrisPachulski",
+        "name": "evergreen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wow-look-at-my/cc-marketplace": {
+        "owner": "wow-look-at-my",
+        "name": "cc-marketplace",
+        "branch": "master",
+        "enabled": true
+    },
+    "mojeebdev/stackbrief": {
+        "owner": "mojeebdev",
+        "name": "stackbrief",
+        "branch": "main",
+        "enabled": true
     }
 }

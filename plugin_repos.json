@@ -8263,5 +8263,59 @@
     "repoOwner": "martimramos",
     "repoName": "cairn-claude-memory",
     "repoBranch": "main"
+  },
+  "Jebel-Quant/rhiza-claude": {
+    "name": "Jebel-Quant/rhiza-claude",
+    "description": "Claude Code plugin marketplace for the rhiza plugin \u2014 slash commands for working in rhiza-managed repos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jebel-Quant",
+    "repoName": "rhiza-claude",
+    "repoBranch": "main"
+  },
+  "EdytaKucharska/keel": {
+    "name": "EdytaKucharska/keel",
+    "description": "Decisions, not standards. Keel is a Claude Code plugin for product builders who direct AI rather than type code \u2014 it sits at decision moments (should we build this, which shape, what breaks if we're wrong, what does w...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EdytaKucharska",
+    "repoName": "keel",
+    "repoBranch": "main"
+  },
+  "ekawijayasusilo/personal-claude-setup": {
+    "name": "ekawijayasusilo/personal-claude-setup",
+    "description": "Creating a plugin marketplace for AI agent add-ons that's not available via plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ekawijayasusilo",
+    "repoName": "personal-claude-setup",
+    "repoBranch": "main"
+  },
+  "home-dev-lab/workflow-toolbox": {
+    "name": "home-dev-lab/workflow-toolbox",
+    "description": "Author, scaffold, and debug multi-agent workflows for Claude Code's Workflow tool \u2014 a skills-only plugin plus @workflow-toolbox, a compile-time TypeScript pattern library. Research preview.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "home-dev-lab",
+    "repoName": "workflow-toolbox",
+    "repoBranch": "main"
+  },
+  "ChrisPachulski/evergreen": {
+    "name": "ChrisPachulski/evergreen",
+    "description": "Keeps documentation honest with the code it describes. Three axes, one creed \u2014 prove it or drop it: a ride-along reflex flags drift, winnow certifies every claim in a deep pass, flourish crafts ugly-but-true docs to a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ChrisPachulski",
+    "repoName": "evergreen",
+    "repoBranch": "main"
+  },
+  "wow-look-at-my/cc-marketplace": {
+    "name": "wow-look-at-my/cc-marketplace",
+    "description": "wow-look-at-my/cc-marketplace \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wow-look-at-my",
+    "repoName": "cc-marketplace",
+    "repoBranch": "master"
   }
 }
