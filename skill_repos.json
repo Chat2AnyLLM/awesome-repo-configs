@@ -9214,5 +9214,84 @@
         "name": "EDIT-REELS-LIKE-PRO-Claude-Skill",
         "branch": "main",
         "enabled": true
+    },
+    "ommakes/Skills": {
+        "owner": "ommakes",
+        "name": "Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "shuzhao1133/gbt9704-2012-format": {
+        "owner": "shuzhao1133",
+        "name": "gbt9704-2012-format",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "EVEDensity/web-perf-audit": {
+        "owner": "EVEDensity",
+        "name": "web-perf-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Noorkhalel/saas-ai-skills": {
+        "owner": "Noorkhalel",
+        "name": "saas-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chrisdothtml/ai-job-finder": {
+        "owner": "chrisdothtml",
+        "name": "ai-job-finder",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "SpaiR/task-pipeline": {
+        "owner": "SpaiR",
+        "name": "task-pipeline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "axel-pm/watch-n-learn": {
+        "owner": "axel-pm",
+        "name": "watch-n-learn",
+        "branch": "main",
+        "enabled": true
+    },
+    "web-lifter/official-lifestyle-plugins": {
+        "owner": "web-lifter",
+        "name": "official-lifestyle-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "web-lifter/official-business-plugins": {
+        "owner": "web-lifter",
+        "name": "official-business-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "faizan007jr/local-llm-delegate": {
+        "owner": "faizan007jr",
+        "name": "local-llm-delegate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mstephenn/taskloop": {
+        "owner": "mstephenn",
+        "name": "taskloop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chacheum/chageun": {
+        "owner": "chacheum",
+        "name": "chageun",
+        "branch": "main",
+        "enabled": true
     }
 }

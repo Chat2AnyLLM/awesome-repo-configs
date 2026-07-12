@@ -1850,5 +1850,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "SpaiR/task-pipeline": {
+    "owner": "SpaiR",
+    "name": "task-pipeline",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "faizan007jr/local-llm-delegate": {
+    "owner": "faizan007jr",
+    "name": "local-llm-delegate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

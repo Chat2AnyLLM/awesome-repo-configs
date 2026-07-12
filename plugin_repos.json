@@ -8101,5 +8101,77 @@
     "repoOwner": "manhquydev",
     "repoName": "flow-skill",
     "repoBranch": "master"
+  },
+  "SpaiR/task-pipeline": {
+    "name": "SpaiR/task-pipeline",
+    "description": "Discipline, not magic \u2014 a checkpoint-driven workflow for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SpaiR",
+    "repoName": "task-pipeline",
+    "repoBranch": "main"
+  },
+  "axel-pm/watch-n-learn": {
+    "name": "axel-pm/watch-n-learn",
+    "description": "Turn a how-to video into a reusable skill for your AI coding agent \u2014 watched locally, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "axel-pm",
+    "repoName": "watch-n-learn",
+    "repoBranch": "main"
+  },
+  "clochard04/handoff": {
+    "name": "clochard04/handoff",
+    "description": "Mechanical, push-based session continuity for Claude Code \u2014 durable HANDOFF.md digests, git-state checkpoints, and drift detection across sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clochard04",
+    "repoName": "handoff",
+    "repoBranch": "main"
+  },
+  "web-lifter/official-lifestyle-plugins": {
+    "name": "web-lifter/official-lifestyle-plugins",
+    "description": "Web Lifter official lifestyle plugin marketplace for Claude Code. 4 plugins, 18 skills across health, home, finance and productivity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "web-lifter",
+    "repoName": "official-lifestyle-plugins",
+    "repoBranch": "main"
+  },
+  "web-lifter/official-business-plugins": {
+    "name": "web-lifter/official-business-plugins",
+    "description": "Web Lifter official business plugin marketplace for Claude Code. 5 plugins, 121 skills across operations, data science, economics, marketing and startups.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "web-lifter",
+    "repoName": "official-business-plugins",
+    "repoBranch": "main"
+  },
+  "faizan007jr/local-llm-delegate": {
+    "name": "faizan007jr/local-llm-delegate",
+    "description": "Claude Code plugin that delegates simple, well-scoped tasks to a locally running LLM (Ollama, LM Studio, llama.cpp, vLLM) via MCP",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "faizan007jr",
+    "repoName": "local-llm-delegate",
+    "repoBranch": "main"
+  },
+  "mstephenn/taskloop": {
+    "name": "mstephenn/taskloop",
+    "description": "Unattended branch -> implement -> push -> PR -> automated review -> rework -> merge -> next-task loop, gated by /code-review. VCS: GitHub, Azure DevOps, or GitLab. Task source: docs/planning/, Jira, Asana, Monday.com,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mstephenn",
+    "repoName": "taskloop",
+    "repoBranch": "main"
+  },
+  "chacheum/chageun": {
+    "name": "chacheum/chageun",
+    "description": "For solo builders & vibe coders: a Claude Code workflow that keeps direction, verification & consistency from slipping \u2014 planning aids, adversarial gates, real run-through (Docker), design-system checks, and a promise...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chacheum",
+    "repoName": "chageun",
+    "repoBranch": "main"
   }
 }
