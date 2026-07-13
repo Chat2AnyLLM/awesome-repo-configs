@@ -19,7 +19,7 @@
   },
   "localplugins": {
     "name": "localplugins",
-    "description": "A community collection of Claude Code plugins. Bundles brand-forge (generate on-brand logos, social templates, and marketing graphics; vector runs locally, AI imagery opt-in), content-multiplier (turn one idea into on-brand, multi-channel, multi-language content), green-keeper (keep tests and types green as you code, with a no-fake-green guarantee), money-map (understand any bank or card CSV: categorize, summarize, and flag anomalies with deterministic math), and docpin (ground library code against your installed version by fetching version-matched, cited docs). Most run entirely on your machine; docpin fetches cited docs and brand-forge's AI imagery is opt-in.",
+    "description": "A community collection of Claude Code plugins. Bundles brand-forge (generate on-brand logos, social templates, and marketing graphics; vector runs locally, AI imagery opt-in), content-multiplier (turn one idea into on-brand, multi-channel, multi-language content), green-keeper (keep tests and types green as you code, with a no-fake-green guarantee), money-map (understand any bank or card CSV: categorize, summarize, and flag anomalies with deterministic math), docpin (ground library code against your installed version by fetching version-matched, cited docs), and cv-forge (turn one versioned resume into an ATS-friendly PDF, fully local). Most run entirely on your machine; docpin fetches cited docs and brand-forge's AI imagery is opt-in.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "localplugins",
