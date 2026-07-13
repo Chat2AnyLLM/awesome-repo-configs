@@ -9564,5 +9564,128 @@
         "name": "repo-kit",
         "branch": "main",
         "enabled": true
+    },
+    "gosom/google-maps-scraper": {
+        "owner": "gosom",
+        "name": "google-maps-scraper",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Agents365-ai/pi-plugin-cc": {
+        "owner": "Agents365-ai",
+        "name": "pi-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "naniiluja/ccf": {
+        "owner": "naniiluja",
+        "name": "ccf",
+        "branch": "main",
+        "enabled": true
+    },
+    "YujunZhou/tellonce": {
+        "owner": "YujunZhou",
+        "name": "tellonce",
+        "branch": "main",
+        "enabled": true
+    },
+    "AppVerk/av-marketplace": {
+        "owner": "AppVerk",
+        "name": "av-marketplace",
+        "branch": "master",
+        "enabled": true
+    },
+    "okuegow/agent-skills": {
+        "owner": "okuegow",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "akhilguptahub/fable-skill": {
+        "owner": "akhilguptahub",
+        "name": "fable-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "IvanMurzak/ai-game-dev-plugin": {
+        "owner": "IvanMurzak",
+        "name": "ai-game-dev-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "WRG-11/wrg-sigma-rules": {
+        "owner": "WRG-11",
+        "name": "wrg-sigma-rules",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tractorjuice/arckit-claude": {
+        "owner": "tractorjuice",
+        "name": "arckit-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LorcanChinnock/reflect": {
+        "owner": "LorcanChinnock",
+        "name": "reflect",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ndisisnd/kermit": {
+        "owner": "ndisisnd",
+        "name": "kermit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Sylad/claude-code-codex": {
+        "owner": "Sylad",
+        "name": "claude-code-codex",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "saurabhshuklagrowisto/saurabh-ai-systems": {
+        "owner": "saurabhshuklagrowisto",
+        "name": "saurabh-ai-systems",
+        "branch": "main",
+        "enabled": true
+    },
+    "itsgitz/agent-skills": {
+        "owner": "itsgitz",
+        "name": "agent-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "devjun7/LUDDITE_KR": {
+        "owner": "devjun7",
+        "name": "LUDDITE_KR",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "globalize-now/globalize-skills": {
+        "owner": "globalize-now",
+        "name": "globalize-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dss-time/repo-doctor-skills": {
+        "owner": "dss-time",
+        "name": "repo-doctor-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "fabienjuif/agentic-skills": {
+        "owner": "fabienjuif",
+        "name": "agentic-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

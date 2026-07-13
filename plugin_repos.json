@@ -8407,5 +8407,95 @@
     "repoOwner": "PBNZ",
     "repoName": "repo-kit",
     "repoBranch": "main"
+  },
+  "Agents365-ai/pi-plugin-cc": {
+    "name": "Agents365-ai/pi-plugin-cc",
+    "description": "Claude Code plugin that routes /pi:review, /pi:rescue, etc. through the Pi coding agent (default: DeepSeek V4). 1:1 fork of codex-plugin-cc.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Agents365-ai",
+    "repoName": "pi-plugin-cc",
+    "repoBranch": "main"
+  },
+  "naniiluja/ccf": {
+    "name": "naniiluja/ccf",
+    "description": "A context-first, spec-driven, strictly sequential development workflow plugin for Claude Code \u2014 keeps your CLAUDE.md/.claude spec always fresh and grounds every decision in Context7 + Microsoft Learn.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "naniiluja",
+    "repoName": "ccf",
+    "repoBranch": "main"
+  },
+  "YujunZhou/tellonce": {
+    "name": "YujunZhou/tellonce",
+    "description": "In-session compliance enforcement skill for Claude Code (paper Sec 6 dogfood). Per-user adaptive threshold + chaos-tested install/doctor/uninstall.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YujunZhou",
+    "repoName": "tellonce",
+    "repoBranch": "main"
+  },
+  "junoh-bg/claude-pokemon-pet": {
+    "name": "junoh-bg/claude-pokemon-pet",
+    "description": "A floating Pok\u00e9mon companion for Claude Code \u2014 reacts to your session, levels up and evolves as you complete tasks (macOS)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "junoh-bg",
+    "repoName": "claude-pokemon-pet",
+    "repoBranch": "main"
+  },
+  "AppVerk/av-marketplace": {
+    "name": "AppVerk/av-marketplace",
+    "description": "Plugins for Claude Code - code review, security scanning, web auditing, and developer workflows for Python, TypeScript, and PHP projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AppVerk",
+    "repoName": "av-marketplace",
+    "repoBranch": "master"
+  },
+  "okuegow/agent-skills": {
+    "name": "okuegow/agent-skills",
+    "description": "A collection of skills for Claude Code \u2014 installable via plugin marketplace. First skill: ebay-seller (full eBay.de selling workflow).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "okuegow",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "IvanMurzak/ai-game-dev-plugin": {
+    "name": "IvanMurzak/ai-game-dev-plugin",
+    "description": "Claude Code plugins for AI game development \u2014 Unreal, Unity & Godot. Let Claude create a project, install the engine plugin, log in, and open the editor automatically.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IvanMurzak",
+    "repoName": "ai-game-dev-plugin",
+    "repoBranch": "main"
+  },
+  "WRG-11/wrg-sigma-rules": {
+    "name": "WRG-11/wrg-sigma-rules",
+    "description": "Sigma detection rule writing, validation & conversion for Claude Code -- LLM-assisted + pySigma + multi-backend (Splunk, Elastic, Kibana, Wazuh). 70+ production rules + 3 MCP tools + 3 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WRG-11",
+    "repoName": "wrg-sigma-rules",
+    "repoBranch": "main"
+  },
+  "tractorjuice/arckit-claude": {
+    "name": "tractorjuice/arckit-claude",
+    "description": "ArcKit plugin for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tractorjuice",
+    "repoName": "arckit-claude",
+    "repoBranch": "main"
+  },
+  "fabienjuif/agentic-skills": {
+    "name": "fabienjuif/agentic-skills",
+    "description": "Personal collection of reusable Claude Code agentic skills, packaged as an installable plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fabienjuif",
+    "repoName": "agentic-skills",
+    "repoBranch": "main"
   }
 }

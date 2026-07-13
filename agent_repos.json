@@ -1892,5 +1892,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "tractorjuice/arckit-claude": {
+    "owner": "tractorjuice",
+    "name": "arckit-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "itsgitz/agent-skills": {
+    "owner": "itsgitz",
+    "name": "agent-skills",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
