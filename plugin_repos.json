@@ -8551,5 +8551,113 @@
     "repoOwner": "choiyounggi",
     "repoName": "groundwork",
     "repoBranch": "main"
+  },
+  "ronnythedev/dotnet-clean-architecture-skills": {
+    "name": "ronnythedev/dotnet-clean-architecture-skills",
+    "description": "27 AI-ready skills for generating production-grade .NET code \u2014 Clean Architecture, CQRS, DDD. Works with Claude Code, GitHub Copilot, and Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ronnythedev",
+    "repoName": "dotnet-clean-architecture-skills",
+    "repoBranch": "main"
+  },
+  "Raven-Scout/scout-plugin": {
+    "name": "Raven-Scout/scout-plugin",
+    "description": "Autonomous daily briefing for Claude Code that cross-checks Slack, Gmail, Calendar, Linear & GitHub \u2014 so nothing falls through the cracks, and you can trust what it surfaces.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Raven-Scout",
+    "repoName": "scout-plugin",
+    "repoBranch": "main"
+  },
+  "teambrilliant/dev-skills": {
+    "name": "teambrilliant/dev-skills",
+    "description": "Claude Code skills for the full dev lifecycle: decompose \u2192 shape \u2192 plan \u2192 implement \u2192 QA. Not methodology-specific.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "teambrilliant",
+    "repoName": "dev-skills",
+    "repoBranch": "main"
+  },
+  "mryll/skills": {
+    "name": "mryll/skills",
+    "description": "Portable agent skills for AI coding agents \u2014 works with Claude Code, OpenAI Codex CLI, Gemini CLI, Cursor & GitHub Copilot: code review, vertical-slice architecture, Go testing strategy, low cognitive-complexity & AGE...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mryll",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "johnisanerd/claude-skill-linkedin-post-engagement": {
+    "name": "johnisanerd/claude-skill-linkedin-post-engagement",
+    "description": "johnisanerd/claude-skill-linkedin-post-engagement \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnisanerd",
+    "repoName": "claude-skill-linkedin-post-engagement",
+    "repoBranch": "main"
+  },
+  "johnisanerd/claude-skill-linkedin-posts-scraper": {
+    "name": "johnisanerd/claude-skill-linkedin-posts-scraper",
+    "description": "johnisanerd/claude-skill-linkedin-posts-scraper \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnisanerd",
+    "repoName": "claude-skill-linkedin-posts-scraper",
+    "repoBranch": "main"
+  },
+  "chris-peterson/sextant": {
+    "name": "chris-peterson/sextant",
+    "description": "bridge.ai/sextant: AI-assisted, best-effort SPEC-driven development \u2014 write requirements first, reconcile them with the code either direction, graduate the winner",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chris-peterson",
+    "repoName": "sextant",
+    "repoBranch": "main"
+  },
+  "logicleap-labs/claude-plugins": {
+    "name": "logicleap-labs/claude-plugins",
+    "description": "Open Claude Code plugins for shipping AI output that's actually good. By Josh Matthews / LogicLeap Ltd.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "logicleap-labs",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "bufferBrew/craftsman": {
+    "name": "bufferBrew/craftsman",
+    "description": "Agent-discipline toolkit for Claude Code \u2014 minimal-diff coding, root-cause debugging, recurring-bug detection, and honest completion. Installable plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bufferBrew",
+    "repoName": "craftsman",
+    "repoBranch": "main"
+  },
+  "shuwarida/skills": {
+    "name": "shuwarida/skills",
+    "description": "Hand-crafted Claude Code skills born from real projects, not theory, distilled from my day-to-day work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shuwarida",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "sdsrss/loop-testing": {
+    "name": "sdsrss/loop-testing",
+    "description": "Autonomous QA loop for Claude Code & Codex \u2014 an AI agent uses your finished app like a real user in a sandbox, finds bugs, safely fixes them with regression tests, and loops until it converges. Hands-off, self-healing...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdsrss",
+    "repoName": "loop-testing",
+    "repoBranch": "main"
+  },
+  "nolte/claude-shared": {
+    "name": "nolte/claude-shared",
+    "description": "Shared Claude Code skills and agents for consistent development workflows across projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nolte",
+    "repoName": "claude-shared",
+    "repoBranch": "develop"
   }
 }

@@ -9781,5 +9781,119 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "aeonfun/soul.md": {
+        "owner": "aeonfun",
+        "name": "soul.md",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chengzhongwei/Prompt-sensei": {
+        "owner": "chengzhongwei",
+        "name": "Prompt-sensei",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ronnythedev/dotnet-clean-architecture-skills": {
+        "owner": "ronnythedev",
+        "name": "dotnet-clean-architecture-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Raven-Scout/scout-plugin": {
+        "owner": "Raven-Scout",
+        "name": "scout-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "teambrilliant/dev-skills": {
+        "owner": "teambrilliant",
+        "name": "dev-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mryll/skills": {
+        "owner": "mryll",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rogue-socket/system-design-tutor": {
+        "owner": "rogue-socket",
+        "name": "system-design-tutor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mimukit/skills": {
+        "owner": "mimukit",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johnisanerd/claude-skill-linkedin-post-engagement": {
+        "owner": "johnisanerd",
+        "name": "claude-skill-linkedin-post-engagement",
+        "branch": "main",
+        "enabled": true
+    },
+    "johnisanerd/claude-skill-linkedin-posts-scraper": {
+        "owner": "johnisanerd",
+        "name": "claude-skill-linkedin-posts-scraper",
+        "branch": "main",
+        "enabled": true
+    },
+    "chris-peterson/sextant": {
+        "owner": "chris-peterson",
+        "name": "sextant",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "riccardogiorato/rate-limit-this": {
+        "owner": "riccardogiorato",
+        "name": "rate-limit-this",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "logicleap-labs/claude-plugins": {
+        "owner": "logicleap-labs",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "bufferBrew/craftsman": {
+        "owner": "bufferBrew",
+        "name": "craftsman",
+        "branch": "main",
+        "enabled": true
+    },
+    "shuwarida/skills": {
+        "owner": "shuwarida",
+        "name": "skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sdsrss/loop-testing": {
+        "owner": "sdsrss",
+        "name": "loop-testing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nolte/claude-shared": {
+        "owner": "nolte",
+        "name": "claude-shared",
+        "branch": "develop",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
