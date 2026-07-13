@@ -9687,5 +9687,99 @@
         "name": "agentic-skills",
         "branch": "main",
         "enabled": true
+    },
+    "tizzy916/humanities-writing-companion": {
+        "owner": "tizzy916",
+        "name": "humanities-writing-companion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lacion/fleet-deck": {
+        "owner": "lacion",
+        "name": "fleet-deck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DmitriyYukhanov/claude-plugins": {
+        "owner": "DmitriyYukhanov",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Wunderlandmedia/launchworthy": {
+        "owner": "Wunderlandmedia",
+        "name": "launchworthy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omar-y-abdi/furl-ctx": {
+        "owner": "omar-y-abdi",
+        "name": "furl-ctx",
+        "branch": "main",
+        "enabled": true
+    },
+    "Da6ka/tech-sourcing-skill": {
+        "owner": "Da6ka",
+        "name": "tech-sourcing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "simiao-cavalcante/edital-verticalizado": {
+        "owner": "simiao-cavalcante",
+        "name": "edital-verticalizado",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "medy-gribkov/arcana": {
+        "owner": "medy-gribkov",
+        "name": "arcana",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sindev08/react-principles-skills": {
+        "owner": "sindev08",
+        "name": "react-principles-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "parasvishwa/beautify-flutter": {
+        "owner": "parasvishwa",
+        "name": "beautify-flutter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "davidbaines/claude_configs": {
+        "owner": "davidbaines",
+        "name": "claude_configs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alncat/opus-et-agent": {
+        "owner": "alncat",
+        "name": "opus-et-agent",
+        "branch": "main",
+        "enabled": true
+    },
+    "choiyounggi/groundwork": {
+        "owner": "choiyounggi",
+        "name": "groundwork",
+        "branch": "main",
+        "enabled": true
+    },
+    "be-realdeveloper/copyguard": {
+        "owner": "be-realdeveloper",
+        "name": "copyguard",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

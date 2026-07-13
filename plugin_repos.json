@@ -8497,5 +8497,59 @@
     "repoOwner": "fabienjuif",
     "repoName": "agentic-skills",
     "repoBranch": "main"
+  },
+  "lacion/fleet-deck": {
+    "name": "lacion/fleet-deck",
+    "description": "Mission control for every Claude Code session on your machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lacion",
+    "repoName": "fleet-deck",
+    "repoBranch": "main"
+  },
+  "DmitriyYukhanov/claude-plugins": {
+    "name": "DmitriyYukhanov/claude-plugins",
+    "description": "Personal collection of Claude Code plugins and skills: development workflows, cross-model review, issue-to-PR automation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DmitriyYukhanov",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Wunderlandmedia/launchworthy": {
+    "name": "Wunderlandmedia/launchworthy",
+    "description": "A Claude Code skill that plays bouncer at the door of production: audits AI-built apps (Lovable, Bolt, v0, Cursor) across 5 domains and hands you a scored  punch list with copy-paste fixes. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Wunderlandmedia",
+    "repoName": "launchworthy",
+    "repoBranch": "main"
+  },
+  "omar-y-abdi/furl-ctx": {
+    "name": "omar-y-abdi/furl-ctx",
+    "description": "Context compression for AI agents \u2014 cut Claude Code token costs with retrievable CCR compression. Rust core + Python API, Claude Code plugin, MCP server. PyPI: furl-ctx",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "omar-y-abdi",
+    "repoName": "furl-ctx",
+    "repoBranch": "main"
+  },
+  "medy-gribkov/arcana": {
+    "name": "medy-gribkov/arcana",
+    "description": "Universal AI development toolkit. 74 production-ready skills for every coding agent. Works with Claude Code, Cursor, Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "medy-gribkov",
+    "repoName": "arcana",
+    "repoBranch": "master"
+  },
+  "choiyounggi/groundwork": {
+    "name": "choiyounggi/groundwork",
+    "description": "Safe-by-default Claude Code harness starter pack \u2014 local guardrails (block/ask on dangerous shell commands + redacted audit log) and a wiki-grounded quality loop. No cloud, no API key, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "choiyounggi",
+    "repoName": "groundwork",
+    "repoBranch": "main"
   }
 }

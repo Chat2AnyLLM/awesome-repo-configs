@@ -1906,5 +1906,12 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "davidbaines/claude_configs": {
+    "owner": "davidbaines",
+    "name": "claude_configs",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
