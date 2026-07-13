@@ -9472,5 +9472,97 @@
         "name": "stackbrief",
         "branch": "main",
         "enabled": true
+    },
+    "zilliztech/memsearch": {
+        "owner": "zilliztech",
+        "name": "memsearch",
+        "branch": "main",
+        "enabled": true
+    },
+    "noluyorAbi/claude-code-recap": {
+        "owner": "noluyorAbi",
+        "name": "claude-code-recap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "betmoar/cc-proxy-plugin": {
+        "owner": "betmoar",
+        "name": "cc-proxy-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fyzel/claude-skills": {
+        "owner": "Fyzel",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "undeemed/ocd": {
+        "owner": "undeemed",
+        "name": "ocd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "undeemed/walkthrough-kit": {
+        "owner": "undeemed",
+        "name": "walkthrough-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Nero1688/claude-academic-skills": {
+        "owner": "Nero1688",
+        "name": "claude-academic-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fantasybz/trip-pwa-skills": {
+        "owner": "fantasybz",
+        "name": "trip-pwa-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jairo19993062/stitch-skills": {
+        "owner": "jairo19993062",
+        "name": "stitch-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "howshannon/trust-issues": {
+        "owner": "howshannon",
+        "name": "trust-issues",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "by-carlos/claude-plugins": {
+        "owner": "by-carlos",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "bogheorghiu/ex-cog-dev": {
+        "owner": "bogheorghiu",
+        "name": "ex-cog-dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "ssskay/claude-skills": {
+        "owner": "ssskay",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "PBNZ/repo-kit": {
+        "owner": "PBNZ",
+        "name": "repo-kit",
+        "branch": "main",
+        "enabled": true
     }
 }

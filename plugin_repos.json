@@ -8317,5 +8317,95 @@
     "repoOwner": "wow-look-at-my",
     "repoName": "cc-marketplace",
     "repoBranch": "master"
+  },
+  "zilliztech/memsearch": {
+    "name": "zilliztech/memsearch",
+    "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zilliztech",
+    "repoName": "memsearch",
+    "repoBranch": "main"
+  },
+  "noluyorAbi/claude-code-recap": {
+    "name": "noluyorAbi/claude-code-recap",
+    "description": "Browse every recent Claude Code session across all your projects and jump back into any of them. Shows project path, summary, git branch, model, turn count, and a ready-to-paste resume command. --open re-opens a whole...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "noluyorAbi",
+    "repoName": "claude-code-recap",
+    "repoBranch": "main"
+  },
+  "betmoar/cc-proxy-plugin": {
+    "name": "betmoar/cc-proxy-plugin",
+    "description": "A Claude Code plugin + local proxy that lets you use GLM (Z.ai), OpenRouter, and Claude side-by-side in one session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "betmoar",
+    "repoName": "cc-proxy-plugin",
+    "repoBranch": "main"
+  },
+  "Fyzel/claude-skills": {
+    "name": "Fyzel/claude-skills",
+    "description": "A collection of Claude skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fyzel",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "undeemed/ocd": {
+    "name": "undeemed/ocd",
+    "description": "Claude Code plugin: zero-tolerance audit-and-fix pass for visual polish and code quality. Measures rendered output, fixes every violation, reports tersely.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "undeemed",
+    "repoName": "ocd",
+    "repoBranch": "main"
+  },
+  "undeemed/walkthrough-kit": {
+    "name": "undeemed/walkthrough-kit",
+    "description": "Claude Code plugin: spoken walkthrough kits for code demos inside isolated grader sandboxes. Code pointers + portable commands, no diagrams, no local paths.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "undeemed",
+    "repoName": "walkthrough-kit",
+    "repoBranch": "main"
+  },
+  "by-carlos/claude-plugins": {
+    "name": "by-carlos/claude-plugins",
+    "description": "Claude Code plugin marketplace \u2014 run big projects as many small, resumable sessions instead of one huge one.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "by-carlos",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "bogheorghiu/ex-cog-dev": {
+    "name": "bogheorghiu/ex-cog-dev",
+    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. research-toolkit \u2014 self-checking investigation & verification. makers-toolkit \u2014 build-discipline & prompt-design. vasana-system \u2014 cross-session pattern memory...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bogheorghiu",
+    "repoName": "ex-cog-dev",
+    "repoBranch": "main"
+  },
+  "ssskay/claude-skills": {
+    "name": "ssskay/claude-skills",
+    "description": "One-line-install Claude Code plugin marketplace bundling Sara Kay's Claude skills: Internet Archive web archiving, purchase & inbox cataloging, and Wikipedia source vetting.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ssskay",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "PBNZ/repo-kit": {
+    "name": "PBNZ/repo-kit",
+    "description": "RepoKit \u2014 a reusable repo standard + /new-repo scaffolder, packaged as a Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PBNZ",
+    "repoName": "repo-kit",
+    "repoBranch": "main"
   }
 }
