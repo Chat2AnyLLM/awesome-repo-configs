@@ -8659,5 +8659,122 @@
     "repoOwner": "nolte",
     "repoName": "claude-shared",
     "repoBranch": "develop"
+  },
+  "proyecto26/autoresearch-ai-plugin": {
+    "name": "proyecto26/autoresearch-ai-plugin",
+    "description": "AI Agent plugin for Autoresearch with AI (Claude, OpenClaw, etc) to improve anything!",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "proyecto26",
+    "repoName": "autoresearch-ai-plugin",
+    "repoBranch": "main"
+  },
+  "dzivkovi/video-intel": {
+    "name": "dzivkovi/video-intel",
+    "description": "dzivkovi/video-intel \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dzivkovi",
+    "repoName": "video-intel",
+    "repoBranch": "main"
+  },
+  "widnyana/eyay-toolkits": {
+    "name": "widnyana/eyay-toolkits",
+    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "widnyana",
+    "repoName": "eyay-toolkits",
+    "repoBranch": "main"
+  },
+  "chipfighter/coding-discipline": {
+    "name": "chipfighter/coding-discipline",
+    "description": "coding-discipline \u2014\u2014 \u901a\u7528\u7f16\u7a0b\u7eaa\u5f8b skill \u96c6,\u501f\u9274 superpowers\u3001\u5168\u4e2d\u6587",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chipfighter",
+    "repoName": "coding-discipline",
+    "repoBranch": "main"
+  },
+  "KKenny0/Tracework": {
+    "name": "KKenny0/Tracework",
+    "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KKenny0",
+    "repoName": "Tracework",
+    "repoBranch": "main"
+  },
+  "shuji-bonji/claude-plugins": {
+    "name": "shuji-bonji/claude-plugins",
+    "description": "shuji-bonji \u304c\u516c\u958b\u3059\u308b Claude \u62e1\u5f35 (Skill / MCP server / slash command / sub-agent) \u306e marketplace\u3002Claude Code \u3068 Cowork \u306e\u4e21\u65b9\u304b\u3089 /plugin install \u3067\u5229\u7528\u3067\u304d\u307e\u3059\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shuji-bonji",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "chjoel0621/vibespec": {
+    "name": "chjoel0621/vibespec",
+    "description": "Vibe coding for product planning. Generate and edit validated PRDs, feature specs, information architecture, and user flows from one JSON source of truth.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chjoel0621",
+    "repoName": "vibespec",
+    "repoBranch": "main"
+  },
+  "DaizeDong/buy-me-a-car": {
+    "name": "DaizeDong/buy-me-a-car",
+    "description": "Claude Code plugin: end-to-end used car buying \u2014 multi-site research, mass dealer outreach, OTD negotiation with 50-state fee data, CARFAX analysis, decision tracking",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DaizeDong",
+    "repoName": "buy-me-a-car",
+    "repoBranch": "main"
+  },
+  "glitchwerks/claude-prospector": {
+    "name": "glitchwerks/claude-prospector",
+    "description": "Claude Code efficiency and hygiene toolkit \u2014 token spend analysis across the 5h / 7d / Sonnet-7d billing windows plus configuration overlap auditing. Ships as a Claude Code plugin with three skills (usage-analysis, us...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "glitchwerks",
+    "repoName": "claude-prospector",
+    "repoBranch": "main"
+  },
+  "ali-demirbas/claude-lifecycle": {
+    "name": "ali-demirbas/claude-lifecycle",
+    "description": "Data-adaptive lifecycle marketing engine for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ali-demirbas",
+    "repoName": "claude-lifecycle",
+    "repoBranch": "main"
+  },
+  "kirti34n/unified-mem": {
+    "name": "kirti34n/unified-mem",
+    "description": "Cross-repo evolving memory for Claude Code notes that learn from outcomes, self-invalidate on code change, and show their work on a live dashboard",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kirti34n",
+    "repoName": "unified-mem",
+    "repoBranch": "main"
+  },
+  "Antheurus/sshepherd": {
+    "name": "Antheurus/sshepherd",
+    "description": "Zero-knowledge SSH ops CLI for Claude Code and any agent/terminal \u2014 server checks, docker/systemd control, read-only Postgres introspection, and declarative deploys, without the agent ever seeing a password, key, host...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Antheurus",
+    "repoName": "sshepherd",
+    "repoBranch": "main"
+  },
+  "1989v/ai": {
+    "name": "1989v/ai",
+    "description": "Claude Code plugin collection: AI harness engineering (SDD pipeline), API debugger, content analyzer, submodule manager.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "1989v",
+    "repoName": "ai",
+    "repoBranch": "main"
   }
 }

@@ -1927,5 +1927,26 @@
     "branch": "develop",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "tdimino/claude-code-minoan": {
+    "owner": "tdimino",
+    "name": "claude-code-minoan",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "proyecto26/autoresearch-ai-plugin": {
+    "owner": "proyecto26",
+    "name": "autoresearch-ai-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ali-demirbas/claude-lifecycle": {
+    "owner": "ali-demirbas",
+    "name": "claude-lifecycle",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

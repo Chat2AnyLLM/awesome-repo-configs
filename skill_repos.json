@@ -9902,5 +9902,104 @@
         "branch": "develop",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "smixs/humanizer-ru": {
+        "owner": "smixs",
+        "name": "humanizer-ru",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tdimino/claude-code-minoan": {
+        "owner": "tdimino",
+        "name": "claude-code-minoan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "proyecto26/autoresearch-ai-plugin": {
+        "owner": "proyecto26",
+        "name": "autoresearch-ai-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dzivkovi/video-intel": {
+        "owner": "dzivkovi",
+        "name": "video-intel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "widnyana/eyay-toolkits": {
+        "owner": "widnyana",
+        "name": "eyay-toolkits",
+        "branch": "main",
+        "enabled": true
+    },
+    "chipfighter/coding-discipline": {
+        "owner": "chipfighter",
+        "name": "coding-discipline",
+        "branch": "main",
+        "enabled": true
+    },
+    "KKenny0/Tracework": {
+        "owner": "KKenny0",
+        "name": "Tracework",
+        "branch": "main",
+        "enabled": true
+    },
+    "chjoel0621/vibespec": {
+        "owner": "chjoel0621",
+        "name": "vibespec",
+        "branch": "main",
+        "enabled": true
+    },
+    "DaizeDong/buy-me-a-car": {
+        "owner": "DaizeDong",
+        "name": "buy-me-a-car",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "glitchwerks/claude-prospector": {
+        "owner": "glitchwerks",
+        "name": "claude-prospector",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ali-demirbas/claude-lifecycle": {
+        "owner": "ali-demirbas",
+        "name": "claude-lifecycle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/market-intel": {
+        "owner": "DaizeDong",
+        "name": "market-intel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Antheurus/sshepherd": {
+        "owner": "Antheurus",
+        "name": "sshepherd",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DeltaCorvi/Claude-Skills-for-Smart-Crows": {
+        "owner": "DeltaCorvi",
+        "name": "Claude-Skills-for-Smart-Crows",
+        "branch": "main",
+        "enabled": true
+    },
+    "1989v/ai": {
+        "owner": "1989v",
+        "name": "ai",
+        "branch": "main",
+        "enabled": true
     }
 }
