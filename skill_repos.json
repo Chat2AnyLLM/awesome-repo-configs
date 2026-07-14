@@ -10001,5 +10001,113 @@
         "name": "ai",
         "branch": "main",
         "enabled": true
+    },
+    "ZeKaiNie/universal-examprep-skill": {
+        "owner": "ZeKaiNie",
+        "name": "universal-examprep-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KerberosClaw/kc_ai_skills": {
+        "owner": "KerberosClaw",
+        "name": "kc_ai_skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "drpwchen/paper-review-and-digest": {
+        "owner": "drpwchen",
+        "name": "paper-review-and-digest",
+        "branch": "main",
+        "enabled": true
+    },
+    "oaris-dev/diviops": {
+        "owner": "oaris-dev",
+        "name": "diviops",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zx029w/zhuangxiu-skills": {
+        "owner": "zx029w",
+        "name": "zhuangxiu-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "HideinbushZY/boss-zhipin-skill": {
+        "owner": "HideinbushZY",
+        "name": "boss-zhipin-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "daliaabbruciati/job-application-tracker-SKILL": {
+        "owner": "daliaabbruciati",
+        "name": "job-application-tracker-SKILL",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thdelmas/consciousness-loop": {
+        "owner": "thdelmas",
+        "name": "consciousness-loop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bGiaHuy/vietnamese-docs-style": {
+        "owner": "bGiaHuy",
+        "name": "vietnamese-docs-style",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "unbrainedgmbh/pluno-claude-plugin": {
+        "owner": "unbrainedgmbh",
+        "name": "pluno-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "moonlight-lupin/data-toolkit": {
+        "owner": "moonlight-lupin",
+        "name": "data-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "softwaresoftware-dev/daemon-manager": {
+        "owner": "softwaresoftware-dev",
+        "name": "daemon-manager",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shuji-bonji/spec-compliance-skills": {
+        "owner": "shuji-bonji",
+        "name": "spec-compliance-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xplusplusai/autoxpp-marketplace": {
+        "owner": "xplusplusai",
+        "name": "autoxpp-marketplace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "choiyounggi/dev-loop": {
+        "owner": "choiyounggi",
+        "name": "dev-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lepockyio-ops/biliwatch": {
+        "owner": "lepockyio-ops",
+        "name": "biliwatch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

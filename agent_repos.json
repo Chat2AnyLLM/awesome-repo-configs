@@ -1948,5 +1948,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "choiyounggi/dev-loop": {
+    "owner": "choiyounggi",
+    "name": "dev-loop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

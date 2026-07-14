@@ -8776,5 +8776,68 @@
     "repoOwner": "1989v",
     "repoName": "ai",
     "repoBranch": "main"
+  },
+  "oaris-dev/diviops": {
+    "name": "oaris-dev/diviops",
+    "description": "AI harness for WordPress site authoring \u2014 Divi-native today, WordPress-wide by design. MCP server + WP plugin + Claude skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oaris-dev",
+    "repoName": "diviops",
+    "repoBranch": "main"
+  },
+  "unbrainedgmbh/pluno-claude-plugin": {
+    "name": "unbrainedgmbh/pluno-claude-plugin",
+    "description": "Official Pluno plugin marketplace for Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "unbrainedgmbh",
+    "repoName": "pluno-claude-plugin",
+    "repoBranch": "main"
+  },
+  "moonlight-lupin/data-toolkit": {
+    "name": "moonlight-lupin/data-toolkit",
+    "description": "Local-first data prep for finance & ops: extract, tidy, reconcile, analyse, visualise \u2014 deterministic engines, drafts for review. From Phronesis Applied.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moonlight-lupin",
+    "repoName": "data-toolkit",
+    "repoBranch": "main"
+  },
+  "yousiki/claude-plugins": {
+    "name": "yousiki/claude-plugins",
+    "description": "A personal marketplace of Claude Code plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yousiki",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "ZaunEkko/claude-plugins": {
+    "name": "ZaunEkko/claude-plugins",
+    "description": "Reusable Claude Code plugins, hooks, skills, and compatibility distributions for Git workflows, safe automation, and developer productivity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ZaunEkko",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "xplusplusai/autoxpp-marketplace": {
+    "name": "xplusplusai/autoxpp-marketplace",
+    "description": "xplusplusai/autoxpp-marketplace \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xplusplusai",
+    "repoName": "autoxpp-marketplace",
+    "repoBranch": "main"
+  },
+  "choiyounggi/dev-loop": {
+    "name": "choiyounggi/dev-loop",
+    "description": "Claude Code plugin \u2014 a wiki-grounded implementation loop: planning is fixed to a semantic-layer wiki (wiki-plan), execution runs one TDD/PDCA/Reflexion verification loop citing the exact wiki pages it applies, and an...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "choiyounggi",
+    "repoName": "dev-loop",
+    "repoBranch": "main"
   }
 }
