@@ -1,4 +1,11 @@
 {
+    "0xsarwagya/ontoly": {
+        "owner": "0xsarwagya",
+        "name": "ontoly",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "nusantara-ventures/goldprice-skills": {
         "owner": "nusantara-ventures",
         "name": "goldprice-skills",
