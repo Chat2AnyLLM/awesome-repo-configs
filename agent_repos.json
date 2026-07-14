@@ -1955,5 +1955,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "uwuclxdy/agenticat": {
+    "owner": "uwuclxdy",
+    "name": "agenticat",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sequant-io/sequant": {
+    "owner": "sequant-io",
+    "name": "sequant",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "LoomA8osAgent/a8-loom-coordinator": {
+    "owner": "LoomA8osAgent",
+    "name": "a8-loom-coordinator",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sdsrss/loop_eng": {
+    "owner": "sdsrss",
+    "name": "loop_eng",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

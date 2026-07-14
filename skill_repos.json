@@ -10109,5 +10109,99 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "tuanle96/mcp-odoo": {
+        "owner": "tuanle96",
+        "name": "mcp-odoo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HMAKT99/AKF": {
+        "owner": "HMAKT99",
+        "name": "AKF",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mickpletcher/AI-Skills": {
+        "owner": "mickpletcher",
+        "name": "AI-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "uwuclxdy/agenticat": {
+        "owner": "uwuclxdy",
+        "name": "agenticat",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sauravvarma/garage": {
+        "owner": "sauravvarma",
+        "name": "garage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HiMyNameIsDavidKim/prompt-triwizard-skill": {
+        "owner": "HiMyNameIsDavidKim",
+        "name": "prompt-triwizard-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zuoyou12/longzu.skillls": {
+        "owner": "zuoyou12",
+        "name": "longzu.skillls",
+        "branch": "master",
+        "enabled": true
+    },
+    "sequant-io/sequant": {
+        "owner": "sequant-io",
+        "name": "sequant",
+        "branch": "main",
+        "enabled": true
+    },
+    "huguryildiz/ieee-acm-paper-writing": {
+        "owner": "huguryildiz",
+        "name": "ieee-acm-paper-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mondaymetime/creative-sparring": {
+        "owner": "mondaymetime",
+        "name": "creative-sparring",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sdsrss/loop_eng": {
+        "owner": "sdsrss",
+        "name": "loop_eng",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Empire-Business/omnx-code": {
+        "owner": "Empire-Business",
+        "name": "omnx-code",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lorsabyan/claude-advisor-executor-skill": {
+        "owner": "lorsabyan",
+        "name": "claude-advisor-executor-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Martin-Code202/skills": {
+        "owner": "Martin-Code202",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

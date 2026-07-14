@@ -8839,5 +8839,77 @@
     "repoOwner": "choiyounggi",
     "repoName": "dev-loop",
     "repoBranch": "main"
+  },
+  "HMAKT99/AKF": {
+    "name": "HMAKT99/AKF",
+    "description": "Trust metadata for AI agents \u2014 a stamp costs ~15 tokens, re-verifying costs 15,000. Agents stamp what they verify; the next agent runs 'akf check' and builds on it. pip install akf",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HMAKT99",
+    "repoName": "AKF",
+    "repoBranch": "main"
+  },
+  "uwuclxdy/agenticat": {
+    "name": "uwuclxdy/agenticat",
+    "description": "Some of my skills and agents compatible with many AI coding tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uwuclxdy",
+    "repoName": "agenticat",
+    "repoBranch": "main"
+  },
+  "sauravvarma/garage": {
+    "name": "sauravvarma/garage",
+    "description": "Six-skill spec-driven engineering pod for Claude Code \u2014 scaffold specs, research, discover direction, generate design variants, implement, and visually verify, with hard handoffs that prevent silent assumptions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sauravvarma",
+    "repoName": "garage",
+    "repoBranch": "main"
+  },
+  "HiMyNameIsDavidKim/prompt-triwizard-skill": {
+    "name": "HiMyNameIsDavidKim/prompt-triwizard-skill",
+    "description": "LLM prompt engineering for agent pipelines \u00b7 Write, refine, and evaluate \u00b7 3 output styles: Anthropic \u00b7 Google \u00b7 OpenAI \u00b7 Works with Claude Code, Cursor, Codex CLI, Gemini CLI & more \u00b7 MIT",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HiMyNameIsDavidKim",
+    "repoName": "prompt-triwizard-skill",
+    "repoBranch": "main"
+  },
+  "sequant-io/sequant": {
+    "name": "sequant-io/sequant",
+    "description": "AI coding agent orchestrator \u2014 resolve GitHub issues end-to-end with isolated git worktrees, quality gates, and an MCP server. Works with Claude Code or Aider.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sequant-io",
+    "repoName": "sequant",
+    "repoBranch": "main"
+  },
+  "LoomA8osAgent/a8-loom-coordinator": {
+    "name": "LoomA8osAgent/a8-loom-coordinator",
+    "description": "Governance, skills, and hooks stack for running Claude (or any capable LLM) as an autonomous senior engineer on any software project \u2014 frontend or backend, any language. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LoomA8osAgent",
+    "repoName": "a8-loom-coordinator",
+    "repoBranch": "master"
+  },
+  "sdsrss/loop_eng": {
+    "name": "sdsrss/loop_eng",
+    "description": "Loop Engineering plugin for Claude Code: /autoloop drives tasks to completion via builder/checker cycles; /polish iteratively raises code quality via adversarial review. Stop-hook enforced, six stop rules, install via...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdsrss",
+    "repoName": "loop_eng",
+    "repoBranch": "main"
+  },
+  "tanrendev/jig": {
+    "name": "tanrendev/jig",
+    "description": "My Claude Code toolkit. Currently guard: hooks that scan agent-driven package installs before they run.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tanrendev",
+    "repoName": "jig",
+    "repoBranch": "master"
   }
 }
