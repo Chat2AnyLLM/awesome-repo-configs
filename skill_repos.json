@@ -10203,5 +10203,113 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "prime-radiant-inc/greenfield": {
+        "owner": "prime-radiant-inc",
+        "name": "greenfield",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yaniv-golan/pretext-skill": {
+        "owner": "yaniv-golan",
+        "name": "pretext-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aznatkoiny/zAI-Skills": {
+        "owner": "Aznatkoiny",
+        "name": "zAI-Skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "cskwork/supergoal-skill": {
+        "owner": "cskwork",
+        "name": "supergoal-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "air-gapped/skills": {
+        "owner": "air-gapped",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "slogsdon/skills-design": {
+        "owner": "slogsdon",
+        "name": "skills-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "biggora/dev-team": {
+        "owner": "biggora",
+        "name": "dev-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Calliope-Editor/writing-skills": {
+        "owner": "Calliope-Editor",
+        "name": "writing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cs-shadowbq/claude-context": {
+        "owner": "cs-shadowbq",
+        "name": "claude-context",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CitiesSkylinesModding/agents-plugins": {
+        "owner": "CitiesSkylinesModding",
+        "name": "agents-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "a-lottes/aSPARK": {
+        "owner": "a-lottes",
+        "name": "aSPARK",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rayapatiranjithai/prompt-analyzer": {
+        "owner": "rayapatiranjithai",
+        "name": "prompt-analyzer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adelaidasofia/claude-daily-journal": {
+        "owner": "adelaidasofia",
+        "name": "claude-daily-journal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vibhorxpandey/Aurelius": {
+        "owner": "vibhorxpandey",
+        "name": "Aurelius",
+        "branch": "main",
+        "enabled": true
+    },
+    "MarkkaMiikka/claude-finnish-skills": {
+        "owner": "MarkkaMiikka",
+        "name": "claude-finnish-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ivuorinen/skills": {
+        "owner": "ivuorinen",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

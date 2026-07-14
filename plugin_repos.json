@@ -8911,5 +8911,104 @@
     "repoOwner": "tanrendev",
     "repoName": "jig",
     "repoBranch": "master"
+  },
+  "prime-radiant-inc/greenfield": {
+    "name": "prime-radiant-inc/greenfield",
+    "description": "A Claude Code plugin that reverse-engineers clean behavioral specs, test vectors, and acceptance criteria from any codebase, producing a provenance trail so a fresh team can reimplement without inheriting the original...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "prime-radiant-inc",
+    "repoName": "greenfield",
+    "repoBranch": "main"
+  },
+  "yaniv-golan/pretext-skill": {
+    "name": "yaniv-golan/pretext-skill",
+    "description": "AI skill for @chenglou/pretext \u2014 exact text metrics without DOM reflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yaniv-golan",
+    "repoName": "pretext-skill",
+    "repoBranch": "main"
+  },
+  "Aznatkoiny/zAI-Skills": {
+    "name": "Aznatkoiny/zAI-Skills",
+    "description": "Claude Code plugin marketplace \u2014 AI/ML toolkit, consulting frameworks, and real estate investment analysis",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aznatkoiny",
+    "repoName": "zAI-Skills",
+    "repoBranch": "master"
+  },
+  "air-gapped/skills": {
+    "name": "air-gapped/skills",
+    "description": "Claude Code plugin marketplace \u2014 40+ installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, GPU host bring-up, observability, security, and agent workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "air-gapped",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "slogsdon/skills-design": {
+    "name": "slogsdon/skills-design",
+    "description": "Twenty-three brand-agnostic design templates for Claude Code: LinkedIn, Instagram, YouTube, Twitch, blog hero, podcast.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slogsdon",
+    "repoName": "skills-design",
+    "repoBranch": "main"
+  },
+  "biggora/dev-team": {
+    "name": "biggora/dev-team",
+    "description": "Claude Code plugin that orchestrates a team of specialized AI agents for full-cycle software development with inline quality gates",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "biggora",
+    "repoName": "dev-team",
+    "repoBranch": "main"
+  },
+  "CitiesSkylinesModding/agents-plugins": {
+    "name": "CitiesSkylinesModding/agents-plugins",
+    "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CitiesSkylinesModding",
+    "repoName": "agents-plugins",
+    "repoBranch": "main"
+  },
+  "a-lottes/aSPARK": {
+    "name": "a-lottes/aSPARK",
+    "description": "A gated agile delivery process for Claude Code: an AI product team (PO, Designer, EM, Reviewer, QA, Release) where every feature must pass a quality gate before it moves on \u2014 including real-browser QA.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "a-lottes",
+    "repoName": "aSPARK",
+    "repoBranch": "main"
+  },
+  "rayapatiranjithai/prompt-analyzer": {
+    "name": "rayapatiranjithai/prompt-analyzer",
+    "description": "Live prompt-quality coaching for Claude Code \u2014 scores your prompts against documented prompt-engineering standards, with per-session stats and a session report.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rayapatiranjithai",
+    "repoName": "prompt-analyzer",
+    "repoBranch": "main"
+  },
+  "adelaidasofia/claude-daily-journal": {
+    "name": "adelaidasofia/claude-daily-journal",
+    "description": "Conversational daily journaling for Claude Code. 34-floor emotional altitude scale, optional advisory panel, Obsidian markdown.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adelaidasofia",
+    "repoName": "claude-daily-journal",
+    "repoBranch": "main"
+  },
+  "ivuorinen/skills": {
+    "name": "ivuorinen/skills",
+    "description": "My assortment of Claude Code skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ivuorinen",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }

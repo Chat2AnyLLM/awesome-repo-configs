@@ -1983,5 +1983,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "prime-radiant-inc/greenfield": {
+    "owner": "prime-radiant-inc",
+    "name": "greenfield",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "cskwork/supergoal-skill": {
+    "owner": "cskwork",
+    "name": "supergoal-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "biggora/dev-team": {
+    "owner": "biggora",
+    "name": "dev-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "a-lottes/aSPARK": {
+    "owner": "a-lottes",
+    "name": "aSPARK",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ivuorinen/skills": {
+    "owner": "ivuorinen",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
