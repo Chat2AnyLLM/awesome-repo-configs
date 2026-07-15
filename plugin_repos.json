@@ -9010,5 +9010,77 @@
     "repoOwner": "ivuorinen",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "Wolfgangrush/indian-hc-drafting-litigation": {
+    "name": "Wolfgangrush/indian-hc-drafting-litigation",
+    "description": "Open-source Claude-compatible plugin for drafting pleadings across all 25 Indian High Courts via bench-config \u2014 Bombay deep + 16 researched exemplars + 8 stubs, six-agent pipeline + 13 case-type skills. Second in the...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Wolfgangrush",
+    "repoName": "indian-hc-drafting-litigation",
+    "repoBranch": "main"
+  },
+  "anthonymaley/MusicTUI": {
+    "name": "anthonymaley/MusicTUI",
+    "description": "MusicTUI \u2014 Apple Music TUI, CLI and Claude Code skill for macOS: verified multi-room AirPlay, library browsing with real cover art, venue EQ, natural-language control",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anthonymaley",
+    "repoName": "MusicTUI",
+    "repoBranch": "main"
+  },
+  "vdemkiv/taskPlane": {
+    "name": "vdemkiv/taskPlane",
+    "description": "vdemkiv/taskPlane \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vdemkiv",
+    "repoName": "taskPlane",
+    "repoBranch": "main"
+  },
+  "deokjinlog/intent-locked-workflow": {
+    "name": "deokjinlog/intent-locked-workflow",
+    "description": "\uae30\ud68d \uc758\ub3c4\ub97c \uace0\uc815\ud558\uace0, \uadf8 \uc704\uc5d0\uc11c\ub9cc \ucf54\ub4dc\uac00 \uc790\ub780\ub2e4 \u2014 \uae30\ud68d\u00b7\uc124\uacc4\u00b7\uacc4\ud68d\u00b7\uc2e4\ud589 4\ub2e8\uacc4 \uac8c\uc774\ud2b8 Claude Code \uc6cc\ud06c\ud50c\ub85c \ud50c\ub7ec\uadf8\uc778 (superpowers 5.0.7 \uacc4\uc2b9)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deokjinlog",
+    "repoName": "intent-locked-workflow",
+    "repoBranch": "main"
+  },
+  "revenantworks/citadel": {
+    "name": "revenantworks/citadel",
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, and ship AI-agent artifacts. Always comes back.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "revenantworks",
+    "repoName": "citadel",
+    "repoBranch": "main"
+  },
+  "jongall45/frontrun-plugins": {
+    "name": "jongall45/frontrun-plugins",
+    "description": "Claude Code plugin marketplace for Frontrun \u2014 AI deal flow tool for X: pre-round VC signal from 1,000+ investor follow graphs. /plugin marketplace add jongall45/frontrun-plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jongall45",
+    "repoName": "frontrun-plugins",
+    "repoBranch": "main"
+  },
+  "livevil7/creeta-lens": {
+    "name": "livevil7/creeta-lens",
+    "description": "Creeta Lens \u2014 Skill navigator for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "livevil7",
+    "repoName": "creeta-lens",
+    "repoBranch": "master"
+  },
+  "JeremyPrajwal/angry-gf": {
+    "name": "JeremyPrajwal/angry-gf",
+    "description": "Claude is ignoring you. She's mad. Figure it out. \ud83d\udc94\"",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JeremyPrajwal",
+    "repoName": "angry-gf",
+    "repoBranch": "main"
   }
 }

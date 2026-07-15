@@ -2018,5 +2018,33 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "Wolfgangrush/indian-hc-drafting-litigation": {
+    "owner": "Wolfgangrush",
+    "name": "indian-hc-drafting-litigation",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "vdemkiv/taskPlane": {
+    "owner": "vdemkiv",
+    "name": "taskPlane",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "3dcom2711/thrunt-god": {
+    "owner": "3dcom2711",
+    "name": "thrunt-god",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "deokjinlog/intent-locked-workflow": {
+    "owner": "deokjinlog",
+    "name": "intent-locked-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

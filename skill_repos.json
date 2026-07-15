@@ -10311,5 +10311,79 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "Wolfgangrush/indian-hc-drafting-litigation": {
+        "owner": "Wolfgangrush",
+        "name": "indian-hc-drafting-litigation",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anthonymaley/MusicTUI": {
+        "owner": "anthonymaley",
+        "name": "MusicTUI",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "soothing-carport96/anti-ai-slop-writing": {
+        "owner": "soothing-carport96",
+        "name": "anti-ai-slop-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vdemkiv/taskPlane": {
+        "owner": "vdemkiv",
+        "name": "taskPlane",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "prone-dc302/AlterLab-FC-Skills": {
+        "owner": "prone-dc302",
+        "name": "AlterLab-FC-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "3dcom2711/thrunt-god": {
+        "owner": "3dcom2711",
+        "name": "thrunt-god",
+        "branch": "main",
+        "enabled": true
+    },
+    "deokjinlog/intent-locked-workflow": {
+        "owner": "deokjinlog",
+        "name": "intent-locked-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "revenantworks/citadel": {
+        "owner": "revenantworks",
+        "name": "citadel",
+        "branch": "main",
+        "enabled": true
+    },
+    "jongall45/frontrun-plugins": {
+        "owner": "jongall45",
+        "name": "frontrun-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "livevil7/creeta-lens": {
+        "owner": "livevil7",
+        "name": "creeta-lens",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SouirTommer/intern-mode": {
+        "owner": "SouirTommer",
+        "name": "intern-mode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
