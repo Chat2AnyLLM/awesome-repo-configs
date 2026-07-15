@@ -10385,5 +10385,74 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "alper-dev/build-for-good-ux-skill": {
+        "owner": "alper-dev",
+        "name": "build-for-good-ux-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alo-exp/multai": {
+        "owner": "alo-exp",
+        "name": "multai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ducquoc-gft/twofold": {
+        "owner": "ducquoc-gft",
+        "name": "twofold",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fralapo/awesome-agent-skills": {
+        "owner": "fralapo",
+        "name": "awesome-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xr09/zeal-docs": {
+        "owner": "xr09",
+        "name": "zeal-docs",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gagip/gagip-dev": {
+        "owner": "gagip",
+        "name": "gagip-dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "x0c/image-assets-skill": {
+        "owner": "x0c",
+        "name": "image-assets-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "toRolex/rolex-skills": {
+        "owner": "toRolex",
+        "name": "rolex-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "prvthmpcypher/skills-design": {
+        "owner": "prvthmpcypher",
+        "name": "skills-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "minjun0219/rocky": {
+        "owner": "minjun0219",
+        "name": "rocky",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

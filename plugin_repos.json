@@ -9082,5 +9082,68 @@
     "repoOwner": "JeremyPrajwal",
     "repoName": "angry-gf",
     "repoBranch": "main"
+  },
+  "alo-exp/multai": {
+    "name": "alo-exp/multai",
+    "description": "Generic multi-AI orchestration platform: Playwright engine, 7 AI platforms, rate limiter, agent fallback (browser-use), comparator, solution-researcher, landscape-researcher skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alo-exp",
+    "repoName": "multai",
+    "repoBranch": "main"
+  },
+  "fralapo/awesome-agent-skills": {
+    "name": "fralapo/awesome-agent-skills",
+    "description": "Production-grade agent skills for Claude Code and any SKILL.md-compatible AI agent. Each skill is mined from real corpora, official docs, and books. Install as a plugin or drop into any agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fralapo",
+    "repoName": "awesome-agent-skills",
+    "repoBranch": "main"
+  },
+  "gagip/gagip-dev": {
+    "name": "gagip/gagip-dev",
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gagip",
+    "repoName": "gagip-dev",
+    "repoBranch": "main"
+  },
+  "Two-Weeks-Team/PreviewForgeForClaudeCode": {
+    "name": "Two-Weeks-Team/PreviewForgeForClaudeCode",
+    "description": "PreviewDD \u2192 SpecDD \u2192 TestDD for Claude Code: 144 Opus 4.7 agents turn one-line ideas into gallery-first, frozen full-stack apps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Two-Weeks-Team",
+    "repoName": "PreviewForgeForClaudeCode",
+    "repoBranch": "main"
+  },
+  "toRolex/rolex-skills": {
+    "name": "toRolex/rolex-skills",
+    "description": "AI \u7f16\u7a0b\u6280\u80fd\u5408\u96c6\u2014\u2014\u8ba9 Claude Code \u542c\u61c2\u4e2d\u6587\u3001\u5e2e\u4f60\u5e72\u6d3b\u3002\u57fa\u4e8e mattpocock/skills \u6539\u7f16\u5e76\u8865\u5145\u4e86\u539f\u521b Git \u5de5\u5177\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "toRolex",
+    "repoName": "rolex-skills",
+    "repoBranch": "main"
+  },
+  "liyongning/claude-plugins": {
+    "name": "liyongning/claude-plugins",
+    "description": "Claude Code plugin marketplace maintained by liyongning.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "liyongning",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "minjun0219/rocky": {
+    "name": "minjun0219/rocky",
+    "description": "\ucf54\ub529\uc5d0\uc774\uc804\ud2b8 \ud558\ub124\uc2a4 \ud50c\ub7ec\uadf8\uc778 (\uac1c\uc778 \ud504\ub85c\uc81d\ud2b8)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "minjun0219",
+    "repoName": "rocky",
+    "repoBranch": "main"
   }
 }
