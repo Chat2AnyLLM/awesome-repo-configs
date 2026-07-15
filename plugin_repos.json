@@ -9262,5 +9262,14 @@
     "repoOwner": "sai-na",
     "repoName": "claude-mac-cleanup",
     "repoBranch": "main"
+  },
+  "EtienneLescot/cc-delegate": {
+    "name": "cc-delegate",
+    "description": "Delegate a whole dev task from an Opus supervisor to a cheaper worker model on any litellm-routable provider. Each task runs in a disposable git worktree, completion is graded against your rubric/tests instead of the model's own say-so, and you review one clean diff. Async supervision with mid-run steering, budget caps, and an enforced git guard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EtienneLescot",
+    "repoName": "cc-delegate",
+    "repoBranch": "main"
   }
 }
