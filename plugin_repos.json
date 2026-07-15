@@ -1156,7 +1156,7 @@
   },
   "wyre-technology/msp-claude-plugins": {
     "name": "wyre-technology/msp-claude-plugins",
-    "description": "Community-driven Claude Code plugins for MSP tools (PSA, RMM, Documentation)",
+    "description": "The community-driven Claude Code plugin marketplace for MSPs — 70+ plugins across PSA, RMM, security, documentation, and accounting, plus cross-vendor industry workflow packs (ops, security, finance, compliance, sales, DevOps, cloud infra) that compose whatever tools you have connected.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "wyre-technology",
