@@ -9271,5 +9271,95 @@
     "repoOwner": "EtienneLescot",
     "repoName": "cc-delegate",
     "repoBranch": "main"
+  },
+  "hoblin/claude-ruby-marketplace": {
+    "name": "hoblin/claude-ruby-marketplace",
+    "description": "Claude Code plugin marketplace for Ruby and Rails development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hoblin",
+    "repoName": "claude-ruby-marketplace",
+    "repoBranch": "main"
+  },
+  "tigerless-labs/design-harness": {
+    "name": "tigerless-labs/design-harness",
+    "description": "Feed your agent papers and half-formed ideas \u2014 it links them into a system design you can defend. Markdown keeps the record; a visual canvas makes it readable. An Agent Skill for Claude Code & any SKILL.md-compatible...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tigerless-labs",
+    "repoName": "design-harness",
+    "repoBranch": "master"
+  },
+  "Pythoughts-labs/claude-architect": {
+    "name": "Pythoughts-labs/claude-architect",
+    "description": "Architect-first delegation for Claude Code and OpenCode. A Fable/Opus session routes implementation to Codex, the OpenCode provider pool, local Pi ($0), or autonomous Pythinker, then reviews every diff.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pythoughts-labs",
+    "repoName": "claude-architect",
+    "repoBranch": "main"
+  },
+  "tartinerlabs/skills": {
+    "name": "tartinerlabs/skills",
+    "description": "Claude Code skills for git workflows, GitHub automation, security audits, code refactoring, and project tooling",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tartinerlabs",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "NiobiumInc/niobium-skills": {
+    "name": "NiobiumInc/niobium-skills",
+    "description": "A Skill for Anthropic Claude that enables Claude users to more easily create secure computation applications that use fully homomorphic encryption. The initial commit demonstrates an 11% improvement over non-skill Cla...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NiobiumInc",
+    "repoName": "niobium-skills",
+    "repoBranch": "main"
+  },
+  "1111111111111111111114oLvT2/inquisitor": {
+    "name": "1111111111111111111114oLvT2/inquisitor",
+    "description": "Optimal-path problem solving for AI agents \u2014 triage, prune, investigate. MCP server + agent skill combining Newton's Analysis-Synthesis method, NASA P10 rules, and heuristic-search pruning so agents never overcomplicate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "1111111111111111111114oLvT2",
+    "repoName": "inquisitor",
+    "repoBranch": "main"
+  },
+  "jamdesk/jamdesk-claude-plugin": {
+    "name": "jamdesk/jamdesk-claude-plugin",
+    "description": "Claude Code plugin for building Jamdesk documentation sites",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jamdesk",
+    "repoName": "jamdesk-claude-plugin",
+    "repoBranch": "main"
+  },
+  "sdsrss/sgc": {
+    "name": "sdsrss/sgc",
+    "description": "All-in-one engineering workflow & knowledge engine for Claude Code. One-command install, runs standalone (Node >=18, no bun). L0-L3 task classification, 13 runtime invariants, code review, browser QA, security audit,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdsrss",
+    "repoName": "sgc",
+    "repoBranch": "main"
+  },
+  "thattimc/skills": {
+    "name": "thattimc/skills",
+    "description": "Claude Code skills marketplace: domain-search + ssr-market-research (also usable as plain skill folders in Codex/Cursor)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thattimc",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "katareayush/video-captions": {
+    "name": "katareayush/video-captions",
+    "description": "Claude Code plugin: transcribe a video's speech locally and burn in accurately-timed captions. Offline, cross-platform, describe the style in plain words.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "katareayush",
+    "repoName": "video-captions",
+    "repoBranch": "main"
   }
 }

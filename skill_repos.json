@@ -10556,5 +10556,125 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "hoblin/claude-ruby-marketplace": {
+        "owner": "hoblin",
+        "name": "claude-ruby-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "tigerless-labs/design-harness": {
+        "owner": "tigerless-labs",
+        "name": "design-harness",
+        "branch": "master",
+        "enabled": true
+    },
+    "Pythoughts-labs/claude-architect": {
+        "owner": "Pythoughts-labs",
+        "name": "claude-architect",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tartinerlabs/skills": {
+        "owner": "tartinerlabs",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NiobiumInc/niobium-skills": {
+        "owner": "NiobiumInc",
+        "name": "niobium-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hypnosdesign/claude-skill-scrittura-italiana": {
+        "owner": "hypnosdesign",
+        "name": "claude-skill-scrittura-italiana",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "1111111111111111111114oLvT2/inquisitor": {
+        "owner": "1111111111111111111114oLvT2",
+        "name": "inquisitor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vanara-agents/skills": {
+        "owner": "vanara-agents",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jamdesk/jamdesk-claude-plugin": {
+        "owner": "jamdesk",
+        "name": "jamdesk-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sdsrss/sgc": {
+        "owner": "sdsrss",
+        "name": "sgc",
+        "branch": "main",
+        "enabled": true
+    },
+    "huiyonghkw/hekouwang-stock-data-reader-skill": {
+        "owner": "huiyonghkw",
+        "name": "hekouwang-stock-data-reader-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "seldonframe/reflect": {
+        "owner": "seldonframe",
+        "name": "reflect",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "paanSinghCoder/pr-review-skill-generator": {
+        "owner": "paanSinghCoder",
+        "name": "pr-review-skill-generator",
+        "branch": "main",
+        "enabled": true
+    },
+    "thattimc/skills": {
+        "owner": "thattimc",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hozakar/project-memory": {
+        "owner": "hozakar",
+        "name": "project-memory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "miguel-herrero-systems/hrevn-surface-anthropic": {
+        "owner": "miguel-herrero-systems",
+        "name": "hrevn-surface-anthropic",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "tomaszstaniak/pm-ai-skills": {
+        "owner": "tomaszstaniak",
+        "name": "pm-ai-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "katareayush/video-captions": {
+        "owner": "katareayush",
+        "name": "video-captions",
+        "branch": "main",
+        "enabled": true
     }
 }

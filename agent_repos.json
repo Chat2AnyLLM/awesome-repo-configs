@@ -2067,5 +2067,26 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Pythoughts-labs/claude-architect": {
+    "owner": "Pythoughts-labs",
+    "name": "claude-architect",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tartinerlabs/skills": {
+    "owner": "tartinerlabs",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "vanara-agents/skills": {
+    "owner": "vanara-agents",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
