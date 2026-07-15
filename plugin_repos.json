@@ -9145,5 +9145,122 @@
     "repoOwner": "minjun0219",
     "repoName": "rocky",
     "repoBranch": "main"
+  },
+  "zalom/plastic": {
+    "name": "zalom/plastic",
+    "description": "Intent-driven idea development system for AI-assisted work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zalom",
+    "repoName": "plastic",
+    "repoBranch": "main"
+  },
+  "linxule/memex-plugin": {
+    "name": "linxule/memex-plugin",
+    "description": "Collaborative memory plugin for Claude Code \u2014 persistent, searchable, interconnected. Captures the collaborative process as structured memos in an Obsidian vault with hybrid search.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "linxule",
+    "repoName": "memex-plugin",
+    "repoBranch": "main"
+  },
+  "zeikar/hyperclaude": {
+    "name": "zeikar/hyperclaude",
+    "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous multi-agent revise loops that self-converge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zeikar",
+    "repoName": "hyperclaude",
+    "repoBranch": "main"
+  },
+  "LH8PPL/core-memory-kit": {
+    "name": "LH8PPL/core-memory-kit",
+    "description": "Persistent per-project memory for Claude Code, Kiro, Cursor & Codex - plain markdown committed with your code, captured prompt-free, auto-injected at session start, recalled by meaning (local semantic search, zero API...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LH8PPL",
+    "repoName": "core-memory-kit",
+    "repoBranch": "main"
+  },
+  "cegape/audit-rgaa": {
+    "name": "cegape/audit-rgaa",
+    "description": "Audit RGAA 4.1.2 automatis\u00e9 pour sites et apps web \u2014 plugin Claude (Code / Cowork).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cegape",
+    "repoName": "audit-rgaa",
+    "repoBranch": "main"
+  },
+  "sasha-deneux/claude-skills-cre": {
+    "name": "sasha-deneux/claude-skills-cre",
+    "description": "Free, open Claude skills for commercial real estate across the full deal lifecycle: off-market sourcing, deal screening, underwriting, rent-roll and T-12 normalization, developer feasibility, zoning and entitlement, d...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sasha-deneux",
+    "repoName": "claude-skills-cre",
+    "repoBranch": "main"
+  },
+  "aymkin/fluent": {
+    "name": "aymkin/fluent",
+    "description": "The AI Language Learning Kit for Claude Code and others",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aymkin",
+    "repoName": "fluent",
+    "repoBranch": "main"
+  },
+  "sitespeakai/sitespeak-claude-plugin": {
+    "name": "sitespeakai/sitespeak-claude-plugin",
+    "description": "Manage your SiteSpeakAI chatbot from Claude Code - a plugin and MCP server for optimizing chatbots in plain English.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sitespeakai",
+    "repoName": "sitespeak-claude-plugin",
+    "repoBranch": "main"
+  },
+  "tim-nish/tanuki": {
+    "name": "tim-nish/tanuki",
+    "description": "Automated dogfooding for Claude Code plugins \u2014 simulated users drive your plugin through realistic scenarios; recurring friction becomes a ranked proposal brief",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tim-nish",
+    "repoName": "tanuki",
+    "repoBranch": "main"
+  },
+  "MKAbuMattar/sysdesign": {
+    "name": "MKAbuMattar/sysdesign",
+    "description": "System design knowledge for AI coding agents \u2014 a Claude Code plugin. 1 skill, 10 commands, 14 self-contained reference files. State the constraint, pick the option, name the tradeoff.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MKAbuMattar",
+    "repoName": "sysdesign",
+    "repoBranch": "main"
+  },
+  "Tamircohen28/tamirs-superpowers": {
+    "name": "Tamircohen28/tamirs-superpowers",
+    "description": "Tamir's Personal Claude Code plugin - bundled skills, smart worktree hooks, and MCP server stubs. One /plugin install and you're set.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tamircohen28",
+    "repoName": "tamirs-superpowers",
+    "repoBranch": "master"
+  },
+  "sogitec-br/aya-plugins": {
+    "name": "sogitec-br/aya-plugins",
+    "description": "sogitec-br/aya-plugins \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sogitec-br",
+    "repoName": "aya-plugins",
+    "repoBranch": "main"
+  },
+  "sai-na/claude-mac-cleanup": {
+    "name": "sai-na/claude-mac-cleanup",
+    "description": "Claude Code skill: safely reclaim disk space + RAM on Apple Silicon macOS \u2014 for developers and creative pros",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sai-na",
+    "repoName": "claude-mac-cleanup",
+    "repoBranch": "main"
   }
 }

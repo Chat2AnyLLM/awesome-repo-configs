@@ -2046,5 +2046,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "zalom/plastic": {
+    "owner": "zalom",
+    "name": "plastic",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "zeikar/hyperclaude": {
+    "owner": "zeikar",
+    "name": "hyperclaude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Tamircohen28/tamirs-superpowers": {
+    "owner": "Tamircohen28",
+    "name": "tamirs-superpowers",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

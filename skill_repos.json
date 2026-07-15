@@ -10454,5 +10454,107 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "JHostalek/dotclaude": {
+        "owner": "JHostalek",
+        "name": "dotclaude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zalom/plastic": {
+        "owner": "zalom",
+        "name": "plastic",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "linxule/memex-plugin": {
+        "owner": "linxule",
+        "name": "memex-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zeikar/hyperclaude": {
+        "owner": "zeikar",
+        "name": "hyperclaude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LH8PPL/core-memory-kit": {
+        "owner": "LH8PPL",
+        "name": "core-memory-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "clever-cc-plugins/cc-config": {
+        "owner": "clever-cc-plugins",
+        "name": "cc-config",
+        "branch": "main",
+        "enabled": true
+    },
+    "cegape/audit-rgaa": {
+        "owner": "cegape",
+        "name": "audit-rgaa",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Agents365-ai/ttsCN": {
+        "owner": "Agents365-ai",
+        "name": "ttsCN",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sasha-deneux/claude-skills-cre": {
+        "owner": "sasha-deneux",
+        "name": "claude-skills-cre",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aymkin/fluent": {
+        "owner": "aymkin",
+        "name": "fluent",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "sitespeakai/sitespeak-claude-plugin": {
+        "owner": "sitespeakai",
+        "name": "sitespeak-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MKAbuMattar/sysdesign": {
+        "owner": "MKAbuMattar",
+        "name": "sysdesign",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Tamircohen28/tamirs-superpowers": {
+        "owner": "Tamircohen28",
+        "name": "tamirs-superpowers",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sogitec-br/aya-plugins": {
+        "owner": "sogitec-br",
+        "name": "aya-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "sai-na/claude-mac-cleanup": {
+        "owner": "sai-na",
+        "name": "claude-mac-cleanup",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
