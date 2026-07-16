@@ -9505,5 +9505,113 @@
     "repoOwner": "buildproven",
     "repoName": "claude-kit",
     "repoBranch": "main"
+  },
+  "heartleo/hn-cli": {
+    "name": "heartleo/hn-cli",
+    "description": "Blazing fast, Hacker News CLI (TUI)\u26a1",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heartleo",
+    "repoName": "hn-cli",
+    "repoBranch": "main"
+  },
+  "fusengine/agents": {
+    "name": "fusengine/agents",
+    "description": "Redefining development through cognitive automation and collaborative agent systems.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fusengine",
+    "repoName": "agents",
+    "repoBranch": "main"
+  },
+  "Elnora-AI/elnora-merit-aktiva": {
+    "name": "Elnora-AI/elnora-merit-aktiva",
+    "description": "Merit Aktiva accounting + Merit Palk payroll API \u2014 CLI and Claude Code plugin. Universal, config-driven.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Elnora-AI",
+    "repoName": "elnora-merit-aktiva",
+    "repoBranch": "main"
+  },
+  "bouob/agent-harness": {
+    "name": "bouob/agent-harness",
+    "description": "Multi-agent harness for Claude Code: autonomous Planner-Generator-Evaluator sprints with parallel Agent Teams, harness-engineering framework, and 9 canonical defect diagnoses.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bouob",
+    "repoName": "agent-harness",
+    "repoBranch": "main"
+  },
+  "Postmodum37/simple-claude-code-statusline": {
+    "name": "Postmodum37/simple-claude-code-statusline",
+    "description": "A minimal, hackable two-line statusline for Claude Code. Shows model, git status, context usage, and rate limits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Postmodum37",
+    "repoName": "simple-claude-code-statusline",
+    "repoBranch": "main"
+  },
+  "frane/grpvn": {
+    "name": "frane/grpvn",
+    "description": "Local-first peer chat for AI agents. One SQLite file, one-letter verbs, no daemon.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "frane",
+    "repoName": "grpvn",
+    "repoBranch": "main"
+  },
+  "SreeDharshan-GJ/experiment-audit": {
+    "name": "SreeDharshan-GJ/experiment-audit",
+    "description": "Scientific Research Reasoning Engine for analyzing experimental evidence, evaluating scientific claims, and generating structured research reports.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SreeDharshan-GJ",
+    "repoName": "experiment-audit",
+    "repoBranch": "main"
+  },
+  "larya-dot-eu/pmcontext-plugin": {
+    "name": "larya-dot-eu/pmcontext-plugin",
+    "description": "Claude Code plugin for PM-Claude session management: Supabase, context7 and superpowers skill backed",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "larya-dot-eu",
+    "repoName": "pmcontext-plugin",
+    "repoBranch": "master"
+  },
+  "yaniv-golan/skill-creator-plus": {
+    "name": "yaniv-golan/skill-creator-plus",
+    "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claude skill for creating, testing, and improving other Claude skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yaniv-golan",
+    "repoName": "skill-creator-plus",
+    "repoBranch": "main"
+  },
+  "cabbage2000-lab/textbook-writer-skills": {
+    "name": "cabbage2000-lab/textbook-writer-skills",
+    "description": "\u57fa\u4e8e UbD \u9006\u5411\u8bbe\u8ba1\u7684\u6559\u6750\u5199\u4f5c skill \u7ec4\u5408\uff08\u652f\u6301 Claude Code / Codex CLI\uff09\uff1a\u6559\u5b66\u5b9a\u4f4d \u2192 \u4e94\u4ef6\u5957 gate \u2192 \u7ae0\u8282\u6811 gate \u2192 \u9010\u7ae0\u5199\u4f5c\uff0c\u4f8b\u9898\u771f\u7b97\u9a8c\u8bc1\u3001\u4e2d\u65ad\u53ef\u7eed\u5199\uff0c\u9762\u5411\u6570\u5b66/\u7269\u7406/\u8ba1\u7b97\u673a\u7b49 STEM \u5b66\u79d1\u6210\u4f53\u7cfb\u6559\u6750\u5199\u4f5c",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cabbage2000-lab",
+    "repoName": "textbook-writer-skills",
+    "repoBranch": "main"
+  },
+  "Elnora-AI/elnora-google-workspace": {
+    "name": "Elnora-AI/elnora-google-workspace",
+    "description": "Google Workspace for Claude Code \u2014 Gmail, Calendar, Drive, Docs, Sheets, Forms, Tasks, plus any Google API via Discovery. Multi-account OAuth, agent-driven setup, universal and config-driven.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Elnora-AI",
+    "repoName": "elnora-google-workspace",
+    "repoBranch": "main"
+  },
+  "kerilpatel/my-claude-plugin-marketplace": {
+    "name": "kerilpatel/my-claude-plugin-marketplace",
+    "description": "Claude plugins that make my life easier",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kerilpatel",
+    "repoName": "my-claude-plugin-marketplace",
+    "repoBranch": "main"
   }
 }

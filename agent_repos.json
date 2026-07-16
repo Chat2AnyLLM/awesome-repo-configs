@@ -2109,5 +2109,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Elnora-AI/elnora-merit-aktiva": {
+    "owner": "Elnora-AI",
+    "name": "elnora-merit-aktiva",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Elnora-AI/elnora-google-workspace": {
+    "owner": "Elnora-AI",
+    "name": "elnora-google-workspace",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

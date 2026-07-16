@@ -10776,5 +10776,110 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "superdesigndev/superdesign-skill": {
+        "owner": "superdesigndev",
+        "name": "superdesign-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "heartleo/hn-cli": {
+        "owner": "heartleo",
+        "name": "hn-cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "fusengine/agents": {
+        "owner": "fusengine",
+        "name": "agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "geekjourneyx/geekx-skills": {
+        "owner": "geekjourneyx",
+        "name": "geekx-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Elnora-AI/elnora-merit-aktiva": {
+        "owner": "Elnora-AI",
+        "name": "elnora-merit-aktiva",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bouob/agent-harness": {
+        "owner": "bouob",
+        "name": "agent-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "frane/grpvn": {
+        "owner": "frane",
+        "name": "grpvn",
+        "branch": "main",
+        "enabled": true
+    },
+    "SreeDharshan-GJ/experiment-audit": {
+        "owner": "SreeDharshan-GJ",
+        "name": "experiment-audit",
+        "branch": "main",
+        "enabled": true
+    },
+    "larya-dot-eu/pmcontext-plugin": {
+        "owner": "larya-dot-eu",
+        "name": "pmcontext-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "j4rk0r/claude-skills": {
+        "owner": "j4rk0r",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yaniv-golan/skill-creator-plus": {
+        "owner": "yaniv-golan",
+        "name": "skill-creator-plus",
+        "branch": "main",
+        "enabled": true
+    },
+    "Vibetool/talking-head-video": {
+        "owner": "Vibetool",
+        "name": "talking-head-video",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cabbage2000-lab/textbook-writer-skills": {
+        "owner": "cabbage2000-lab",
+        "name": "textbook-writer-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Elnora-AI/elnora-google-workspace": {
+        "owner": "Elnora-AI",
+        "name": "elnora-google-workspace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fectivnfy112357/camofox-shim": {
+        "owner": "Fectivnfy112357",
+        "name": "camofox-shim",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kerilpatel/my-claude-plugin-marketplace": {
+        "owner": "kerilpatel",
+        "name": "my-claude-plugin-marketplace",
+        "branch": "main",
+        "enabled": true
     }
 }
