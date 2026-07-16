@@ -10941,5 +10941,92 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "SalesforceAIResearch/agentforce-adlc": {
+        "owner": "SalesforceAIResearch",
+        "name": "agentforce-adlc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "geoffreycrofte/luxembourg-accessibility-skillset": {
+        "owner": "geoffreycrofte",
+        "name": "luxembourg-accessibility-skillset",
+        "branch": "main",
+        "enabled": true
+    },
+    "bendusz/pm-skill": {
+        "owner": "bendusz",
+        "name": "pm-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "aydincan/turk-hukuku-ve-claude": {
+        "owner": "aydincan",
+        "name": "turk-hukuku-ve-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "hannsxpeter/godaudits": {
+        "owner": "hannsxpeter",
+        "name": "godaudits",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hannsxpeter/godplans": {
+        "owner": "hannsxpeter",
+        "name": "godplans",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zeroatflops/flops-skill": {
+        "owner": "zeroatflops",
+        "name": "flops-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mitulgarg/agent-ninja": {
+        "owner": "mitulgarg",
+        "name": "agent-ninja",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iyyappandrupal/sdlc-toolkit": {
+        "owner": "iyyappandrupal",
+        "name": "sdlc-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "product-on-purpose/writing-style-catalog": {
+        "owner": "product-on-purpose",
+        "name": "writing-style-catalog",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tomharris/engineer-agent": {
+        "owner": "tomharris",
+        "name": "engineer-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "everest-an/github-morestar-skill": {
+        "owner": "everest-an",
+        "name": "github-morestar-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "andybaran/skill-gitflow": {
+        "owner": "andybaran",
+        "name": "skill-gitflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -9667,5 +9667,95 @@
     "repoOwner": "servatusprime",
     "repoName": "ai_ops",
     "repoBranch": "main"
+  },
+  "SalesforceAIResearch/agentforce-adlc": {
+    "name": "SalesforceAIResearch/agentforce-adlc",
+    "description": "Agent Development Life Cycle \u2014 Build, deploy, test, and optimize Agentforce agents using Claude Code skills and Agent Script DSL.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SalesforceAIResearch",
+    "repoName": "agentforce-adlc",
+    "repoBranch": "main"
+  },
+  "bendusz/pm-skill": {
+    "name": "bendusz/pm-skill",
+    "description": "A Project/Product Manager skill for Claude Code: Claude orchestrates delivery \u2014 discover, plan, sign-off, then build/review/ship via subagents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bendusz",
+    "repoName": "pm-skill",
+    "repoBranch": "main"
+  },
+  "aydincan/turk-hukuku-ve-claude": {
+    "name": "aydincan/turk-hukuku-ve-claude",
+    "description": "T\u00fcrk hukuku i\u00e7in a\u00e7\u0131k kaynak Claude Code eklenti pazar\u0131: 81 eklenti, 1000+ beceri. Metodoloji, at\u0131f hijyeni, s\u00f6zle\u015fme, dava ve m\u00fctalaa. Hukuki dan\u0131\u015fmanl\u0131k de\u011fildir.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aydincan",
+    "repoName": "turk-hukuku-ve-claude",
+    "repoBranch": "main"
+  },
+  "hannsxpeter/godaudits": {
+    "name": "hannsxpeter/godaudits",
+    "description": "Audit everything after anything. Single-command AI agent skill that audits a codebase end to end and emits a scored, evidence-backed audit report (AUDIT.mdx) with an agent-executable remediation plan. Claude Code, Cod...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hannsxpeter",
+    "repoName": "godaudits",
+    "repoBranch": "main"
+  },
+  "hannsxpeter/godplans": {
+    "name": "hannsxpeter/godplans",
+    "description": "Plan everything before anything. Single-command AI agent skill that emits a complete, audit-proof, agent-executable master plan (PLAN.mdx) before any code is written. Claude Code, Codex, Cursor, OpenCode, and every Ag...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hannsxpeter",
+    "repoName": "godplans",
+    "repoBranch": "main"
+  },
+  "zeroatflops/flops-skill": {
+    "name": "zeroatflops/flops-skill",
+    "description": "Claude Skill: look up & cite verifiable GPU/compute rental reference prices (spot/on-demand/DePIN) from the public FLOPS Index. Key-free.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zeroatflops",
+    "repoName": "flops-skill",
+    "repoBranch": "main"
+  },
+  "mitulgarg/agent-ninja": {
+    "name": "mitulgarg/agent-ninja",
+    "description": "Claude Code Strategist Plugin - routing, workflow observation, and proactive optimization. Zero API key, zero external dependencies, privacy-first.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mitulgarg",
+    "repoName": "agent-ninja",
+    "repoBranch": "main"
+  },
+  "iyyappandrupal/sdlc-toolkit": {
+    "name": "iyyappandrupal/sdlc-toolkit",
+    "description": "Role-oriented Claude Code plugin marketplace spanning the full software delivery lifecycle \u2014 BA, architect, QA, security, release, delivery, docs, plus a Drupal pack. 8 plugins, 29 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iyyappandrupal",
+    "repoName": "sdlc-toolkit",
+    "repoBranch": "main"
+  },
+  "product-on-purpose/writing-style-catalog": {
+    "name": "product-on-purpose/writing-style-catalog",
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. Install via the product-on-purpose marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "product-on-purpose",
+    "repoName": "writing-style-catalog",
+    "repoBranch": "main"
+  },
+  "tomharris/engineer-agent": {
+    "name": "tomharris/engineer-agent",
+    "description": "A Claude Code plugin that automates senior software engineer work \u2014 PR reviews, Slack answers, ticket implementation, doc reviews, and standups \u2014 all behind a human approval gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomharris",
+    "repoName": "engineer-agent",
+    "repoBranch": "main"
   }
 }

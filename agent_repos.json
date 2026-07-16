@@ -2130,5 +2130,19 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "SalesforceAIResearch/agentforce-adlc": {
+    "owner": "SalesforceAIResearch",
+    "name": "agentforce-adlc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mitulgarg/agent-ninja": {
+    "owner": "mitulgarg",
+    "name": "agent-ninja",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
