@@ -10676,5 +10676,105 @@
         "name": "video-captions",
         "branch": "main",
         "enabled": true
+    },
+    "coreyhaines31/makerskills": {
+        "owner": "coreyhaines31",
+        "name": "makerskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wotai-dev/woterclip": {
+        "owner": "wotai-dev",
+        "name": "woterclip",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "serradura/okf-gem": {
+        "owner": "serradura",
+        "name": "okf-gem",
+        "branch": "main",
+        "enabled": true
+    },
+    "smixs/autograph": {
+        "owner": "smixs",
+        "name": "autograph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Intai/story-flow": {
+        "owner": "Intai",
+        "name": "story-flow",
+        "branch": "main",
+        "enabled": true
+    },
+    "jin-s13/ai-research-writing-skill": {
+        "owner": "jin-s13",
+        "name": "ai-research-writing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "casatwy/deyo-skill": {
+        "owner": "casatwy",
+        "name": "deyo-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "rafael-adcp/kraken": {
+        "owner": "rafael-adcp",
+        "name": "kraken",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ejklock/living-docs-skill": {
+        "owner": "ejklock",
+        "name": "living-docs-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "duthaho/skillhub": {
+        "owner": "duthaho",
+        "name": "skillhub",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "OneWave-AI/open-agent-stack": {
+        "owner": "OneWave-AI",
+        "name": "open-agent-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "dudupii/smart-dispatch": {
+        "owner": "dudupii",
+        "name": "smart-dispatch",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Alexxiang2008/hlzd-b2b-export-skills": {
+        "owner": "Alexxiang2008",
+        "name": "hlzd-b2b-export-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AdityaVasireddy/agent-skills": {
+        "owner": "AdityaVasireddy",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "buildproven/claude-kit": {
+        "owner": "buildproven",
+        "name": "claude-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

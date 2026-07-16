@@ -2088,5 +2088,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "wotai-dev/woterclip": {
+    "owner": "wotai-dev",
+    "name": "woterclip",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "OneWave-AI/open-agent-stack": {
+    "owner": "OneWave-AI",
+    "name": "open-agent-stack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "buildproven/claude-kit": {
+    "owner": "buildproven",
+    "name": "claude-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
