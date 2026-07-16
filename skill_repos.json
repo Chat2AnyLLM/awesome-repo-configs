@@ -10881,5 +10881,65 @@
         "name": "my-claude-plugin-marketplace",
         "branch": "main",
         "enabled": true
+    },
+    "AdrianV101/obsidian-pkm-plugin": {
+        "owner": "AdrianV101",
+        "name": "obsidian-pkm-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "exmergo/dex": {
+        "owner": "exmergo",
+        "name": "dex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "akovalion/paranoid-qa": {
+        "owner": "akovalion",
+        "name": "paranoid-qa",
+        "branch": "main",
+        "enabled": true
+    },
+    "ryan-scheinberg/harness": {
+        "owner": "ryan-scheinberg",
+        "name": "harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LucioLiu/token-saver": {
+        "owner": "LucioLiu",
+        "name": "token-saver",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "btmoriarty/kochab": {
+        "owner": "btmoriarty",
+        "name": "kochab",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonypiazza/gh-metrics": {
+        "owner": "tonypiazza",
+        "name": "gh-metrics",
+        "branch": "main",
+        "enabled": true
+    },
+    "servatusprime/ai_ops": {
+        "owner": "servatusprime",
+        "name": "ai_ops",
+        "branch": "main",
+        "enabled": true
+    },
+    "5219rayhsu/open-book-is-good-skill": {
+        "owner": "5219rayhsu",
+        "name": "open-book-is-good-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

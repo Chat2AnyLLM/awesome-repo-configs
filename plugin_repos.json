@@ -9613,5 +9613,59 @@
     "repoOwner": "kerilpatel",
     "repoName": "my-claude-plugin-marketplace",
     "repoBranch": "main"
+  },
+  "AdrianV101/obsidian-pkm-plugin": {
+    "name": "AdrianV101/obsidian-pkm-plugin",
+    "description": "Connect Claude Code to your Obsidian vault \u2014 MCP server plugin with 20 tools, agents, and hooks for knowledge management",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AdrianV101",
+    "repoName": "obsidian-pkm-plugin",
+    "repoBranch": "master"
+  },
+  "exmergo/dex": {
+    "name": "exmergo/dex",
+    "description": "Dex is the agent-native analytics engineering toolkit. Point it at your warehouse and your dbt project. It learns the landscape, authors your transformations, and tells you exactly what to fix when the schema drifts....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "exmergo",
+    "repoName": "dex",
+    "repoBranch": "main"
+  },
+  "akovalion/paranoid-qa": {
+    "name": "akovalion/paranoid-qa",
+    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akovalion",
+    "repoName": "paranoid-qa",
+    "repoBranch": "main"
+  },
+  "tonypiazza/gh-metrics": {
+    "name": "tonypiazza/gh-metrics",
+    "description": "Consistent GitHub PR and issue/RFC metrics (merge rate, cycle time, review timing, backlog, RFC acceptance) via the gh CLI \u2014 as a Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonypiazza",
+    "repoName": "gh-metrics",
+    "repoBranch": "main"
+  },
+  "yumesaka/cc-marketplace": {
+    "name": "yumesaka/cc-marketplace",
+    "description": "Claude Code \ud50c\ub7ec\uadf8\uc778 \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4 - \ud300 \uc804\uc6a9 \ud50c\ub7ec\uadf8\uc778 \ubc30\ud3ec",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yumesaka",
+    "repoName": "cc-marketplace",
+    "repoBranch": "main"
+  },
+  "servatusprime/ai_ops": {
+    "name": "servatusprime/ai_ops",
+    "description": "AI Governance Layer for Human-AI Collaboration. Artifact-first execution, authority gates, cross-platform agent support.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "servatusprime",
+    "repoName": "ai_ops",
+    "repoBranch": "main"
   }
 }

@@ -2123,5 +2123,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AdrianV101/obsidian-pkm-plugin": {
+    "owner": "AdrianV101",
+    "name": "obsidian-pkm-plugin",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
