@@ -9856,5 +9856,140 @@
     "repoOwner": "maee-co",
     "repoName": "cc-autoship",
     "repoBranch": "main"
+  },
+  "appleboy/skills": {
+    "name": "appleboy/skills",
+    "description": "Agent Skills Collection",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "appleboy",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "kbichave/deep-plan-enhanced": {
+    "name": "kbichave/deep-plan-enhanced",
+    "description": "Claude Code plugin for deep system discovery, implementation planning, and code generation \u2014 research, multi-LLM review, TDD-oriented section generation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kbichave",
+    "repoName": "deep-plan-enhanced",
+    "repoBranch": "main"
+  },
+  "aksheyw/career-command-center-template": {
+    "name": "aksheyw/career-command-center-template",
+    "description": "Template for an AI-native job-search workflow built with Claude Code (skills + hooks). Fork and personalize.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aksheyw",
+    "repoName": "career-command-center-template",
+    "repoBranch": "main"
+  },
+  "john-broadway/maude-for-claude": {
+    "name": "john-broadway/maude-for-claude",
+    "description": "Claude's partner inside Claude Code. He writes the code; she notices.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "john-broadway",
+    "repoName": "maude-for-claude",
+    "repoBranch": "main"
+  },
+  "aksheyw/claude-code-ship-gate": {
+    "name": "aksheyw/claude-code-ship-gate",
+    "description": "Pre-push quality gate for Claude Code that runs above git, so git push --no-verify can't skip it. Tests, code review, security, and a secret scan must pass before any push to your protected branch. Say 'ship it' to ru...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aksheyw",
+    "repoName": "claude-code-ship-gate",
+    "repoBranch": "main"
+  },
+  "TheEdoRan/skills": {
+    "name": "TheEdoRan/skills",
+    "description": "My AI agent skills collection.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TheEdoRan",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Signato-ai/signato-integrations": {
+    "name": "Signato-ai/signato-integrations",
+    "description": "Wire the Signato confidentiality chamber into Claude Code and other agent hosts. Deterministic person-by-subject blocking, 100% local.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Signato-ai",
+    "repoName": "signato-integrations",
+    "repoBranch": "main"
+  },
+  "vibecodingmd/clawdius": {
+    "name": "vibecodingmd/clawdius",
+    "description": "Claude Code plugin that delegates tasks to other AI coding CLIs - Grok, Pi, Antigravity, Codex - with adversarial/native review, session transfer, and background jobs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vibecodingmd",
+    "repoName": "clawdius",
+    "repoBranch": "main"
+  },
+  "88plug/total-recall": {
+    "name": "88plug/total-recall",
+    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 MCP tools, 5 hooks, 15 commands, 8 CLI adapters.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "total-recall",
+    "repoBranch": "main"
+  },
+  "88plug/searxng-mcp": {
+    "name": "88plug/searxng-mcp",
+    "description": "Fast, token-efficient MCP server for SearXNG with stdio, streamable-http, Docker, and rendered fetch support.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "searxng-mcp",
+    "repoBranch": "main"
+  },
+  "88plug/os-control-mcp": {
+    "name": "88plug/os-control-mcp",
+    "description": "The sanctioned OS motor cortex for an agent on a Linux box: control systemd/logind/journald/D-Bus via structured interfaces, never raw PID hacks. Pure-stdlib MCP server with a self-preservation guard. Sibling to scree...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "os-control-mcp",
+    "repoBranch": "main"
+  },
+  "88plug/amnesia": {
+    "name": "88plug/amnesia",
+    "description": "Seamless context continuity across Claude Code compaction. Captures structured handoff before each compact and re-injects it after.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "amnesia",
+    "repoBranch": "main"
+  },
+  "xoonjaeho/ollama-cc-plugin": {
+    "name": "xoonjaeho/ollama-cc-plugin",
+    "description": "Use local/cloud ollama models from Claude Code as a second engine: read-only consult/review, agentic worktree-isolated rescue, and a full Claude Code session driven by an ollama model (/ollama:as-claude).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xoonjaeho",
+    "repoName": "ollama-cc-plugin",
+    "repoBranch": "main"
+  },
+  "88plug/deepwiki": {
+    "name": "88plug/deepwiki",
+    "description": "DeepWiki wrapper: one-command install for Cognition's hosted DeepWiki MCP. Chat with any GitHub repo's auto-generated docs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "deepwiki",
+    "repoBranch": "main"
+  },
+  "extensiondev/skill": {
+    "name": "extensiondev/skill",
+    "description": "The Agent Skill for cross-browser extension development. Teaches AI coding agents to build, debug, and publish for Chrome, Edge, and Firefox.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "extensiondev",
+    "repoName": "skill",
+    "repoBranch": "main"
   }
 }

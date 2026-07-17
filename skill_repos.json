@@ -11189,5 +11189,91 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "appleboy/skills": {
+        "owner": "appleboy",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kbichave/deep-plan-enhanced": {
+        "owner": "kbichave",
+        "name": "deep-plan-enhanced",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aksheyw/career-command-center-template": {
+        "owner": "aksheyw",
+        "name": "career-command-center-template",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "john-broadway/maude-for-claude": {
+        "owner": "john-broadway",
+        "name": "maude-for-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hanzipro/ruby-markups": {
+        "owner": "hanzipro",
+        "name": "ruby-markups",
+        "branch": "main",
+        "enabled": true
+    },
+    "llmjp/usecaseify-gtm": {
+        "owner": "llmjp",
+        "name": "usecaseify-gtm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aksheyw/claude-code-ship-gate": {
+        "owner": "aksheyw",
+        "name": "claude-code-ship-gate",
+        "branch": "main",
+        "enabled": true
+    },
+    "TheEdoRan/skills": {
+        "owner": "TheEdoRan",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vibecodingmd/clawdius": {
+        "owner": "vibecodingmd",
+        "name": "clawdius",
+        "branch": "main",
+        "enabled": true
+    },
+    "88plug/total-recall": {
+        "owner": "88plug",
+        "name": "total-recall",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/os-control-mcp": {
+        "owner": "88plug",
+        "name": "os-control-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/amnesia": {
+        "owner": "88plug",
+        "name": "amnesia",
+        "branch": "main",
+        "enabled": true
+    },
+    "extensiondev/skill": {
+        "owner": "extensiondev",
+        "name": "skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -2165,5 +2165,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kbichave/deep-plan-enhanced": {
+    "owner": "kbichave",
+    "name": "deep-plan-enhanced",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "john-broadway/maude-for-claude": {
+    "owner": "john-broadway",
+    "name": "maude-for-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
