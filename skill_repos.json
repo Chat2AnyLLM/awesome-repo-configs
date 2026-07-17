@@ -11028,5 +11028,30 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "longsizhuo/openInvest": {
+        "owner": "longsizhuo",
+        "name": "openInvest",
+        "branch": "main",
+        "enabled": true
+    },
+    "jiayi-ThE-CREATOR/es-coach-skills": {
+        "owner": "jiayi-ThE-CREATOR",
+        "name": "es-coach-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PBNZ/watch-local": {
+        "owner": "PBNZ",
+        "name": "watch-local",
+        "branch": "main",
+        "enabled": true
+    },
+    "Johnson-Jia/liuyao-divination": {
+        "owner": "Johnson-Jia",
+        "name": "liuyao-divination",
+        "branch": "main",
+        "enabled": true
     }
 }

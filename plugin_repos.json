@@ -9757,5 +9757,32 @@
     "repoOwner": "tomharris",
     "repoName": "engineer-agent",
     "repoBranch": "main"
+  },
+  "longsizhuo/openInvest": {
+    "name": "longsizhuo/openInvest",
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests with lookahead protection, published negative results",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "longsizhuo",
+    "repoName": "openInvest",
+    "repoBranch": "main"
+  },
+  "hardenmyrepo/claude-code-hooks": {
+    "name": "hardenmyrepo/claude-code-hooks",
+    "description": "Installable Claude Code plugin with three tested hooks for dangerous commands, protected paths, and formatting",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hardenmyrepo",
+    "repoName": "claude-code-hooks",
+    "repoBranch": "main"
+  },
+  "PBNZ/watch-local": {
+    "name": "PBNZ/watch-local",
+    "description": "Claude Code plugin that gives Claude a video input \u2014 fully local. /watch downloads, extracts frames, and transcribes with faster-whisper on a self-provisioned portable runtime (no Docker, no system installs). Auto-det...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PBNZ",
+    "repoName": "watch-local",
+    "repoBranch": "main"
   }
 }
