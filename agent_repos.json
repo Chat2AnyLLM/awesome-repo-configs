@@ -2179,5 +2179,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "martinffx/atelier": {
+    "owner": "martinffx",
+    "name": "atelier",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "realgarit/fable-baton": {
+    "owner": "realgarit",
+    "name": "fable-baton",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kanopi/cms-cultivator": {
+    "owner": "kanopi",
+    "name": "cms-cultivator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "itallstartedwithaidea/claude-googleadsagent": {
+    "owner": "itallstartedwithaidea",
+    "name": "claude-googleadsagent",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

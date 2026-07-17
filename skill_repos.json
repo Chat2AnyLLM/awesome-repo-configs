@@ -11275,5 +11275,106 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "martinffx/atelier": {
+        "owner": "martinffx",
+        "name": "atelier",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "realgarit/fable-baton": {
+        "owner": "realgarit",
+        "name": "fable-baton",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "karnstack/reins": {
+        "owner": "karnstack",
+        "name": "reins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kanopi/cms-cultivator": {
+        "owner": "kanopi",
+        "name": "cms-cultivator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RoninForge/budgetclaw": {
+        "owner": "RoninForge",
+        "name": "budgetclaw",
+        "branch": "main",
+        "enabled": true
+    },
+    "akasecurity/ai-tc": {
+        "owner": "akasecurity",
+        "name": "ai-tc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "runverdict/sf-security-review-toolkit": {
+        "owner": "runverdict",
+        "name": "sf-security-review-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "igorrendulic/task-graph": {
+        "owner": "igorrendulic",
+        "name": "task-graph",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Amey-Thakur/AI-SKILLS": {
+        "owner": "Amey-Thakur",
+        "name": "AI-SKILLS",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "itallstartedwithaidea/claude-googleadsagent": {
+        "owner": "itallstartedwithaidea",
+        "name": "claude-googleadsagent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "and3rn3t/apple-music-dj": {
+        "owner": "and3rn3t",
+        "name": "apple-music-dj",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "khujta/gabe-suite": {
+        "owner": "khujta",
+        "name": "gabe-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pgoell/pgoell-claude-tools": {
+        "owner": "pgoell",
+        "name": "pgoell-claude-tools",
+        "branch": "master",
+        "enabled": true
+    },
+    "xuboboo/grok-geo": {
+        "owner": "xuboboo",
+        "name": "grok-geo",
+        "branch": "main",
+        "enabled": true
+    },
+    "gordon1210/agent-goodies": {
+        "owner": "gordon1210",
+        "name": "agent-goodies",
+        "branch": "main",
+        "enabled": true
     }
 }

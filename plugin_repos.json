@@ -9991,5 +9991,104 @@
     "repoOwner": "extensiondev",
     "repoName": "skill",
     "repoBranch": "main"
+  },
+  "martinffx/atelier": {
+    "name": "martinffx/atelier",
+    "description": "An atelier for Opencode, Claude Code, and other coding agents: spec-driven workflows, deep thinking, and code quality.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martinffx",
+    "repoName": "atelier",
+    "repoBranch": "main"
+  },
+  "realgarit/fable-baton": {
+    "name": "realgarit/fable-baton",
+    "description": "Claude Code plugin: Fable 5 as a token-frugal orchestrator with tiered Opus/Sonnet/Haiku agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "realgarit",
+    "repoName": "fable-baton",
+    "repoBranch": "main"
+  },
+  "kanopi/cms-cultivator": {
+    "name": "kanopi/cms-cultivator",
+    "description": "A comprehensive Claude Code plugin providing specialized slash commands for Drupal and WordPress development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kanopi",
+    "repoName": "cms-cultivator",
+    "repoBranch": "main"
+  },
+  "akasecurity/ai-tc": {
+    "name": "akasecurity/ai-tc",
+    "description": "Guardrails for the agent harness. Regulated data stays on your machine, and every prompt and tool call is scanned before it runs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akasecurity",
+    "repoName": "ai-tc",
+    "repoBranch": "main"
+  },
+  "runverdict/sf-security-review-toolkit": {
+    "name": "runverdict/sf-security-review-toolkit",
+    "description": "Prepare for the Salesforce AppExchange / AgentExchange security review end to end \u2014 autonomous multi-agent codebase audit, Code Analyzer + SAST/DAST scan orchestration, submission artifacts, reviewer simulation, and a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "runverdict",
+    "repoName": "sf-security-review-toolkit",
+    "repoBranch": "main"
+  },
+  "kanopi/claude-toolbox": {
+    "name": "kanopi/claude-toolbox",
+    "description": "Official marketplace for Claude Code plugins from Kanopi Studios.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kanopi",
+    "repoName": "claude-toolbox",
+    "repoBranch": "main"
+  },
+  "Amey-Thakur/AI-SKILLS": {
+    "name": "Amey-Thakur/AI-SKILLS",
+    "description": "Plug-and-play AI skills and prompts for Claude Code, Claude Desktop, Cursor, Antigravity, OpenAI Codex, Gemini CLI, and every AI coding agent. Agent Skills in portable SKILL.md format, a prompt library, and a browser...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Amey-Thakur",
+    "repoName": "AI-SKILLS",
+    "repoBranch": "main"
+  },
+  "itallstartedwithaidea/claude-googleadsagent": {
+    "name": "itallstartedwithaidea/claude-googleadsagent",
+    "description": "Google Ads Agent \u2014 Buddy. The most comprehensive Google Ads + advertising plugin for Claude Code. Buddy + 6 sub-agents, 2 MCP servers, 77 skills, 7 commands, safety hooks, anomaly monitors. By Ahmeego.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itallstartedwithaidea",
+    "repoName": "claude-googleadsagent",
+    "repoBranch": "main"
+  },
+  "khujta/gabe-suite": {
+    "name": "khujta/gabe-suite",
+    "description": "Cognitive translation layer for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "khujta",
+    "repoName": "gabe-suite",
+    "repoBranch": "main"
+  },
+  "pgoell/pgoell-claude-tools": {
+    "name": "pgoell/pgoell-claude-tools",
+    "description": "Collection of my personal claude skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pgoell",
+    "repoName": "pgoell-claude-tools",
+    "repoBranch": "master"
+  },
+  "gordon1210/agent-goodies": {
+    "name": "gordon1210/agent-goodies",
+    "description": "Portable agent plugins for Codex/ChatGPT and Claude Code/Desktop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gordon1210",
+    "repoName": "agent-goodies",
+    "repoBranch": "main"
   }
 }
