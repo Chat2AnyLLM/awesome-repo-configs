@@ -11182,5 +11182,12 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "olevasyliev/notes-janitor": {
+        "owner": "olevasyliev",
+        "name": "notes-janitor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
