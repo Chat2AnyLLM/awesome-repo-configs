@@ -11053,5 +11053,134 @@
         "name": "liuyao-divination",
         "branch": "main",
         "enabled": true
+    },
+    "muloka/claude-plugins": {
+        "owner": "muloka",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "heyuxuan0209/read-anything": {
+        "owner": "heyuxuan0209",
+        "name": "read-anything",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ShousenZHANG/chinese-fortune": {
+        "owner": "ShousenZHANG",
+        "name": "chinese-fortune",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MARUCIE/openclaw-foundry": {
+        "owner": "MARUCIE",
+        "name": "openclaw-foundry",
+        "branch": "main",
+        "enabled": true
+    },
+    "soden46/syarif-laravel-ai-skills": {
+        "owner": "soden46",
+        "name": "syarif-laravel-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ian-Louw/potion": {
+        "owner": "Ian-Louw",
+        "name": "potion",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ytvee-dev/webdev-agent-kit": {
+        "owner": "ytvee-dev",
+        "name": "webdev-agent-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "evnchn-agentic/chengyu-skills": {
+        "owner": "evnchn-agentic",
+        "name": "chengyu-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "prantikmedhi/jules-plugin-cc": {
+        "owner": "prantikmedhi",
+        "name": "jules-plugin-cc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "minhbi245/grok-plugin-cc": {
+        "owner": "minhbi245",
+        "name": "grok-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "V-Songbird/foreman": {
+        "owner": "V-Songbird",
+        "name": "foreman",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maee-co/cc-autoship": {
+        "owner": "maee-co",
+        "name": "cc-autoship",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/skill-smith": {
+        "owner": "DaizeDong",
+        "name": "skill-smith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/self-evolve": {
+        "owner": "DaizeDong",
+        "name": "self-evolve",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DaizeDong/demand-mining": {
+        "owner": "DaizeDong",
+        "name": "demand-mining",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/daily-hotspots": {
+        "owner": "DaizeDong",
+        "name": "daily-hotspots",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/small-cap-deepdive": {
+        "owner": "DaizeDong",
+        "name": "small-cap-deepdive",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DaizeDong/shopping-aggregator": {
+        "owner": "DaizeDong",
+        "name": "shopping-aggregator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/screen-vision": {
+        "owner": "DaizeDong",
+        "name": "screen-vision",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

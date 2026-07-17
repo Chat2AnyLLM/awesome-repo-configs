@@ -9784,5 +9784,77 @@
     "repoOwner": "PBNZ",
     "repoName": "watch-local",
     "repoBranch": "main"
+  },
+  "muloka/claude-plugins": {
+    "name": "muloka/claude-plugins",
+    "description": "jj (Jujutsu) plugins for Claude Code that keep coding agents on jj \u2014 hard-wall git enforcement, project setup, workspace isolation, commit workflows, peer review, and permission gating.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "muloka",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "soden46/syarif-laravel-ai-skills": {
+    "name": "soden46/syarif-laravel-ai-skills",
+    "description": "Reusable Laravel AI skills for Codex, Claude Code, and other AI coding assistants",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soden46",
+    "repoName": "syarif-laravel-ai-skills",
+    "repoBranch": "main"
+  },
+  "Ian-Louw/potion": {
+    "name": "Ian-Louw/potion",
+    "description": "\ud83e\uddea The magic potion for Claude Code \u2014 plans are prompts, disk is memory, evidence or it didn't happen. A lean closed-loop framework that brews itself, red-teams its own verifier, and keeps the receipts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ian-Louw",
+    "repoName": "potion",
+    "repoBranch": "main"
+  },
+  "ytvee-dev/webdev-agent-kit": {
+    "name": "ytvee-dev/webdev-agent-kit",
+    "description": "A cross-platform frontend kit for Codex, Claude Code, Cursor, OpenCode, etc. It helps AI coding agents work predictably and safely with existing frontend projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ytvee-dev",
+    "repoName": "webdev-agent-kit",
+    "repoBranch": "main"
+  },
+  "prantikmedhi/jules-plugin-cc": {
+    "name": "prantikmedhi/jules-plugin-cc",
+    "description": "Google Jules as Claude Code slash commands. Delegate coding tasks to Jules cloud VMs (async, up to 5 parallel sessions), then pull and apply the patch locally. Wraps the official @google/jules CLI (Jules Tools).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "prantikmedhi",
+    "repoName": "jules-plugin-cc",
+    "repoBranch": "main"
+  },
+  "minhbi245/grok-plugin-cc": {
+    "name": "minhbi245/grok-plugin-cc",
+    "description": "Delegate Claude Code tasks to Grok Build through a focused companion plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "minhbi245",
+    "repoName": "grok-plugin-cc",
+    "repoBranch": "main"
+  },
+  "V-Songbird/foreman": {
+    "name": "V-Songbird/foreman",
+    "description": "Prompt-engineering and project-roadmap plugin that crafts Anthropic-grade prompts and picks, surveys, and tracks your next tasks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "V-Songbird",
+    "repoName": "foreman",
+    "repoBranch": "main"
+  },
+  "maee-co/cc-autoship": {
+    "name": "maee-co/cc-autoship",
+    "description": "Turn AI's development work into a traceable, reviewable asset on GitHub. AI \u306e\u7a3c\u50cd\u3092 Issue\u30fbPR\u30fbdiff\u30fb\u30ec\u30d3\u30e5\u30fc\u3068\u3057\u3066\u6b8b\u3059 Claude Code \u5411\u3051\u30cf\u30fc\u30cd\u30b9\u7fa4\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maee-co",
+    "repoName": "cc-autoship",
+    "repoBranch": "main"
   }
 }

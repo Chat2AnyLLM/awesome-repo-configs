@@ -2144,5 +2144,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Ian-Louw/potion": {
+    "owner": "Ian-Louw",
+    "name": "potion",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "prantikmedhi/jules-plugin-cc": {
+    "owner": "prantikmedhi",
+    "name": "jules-plugin-cc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "maee-co/cc-autoship": {
+    "owner": "maee-co",
+    "name": "cc-autoship",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
