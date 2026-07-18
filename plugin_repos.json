@@ -10252,5 +10252,14 @@
     "repoOwner": "MartinHar",
     "repoName": "qa-bug-hunter",
     "repoBranch": "master"
+  },
+  "ForgeyClap/claude-forge": {
+    "name": "ForgeyClap/claude-forge",
+    "description": "Zero-dependency multi-agent build, automation and review system for Claude Code. 18 agents, 23 skills, a live per-project dashboard, and a /setup-forge onboarding wizard. One command: /forge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ForgeyClap",
+    "repoName": "claude-forge",
+    "repoBranch": "main"
   }
 }

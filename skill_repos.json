@@ -11493,5 +11493,46 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ForgeyClap/claude-forge": {
+        "owner": "ForgeyClap",
+        "name": "claude-forge",
+        "branch": "main",
+        "enabled": true
+    },
+    "yyswordsman-CN/south-china-report": {
+        "owner": "yyswordsman-CN",
+        "name": "south-china-report",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "prvthmpcypher/skills-education": {
+        "owner": "prvthmpcypher",
+        "name": "skills-education",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Victory-7291/project-scaffold-setup-skills": {
+        "owner": "Victory-7291",
+        "name": "project-scaffold-setup-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gyasis/chiron": {
+        "owner": "gyasis",
+        "name": "chiron",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "marcomorettim/illuminate": {
+        "owner": "marcomorettim",
+        "name": "illuminate",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

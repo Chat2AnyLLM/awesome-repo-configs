@@ -2242,5 +2242,12 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ForgeyClap/claude-forge": {
+    "owner": "ForgeyClap",
+    "name": "claude-forge",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
