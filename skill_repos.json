@@ -11376,5 +11376,88 @@
         "name": "agent-goodies",
         "branch": "main",
         "enabled": true
+    },
+    "karanb192/claude-code-hooks": {
+        "owner": "karanb192",
+        "name": "claude-code-hooks",
+        "branch": "main",
+        "enabled": true
+    },
+    "adriannoes/awesome-agentic-ai": {
+        "owner": "adriannoes",
+        "name": "awesome-agentic-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "drobins25/craft": {
+        "owner": "drobins25",
+        "name": "craft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yojahny55/claude-wp-builder": {
+        "owner": "yojahny55",
+        "name": "claude-wp-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thisis-romar/opendeck-factory": {
+        "owner": "thisis-romar",
+        "name": "opendeck-factory",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "hiphapis/loopcraft": {
+        "owner": "hiphapis",
+        "name": "loopcraft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "parisgroup-ai/imersao-ia-setup": {
+        "owner": "parisgroup-ai",
+        "name": "imersao-ia-setup",
+        "branch": "main",
+        "enabled": true
+    },
+    "UltraDD/context-navigator-skill": {
+        "owner": "UltraDD",
+        "name": "context-navigator-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Jaypatel1511/cdfi-superpowers": {
+        "owner": "Jaypatel1511",
+        "name": "cdfi-superpowers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "willianbs/skills": {
+        "owner": "willianbs",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "hsnuhow/how-skills": {
+        "owner": "hsnuhow",
+        "name": "how-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "okturan/claude-plugins": {
+        "owner": "okturan",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "mralabs/claude-plugins": {
+        "owner": "mralabs",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

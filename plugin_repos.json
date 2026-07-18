@@ -10090,5 +10090,122 @@
     "repoOwner": "gordon1210",
     "repoName": "agent-goodies",
     "repoBranch": "main"
+  },
+  "karanb192/claude-code-hooks": {
+    "name": "karanb192/claude-code-hooks",
+    "description": "\ud83e\ude9d Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karanb192",
+    "repoName": "claude-code-hooks",
+    "repoBranch": "main"
+  },
+  "adriannoes/awesome-agentic-ai": {
+    "name": "adriannoes/awesome-agentic-ai",
+    "description": "329 agent skills (Cursor, Claude Code & Codex), 5,380 OpenClaw skills, 201 ML notebooks, 51 research papers, 16 industry reports for PMs, Designers & Developers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adriannoes",
+    "repoName": "awesome-agentic-ai",
+    "repoBranch": "main"
+  },
+  "drobins25/craft": {
+    "name": "drobins25/craft",
+    "description": "A Claude Code plugin - a development harness that runs your work through a creative \u2192 implement \u2192 review loop, builds the expert agents you consult, and locks in the taste you keep showing. Stop vibing, start crafting.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drobins25",
+    "repoName": "craft",
+    "repoBranch": "main"
+  },
+  "yojahny55/claude-wp-builder": {
+    "name": "yojahny55/claude-wp-builder",
+    "description": "Claude Code plugin for building custom WordPress sites, demo-first workflow with ACF/SCF fields, bilingual support, and section-by-section theme generation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yojahny55",
+    "repoName": "claude-wp-builder",
+    "repoBranch": "main"
+  },
+  "thisis-romar/opendeck-factory": {
+    "name": "thisis-romar/opendeck-factory",
+    "description": "Programmatically generate, edit, and pack Elgato Stream Deck profiles \u2014 MCP server + Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thisis-romar",
+    "repoName": "opendeck-factory",
+    "repoBranch": "master"
+  },
+  "hiphapis/loopcraft": {
+    "name": "hiphapis/loopcraft",
+    "description": "Loop engineering plugin for Claude Code \u2014 persistent memory vault, self-correction hooks, and a 5-stage failure-to-knowledge distillation protocol. Self-improvement as a system, not a model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hiphapis",
+    "repoName": "loopcraft",
+    "repoBranch": "main"
+  },
+  "parisgroup-ai/imersao-ia-setup": {
+    "name": "parisgroup-ai/imersao-ia-setup",
+    "description": "Setup do ambiente + marketplace de skills de IA da Imers\u00e3o IA da ParisGroup (plugin do Claude Code)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "parisgroup-ai",
+    "repoName": "imersao-ia-setup",
+    "repoBranch": "main"
+  },
+  "cwf818/creditgauge": {
+    "name": "cwf818/creditgauge",
+    "description": "A provider-agnostic Claude Code statusline plugin for token-plan usage / remaining quota or balance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cwf818",
+    "repoName": "creditgauge",
+    "repoBranch": "main"
+  },
+  "Jaypatel1511/cdfi-superpowers": {
+    "name": "Jaypatel1511/cdfi-superpowers",
+    "description": "AI skill layer for the CDFI industry \u2014 NMTC eligibility, CDFI peer benchmarking, HMDA analysis, grounded in audited PyPI tooling",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jaypatel1511",
+    "repoName": "cdfi-superpowers",
+    "repoBranch": "main"
+  },
+  "hsnuhow/how-skills": {
+    "name": "hsnuhow/how-skills",
+    "description": "\u500b\u4eba Claude Code plugin marketplace\uff1askill \u7ba1\u7406\u6307\u4ee4\uff08skill-list/status/RCM\uff09\uff0b commands-only \u7684 ponytail\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hsnuhow",
+    "repoName": "how-skills",
+    "repoBranch": "main"
+  },
+  "okturan/claude-plugins": {
+    "name": "okturan/claude-plugins",
+    "description": "Claude Code plugins and agent skills: file organization, repo health audits, human-sounding writing. Install with npx skills or /plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "okturan",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "runverdict/plugins": {
+    "name": "runverdict/plugins",
+    "description": "Verdict's Claude Code plugin marketplace (runverdict-plugins) \u2014 add once, install any: repo-standard-toolkit (scaffold + enforce repo hygiene) and sf-security-review-toolkit (AppExchange security review prep). Every l...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "runverdict",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "mralabs/claude-plugins": {
+    "name": "mralabs/claude-plugins",
+    "description": "Claude Code plugin marketplace \u2014 devil-review (adversarial code review), commit (Haiku-delegated conventional commits), radar (release tracking)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mralabs",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }

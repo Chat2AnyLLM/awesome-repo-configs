@@ -2207,5 +2207,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "drobins25/craft": {
+    "owner": "drobins25",
+    "name": "craft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "yojahny55/claude-wp-builder": {
+    "owner": "yojahny55",
+    "name": "claude-wp-builder",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "thisis-romar/opendeck-factory": {
+    "owner": "thisis-romar",
+    "name": "opendeck-factory",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "hiphapis/loopcraft": {
+    "owner": "hiphapis",
+    "name": "loopcraft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
