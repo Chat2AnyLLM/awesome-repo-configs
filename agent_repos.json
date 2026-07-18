@@ -2235,5 +2235,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "MartinHar/qa-bug-hunter": {
+    "owner": "MartinHar",
+    "name": "qa-bug-hunter",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

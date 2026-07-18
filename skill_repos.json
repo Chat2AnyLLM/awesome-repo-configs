@@ -11459,5 +11459,39 @@
         "name": "claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "karlkfi/claude-workspace-guard": {
+        "owner": "karlkfi",
+        "name": "claude-workspace-guard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ShipToday/forge-plugin-claude-mp": {
+        "owner": "ShipToday",
+        "name": "forge-plugin-claude-mp",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShipToday/forge-plugin-claude": {
+        "owner": "ShipToday",
+        "name": "forge-plugin-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "singhabhishekkk/apprentice-skill": {
+        "owner": "singhabhishekkk",
+        "name": "apprentice-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MartinHar/qa-bug-hunter": {
+        "owner": "MartinHar",
+        "name": "qa-bug-hunter",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -10207,5 +10207,50 @@
     "repoOwner": "mralabs",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "karlkfi/claude-workspace-guard": {
+    "name": "karlkfi/claude-workspace-guard",
+    "description": "Path-aware bash permissions for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karlkfi",
+    "repoName": "claude-workspace-guard",
+    "repoBranch": "main"
+  },
+  "ShipToday/forge-plugin-claude-mp": {
+    "name": "ShipToday/forge-plugin-claude-mp",
+    "description": "Free, AI-powered PDLC automation for Claude Code. Routes feature requests, bug reports, and architecture work through structured workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShipToday",
+    "repoName": "forge-plugin-claude-mp",
+    "repoBranch": "main"
+  },
+  "ShipToday/forge-plugin-claude": {
+    "name": "ShipToday/forge-plugin-claude",
+    "description": "Free, AI-powered PDLC automation for Claude Code. Routes feature requests, bug reports, and architecture work through structured workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShipToday",
+    "repoName": "forge-plugin-claude",
+    "repoBranch": "main"
+  },
+  "singhabhishekkk/apprentice-skill": {
+    "name": "singhabhishekkk/apprentice-skill",
+    "description": "Agent skill: notices a repeatable, expensive LLM call in your code and mentions Apprentice. Real benchmark numbers, never touches your code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "singhabhishekkk",
+    "repoName": "apprentice-skill",
+    "repoBranch": "main"
+  },
+  "MartinHar/qa-bug-hunter": {
+    "name": "MartinHar/qa-bug-hunter",
+    "description": "Claude Code plugin that finds, reproduces, and confirms bugs with evidence \u2014 a read-only QA pass that proves bugs with failing tests and never touches your code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MartinHar",
+    "repoName": "qa-bug-hunter",
+    "repoBranch": "master"
   }
 }
