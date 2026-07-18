@@ -11534,5 +11534,58 @@
         "branch": "master",
         "skillsPath": "./",
         "enabled": true
+    },
+    "guinacio/claude-image-gen": {
+        "owner": "guinacio",
+        "name": "claude-image-gen",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stevederico/video-understanding": {
+        "owner": "stevederico",
+        "name": "video-understanding",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tamdogood/builder-essential-skills": {
+        "owner": "tamdogood",
+        "name": "builder-essential-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "clever-cc-plugins/cc-handoff": {
+        "owner": "clever-cc-plugins",
+        "name": "cc-handoff",
+        "branch": "main",
+        "enabled": true
+    },
+    "clever-cc-plugins/cc-content": {
+        "owner": "clever-cc-plugins",
+        "name": "cc-content",
+        "branch": "main",
+        "enabled": true
+    },
+    "goodindustries/Maxx": {
+        "owner": "goodindustries",
+        "name": "Maxx",
+        "branch": "main",
+        "enabled": true
+    },
+    "Wavez/debrief-skill": {
+        "owner": "Wavez",
+        "name": "debrief-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sunifyre/production-canvas": {
+        "owner": "sunifyre",
+        "name": "production-canvas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -10261,5 +10261,50 @@
     "repoOwner": "ForgeyClap",
     "repoName": "claude-forge",
     "repoBranch": "main"
+  },
+  "guinacio/claude-image-gen": {
+    "name": "guinacio/claude-image-gen",
+    "description": "AI-powered image generation using Google Gemini, integrated with Claude Code via Skills or Claude.ai via MCP (Model Context Protocol).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guinacio",
+    "repoName": "claude-image-gen",
+    "repoBranch": "master"
+  },
+  "pleasedodisturb/chronoclaude": {
+    "name": "pleasedodisturb/chronoclaude",
+    "description": "Time awareness for Claude Code \u2014 visible per-message timestamps, hidden timing context, MCP time tools, /timestamps timeline, statusline clock. Merges three community plugins into one toggleable whole.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pleasedodisturb",
+    "repoName": "chronoclaude",
+    "repoBranch": "master"
+  },
+  "clever-cc-plugins/cc-content": {
+    "name": "clever-cc-plugins/cc-content",
+    "description": "A Claude Code plugin that provides a suite of content creation skills for marketing projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clever-cc-plugins",
+    "repoName": "cc-content",
+    "repoBranch": "main"
+  },
+  "goodindustries/Maxx": {
+    "name": "goodindustries/Maxx",
+    "description": "A Claude Code status line that paces your tokens so you never run out \u2014 shows session + weekly limits before you hit them. Zero egress.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "goodindustries",
+    "repoName": "Maxx",
+    "repoBranch": "main"
+  },
+  "sunifyre/production-canvas": {
+    "name": "sunifyre/production-canvas",
+    "description": "Plan and pressure-test live game events with Claude. Seven planning views, one underlying dataset, computed before design lock.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sunifyre",
+    "repoName": "production-canvas",
+    "repoBranch": "main"
   }
 }
