@@ -10513,5 +10513,95 @@
     "repoOwner": "schmug",
     "repoName": "clodcast",
     "repoBranch": "main"
+  },
+  "ckelsoe/prompt-architect": {
+    "name": "ckelsoe/prompt-architect",
+    "description": "Claude Code skill that transforms vague prompts into structured, expert-level prompts using 7 research-backed   frameworks (CO-STAR, RISEN, RISE, TIDD-EC, RTF, CoT, CoD)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ckelsoe",
+    "repoName": "prompt-architect",
+    "repoBranch": "main"
+  },
+  "Kasempiternal/Claude-Agent-System": {
+    "name": "Kasempiternal/Claude-Agent-System",
+    "description": "Claude Code plugin for deep research, guarded Codex delegation, deliberate Agent Teams, and focused safety hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kasempiternal",
+    "repoName": "Claude-Agent-System",
+    "repoBranch": "main"
+  },
+  "haroontrailblazer/ghost-font-decoder": {
+    "name": "haroontrailblazer/ghost-font-decoder",
+    "description": "Give AI agents motion vision, decode hidden messages inside random-dot \u201cghost font\u201d videos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "haroontrailblazer",
+    "repoName": "ghost-font-decoder",
+    "repoBranch": "main"
+  },
+  "tercel/spec-forge": {
+    "name": "tercel/spec-forge",
+    "description": "Generate industry-standard specifications \u2014 PRD, SRS, Technical Design, and Test Plan \u2014 each usable standalone or as part of a full traceability chain",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tercel",
+    "repoName": "spec-forge",
+    "repoBranch": "main"
+  },
+  "NTCHz/off-by-none": {
+    "name": "NTCHz/off-by-none",
+    "description": "Claude Code skill for spec-faithful implementation: spec-derived tests, mandatory boundary coverage, evidence-gated done reports. Every rule TDD-tested against real baseline failures on Opus/Sonnet/Haiku.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NTCHz",
+    "repoName": "off-by-none",
+    "repoBranch": "main"
+  },
+  "photostructure/coding-skills": {
+    "name": "photostructure/coding-skills",
+    "description": "Opinionated Claude Code and Codex workflow skills: iterative planning, proof-based review, and clean Conventional Commits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "photostructure",
+    "repoName": "coding-skills",
+    "repoBranch": "main"
+  },
+  "Bandersnatch0x/design-playbook": {
+    "name": "Bandersnatch0x/design-playbook",
+    "description": "Design I/O plugin for Claude Code & coding agents \u2014 declarations + contracts that make UI generation constrained, reviewable, and recirculatable. Not a style pack; composes with ui-ux-pro-max + frontend-design.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Bandersnatch0x",
+    "repoName": "design-playbook",
+    "repoBranch": "main"
+  },
+  "parkjui92-tech/policy-research-kits": {
+    "name": "parkjui92-tech/policy-research-kits",
+    "description": "\uc5f0\uad6c\uc790\uc6a9 \uac80\uc99d \ub0b4\uc7a5 \ud0b7 \uc2dc\ub9ac\uc988 \ud5c8\ube0c \u2014 \uc815\ucc45\uc5f0\uad6c\u00b7R&D \uc81c\uc548\uc11c\u00b7\ub17c\ubb38 \ud0b7 3\uc885\uc758 \ud1b5\ud569 \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4(\uac01 \ud0b7\uc740 \ub3c5\ub9bd \uc800\uc7a5\uc18c). \ud55c \ubc88 \ub4f1\ub85d\uc73c\ub85c 3\ud0b7 \uc124\uce58 | Hub marketplace for verified Korean research-writing agent kits",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "parkjui92-tech",
+    "repoName": "policy-research-kits",
+    "repoBranch": "main"
+  },
+  "parkjui92-tech/policy-research-kit": {
+    "name": "parkjui92-tech/policy-research-kit",
+    "description": "\uc815\ucc45\uc5f0\uad6c\ubcf4\uace0\uc11c \uc5d0\uc774\uc804\ud2b8 \ud300(5\uc778) Claude Code \ud50c\ub7ec\uadf8\uc778 \u2014 \uc124\uacc4\uac80\ud1a0 \uac8c\uc774\ud2b8\u00b7\ubaa9\ucc28 \uc2b9\uc778\u00b7\ucd9c\ucc98 \uc2e4\uc7ac \uac80\uc99d\u00b7.hwpx \uc0b0\ucd9c. \uc21c\uc815 \ub300\ube44 \uc2e4\uce21 A/B \ub3d9\ubd09 | Policy research report agent team with verification gates and HWPX output",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "parkjui92-tech",
+    "repoName": "policy-research-kit",
+    "repoBranch": "main"
+  },
+  "vasiliy-mikhailov/bump-java-version-skill": {
+    "name": "vasiliy-mikhailov/bump-java-version-skill",
+    "description": "Portable Agent Skill: bump a Maven project one Java LTS step (8->11, 11->17, 17->21, 21->25) conserving previously-passing tests",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vasiliy-mikhailov",
+    "repoName": "bump-java-version-skill",
+    "repoBranch": "main"
   }
 }

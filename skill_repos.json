@@ -11900,5 +11900,140 @@
         "name": "codex-guides",
         "branch": "main",
         "enabled": true
+    },
+    "ckelsoe/prompt-architect": {
+        "owner": "ckelsoe",
+        "name": "prompt-architect",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Kasempiternal/Claude-Agent-System": {
+        "owner": "Kasempiternal",
+        "name": "Claude-Agent-System",
+        "branch": "main",
+        "enabled": true
+    },
+    "haroontrailblazer/ghost-font-decoder": {
+        "owner": "haroontrailblazer",
+        "name": "ghost-font-decoder",
+        "branch": "main",
+        "enabled": true
+    },
+    "capsrock/bauhaus-design-skill": {
+        "owner": "capsrock",
+        "name": "bauhaus-design-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tercel/spec-forge": {
+        "owner": "tercel",
+        "name": "spec-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tinylion1024/web-novel-master": {
+        "owner": "tinylion1024",
+        "name": "web-novel-master",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NTCHz/off-by-none": {
+        "owner": "NTCHz",
+        "name": "off-by-none",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wallmage/skill-scout": {
+        "owner": "wallmage",
+        "name": "skill-scout",
+        "branch": "main",
+        "enabled": true
+    },
+    "napoler/skill-fix": {
+        "owner": "napoler",
+        "name": "skill-fix",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "photostructure/coding-skills": {
+        "owner": "photostructure",
+        "name": "coding-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "capsrock/reid-miles-design-skill": {
+        "owner": "capsrock",
+        "name": "reid-miles-design-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Bandersnatch0x/design-playbook": {
+        "owner": "Bandersnatch0x",
+        "name": "design-playbook",
+        "branch": "main",
+        "enabled": true
+    },
+    "jasoncarrigan/ecom-klaviyo-email-skill": {
+        "owner": "jasoncarrigan",
+        "name": "ecom-klaviyo-email-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "holy-templar/creative-strategy-research-protocol": {
+        "owner": "holy-templar",
+        "name": "creative-strategy-research-protocol",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "moudrkat/go-to-damn-bed": {
+        "owner": "moudrkat",
+        "name": "go-to-damn-bed",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "erenisci/acta": {
+        "owner": "erenisci",
+        "name": "acta",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "parkjui92-tech/policy-research-kit": {
+        "owner": "parkjui92-tech",
+        "name": "policy-research-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bedardandy/coloring-book-skill": {
+        "owner": "bedardandy",
+        "name": "coloring-book-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jasoncarrigan/ecom-static-ads-skill": {
+        "owner": "jasoncarrigan",
+        "name": "ecom-static-ads-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vasiliy-mikhailov/bump-java-version-skill": {
+        "owner": "vasiliy-mikhailov",
+        "name": "bump-java-version-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

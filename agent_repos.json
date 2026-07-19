@@ -2291,5 +2291,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "parkjui92-tech/policy-research-kit": {
+    "owner": "parkjui92-tech",
+    "name": "policy-research-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
