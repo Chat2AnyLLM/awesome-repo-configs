@@ -10306,5 +10306,14 @@
     "repoOwner": "sunifyre",
     "repoName": "production-canvas",
     "repoBranch": "main"
+  },
+  "squirrelscan/squirrelscan": {
+    "name": "squirrelscan",
+    "description": "Audit websites for SEO, performance, security, accessibility, and agent experience (260+ rules), returning exact fixes for your coding agent. Ships as a Claude Code plugin and marketplace, plus skills and a hosted MCP server.",
+    "enabled": true,
+    "type": "plugin",
+    "repoOwner": "squirrelscan",
+    "repoName": "squirrelscan",
+    "repoBranch": "main"
   }
 }
