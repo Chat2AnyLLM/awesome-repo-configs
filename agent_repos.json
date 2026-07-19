@@ -2256,5 +2256,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "Lumos221/clock-in": {
+    "owner": "Lumos221",
+    "name": "clock-in",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bluelove0836-netizen/ai-employee-management-layer": {
+    "owner": "bluelove0836-netizen",
+    "name": "ai-employee-management-layer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

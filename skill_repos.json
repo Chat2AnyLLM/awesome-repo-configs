@@ -11648,5 +11648,124 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "GiaSip/giasip-skills": {
+        "owner": "GiaSip",
+        "name": "giasip-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jojoprison/mnemo": {
+        "owner": "jojoprison",
+        "name": "mnemo",
+        "branch": "main",
+        "enabled": true
+    },
+    "social-media-skills/skills": {
+        "owner": "social-media-skills",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Xue-Sir/skills-manager": {
+        "owner": "Xue-Sir",
+        "name": "skills-manager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Matthewyin/CustomSkills": {
+        "owner": "Matthewyin",
+        "name": "CustomSkills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Heapy/kortex": {
+        "owner": "Heapy",
+        "name": "kortex",
+        "branch": "main",
+        "enabled": true
+    },
+    "andrian-syh/roblox-best-practices-skill": {
+        "owner": "andrian-syh",
+        "name": "roblox-best-practices-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "lakreame/build-loop": {
+        "owner": "lakreame",
+        "name": "build-loop",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hedde/trigger_tree": {
+        "owner": "Hedde",
+        "name": "trigger_tree",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "atman-33/workhub": {
+        "owner": "atman-33",
+        "name": "workhub",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lumos221/clock-in": {
+        "owner": "Lumos221",
+        "name": "clock-in",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thepictishbeast/claude-tools": {
+        "owner": "thepictishbeast",
+        "name": "claude-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aksheyw/claude-code-learned-skills": {
+        "owner": "aksheyw",
+        "name": "claude-code-learned-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "88plug/dehumanize": {
+        "owner": "88plug",
+        "name": "dehumanize",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fundryi/claude-codex-handoff": {
+        "owner": "Fundryi",
+        "name": "claude-codex-handoff",
+        "branch": "main",
+        "enabled": true
+    },
+    "jobspipe/jobspipe-cli": {
+        "owner": "jobspipe",
+        "name": "jobspipe-cli",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "virtualsms-io/claude-skill-sms-verification": {
+        "owner": "virtualsms-io",
+        "name": "claude-skill-sms-verification",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "virtualsms-io/sms-skill": {
+        "owner": "virtualsms-io",
+        "name": "sms-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

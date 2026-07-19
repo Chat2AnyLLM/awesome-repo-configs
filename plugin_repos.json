@@ -10351,5 +10351,95 @@
     "repoOwner": "Crawlora-org",
     "repoName": "crawlora-skills",
     "repoBranch": "main"
+  },
+  "GiaSip/giasip-skills": {
+    "name": "GiaSip/giasip-skills",
+    "description": "Evidence-grounded research agent for Claude Code & Codex: every claim gets a confidence rating + source-family tag, and adversarial gates block unsupported claims before they reach your report. Ships with a multi-mode...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GiaSip",
+    "repoName": "giasip-skills",
+    "repoBranch": "main"
+  },
+  "jojoprison/mnemo": {
+    "name": "jojoprison/mnemo",
+    "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email bridge. Five lightweight skills, CLI-first, any taxonomy.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jojoprison",
+    "repoName": "mnemo",
+    "repoBranch": "main"
+  },
+  "social-media-skills/skills": {
+    "name": "social-media-skills/skills",
+    "description": "106 social media skills for AI agents - strategy, writing, video, design, platform growth, publishing, and analytics. Works with Claude, Cursor, OpenClaw, Hermes & 40+ agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "social-media-skills",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Heapy/kortex": {
+    "name": "Heapy/kortex",
+    "description": "Agent Skills for Kotlin Development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Heapy",
+    "repoName": "kortex",
+    "repoBranch": "main"
+  },
+  "lakreame/build-loop": {
+    "name": "lakreame/build-loop",
+    "description": "Agentic loop skill for building SaaS, DaaS, and AIaaS projects \u2014 as a Senior Software Developer. you would need the caveman skill.md file.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lakreame",
+    "repoName": "build-loop",
+    "repoBranch": "main"
+  },
+  "Hedde/trigger_tree": {
+    "name": "Hedde/trigger_tree",
+    "description": "Documentation-discovery telemetry for Claude Code \u2014 heat/cold maps, health grade, evidence-backed router fixes. 100% local, zero tokens. /tt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hedde",
+    "repoName": "trigger_tree",
+    "repoBranch": "main"
+  },
+  "atman-33/workhub": {
+    "name": "atman-33/workhub",
+    "description": "Tauri 2 all-in-one developer hub: task board backed by an Obsidian vault and Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atman-33",
+    "repoName": "workhub",
+    "repoBranch": "main"
+  },
+  "Lumos221/clock-in": {
+    "name": "Lumos221/clock-in",
+    "description": "Founder-mode multi-agent orchestration for Claude Code: a department org with hard plan/output review gates and independent HR oversight.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lumos221",
+    "repoName": "clock-in",
+    "repoBranch": "main"
+  },
+  "88plug/dehumanize": {
+    "name": "88plug/dehumanize",
+    "description": "Makes AI work like AI \u2014 no human time estimates, no asking for accessible data, no emotional labor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "88plug",
+    "repoName": "dehumanize",
+    "repoBranch": "main"
+  },
+  "Fundryi/claude-codex-handoff": {
+    "name": "Fundryi/claude-codex-handoff",
+    "description": "Claude Code -> Codex handoffs that don't get stuck: bundled codex plugin fork + live web dashboard to start, watch, resume and cancel headless Codex runs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fundryi",
+    "repoName": "claude-codex-handoff",
+    "repoBranch": "main"
   }
 }
