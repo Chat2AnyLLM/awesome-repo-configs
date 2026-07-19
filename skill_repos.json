@@ -11587,5 +11587,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "squirrelscan/squirrelscan": {
+        "owner": "squirrelscan",
+        "name": "squirrelscan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
