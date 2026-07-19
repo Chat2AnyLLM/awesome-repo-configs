@@ -11601,5 +11601,52 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Hainrixz/all-deploy": {
+        "owner": "Hainrixz",
+        "name": "all-deploy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nxtg-ai/forge-plugin": {
+        "owner": "nxtg-ai",
+        "name": "forge-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "ducquoc-gft/stm-skill": {
+        "owner": "ducquoc-gft",
+        "name": "stm-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "garyhtou/claude-plugins": {
+        "owner": "garyhtou",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Pr1m4lc0d3/KiSYSTEM": {
+        "owner": "Pr1m4lc0d3",
+        "name": "KiSYSTEM",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ulpi-io/plugin-handoff": {
+        "owner": "ulpi-io",
+        "name": "plugin-handoff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Crawlora-org/crawlora-skills": {
+        "owner": "Crawlora-org",
+        "name": "crawlora-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

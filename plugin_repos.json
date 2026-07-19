@@ -10315,5 +10315,41 @@
     "repoOwner": "squirrelscan",
     "repoName": "squirrelscan",
     "repoBranch": "main"
+  },
+  "nxtg-ai/forge-plugin": {
+    "name": "nxtg-ai/forge-plugin",
+    "description": "Forge Plugin: Zero-dependency governance for Claude Code. 21 commands, 22 agents, 29 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nxtg-ai",
+    "repoName": "forge-plugin",
+    "repoBranch": "main"
+  },
+  "garyhtou/claude-plugins": {
+    "name": "garyhtou/claude-plugins",
+    "description": "Claude Code plugins that make Claude build like a senior specialist. high-fidelity-web: awwwards-grade animated marketing/landing sites (design tokens, motion, procedural web 3D). rails-testing: senior RSpec/Minitest...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "garyhtou",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Pr1m4lc0d3/KiSYSTEM": {
+    "name": "Pr1m4lc0d3/KiSYSTEM",
+    "description": "KiSYSTEM - measure twice, cut once. A Claude Code skill bundle that keeps AI-written code clean, modular, and human-readable, enforced from the base of a project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pr1m4lc0d3",
+    "repoName": "KiSYSTEM",
+    "repoBranch": "main"
+  },
+  "Crawlora-org/crawlora-skills": {
+    "name": "Crawlora-org/crawlora-skills",
+    "description": "Crawlora Agent Skills \u2014 structured public web data (search, e-commerce, social, finance, app stores, media, reviews) via the Crawlora REST API. Installable in any agent with the skills CLI or as a Claude Code plugin m...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Crawlora-org",
+    "repoName": "crawlora-skills",
+    "repoBranch": "main"
   }
 }
