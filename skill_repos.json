@@ -11594,5 +11594,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "dashaworks/report-skills": {
+        "owner": "dashaworks",
+        "name": "report-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
