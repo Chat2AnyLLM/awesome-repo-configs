@@ -10441,5 +10441,77 @@
     "repoOwner": "Fundryi",
     "repoName": "claude-codex-handoff",
     "repoBranch": "main"
+  },
+  "jnMetaCode/ai-shortfilm-prompts": {
+    "name": "jnMetaCode/ai-shortfilm-prompts",
+    "description": "Claude Code Skill that turns any idea into a cinematic, model-ready video prompt \u2014 Sora \u00b7 Kling \u00b7 Veo \u00b7 Seedance. 21 genre templates, 5-stage structure, eval-tested. Distilled from the AI short Hollywood director PJ A...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jnMetaCode",
+    "repoName": "ai-shortfilm-prompts",
+    "repoBranch": "main"
+  },
+  "existential-birds/beagle": {
+    "name": "existential-birds/beagle",
+    "description": "Agent Skills marketplace: framework-aware skills for code review, documentation, test-plan generation, AI-writing detection, architectural analysis, and git workflows \u2014 for Python, Go, Rust, Elixir, React, Remix, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "existential-birds",
+    "repoName": "beagle",
+    "repoBranch": "main"
+  },
+  "vitaecontext/vitaecontext": {
+    "name": "vitaecontext/vitaecontext",
+    "description": "Give your AI agents grounded, reusable career context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vitaecontext",
+    "repoName": "vitaecontext",
+    "repoBranch": "main"
+  },
+  "agents-inc/skills": {
+    "name": "agents-inc/skills",
+    "description": "The official skills marketplace for Agents Inc, an agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agents-inc",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "kanfu-panda/pdlc-skills": {
+    "name": "kanfu-panda/pdlc-skills",
+    "description": "36 slash commands that turn Claude Code into a real PDLC workflow \u2014 PRD \u2192 TDD \u2192 implement \u2192 review \u2192 ship. Hard contracts force AI to persist artifacts, write failing tests first, and run self-checks. No more \"looks d...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kanfu-panda",
+    "repoName": "pdlc-skills",
+    "repoBranch": "main"
+  },
+  "slopstopper/plumb-line": {
+    "name": "slopstopper/plumb-line",
+    "description": "A plumb line finds true vertical by gravity alone. plumb-line is a provenance library and Claude Code plugin that does the same for code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slopstopper",
+    "repoName": "plumb-line",
+    "repoBranch": "main"
+  },
+  "davidteren/intent-engineering": {
+    "name": "davidteren/intent-engineering",
+    "description": "Enforce intent engineering: a Claude Code plugin with 5 review lenses (predictability, convention, simplicity, experience, architecture) for planning, plan validation, code review, and codebase audit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davidteren",
+    "repoName": "intent-engineering",
+    "repoBranch": "main"
+  },
+  "schmug/clodcast": {
+    "name": "schmug/clodcast",
+    "description": "Daily-digest podcast skill \u2014 turns a list of saved articles into a fully-produced Spotify episode using Qwen3-TTS, on top of the save-to-spotify CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "schmug",
+    "repoName": "clodcast",
+    "repoBranch": "main"
   }
 }

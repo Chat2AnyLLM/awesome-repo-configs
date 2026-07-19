@@ -2270,5 +2270,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "furkancingoz/aso-skill": {
+    "owner": "furkancingoz",
+    "name": "aso-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "whenpoem/aiscientist": {
+    "owner": "whenpoem",
+    "name": "aiscientist",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Honorboxx/crew": {
+    "owner": "Honorboxx",
+    "name": "crew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

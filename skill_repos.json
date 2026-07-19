@@ -11774,5 +11774,131 @@
         "branch": "main",
         "skillsPath": ".agents/skills",
         "enabled": true
+    },
+    "jnMetaCode/ai-shortfilm-prompts": {
+        "owner": "jnMetaCode",
+        "name": "ai-shortfilm-prompts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "existential-birds/beagle": {
+        "owner": "existential-birds",
+        "name": "beagle",
+        "branch": "main",
+        "enabled": true
+    },
+    "vitaecontext/vitaecontext": {
+        "owner": "vitaecontext",
+        "name": "vitaecontext",
+        "branch": "main",
+        "enabled": true
+    },
+    "furkancingoz/aso-skill": {
+        "owner": "furkancingoz",
+        "name": "aso-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "agents-inc/skills": {
+        "owner": "agents-inc",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kanfu-panda/pdlc-skills": {
+        "owner": "kanfu-panda",
+        "name": "pdlc-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "whenpoem/aiscientist": {
+        "owner": "whenpoem",
+        "name": "aiscientist",
+        "branch": "main",
+        "enabled": true
+    },
+    "JeonKH81/MediStat-Table1": {
+        "owner": "JeonKH81",
+        "name": "MediStat-Table1",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "slopstopper/plumb-line": {
+        "owner": "slopstopper",
+        "name": "plumb-line",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JeonKH81/MediStat-EDA": {
+        "owner": "JeonKH81",
+        "name": "MediStat-EDA",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Hans-Vader/squadjs-plugin-creator-skill": {
+        "owner": "Hans-Vader",
+        "name": "squadjs-plugin-creator-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "davidteren/intent-engineering": {
+        "owner": "davidteren",
+        "name": "intent-engineering",
+        "branch": "main",
+        "enabled": true
+    },
+    "DENGYUFAN0/qigua-skill": {
+        "owner": "DENGYUFAN0",
+        "name": "qigua-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "ChuluuMGL/proposal-ppt-skill": {
+        "owner": "ChuluuMGL",
+        "name": "proposal-ppt-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fevra-dev/Subrosa": {
+        "owner": "fevra-dev",
+        "name": "Subrosa",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Honorboxx/crew": {
+        "owner": "Honorboxx",
+        "name": "crew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "schmug/clodcast": {
+        "owner": "schmug",
+        "name": "clodcast",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lainXXX/aistudio-chat-skill": {
+        "owner": "lainXXX",
+        "name": "aistudio-chat-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ojesusmp/codex-guides": {
+        "owner": "ojesusmp",
+        "name": "codex-guides",
+        "branch": "main",
+        "enabled": true
     }
 }
