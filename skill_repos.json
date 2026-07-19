@@ -11767,5 +11767,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Simon-He95/markstream-vue": {
+        "owner": "Simon-He95",
+        "name": "markstream-vue",
+        "branch": "main",
+        "skillsPath": ".agents/skills",
+        "enabled": true
     }
 }
