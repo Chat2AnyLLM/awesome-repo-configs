@@ -10747,5 +10747,77 @@
     "repoOwner": "cubha",
     "repoName": "claude-workflow-plugins",
     "repoBranch": "main"
+  },
+  "charlieviettq/awesome-agent-skill": {
+    "name": "charlieviettq/awesome-agent-skill",
+    "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "charlieviettq",
+    "repoName": "awesome-agent-skill",
+    "repoBranch": "main"
+  },
+  "Raishin/vanguard-frontier-agentic": {
+    "name": "Raishin/vanguard-frontier-agentic",
+    "description": "Curated marketplace of AI skills, agents, and rules for cloud, zero-trust, and compliance-aware engineering - works with Claude Code, Codex, Cursor, Copilot, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Raishin",
+    "repoName": "vanguard-frontier-agentic",
+    "repoBranch": "master"
+  },
+  "controlplane-com/ai-plugin": {
+    "name": "controlplane-com/ai-plugin",
+    "description": "AI assistant plugin for Control Plane: Claude Code, Codex, Antigravity, and MCP workflows for deploying, troubleshooting, and managing multi-cloud workloads.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "controlplane-com",
+    "repoName": "ai-plugin",
+    "repoBranch": "main"
+  },
+  "kgaidev/kgai": {
+    "name": "kgaidev/kgai",
+    "description": "Shared memory for AI dev teams \u2014 an immutable knowledge graph of the decisions behind your code, auto-captured by your agent and synced without merge conflicts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kgaidev",
+    "repoName": "kgai",
+    "repoBranch": "main"
+  },
+  "Darcos-Loft/fluid": {
+    "name": "Darcos-Loft/fluid",
+    "description": "Anti-generic design skills for AI agents: fluid (motion) + design-system (identity) + a deterministic detector. Extracted from production.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Darcos-Loft",
+    "repoName": "fluid",
+    "repoBranch": "main"
+  },
+  "parkjui92/policy-research-kit": {
+    "name": "parkjui92/policy-research-kit",
+    "description": "\uc815\ucc45\uc5f0\uad6c\ubcf4\uace0\uc11c \uc5d0\uc774\uc804\ud2b8 \ud300(5\uc778) Claude Code \ud50c\ub7ec\uadf8\uc778 \u2014 \uc124\uacc4\uac80\ud1a0 \uac8c\uc774\ud2b8\u00b7\ubaa9\ucc28 \uc2b9\uc778\u00b7\ucd9c\ucc98 \uc2e4\uc7ac \uac80\uc99d\u00b7.hwpx \uc0b0\ucd9c. \uc21c\uc815 \ub300\ube44 \uc2e4\uce21 A/B \ub3d9\ubd09 | Policy research report agent team with verification gates and HWPX output",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "parkjui92",
+    "repoName": "policy-research-kit",
+    "repoBranch": "main"
+  },
+  "HECer/yoke": {
+    "name": "HECer/yoke",
+    "description": "HECer/yoke \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HECer",
+    "repoName": "yoke",
+    "repoBranch": "main"
+  },
+  "urveshdev/tradelane-intel": {
+    "name": "urveshdev/tradelane-intel",
+    "description": "Ocean container-shipping tradelane analyst \u2014 answer any tradelane/port/service/carrier question from live public data with citations. Portable to Claude, ChatGPT, Gemini. No dataset bundled.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "urveshdev",
+    "repoName": "tradelane-intel",
+    "repoBranch": "main"
   }
 }

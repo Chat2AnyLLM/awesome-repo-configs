@@ -2312,5 +2312,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Raishin/vanguard-frontier-agentic": {
+    "owner": "Raishin",
+    "name": "vanguard-frontier-agentic",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rhawk117/agentmaster": {
+    "owner": "rhawk117",
+    "name": "agentmaster",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "parkjui92/policy-research-kit": {
+    "owner": "parkjui92",
+    "name": "policy-research-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -12317,5 +12317,132 @@
         "name": "claude-workflow-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "baidu-netdisk/bdpan-storage": {
+        "owner": "baidu-netdisk",
+        "name": "bdpan-storage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "charlieviettq/awesome-agent-skill": {
+        "owner": "charlieviettq",
+        "name": "awesome-agent-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Vincentwei1021/video-shotcraft": {
+        "owner": "Vincentwei1021",
+        "name": "video-shotcraft",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Raishin/vanguard-frontier-agentic": {
+        "owner": "Raishin",
+        "name": "vanguard-frontier-agentic",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mario-montanari/italiano-scrittura-anti-ai": {
+        "owner": "mario-montanari",
+        "name": "italiano-scrittura-anti-ai",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "controlplane-com/ai-plugin": {
+        "owner": "controlplane-com",
+        "name": "ai-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "AnayDhawan/oss-launch": {
+        "owner": "AnayDhawan",
+        "name": "oss-launch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kgaidev/kgai": {
+        "owner": "kgaidev",
+        "name": "kgai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Darcos-Loft/fluid": {
+        "owner": "Darcos-Loft",
+        "name": "fluid",
+        "branch": "main",
+        "enabled": true
+    },
+    "markus-smile/ios-app-agentic-engineering": {
+        "owner": "markus-smile",
+        "name": "ios-app-agentic-engineering",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rhawk117/agentmaster": {
+        "owner": "rhawk117",
+        "name": "agentmaster",
+        "branch": "main",
+        "enabled": true
+    },
+    "parkjui92/policy-research-kit": {
+        "owner": "parkjui92",
+        "name": "policy-research-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HECer/yoke": {
+        "owner": "HECer",
+        "name": "yoke",
+        "branch": "main",
+        "enabled": true
+    },
+    "IsmaelMartinez/delegate-local": {
+        "owner": "IsmaelMartinez",
+        "name": "delegate-local",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "urveshdev/tradelane-intel": {
+        "owner": "urveshdev",
+        "name": "tradelane-intel",
+        "branch": "main",
+        "enabled": true
+    },
+    "YunhaoDou/whoop-copilot": {
+        "owner": "YunhaoDou",
+        "name": "whoop-copilot",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "parkjui92/form-tailor": {
+        "owner": "parkjui92",
+        "name": "form-tailor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "parkjui92/report-to-brief": {
+        "owner": "parkjui92",
+        "name": "report-to-brief",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "parkjui92/paper-proofread": {
+        "owner": "parkjui92",
+        "name": "paper-proofread",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
