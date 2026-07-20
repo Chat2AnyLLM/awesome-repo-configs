@@ -10819,5 +10819,14 @@
     "repoOwner": "urveshdev",
     "repoName": "tradelane-intel",
     "repoBranch": "main"
+  },
+  "jpantsjoha/ai-native-developer-experience": {
+    "name": "join-the-team",
+    "description": "Team operating model for hybrid human+AI delivery with drift-checked authority, risk, evidence, review, and completion guardrails.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jpantsjoha",
+    "repoName": "ai-native-developer-experience",
+    "repoBranch": "main"
   }
 }
