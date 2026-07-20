@@ -2333,5 +2333,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AlpacaLabsLLC/skills-for-architects": {
+    "owner": "AlpacaLabsLLC",
+    "name": "skills-for-architects",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gabelul/stitch-kit": {
+    "owner": "gabelul",
+    "name": "stitch-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "andrewcigan/vibe-dev-plugin": {
+    "owner": "andrewcigan",
+    "name": "vibe-dev-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

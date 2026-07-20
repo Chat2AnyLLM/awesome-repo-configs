@@ -12444,5 +12444,137 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "ayghri/i-have-adhd": {
+        "owner": "ayghri",
+        "name": "i-have-adhd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Hao0321/claude-skill-social-post": {
+        "owner": "Hao0321",
+        "name": "claude-skill-social-post",
+        "branch": "main",
+        "enabled": true
+    },
+    "AlpacaLabsLLC/skills-for-architects": {
+        "owner": "AlpacaLabsLLC",
+        "name": "skills-for-architects",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gabelul/stitch-kit": {
+        "owner": "gabelul",
+        "name": "stitch-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andrewcigan/vibe-dev-plugin": {
+        "owner": "andrewcigan",
+        "name": "vibe-dev-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "foreverse-app/character-card-skills": {
+        "owner": "foreverse-app",
+        "name": "character-card-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vivialiudesign/agentic-sprint": {
+        "owner": "vivialiudesign",
+        "name": "agentic-sprint",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shalintripathi/saas-marketing-agents": {
+        "owner": "shalintripathi",
+        "name": "saas-marketing-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "tkolleh/skills": {
+        "owner": "tkolleh",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "StuMason/edator": {
+        "owner": "StuMason",
+        "name": "edator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ownkube/ownkube-cli": {
+        "owner": "ownkube",
+        "name": "ownkube-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "davidvictor/slopspeare": {
+        "owner": "davidvictor",
+        "name": "slopspeare",
+        "branch": "main",
+        "enabled": true
+    },
+    "bertrand-do/ai-photography-accuracy": {
+        "owner": "bertrand-do",
+        "name": "ai-photography-accuracy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "L3-iGrant/skills": {
+        "owner": "L3-iGrant",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "goingli0324/muzi-going-skills": {
+        "owner": "goingli0324",
+        "name": "muzi-going-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "goingli0324/ai-roleplay-practice": {
+        "owner": "goingli0324",
+        "name": "ai-roleplay-practice",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "goingli0324/multi-perspective-panel": {
+        "owner": "goingli0324",
+        "name": "multi-perspective-panel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Evan-Daruwalla/claude-skill-suite": {
+        "owner": "Evan-Daruwalla",
+        "name": "claude-skill-suite",
+        "branch": "master",
+        "enabled": true
+    },
+    "LOVAHE/JustDoIt": {
+        "owner": "LOVAHE",
+        "name": "JustDoIt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "re-sianturi/lp-insights": {
+        "owner": "re-sianturi",
+        "name": "lp-insights",
+        "branch": "main",
+        "enabled": true
     }
 }
