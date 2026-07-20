@@ -2305,5 +2305,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "William2333ZZ/trustshell": {
+    "owner": "William2333ZZ",
+    "name": "trustshell",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

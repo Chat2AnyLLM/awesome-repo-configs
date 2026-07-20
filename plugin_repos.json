@@ -10675,5 +10675,77 @@
     "repoOwner": "AnaCataVC",
     "repoName": "amiga-ia",
     "repoBranch": "main"
+  },
+  "ContextJet-ai/awesome-llm-observability": {
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate, debug, secure & monitor reliable LLM apps. Tracing, evals, guardrails, LLMOps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ContextJet-ai",
+    "repoName": "awesome-llm-observability",
+    "repoBranch": "main"
+  },
+  "abs1294/fulin-claude-plugins": {
+    "name": "abs1294/fulin-claude-plugins",
+    "description": "Claude Code \u5de5\u5177\u96c6 marketplace\uff1awebwright \u9a45\u52d5\u7684 QA \u6e2c\u8a66\u6846\u67b6 + delaylocal \u6392\u7a0b plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abs1294",
+    "repoName": "fulin-claude-plugins",
+    "repoBranch": "main"
+  },
+  "Hyper-Solutions/hypersolutions-claude-code": {
+    "name": "Hyper-Solutions/hypersolutions-claude-code",
+    "description": "Claude Code plugin for the Hyper Solutions anti-bot API: integrate and debug request-based scrapers for Akamai, Incapsula, DataDome, and Kasada, with live request-capture (powhttp) and HAR-analysis MCP servers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hyper-Solutions",
+    "repoName": "hypersolutions-claude-code",
+    "repoBranch": "master"
+  },
+  "Endika/eskills": {
+    "name": "Endika/eskills",
+    "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Endika",
+    "repoName": "eskills",
+    "repoBranch": "main"
+  },
+  "William2333ZZ/trustshell": {
+    "name": "William2333ZZ/trustshell",
+    "description": "Open-source toolkit for AI agent security \u2014 autonomous attacker + static engine + scanner + red-team skills. Exploit-validated. trust-shell.com",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "William2333ZZ",
+    "repoName": "trustshell",
+    "repoBranch": "main"
+  },
+  "blackstone2333/goldilocks": {
+    "name": "blackstone2333/goldilocks",
+    "description": "Minimum process. Constant quality. A lean Superpowers replacement for coding agents.\uff5c\u6700\u5c11\u5fc5\u8981\u6d41\u7a0b\uff0c\u6052\u5b9a\u8d28\u91cf\uff1b\u9762\u5411 Codex\u3001Claude Code \u7b49\u7f16\u7a0b Agent \u7684\u8f7b\u91cf Superpowers \u66ff\u4ee3\u65b9\u6848\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blackstone2333",
+    "repoName": "goldilocks",
+    "repoBranch": "main"
+  },
+  "sleetcrash/sleetcrash-skills": {
+    "name": "sleetcrash/sleetcrash-skills",
+    "description": "Curated Claude Code skills. First up: toolify, a session-mining skill that turns the work you just did into reusable tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sleetcrash",
+    "repoName": "sleetcrash-skills",
+    "repoBranch": "main"
+  },
+  "cubha/claude-workflow-plugins": {
+    "name": "cubha/claude-workflow-plugins",
+    "description": "Curated marketplace of production-grade Claude Code skills & plugins \u2014 planning, parallel dev, debugging, design linting, adversarial review",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cubha",
+    "repoName": "claude-workflow-plugins",
+    "repoBranch": "main"
   }
 }

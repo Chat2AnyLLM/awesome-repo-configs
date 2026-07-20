@@ -12174,5 +12174,148 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Xiaoyuan-Liu/national-team-position": {
+        "owner": "Xiaoyuan-Liu",
+        "name": "national-team-position",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ContextJet-ai/awesome-llm-observability": {
+        "owner": "ContextJet-ai",
+        "name": "awesome-llm-observability",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dd3ok/naverstock-api-skill": {
+        "owner": "dd3ok",
+        "name": "naverstock-api-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dinglebear-ai/rtailscale": {
+        "owner": "dinglebear-ai",
+        "name": "rtailscale",
+        "branch": "main",
+        "enabled": true
+    },
+    "dinglebear-ai/runraid": {
+        "owner": "dinglebear-ai",
+        "name": "runraid",
+        "branch": "main",
+        "enabled": true
+    },
+    "agentpipe/pipebuilder": {
+        "owner": "agentpipe",
+        "name": "pipebuilder",
+        "branch": "main",
+        "enabled": true
+    },
+    "Basic-XYZ/baku-skills": {
+        "owner": "Basic-XYZ",
+        "name": "baku-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "abs1294/fulin-claude-plugins": {
+        "owner": "abs1294",
+        "name": "fulin-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "valentil/featureboard-mcp": {
+        "owner": "valentil",
+        "name": "featureboard-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dinglebear-ai/rgotify": {
+        "owner": "dinglebear-ai",
+        "name": "rgotify",
+        "branch": "main",
+        "enabled": true
+    },
+    "dinglebear-ai/rapprise": {
+        "owner": "dinglebear-ai",
+        "name": "rapprise",
+        "branch": "main",
+        "enabled": true
+    },
+    "dinglebear-ai/runifi": {
+        "owner": "dinglebear-ai",
+        "name": "runifi",
+        "branch": "main",
+        "enabled": true
+    },
+    "dinglebear-ai/rarcane": {
+        "owner": "dinglebear-ai",
+        "name": "rarcane",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hyper-Solutions/hypersolutions-claude-code": {
+        "owner": "Hyper-Solutions",
+        "name": "hypersolutions-claude-code",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lepockyio-ops/bili-comments": {
+        "owner": "lepockyio-ops",
+        "name": "bili-comments",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Endika/eskills": {
+        "owner": "Endika",
+        "name": "eskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "reagin/agent-skills": {
+        "owner": "reagin",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "William2333ZZ/trustshell": {
+        "owner": "William2333ZZ",
+        "name": "trustshell",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "1044197988/ht-skills": {
+        "owner": "1044197988",
+        "name": "ht-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "blackstone2333/goldilocks": {
+        "owner": "blackstone2333",
+        "name": "goldilocks",
+        "branch": "main",
+        "enabled": true
+    },
+    "sleetcrash/sleetcrash-skills": {
+        "owner": "sleetcrash",
+        "name": "sleetcrash-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cubha/claude-workflow-plugins": {
+        "owner": "cubha",
+        "name": "claude-workflow-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }
