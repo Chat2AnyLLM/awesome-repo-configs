@@ -12035,5 +12035,144 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ginuim/skill-base": {
+        "owner": "ginuim",
+        "name": "skill-base",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vaaya-ai/vaaya-mcp": {
+        "owner": "vaaya-ai",
+        "name": "vaaya-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "V-Songbird/hush": {
+        "owner": "V-Songbird",
+        "name": "hush",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "a-church-ai/church": {
+        "owner": "a-church-ai",
+        "name": "church",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thebpandey/context-summary": {
+        "owner": "thebpandey",
+        "name": "context-summary",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "qiaomiaojoe/ai-academic-workflow": {
+        "owner": "qiaomiaojoe",
+        "name": "ai-academic-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jmagar/rtailscale": {
+        "owner": "jmagar",
+        "name": "rtailscale",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/runraid": {
+        "owner": "jmagar",
+        "name": "runraid",
+        "branch": "main",
+        "enabled": true
+    },
+    "louixs/onebreath": {
+        "owner": "louixs",
+        "name": "onebreath",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dayfinggg/claude-code-codex-skills": {
+        "owner": "dayfinggg",
+        "name": "claude-code-codex-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/runifi": {
+        "owner": "jmagar",
+        "name": "runifi",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/rgotify": {
+        "owner": "jmagar",
+        "name": "rgotify",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/rarcane": {
+        "owner": "jmagar",
+        "name": "rarcane",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmagar/rapprise": {
+        "owner": "jmagar",
+        "name": "rapprise",
+        "branch": "main",
+        "enabled": true
+    },
+    "robmclarty/plumbbob": {
+        "owner": "robmclarty",
+        "name": "plumbbob",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "djfksjd/sole-search": {
+        "owner": "djfksjd",
+        "name": "sole-search",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "n0liu/mv3-doctor": {
+        "owner": "n0liu",
+        "name": "mv3-doctor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "danielgwilson/luxin": {
+        "owner": "danielgwilson",
+        "name": "luxin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ArabianCowboy/minto-executive-communication": {
+        "owner": "ArabianCowboy",
+        "name": "minto-executive-communication",
+        "branch": "main",
+        "enabled": true
+    },
+    "Alexxiang2008/awesome-skills-map": {
+        "owner": "Alexxiang2008",
+        "name": "awesome-skills-map",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AnaCataVC/amiga-ia": {
+        "owner": "AnaCataVC",
+        "name": "amiga-ia",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

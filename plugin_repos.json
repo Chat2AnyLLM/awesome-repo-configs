@@ -10603,5 +10603,77 @@
     "repoOwner": "vasiliy-mikhailov",
     "repoName": "bump-java-version-skill",
     "repoBranch": "main"
+  },
+  "vaaya-ai/vaaya-mcp": {
+    "name": "vaaya-ai/vaaya-mcp",
+    "description": "Vaaya MCP server \u2014 pay-per-call agent superpowers: media & video generation, product demo videos, web search & scraping, deep/market research, GTM & sales enrichment, code sandboxes, browser automation, email, memory....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vaaya-ai",
+    "repoName": "vaaya-mcp",
+    "repoBranch": "main"
+  },
+  "V-Songbird/hush": {
+    "name": "V-Songbird/hush",
+    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression cut both input and output tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "V-Songbird",
+    "repoName": "hush",
+    "repoBranch": "main"
+  },
+  "louixs/onebreath": {
+    "name": "louixs/onebreath",
+    "description": "Claude Code slash commands   that force one-sentence or one-paragraph answers \u2014 brevity as a   hard constraint, not a suggestion",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "louixs",
+    "repoName": "onebreath",
+    "repoBranch": "main"
+  },
+  "itdar/newsline": {
+    "name": "itdar/newsline",
+    "description": "One-line rotating news in your Claude Code status line \u2014 locale-aware, keeps your existing status line",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itdar",
+    "repoName": "newsline",
+    "repoBranch": "master"
+  },
+  "robmclarty/plumbbob": {
+    "name": "robmclarty/plumbbob",
+    "description": "Claude Code plugin that turns LLM coding into a loop you control \u2014 plan first, build in small steps, pause for your approval before each commit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robmclarty",
+    "repoName": "plumbbob",
+    "repoBranch": "main"
+  },
+  "djfksjd/sole-search": {
+    "name": "djfksjd/sole-search",
+    "description": "\ud83c\uddf0\ud83c\uddf7 \uc18c\uc0c1\uacf5\uc778(\uc6b4\uc601 \uc911\uc778 \uac00\uac8c\u00b7\uc790\uc601\uc5c5\uc790) \uc9c0\uc6d0\uc0ac\uc5c5 \uc870\uc0ac \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac [Claude Code\u00b7Codex\u00b7agy(Antigravity)\u00b7Cursor\u00b7Gemini CLI \uc9c0\uc6d0] \uc18c\uc0c1\uacf5\uc77824\u00b7\uae30\uc5c5\ub9c8\ub2f9 \uc804\uc218 \ud06c\ub864\ub9c1 + \ud504\ub85c\ud544 \uae30\ubc18 5\ub2e8\uacc4 \uc790\uaca9 \ud310\uc815 '\uc624\ub298 \uc2e0\uccad\ud560 \uac83'\ubd80\ud130 \ubcf4\uace0 (Korea-only)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "djfksjd",
+    "repoName": "sole-search",
+    "repoBranch": "main"
+  },
+  "danielgwilson/luxin": {
+    "name": "danielgwilson/luxin",
+    "description": "Zero-setup creative media for agents. Generate & edit images, generate video & audio, create 3D, with no API key, no OAuth, durable hosted URLs, recoverable jobs, and cost receipts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danielgwilson",
+    "repoName": "luxin",
+    "repoBranch": "main"
+  },
+  "AnaCataVC/amiga-ia": {
+    "name": "AnaCataVC/amiga-ia",
+    "description": "Skills and agents for Claude and Gemini",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AnaCataVC",
+    "repoName": "amiga-ia",
+    "repoBranch": "main"
   }
 }

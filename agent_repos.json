@@ -2298,5 +2298,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AnaCataVC/amiga-ia": {
+    "owner": "AnaCataVC",
+    "name": "amiga-ia",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
