@@ -11044,5 +11044,59 @@
     "repoOwner": "chinayin",
     "repoName": "gox-claude-plugins",
     "repoBranch": "main"
+  },
+  "ilyautov/humanizer-ru": {
+    "name": "ilyautov/humanizer-ru",
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f Claude. \u0423\u0431\u0438\u0440\u0430\u0435\u0442 54 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438 \u0432 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u0442\u0435\u043a\u0441\u0442\u0435: \u043a\u0430\u043d\u0446\u0435\u043b\u044f\u0440\u0438\u0442, \u043a\u0430\u043b\u044c\u043a\u0438, \u0444\u0438\u043d\u0433\u0435\u0440\u043f\u0440\u0438\u043d\u0442\u044b ChatGPT \u0438 Claude. \u041c\u0435\u0442\u0438\u0442 \u0432 \u0442\u043e, \u0447\u0442\u043e \u043c\u0435\u0440\u044f\u044e\u0442 GPTZero, DivEye, RuBERT: \u043f\u043e\u0434\u043d\u0438\u043c\u0430\u0435\u0442 perplexity \u0438 burstiness. 20 \u0436\u0451\u0441\u0442\u043a\u0438\u0445 \u0431\u0430\u043d\u043e\u0432,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilyautov",
+    "repoName": "humanizer-ru",
+    "repoBranch": "main"
+  },
+  "CesiumGS/cesiumjs-skills": {
+    "name": "CesiumGS/cesiumjs-skills",
+    "description": "Curated agent skills for CesiumJS development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CesiumGS",
+    "repoName": "cesiumjs-skills",
+    "repoBranch": "main"
+  },
+  "adaptocms/adapto-cms-agent-skills": {
+    "name": "adaptocms/adapto-cms-agent-skills",
+    "description": "A pack of skills for AI coding agents (Claude Code, Cursor) that lets them operate Adapto CMS end-to-end: scaffold projects, design schemas, seed content, translate, run SEO, audit content, roll back.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adaptocms",
+    "repoName": "adapto-cms-agent-skills",
+    "repoBranch": "main"
+  },
+  "Ohswedd/praxis": {
+    "name": "Ohswedd/praxis",
+    "description": "A quality harness for Claude Code. Routes any prompt into spec \u2192 plan \u2192 implement \u2192 adversarial audit \u2192 living docs, and holds the turn open until the work actually holds up: no TODOs, no deferred scope, no unverified...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ohswedd",
+    "repoName": "praxis",
+    "repoBranch": "main"
+  },
+  "kaguyaluna2333/skill-zh-cn": {
+    "name": "kaguyaluna2333/skill-zh-cn",
+    "description": "\u8de8\u5bbf\u4e3b\uff08Claude Code / zcode / opencode / codex\uff09\u7684 skill / \u547d\u4ee4 / \u5b50\u667a\u80fd\u4f53\u8bf4\u660e\u6c49\u5316\u5de5\u5177",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kaguyaluna2333",
+    "repoName": "skill-zh-cn",
+    "repoBranch": "main"
+  },
+  "Lesz-Xi/twin-sparrow-agent-adapter": {
+    "name": "Lesz-Xi/twin-sparrow-agent-adapter",
+    "description": "Agent adapter for Twin-Sparrow \u2014 compact runtime capsules per turn instead of full doctrine replay, and a verification gate that blocks turn closure until proof obligations pass. Runs under Claude Code and Codex CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lesz-Xi",
+    "repoName": "twin-sparrow-agent-adapter",
+    "repoBranch": "main"
   }
 }

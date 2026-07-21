@@ -12845,5 +12845,147 @@
         "name": "gox-claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "ilyautov/humanizer-ru": {
+        "owner": "ilyautov",
+        "name": "humanizer-ru",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "apiotrowski-afk/commercial-legal-pl": {
+        "owner": "apiotrowski-afk",
+        "name": "commercial-legal-pl",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CesiumGS/cesiumjs-skills": {
+        "owner": "CesiumGS",
+        "name": "cesiumjs-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sidgit11/resume-studio": {
+        "owner": "Sidgit11",
+        "name": "resume-studio",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Crazy-MT/video-subtitle": {
+        "owner": "Crazy-MT",
+        "name": "video-subtitle",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "denfry/claude-skills": {
+        "owner": "denfry",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adaptocms/adapto-cms-agent-skills": {
+        "owner": "adaptocms",
+        "name": "adapto-cms-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ohswedd/praxis": {
+        "owner": "Ohswedd",
+        "name": "praxis",
+        "branch": "main",
+        "enabled": true
+    },
+    "chohra-med/mcp-for-your-app": {
+        "owner": "chohra-med",
+        "name": "mcp-for-your-app",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "motodigitalguru-beep/blueprint": {
+        "owner": "motodigitalguru-beep",
+        "name": "blueprint",
+        "branch": "main",
+        "enabled": true
+    },
+    "chris-peterson/beacon": {
+        "owner": "chris-peterson",
+        "name": "beacon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "unbias38/my-claude-skills": {
+        "owner": "unbias38",
+        "name": "my-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "dT-Tb-labs/babel-orchestration": {
+        "owner": "dT-Tb-labs",
+        "name": "babel-orchestration",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alice51849/lumi-mcp": {
+        "owner": "alice51849",
+        "name": "lumi-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lesz-Xi/twin-sparrow-agent-adapter": {
+        "owner": "Lesz-Xi",
+        "name": "twin-sparrow-agent-adapter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ye4wzp/zifeiyu-ppt-skill": {
+        "owner": "ye4wzp",
+        "name": "zifeiyu-ppt-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "huiaunt/dr-skill": {
+        "owner": "huiaunt",
+        "name": "dr-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mkantautas/tallymeter-skill": {
+        "owner": "mkantautas",
+        "name": "tallymeter-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alirortb/claude-uxr-skills": {
+        "owner": "alirortb",
+        "name": "claude-uxr-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "xntj-ai/lean-canvas-coach": {
+        "owner": "xntj-ai",
+        "name": "lean-canvas-coach",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "RubenGlez/mobile-design": {
+        "owner": "RubenGlez",
+        "name": "mobile-design",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
