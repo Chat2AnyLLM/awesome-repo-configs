@@ -12711,5 +12711,139 @@
         "name": "claude-for-legal-paraguay",
         "branch": "main",
         "enabled": true
+    },
+    "ReflexioAI/claude-smart": {
+        "owner": "ReflexioAI",
+        "name": "claude-smart",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "smixs/creative-director-skill": {
+        "owner": "smixs",
+        "name": "creative-director-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "teklabsdigital/x2-method": {
+        "owner": "teklabsdigital",
+        "name": "x2-method",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "s3onghyun/otelcol-doctor": {
+        "owner": "s3onghyun",
+        "name": "otelcol-doctor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lj22503/diaolong-skill": {
+        "owner": "lj22503",
+        "name": "diaolong-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "V-Songbird/razor": {
+        "owner": "V-Songbird",
+        "name": "razor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ckorhonen/swe-skills": {
+        "owner": "ckorhonen",
+        "name": "swe-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lemur47/logic": {
+        "owner": "lemur47",
+        "name": "logic",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "supermodo/skills": {
+        "owner": "supermodo",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fcavalcantirj/claude-code-eyes": {
+        "owner": "fcavalcantirj",
+        "name": "claude-code-eyes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hsiangyilu/design-system-builder": {
+        "owner": "hsiangyilu",
+        "name": "design-system-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "deuwi/freelance-manager": {
+        "owner": "deuwi",
+        "name": "freelance-manager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "YangKangSung/kampff-skills": {
+        "owner": "YangKangSung",
+        "name": "kampff-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jpoindexter/brand-identity-skills": {
+        "owner": "jpoindexter",
+        "name": "brand-identity-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dongzhigang13305312738-art/paper-skills": {
+        "owner": "dongzhigang13305312738-art",
+        "name": "paper-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mi4646/my-skills": {
+        "owner": "mi4646",
+        "name": "my-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "clever-cc-plugins/cc-concept": {
+        "owner": "clever-cc-plugins",
+        "name": "cc-concept",
+        "branch": "main",
+        "enabled": true
+    },
+    "oye-collective/actvt-claude-plugin": {
+        "owner": "oye-collective",
+        "name": "actvt-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nahiddotai/operator-powers": {
+        "owner": "nahiddotai",
+        "name": "operator-powers",
+        "branch": "main",
+        "enabled": true
+    },
+    "chinayin/gox-claude-plugins": {
+        "owner": "chinayin",
+        "name": "gox-claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

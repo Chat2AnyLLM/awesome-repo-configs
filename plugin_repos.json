@@ -10954,5 +10954,95 @@
     "repoOwner": "dikaia-io",
     "repoName": "claude-for-legal-paraguay",
     "repoBranch": "main"
+  },
+  "ReflexioAI/claude-smart": {
+    "name": "ReflexioAI/claude-smart",
+    "description": "Turns corrections into Preferences, Project-specific skills, and Shared skills for Claude Code, Codex, and OpenCode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ReflexioAI",
+    "repoName": "claude-smart",
+    "repoBranch": "main"
+  },
+  "teklabsdigital/x2-method": {
+    "name": "teklabsdigital/x2-method",
+    "description": "The code is not the asset anymore. Your decisions are; the code is regenerated from them. X2 puts the rules that must always hold into the build, keeps the decisions with people, and never takes an agent's word for do...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "teklabsdigital",
+    "repoName": "x2-method",
+    "repoBranch": "master"
+  },
+  "ckorhonen/swe-skills": {
+    "name": "ckorhonen/swe-skills",
+    "description": "Claude Code skills for on-demand engineering work \u2014 PR risk review, repo introspection, audits, ownership maps. Published at cdd.dev/skills/swe.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ckorhonen",
+    "repoName": "swe-skills",
+    "repoBranch": "main"
+  },
+  "wessamfathi/suhail": {
+    "name": "wessamfathi/suhail",
+    "description": "Plan orchestration for Claude Code: subagents scout, implement, and verify each part of a markdown plan, with one commit per part and state that survives sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wessamfathi",
+    "repoName": "suhail",
+    "repoBranch": "main"
+  },
+  "supermodo/skills": {
+    "name": "supermodo/skills",
+    "description": "A coherent, opinionated toolkit for documentation-driven development with twin-model adversarial checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "supermodo",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "mi4646/my-skills": {
+    "name": "mi4646/my-skills",
+    "description": "\u4e2a\u4eba\u6574\u7406\u7684 Claude Code \u81ea\u5b9a\u4e49\u6280\u80fd\u63d2\u4ef6\u96c6\u5408",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mi4646",
+    "repoName": "my-skills",
+    "repoBranch": "master"
+  },
+  "clever-cc-plugins/cc-concept": {
+    "name": "clever-cc-plugins/cc-concept",
+    "description": "A Claude Code plugin providing marketing-strategy skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clever-cc-plugins",
+    "repoName": "cc-concept",
+    "repoBranch": "main"
+  },
+  "oye-collective/actvt-claude-plugin": {
+    "name": "oye-collective/actvt-claude-plugin",
+    "description": "Connect Claude Code to Actvt, a macOS app that monitors your Mac and your AI coding agents over MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oye-collective",
+    "repoName": "actvt-claude-plugin",
+    "repoBranch": "main"
+  },
+  "nahiddotai/operator-powers": {
+    "name": "nahiddotai/operator-powers",
+    "description": "Practical AI powers for non-technical professionals. One hand-picked plugin for Claude Code, Cowork, Codex, and more: audit your week, capture your writing voice, mine meetings, pressure-test decisions, find hidden co...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nahiddotai",
+    "repoName": "operator-powers",
+    "repoBranch": "main"
+  },
+  "chinayin/gox-claude-plugins": {
+    "name": "chinayin/gox-claude-plugins",
+    "description": "Team coding-standards plugins for Claude Code (Agent Skills marketplace) \u00b7 \u9762\u5411 Claude Code \u7684\u56e2\u961f\u4ee3\u7801\u89c4\u8303\u63d2\u4ef6(\u6280\u80fd marketplace)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chinayin",
+    "repoName": "gox-claude-plugins",
+    "repoBranch": "main"
   }
 }

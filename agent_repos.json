@@ -2382,5 +2382,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "wessamfathi/suhail": {
+    "owner": "wessamfathi",
+    "name": "suhail",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
