@@ -2389,5 +2389,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "reganomika/Bullpen": {
+    "owner": "reganomika",
+    "name": "Bullpen",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

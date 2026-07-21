@@ -11098,5 +11098,104 @@
     "repoOwner": "Lesz-Xi",
     "repoName": "twin-sparrow-agent-adapter",
     "repoBranch": "main"
+  },
+  "dinglebear-ai/unraid-mcp": {
+    "name": "dinglebear-ai/unraid-mcp",
+    "description": "Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dinglebear-ai",
+    "repoName": "unraid-mcp",
+    "repoBranch": "main"
+  },
+  "datumbrain/claude-code-privacy-guard": {
+    "name": "datumbrain/claude-code-privacy-guard",
+    "description": "\ud83d\udee1\ufe0f Claude Code plugin that blocks prompts containing secrets, API keys, and PII before they reach Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "datumbrain",
+    "repoName": "claude-code-privacy-guard",
+    "repoBranch": "main"
+  },
+  "narrative-io/narrative-skills-marketplace": {
+    "name": "narrative-io/narrative-skills-marketplace",
+    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work of a modern data company (NQL, Rosetta Stone mappings, identity graphs, and more). Follows the Ag...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "narrative-io",
+    "repoName": "narrative-skills-marketplace",
+    "repoBranch": "main"
+  },
+  "avectats7/copy-that-sells": {
+    "name": "avectats7/copy-that-sells",
+    "description": "Claude skill that writes copy which sells. Print ads, OOH, billboards, headlines, taglines, landing pages, long-copy ads, emails, manifestos, product descriptions. Built on D&AD Copy Book craft, Bly direct-response fr...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avectats7",
+    "repoName": "copy-that-sells",
+    "repoBranch": "main"
+  },
+  "yschimke/skills": {
+    "name": "yschimke/skills",
+    "description": "Helping the Agents Compose the Things",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yschimke",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "shalintripathi/organic-os": {
+    "name": "shalintripathi/organic-os",
+    "description": "Run an always-on SEO/AEO growth loop on your own site with Claude: pulls GA4 and Search Console signals, proposes fixes with the reasoning attached, applies approved changes to WordPress, verifies they landed, and lea...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shalintripathi",
+    "repoName": "organic-os",
+    "repoBranch": "main"
+  },
+  "Mixard/fable-pack": {
+    "name": "Mixard/fable-pack",
+    "description": "Curated plugin marketplace for Claude Code: 80 knowledge skills + 23 subagents, <10% keep rate from 1000+ reviewed. Markdown-only, no executable code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mixard",
+    "repoName": "fable-pack",
+    "repoBranch": "main"
+  },
+  "reganomika/Bullpen": {
+    "name": "reganomika/Bullpen",
+    "description": "Cost-aware model routing for Claude Code: per-call model selection across cheap/dev/hard/super subagents, enforced by a hook that gates every agent spawn on a real model choice.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "reganomika",
+    "repoName": "Bullpen",
+    "repoBranch": "main"
+  },
+  "avectats7/anti-ai-writing": {
+    "name": "avectats7/anti-ai-writing",
+    "description": "Edit any draft to remove AI tells. Strips banned words (delve, unlock, leverage, harness, robust, showcase, vibrant, and 50+ others), banned phrases (in today's fast-paced world, unlock the potential of), and banned s...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avectats7",
+    "repoName": "anti-ai-writing",
+    "repoBranch": "main"
+  },
+  "ricardorqr/read-aloud-plugin": {
+    "name": "ricardorqr/read-aloud-plugin",
+    "description": "Read Claude Code responses aloud on macOS with play/pause/resume/stop voice controls",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ricardorqr",
+    "repoName": "read-aloud-plugin",
+    "repoBranch": "master"
+  },
+  "Zero-One-Stack/bedrock": {
+    "name": "Zero-One-Stack/bedrock",
+    "description": "Bedrock \u2014 enforced Next.js / React engineering standards for Claude Code, packaged as a plugin: Nx monorepo & micro-frontend architecture, design tokens, atomic design, React Query, accessibility, TypeScript, plus ent...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zero-One-Stack",
+    "repoName": "bedrock",
+    "repoBranch": "main"
   }
 }

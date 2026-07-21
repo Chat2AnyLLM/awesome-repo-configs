@@ -12987,5 +12987,122 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "dinglebear-ai/unraid-mcp": {
+        "owner": "dinglebear-ai",
+        "name": "unraid-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "aaronjmars/agent-credit": {
+        "owner": "aaronjmars",
+        "name": "agent-credit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ibnsawad/Saudi-Regulatory-Compliance-Claude-Skill": {
+        "owner": "ibnsawad",
+        "name": "Saudi-Regulatory-Compliance-Claude-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "narrative-io/narrative-skills-marketplace": {
+        "owner": "narrative-io",
+        "name": "narrative-skills-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "avectats7/copy-that-sells": {
+        "owner": "avectats7",
+        "name": "copy-that-sells",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yschimke/skills": {
+        "owner": "yschimke",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ambystechcom/AmbyKit": {
+        "owner": "ambystechcom",
+        "name": "AmbyKit",
+        "branch": "main",
+        "enabled": true
+    },
+    "shalintripathi/organic-os": {
+        "owner": "shalintripathi",
+        "name": "organic-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "Alim430/bioresearch-agent": {
+        "owner": "Alim430",
+        "name": "bioresearch-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mixard/fable-pack": {
+        "owner": "Mixard",
+        "name": "fable-pack",
+        "branch": "main",
+        "enabled": true
+    },
+    "VikashLoomba/agentprism-workflows": {
+        "owner": "VikashLoomba",
+        "name": "agentprism-workflows",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "reganomika/Bullpen": {
+        "owner": "reganomika",
+        "name": "Bullpen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "avectats7/anti-ai-writing": {
+        "owner": "avectats7",
+        "name": "anti-ai-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrEmanAhmad/yt2skill": {
+        "owner": "MrEmanAhmad",
+        "name": "yt2skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "aabuhammam-dh/telc-b1-coach": {
+        "owner": "aabuhammam-dh",
+        "name": "telc-b1-coach",
+        "branch": "main",
+        "enabled": true
+    },
+    "esmefong/gtm-skills": {
+        "owner": "esmefong",
+        "name": "gtm-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "smartaicoach/skills": {
+        "owner": "smartaicoach",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Zero-One-Stack/bedrock": {
+        "owner": "Zero-One-Stack",
+        "name": "bedrock",
+        "branch": "main",
+        "enabled": true
     }
 }
