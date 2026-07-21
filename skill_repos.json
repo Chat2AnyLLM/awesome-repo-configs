@@ -12576,5 +12576,140 @@
         "name": "lp-insights",
         "branch": "main",
         "enabled": true
+    },
+    "staruhub/ClaudeSkills": {
+        "owner": "staruhub",
+        "name": "ClaudeSkills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ai4s-research/ai4s-skills": {
+        "owner": "ai4s-research",
+        "name": "ai4s-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "0xwilliamortiz/agents-council": {
+        "owner": "0xwilliamortiz",
+        "name": "agents-council",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alfadur7/llm-wiki-newsroom": {
+        "owner": "alfadur7",
+        "name": "llm-wiki-newsroom",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "codeswithroh/tastemaker": {
+        "owner": "codeswithroh",
+        "name": "tastemaker",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "XieWxx/maxhub-api-skills": {
+        "owner": "XieWxx",
+        "name": "maxhub-api-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "xixihhhh/hotclip": {
+        "owner": "xixihhhh",
+        "name": "hotclip",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JasonCodeMaker/Agentic-Research-Control-Panel": {
+        "owner": "JasonCodeMaker",
+        "name": "Agentic-Research-Control-Panel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ch015/code-pentester": {
+        "owner": "ch015",
+        "name": "code-pentester",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fons-vc/fons": {
+        "owner": "Fons-vc",
+        "name": "fons",
+        "branch": "main",
+        "enabled": true
+    },
+    "Bing-Bryan/skills-by-bing": {
+        "owner": "Bing-Bryan",
+        "name": "skills-by-bing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AltDoug/found-issues": {
+        "owner": "AltDoug",
+        "name": "found-issues",
+        "branch": "main",
+        "enabled": true
+    },
+    "vldesigns/casebook": {
+        "owner": "vldesigns",
+        "name": "casebook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "j7an/cross-agent-reviews": {
+        "owner": "j7an",
+        "name": "cross-agent-reviews",
+        "branch": "main",
+        "enabled": true
+    },
+    "Wanqiu12345/screenshot-infographic-skill": {
+        "owner": "Wanqiu12345",
+        "name": "screenshot-infographic-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yanliudesign/saas-illustration": {
+        "owner": "yanliudesign",
+        "name": "saas-illustration",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Wang-Cankun/known-unknowns": {
+        "owner": "Wang-Cankun",
+        "name": "known-unknowns",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mccarthy606/claude-operator-stack": {
+        "owner": "mccarthy606",
+        "name": "claude-operator-stack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aashishvasu/dev-team": {
+        "owner": "aashishvasu",
+        "name": "dev-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dikaia-io/claude-for-legal-paraguay": {
+        "owner": "dikaia-io",
+        "name": "claude-for-legal-paraguay",
+        "branch": "main",
+        "enabled": true
     }
 }

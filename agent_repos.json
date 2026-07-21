@@ -2354,5 +2354,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "alfadur7/llm-wiki-newsroom": {
+    "owner": "alfadur7",
+    "name": "llm-wiki-newsroom",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ch015/code-pentester": {
+    "owner": "ch015",
+    "name": "code-pentester",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "TyrusRC/praetor": {
+    "owner": "TyrusRC",
+    "name": "praetor",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "aashishvasu/dev-team": {
+    "owner": "aashishvasu",
+    "name": "dev-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
