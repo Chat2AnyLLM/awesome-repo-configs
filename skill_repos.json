@@ -13387,5 +13387,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "samuelbushi/uizze": {
+        "owner": "samuelbushi",
+        "name": "uizze",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
