@@ -11341,5 +11341,77 @@
     "repoOwner": "ttncode",
     "repoName": "unioss-plugins",
     "repoBranch": "main"
+  },
+  "onsails/skills": {
+    "name": "onsails/skills",
+    "description": "Claude Code skills: codex-sprint, review-loop (iterative simplify-review-fix), rust-dev (FAIL FAST standards)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "onsails",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "hec-ovi/research-skill": {
+    "name": "hec-ovi/research-skill",
+    "description": "Persistent project-scoped knowledge base for Claude Code and Codex: deep research findings with progressive disclosure, contrarian-pass and insight-extraction investigation. Survives /compact. Installs via npx skills...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hec-ovi",
+    "repoName": "research-skill",
+    "repoBranch": "main"
+  },
+  "donald-ada/workinggenius": {
+    "name": "donald-ada/workinggenius",
+    "description": "A Claude Code development workflow plugin: walks every piece of work through the six Working Geniuses (Wonder, Invention, Discernment, Galvanizing, Enablement, Tenacity) so no stage gets skipped.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "donald-ada",
+    "repoName": "workinggenius",
+    "repoBranch": "main"
+  },
+  "matterhornso/subscribetome": {
+    "name": "matterhornso/subscribetome",
+    "description": "AI API key & subscription manager for Claude Code \u2014 your keys never touch the chat",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matterhornso",
+    "repoName": "subscribetome",
+    "repoBranch": "main"
+  },
+  "Banyango/scalpel": {
+    "name": "Banyango/scalpel",
+    "description": "Writing code might be dead. Understanding it is not. - An AI skill for surgical planning",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Banyango",
+    "repoName": "scalpel",
+    "repoBranch": "main"
+  },
+  "kennethkhoocy/legal-scholarship-skills": {
+    "name": "kennethkhoocy/legal-scholarship-skills",
+    "description": "Claude Code and Codex skills for legal scholarship: verified citation placement (Bluebook/OSCOLA/McGill), law-review docx pipelines, document delivery tooling",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kennethkhoocy",
+    "repoName": "legal-scholarship-skills",
+    "repoBranch": "main"
+  },
+  "kennethkhoocy/applied-micro-skills": {
+    "name": "kennethkhoocy/applied-micro-skills",
+    "description": "Claude Code and Codex skills for empirical applied-micro research: reproducibility auditing, LLM-pipeline methods, event studies, WRDS, Stata, publication-grade tables",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kennethkhoocy",
+    "repoName": "applied-micro-skills",
+    "repoBranch": "main"
+  },
+  "opefyre/auditsmith": {
+    "name": "opefyre/auditsmith",
+    "description": "Evidence-based code auditing as a Claude Skill \u2014 ten audit areas, every finding cited to a line",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "opefyre",
+    "repoName": "auditsmith",
+    "repoBranch": "main"
   }
 }

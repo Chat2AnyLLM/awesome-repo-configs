@@ -13394,5 +13394,153 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "handsomeZR-netizen/mathmodel-skill": {
+        "owner": "handsomeZR-netizen",
+        "name": "mathmodel-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "onsails/skills": {
+        "owner": "onsails",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "guramzhgamadze/WordPress-Elementor-Skill": {
+        "owner": "guramzhgamadze",
+        "name": "WordPress-Elementor-Skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "dacnay816y62-hub/regional-culture-poster": {
+        "owner": "dacnay816y62-hub",
+        "name": "regional-culture-poster",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Schmandarine/web-motion-skill": {
+        "owner": "Schmandarine",
+        "name": "web-motion-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hec-ovi/research-skill": {
+        "owner": "hec-ovi",
+        "name": "research-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "lbiz-partners/hometax-doum": {
+        "owner": "lbiz-partners",
+        "name": "hometax-doum",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zhangzhanglaila/charm-mature-skill": {
+        "owner": "zhangzhanglaila",
+        "name": "charm-mature-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "donald-ada/workinggenius": {
+        "owner": "donald-ada",
+        "name": "workinggenius",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pockerhead/maw": {
+        "owner": "pockerhead",
+        "name": "maw",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "skinnerlee1225/enterprise-prd-toolkit": {
+        "owner": "skinnerlee1225",
+        "name": "enterprise-prd-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Banyango/scalpel": {
+        "owner": "Banyango",
+        "name": "scalpel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iuliandita/skills": {
+        "owner": "iuliandita",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kennethkhoocy/legal-scholarship-skills": {
+        "owner": "kennethkhoocy",
+        "name": "legal-scholarship-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kennethkhoocy/applied-micro-skills": {
+        "owner": "kennethkhoocy",
+        "name": "applied-micro-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "aksheyw/claude-code-deep-review": {
+        "owner": "aksheyw",
+        "name": "claude-code-deep-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Songhonglei/build-better-skills": {
+        "owner": "Songhonglei",
+        "name": "build-better-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NafisRayan/100x-Agent-Toolkit": {
+        "owner": "NafisRayan",
+        "name": "100x-Agent-Toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "suprenvb/plumbline": {
+        "owner": "suprenvb",
+        "name": "plumbline",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "leo485610395-cmyk/huawo-website-skill": {
+        "owner": "leo485610395-cmyk",
+        "name": "huawo-website-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zhangzhanglaila/rational-mature-skill": {
+        "owner": "zhangzhanglaila",
+        "name": "rational-mature-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "opefyre/auditsmith": {
+        "owner": "opefyre",
+        "name": "auditsmith",
+        "branch": "main",
+        "enabled": true
     }
 }
