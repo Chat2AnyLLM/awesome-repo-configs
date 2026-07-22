@@ -13542,5 +13542,132 @@
         "name": "auditsmith",
         "branch": "main",
         "enabled": true
+    },
+    "guhcostan/claude-mega-brain": {
+        "owner": "guhcostan",
+        "name": "claude-mega-brain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adaptico/adaptico-os": {
+        "owner": "adaptico",
+        "name": "adaptico-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "JustMichael-80/MasterVault": {
+        "owner": "JustMichael-80",
+        "name": "MasterVault",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "itaywol/adeptability": {
+        "owner": "itaywol",
+        "name": "adeptability",
+        "branch": "main",
+        "enabled": true
+    },
+    "sjh9714/skill-receipts": {
+        "owner": "sjh9714",
+        "name": "skill-receipts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "petermcalister/shared-skills": {
+        "owner": "petermcalister",
+        "name": "shared-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "LucioLiu/dont-reinvent": {
+        "owner": "LucioLiu",
+        "name": "dont-reinvent",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LucioLiu/sharpen-first": {
+        "owner": "LucioLiu",
+        "name": "sharpen-first",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "reassignai/plugins": {
+        "owner": "reassignai",
+        "name": "plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LucioLiu/user-md": {
+        "owner": "LucioLiu",
+        "name": "user-md",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LucioLiu/track-record": {
+        "owner": "LucioLiu",
+        "name": "track-record",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "a-aigner/notemd-skills": {
+        "owner": "a-aigner",
+        "name": "notemd-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arndvs/ctrlshft": {
+        "owner": "arndvs",
+        "name": "ctrlshft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TianCZeng/admissions-ops": {
+        "owner": "TianCZeng",
+        "name": "admissions-ops",
+        "branch": "main",
+        "enabled": true
+    },
+    "uplift-technology-company-limited/uplift-plugins": {
+        "owner": "uplift-technology-company-limited",
+        "name": "uplift-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "manu-brighter/claude-code-kit": {
+        "owner": "manu-brighter",
+        "name": "claude-code-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "thinkyou0714/ccmux": {
+        "owner": "thinkyou0714",
+        "name": "ccmux",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "nolte/claude-home-assistant": {
+        "owner": "nolte",
+        "name": "claude-home-assistant",
+        "branch": "develop",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "davorrunje/honest-scholar": {
+        "owner": "davorrunje",
+        "name": "honest-scholar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

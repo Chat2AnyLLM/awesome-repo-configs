@@ -2424,5 +2424,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "punt-labs/beadle": {
+    "owner": "punt-labs",
+    "name": "beadle",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "arndvs/ctrlshft": {
+    "owner": "arndvs",
+    "name": "ctrlshft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "nolte/claude-home-assistant": {
+    "owner": "nolte",
+    "name": "claude-home-assistant",
+    "branch": "develop",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

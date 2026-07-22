@@ -11413,5 +11413,86 @@
     "repoOwner": "opefyre",
     "repoName": "auditsmith",
     "repoBranch": "main"
+  },
+  "guhcostan/claude-mega-brain": {
+    "name": "guhcostan/claude-mega-brain",
+    "description": "OKF-powered knowledge context for Claude Code \u2014 injects your project's knowledge base at every session",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guhcostan",
+    "repoName": "claude-mega-brain",
+    "repoBranch": "main"
+  },
+  "sjh9714/skill-receipts": {
+    "name": "sjh9714/skill-receipts",
+    "description": "Agent skills for Claude Code where every entry ships with receipts: accuracy-gated benchmarks vs baseline AND placebo. Rejects published.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjh9714",
+    "repoName": "skill-receipts",
+    "repoBranch": "main"
+  },
+  "petermcalister/shared-skills": {
+    "name": "petermcalister/shared-skills",
+    "description": "21 portable, eval-tested Claude Code skills in two plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "petermcalister",
+    "repoName": "shared-skills",
+    "repoBranch": "main"
+  },
+  "reassignai/plugins": {
+    "name": "reassignai/plugins",
+    "description": "reassignai/plugins \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "reassignai",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "a-aigner/notemd-skills": {
+    "name": "a-aigner/notemd-skills",
+    "description": "Agent Skills that teach Claude and other AI agents the Markdown note.md actually renders, and how its knowledge graph is derived.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "a-aigner",
+    "repoName": "notemd-skills",
+    "repoBranch": "main"
+  },
+  "uplift-technology-company-limited/uplift-plugins": {
+    "name": "uplift-technology-company-limited/uplift-plugins",
+    "description": "Claude Code plugin: set up Vercel deploys via GitHub Actions with a main-only branch gate + auto-bumped vX.Y.Z version tags. Bootstraps a fresh repo if needed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uplift-technology-company-limited",
+    "repoName": "uplift-plugins",
+    "repoBranch": "main"
+  },
+  "manu-brighter/claude-code-kit": {
+    "name": "manu-brighter/claude-code-kit",
+    "description": "Claude Code plugin marketplace \u2014 5 workflow skills (autonomous codebase overhaul, docs/i18n sync, publishing prep) and 5 specialist agents for GPU-heavy frontends (WebGL fluid sim, GLSL print rendering, perf, motion +...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "manu-brighter",
+    "repoName": "claude-code-kit",
+    "repoBranch": "main"
+  },
+  "nolte/claude-home-assistant": {
+    "name": "nolte/claude-home-assistant",
+    "description": "Claude Code skills and agents for Home Assistant development \u2014 custom integrations, Lovelace cards, blueprints / automations, and ESPHome / add-on work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nolte",
+    "repoName": "claude-home-assistant",
+    "repoBranch": "develop"
+  },
+  "davorrunje/honest-scholar": {
+    "name": "davorrunje/honest-scholar",
+    "description": "The scientist's research-workflow plugin for Claude Code \u2014 from hypothesis to thesis. Research you can defend.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davorrunje",
+    "repoName": "honest-scholar",
+    "repoBranch": "main"
   }
 }
