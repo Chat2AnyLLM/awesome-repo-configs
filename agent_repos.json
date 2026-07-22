@@ -2396,5 +2396,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jhlee0409/omni-harness-kit": {
+    "owner": "jhlee0409",
+    "name": "omni-harness-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ipeirotis/blue-pencil": {
+    "owner": "ipeirotis",
+    "name": "blue-pencil",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "BenMacDeezy/Orns-Forge": {
+    "owner": "BenMacDeezy",
+    "name": "Orns-Forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

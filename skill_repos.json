@@ -13104,5 +13104,132 @@
         "name": "bedrock",
         "branch": "main",
         "enabled": true
+    },
+    "xjsongphy/skills": {
+        "owner": "xjsongphy",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "pal815/drilldown-table": {
+        "owner": "pal815",
+        "name": "drilldown-table",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kcmadden/claude-code-1password-skill": {
+        "owner": "kcmadden",
+        "name": "claude-code-1password-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jhlee0409/omni-harness-kit": {
+        "owner": "jhlee0409",
+        "name": "omni-harness-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ipeirotis/blue-pencil": {
+        "owner": "ipeirotis",
+        "name": "blue-pencil",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "KentQi/product-team-skill": {
+        "owner": "KentQi",
+        "name": "product-team-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TanKimGwan/linmas": {
+        "owner": "TanKimGwan",
+        "name": "linmas",
+        "branch": "main",
+        "enabled": true
+    },
+    "DavidddM/cagebox-odoo": {
+        "owner": "DavidddM",
+        "name": "cagebox-odoo",
+        "branch": "main",
+        "enabled": true
+    },
+    "DataSantosh/claude-design-flow": {
+        "owner": "DataSantosh",
+        "name": "claude-design-flow",
+        "branch": "main",
+        "enabled": true
+    },
+    "search-atlas-group/amm-founding-circle": {
+        "owner": "search-atlas-group",
+        "name": "amm-founding-circle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "deokjinlog/design-explosion-30-styles": {
+        "owner": "deokjinlog",
+        "name": "design-explosion-30-styles",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eruto-skills/research-note": {
+        "owner": "eruto-skills",
+        "name": "research-note",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "eruto-skills/marp": {
+        "owner": "eruto-skills",
+        "name": "marp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jpoindexter/reward-seeking-safety-skills": {
+        "owner": "jpoindexter",
+        "name": "reward-seeking-safety-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Arsxxi/Iterative-dev-workflow": {
+        "owner": "Arsxxi",
+        "name": "Iterative-dev-workflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "saigonbaddielover/sgbl-overseer": {
+        "owner": "saigonbaddielover",
+        "name": "sgbl-overseer",
+        "branch": "main",
+        "enabled": true
+    },
+    "loredotlink/lore-plugin": {
+        "owner": "loredotlink",
+        "name": "lore-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BenMacDeezy/Orns-Forge": {
+        "owner": "BenMacDeezy",
+        "name": "Orns-Forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sky-magenta/pravo-grammatika": {
+        "owner": "sky-magenta",
+        "name": "pravo-grammatika",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
