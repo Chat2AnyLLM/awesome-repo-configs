@@ -13388,8 +13388,8 @@
         "skillsPath": "skills",
         "enabled": true
     },
-    "samuelbushi/uizze": {
-        "owner": "samuelbushi",
+    "uizze/uizze": {
+        "owner": "uizze",
         "name": "uizze",
         "branch": "main",
         "skillsPath": "skills",
