@@ -11278,5 +11278,68 @@
     "repoOwner": "sky-magenta",
     "repoName": "pravo-grammatika",
     "repoBranch": "main"
+  },
+  "damionrashford/RivalSearchMCP": {
+    "name": "damionrashford/RivalSearchMCP",
+    "description": "Deterministic research MCP server on FastMCP 3 \u2014 5-engine web search, 9-platform social search, 6 academic DBs, news aggregation, entity profiles, conflict detection, document analysis. No API keys. No in-server LLM....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "damionrashford",
+    "repoName": "RivalSearchMCP",
+    "repoBranch": "main"
+  },
+  "exasol-labs/exasol-agent-skills": {
+    "name": "exasol-labs/exasol-agent-skills",
+    "description": "Exasol skills for AI agents. Optimized for Claude Code and OpenAI Codex \ud83e\udd16",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "exasol-labs",
+    "repoName": "exasol-agent-skills",
+    "repoBranch": "main"
+  },
+  "augchan42/inkstone": {
+    "name": "augchan42/inkstone",
+    "description": "\u786f\u53f0 \u2014 Claude Code skills for creative and design workflows. Ink painting prompts from classical Chinese verse, bilingual verse explanations, and UI/UX auditing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "augchan42",
+    "repoName": "inkstone",
+    "repoBranch": "main"
+  },
+  "promptmetrics/hubspot-claude": {
+    "name": "promptmetrics/hubspot-claude",
+    "description": "Claude Code plugin for HubSpot CRM admin. 44 sub-agents, 79 tools, every write gated behind preview and approval. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "promptmetrics",
+    "repoName": "hubspot-claude",
+    "repoBranch": "main"
+  },
+  "KonH/ClaudeTools": {
+    "name": "KonH/ClaudeTools",
+    "description": "Claude Code plugin with skills shared across project",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KonH",
+    "repoName": "ClaudeTools",
+    "repoBranch": "main"
+  },
+  "JarrydAdaens/agentic_rails_marketplace": {
+    "name": "JarrydAdaens/agentic_rails_marketplace",
+    "description": "Agentic Rails: Installable plugins for verifiers and guardrails with lifecycle. Depends on hooks, to be used with Codex and Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JarrydAdaens",
+    "repoName": "agentic_rails_marketplace",
+    "repoBranch": "main"
+  },
+  "ttncode/unioss-plugins": {
+    "name": "ttncode/unioss-plugins",
+    "description": "\ud83d\ude80 Gated AI dev pipeline for the UNIOSS team \u2014 GitLab ticket in, reviewed and verified CodeIgniter change out.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ttncode",
+    "repoName": "unioss-plugins",
+    "repoBranch": "main"
   }
 }

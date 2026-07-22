@@ -13231,5 +13231,161 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "laolaoshiren/claude-code-skills-zh": {
+        "owner": "laolaoshiren",
+        "name": "claude-code-skills-zh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "agentenatalie/get-job.skill": {
+        "owner": "agentenatalie",
+        "name": "get-job.skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "0xE1337/thesis-figure-skill": {
+        "owner": "0xE1337",
+        "name": "thesis-figure-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "damionrashford/RivalSearchMCP": {
+        "owner": "damionrashford",
+        "name": "RivalSearchMCP",
+        "branch": "main",
+        "enabled": true
+    },
+    "tenequm/skills": {
+        "owner": "tenequm",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NintendaDev/unikit-ai": {
+        "owner": "NintendaDev",
+        "name": "unikit-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "leejpsd/typescript-react-nextjs-patterns": {
+        "owner": "leejpsd",
+        "name": "typescript-react-nextjs-patterns",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kevinnft/ai-agent-skills": {
+        "owner": "kevinnft",
+        "name": "ai-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "exasol-labs/exasol-agent-skills": {
+        "owner": "exasol-labs",
+        "name": "exasol-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "augchan42/inkstone": {
+        "owner": "augchan42",
+        "name": "inkstone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "promptmetrics/hubspot-claude": {
+        "owner": "promptmetrics",
+        "name": "hubspot-claude",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LucioLiu/knock-knock": {
+        "owner": "LucioLiu",
+        "name": "knock-knock",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LucioLiu/handoff-protocol": {
+        "owner": "LucioLiu",
+        "name": "handoff-protocol",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "KonH/ClaudeTools": {
+        "owner": "KonH",
+        "name": "ClaudeTools",
+        "branch": "main",
+        "enabled": true
+    },
+    "toverux/grimoire": {
+        "owner": "toverux",
+        "name": "grimoire",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bdhwrsh/gl-mt3600be-setup": {
+        "owner": "bdhwrsh",
+        "name": "gl-mt3600be-setup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "happygoluckydev/c3": {
+        "owner": "happygoluckydev",
+        "name": "c3",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JarrydAdaens/agentic_rails_marketplace": {
+        "owner": "JarrydAdaens",
+        "name": "agentic_rails_marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "ttncode/unioss-plugins": {
+        "owner": "ttncode",
+        "name": "unioss-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "DaizeDong/promotion-assistant": {
+        "owner": "DaizeDong",
+        "name": "promotion-assistant",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2021291696/setup-tool": {
+        "owner": "2021291696",
+        "name": "setup-tool",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dmitrax/second-brain-setup": {
+        "owner": "dmitrax",
+        "name": "second-brain-setup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DaizeDong/discord-history-export": {
+        "owner": "DaizeDong",
+        "name": "discord-history-export",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
