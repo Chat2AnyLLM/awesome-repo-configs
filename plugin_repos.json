@@ -11638,5 +11638,86 @@
     "repoOwner": "EllypsisAI",
     "repoName": "ellypsis-plugin-labs",
     "repoBranch": "main"
+  },
+  "tzachbon/smart-ralph": {
+    "name": "tzachbon/smart-ralph",
+    "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tzachbon",
+    "repoName": "smart-ralph",
+    "repoBranch": "main"
+  },
+  "GiustoPiedimonte/agentic-engineering-marketplace": {
+    "name": "GiustoPiedimonte/agentic-engineering-marketplace",
+    "description": "Claude Code plugin marketplace \u2014 agentic-engineering (spec-driven shape\u2192decide\u2192execute\u2192measure\u2192eval with adversarial review) + github-keeper (audit/elevate READMEs and make a repo open-source-ready).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GiustoPiedimonte",
+    "repoName": "agentic-engineering-marketplace",
+    "repoBranch": "main"
+  },
+  "hongbietcode/claude-finance-kit": {
+    "name": "hongbietcode/claude-finance-kit",
+    "description": "Unified interface for stock data, market analytics, technical analysis, batch collection, and news \u2014 covering 15+ data sources.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hongbietcode",
+    "repoName": "claude-finance-kit",
+    "repoBranch": "main"
+  },
+  "wan-huiyan/context-baton": {
+    "name": "wan-huiyan/context-baton",
+    "description": "Two Claude Code skills for passing context across boundaries: session-handoff (end-of-session, agent\u2192human) + successor-handoff (mid-run, agent\u2192agent). Install via Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wan-huiyan",
+    "repoName": "context-baton",
+    "repoBranch": "master"
+  },
+  "1931840268/claude-usage-monitor": {
+    "name": "1931840268/claude-usage-monitor",
+    "description": "Claude Code usage plugin: official rate limits, per-task ROI analytics, advice engine, 17 MCP tools. Zero dependencies. \u4e2d\u6587\u4f18\u5148\u7684Claude Code\u7528\u91cf\u76d1\u63a7\u63d2\u4ef6",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "1931840268",
+    "repoName": "claude-usage-monitor",
+    "repoBranch": "main"
+  },
+  "Rishi4792/compass": {
+    "name": "Rishi4792/compass",
+    "description": "Build software true to spec, with zero drift \u2014 a contract-first build lifecycle for Claude Code, enforced by a real gate script (not prose). Lock a contract, plan, build, pass three adversarial reviews, ship.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rishi4792",
+    "repoName": "compass",
+    "repoBranch": "main"
+  },
+  "ysys143/pg-extension-lab": {
+    "name": "ysys143/pg-extension-lab",
+    "description": "A harness for testing, benchmarking, and tuning PostgreSQL extensions in an isolated, reproducible environment.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ysys143",
+    "repoName": "pg-extension-lab",
+    "repoBranch": "main"
+  },
+  "MangroveTechnologies/wiki-to-graph": {
+    "name": "MangroveTechnologies/wiki-to-graph",
+    "description": "Turn an LLM wiki (a folder of interlinked markdown pages) into a typed, queryable knowledge graph. Free for non-commercial use (CC BY-NC-SA 4.0).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MangroveTechnologies",
+    "repoName": "wiki-to-graph",
+    "repoBranch": "main"
+  },
+  "Choi-jae-min/tech-blog-post": {
+    "name": "Choi-jae-min/tech-blog-post",
+    "description": "\uc791\uc5c5 \uc911 \uc313\uc778 \uae30\uc220\uc801 \uacbd\ud5d8\uc744 SEO \ucd5c\uc801\ud654\ub41c \ube14\ub85c\uadf8 \uae00 \ucd08\uc548\uc73c\ub85c",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Choi-jae-min",
+    "repoName": "tech-blog-post",
+    "repoBranch": "main"
   }
 }

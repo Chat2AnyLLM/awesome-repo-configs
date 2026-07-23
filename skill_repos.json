@@ -13928,5 +13928,138 @@
         "name": "ellypsis-plugin-labs",
         "branch": "main",
         "enabled": true
+    },
+    "tzachbon/smart-ralph": {
+        "owner": "tzachbon",
+        "name": "smart-ralph",
+        "branch": "main",
+        "enabled": true
+    },
+    "GiustoPiedimonte/agentic-engineering-marketplace": {
+        "owner": "GiustoPiedimonte",
+        "name": "agentic-engineering-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "hongbietcode/claude-finance-kit": {
+        "owner": "hongbietcode",
+        "name": "claude-finance-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "yahor-punko/mavericks-os": {
+        "owner": "yahor-punko",
+        "name": "mavericks-os",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Atypical-Consulting/claude-legends-review": {
+        "owner": "Atypical-Consulting",
+        "name": "claude-legends-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "freerk/archetype-writer": {
+        "owner": "freerk",
+        "name": "archetype-writer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "restarter/bb-bash": {
+        "owner": "restarter",
+        "name": "bb-bash",
+        "branch": "main",
+        "enabled": true
+    },
+    "alebgl77/grafana-llmops-forge": {
+        "owner": "alebgl77",
+        "name": "grafana-llmops-forge",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wan-huiyan/context-baton": {
+        "owner": "wan-huiyan",
+        "name": "context-baton",
+        "branch": "master",
+        "enabled": true
+    },
+    "Rishi4792/compass": {
+        "owner": "Rishi4792",
+        "name": "compass",
+        "branch": "main",
+        "enabled": true
+    },
+    "ysys143/pg-extension-lab": {
+        "owner": "ysys143",
+        "name": "pg-extension-lab",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "naeemarsalan/refarch-animator": {
+        "owner": "naeemarsalan",
+        "name": "refarch-animator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MangroveTechnologies/wiki-to-graph": {
+        "owner": "MangroveTechnologies",
+        "name": "wiki-to-graph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pamelaaaaa1218/gongwen-format-skill": {
+        "owner": "pamelaaaaa1218",
+        "name": "gongwen-format-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maybe-qy/study-tracker": {
+        "owner": "maybe-qy",
+        "name": "study-tracker",
+        "branch": "main",
+        "enabled": true
+    },
+    "gezihua123/cc-planet": {
+        "owner": "gezihua123",
+        "name": "cc-planet",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "grooverLab/stash": {
+        "owner": "grooverLab",
+        "name": "stash",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "swapnil5053/algotrace": {
+        "owner": "swapnil5053",
+        "name": "algotrace",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Choi-jae-min/tech-blog-post": {
+        "owner": "Choi-jae-min",
+        "name": "tech-blog-post",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Avatechdir/video-walkthrough-skill": {
+        "owner": "Avatechdir",
+        "name": "video-walkthrough-skill",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

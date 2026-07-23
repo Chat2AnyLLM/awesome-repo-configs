@@ -2487,5 +2487,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "yahor-punko/mavericks-os": {
+    "owner": "yahor-punko",
+    "name": "mavericks-os",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
