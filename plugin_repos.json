@@ -11728,5 +11728,113 @@
     "repoOwner": "Choi-jae-min",
     "repoName": "tech-blog-post",
     "repoBranch": "main"
+  },
+  "evilmartians/agent-skills": {
+    "name": "evilmartians/agent-skills",
+    "description": "Production-grade Agent Skills from Evil Martians \u2014 drop-in expertise for your AI coding agent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "evilmartians",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "litestar-org/litestar-skills": {
+    "name": "litestar-org/litestar-skills",
+    "description": "Opinionated first-party agent skills, plugins, subagents, slash commands, and MCP servers for the Litestar framework ecosystem \u2014 publishable to Claude Code, Gemini CLI, Codex CLI, Cursor, OpenCode, and VS Code/Copilot...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "litestar-org",
+    "repoName": "litestar-skills",
+    "repoBranch": "main"
+  },
+  "vladimirrott/claude-math": {
+    "name": "vladimirrott/claude-math",
+    "description": "Render math legibly in the Claude Code terminal: Unicode glyphs instead of unrenderable LaTeX",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vladimirrott",
+    "repoName": "claude-math",
+    "repoBranch": "main"
+  },
+  "wan-huiyan/agent-traffic-control": {
+    "name": "wan-huiyan/agent-traffic-control",
+    "description": "Coordination toolkit for parallel Claude Code sessions sharing one repo \u2014 issue-pickup claim protocol, worktree isolation pitfalls, parallel-PR conflict recovery, subagent integrity, and squash/merge mechanics. 61 ski...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wan-huiyan",
+    "repoName": "agent-traffic-control",
+    "repoBranch": "main"
+  },
+  "slopstopper/recursive-spine": {
+    "name": "slopstopper/recursive-spine",
+    "description": "A Claude Code plugin that keeps project state in GitHub issues, not prose files \u2014 tracks what's aging or unblocked, scaffolds house conventions, and carries proven patterns between projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slopstopper",
+    "repoName": "recursive-spine",
+    "repoBranch": "main"
+  },
+  "YonasValentin/claude-kimi-relay": {
+    "name": "YonasValentin/claude-kimi-relay",
+    "description": "Claude Code plugin that delegates code review, adversarial design critique, and isolated implementation to Kimi Code over the Agent Client Protocol (ACP). Security-first: Kimi works in an isolated workspace and hands...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YonasValentin",
+    "repoName": "claude-kimi-relay",
+    "repoBranch": "main"
+  },
+  "DevOtts/plan-it": {
+    "name": "DevOtts/plan-it",
+    "description": "Turn a fuzzy idea into a buildable delivery package \u2014 discovery \u2192 spec \u2192 agile split, with a frozen CONTRACT and a binding Test Contract per epic. The planning front-end to /fable-it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DevOtts",
+    "repoName": "plan-it",
+    "repoBranch": "main"
+  },
+  "justhandledlabs/skills": {
+    "name": "justhandledlabs/skills",
+    "description": "Free agent skills for Claude Code and SKILL.md agents. Add with: /plugin marketplace add justhandledlabs/skills. Eleven focused tools by JustHandled Labs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justhandledlabs",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "arete-aios/skills": {
+    "name": "arete-aios/skills",
+    "description": "Skills from a working AI operating system. Five layers you own: Constitution, Memory, Skills, Tools, Focus.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arete-aios",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "aashishvasu/dev-team-claude": {
+    "name": "aashishvasu/dev-team-claude",
+    "description": "Tiered multi-agent claude code dev team for resumable work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aashishvasu",
+    "repoName": "dev-team-claude",
+    "repoBranch": "main"
+  },
+  "nikicat/claude-ppq": {
+    "name": "nikicat/claude-ppq",
+    "description": "Claude Code plugin for ppq.ai: image gen/edit/upscale, Claude Code on ppq models, Bitcoin Lightning topups",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nikicat",
+    "repoName": "claude-ppq",
+    "repoBranch": "main"
+  },
+  "MiracleWeb3/claude-memory-light": {
+    "name": "MiracleWeb3/claude-memory-light",
+    "description": "Full session memory for Claude Code. One small C++ binary, no daemons, no LLM calls.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MiracleWeb3",
+    "repoName": "claude-memory-light",
+    "repoBranch": "main"
   }
 }

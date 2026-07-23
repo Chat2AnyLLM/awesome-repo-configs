@@ -2494,5 +2494,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "litestar-org/litestar-skills": {
+    "owner": "litestar-org",
+    "name": "litestar-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "aashishvasu/dev-team-claude": {
+    "owner": "aashishvasu",
+    "name": "dev-team-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

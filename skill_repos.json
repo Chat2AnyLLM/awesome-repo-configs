@@ -14061,5 +14061,117 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "evilmartians/agent-skills": {
+        "owner": "evilmartians",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "litestar-org/litestar-skills": {
+        "owner": "litestar-org",
+        "name": "litestar-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sx4im/skillcheck": {
+        "owner": "sx4im",
+        "name": "skillcheck",
+        "branch": "main",
+        "enabled": true
+    },
+    "vladimirrott/claude-math": {
+        "owner": "vladimirrott",
+        "name": "claude-math",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wan-huiyan/agent-traffic-control": {
+        "owner": "wan-huiyan",
+        "name": "agent-traffic-control",
+        "branch": "main",
+        "enabled": true
+    },
+    "incordai/memory": {
+        "owner": "incordai",
+        "name": "memory",
+        "branch": "main",
+        "enabled": true
+    },
+    "slopstopper/recursive-spine": {
+        "owner": "slopstopper",
+        "name": "recursive-spine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YonasValentin/claude-kimi-relay": {
+        "owner": "YonasValentin",
+        "name": "claude-kimi-relay",
+        "branch": "main",
+        "enabled": true
+    },
+    "DevOtts/plan-it": {
+        "owner": "DevOtts",
+        "name": "plan-it",
+        "branch": "main",
+        "enabled": true
+    },
+    "justhandledlabs/skills": {
+        "owner": "justhandledlabs",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ruthless-coder-ai/four-pillars-claude-skill": {
+        "owner": "ruthless-coder-ai",
+        "name": "four-pillars-claude-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ruthless-coder-ai/bazi-claude-skill": {
+        "owner": "ruthless-coder-ai",
+        "name": "bazi-claude-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "arete-aios/skills": {
+        "owner": "arete-aios",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KarlYu130/Threads-Research-Scraper-Skill": {
+        "owner": "KarlYu130",
+        "name": "Threads-Research-Scraper-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aashishvasu/dev-team-claude": {
+        "owner": "aashishvasu",
+        "name": "dev-team-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nikicat/claude-ppq": {
+        "owner": "nikicat",
+        "name": "claude-ppq",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MiracleWeb3/claude-memory-light": {
+        "owner": "MiracleWeb3",
+        "name": "claude-memory-light",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
