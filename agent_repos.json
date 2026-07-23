@@ -2459,5 +2459,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "juliandickie/creators-studio": {
+    "owner": "juliandickie",
+    "name": "creators-studio",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "BekbolotM/repo-doctor": {
+    "owner": "BekbolotM",
+    "name": "repo-doctor",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "getreka/reka-plugin": {
+    "owner": "getreka",
+    "name": "reka-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "cryptoyoginya/learneverything": {
+    "owner": "cryptoyoginya",
+    "name": "learneverything",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

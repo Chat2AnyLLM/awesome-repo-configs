@@ -11557,5 +11557,86 @@
     "repoOwner": "nasimubd",
     "repoName": "claude-council",
     "repoBranch": "main"
+  },
+  "y49/tlive": {
+    "name": "y49/tlive",
+    "description": "Self-hosted remote approvals + live monitoring for Claude Code / Codex \u2014 via Telegram, Feishu, or a web terminal. Any subscription or API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "y49",
+    "repoName": "tlive",
+    "repoBranch": "main"
+  },
+  "anmolnagpal/devops-skills": {
+    "name": "anmolnagpal/devops-skills",
+    "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, AWS FinOps, OWASP security.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anmolnagpal",
+    "repoName": "devops-skills",
+    "repoBranch": "main"
+  },
+  "juliandickie/creators-studio": {
+    "name": "juliandickie/creators-studio",
+    "description": "Creators Studio \u2014 AI image, video & audio Creative Director plugin for Claude Code. Imagine \u00b7 Direct \u00b7 Generate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "juliandickie",
+    "repoName": "creators-studio",
+    "repoBranch": "main"
+  },
+  "BekbolotM/repo-doctor": {
+    "name": "BekbolotM/repo-doctor",
+    "description": "\ud83e\ude7a Full health checkup for any repo \u2014 Claude Code plugin: Health Score, prioritized fix plan, one-command fixes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BekbolotM",
+    "repoName": "repo-doctor",
+    "repoBranch": "main"
+  },
+  "getreka/reka-plugin": {
+    "name": "getreka/reka-plugin",
+    "description": "Claude Code plugin \u2014 RAG-powered AI development with semantic search, project memory, architecture decisions, and coding workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getreka",
+    "repoName": "reka-plugin",
+    "repoBranch": "main"
+  },
+  "phense/ultra-memory": {
+    "name": "phense/ultra-memory",
+    "description": "Lasting memory for Claude Code \u2014 session memory + a git-tracked knowledge wiki, searched as one, with a self-learning loop. Local-first, OAuth-only, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phense",
+    "repoName": "ultra-memory",
+    "repoBranch": "main"
+  },
+  "Shawn1993/ship-appstore": {
+    "name": "Shawn1993/ship-appstore",
+    "description": "App Store \u5168\u751f\u547d\u5468\u671f\u7ba1\u7406 Claude Code plugin\uff1a\u4e0a\u67b6\u3001\u5ba1\u8ba1\u3001\u88ab\u62d2\u6062\u590d\u3001TestFlight\u3001ASO\uff08\u542b\u4e2d\u56fd\u533a ICP/\u5e7f\u544a\u6cd5\u4e13\u9879\uff09",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Shawn1993",
+    "repoName": "ship-appstore",
+    "repoBranch": "main"
+  },
+  "ingcontartese-netizen/multi-agent-system-architect-v2": {
+    "name": "ingcontartese-netizen/multi-agent-system-architect-v2",
+    "description": "Agent Skill that asks: should there be an agentic system at all? Then designs, builds, audits, verifies, and ports systems\u2014from workflows to governed teams.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ingcontartese-netizen",
+    "repoName": "multi-agent-system-architect-v2",
+    "repoBranch": "main"
+  },
+  "EllypsisAI/ellypsis-plugin-labs": {
+    "name": "EllypsisAI/ellypsis-plugin-labs",
+    "description": "Public marketplace for plugins from Ellypsis Labs - knowledge work systems for Claude Code and Cowork.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EllypsisAI",
+    "repoName": "ellypsis-plugin-labs",
+    "repoBranch": "main"
   }
 }

@@ -13817,5 +13817,116 @@
         "name": "claude-council",
         "branch": "main",
         "enabled": true
+    },
+    "y49/tlive": {
+        "owner": "y49",
+        "name": "tlive",
+        "branch": "main",
+        "enabled": true
+    },
+    "anmolnagpal/devops-skills": {
+        "owner": "anmolnagpal",
+        "name": "devops-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "juliandickie/creators-studio": {
+        "owner": "juliandickie",
+        "name": "creators-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xiaowu89/skill-function": {
+        "owner": "xiaowu89",
+        "name": "skill-function",
+        "branch": "master",
+        "enabled": true
+    },
+    "LucioLiu/nomad": {
+        "owner": "LucioLiu",
+        "name": "nomad",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "getreka/reka-plugin": {
+        "owner": "getreka",
+        "name": "reka-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "phense/ultra-memory": {
+        "owner": "phense",
+        "name": "ultra-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WSD-MJ/image-photo-generator": {
+        "owner": "WSD-MJ",
+        "name": "image-photo-generator",
+        "branch": "main",
+        "enabled": true
+    },
+    "WSD-MJ/xhs-imitation-writing": {
+        "owner": "WSD-MJ",
+        "name": "xhs-imitation-writing",
+        "branch": "main",
+        "enabled": true
+    },
+    "WSD-MJ/xhs-content-topic": {
+        "owner": "WSD-MJ",
+        "name": "xhs-content-topic",
+        "branch": "main",
+        "enabled": true
+    },
+    "WSD-MJ/xhs-writing": {
+        "owner": "WSD-MJ",
+        "name": "xhs-writing",
+        "branch": "main",
+        "enabled": true
+    },
+    "Shawn1993/ship-appstore": {
+        "owner": "Shawn1993",
+        "name": "ship-appstore",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cryptoyoginya/learneverything": {
+        "owner": "cryptoyoginya",
+        "name": "learneverything",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ingcontartese-netizen/multi-agent-system-architect-v2": {
+        "owner": "ingcontartese-netizen",
+        "name": "multi-agent-system-architect-v2",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TecCat/claude-skills": {
+        "owner": "TecCat",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "taewanu/skills": {
+        "owner": "taewanu",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EllypsisAI/ellypsis-plugin-labs": {
+        "owner": "EllypsisAI",
+        "name": "ellypsis-plugin-labs",
+        "branch": "main",
+        "enabled": true
     }
 }
