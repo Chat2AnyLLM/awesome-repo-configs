@@ -13669,5 +13669,153 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "nexscope-ai/eCommerce-Skills": {
+        "owner": "nexscope-ai",
+        "name": "eCommerce-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "nexscope-ai/Amazon-Skills": {
+        "owner": "nexscope-ai",
+        "name": "Amazon-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "woodfantasy/Seedance2.0-ShotDesign-Skills": {
+        "owner": "woodfantasy",
+        "name": "Seedance2.0-ShotDesign-Skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "liatrio-labs/claude-code-gauntlet": {
+        "owner": "liatrio-labs",
+        "name": "claude-code-gauntlet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kensaurus/cursor-kenji": {
+        "owner": "kensaurus",
+        "name": "cursor-kenji",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wrsmith108/session-cleanup-skill": {
+        "owner": "wrsmith108",
+        "name": "session-cleanup-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cdeust/prd-spec-generator": {
+        "owner": "cdeust",
+        "name": "prd-spec-generator",
+        "branch": "main",
+        "enabled": true
+    },
+    "AtlasCloudAI/awesome-seedance-2.5-prompts-skills": {
+        "owner": "AtlasCloudAI",
+        "name": "awesome-seedance-2.5-prompts-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lum1104/red-button": {
+        "owner": "Lum1104",
+        "name": "red-button",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Lum1104/archaeologist": {
+        "owner": "Lum1104",
+        "name": "archaeologist",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nikola-wd/vibe-agentic-coding-llm-council-skill": {
+        "owner": "nikola-wd",
+        "name": "vibe-agentic-coding-llm-council-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BlackRaptorAI/BlackRaptor_Agents": {
+        "owner": "BlackRaptorAI",
+        "name": "BlackRaptor_Agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "maojiebc/majia-match-the-venue": {
+        "owner": "maojiebc",
+        "name": "majia-match-the-venue",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Lum1104/prove-me-wrong": {
+        "owner": "Lum1104",
+        "name": "prove-me-wrong",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Lum1104/no-vibes": {
+        "owner": "Lum1104",
+        "name": "no-vibes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Lum1104/bet-on-it": {
+        "owner": "Lum1104",
+        "name": "bet-on-it",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "natthasath/natthasath-marketplace": {
+        "owner": "natthasath",
+        "name": "natthasath-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "kau10082/pdf-text-recover": {
+        "owner": "kau10082",
+        "name": "pdf-text-recover",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "youkistudios/session-save-system": {
+        "owner": "youkistudios",
+        "name": "session-save-system",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "turntuptechnologies-ai/skills": {
+        "owner": "turntuptechnologies-ai",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "donatassimkus/claude-ai-skills": {
+        "owner": "donatassimkus",
+        "name": "claude-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nasimubd/claude-council": {
+        "owner": "nasimubd",
+        "name": "claude-council",
+        "branch": "main",
+        "enabled": true
     }
 }

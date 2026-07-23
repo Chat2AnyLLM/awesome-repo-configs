@@ -11494,5 +11494,68 @@
     "repoOwner": "davorrunje",
     "repoName": "honest-scholar",
     "repoBranch": "main"
+  },
+  "liatrio-labs/claude-code-gauntlet": {
+    "name": "liatrio-labs/claude-code-gauntlet",
+    "description": "Adversarial multi-agent code review for Claude Code \u2014 your PR runs a gauntlet of concern-specialized agents, deterministic verification, and a blind challenge. GitHub & GitLab. Formerly deep-review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "liatrio-labs",
+    "repoName": "claude-code-gauntlet",
+    "repoBranch": "main"
+  },
+  "cdeust/prd-spec-generator": {
+    "name": "cdeust/prd-spec-generator",
+    "description": "The spec verifier: turns a feature description into a 9-file PRD and verifies it \u2014 deterministic Hard Output Rules + multi-judge consensus calibrated against external oracles (schema/math/code). Works standalone or as...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdeust",
+    "repoName": "prd-spec-generator",
+    "repoBranch": "main"
+  },
+  "BlackRaptorAI/BlackRaptor_Agents": {
+    "name": "BlackRaptorAI/BlackRaptor_Agents",
+    "description": "A governed AI organization for Claude Code \u2014 a 24-agent development team + a 12-seat executive advisory council, with shared skills (Excellence Pass, research-integrity, gate reviews). Install via the plugin marketpla...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BlackRaptorAI",
+    "repoName": "BlackRaptor_Agents",
+    "repoBranch": "main"
+  },
+  "natthasath/natthasath-marketplace": {
+    "name": "natthasath/natthasath-marketplace",
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing, language, design, and productivity \u2014 install with a single command and start using slash comman...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "natthasath",
+    "repoName": "natthasath-marketplace",
+    "repoBranch": "main"
+  },
+  "turntuptechnologies-ai/skills": {
+    "name": "turntuptechnologies-ai/skills",
+    "description": "Turnt Up Technologies\u682a\u5f0f\u4f1a\u793e\u306e Claude Code \u30d7\u30e9\u30b0\u30a4\u30f3\u30de\u30fc\u30b1\u30c3\u30c8\u30d7\u30ec\u30a4\u30b9",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "turntuptechnologies-ai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "ali5ter/claude-plugins": {
+    "name": "ali5ter/claude-plugins",
+    "description": "\ud83d\udd0c Personal Claude Code plugin marketplace for ali5ter plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ali5ter",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "nasimubd/claude-council": {
+    "name": "nasimubd/claude-council",
+    "description": "Multi-agent, execution-gated code review for Claude Code \u2014 a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nasimubd",
+    "repoName": "claude-council",
+    "repoBranch": "main"
   }
 }

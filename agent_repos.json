@@ -2445,5 +2445,19 @@
     "branch": "develop",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "liatrio-labs/claude-code-gauntlet": {
+    "owner": "liatrio-labs",
+    "name": "claude-code-gauntlet",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kensaurus/cursor-kenji": {
+    "owner": "kensaurus",
+    "name": "cursor-kenji",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
