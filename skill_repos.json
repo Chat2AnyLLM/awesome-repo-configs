@@ -14301,5 +14301,119 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "composio-community/awesome-claude-plugins": {
+        "owner": "composio-community",
+        "name": "awesome-claude-plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "LukeRenton/explore-claude-code": {
+        "owner": "LukeRenton",
+        "name": "explore-claude-code",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ur-grue/autopunk-media-skills": {
+        "owner": "ur-grue",
+        "name": "autopunk-media-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lachydotmcg/slopsec": {
+        "owner": "lachydotmcg",
+        "name": "slopsec",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HiroHyun/grounded-copy": {
+        "owner": "HiroHyun",
+        "name": "grounded-copy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sidhanth-povil/ia-practitioner": {
+        "owner": "sidhanth-povil",
+        "name": "ia-practitioner",
+        "branch": "main",
+        "enabled": true
+    },
+    "shortcuts/radin": {
+        "owner": "shortcuts",
+        "name": "radin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "escoffier-labs/skillet": {
+        "owner": "escoffier-labs",
+        "name": "skillet",
+        "branch": "main",
+        "enabled": true
+    },
+    "Acendas/shipyard": {
+        "owner": "Acendas",
+        "name": "shipyard",
+        "branch": "main",
+        "enabled": true
+    },
+    "yacb2/aidex": {
+        "owner": "yacb2",
+        "name": "aidex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lj22503/awesome-finai-tools-zn": {
+        "owner": "lj22503",
+        "name": "awesome-finai-tools-zn",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "enverkocak/framework": {
+        "owner": "enverkocak",
+        "name": "framework",
+        "branch": "main",
+        "enabled": true
+    },
+    "chussum/cat-harness": {
+        "owner": "chussum",
+        "name": "cat-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "danilo-znamerovszkij/draw-your-font": {
+        "owner": "danilo-znamerovszkij",
+        "name": "draw-your-font",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mickzijdel/vischeck": {
+        "owner": "mickzijdel",
+        "name": "vischeck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mickzijdel/readoc": {
+        "owner": "mickzijdel",
+        "name": "readoc",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mickzijdel/rails-toolkit": {
+        "owner": "mickzijdel",
+        "name": "rails-toolkit",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

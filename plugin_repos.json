@@ -11926,5 +11926,95 @@
     "repoOwner": "nagameTW",
     "repoName": "humanizer-zh-tw",
     "repoBranch": "main"
+  },
+  "composio-community/awesome-claude-plugins": {
+    "name": "composio-community/awesome-claude-plugins",
+    "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "composio-community",
+    "repoName": "awesome-claude-plugins",
+    "repoBranch": "master"
+  },
+  "LukeRenton/explore-claude-code": {
+    "name": "LukeRenton/explore-claude-code",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LukeRenton",
+    "repoName": "explore-claude-code",
+    "repoBranch": "main"
+  },
+  "ur-grue/autopunk-media-skills": {
+    "name": "ur-grue/autopunk-media-skills",
+    "description": "394 free, quality-tested Claude skills for TV producers, journalists, podcasters, YouTubers & media professionals.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ur-grue",
+    "repoName": "autopunk-media-skills",
+    "repoBranch": "main"
+  },
+  "lachydotmcg/slopsec": {
+    "name": "lachydotmcg/slopsec",
+    "description": "A Claude Code skill that security-audits vibe-coded SaaS apps. 50 common ways AI-generated apps get pwned, turned into a repeatable checklist, severity scoring, and findings report!",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lachydotmcg",
+    "repoName": "slopsec",
+    "repoBranch": "master"
+  },
+  "shortcuts/radin": {
+    "name": "shortcuts/radin",
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shortcuts",
+    "repoName": "radin",
+    "repoBranch": "main"
+  },
+  "escoffier-labs/skillet": {
+    "name": "escoffier-labs/skillet",
+    "description": "A skillet full of agent skills that actually ship work. Production-tested SKILL.md workflows for audits, security, releases, and handoffs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "escoffier-labs",
+    "repoName": "skillet",
+    "repoBranch": "main"
+  },
+  "Acendas/shipyard": {
+    "name": "Acendas/shipyard",
+    "description": "Turn your idea into working code \u2014 spec-driven agile sprints for Claude Code. 12 commands, 6 agents, TDD enforced, zero setup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Acendas",
+    "repoName": "shipyard",
+    "repoBranch": "main"
+  },
+  "enverkocak/framework": {
+    "name": "enverkocak/framework",
+    "description": "Claude Code \u0130\u00e7in T\u00fcrk\u00e7e geli\u015ftirme \u00e7er\u00e7evesi - veri koruma, faz motoru, kasa ve tasar\u0131m kimli\u011fi",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enverkocak",
+    "repoName": "framework",
+    "repoBranch": "main"
+  },
+  "chussum/cat-harness": {
+    "name": "chussum/cat-harness",
+    "description": "\ud83d\udc31 Ask-before-building workflow harness for Claude Code \u2014 auto-routes vague requests through interview \u2192 consensus plan \u2192 evidence-gated execution. No slash commands needed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chussum",
+    "repoName": "cat-harness",
+    "repoBranch": "main"
+  },
+  "mickzijdel/rails-toolkit": {
+    "name": "mickzijdel/rails-toolkit",
+    "description": "Agent skills for working with Ruby on Rails 8+",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mickzijdel",
+    "repoName": "rails-toolkit",
+    "repoBranch": "master"
   }
 }

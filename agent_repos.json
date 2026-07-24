@@ -2508,5 +2508,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "LukeRenton/explore-claude-code": {
+    "owner": "LukeRenton",
+    "name": "explore-claude-code",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ur-grue/autopunk-media-skills": {
+    "owner": "ur-grue",
+    "name": "autopunk-media-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "shortcuts/radin": {
+    "owner": "shortcuts",
+    "name": "radin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "chussum/cat-harness": {
+    "owner": "chussum",
+    "name": "cat-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
