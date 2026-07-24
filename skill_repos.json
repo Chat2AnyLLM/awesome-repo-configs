@@ -14173,5 +14173,133 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "yanliudesign/offer-toolkit-skill": {
+        "owner": "yanliudesign",
+        "name": "offer-toolkit-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Cassette-Editor/oh-my-cassette": {
+        "owner": "Cassette-Editor",
+        "name": "oh-my-cassette",
+        "branch": "main",
+        "enabled": true
+    },
+    "neuralinitiative/claude-dnd-skill": {
+        "owner": "neuralinitiative",
+        "name": "claude-dnd-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dfk1352/LibreOffice-skills": {
+        "owner": "dfk1352",
+        "name": "LibreOffice-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mlava/scholar-sidekick-mcp": {
+        "owner": "mlava",
+        "name": "scholar-sidekick-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "irfad7/claude-power-skills": {
+        "owner": "irfad7",
+        "name": "claude-power-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dinglebear-ai/axon": {
+        "owner": "dinglebear-ai",
+        "name": "axon",
+        "branch": "main",
+        "enabled": true
+    },
+    "peopleworks/SignsofAI": {
+        "owner": "peopleworks",
+        "name": "SignsofAI",
+        "branch": "main",
+        "enabled": true
+    },
+    "aaaxy/PrepDojo": {
+        "owner": "aaaxy",
+        "name": "PrepDojo",
+        "branch": "main",
+        "enabled": true
+    },
+    "xiaowu89/skill-compress": {
+        "owner": "xiaowu89",
+        "name": "skill-compress",
+        "branch": "master",
+        "enabled": true
+    },
+    "dinglebear-ai/cortex": {
+        "owner": "dinglebear-ai",
+        "name": "cortex",
+        "branch": "main",
+        "enabled": true
+    },
+    "karsten-s-nielsen/mad-scientist-skills": {
+        "owner": "karsten-s-nielsen",
+        "name": "mad-scientist-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "luizporto-ai/vigia": {
+        "owner": "luizporto-ai",
+        "name": "vigia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "helloyxs/generate-html-ppt": {
+        "owner": "helloyxs",
+        "name": "generate-html-ppt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lj22503/investment-framework-skill": {
+        "owner": "lj22503",
+        "name": "investment-framework-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "redwoodmeridian/ranql-skills": {
+        "owner": "redwoodmeridian",
+        "name": "ranql-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "PicSeeInc/picsee-short-link": {
+        "owner": "PicSeeInc",
+        "name": "picsee-short-link",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "horizon-foundry/foundry": {
+        "owner": "horizon-foundry",
+        "name": "foundry",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "avmnu-sng/sutra": {
+        "owner": "avmnu-sng",
+        "name": "sutra",
+        "branch": "main",
+        "enabled": true
+    },
+    "nagameTW/humanizer-zh-tw": {
+        "owner": "nagameTW",
+        "name": "humanizer-zh-tw",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

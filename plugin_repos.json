@@ -11836,5 +11836,95 @@
     "repoOwner": "MiracleWeb3",
     "repoName": "claude-memory-light",
     "repoBranch": "main"
+  },
+  "Cassette-Editor/oh-my-cassette": {
+    "name": "Cassette-Editor/oh-my-cassette",
+    "description": "\u4f60\u7684\u968f\u8eab AI \u526a\u8f91\u642d\u6863 | Pocket AI co-editor for video montage \u2014 AI video editing plugin & MCP server for Claude Code, Codex, Hermes & OpenCode",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Cassette-Editor",
+    "repoName": "oh-my-cassette",
+    "repoBranch": "main"
+  },
+  "neuralinitiative/claude-dnd-skill": {
+    "name": "neuralinitiative/claude-dnd-skill",
+    "description": "Unofficial D&D 5e Dungeon Master for Claude Code \u2014 persistent campaigns, full 5e mechanics, and an optional cinematic display companion for your TV",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "neuralinitiative",
+    "repoName": "claude-dnd-skill",
+    "repoBranch": "main"
+  },
+  "mlava/scholar-sidekick-mcp": {
+    "name": "mlava/scholar-sidekick-mcp",
+    "description": "MCP server for Scholar Sidekick \u2014 resolve any scholarly identifier (DOI, PMID, PMCID, ISBN, arXiv, ISSN, ADS, WHO IRIS) into 10,000+ CSL styles or nine export formats, single or batch.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mlava",
+    "repoName": "scholar-sidekick-mcp",
+    "repoBranch": "main"
+  },
+  "irfad7/claude-power-skills": {
+    "name": "irfad7/claude-power-skills",
+    "description": "20 power-user skills for Claude Code: session memory and consolidation, context compression, multi-agent orchestration, adversarial bug hunting, security review, calibrated estimation and decision archaeology. Drop-in...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "irfad7",
+    "repoName": "claude-power-skills",
+    "repoBranch": "main"
+  },
+  "dinglebear-ai/axon": {
+    "name": "dinglebear-ai/axon",
+    "description": "Self-hosted RAG stack for crawl, scrape, search, ingest, query, and ask workflows with Qdrant, TEI embeddings, Chrome rendering, MCP/CLI/REST, and Gemini synthesis.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dinglebear-ai",
+    "repoName": "axon",
+    "repoBranch": "main"
+  },
+  "dinglebear-ai/cortex": {
+    "name": "dinglebear-ai/cortex",
+    "description": "Rust MCP/HTTP log aggregation platform for homelab syslog, Docker logs, OTLP ingest, SQLite/FTS search, and AI transcript correlation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dinglebear-ai",
+    "repoName": "cortex",
+    "repoBranch": "main"
+  },
+  "karsten-s-nielsen/mad-scientist-skills": {
+    "name": "karsten-s-nielsen/mad-scientist-skills",
+    "description": "Claude Code plugin \u2014 8 skills for architecture, security, observability, optimization, documentation, cognitive UX, and C4 diagramming",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karsten-s-nielsen",
+    "repoName": "mad-scientist-skills",
+    "repoBranch": "main"
+  },
+  "redwoodmeridian/ranql-skills": {
+    "name": "redwoodmeridian/ranql-skills",
+    "description": "Claude Code plugin: turn Claude into your law firm's marketing operator with the Ranql MCP. Competitor ad teardowns, brand extraction, on-brand creative (static and video), landing pages and campaigns. Built by Irfad...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "redwoodmeridian",
+    "repoName": "ranql-skills",
+    "repoBranch": "main"
+  },
+  "avmnu-sng/sutra": {
+    "name": "avmnu-sng/sutra",
+    "description": "A plug-and-play agent kit for Claude Code: layered operating profiles, 19 skills, subagents, and a multi-session build workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avmnu-sng",
+    "repoName": "sutra",
+    "repoBranch": "main"
+  },
+  "nagameTW/humanizer-zh-tw": {
+    "name": "nagameTW/humanizer-zh-tw",
+    "description": "\u53bb\u9664 AI \u5beb\u4f5c\u75d5\u8de1\u7684\u7e41\u9ad4\u4e2d\u6587\uff08\u53f0\u7063\uff09\u7248 Claude skill\uff0c\u57fa\u65bc blader/humanizer\uff0c38 \u7a2e\u6a21\u5f0f\u542b\u4e2d\u570b\u7528\u8a9e\u5075\u6e2c\u8207\u4e2d\u6587\u6a19\u9ede\u4fdd\u8b77",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nagameTW",
+    "repoName": "humanizer-zh-tw",
+    "repoBranch": "main"
   }
 }
