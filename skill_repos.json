@@ -14415,5 +14415,117 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "kabirnarang39/skillci": {
+        "owner": "kabirnarang39",
+        "name": "skillci",
+        "branch": "main",
+        "enabled": true
+    },
+    "wallmage/repo-scout": {
+        "owner": "wallmage",
+        "name": "repo-scout",
+        "branch": "main",
+        "enabled": true
+    },
+    "Optim-Agent/optim-plans": {
+        "owner": "Optim-Agent",
+        "name": "optim-plans",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Wang-Cankun/cankun-skills": {
+        "owner": "Wang-Cankun",
+        "name": "cankun-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pencilrebel/roast-my-design-system": {
+        "owner": "pencilrebel",
+        "name": "roast-my-design-system",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rodrigopg/claude-skill-prime-context": {
+        "owner": "rodrigopg",
+        "name": "claude-skill-prime-context",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JiaWeiXie/swarm-pi-code-plugin": {
+        "owner": "JiaWeiXie",
+        "name": "swarm-pi-code-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "IPedrax/motion-ui": {
+        "owner": "IPedrax",
+        "name": "motion-ui",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zrzzzz/agent-codebase-skills": {
+        "owner": "Zrzzzz",
+        "name": "agent-codebase-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "arbi-elezi/emperor-time": {
+        "owner": "arbi-elezi",
+        "name": "emperor-time",
+        "branch": "main",
+        "enabled": true
+    },
+    "oryxintel/oryxflow-claude-plugin": {
+        "owner": "oryxintel",
+        "name": "oryxflow-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rodrigopg/keepass-claude-skill": {
+        "owner": "rodrigopg",
+        "name": "keepass-claude-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "apodal-cherry334/code-review-graph": {
+        "owner": "apodal-cherry334",
+        "name": "code-review-graph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rodrigopg/claude-skill-github-branch-protection": {
+        "owner": "rodrigopg",
+        "name": "claude-skill-github-branch-protection",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rodrigopg/claude-easypanel-skill": {
+        "owner": "rodrigopg",
+        "name": "claude-easypanel-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AbhiiGatty/cld-flare-maxxing": {
+        "owner": "AbhiiGatty",
+        "name": "cld-flare-maxxing",
+        "branch": "main",
+        "enabled": true
+    },
+    "hyemin-ht-kang/click-to-edit-ui": {
+        "owner": "hyemin-ht-kang",
+        "name": "click-to-edit-ui",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

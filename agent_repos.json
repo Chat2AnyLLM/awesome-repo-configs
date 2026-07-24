@@ -2536,5 +2536,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AbhiiGatty/cld-flare-maxxing": {
+    "owner": "AbhiiGatty",
+    "name": "cld-flare-maxxing",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

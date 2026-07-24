@@ -12016,5 +12016,113 @@
     "repoOwner": "mickzijdel",
     "repoName": "rails-toolkit",
     "repoBranch": "master"
+  },
+  "Optim-Agent/optim-plans": {
+    "name": "Optim-Agent/optim-plans",
+    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enforce explicit execution gates, and provide tested controller primitives for safer agent workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Optim-Agent",
+    "repoName": "optim-plans",
+    "repoBranch": "main"
+  },
+  "rodrigopg/claude-plugins": {
+    "name": "rodrigopg/claude-plugins",
+    "description": "Personal Claude Code plugin marketplace \u2014 WhatsApp MCP, KeePass, EasyPanel, Discord CLI, Proxmox, prime-context",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rodrigopg",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "pencilrebel/roast-my-design-system": {
+    "name": "pencilrebel/roast-my-design-system",
+    "description": "v3.1.2 \u00b7 Claude Code + Codex skill that roasts your repo's design system with real data. A deterministic scanner counts every colour, spacing value and duplicated component, benchmarks you against 29 public repos and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pencilrebel",
+    "repoName": "roast-my-design-system",
+    "repoBranch": "main"
+  },
+  "rodrigopg/claude-skill-prime-context": {
+    "name": "rodrigopg/claude-skill-prime-context",
+    "description": "Claude Code skill \u2014 on-demand context loading + AGENTS.md refactor for token efficiency",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rodrigopg",
+    "repoName": "claude-skill-prime-context",
+    "repoBranch": "main"
+  },
+  "JiaWeiXie/swarm-pi-code-plugin": {
+    "name": "JiaWeiXie/swarm-pi-code-plugin",
+    "description": "connects Claude Code and Codex to a bounded Pi coding worker for repository-grounded analysis, planning, review, and implementation. It is designed for teams that want a second coding-agent perspective without giving...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JiaWeiXie",
+    "repoName": "swarm-pi-code-plugin",
+    "repoBranch": "main"
+  },
+  "Zrzzzz/agent-codebase-skills": {
+    "name": "Zrzzzz/agent-codebase-skills",
+    "description": "Claude Code skills for using AI agents to develop and maintain large, long-lived codebases across sessions: AGENTS.md/CLAUDE.md layered conventions + auto session-notes hook.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zrzzzz",
+    "repoName": "agent-codebase-skills",
+    "repoBranch": "main"
+  },
+  "furkanYanteri1/GOALT-the-goal-tree": {
+    "name": "furkanYanteri1/GOALT-the-goal-tree",
+    "description": "About A multi-parent, value-propagating goal graph. Concept-stage, open source, looking for people to poke holes in it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "furkanYanteri1",
+    "repoName": "GOALT-the-goal-tree",
+    "repoBranch": "main"
+  },
+  "arbi-elezi/emperor-time": {
+    "name": "arbi-elezi/emperor-time",
+    "description": "Emperor Time - a full-rigor coding harness skill/plugin: micro-waterfall SDLC gates, scientific-method claim ledgers to cut hallucination, mandatory critique, and consent-based orchestration of other coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arbi-elezi",
+    "repoName": "emperor-time",
+    "repoBranch": "main"
+  },
+  "oryxintel/oryxflow-claude-plugin": {
+    "name": "oryxintel/oryxflow-claude-plugin",
+    "description": "Claude Code plugin for reproducible AI data analysis. A skill + slash commands that teach Claude Code to build analysis as a cached, reproducible oryxflow pipeline \u2014 so AI-written data analysis is   trustworthy and re...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oryxintel",
+    "repoName": "oryxflow-claude-plugin",
+    "repoBranch": "main"
+  },
+  "inth3shadows/runecho": {
+    "name": "inth3shadows/runecho",
+    "description": "Deterministic pre-write guard for AI coding agents. Blocks an Edit/Write that references a symbol your repo doesn't have \u2014 before it lands, not after the build fails. No LLM, no API keys, ~0 tokens: the same code prod...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inth3shadows",
+    "repoName": "runecho",
+    "repoBranch": "master"
+  },
+  "AbhiiGatty/cld-flare-maxxing": {
+    "name": "AbhiiGatty/cld-flare-maxxing",
+    "description": "Portable Claude Code and Codex plugin that audits, explains, and safely changes Cloudflare. Read-only by default with guarded break-glass writes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AbhiiGatty",
+    "repoName": "cld-flare-maxxing",
+    "repoBranch": "main"
+  },
+  "hyemin-ht-kang/click-to-edit-ui": {
+    "name": "hyemin-ht-kang/click-to-edit-ui",
+    "description": "Claude Code plugin: Alt-click web UI components in the browser and request edits by number",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hyemin-ht-kang",
+    "repoName": "click-to-edit-ui",
+    "repoBranch": "main"
   }
 }
