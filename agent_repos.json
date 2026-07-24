@@ -2543,5 +2543,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "Elnora-AI/elnora-linear": {
+    "owner": "Elnora-AI",
+    "name": "elnora-linear",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

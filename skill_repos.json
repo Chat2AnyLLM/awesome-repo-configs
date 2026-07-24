@@ -14527,5 +14527,84 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "PCIRCLE-AI/memesh-llm-memory": {
+        "owner": "PCIRCLE-AI",
+        "name": "memesh-llm-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Elnora-AI/elnora-linear": {
+        "owner": "Elnora-AI",
+        "name": "elnora-linear",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fabioc-aloha/Alex_Skill_Mall": {
+        "owner": "fabioc-aloha",
+        "name": "Alex_Skill_Mall",
+        "branch": "main",
+        "enabled": true
+    },
+    "andreidavid/codex-review": {
+        "owner": "andreidavid",
+        "name": "codex-review",
+        "branch": "main",
+        "enabled": true
+    },
+    "splitbrain/rpeek": {
+        "owner": "splitbrain",
+        "name": "rpeek",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Elnora-AI/elnora-whatsapp": {
+        "owner": "Elnora-AI",
+        "name": "elnora-whatsapp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Elnora-AI/elnora-slack": {
+        "owner": "Elnora-AI",
+        "name": "elnora-slack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "latent-9/eightysix": {
+        "owner": "latent-9",
+        "name": "eightysix",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gdavidpb/systemic": {
+        "owner": "gdavidpb",
+        "name": "systemic",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "burythehammer/claude-code-plugins": {
+        "owner": "burythehammer",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "alexbouchez/dougs": {
+        "owner": "alexbouchez",
+        "name": "dougs",
+        "branch": "master",
+        "enabled": true
+    },
+    "hec-ovi/text-to-3D-skill": {
+        "owner": "hec-ovi",
+        "name": "text-to-3D-skill",
+        "branch": "main",
+        "enabled": true
     }
 }

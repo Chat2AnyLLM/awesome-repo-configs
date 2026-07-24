@@ -12124,5 +12124,86 @@
     "repoOwner": "hyemin-ht-kang",
     "repoName": "click-to-edit-ui",
     "repoBranch": "main"
+  },
+  "PCIRCLE-AI/memesh-llm-memory": {
+    "name": "PCIRCLE-AI/memesh-llm-memory",
+    "description": "The lightest universal AI memory layer. One SQLite file, any LLM, zero cloud. MCP + HTTP + CLI. Smart Recall, Knowledge Evolution, Auto-Capture, Interactive Dashboard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PCIRCLE-AI",
+    "repoName": "memesh-llm-memory",
+    "repoBranch": "main"
+  },
+  "Elnora-AI/elnora-linear": {
+    "name": "Elnora-AI/elnora-linear",
+    "description": "Linear workspace for Claude Code \u2014 search, bulk edit, agents, and a config-driven curator. The repo IS a Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Elnora-AI",
+    "repoName": "elnora-linear",
+    "repoBranch": "main"
+  },
+  "andreidavid/codex-review": {
+    "name": "andreidavid/codex-review",
+    "description": "Claude Code plugin: automatic post-commit code review with OpenAI Codex CLI \u2014 blocking findings trigger a fix loop",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andreidavid",
+    "repoName": "codex-review",
+    "repoBranch": "main"
+  },
+  "Elnora-AI/elnora-whatsapp": {
+    "name": "Elnora-AI/elnora-whatsapp",
+    "description": "WhatsApp for Claude Code \u2014 read, search, and send WhatsApp messages from your own paired account, 100% local. Automated setup, hardened defaults, keep-alive service.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Elnora-AI",
+    "repoName": "elnora-whatsapp",
+    "repoBranch": "main"
+  },
+  "Elnora-AI/elnora-slack": {
+    "name": "Elnora-AI/elnora-slack",
+    "description": "Slack for Claude Code \u2014 the entire Slack Web API as a CLI (201 methods, 29 groups) plus agent skills with a draft-and-approve send gate. Universal, config-driven, one-line install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Elnora-AI",
+    "repoName": "elnora-slack",
+    "repoBranch": "main"
+  },
+  "latent-9/eightysix": {
+    "name": "latent-9/eightysix",
+    "description": "86 the dishes losing you money \u2014 a chef-built menu-engineering skill pack for Claude Code (menu-doctor, food-cost, recipe-scaler).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "latent-9",
+    "repoName": "eightysix",
+    "repoBranch": "main"
+  },
+  "MisterVitoPro/esper": {
+    "name": "MisterVitoPro/esper",
+    "description": "Claude Code plugin marketplace: qa-swarm (multi-agent code review + TDD fixes), code-atlas (architecture index + queryable graph), plan-runner (parallel plan execution), jupiter (spec consolidation)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MisterVitoPro",
+    "repoName": "esper",
+    "repoBranch": "main"
+  },
+  "burythehammer/claude-code-plugins": {
+    "name": "burythehammer/claude-code-plugins",
+    "description": "A collection of Claude Code plugins for Terraform provider development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "burythehammer",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "hec-ovi/text-to-3D-skill": {
+    "name": "hec-ovi/text-to-3D-skill",
+    "description": "Text to a rigged, low-poly GLB as a local Claude skill on an AMD Strix Halo APU: FLUX.2 klein via ComfyUI, TRELLIS.2 on a Vulkan-only engine, a face-count target for game-ready meshes, and Blender headless for a measu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hec-ovi",
+    "repoName": "text-to-3D-skill",
+    "repoBranch": "main"
   }
 }
