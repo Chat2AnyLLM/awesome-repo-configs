@@ -12205,5 +12205,14 @@
     "repoOwner": "hec-ovi",
     "repoName": "text-to-3D-skill",
     "repoBranch": "main"
+  },
+  "wjb127/claude-skills": {
+    "name": "claude-skills",
+    "description": "Seven Claude Code skills built while shipping freelance client websites. Image generation via Codex CLI (gpt-image-2) and Antigravity CLI (Gemini) using OAuth with no API key, independent code review by Gemini 3.1 Pro, per-project external memory that recalls 8KB markdown chapters to save context window, Unit/Integration/E2E test generation with Happy/Sad/Bad/Ugly variants, ad-pixel verification for GA4/Meta/GTM/TikTok/Naver/Kakao with screenshot and network evidence, and consulting-firm style HTML report generation in four themes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wjb127",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
   }
 }
