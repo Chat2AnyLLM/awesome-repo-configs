@@ -14606,5 +14606,79 @@
         "name": "text-to-3D-skill",
         "branch": "main",
         "enabled": true
+    },
+    "arbiterForge/codeArbiter": {
+        "owner": "arbiterForge",
+        "name": "codeArbiter",
+        "branch": "main",
+        "enabled": true
+    },
+    "cyberchitta/cad-khana": {
+        "owner": "cyberchitta",
+        "name": "cad-khana",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DevOtts/parallel-lifecycle": {
+        "owner": "DevOtts",
+        "name": "parallel-lifecycle",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jasonm4130/claude-skills": {
+        "owner": "jasonm4130",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "anshss/shiploop": {
+        "owner": "anshss",
+        "name": "shiploop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maiconlara/design-system-extraction": {
+        "owner": "maiconlara",
+        "name": "design-system-extraction",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tammai/bigin-skills": {
+        "owner": "tammai",
+        "name": "bigin-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ewill22/guapa-visit": {
+        "owner": "ewill22",
+        "name": "guapa-visit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "evgeny-trushin/claude-skills-collection": {
+        "owner": "evgeny-trushin",
+        "name": "claude-skills-collection",
+        "branch": "main",
+        "enabled": true
+    },
+    "joeyfife/coil-board-skill": {
+        "owner": "joeyfife",
+        "name": "coil-board-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jmilbery/boston-translatah": {
+        "owner": "jmilbery",
+        "name": "boston-translatah",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

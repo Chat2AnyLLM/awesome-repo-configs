@@ -2550,5 +2550,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "tammai/bigin-skills": {
+    "owner": "tammai",
+    "name": "bigin-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
