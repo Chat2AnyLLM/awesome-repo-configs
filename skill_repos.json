@@ -14802,5 +14802,90 @@
         "name": "headsign",
         "branch": "main",
         "enabled": true
+    },
+    "Xopoko/plug-n-skills": {
+        "owner": "Xopoko",
+        "name": "plug-n-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "GRU-953/GRU953-Studio": {
+        "owner": "GRU-953",
+        "name": "GRU953-Studio",
+        "branch": "main",
+        "enabled": true
+    },
+    "scolladon/craft": {
+        "owner": "scolladon",
+        "name": "craft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ShachTzu/ran-bar-zik-security-skill": {
+        "owner": "ShachTzu",
+        "name": "ran-bar-zik-security-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DahanItamar/flowsystem": {
+        "owner": "DahanItamar",
+        "name": "flowsystem",
+        "branch": "main",
+        "enabled": true
+    },
+    "Teycir/Assumptions": {
+        "owner": "Teycir",
+        "name": "Assumptions",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tarangdeep-goel-by/claude-harness": {
+        "owner": "tarangdeep-goel-by",
+        "name": "claude-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "gednyengs/claude-marketplace": {
+        "owner": "gednyengs",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "GhostlyGawd/codeweb": {
+        "owner": "GhostlyGawd",
+        "name": "codeweb",
+        "branch": "main",
+        "enabled": true
+    },
+    "derlauti/claritor": {
+        "owner": "derlauti",
+        "name": "claritor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tolvi-labs/guild": {
+        "owner": "tolvi-labs",
+        "name": "guild",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ibuilder/master-builder": {
+        "owner": "ibuilder",
+        "name": "master-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pedroreisper/resourceful": {
+        "owner": "pedroreisper",
+        "name": "resourceful",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -12358,5 +12358,77 @@
     "repoOwner": "meganemura",
     "repoName": "headsign",
     "repoBranch": "main"
+  },
+  "Xopoko/plug-n-skills": {
+    "name": "Xopoko/plug-n-skills",
+    "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, architecture, research, design, and agent tooling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Xopoko",
+    "repoName": "plug-n-skills",
+    "repoBranch": "main"
+  },
+  "GRU-953/GRU953-Studio": {
+    "name": "GRU-953/GRU953-Studio",
+    "description": "Describe an app in plain words and a team of AI specialists designs, builds, tests and privately publishes it to your own GitHub \u2014 no coding needed. A Claude Code plugin for non-technical people. Free for personal use...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GRU-953",
+    "repoName": "GRU953-Studio",
+    "repoBranch": "main"
+  },
+  "scolladon/craft": {
+    "name": "scolladon/craft",
+    "description": "Feature-delivery workflow engine for agentic coding tools \u2014 Claude Code plugin with native bindings for seven other runtimes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scolladon",
+    "repoName": "craft",
+    "repoBranch": "main"
+  },
+  "DahanItamar/flowsystem": {
+    "name": "DahanItamar/flowsystem",
+    "description": "Spec-first skills for Claude Code. Turns a rough idea into a technical spec precise enough to build from.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DahanItamar",
+    "repoName": "flowsystem",
+    "repoBranch": "main"
+  },
+  "gednyengs/claude-marketplace": {
+    "name": "gednyengs/claude-marketplace",
+    "description": "A marketplace of Claude Code plugins for AI-assisted development workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gednyengs",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "GhostlyGawd/codeweb": {
+    "name": "GhostlyGawd/codeweb",
+    "description": "Your agents break less code and burn fewer tokens \u2014 deterministic call/import graph + 27 MCP tools for coding agents. Claude Code plugin & MCP server; zero deps, runs 100% locally.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GhostlyGawd",
+    "repoName": "codeweb",
+    "repoBranch": "main"
+  },
+  "derlauti/claritor": {
+    "name": "derlauti/claritor",
+    "description": "Multi-Agent-Workflow f\u00fcr menschlich klingende Texte auf Deutsch und Englisch. Orchestrator, unabh\u00e4ngiger Schreib-Subagent, deterministischer KI-Muster-Linter und Persona-Pr\u00fcfung.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "derlauti",
+    "repoName": "claritor",
+    "repoBranch": "main"
+  },
+  "ibuilder/master-builder": {
+    "name": "ibuilder/master-builder",
+    "description": "Master Builder \u2014 a Claude Skill: one mind holding an entire built-asset project from raw land through design, construction, handover, operations, and disposition, anywhere in the world.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ibuilder",
+    "repoName": "master-builder",
+    "repoBranch": "main"
   }
 }

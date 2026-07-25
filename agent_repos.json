@@ -2564,5 +2564,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "scolladon/craft": {
+    "owner": "scolladon",
+    "name": "craft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "GhostlyGawd/codeweb": {
+    "owner": "GhostlyGawd",
+    "name": "codeweb",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "derlauti/claritor": {
+    "owner": "derlauti",
+    "name": "claritor",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
