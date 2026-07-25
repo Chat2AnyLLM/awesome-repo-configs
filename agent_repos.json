@@ -2557,5 +2557,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "moruno21/agents-concerto": {
+    "owner": "moruno21",
+    "name": "agents-concerto",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

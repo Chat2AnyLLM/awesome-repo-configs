@@ -14743,5 +14743,64 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Rylaa/fable5-opus5-orchestrator": {
+        "owner": "Rylaa",
+        "name": "fable5-opus5-orchestrator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ozzaii/codex-claude-loop": {
+        "owner": "ozzaii",
+        "name": "codex-claude-loop",
+        "branch": "main",
+        "enabled": true
+    },
+    "linad3d/drivekeeper": {
+        "owner": "linad3d",
+        "name": "drivekeeper",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yosishe/token-efficient-skill-optimizer": {
+        "owner": "yosishe",
+        "name": "token-efficient-skill-optimizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "makieali/claude-code-engineer": {
+        "owner": "makieali",
+        "name": "claude-code-engineer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hfjddjksaj/auto-git": {
+        "owner": "hfjddjksaj",
+        "name": "auto-git",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gauravs19/spring-boot-microservices-skill": {
+        "owner": "gauravs19",
+        "name": "spring-boot-microservices-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "moruno21/agents-concerto": {
+        "owner": "moruno21",
+        "name": "agents-concerto",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "meganemura/headsign": {
+        "owner": "meganemura",
+        "name": "headsign",
+        "branch": "main",
+        "enabled": true
     }
 }

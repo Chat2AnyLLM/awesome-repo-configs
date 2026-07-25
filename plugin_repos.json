@@ -12295,5 +12295,68 @@
     "repoOwner": "mrevjd",
     "repoName": "claude-review-suite",
     "repoBranch": "main"
+  },
+  "Rylaa/fable5-opus5-orchestrator": {
+    "name": "Rylaa/fable5-opus5-orchestrator",
+    "description": "Keep Claude Fable 5 in the chair all day without draining your usage limit \u2014 token-frugal multi-agent orchestration plugin for Claude Code: tier routing (Sonnet 5 does the work), Requirements Ledger, enforced guard ho...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rylaa",
+    "repoName": "fable5-opus5-orchestrator",
+    "repoBranch": "main"
+  },
+  "ozzaii/codex-claude-loop": {
+    "name": "ozzaii/codex-claude-loop",
+    "description": "Gated Claude x Codex build loop for Claude Code: Codex plans and implements from one persistent thread, Claude approves the plan and reviews the diff. Zero deps, 20-test smoke suite.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ozzaii",
+    "repoName": "codex-claude-loop",
+    "repoBranch": "main"
+  },
+  "makieali/claude-code-engineer": {
+    "name": "makieali/claude-code-engineer",
+    "description": "Run Claude Code as a teammate that owns work end to end. A maintained CLAUDE.md (works as AGENTS.md) plus a plan/execute/review skill pipeline with external verification, adversarial review, and structurally safe para...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "makieali",
+    "repoName": "claude-code-engineer",
+    "repoBranch": "main"
+  },
+  "gauravs19/spring-boot-microservices-skill": {
+    "name": "gauravs19/spring-boot-microservices-skill",
+    "description": "Claude Code skill to design, scaffold, and review modern Java Spring Boot microservices (Spring Boot 4.x / Java 25 LTS). Installable as a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gauravs19",
+    "repoName": "spring-boot-microservices-skill",
+    "repoBranch": "main"
+  },
+  "GOAL-T/goaltree": {
+    "name": "GOAL-T/goaltree",
+    "description": "A multi-parent, value-propagating goal graph. Concept-stage, open source, looking for people to poke holes in it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GOAL-T",
+    "repoName": "goaltree",
+    "repoBranch": "main"
+  },
+  "moruno21/agents-concerto": {
+    "name": "moruno21/agents-concerto",
+    "description": "Multi-agent development orchestrator on Claude Code: dispatch by complexity, implement in isolated worktrees (TDD + Tidy First), review under a two-party boundary, stop at draft PRs for human merge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moruno21",
+    "repoName": "agents-concerto",
+    "repoBranch": "main"
+  },
+  "meganemura/headsign": {
+    "name": "meganemura/headsign",
+    "description": "A tiny phase gate for coding agents: your shell checks decide pass/fail (never the LLM), your workflow routes the agent \u2014 advance, retry, escalate, done. Claude Code drives; headsign holds the state.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "meganemura",
+    "repoName": "headsign",
+    "repoBranch": "main"
   }
 }
