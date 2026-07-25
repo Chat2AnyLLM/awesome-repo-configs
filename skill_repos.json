@@ -14680,5 +14680,68 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Leehyunbin0131/claude-ros2-skills": {
+        "owner": "Leehyunbin0131",
+        "name": "claude-ros2-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "limingnanyue/novel-creation-omnibus": {
+        "owner": "limingnanyue",
+        "name": "novel-creation-omnibus",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "APareek89/power-coding": {
+        "owner": "APareek89",
+        "name": "power-coding",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "raichominev/concilium": {
+        "owner": "raichominev",
+        "name": "concilium",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "iamjosuho/memOrb": {
+        "owner": "iamjosuho",
+        "name": "memOrb",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hmbseaotter/meta-prompt-toolkit": {
+        "owner": "hmbseaotter",
+        "name": "meta-prompt-toolkit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mrevjd/claude-review-suite": {
+        "owner": "mrevjd",
+        "name": "claude-review-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MildlyMeticulous/shortlist": {
+        "owner": "MildlyMeticulous",
+        "name": "shortlist",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "velimattiv/claude-security-audit": {
+        "owner": "velimattiv",
+        "name": "claude-security-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

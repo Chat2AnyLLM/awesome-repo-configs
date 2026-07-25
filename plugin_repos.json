@@ -12259,5 +12259,41 @@
     "repoOwner": "tammai",
     "repoName": "bigin-skills",
     "repoBranch": "main"
+  },
+  "Leehyunbin0131/claude-ros2-skills": {
+    "name": "Leehyunbin0131/claude-ros2-skills",
+    "description": "Zero-hallucination Claude Code skills for ROS 2 Jazzy \u2014 routes to official docs and verifies against the real robot instead of guessing APIs from memory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Leehyunbin0131",
+    "repoName": "claude-ros2-skills",
+    "repoBranch": "main"
+  },
+  "limingnanyue/novel-creation-omnibus": {
+    "name": "limingnanyue/novel-creation-omnibus",
+    "description": "\ud83d\udd8b\ufe0f \u5c0f\u8bf4\u521b\u4f5c\u5168\u80fd\u5de5\u574a \u2014\u2014 \u4ece\u7f51\u6587\u957f\u7bc7\u5230\u77ed\u7bc7\u6545\u4e8b\uff0c\u4ece\u756a\u8304\u7206\u6587\u5230\u767d\u63cf\u514b\u5236\uff0c\u4ece\u53d1\u5200\u8650\u5fc3\u5230\u901a\u611f\u75db\u89c9\uff0c\u4e00\u7ad9\u5f0f\u641e\u5b9a\u300225\u5957\u521b\u4f5c\u5de5\u5177\uff0c\u6309\u9700\u52a0\u8f7d\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "limingnanyue",
+    "repoName": "novel-creation-omnibus",
+    "repoBranch": "main"
+  },
+  "loreias32/claude-backup": {
+    "name": "loreias32/claude-backup",
+    "description": "Auto-snapshot your work to a separate repo before Claude Code does anything destructive. Survives a deleted project folder. \u5728 AI \u52d5\u624b\u524d\u81ea\u52d5\u5099\u4efd\uff0c\u9023\u6574\u500b\u8cc7\u6599\u593e\u88ab\u522a\u6389\u90fd\u6551\u5f97\u56de\u4f86\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "loreias32",
+    "repoName": "claude-backup",
+    "repoBranch": "main"
+  },
+  "mrevjd/claude-review-suite": {
+    "name": "mrevjd/claude-review-suite",
+    "description": "Claude Code skills for code and security review of Go, Bash, Vue/TypeScript and PHP \u2014 human report plus a re-verifiable agent prompt block",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrevjd",
+    "repoName": "claude-review-suite",
+    "repoBranch": "main"
   }
 }
