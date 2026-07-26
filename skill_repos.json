@@ -15138,5 +15138,106 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "yamanidev/claude-code-configuration": {
+        "owner": "yamanidev",
+        "name": "claude-code-configuration",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "scottmartinanderson/clearfront": {
+        "owner": "scottmartinanderson",
+        "name": "clearfront",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LevNas/ccmemo": {
+        "owner": "LevNas",
+        "name": "ccmemo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sodam-ai/business-counselor": {
+        "owner": "sodam-ai",
+        "name": "business-counselor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sodam-ai/SoDam-Persona": {
+        "owner": "sodam-ai",
+        "name": "SoDam-Persona",
+        "branch": "main",
+        "enabled": true
+    },
+    "marsmike/agentic-toolkit": {
+        "owner": "marsmike",
+        "name": "agentic-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "MiracleWeb3/metal": {
+        "owner": "MiracleWeb3",
+        "name": "metal",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ASOScan/aso-skills": {
+        "owner": "ASOScan",
+        "name": "aso-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hashiruu/agent-experiment": {
+        "owner": "hashiruu",
+        "name": "agent-experiment",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BhaveshKhaple/bhavesh-claude-skills": {
+        "owner": "BhaveshKhaple",
+        "name": "bhavesh-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "xniperbuilds/rule-audit": {
+        "owner": "xniperbuilds",
+        "name": "rule-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hamzhk15/tenable-sc-reporting-assistant": {
+        "owner": "hamzhk15",
+        "name": "tenable-sc-reporting-assistant",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jim788e/logo-creation-skill": {
+        "owner": "jim788e",
+        "name": "logo-creation-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "obuboai/business-coach": {
+        "owner": "obuboai",
+        "name": "business-coach",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alex-roc/zotero-agent": {
+        "owner": "alex-roc",
+        "name": "zotero-agent",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -2613,5 +2613,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sodam-ai/business-counselor": {
+    "owner": "sodam-ai",
+    "name": "business-counselor",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
