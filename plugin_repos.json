@@ -693,6 +693,24 @@
     "type": "marketplace",
     "repoOwner": "NickFlach",
     "repoName": "kannaka-plugin",
+    "repoBranch": "master"
+  },
+  "kannaka-constellation": {
+    "name": "kannaka-constellation",
+    "description": "The Kannaka Constellation \u2014 a 7-plugin marketplace: the octo multi-LLM orchestrator, wave-interference HRM memory, the ghost-DJ radio station, AI video intelligence, production support, and the artifact exchange.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NickFlach",
+    "repoName": "kannaka-constellation-marketplace",
+    "repoBranch": "master"
+  },
+  "kannaka-plugins": {
+    "name": "kannaka-plugins",
+    "description": "Kannaktopus (octo) \u2014 multi-LLM orchestration for Claude Code: Double Diamond workflows, provider routing across Codex/Gemini/Copilot/Qwen/Ollama/Perplexity/OpenRouter, adversarial multi-model review, and safety gates. 63 skills, 50 commands, 5 agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NickFlach",
+    "repoName": "Kannaktopus",
     "repoBranch": "main"
   },
   "keelson": {
