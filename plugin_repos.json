@@ -12457,5 +12457,50 @@
     "repoOwner": "iuripereira",
     "repoName": "sdd-iuri",
     "repoBranch": "main"
+  },
+  "Clear-Sights/Makoto": {
+    "name": "Clear-Sights/Makoto",
+    "description": "When Claude says \u201ctests pass\u201d, makoto checks the record \u2014 every claim held against the agent's own logged deeds; fakes blocked, not warned. Each check ships at measured zero false positives. \u8aa0",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Clear-Sights",
+    "repoName": "Makoto",
+    "repoBranch": "main"
+  },
+  "gogoingai/wenqu-skills": {
+    "name": "gogoingai/wenqu-skills",
+    "description": "\u9762\u5411 AI Agent \u7684\u5185\u5bb9\u521b\u4f5c\u6280\u80fd\u96c6\u5408\uff0c\u8986\u76d6\u8d44\u6599\u79ef\u7d2f\u3001\u7ed3\u6784\u8bbe\u8ba1\u3001\u6587\u7ae0\u64b0\u5199\u3001\u5ba1\u67e5\u4f18\u5316\u4e0e\u53d1\u5e03\u6d41\u7a0b\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gogoingai",
+    "repoName": "wenqu-skills",
+    "repoBranch": "master"
+  },
+  "imMamdouhaboammar/conversion-copywriting-engine": {
+    "name": "imMamdouhaboammar/conversion-copywriting-engine",
+    "description": "Complete conversion copywriting operating system for Claude. Supports TTPM, FAB&M, Persuasion Cards, TOF/MOF/BOF messaging, and CRO quality gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "imMamdouhaboammar",
+    "repoName": "conversion-copywriting-engine",
+    "repoBranch": "main"
+  },
+  "tamasbege/staff-engineer-skills": {
+    "name": "tamasbege/staff-engineer-skills",
+    "description": "Senior-specialist Claude Code skills for the hard, production-critical parts of backend systems \u2014 API contracts, cold starts, event pipelines, idempotency, rate limiting, resilience, caching, and auth, etc.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tamasbege",
+    "repoName": "staff-engineer-skills",
+    "repoBranch": "main"
+  },
+  "emrecdr/devt": {
+    "name": "emrecdr/devt",
+    "description": "Zero-dependency multi-agent development workflow plugin for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emrecdr",
+    "repoName": "devt",
+    "repoBranch": "main"
   }
 }

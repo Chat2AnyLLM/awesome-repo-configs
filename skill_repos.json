@@ -14913,5 +14913,99 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "3060226349kk-cmd/en-zh-max": {
+        "owner": "3060226349kk-cmd",
+        "name": "en-zh-max",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gogoingai/wenqu-skills": {
+        "owner": "gogoingai",
+        "name": "wenqu-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "CODE-SAURABH/OpenSkills": {
+        "owner": "CODE-SAURABH",
+        "name": "OpenSkills",
+        "branch": "main",
+        "enabled": true
+    },
+    "khasky/awesome-agent-skills": {
+        "owner": "khasky",
+        "name": "awesome-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "serhiy-bzhezytskyy/contrib-receipts": {
+        "owner": "serhiy-bzhezytskyy",
+        "name": "contrib-receipts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "imMamdouhaboammar/conversion-copywriting-engine": {
+        "owner": "imMamdouhaboammar",
+        "name": "conversion-copywriting-engine",
+        "branch": "main",
+        "enabled": true
+    },
+    "YijiaDuan/download-xhs-videos": {
+        "owner": "YijiaDuan",
+        "name": "download-xhs-videos",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tamasbege/staff-engineer-skills": {
+        "owner": "tamasbege",
+        "name": "staff-engineer-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "emrecdr/devt": {
+        "owner": "emrecdr",
+        "name": "devt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "commetee12-source/gov-report-skill": {
+        "owner": "commetee12-source",
+        "name": "gov-report-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dangogit/hebrew-keyboard-mistype": {
+        "owner": "dangogit",
+        "name": "hebrew-keyboard-mistype",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "daxaur/hueristic": {
+        "owner": "daxaur",
+        "name": "hueristic",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ac-Hanxin/sixteen-personality-fun-test": {
+        "owner": "Ac-Hanxin",
+        "name": "sixteen-personality-fun-test",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JOZUJIOJIO/luzong-finance-perspective": {
+        "owner": "JOZUJIOJIO",
+        "name": "luzong-finance-perspective",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

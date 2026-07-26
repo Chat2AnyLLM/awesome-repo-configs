@@ -2592,5 +2592,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "imMamdouhaboammar/conversion-copywriting-engine": {
+    "owner": "imMamdouhaboammar",
+    "name": "conversion-copywriting-engine",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "emrecdr/devt": {
+    "owner": "emrecdr",
+    "name": "devt",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
