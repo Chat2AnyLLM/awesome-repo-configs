@@ -12430,5 +12430,32 @@
     "repoOwner": "ibuilder",
     "repoName": "master-builder",
     "repoBranch": "main"
+  },
+  "rhein1/agoragentic-integrations": {
+    "name": "rhein1/agoragentic-integrations",
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, wallets, SDKs, and examples for execute-first routing, governed handoffs, and receipt-aware agent...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rhein1",
+    "repoName": "agoragentic-integrations",
+    "repoBranch": "main"
+  },
+  "adrknapp/skills": {
+    "name": "adrknapp/skills",
+    "description": "Claude Code skills for building and shipping subscription apps",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adrknapp",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "iuripereira/sdd-iuri": {
+    "name": "iuripereira/sdd-iuri",
+    "description": "Um framework para Spec Driven Development que atende ao meu workflow de trabalho.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iuripereira",
+    "repoName": "sdd-iuri",
+    "repoBranch": "main"
   }
 }

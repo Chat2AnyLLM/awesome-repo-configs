@@ -14887,5 +14887,31 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "rhein1/agoragentic-integrations": {
+        "owner": "rhein1",
+        "name": "agoragentic-integrations",
+        "branch": "main",
+        "enabled": true
+    },
+    "plori-ai/skills": {
+        "owner": "plori-ai",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "adrknapp/skills": {
+        "owner": "adrknapp",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iuripereira/sdd-iuri": {
+        "owner": "iuripereira",
+        "name": "sdd-iuri",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

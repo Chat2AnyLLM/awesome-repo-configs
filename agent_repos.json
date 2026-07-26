@@ -2585,5 +2585,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "plkarin/gitops-agentic-platform": {
+    "owner": "plkarin",
+    "name": "gitops-agentic-platform",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
