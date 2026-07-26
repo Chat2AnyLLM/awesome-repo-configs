@@ -12502,5 +12502,14 @@
     "repoOwner": "emrecdr",
     "repoName": "devt",
     "repoBranch": "main"
+  },
+  "zlej123/stepkeeper": {
+    "name": "stepkeeper",
+    "description": "Turn how-to YouTube videos into follow-along documents. Gemini analyzes the video itself, so vague spoken instructions like \"cut it bite-sized\" or \"simmer until it reduces\" are backed by the exact frame that shows them. Profiles for cooking/repair/craft/software; exports to Markdown, Notion, Obsidian, and Goodnotes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zlej123",
+    "repoName": "stepkeeper",
+    "repoBranch": "main"
   }
 }
