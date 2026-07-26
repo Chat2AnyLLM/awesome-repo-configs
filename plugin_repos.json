@@ -12511,5 +12511,95 @@
     "repoOwner": "zlej123",
     "repoName": "stepkeeper",
     "repoBranch": "main"
+  },
+  "baokhang83/fluencyloop": {
+    "name": "baokhang83/fluencyloop",
+    "description": ":star: AI-assisted development workflow that produces understanding alongside code. Teach, capture decisions, document, assemble reviews.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "baokhang83",
+    "repoName": "fluencyloop",
+    "repoBranch": "main"
+  },
+  "ToruAI/toru-claude-agents": {
+    "name": "ToruAI/toru-claude-agents",
+    "description": "Multi-agent team for Claude Code: 7 AI specialists (strategy, dev, security, sales, design, data, research) that collaborate and challenge you. Dev-cycle workflow with machine-verifiable completion.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ToruAI",
+    "repoName": "toru-claude-agents",
+    "repoBranch": "main"
+  },
+  "AIDevGTM/gtm-cofounder": {
+    "name": "AIDevGTM/gtm-cofounder",
+    "description": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frank...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AIDevGTM",
+    "repoName": "gtm-cofounder",
+    "repoBranch": "main"
+  },
+  "synaptiai/synapti-marketplace": {
+    "name": "synaptiai/synapti-marketplace",
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced analytical and research tasks. Each plugin provides specialized agents, skills, and commands that...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "synaptiai",
+    "repoName": "synapti-marketplace",
+    "repoBranch": "main"
+  },
+  "ictechgy/context-guard": {
+    "name": "ictechgy/context-guard",
+    "description": "Local-first context hygiene for AI coding agents \u2014 Claude Code plugin plus shell helpers for large reads, noisy output, redaction, artifacts, and measured token/cost evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ictechgy",
+    "repoName": "context-guard",
+    "repoBranch": "main"
+  },
+  "rikdc/claude_code_template": {
+    "name": "rikdc/claude_code_template",
+    "description": "My personal claude plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rikdc",
+    "repoName": "claude_code_template",
+    "repoBranch": "main"
+  },
+  "dkstm95/hope": {
+    "name": "dkstm95/hope",
+    "description": "Hope looks for practical ways for people and AI to work better together.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dkstm95",
+    "repoName": "hope",
+    "repoBranch": "main"
+  },
+  "cdeust/session-optimizer": {
+    "name": "cdeust/session-optimizer",
+    "description": "Three Claude Code plugins: context-guard (threshold-enforced checkpoint before your context dies, subagent spend tracking), refine-gate (binds vague prompts to concrete artifacts, research-backed strategy table), and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdeust",
+    "repoName": "session-optimizer",
+    "repoBranch": "main"
+  },
+  "leecgeorge/telescoping-sdd": {
+    "name": "leecgeorge/telescoping-sdd",
+    "description": "Telescoping spec-driven development for Claude Code \u2014 project blueprints and feature SDD that compose into one methodology at two altitudes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leecgeorge",
+    "repoName": "telescoping-sdd",
+    "repoBranch": "main"
+  },
+  "sumeetmi2/architecture-debt-visualizer": {
+    "name": "sumeetmi2/architecture-debt-visualizer",
+    "description": "Claude Code skill for architecture reviews, docs-to-code drift detection, and evidence-based technical debt analysis across 12 dimensions \u2014 scalability, extensibility, reliability, security, change safety, data archit...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sumeetmi2",
+    "repoName": "architecture-debt-visualizer",
+    "repoBranch": "main"
   }
 }

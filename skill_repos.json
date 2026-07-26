@@ -15014,5 +15014,129 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "baokhang83/fluencyloop": {
+        "owner": "baokhang83",
+        "name": "fluencyloop",
+        "branch": "main",
+        "enabled": true
+    },
+    "ToruAI/toru-claude-agents": {
+        "owner": "ToruAI",
+        "name": "toru-claude-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Benkapner/claude-code-basecamp": {
+        "owner": "Benkapner",
+        "name": "claude-code-basecamp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AIDevGTM/gtm-cofounder": {
+        "owner": "AIDevGTM",
+        "name": "gtm-cofounder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "synaptiai/synapti-marketplace": {
+        "owner": "synaptiai",
+        "name": "synapti-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "ictechgy/context-guard": {
+        "owner": "ictechgy",
+        "name": "context-guard",
+        "branch": "main",
+        "enabled": true
+    },
+    "rikdc/claude_code_template": {
+        "owner": "rikdc",
+        "name": "claude_code_template",
+        "branch": "main",
+        "enabled": true
+    },
+    "Elham-Farajnejad/business-name-fit": {
+        "owner": "Elham-Farajnejad",
+        "name": "business-name-fit",
+        "branch": "main",
+        "enabled": true
+    },
+    "cerebrocybersolutions/libro": {
+        "owner": "cerebrocybersolutions",
+        "name": "libro",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nlink-jp/skills-series": {
+        "owner": "nlink-jp",
+        "name": "skills-series",
+        "branch": "main",
+        "enabled": true
+    },
+    "brandon-haugen/proctor-skill": {
+        "owner": "brandon-haugen",
+        "name": "proctor-skill",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "dkstm95/hope": {
+        "owner": "dkstm95",
+        "name": "hope",
+        "branch": "main",
+        "enabled": true
+    },
+    "Criss404/agent-kb-toolkit": {
+        "owner": "Criss404",
+        "name": "agent-kb-toolkit",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cdeust/session-optimizer": {
+        "owner": "cdeust",
+        "name": "session-optimizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "leecgeorge/telescoping-sdd": {
+        "owner": "leecgeorge",
+        "name": "telescoping-sdd",
+        "branch": "main",
+        "enabled": true
+    },
+    "sumeetmi2/architecture-debt-visualizer": {
+        "owner": "sumeetmi2",
+        "name": "architecture-debt-visualizer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "odafeng/make-html-editable": {
+        "owner": "odafeng",
+        "name": "make-html-editable",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rikocr8orh8/compliance-skills-previews": {
+        "owner": "rikocr8orh8",
+        "name": "compliance-skills-previews",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yeer0s/recibosegarantia": {
+        "owner": "yeer0s",
+        "name": "recibosegarantia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -2606,5 +2606,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ToruAI/toru-claude-agents": {
+    "owner": "ToruAI",
+    "name": "toru-claude-agents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
