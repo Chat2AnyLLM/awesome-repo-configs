@@ -15007,5 +15007,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "zlej123/stepkeeper": {
+        "owner": "zlej123",
+        "name": "stepkeeper",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
