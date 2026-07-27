@@ -15564,5 +15564,12 @@
         "name": "dotfiles",
         "branch": "rh",
         "enabled": true
+    },
+    "sriptcollector/toolbay-skills": {
+        "owner": "sriptcollector",
+        "name": "toolbay-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
