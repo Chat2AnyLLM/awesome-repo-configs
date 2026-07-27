@@ -12889,5 +12889,104 @@
     "repoOwner": "austin1howard",
     "repoName": "alphabetsoup",
     "repoBranch": "master"
+  },
+  "reidworks-io/reidworks-skills": {
+    "name": "reidworks-io/reidworks-skills",
+    "description": "Reidworks skills marketplace \u2014 install once, every shared skill loads in Cowork and Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "reidworks-io",
+    "repoName": "reidworks-skills",
+    "repoBranch": "main"
+  },
+  "celineycn/quantdata-plugin": {
+    "name": "celineycn/quantdata-plugin",
+    "description": "Claude Code plugin for Quant Data \u2014 measured market statistics for AI agents: day-type probabilities, Weis Wave volume events, options max pain and gamma. Honest numbers, sample sizes included.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "celineycn",
+    "repoName": "quantdata-plugin",
+    "repoBranch": "main"
+  },
+  "kimsanguine/hplan": {
+    "name": "kimsanguine/hplan",
+    "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, why, and how to build AI agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kimsanguine",
+    "repoName": "hplan",
+    "repoBranch": "main"
+  },
+  "LuisMIguelFurlanettoSousa/youtube-course-builder": {
+    "name": "LuisMIguelFurlanettoSousa/youtube-course-builder",
+    "description": "YouTube learning-path builder for Claude Code \u2014 picks videos by reading transcripts and comments, not titles",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LuisMIguelFurlanettoSousa",
+    "repoName": "youtube-course-builder",
+    "repoBranch": "main"
+  },
+  "chenwei791129/agent-skills": {
+    "name": "chenwei791129/agent-skills",
+    "description": "My agent skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chenwei791129",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "jonaskahn/docforge": {
+    "name": "jonaskahn/docforge",
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jonaskahn",
+    "repoName": "docforge",
+    "repoBranch": "main"
+  },
+  "metrikia-io/marketing-skills": {
+    "name": "metrikia-io/marketing-skills",
+    "description": "Open-source Claude Skills for marketing analytics, attribution, and ad performance, by the team at Metrikia",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "metrikia-io",
+    "repoName": "marketing-skills",
+    "repoBranch": "main"
+  },
+  "ahmetkumass/skilld": {
+    "name": "ahmetkumass/skilld",
+    "description": "Your agent's memory, with receipts. Mine AI agent transcripts into approved, portable skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ahmetkumass",
+    "repoName": "skilld",
+    "repoBranch": "main"
+  },
+  "DuckCode-js/moneyp-lab": {
+    "name": "DuckCode-js/moneyp-lab",
+    "description": "Your whole commit-to-release workflow as Claude Code skills. One command to install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DuckCode-js",
+    "repoName": "moneyp-lab",
+    "repoBranch": "main"
+  },
+  "attac-t/the-foundry": {
+    "name": "attac-t/the-foundry",
+    "description": "Opinionated Claude Code plugins. How to think, what to build, how to ship, how to test.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "attac-t",
+    "repoName": "the-foundry",
+    "repoBranch": "main"
+  },
+  "DailenG/dailens-claude-toolbelt": {
+    "name": "DailenG/dailens-claude-toolbelt",
+    "description": "The dailen marketplace: a catalog of Dailen Gunter's Claude Code plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DailenG",
+    "repoName": "dailens-claude-toolbelt",
+    "repoBranch": "main"
   }
 }

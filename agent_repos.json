@@ -2655,5 +2655,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "ericluo04/claude-academic-workflow": {
+    "owner": "ericluo04",
+    "name": "claude-academic-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

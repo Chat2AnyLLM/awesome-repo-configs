@@ -15445,5 +15445,124 @@
         "name": "alphabetsoup",
         "branch": "master",
         "enabled": true
+    },
+    "matteotitta/claude-code-marketing-quickstart": {
+        "owner": "matteotitta",
+        "name": "claude-code-marketing-quickstart",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ericluo04/claude-academic-workflow": {
+        "owner": "ericluo04",
+        "name": "claude-academic-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sunrich-HT/figure-extractor": {
+        "owner": "Sunrich-HT",
+        "name": "figure-extractor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "smiladinov/claude-saas-readiness": {
+        "owner": "smiladinov",
+        "name": "claude-saas-readiness",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "reidworks-io/reidworks-skills": {
+        "owner": "reidworks-io",
+        "name": "reidworks-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "imMamdouhaboammar/vibe-svgs": {
+        "owner": "imMamdouhaboammar",
+        "name": "vibe-svgs",
+        "branch": "main",
+        "enabled": true
+    },
+    "celineycn/quantdata-plugin": {
+        "owner": "celineycn",
+        "name": "quantdata-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "kimsanguine/hplan": {
+        "owner": "kimsanguine",
+        "name": "hplan",
+        "branch": "main",
+        "enabled": true
+    },
+    "kravcovtech/sdd-power": {
+        "owner": "kravcovtech",
+        "name": "sdd-power",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "paultaki/get-cited-by-ai": {
+        "owner": "paultaki",
+        "name": "get-cited-by-ai",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LuisMIguelFurlanettoSousa/youtube-course-builder": {
+        "owner": "LuisMIguelFurlanettoSousa",
+        "name": "youtube-course-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chenwei791129/agent-skills": {
+        "owner": "chenwei791129",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jonaskahn/docforge": {
+        "owner": "jonaskahn",
+        "name": "docforge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "babyagecalculator/ai": {
+        "owner": "babyagecalculator",
+        "name": "ai",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "metrikia-io/marketing-skills": {
+        "owner": "metrikia-io",
+        "name": "marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DuckCode-js/moneyp-lab": {
+        "owner": "DuckCode-js",
+        "name": "moneyp-lab",
+        "branch": "main",
+        "enabled": true
+    },
+    "attac-t/the-foundry": {
+        "owner": "attac-t",
+        "name": "the-foundry",
+        "branch": "main",
+        "enabled": true
+    },
+    "ccronca/dotfiles": {
+        "owner": "ccronca",
+        "name": "dotfiles",
+        "branch": "rh",
+        "enabled": true
     }
 }
