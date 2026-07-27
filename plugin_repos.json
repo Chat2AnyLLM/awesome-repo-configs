@@ -13096,5 +13096,14 @@
     "repoOwner": "digitaljavelina",
     "repoName": "the-ai-clinicians-claude-plugins",
     "repoBranch": "main"
+  },
+  "Anchras/terminalbox-tools": {
+    "name": "terminalbox-tools",
+    "description": "Free, MIT-licensed Claude Code workflow checks from Terminalbox. The remote-workspace-fit plugin performs a read-only repository audit and produces an evidence-backed recommendation for a rebuildable web session, a persistent remote workspace, or a hybrid workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Anchras",
+    "repoName": "terminalbox-tools",
+    "repoBranch": "main"
   }
 }
