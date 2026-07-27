@@ -12997,5 +12997,104 @@
     "repoOwner": "sriptcollector",
     "repoName": "toolbay-skills",
     "repoBranch": "main"
+  },
+  "fvadicamo/dev-agent-skills": {
+    "name": "fvadicamo/dev-agent-skills",
+    "description": "Claude Code skills plugin for Git, GitHub, and skill authoring workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fvadicamo",
+    "repoName": "dev-agent-skills",
+    "repoBranch": "main"
+  },
+  "jovesun-lab/arcgram": {
+    "name": "jovesun-lab/arcgram",
+    "description": "Arcgram \u2014 an interactive diagram engine for human\u2013AI collaboration: an AI agent draws its reasoning as an auditable node-and-edge flow and self-audits it, delivered as one standalone HTML file. (Arcgram the AI diagram...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jovesun-lab",
+    "repoName": "arcgram",
+    "repoBranch": "main"
+  },
+  "yeaight7/agent-powerups": {
+    "name": "yeaight7/agent-powerups",
+    "description": "Curated power-ups for coding agents: skills, slash commands, MCP configs, hooks, AGENTS.md templates, and workflows for serious software engineering. Claude Code, Codex, Antigravity CLI, Cursor and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yeaight7",
+    "repoName": "agent-powerups",
+    "repoBranch": "main"
+  },
+  "crenshawdev/cadence": {
+    "name": "crenshawdev/cadence",
+    "description": "Phased planning and execution for Claude Code. Roadmap, plans, and progress live in files that survive a /clear.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "crenshawdev",
+    "repoName": "cadence",
+    "repoBranch": "main"
+  },
+  "slowdini/slow-powers": {
+    "name": "slowdini/slow-powers",
+    "description": "Eval-backed agent skills for Claude Code, Codex & OpenCode \u2014 for developers who hate skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slowdini",
+    "repoName": "slow-powers",
+    "repoBranch": "dev"
+  },
+  "mishahanin/heading-os-marketplace": {
+    "name": "mishahanin/heading-os-marketplace",
+    "description": "HEADING OS: installable capability bundles for the sovereign operations engine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mishahanin",
+    "repoName": "heading-os-marketplace",
+    "repoBranch": "main"
+  },
+  "jackiectl/research-agent-pitfalls": {
+    "name": "jackiectl/research-agent-pitfalls",
+    "description": "Standing rules that keep an autonomous AI research agent honest: reward hacking, fabricated results after a failed run, data leakage, undertuned baselines, single-seed claims, LLM-judge bias, premature done. An Agent...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jackiectl",
+    "repoName": "research-agent-pitfalls",
+    "repoBranch": "universal-core"
+  },
+  "ChALyX/claude-bell": {
+    "name": "ChALyX/claude-bell",
+    "description": "\ud83d\udd14 Claude Code plugin that plays a gentle chime when Claude needs your confirmation and a resolved ta-da when it finishes a task. Custom sounds and volume control supported.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ChALyX",
+    "repoName": "claude-bell",
+    "repoBranch": "main"
+  },
+  "jjanczur/tyran": {
+    "name": "jjanczur/tyran",
+    "description": "A task conductor for Claude Code that gets better the more you use it. Multi-agent orchestration with an evidence contract that BLOCKS instead of asking, gates written as hooks rather than prompts, and a retrospective...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jjanczur",
+    "repoName": "tyran",
+    "repoBranch": "main"
+  },
+  "camomilekr/claude-code-plugins": {
+    "name": "camomilekr/claude-code-plugins",
+    "description": "camomilekr\uac00 \ub9cc\ub4e0 Claude Code \ud50c\ub7ec\uadf8\uc778 \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "camomilekr",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "digitaljavelina/the-ai-clinicians-claude-plugins": {
+    "name": "digitaljavelina/the-ai-clinicians-claude-plugins",
+    "description": "Claude Code plugins for The AI Clinicians community",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "digitaljavelina",
+    "repoName": "the-ai-clinicians-claude-plugins",
+    "repoBranch": "main"
   }
 }

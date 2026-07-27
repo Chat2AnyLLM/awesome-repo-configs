@@ -15571,5 +15571,125 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "fvadicamo/dev-agent-skills": {
+        "owner": "fvadicamo",
+        "name": "dev-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zevenue/headless-gtm": {
+        "owner": "Zevenue",
+        "name": "headless-gtm",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "wuwangzhang1216/DirectorSKILL": {
+        "owner": "wuwangzhang1216",
+        "name": "DirectorSKILL",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jovesun-lab/arcgram": {
+        "owner": "jovesun-lab",
+        "name": "arcgram",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gyf9712/stat-theory-skills": {
+        "owner": "gyf9712",
+        "name": "stat-theory-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yeaight7/agent-powerups": {
+        "owner": "yeaight7",
+        "name": "agent-powerups",
+        "branch": "main",
+        "enabled": true
+    },
+    "crenshawdev/cadence": {
+        "owner": "crenshawdev",
+        "name": "cadence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "slowdini/slow-powers": {
+        "owner": "slowdini",
+        "name": "slow-powers",
+        "branch": "dev",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mishahanin/heading-os-marketplace": {
+        "owner": "mishahanin",
+        "name": "heading-os-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "savchenko-dev/caf": {
+        "owner": "savchenko-dev",
+        "name": "caf",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jackiectl/research-agent-pitfalls": {
+        "owner": "jackiectl",
+        "name": "research-agent-pitfalls",
+        "branch": "universal-core",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lnvestor/twitr-skills": {
+        "owner": "lnvestor",
+        "name": "twitr-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JSchOBL/agentic-ai-learning-journey": {
+        "owner": "JSchOBL",
+        "name": "agentic-ai-learning-journey",
+        "branch": "main",
+        "enabled": true
+    },
+    "jjanczur/tyran": {
+        "owner": "jjanczur",
+        "name": "tyran",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "polgarp/collage-design": {
+        "owner": "polgarp",
+        "name": "collage-design",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "renatodpaula/project-maker": {
+        "owner": "renatodpaula",
+        "name": "project-maker",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "BryceEWatson/claude-global-skills": {
+        "owner": "BryceEWatson",
+        "name": "claude-global-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "digitaljavelina/the-ai-clinicians-claude-plugins": {
+        "owner": "digitaljavelina",
+        "name": "the-ai-clinicians-claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

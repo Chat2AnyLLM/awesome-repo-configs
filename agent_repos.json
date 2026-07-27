@@ -2662,5 +2662,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "crenshawdev/cadence": {
+    "owner": "crenshawdev",
+    "name": "cadence",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jjanczur/tyran": {
+    "owner": "jjanczur",
+    "name": "tyran",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
