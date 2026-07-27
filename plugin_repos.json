@@ -12682,5 +12682,104 @@
     "repoOwner": "hashiruu",
     "repoName": "agent-experiment",
     "repoBranch": "main"
+  },
+  "7bata/claude-workflow-kit": {
+    "name": "7bata/claude-workflow-kit",
+    "description": "Doc-driven multi-agent dev workflow for Claude Code (Conductor/Executor/Reviewer) \u00b7 \u6587\u6863\u9a71\u52a8\u7684\u591a\u4ee3\u7406\u5f00\u53d1\u5de5\u4f5c\u6d41",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "7bata",
+    "repoName": "claude-workflow-kit",
+    "repoBranch": "main"
+  },
+  "karanb192/itr-wala": {
+    "name": "karanb192/itr-wala",
+    "description": "File your Indian income tax return (ITR) from your terminal. Deterministic tax engine, both regimes, AY 2026-27. Claude Code / Codex / Gemini skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karanb192",
+    "repoName": "itr-wala",
+    "repoBranch": "main"
+  },
+  "jacobjustin8/skill-forge": {
+    "name": "jacobjustin8/skill-forge",
+    "description": "Turn any topic into an expert-level AI skill \u2014 for Claude, ChatGPT, Gemini, or any LLM. A meta-skill that researches a domain and writes the skill for you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jacobjustin8",
+    "repoName": "skill-forge",
+    "repoBranch": "main"
+  },
+  "spikelab/multiplai-cc-mktplace": {
+    "name": "spikelab/multiplai-cc-mktplace",
+    "description": "The Multiplai Claude Code plugin marketplace \u2014 seven installable plugin packs (memory & context, dev, PM, research, media, messaging, writing) for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spikelab",
+    "repoName": "multiplai-cc-mktplace",
+    "repoBranch": "main"
+  },
+  "punt-labs/punt-kit": {
+    "name": "punt-labs/punt-kit",
+    "description": "Standards, design guidance, and scaffolding for Punt Labs projects",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "punt-labs",
+    "repoName": "punt-kit",
+    "repoBranch": "main"
+  },
+  "hann2626-soru/pkg-guard": {
+    "name": "hann2626-soru/pkg-guard",
+    "description": "Claude Code plugin that blocks hallucinated / slopsquatted packages before npm/pip install runs. One-command install. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hann2626-soru",
+    "repoName": "pkg-guard",
+    "repoBranch": "main"
+  },
+  "baekchangjoon/hotspot-analysis": {
+    "name": "baekchangjoon/hotspot-analysis",
+    "description": "Rank Java files, methods, and REST API endpoints by a deterministic Composite Hotspot Score (recency-weighted churn \u00d7 cognitive complexity \u00d7 JaCoCo coverage gap) to prioritize test generation. Also a Claude Code skill...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "baekchangjoon",
+    "repoName": "hotspot-analysis",
+    "repoBranch": "main"
+  },
+  "tranquocthong/claude-spec-flow": {
+    "name": "tranquocthong/claude-spec-flow",
+    "description": "Spec-driven dev for Claude Code \u2014 a messy SRS (or just an idea) \u2192 a reviewed Solution Design \u2192 traceable, adaptive implementation. Keyless, no lock-in.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tranquocthong",
+    "repoName": "claude-spec-flow",
+    "repoBranch": "main"
+  },
+  "Master0fFate/parallax-claudecode": {
+    "name": "Master0fFate/parallax-claudecode",
+    "description": "Evidence-first protocol gates, verification, traces, Hyperplan, and durable Horizon orchestration for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Master0fFate",
+    "repoName": "parallax-claudecode",
+    "repoBranch": "main"
+  },
+  "jinhuang712/claude-code-qna": {
+    "name": "jinhuang712/claude-code-qna",
+    "description": "Claude Code plugin: turn everything still undecided in a conversation into clickable questions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jinhuang712",
+    "repoName": "claude-code-qna",
+    "repoBranch": "main"
+  },
+  "thinslatelabs/keepp-skill": {
+    "name": "thinslatelabs/keepp-skill",
+    "description": "Agent Skill: build and manage a Keepp page \u2014 blocks, layout, and theme \u2014 via the Keepp Agent API.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thinslatelabs",
+    "repoName": "keepp-skill",
+    "repoBranch": "main"
   }
 }

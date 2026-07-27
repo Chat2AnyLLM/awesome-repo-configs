@@ -2620,5 +2620,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "tranquocthong/claude-spec-flow": {
+    "owner": "tranquocthong",
+    "name": "claude-spec-flow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Master0fFate/parallax-claudecode": {
+    "owner": "Master0fFate",
+    "name": "parallax-claudecode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

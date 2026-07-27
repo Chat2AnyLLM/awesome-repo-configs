@@ -15239,5 +15239,111 @@
         "name": "zotero-agent",
         "branch": "main",
         "enabled": true
+    },
+    "lenamonj/jeffy-loop": {
+        "owner": "lenamonj",
+        "name": "jeffy-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "davidtheproduct/claude-ship-skills": {
+        "owner": "davidtheproduct",
+        "name": "claude-ship-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jp-solumhealth/jpstack": {
+        "owner": "jp-solumhealth",
+        "name": "jpstack",
+        "branch": "main",
+        "enabled": true
+    },
+    "7bata/claude-workflow-kit": {
+        "owner": "7bata",
+        "name": "claude-workflow-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "karanb192/itr-wala": {
+        "owner": "karanb192",
+        "name": "itr-wala",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lx050/rubbing-to-knowledge": {
+        "owner": "Lx050",
+        "name": "rubbing-to-knowledge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nateruze/ghost_ai": {
+        "owner": "nateruze",
+        "name": "ghost_ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "jacobjustin8/skill-forge": {
+        "owner": "jacobjustin8",
+        "name": "skill-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "spikelab/multiplai-cc-mktplace": {
+        "owner": "spikelab",
+        "name": "multiplai-cc-mktplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "punt-labs/punt-kit": {
+        "owner": "punt-labs",
+        "name": "punt-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "baekchangjoon/hotspot-analysis": {
+        "owner": "baekchangjoon",
+        "name": "hotspot-analysis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tranquocthong/claude-spec-flow": {
+        "owner": "tranquocthong",
+        "name": "claude-spec-flow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Master0fFate/parallax-claudecode": {
+        "owner": "Master0fFate",
+        "name": "parallax-claudecode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ji-in-loop/nohello": {
+        "owner": "ji-in-loop",
+        "name": "nohello",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jjsnack/technical-language-skill": {
+        "owner": "jjsnack",
+        "name": "technical-language-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thinslatelabs/keepp-skill": {
+        "owner": "thinslatelabs",
+        "name": "keepp-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
