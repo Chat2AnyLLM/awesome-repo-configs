@@ -2634,5 +2634,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sd0xdev/sd0x-dev-flow": {
+    "owner": "sd0xdev",
+    "name": "sd0x-dev-flow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "doodledood/manifest-dev": {
+    "owner": "doodledood",
+    "name": "manifest-dev",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ikonushok/agent-pack-designer": {
+    "owner": "ikonushok",
+    "name": "agent-pack-designer",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

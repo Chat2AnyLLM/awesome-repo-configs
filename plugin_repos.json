@@ -12781,5 +12781,113 @@
     "repoOwner": "thinslatelabs",
     "repoName": "keepp-skill",
     "repoBranch": "main"
+  },
+  "sd0xdev/sd0x-dev-flow": {
+    "name": "sd0xdev/sd0x-dev-flow",
+    "description": "The harness layer for Claude Code \u2014 a reference implementation of harness engineering with hook-enforced dual review, state-machine gates that survive context compaction, and fail-closed safety where it counts. Qualit...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sd0xdev",
+    "repoName": "sd0x-dev-flow",
+    "repoBranch": "main"
+  },
+  "doodledood/manifest-dev": {
+    "name": "doodledood/manifest-dev",
+    "description": "Loop engineering for Claude Code and other agent CLIs: figure the problem out first, define what done means, then execute and verify every criterion independently.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "doodledood",
+    "repoName": "manifest-dev",
+    "repoBranch": "main"
+  },
+  "TOMOSIA-VIETNAM/open-pr": {
+    "name": "TOMOSIA-VIETNAM/open-pr",
+    "description": "Claude Code plugin for intelligent GitHub Pull Request reviews that continuously learns your project's conventions and team feedback.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TOMOSIA-VIETNAM",
+    "repoName": "open-pr",
+    "repoBranch": "main"
+  },
+  "brycewang-stanford/lit-review-agent-tools": {
+    "name": "brycewang-stanford/lit-review-agent-tools",
+    "description": "\ud83e\udd16 The strongest curated list of open-source AI-agent tools for literature review \u2014 70+ tools across 11 categories (Claude Code skills, deep research, MCP servers, PDF parsing, systematic review). \u9762\u5411\u667a\u80fd\u4f53\u6587\u732e\u7efc\u8ff0\u7684\u6700\u5f3a\u5de5\u5177\u5927\u5168\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brycewang-stanford",
+    "repoName": "lit-review-agent-tools",
+    "repoBranch": "main"
+  },
+  "Modellix/modellix-plugin": {
+    "name": "Modellix/modellix-plugin",
+    "description": "Agent plugin for AI image and video generation via Modellix API/CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Modellix",
+    "repoName": "modellix-plugin",
+    "repoBranch": "main"
+  },
+  "toverux/cantrips": {
+    "name": "toverux/cantrips",
+    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192 commit \u2192 learn. Adopt it or fork it!",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "toverux",
+    "repoName": "cantrips",
+    "repoBranch": "main"
+  },
+  "MinJung-Go/claude-loop-eng": {
+    "name": "MinJung-Go/claude-loop-eng",
+    "description": "Loop Engineering for Claude Code \u2014 a /loop-eng plugin + marketplace: iterative implementer\u2194reviewer loop with a frozen rubric, git checkpointing, and tool-grounded review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MinJung-Go",
+    "repoName": "claude-loop-eng",
+    "repoBranch": "main"
+  },
+  "SakuraPuare/commitron": {
+    "name": "SakuraPuare/commitron",
+    "description": "Atomic commit engine for Claude Code \u2014 one invocation, one conventional commit, zero index conflicts",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SakuraPuare",
+    "repoName": "commitron",
+    "repoBranch": "main"
+  },
+  "bhouvana/Instinct": {
+    "name": "bhouvana/Instinct",
+    "description": "Engineering judgment as a default instinct for AI coding agents \u2014 a three-question Gate installed as ambient behavior, not a persona or a checklist you invoke.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bhouvana",
+    "repoName": "Instinct",
+    "repoBranch": "main"
+  },
+  "byensitmagnus/sitesmith": {
+    "name": "byensitmagnus/sitesmith",
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, and renders and measures the result instead of stopping at the code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "byensitmagnus",
+    "repoName": "sitesmith",
+    "repoBranch": "main"
+  },
+  "ludeo-labs/cosmos-os": {
+    "name": "ludeo-labs/cosmos-os",
+    "description": "A living map of your architecture \u2014 services as stars, flows as playable comets, honesty as a nightly AI agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ludeo-labs",
+    "repoName": "cosmos-os",
+    "repoBranch": "main"
+  },
+  "austin1howard/alphabetsoup": {
+    "name": "austin1howard/alphabetsoup",
+    "description": "A lightweight set of Claude Code plugins for spec-driven development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "austin1howard",
+    "repoName": "alphabetsoup",
+    "repoBranch": "master"
   }
 }

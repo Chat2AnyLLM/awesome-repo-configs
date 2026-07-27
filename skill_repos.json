@@ -15345,5 +15345,105 @@
         "name": "keepp-skill",
         "branch": "main",
         "enabled": true
+    },
+    "sd0xdev/sd0x-dev-flow": {
+        "owner": "sd0xdev",
+        "name": "sd0x-dev-flow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "doodledood/manifest-dev": {
+        "owner": "doodledood",
+        "name": "manifest-dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "brycewang-stanford/lit-review-agent-tools": {
+        "owner": "brycewang-stanford",
+        "name": "lit-review-agent-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Modellix/modellix-plugin": {
+        "owner": "Modellix",
+        "name": "modellix-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mianbaofang/agent-expert-panel": {
+        "owner": "mianbaofang",
+        "name": "agent-expert-panel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "toverux/cantrips": {
+        "owner": "toverux",
+        "name": "cantrips",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MinJung-Go/claude-loop-eng": {
+        "owner": "MinJung-Go",
+        "name": "claude-loop-eng",
+        "branch": "main",
+        "enabled": true
+    },
+    "SakuraPuare/commitron": {
+        "owner": "SakuraPuare",
+        "name": "commitron",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bhouvana/Instinct": {
+        "owner": "bhouvana",
+        "name": "Instinct",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "byensitmagnus/sitesmith": {
+        "owner": "byensitmagnus",
+        "name": "sitesmith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YijiaDuan/pull-feishu-minutes": {
+        "owner": "YijiaDuan",
+        "name": "pull-feishu-minutes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ludeo-labs/cosmos-os": {
+        "owner": "ludeo-labs",
+        "name": "cosmos-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "ikonushok/agent-pack-designer": {
+        "owner": "ikonushok",
+        "name": "agent-pack-designer",
+        "branch": "main",
+        "enabled": true
+    },
+    "datadata-team/datadata-skills": {
+        "owner": "datadata-team",
+        "name": "datadata-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "austin1howard/alphabetsoup": {
+        "owner": "austin1howard",
+        "name": "alphabetsoup",
+        "branch": "master",
+        "enabled": true
     }
 }
