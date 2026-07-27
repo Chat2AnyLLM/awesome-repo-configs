@@ -12988,5 +12988,14 @@
     "repoOwner": "DailenG",
     "repoName": "dailens-claude-toolbelt",
     "repoBranch": "main"
+  },
+  "sriptcollector/toolbay-skills": {
+    "name": "toolbay",
+    "description": "The Toolbay marketplace: 15 free, MIT-licensed Claude Code skills. Each was written from a real defect found in a production codebase and run against a real repository before publishing. Covers PR review, N+1 query detection, migration safety, webhook correctness, prompt-injection surface mapping, API route auth sweeps, env and deploy drift, dependency-outage blast radius, and crawlability auditing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sriptcollector",
+    "repoName": "toolbay-skills",
+    "repoBranch": "main"
   }
 }
