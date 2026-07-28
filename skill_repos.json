@@ -15911,5 +15911,127 @@
         "name": "forge-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "freema/cursor-plugin-cc": {
+        "owner": "freema",
+        "name": "cursor-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "serbanghita/claude-code-plan-critique": {
+        "owner": "serbanghita",
+        "name": "claude-code-plan-critique",
+        "branch": "main",
+        "enabled": true
+    },
+    "alebgl77/claude-inc": {
+        "owner": "alebgl77",
+        "name": "claude-inc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "d0hx4n2503/Agent-Skills": {
+        "owner": "d0hx4n2503",
+        "name": "Agent-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "k-vaca/prompt-engineering-skill": {
+        "owner": "k-vaca",
+        "name": "prompt-engineering-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "GeiserX/claude-code-parallel-skills": {
+        "owner": "GeiserX",
+        "name": "claude-code-parallel-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "hec-ovi/blockchain-skill": {
+        "owner": "hec-ovi",
+        "name": "blockchain-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "jiayou20021120-afk/paper-conductor": {
+        "owner": "jiayou20021120-afk",
+        "name": "paper-conductor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aitit-inc/leadace": {
+        "owner": "aitit-inc",
+        "name": "leadace",
+        "branch": "main",
+        "enabled": true
+    },
+    "enalbenerraw/blanewarrene": {
+        "owner": "enalbenerraw",
+        "name": "blanewarrene",
+        "branch": "main",
+        "enabled": true
+    },
+    "tempoloss/mentor-skill": {
+        "owner": "tempoloss",
+        "name": "mentor-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jposluns/ai-language": {
+        "owner": "jposluns",
+        "name": "ai-language",
+        "branch": "main",
+        "enabled": true
+    },
+    "risadams/ink-and-agency": {
+        "owner": "risadams",
+        "name": "ink-and-agency",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Auromix/expense-reimbursement-skill": {
+        "owner": "Auromix",
+        "name": "expense-reimbursement-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "gulmezeren2-byte/claude-skills-doctor": {
+        "owner": "gulmezeren2-byte",
+        "name": "claude-skills-doctor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "simone-sestili/brand-agency-skill": {
+        "owner": "simone-sestili",
+        "name": "brand-agency-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "youkistudios/web-studio": {
+        "owner": "youkistudios",
+        "name": "web-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LITS-Digital-Collections-Team/2026-dct-vibecodeathon": {
+        "owner": "LITS-Digital-Collections-Team",
+        "name": "2026-dct-vibecodeathon",
+        "branch": "main",
+        "enabled": true
+    },
+    "dev-dsquaredlabs/claude-mastery-series": {
+        "owner": "dev-dsquaredlabs",
+        "name": "claude-mastery-series",
+        "branch": "main",
+        "enabled": true
     }
 }

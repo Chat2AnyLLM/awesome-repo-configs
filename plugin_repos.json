@@ -13294,5 +13294,86 @@
     "repoOwner": "tonmoy007",
     "repoName": "forge-plugins",
     "repoBranch": "main"
+  },
+  "freema/cursor-plugin-cc": {
+    "name": "freema/cursor-plugin-cc",
+    "description": "Use Cursor CLI from Claude Code to delegate coding tasks to Composer 2.5+ and other Cursor models.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "freema",
+    "repoName": "cursor-plugin-cc",
+    "repoBranch": "main"
+  },
+  "serbanghita/claude-code-plan-critique": {
+    "name": "serbanghita/claude-code-plan-critique",
+    "description": "Claude Code skills for iterative plan review and execution.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serbanghita",
+    "repoName": "claude-code-plan-critique",
+    "repoBranch": "main"
+  },
+  "alebgl77/claude-inc": {
+    "name": "alebgl77/claude-inc",
+    "description": "Hire a 42-employee AI company in one command: 7 departments, 42 skills, 1 CEO. For Claude Code & any AI CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alebgl77",
+    "repoName": "claude-inc",
+    "repoBranch": "main"
+  },
+  "hec-ovi/blockchain-skill": {
+    "name": "hec-ovi/blockchain-skill",
+    "description": "Non-custodial agent wallet toolkit plus a gated Solidity workflow: EVM and Bitcoin CLI (init, send, swap, deploy) and a contract walk (spec, threat model, audit, deploy) with an in-process EVM sandbox. solc 0.8.36, no...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hec-ovi",
+    "repoName": "blockchain-skill",
+    "repoBranch": "main"
+  },
+  "jiayou20021120-afk/paper-conductor": {
+    "name": "jiayou20021120-afk/paper-conductor",
+    "description": "\u8bba\u6587\u5168\u6d41\u7a0b\u96c6\u5927\u6210\u52a9\u624b \u00b7 Claude Code skill that drafts, polishes, reviews and plans the whole route itself, and hands off to stronger specialized skills when needed. \u53bb AI \u5473\u5206\u6392\u5370\u00b7\u7ed3\u6784\u00b7\u53ef\u8bfb\u6027\u4e09\u5c42\u3001\u5199\u4f5c\u5e26\u53cd\u7f16\u9020\u7eaa\u5f8b\uff1b\u8986\u76d6\u9009\u9898\u2192\u8c03\u7814\u2192\u5199\u4f5c\u2192\u5236\u56fe\u2192\u6da6\u8272\u2192\u5ba1\u7a3f\u2192\u7b54\u8fa9\u2192\u6295\u7a3f 8 \u9636\u6bb5\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jiayou20021120-afk",
+    "repoName": "paper-conductor",
+    "repoBranch": "main"
+  },
+  "aitit-inc/leadace": {
+    "name": "aitit-inc/leadace",
+    "description": "Outbound sales, autopiloted.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aitit-inc",
+    "repoName": "leadace",
+    "repoBranch": "main"
+  },
+  "enalbenerraw/blanewarrene": {
+    "name": "enalbenerraw/blanewarrene",
+    "description": "Blane's AI PM Repository",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enalbenerraw",
+    "repoName": "blanewarrene",
+    "repoBranch": "main"
+  },
+  "risadams/ink-and-agency": {
+    "name": "risadams/ink-and-agency",
+    "description": "A dual-host skills plugin for Claude Code and OpenAI Codex with a self-evolve loop that learns from every invocation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "risadams",
+    "repoName": "ink-and-agency",
+    "repoBranch": "main"
+  },
+  "gulmezeren2-byte/claude-skills-doctor": {
+    "name": "gulmezeren2-byte/claude-skills-doctor",
+    "description": "A doctor for your Claude Code agent skills \u2014 find the SKILL.md files Claude silently can't see (over the discovery-char budget), plus naming, routing & hygiene issues. Whole-system, deterministic, no model calls. Comm...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gulmezeren2-byte",
+    "repoName": "claude-skills-doctor",
+    "repoBranch": "main"
   }
 }

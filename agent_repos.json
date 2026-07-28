@@ -2739,5 +2739,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "alebgl77/claude-inc": {
+    "owner": "alebgl77",
+    "name": "claude-inc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "youkistudios/web-studio": {
+    "owner": "youkistudios",
+    "name": "web-studio",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
