@@ -2753,5 +2753,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sairam0424/MindForge": {
+    "owner": "sairam0424",
+    "name": "MindForge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -16033,5 +16033,122 @@
         "name": "claude-mastery-series",
         "branch": "main",
         "enabled": true
+    },
+    "posit-dev/skills": {
+        "owner": "posit-dev",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sanity-io/agent-toolkit": {
+        "owner": "sanity-io",
+        "name": "agent-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sociilabs/claude-content-writer": {
+        "owner": "sociilabs",
+        "name": "claude-content-writer",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kickinrad/personas-framework": {
+        "owner": "kickinrad",
+        "name": "personas-framework",
+        "branch": "main",
+        "enabled": true
+    },
+    "martineserios/thebrana": {
+        "owner": "martineserios",
+        "name": "thebrana",
+        "branch": "main",
+        "enabled": true
+    },
+    "AnilBurcu/claude-code-react-native": {
+        "owner": "AnilBurcu",
+        "name": "claude-code-react-native",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lumyk/jira-planner-skill": {
+        "owner": "Lumyk",
+        "name": "jira-planner-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "spmisha134/skillOps-intellij": {
+        "owner": "spmisha134",
+        "name": "skillOps-intellij",
+        "branch": "master",
+        "enabled": true
+    },
+    "leobbaroni/maestro": {
+        "owner": "leobbaroni",
+        "name": "maestro",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jaenicket/code-webdesign": {
+        "owner": "jaenicket",
+        "name": "code-webdesign",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Javon0-0/claude-skills": {
+        "owner": "Javon0-0",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sairam0424/MindForge": {
+        "owner": "sairam0424",
+        "name": "MindForge",
+        "branch": "main",
+        "enabled": true
+    },
+    "melsayedx/learning-mode": {
+        "owner": "melsayedx",
+        "name": "learning-mode",
+        "branch": "main",
+        "enabled": true
+    },
+    "Eslam3bed/claude-atlas": {
+        "owner": "Eslam3bed",
+        "name": "claude-atlas",
+        "branch": "main",
+        "enabled": true
+    },
+    "tysitv/claude-sound-ear": {
+        "owner": "tysitv",
+        "name": "claude-sound-ear",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "argent-gnome/sdlc-skills": {
+        "owner": "argent-gnome",
+        "name": "sdlc-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thebitanpaul/VERA": {
+        "owner": "thebitanpaul",
+        "name": "VERA",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "indradhanush/skills": {
+        "owner": "indradhanush",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
     }
 }

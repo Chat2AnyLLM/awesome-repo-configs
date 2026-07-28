@@ -13375,5 +13375,104 @@
     "repoOwner": "gulmezeren2-byte",
     "repoName": "claude-skills-doctor",
     "repoBranch": "main"
+  },
+  "posit-dev/skills": {
+    "name": "posit-dev/skills",
+    "description": "A collection of Claude Skills from Posit",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "posit-dev",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "sanity-io/agent-toolkit": {
+    "name": "sanity-io/agent-toolkit",
+    "description": "Collection of resources to help AI agents build better with Sanity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sanity-io",
+    "repoName": "agent-toolkit",
+    "repoBranch": "main"
+  },
+  "kickinrad/personas-framework": {
+    "name": "kickinrad/personas-framework",
+    "description": "Persona lifecycle framework with optional read-only dashboard and mesh sync.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kickinrad",
+    "repoName": "personas-framework",
+    "repoBranch": "main"
+  },
+  "martineserios/thebrana": {
+    "name": "martineserios/thebrana",
+    "description": "martineserios/thebrana \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martineserios",
+    "repoName": "thebrana",
+    "repoBranch": "main"
+  },
+  "AnilBurcu/claude-code-react-native": {
+    "name": "AnilBurcu/claude-code-react-native",
+    "description": "React Native and Expo field knowledge for Claude Code: build triage, SDK upgrades, Hermes crashes, push, IAP, releases",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AnilBurcu",
+    "repoName": "claude-code-react-native",
+    "repoBranch": "main"
+  },
+  "leobbaroni/maestro": {
+    "name": "leobbaroni/maestro",
+    "description": "Unified design, motion, 3D, and video super skill for AI coding agents - eight upstream knowledge bases distilled into one, with automated upstream drift tracking.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leobbaroni",
+    "repoName": "maestro",
+    "repoBranch": "main"
+  },
+  "jaenicket/code-webdesign": {
+    "name": "jaenicket/code-webdesign",
+    "description": "a skill that builds a website and the design system that governs it, with checks that block rather than advise.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jaenicket",
+    "repoName": "code-webdesign",
+    "repoBranch": "main"
+  },
+  "sairam0424/MindForge": {
+    "name": "sairam0424/MindForge",
+    "description": "MindForge: The Enterprise Agentic Framework for Claude Code & Antigravity. High-performance autonomous execution, wave-parallelism, and multi-tier governance for production-grade AI engineering.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sairam0424",
+    "repoName": "MindForge",
+    "repoBranch": "main"
+  },
+  "melsayedx/learning-mode": {
+    "name": "melsayedx/learning-mode",
+    "description": "Learn the thing, don't paste it. A Claude Code skill that guides but never implements: \"if you could paste what Claude wrote and have the task done, it wrote too much.\"",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "melsayedx",
+    "repoName": "learning-mode",
+    "repoBranch": "main"
+  },
+  "Eslam3bed/claude-atlas": {
+    "name": "Eslam3bed/claude-atlas",
+    "description": "Atlas \u2014 portable Claude Code operating-layer plugin (personal)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Eslam3bed",
+    "repoName": "claude-atlas",
+    "repoBranch": "main"
+  },
+  "indradhanush/skills": {
+    "name": "indradhanush/skills",
+    "description": "Collection of Claude skills installable as plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "indradhanush",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }
