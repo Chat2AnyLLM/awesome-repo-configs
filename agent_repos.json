@@ -2718,5 +2718,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "VincentChuWaiChow/vanguard-frontier-agentic": {
+    "owner": "VincentChuWaiChow",
+    "name": "vanguard-frontier-agentic",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kelegele/oh-my-pm": {
+    "owner": "kelegele",
+    "name": "oh-my-pm",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tonmoy007/forge-plugins": {
+    "owner": "tonmoy007",
+    "name": "forge-plugins",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

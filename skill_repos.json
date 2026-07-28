@@ -15790,5 +15790,126 @@
         "name": "smithy",
         "branch": "main",
         "enabled": true
+    },
+    "VincentChuWaiChow/vanguard-frontier-agentic": {
+        "owner": "VincentChuWaiChow",
+        "name": "vanguard-frontier-agentic",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "buluslan/amazon-listing-doctor": {
+        "owner": "buluslan",
+        "name": "amazon-listing-doctor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maddness/agent-research-radar": {
+        "owner": "maddness",
+        "name": "agent-research-radar",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ProdaZhang/figkit": {
+        "owner": "ProdaZhang",
+        "name": "figkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "display-design-studio/skills": {
+        "owner": "display-design-studio",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cabbage2000-lab/paper-tutor-skills": {
+        "owner": "cabbage2000-lab",
+        "name": "paper-tutor-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kelegele/oh-my-pm": {
+        "owner": "kelegele",
+        "name": "oh-my-pm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "agentprism/agentprism-workflows": {
+        "owner": "agentprism",
+        "name": "agentprism-workflows",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "victoraguilarsantamariadev/qa-explore": {
+        "owner": "victoraguilarsantamariadev",
+        "name": "qa-explore",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anek-dev/mentor-skill": {
+        "owner": "anek-dev",
+        "name": "mentor-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dbtinoy-/lexigram-framework-skills": {
+        "owner": "dbtinoy-",
+        "name": "lexigram-framework-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sertelegger/claude-sesh-mover": {
+        "owner": "Sertelegger",
+        "name": "claude-sesh-mover",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vishsd14/query-fanout-auditor": {
+        "owner": "vishsd14",
+        "name": "query-fanout-auditor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DanieleMosh/almagest-survey": {
+        "owner": "DanieleMosh",
+        "name": "almagest-survey",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "derbinen/xbsl-en-skills": {
+        "owner": "derbinen",
+        "name": "xbsl-en-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "yogvidwankhede/vishwakarma": {
+        "owner": "yogvidwankhede",
+        "name": "vishwakarma",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Max-Levitskiy/agent-marketplace": {
+        "owner": "Max-Levitskiy",
+        "name": "agent-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "tonmoy007/forge-plugins": {
+        "owner": "tonmoy007",
+        "name": "forge-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -13195,5 +13195,104 @@
     "repoOwner": "samuel-stidham",
     "repoName": "smithy",
     "repoBranch": "main"
+  },
+  "VincentChuWaiChow/vanguard-frontier-agentic": {
+    "name": "VincentChuWaiChow/vanguard-frontier-agentic",
+    "description": "Curated marketplace of AI skills, agents, and rules for cloud, zero-trust, and compliance-aware engineering - works with Claude Code, Codex, Cursor, Copilot, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VincentChuWaiChow",
+    "repoName": "vanguard-frontier-agentic",
+    "repoBranch": "master"
+  },
+  "ProdaZhang/figkit": {
+    "name": "ProdaZhang/figkit",
+    "description": "One Figma capture, six runnable outputs - HTML / Unity / Godot / Unreal / Cocos + a semantic UI-DSL, compiled from one pixel-faithful IR with declared interactions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ProdaZhang",
+    "repoName": "figkit",
+    "repoBranch": "main"
+  },
+  "cabbage2000-lab/paper-tutor-skills": {
+    "name": "cabbage2000-lab/paper-tutor-skills",
+    "description": "\u9762\u5411\u4e2d\u6587\u7814\u7a76\u751f\u4e0e\u79d1\u7814\u5de5\u4f5c\u8005\u7684\u5b66\u672f\u8f85\u5bfc skill \u5957\u4ef6\uff08\u652f\u6301 Claude Code / Codex \u7b49\u7f16\u7a0b\u667a\u80fd\u4f53\uff09\uff1a\u9009\u9898 \u2192 \u68c0\u7d22 \u2192 \u6210\u6587 \u2192 \u8bc4\u5ba1 \u2192 \u6295\u7a3f\u5168\u94fe\u8def 25 \u4e2a\u547d\u4ee4\uff0c\u5f15\u7528\u6838\u9a8c\u4ee5\u771f\u5b9e API \u54cd\u5e94\u4e3a\u51c6\u3001\u4e0d\u51ed\u6a21\u578b\u8bb0\u5fc6\u7f16\u9020\uff0cAI \u7ba1\u6548\u7387\u3001\u4eba\u7ba1\u7814\u7a76\u51b3\u7b56\u2014\u2014\u8f85\u5bfc\u4e0d\u4ee3\u7b14",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cabbage2000-lab",
+    "repoName": "paper-tutor-skills",
+    "repoBranch": "main"
+  },
+  "kelegele/oh-my-pm": {
+    "name": "kelegele/oh-my-pm",
+    "description": "Oh-My-PM - Product Manager AI Agent Workflow System via Claude Code Skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kelegele",
+    "repoName": "oh-my-pm",
+    "repoBranch": "main"
+  },
+  "victoraguilarsantamariadev/qa-explore": {
+    "name": "victoraguilarsantamariadev/qa-explore",
+    "description": "victoraguilarsantamariadev/qa-explore \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "victoraguilarsantamariadev",
+    "repoName": "qa-explore",
+    "repoBranch": "main"
+  },
+  "Sertelegger/claude-sesh-mover": {
+    "name": "Sertelegger/claude-sesh-mover",
+    "description": "Claude Code Plugin for session import, export and migration between profiles, containers, and machines",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sertelegger",
+    "repoName": "claude-sesh-mover",
+    "repoBranch": "main"
+  },
+  "asanderson/llm-redact": {
+    "name": "asanderson/llm-redact",
+    "description": "Large Language Model (LLM) information redactor that prevents private information from being sent to LLMs from agentic tools by substituting placeholders for private information on outgoing requests and then replaces...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asanderson",
+    "repoName": "llm-redact",
+    "repoBranch": "main"
+  },
+  "DanieleMosh/almagest-survey": {
+    "name": "DanieleMosh/almagest-survey",
+    "description": "Claude skills for automated literature surveys: verified corpora, honest metrics, minimal figures, and a short PDF report of the state of the art.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DanieleMosh",
+    "repoName": "almagest-survey",
+    "repoBranch": "main"
+  },
+  "yogvidwankhede/vishwakarma": {
+    "name": "yogvidwankhede/vishwakarma",
+    "description": "21 Claude Code skills for AI coding agents \u2014 design judgment, colour, motion, accessibility, layout & theming. Works with Cursor, Windsurf, Cline & 10+ agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yogvidwankhede",
+    "repoName": "vishwakarma",
+    "repoBranch": "main"
+  },
+  "Max-Levitskiy/agent-marketplace": {
+    "name": "Max-Levitskiy/agent-marketplace",
+    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Max-Levitskiy",
+    "repoName": "agent-marketplace",
+    "repoBranch": "main"
+  },
+  "tonmoy007/forge-plugins": {
+    "name": "tonmoy007/forge-plugins",
+    "description": "12-stage gated SDLC orchestrator for Claude Code \u2014 deterministic gates, REQ-ID traceability, cost-capped background agents, brownfield adoption",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonmoy007",
+    "repoName": "forge-plugins",
+    "repoBranch": "main"
   }
 }
