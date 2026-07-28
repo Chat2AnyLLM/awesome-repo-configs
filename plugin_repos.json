@@ -13105,5 +13105,95 @@
     "repoOwner": "Anchras",
     "repoName": "terminalbox-tools",
     "repoBranch": "main"
+  },
+  "CronusL-1141/AI-company": {
+    "name": "CronusL-1141/AI-company",
+    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashboard. No LangChai...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CronusL-1141",
+    "repoName": "AI-company",
+    "repoBranch": "master"
+  },
+  "dinglebear-ai/unraid": {
+    "name": "dinglebear-ai/unraid",
+    "description": "Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dinglebear-ai",
+    "repoName": "unraid",
+    "repoBranch": "main"
+  },
+  "MoizIbnYousaf/marketing-cli": {
+    "name": "MoizIbnYousaf/marketing-cli",
+    "description": "Agent-native marketing CLI: 58 skills, 5 research agents, brand memory that compounds across sessions, and a local Studio dashboard. One npm install, then /cmo in your coding agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MoizIbnYousaf",
+    "repoName": "marketing-cli",
+    "repoBranch": "main"
+  },
+  "indranilbanerjee/socialforge": {
+    "name": "indranilbanerjee/socialforge",
+    "description": "Open-source agency-grade social media production plugin \u2014 16 skills, 25 commands, AI image (Nano Banana Pro) + AI video (Kling v3.0 Pro) + C2PA signing (EU AI Act Article 50). Installs on Claude Code, Cowork, Codex, C...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "indranilbanerjee",
+    "repoName": "socialforge",
+    "repoBranch": "main"
+  },
+  "indranilbanerjee/contentforge": {
+    "name": "indranilbanerjee/contentforge",
+    "description": "Open-source enterprise content production plugin \u2014 21 skills, 13 agents, 11 quality gates, 29-pattern AI humanizer, fact-checker, real .docx output with C2PA signing (EU AI Act Article 50 ready). Installs on Claude Co...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "indranilbanerjee",
+    "repoName": "contentforge",
+    "repoBranch": "master"
+  },
+  "sehoon787/my-claude": {
+    "name": "sehoon787/my-claude",
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 hooks. One plugin install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sehoon787",
+    "repoName": "my-claude",
+    "repoBranch": "main"
+  },
+  "KangRyun/jasoseo-plugin": {
+    "name": "KangRyun/jasoseo-plugin",
+    "description": "\ud55c\uad6d \ucde8\uc5c5 \uc790\uae30\uc18c\uac1c\uc11c\ub97c \uae30\uc5c5\uc870\uc0ac\u2192\ucd08\uc548\u2192\uae00\uc790\uc218\u2192\ub9ac\ubdf0\u2192\uc724\ubb38\u2192\uac80\uc99d   8\ub2e8\uacc4\ub85c \uc644\uc131\ud558\ub294 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KangRyun",
+    "repoName": "jasoseo-plugin",
+    "repoBranch": "main"
+  },
+  "isaacriehm/cairn": {
+    "name": "isaacriehm/cairn",
+    "description": "Persistent ground truth for Claude Code. Stop AI agents from drifting on your codebase.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "isaacriehm",
+    "repoName": "cairn",
+    "repoBranch": "main"
+  },
+  "muhammetsafak/SentryFixer.Skill": {
+    "name": "muhammetsafak/SentryFixer.Skill",
+    "description": "Claude Code skill that analyzes a Sentry issue against your current code, plans the fix, and implements it only after you approve. Read-only against Sentry, never touches git.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "muhammetsafak",
+    "repoName": "SentryFixer.Skill",
+    "repoBranch": "main"
+  },
+  "samuel-stidham/smithy": {
+    "name": "samuel-stidham/smithy",
+    "description": "Six lean, repo-agnostic plugins for AI coding agents, in one marketplace. forge runs the engineering workflow: tasks, proofs, reviews, PRs, releases. foundry scaffolds and deploys, draft writes, anvil manages Nix envi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "samuel-stidham",
+    "repoName": "smithy",
+    "repoBranch": "main"
   }
 }

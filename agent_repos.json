@@ -2676,5 +2676,47 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "dinglebear-ai/unraid": {
+    "owner": "dinglebear-ai",
+    "name": "unraid",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "MoizIbnYousaf/marketing-cli": {
+    "owner": "MoizIbnYousaf",
+    "name": "marketing-cli",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "indranilbanerjee/socialforge": {
+    "owner": "indranilbanerjee",
+    "name": "socialforge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "indranilbanerjee/contentforge": {
+    "owner": "indranilbanerjee",
+    "name": "contentforge",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sehoon787/my-claude": {
+    "owner": "sehoon787",
+    "name": "my-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "KangRyun/jasoseo-plugin": {
+    "owner": "KangRyun",
+    "name": "jasoseo-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

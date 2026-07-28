@@ -15691,5 +15691,104 @@
         "name": "the-ai-clinicians-claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "CronusL-1141/AI-company": {
+        "owner": "CronusL-1141",
+        "name": "AI-company",
+        "branch": "master",
+        "enabled": true
+    },
+    "dinglebear-ai/unraid": {
+        "owner": "dinglebear-ai",
+        "name": "unraid",
+        "branch": "main",
+        "enabled": true
+    },
+    "MoizIbnYousaf/marketing-cli": {
+        "owner": "MoizIbnYousaf",
+        "name": "marketing-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "indranilbanerjee/socialforge": {
+        "owner": "indranilbanerjee",
+        "name": "socialforge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "indranilbanerjee/contentforge": {
+        "owner": "indranilbanerjee",
+        "name": "contentforge",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sehoon787/my-claude": {
+        "owner": "sehoon787",
+        "name": "my-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KangRyun/jasoseo-plugin": {
+        "owner": "KangRyun",
+        "name": "jasoseo-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "isaacriehm/cairn": {
+        "owner": "isaacriehm",
+        "name": "cairn",
+        "branch": "main",
+        "enabled": true
+    },
+    "BackToCimaCoppi/Praxis": {
+        "owner": "BackToCimaCoppi",
+        "name": "Praxis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "muhammetsafak/SentryFixer.Skill": {
+        "owner": "muhammetsafak",
+        "name": "SentryFixer.Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "criscatalyst/loop-builder": {
+        "owner": "criscatalyst",
+        "name": "loop-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ytubecoder/ticket-takeaway": {
+        "owner": "ytubecoder",
+        "name": "ticket-takeaway",
+        "branch": "main",
+        "enabled": true
+    },
+    "CHAOSX-SPACE/god-of-the-void": {
+        "owner": "CHAOSX-SPACE",
+        "name": "god-of-the-void",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "patrickserrano/lacquer": {
+        "owner": "patrickserrano",
+        "name": "lacquer",
+        "branch": "main",
+        "enabled": true
+    },
+    "samuel-stidham/smithy": {
+        "owner": "samuel-stidham",
+        "name": "smithy",
+        "branch": "main",
+        "enabled": true
     }
 }
