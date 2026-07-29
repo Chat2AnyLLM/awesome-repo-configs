@@ -2781,5 +2781,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "swingerman/disciplined-agentic-engineering": {
+    "owner": "swingerman",
+    "name": "disciplined-agentic-engineering",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "arcbaslow/google-ads-agents": {
+    "owner": "arcbaslow",
+    "name": "google-ads-agents",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jameswei/plan-build-review": {
+    "owner": "jameswei",
+    "name": "plan-build-review",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "digitaldreams/tuhin": {
+    "owner": "digitaldreams",
+    "name": "tuhin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gr8monk3ys/lorenzos-claude-code": {
+    "owner": "gr8monk3ys",
+    "name": "lorenzos-claude-code",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

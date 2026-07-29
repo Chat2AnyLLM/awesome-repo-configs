@@ -16256,5 +16256,100 @@
         "name": "pangaealabs-claude-plugins-marketplace",
         "branch": "main",
         "enabled": true
+    },
+    "swingerman/disciplined-agentic-engineering": {
+        "owner": "swingerman",
+        "name": "disciplined-agentic-engineering",
+        "branch": "master",
+        "enabled": true
+    },
+    "ncoevoet/claude-review-all": {
+        "owner": "ncoevoet",
+        "name": "claude-review-all",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AnmarHani/SwarmVault": {
+        "owner": "AnmarHani",
+        "name": "SwarmVault",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "compforge/devloop": {
+        "owner": "compforge",
+        "name": "devloop",
+        "branch": "main",
+        "enabled": true
+    },
+    "signal-yield/tochi-satei-kun": {
+        "owner": "signal-yield",
+        "name": "tochi-satei-kun",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "isatimur/presentation-md": {
+        "owner": "isatimur",
+        "name": "presentation-md",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nguyenvanphituoc/shapeup-sdlc-plugin": {
+        "owner": "nguyenvanphituoc",
+        "name": "shapeup-sdlc-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arcbaslow/google-ads-agents": {
+        "owner": "arcbaslow",
+        "name": "google-ads-agents",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oscarvasquezroncal/claude-agent-forge": {
+        "owner": "oscarvasquezroncal",
+        "name": "claude-agent-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jameswei/plan-build-review": {
+        "owner": "jameswei",
+        "name": "plan-build-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lamemustafa/complyeaze-skills": {
+        "owner": "lamemustafa",
+        "name": "complyeaze-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saitoomituru/pain-scouter-assessment": {
+        "owner": "saitoomituru",
+        "name": "pain-scouter-assessment",
+        "branch": "main",
+        "enabled": true
+    },
+    "digitaldreams/tuhin": {
+        "owner": "digitaldreams",
+        "name": "tuhin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jason8-8/start-working-template": {
+        "owner": "jason8-8",
+        "name": "start-working-template",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

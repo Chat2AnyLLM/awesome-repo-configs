@@ -13582,5 +13582,113 @@
     "repoOwner": "labspangaea",
     "repoName": "pangaealabs-claude-plugins-marketplace",
     "repoBranch": "main"
+  },
+  "swingerman/disciplined-agentic-engineering": {
+    "name": "swingerman/disciplined-agentic-engineering",
+    "description": "Acceptance Test Driven Development for Claude Code \u2014 inspired by Uncle Bob's approach from empire-2025",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "swingerman",
+    "repoName": "disciplined-agentic-engineering",
+    "repoBranch": "master"
+  },
+  "ncoevoet/claude-review-all": {
+    "name": "ncoevoet/claude-review-all",
+    "description": "Comprehensive multi-agent code review for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ncoevoet",
+    "repoName": "claude-review-all",
+    "repoBranch": "main"
+  },
+  "compforge/devloop": {
+    "name": "compforge/devloop",
+    "description": "A guard-railed, closed-loop workflow for AI coding agents: live state bus + execution-level hard intercepts for Claude Code and Codex (GitHub PR / GitLab MR). From step-level to requirement-level; eval-driven, spec-dr...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "compforge",
+    "repoName": "devloop",
+    "repoBranch": "main"
+  },
+  "signal-yield/tochi-satei-kun": {
+    "name": "signal-yield/tochi-satei-kun",
+    "description": "\u4e0d\u52d5\u7523\u9451\u5b9a\u58eb\u304c\u516c\u958b\u3059\u308b\u767d\u7bb1\u65b9\u5f0f\u306e\u571f\u5730\u67fb\u5b9aOSS\u3002MLIT\u53d6\u5f15\u30c7\u30fc\u30bf\u304b\u3089\u30d8\u30c9\u30cb\u30c3\u30af\u56de\u5e30\u4fc2\u6570\u3092\u90fd\u5ea6\u63a8\u5b9a\u3001\u696d\u8005\u7528\u30b7\u30fc\u30c8\uff08\u4fc2\u6570\u5168\u958b\u793a\uff09\u3068\u9867\u5ba2\u7528\u30b7\u30fc\u30c8\u3092\u751f\u6210\u3002Claude Coworker\u30b7\u30ea\u30fc\u30ba\u3002White-box AVM skill for Japanese land price assessment. Re-estimates hedonic coefficients on every run from MLIT transactio...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "signal-yield",
+    "repoName": "tochi-satei-kun",
+    "repoBranch": "main"
+  },
+  "isatimur/presentation-md": {
+    "name": "isatimur/presentation-md",
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, Copilot) \u2014 then export native, editable PowerPoint, Keynote & Google Slides. Skill + MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "isatimur",
+    "repoName": "presentation-md",
+    "repoBranch": "main"
+  },
+  "nguyenvanphituoc/shapeup-sdlc-plugin": {
+    "name": "nguyenvanphituoc/shapeup-sdlc-plugin",
+    "description": "Shape Up for coding agents \u2014 with gates the agent can't talk its way past. A Claude Code plugin that runs idea \u2192 pitch \u2192 build \u2192 eval \u2192 ship, with PreToolUse hooks that hard-deny a premature EVAL and progress derived...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nguyenvanphituoc",
+    "repoName": "shapeup-sdlc-plugin",
+    "repoBranch": "main"
+  },
+  "arcbaslow/google-ads-agents": {
+    "name": "arcbaslow/google-ads-agents",
+    "description": "Multi-agent toolkit for Google Ads. End-user gcloud SSO, 24h session cap, per-MCC profiles. Read paths across all campaign types, conversions and gtag health, placement safety, brand exclusions, gated mutates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arcbaslow",
+    "repoName": "google-ads-agents",
+    "repoBranch": "master"
+  },
+  "oscarvasquezroncal/claude-agent-forge": {
+    "name": "oscarvasquezroncal/claude-agent-forge",
+    "description": "A Claude Code skill that bootstraps any repo into a multi-agent setup: a verified CLAUDE.md knowledge base (root + per-directory) and a 4-agent pipeline (analyst \u2192 senior \u2192 tester \u2192 docs-updater). One command. Python,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oscarvasquezroncal",
+    "repoName": "claude-agent-forge",
+    "repoBranch": "main"
+  },
+  "jameswei/plan-build-review": {
+    "name": "jameswei/plan-build-review",
+    "description": "A gated, role-based workflow, with independently reviewed plans, task-by-task delivery, and explicit approval checkpoints.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jameswei",
+    "repoName": "plan-build-review",
+    "repoBranch": "main"
+  },
+  "lamemustafa/complyeaze-skills": {
+    "name": "lamemustafa/complyeaze-skills",
+    "description": "Agent skills for Indian tax and compliance work. Reconciles AIS/TIS/26AS, reads broker capital gains, validates portal uploads. Zero dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lamemustafa",
+    "repoName": "complyeaze-skills",
+    "repoBranch": "master"
+  },
+  "digitaldreams/tuhin": {
+    "name": "digitaldreams/tuhin",
+    "description": "My dev identity as a Claude Code plugin \u2014 a full Laravel team in a box: SDLC pipeline, task board, coding agents, and audit skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "digitaldreams",
+    "repoName": "tuhin",
+    "repoBranch": "main"
+  },
+  "gr8monk3ys/lorenzos-claude-code": {
+    "name": "gr8monk3ys/lorenzos-claude-code",
+    "description": "My general configuration for projects when using Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gr8monk3ys",
+    "repoName": "lorenzos-claude-code",
+    "repoBranch": "main"
   }
 }
