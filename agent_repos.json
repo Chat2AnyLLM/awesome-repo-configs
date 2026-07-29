@@ -2760,5 +2760,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "seokan-jeong/team-shinchan": {
+    "owner": "seokan-jeong",
+    "name": "team-shinchan",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "shenchangmin/cairnkit": {
+    "owner": "shenchangmin",
+    "name": "cairnkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jstuart0/mozart-orchestration": {
+    "owner": "jstuart0",
+    "name": "mozart-orchestration",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

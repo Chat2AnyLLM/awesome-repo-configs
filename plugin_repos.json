@@ -13474,5 +13474,113 @@
     "repoOwner": "indradhanush",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "seokan-jeong/team-shinchan": {
+    "name": "seokan-jeong/team-shinchan",
+    "description": "15 Shinchan character agents that debate, plan, execute, and learn. Stop doing everything yourself - orchestrate a team.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokan-jeong",
+    "repoName": "team-shinchan",
+    "repoBranch": "main"
+  },
+  "gaelic-ghost/socket": {
+    "name": "gaelic-ghost/socket",
+    "description": "The Source for macOS Agent Workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gaelic-ghost",
+    "repoName": "socket",
+    "repoBranch": "main"
+  },
+  "gf-labs/gfl-marketplace": {
+    "name": "gf-labs/gfl-marketplace",
+    "description": "Greenfield Labs Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gf-labs",
+    "repoName": "gfl-marketplace",
+    "repoBranch": "main"
+  },
+  "tarujg/azure-support-ticket": {
+    "name": "tarujg/azure-support-ticket",
+    "description": "Claude Code skill for filing and managing Azure support tickets from the terminal via the az CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tarujg",
+    "repoName": "azure-support-ticket",
+    "repoBranch": "main"
+  },
+  "shenchangmin/cairnkit": {
+    "name": "shenchangmin/cairnkit",
+    "description": "A knowledge-precipitation harness for Claude Code and Codex \u2014 the workflow is the pipe, knowledge is the moat. Single Rust binary + per-harness adapters with real per-role isolation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shenchangmin",
+    "repoName": "cairnkit",
+    "repoBranch": "main"
+  },
+  "jstuart0/mozart-orchestration": {
+    "name": "jstuart0/mozart-orchestration",
+    "description": "Multi-agent orchestration pipeline for Claude Code: DELIVER (build), AUDIT (review), DIAGNOSE (investigate). Conducts 14 specialist subagents through research, plan, review, implement, verify, document with live narra...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jstuart0",
+    "repoName": "mozart-orchestration",
+    "repoBranch": "main"
+  },
+  "scoobydrew83/skills": {
+    "name": "scoobydrew83/skills",
+    "description": "A coordinated library of Claude skills with explicit phase/handoff routing, shared state, and a maker/checker loop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scoobydrew83",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "awjackson2/phase-skills": {
+    "name": "awjackson2/phase-skills",
+    "description": "A phase-driven development workflow for Claude Code, packaged as drop-in skills \u2014 plan-before-code gates, per-phase tracking, worktree discipline, decomposition, and audit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "awjackson2",
+    "repoName": "phase-skills",
+    "repoBranch": "main"
+  },
+  "XTSoftwareLabs/neatcontext-plugins": {
+    "name": "XTSoftwareLabs/neatcontext-plugins",
+    "description": "Save AI work as reusable context with domain awareness",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "XTSoftwareLabs",
+    "repoName": "neatcontext-plugins",
+    "repoBranch": "main"
+  },
+  "sriptcollector/toolbay-skills-claude-code-skill-pack": {
+    "name": "sriptcollector/toolbay-skills-claude-code-skill-pack",
+    "description": "20 free, MIT-licensed Claude Code skills. Each written from a real defect found in production. Install with /plugin marketplace add, or npx toolbay.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sriptcollector",
+    "repoName": "toolbay-skills-claude-code-skill-pack",
+    "repoBranch": "main"
+  },
+  "TahaZahit/absolutely-not": {
+    "name": "TahaZahit/absolutely-not",
+    "description": "An agent skill against reflexive agreement and unverified completion claims \u2014 rules plus a Stop hook that blocks 'done' when nothing ran.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TahaZahit",
+    "repoName": "absolutely-not",
+    "repoBranch": "main"
+  },
+  "labspangaea/pangaealabs-claude-plugins-marketplace": {
+    "name": "labspangaea/pangaealabs-claude-plugins-marketplace",
+    "description": "Claude Code plugin marketplace by Pangaea Labs \u2014 markdown to on-brand PDFs (docsmith), user flows to test-case suites (testcraft), graphic-design critique with measured WCAG contrast (dkv), and production-ready Go / E...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "labspangaea",
+    "repoName": "pangaealabs-claude-plugins-marketplace",
+    "repoBranch": "main"
   }
 }

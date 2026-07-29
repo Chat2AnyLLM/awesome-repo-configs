@@ -16150,5 +16150,111 @@
         "name": "skills",
         "branch": "main",
         "enabled": true
+    },
+    "seokan-jeong/team-shinchan": {
+        "owner": "seokan-jeong",
+        "name": "team-shinchan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gaelic-ghost/socket": {
+        "owner": "gaelic-ghost",
+        "name": "socket",
+        "branch": "main",
+        "enabled": true
+    },
+    "konglong87/wechat-download-skill": {
+        "owner": "konglong87",
+        "name": "wechat-download-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ovalpatty/a-share-fact-check": {
+        "owner": "ovalpatty",
+        "name": "a-share-fact-check",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tarujg/azure-support-ticket": {
+        "owner": "tarujg",
+        "name": "azure-support-ticket",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "luminik-io/event-outbound-skill": {
+        "owner": "luminik-io",
+        "name": "event-outbound-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shenchangmin/cairnkit": {
+        "owner": "shenchangmin",
+        "name": "cairnkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "lkc-studio/claude-skill-mutants": {
+        "owner": "lkc-studio",
+        "name": "claude-skill-mutants",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lkc-studio/claude-skill-bisect": {
+        "owner": "lkc-studio",
+        "name": "claude-skill-bisect",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "scoobydrew83/skills": {
+        "owner": "scoobydrew83",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "awjackson2/phase-skills": {
+        "owner": "awjackson2",
+        "name": "phase-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "fifidayone/svelte-edge": {
+        "owner": "fifidayone",
+        "name": "svelte-edge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "XTSoftwareLabs/neatcontext-plugins": {
+        "owner": "XTSoftwareLabs",
+        "name": "neatcontext-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "sriptcollector/toolbay-skills-claude-code-skill-pack": {
+        "owner": "sriptcollector",
+        "name": "toolbay-skills-claude-code-skill-pack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TahaZahit/absolutely-not": {
+        "owner": "TahaZahit",
+        "name": "absolutely-not",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "labspangaea/pangaealabs-claude-plugins-marketplace": {
+        "owner": "labspangaea",
+        "name": "pangaealabs-claude-plugins-marketplace",
+        "branch": "main",
+        "enabled": true
     }
 }
