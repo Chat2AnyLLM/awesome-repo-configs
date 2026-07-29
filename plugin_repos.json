@@ -13861,5 +13861,14 @@
     "repoOwner": "bakulbadwal",
     "repoName": "ai-frontier-dispatch",
     "repoBranch": "master"
+  },
+  "transon-org/transon-authoring-skill": {
+    "name": "transon-authoring",
+    "description": "Authors engine-valid Transon JSON transformation templates and returns one only after the pinned Transon engine verifies it against a user-confirmed set of input/output samples (assurance: matched) - unverified JSON is never returned. Works in Claude Code and Cursor. Requires the runtime separately: pip install transon-authoring.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "transon-org",
+    "repoName": "transon-authoring-skill",
+    "repoBranch": "main"
   }
 }
