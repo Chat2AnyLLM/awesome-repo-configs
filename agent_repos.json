@@ -2816,5 +2816,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "protonium-labs/axiomcore-plugin": {
+    "owner": "protonium-labs",
+    "name": "axiomcore-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

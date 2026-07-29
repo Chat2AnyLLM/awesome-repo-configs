@@ -16351,5 +16351,125 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "patchorbit/domscribe": {
+        "owner": "patchorbit",
+        "name": "domscribe",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "softcane/human-state-skills": {
+        "owner": "softcane",
+        "name": "human-state-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "andisab/swe-marketplace": {
+        "owner": "andisab",
+        "name": "swe-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "brycewang-stanford/many-ppt-skills": {
+        "owner": "brycewang-stanford",
+        "name": "many-ppt-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "protonium-labs/axiomcore-plugin": {
+        "owner": "protonium-labs",
+        "name": "axiomcore-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mrge-io/skills": {
+        "owner": "mrge-io",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "malkreide/mcp-audit-skill": {
+        "owner": "malkreide",
+        "name": "mcp-audit-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bp-high/itr-filing-claude-skill": {
+        "owner": "bp-high",
+        "name": "itr-filing-claude-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ye4wzp/chrome-bookmark-organizer": {
+        "owner": "ye4wzp",
+        "name": "chrome-bookmark-organizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "majdghithan/agent-skills": {
+        "owner": "majdghithan",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "paulowsousa/spec-first": {
+        "owner": "paulowsousa",
+        "name": "spec-first",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sjh9714/same-frame": {
+        "owner": "sjh9714",
+        "name": "same-frame",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "danielimad/SKILLS": {
+        "owner": "danielimad",
+        "name": "SKILLS",
+        "branch": "main",
+        "enabled": true
+    },
+    "Max-Levitskiy/skills": {
+        "owner": "Max-Levitskiy",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "softwareone-platform/issue-to-pr": {
+        "owner": "softwareone-platform",
+        "name": "issue-to-pr",
+        "branch": "main",
+        "enabled": true
+    },
+    "claudifytech/claude-code-skills-starter": {
+        "owner": "claudifytech",
+        "name": "claude-code-skills-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "koenvdheide/antigravity-skill": {
+        "owner": "koenvdheide",
+        "name": "antigravity-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lutencjusz/listonic-plugin": {
+        "owner": "lutencjusz",
+        "name": "listonic-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

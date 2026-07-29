@@ -13690,5 +13690,113 @@
     "repoOwner": "gr8monk3ys",
     "repoName": "lorenzos-claude-code",
     "repoBranch": "main"
+  },
+  "patchorbit/domscribe": {
+    "name": "patchorbit/domscribe",
+    "description": "Domscribe is a pixel-to-code development tool that bridges the gap between running web applications and their source code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "patchorbit",
+    "repoName": "domscribe",
+    "repoBranch": "main"
+  },
+  "softcane/human-state-skills": {
+    "name": "softcane/human-state-skills",
+    "description": "Small response modes for AI agents when your head is in a different state.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "softcane",
+    "repoName": "human-state-skills",
+    "repoBranch": "main"
+  },
+  "andisab/swe-marketplace": {
+    "name": "andisab/swe-marketplace",
+    "description": "A plugin marketplace focused mostly on software-development with Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andisab",
+    "repoName": "swe-marketplace",
+    "repoBranch": "main"
+  },
+  "brycewang-stanford/many-ppt-skills": {
+    "name": "brycewang-stanford/many-ppt-skills",
+    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 both the HTML and native-PPTX routes, compared on what actually decides the choice rather than on star count. Bilingual, auto-refreshed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brycewang-stanford",
+    "repoName": "many-ppt-skills",
+    "repoBranch": "main"
+  },
+  "protonium-labs/axiomcore-plugin": {
+    "name": "protonium-labs/axiomcore-plugin",
+    "description": "AxiomCore \u2014 a personal project & routine management agent for Claude. Enforced structure, plan\u2192approve\u2192execute discipline, wiki memory, optional voice/brand/todos/dev-planning modules.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "protonium-labs",
+    "repoName": "axiomcore-plugin",
+    "repoBranch": "main"
+  },
+  "mrge-io/skills": {
+    "name": "mrge-io/skills",
+    "description": "mrge-io/skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrge-io",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Max-Levitskiy/skills": {
+    "name": "Max-Levitskiy/skills",
+    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Max-Levitskiy",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Team-MaRo/claude-plugins": {
+    "name": "Team-MaRo/claude-plugins",
+    "description": "Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Team-MaRo",
+    "repoName": "claude-plugins",
+    "repoBranch": "master"
+  },
+  "softwareone-platform/issue-to-pr": {
+    "name": "softwareone-platform/issue-to-pr",
+    "description": "Claude Code plugin marketplace: adversarial review, test authoring, PR lifecycle, and a resumable issue-to-PR pipeline that chains them behind one plan-approval gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "softwareone-platform",
+    "repoName": "issue-to-pr",
+    "repoBranch": "main"
+  },
+  "claudifytech/claude-code-skills-starter": {
+    "name": "claudifytech/claude-code-skills-starter",
+    "description": "Free starter skills for Claude Code: conventional commits, code review, test writing, and README generation, plus a starter CLAUDE.md. From the makers of Claudify.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claudifytech",
+    "repoName": "claude-code-skills-starter",
+    "repoBranch": "main"
+  },
+  "koenvdheide/agent-tools": {
+    "name": "koenvdheide/agent-tools",
+    "description": "Claude Code plugin marketplace for AI output review",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "koenvdheide",
+    "repoName": "agent-tools",
+    "repoBranch": "main"
+  },
+  "lutencjusz/listonic-plugin": {
+    "name": "lutencjusz/listonic-plugin",
+    "description": "lutencjusz/listonic-plugin \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lutencjusz",
+    "repoName": "listonic-plugin",
+    "repoBranch": "main"
   }
 }
