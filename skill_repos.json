@@ -16471,5 +16471,146 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "amElnagdy/delegate-skills": {
+        "owner": "amElnagdy",
+        "name": "delegate-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kenjudy/pdca-agentic-coding-framework": {
+        "owner": "kenjudy",
+        "name": "pdca-agentic-coding-framework",
+        "branch": "main",
+        "enabled": true
+    },
+    "thoughtbot/rails-consultant": {
+        "owner": "thoughtbot",
+        "name": "rails-consultant",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BrennanJCollins/UnabatedPM-coaching": {
+        "owner": "BrennanJCollins",
+        "name": "UnabatedPM-coaching",
+        "branch": "main",
+        "enabled": true
+    },
+    "ozankasikci/sol-skill": {
+        "owner": "ozankasikci",
+        "name": "sol-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Cavalry-Collective/visual-stack": {
+        "owner": "Cavalry-Collective",
+        "name": "visual-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "devkindhq/ideogram-ai-toolkit": {
+        "owner": "devkindhq",
+        "name": "ideogram-ai-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jacob-scheatzle/claude-pwa-portal": {
+        "owner": "jacob-scheatzle",
+        "name": "claude-pwa-portal",
+        "branch": "main",
+        "enabled": true
+    },
+    "rafaelnasch/branding-growai": {
+        "owner": "rafaelnasch",
+        "name": "branding-growai",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "emircbngl/claude-procurement-skill": {
+        "owner": "emircbngl",
+        "name": "claude-procurement-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yuanzhipeng1124-web/construction-plan": {
+        "owner": "yuanzhipeng1124-web",
+        "name": "construction-plan",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "btmoriarty/pherkad": {
+        "owner": "btmoriarty",
+        "name": "pherkad",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jonfazzaro/skills": {
+        "owner": "jonfazzaro",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "iuripereira/deltaspec": {
+        "owner": "iuripereira",
+        "name": "deltaspec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JaceProgramming/naver-seo-expert": {
+        "owner": "JaceProgramming",
+        "name": "naver-seo-expert",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rohit-patil-lifecode/security-analysis": {
+        "owner": "rohit-patil-lifecode",
+        "name": "security-analysis",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "BuildThingsThatBuildthings/content-foundry": {
+        "owner": "BuildThingsThatBuildthings",
+        "name": "content-foundry",
+        "branch": "main",
+        "enabled": true
+    },
+    "1fc0nfig/ste-writing": {
+        "owner": "1fc0nfig",
+        "name": "ste-writing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bakulbadwal/ai-frontier-dispatch": {
+        "owner": "bakulbadwal",
+        "name": "ai-frontier-dispatch",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "parkerfellows/scriptural-exegesis": {
+        "owner": "parkerfellows",
+        "name": "scriptural-exegesis",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "krismakesstuff/deslop": {
+        "owner": "krismakesstuff",
+        "name": "deslop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

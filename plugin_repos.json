@@ -13798,5 +13798,68 @@
     "repoOwner": "lutencjusz",
     "repoName": "listonic-plugin",
     "repoBranch": "main"
+  },
+  "thoughtbot/rails-consultant": {
+    "name": "thoughtbot/rails-consultant",
+    "description": "A collection of skills for Rails development and consulting with an emphasis on learning, communication, and client success.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thoughtbot",
+    "repoName": "rails-consultant",
+    "repoBranch": "main"
+  },
+  "indranilbanerjee/neels-plugins": {
+    "name": "indranilbanerjee/neels-plugins",
+    "description": "Three open-source AI marketing plugins for agencies & in-house teams \u2014 DigitalMarketingPro (158 skills) + ContentForge (21) + SocialForge (16). Cowork team-persistent, EU AI Act Article 50 ready, MIT-licensed, no tele...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "indranilbanerjee",
+    "repoName": "neels-plugins",
+    "repoBranch": "master"
+  },
+  "BrennanJCollins/UnabatedPM-coaching": {
+    "name": "BrennanJCollins/UnabatedPM-coaching",
+    "description": "The first coaching-depth PM skills for AI. 27 skills with scoring rubrics, behavioral markers, real coaching exchanges, and pushback on weak thinking. Built from 500+ PM training and coaching sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BrennanJCollins",
+    "repoName": "UnabatedPM-coaching",
+    "repoBranch": "main"
+  },
+  "Cavalry-Collective/visual-stack": {
+    "name": "Cavalry-Collective/visual-stack",
+    "description": "A modern interface for building software with Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Cavalry-Collective",
+    "repoName": "visual-stack",
+    "repoBranch": "main"
+  },
+  "iuripereira/deltaspec": {
+    "name": "iuripereira/deltaspec",
+    "description": "deltaspec \u2014 Spec-Driven Development por delta specs para Claude Code, com gates determin\u00edsticos",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iuripereira",
+    "repoName": "deltaspec",
+    "repoBranch": "main"
+  },
+  "JaceProgramming/naver-seo-expert": {
+    "name": "JaceProgramming/naver-seo-expert",
+    "description": "\ub124\uc774\ubc84 \uac80\uc0c9(\uc11c\uce58\uc5b4\ub4dc\ubc14\uc774\uc800) SEO \uc804\ubb38\uac00 AI \uc2a4\ud0ac \u2014 \uacf5\uc2dd \uc6f9\ub9c8\uc2a4\ud130 \uac00\uc774\ub4dc 55\uac1c \ubb38\uc11c \uc804\ubb38 + \ubb34\uc758\uc874\uc131 \uc9c4\ub2e8 \uc2a4\ud06c\ub9bd\ud2b8. Naver SEO expert skill for Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JaceProgramming",
+    "repoName": "naver-seo-expert",
+    "repoBranch": "main"
+  },
+  "bakulbadwal/ai-frontier-dispatch": {
+    "name": "bakulbadwal/ai-frontier-dispatch",
+    "description": "AI Frontier Dispatch \u2014 a personalized AI + markets briefing you run yourself. A Claude Code skill: frontier model releases, what builders are shipping, a GitHub scout tuned to you, plus markets, deals and careers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bakulbadwal",
+    "repoName": "ai-frontier-dispatch",
+    "repoBranch": "master"
   }
 }
