@@ -13969,5 +13969,104 @@
     "repoOwner": "XIYO",
     "repoName": "plug-hole",
     "repoBranch": "main"
+  },
+  "mick-gsk/drift": {
+    "name": "mick-gsk/drift",
+    "description": "Claude Code plugin that tells your agent when it is about to build something that already exists. Two-line install, no dependencies, answers in under 100 ms. Also a standalone static analyzer for structural drift.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mick-gsk",
+    "repoName": "drift",
+    "repoBranch": "main"
+  },
+  "display-dev/skill": {
+    "name": "display-dev/skill",
+    "description": "Public agent skill for display.dev \u2014 publish HTML or Markdown behind company auth from your AI assistant. Works across Claude Code, Cursor, Codex, OpenCode, Hermes, Pi, and OpenClaw.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "display-dev",
+    "repoName": "skill",
+    "repoBranch": "main"
+  },
+  "Pyroxin/opinionated-claude-skills": {
+    "name": "Pyroxin/opinionated-claude-skills",
+    "description": "A set of agent skills aimed primarily at Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pyroxin",
+    "repoName": "opinionated-claude-skills",
+    "repoBranch": "main"
+  },
+  "sunchaokun/PPT-Design-Skill": {
+    "name": "sunchaokun/PPT-Design-Skill",
+    "description": "One-liner PPT generation skill for OpenCode/Claude Code/Codex. 40,000+ styles, AI images, fully editable .pptx",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sunchaokun",
+    "repoName": "PPT-Design-Skill",
+    "repoBranch": "main"
+  },
+  "kingkingburger/plugin-mh": {
+    "name": "kingkingburger/plugin-mh",
+    "description": "Claude Code plugin \u2014 18 custom skills for thinking, deciding, and building smarter",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kingkingburger",
+    "repoName": "plugin-mh",
+    "repoBranch": "master"
+  },
+  "ridsync/devoks-team-harness": {
+    "name": "ridsync/devoks-team-harness",
+    "description": "devoks-team-harness plugins for claude code engineering",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ridsync",
+    "repoName": "devoks-team-harness",
+    "repoBranch": "main"
+  },
+  "mickzijdel/dev-hooks": {
+    "name": "mickzijdel/dev-hooks",
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mickzijdel",
+    "repoName": "dev-hooks",
+    "repoBranch": "main"
+  },
+  "myclaude-sh/registry": {
+    "name": "myclaude-sh/registry",
+    "description": "The plugin marketplace registry for myClaude (myclaude.sh) - the only Claude Code marketplace with Stripe Connect payments. Creators keep 92%. 40+ products, 12 categories, daily sync, spec-compliant.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "myclaude-sh",
+    "repoName": "registry",
+    "repoBranch": "main"
+  },
+  "mrcha033/yonsei-skills": {
+    "name": "mrcha033/yonsei-skills",
+    "description": "\ud559\uc0dd \uce5c\ud654\uc801\uc778 \uc5f0\uc138\ub300\ud559\uad50 \uc0dd\ud65c \ub3c4\uad6c\uc6a9 Codex\u00b7Claude Code \ud50c\ub7ec\uadf8\uc778 \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrcha033",
+    "repoName": "yonsei-skills",
+    "repoBranch": "main"
+  },
+  "namit-jpg/presales-agent-skill": {
+    "name": "namit-jpg/presales-agent-skill",
+    "description": "Salesforce presales workflow as a Claude Code plugin \u2014 discovery to scope matrix, sprint plan, and timeline with Excel output",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "namit-jpg",
+    "repoName": "presales-agent-skill",
+    "repoBranch": "main"
+  },
+  "gageracer/svelte5-migration-analyst": {
+    "name": "gageracer/svelte5-migration-analyst",
+    "description": "Claude Code skill that measures what migrating your app to Svelte 5 + SvelteKit would actually buy \u2014 real bundle attribution, real dependency closure, honest projections \u2014 then plans the migration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gageracer",
+    "repoName": "svelte5-migration-analyst",
+    "repoBranch": "main"
   }
 }

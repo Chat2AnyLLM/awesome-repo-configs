@@ -16742,5 +16742,128 @@
         "name": "plug-hole",
         "branch": "main",
         "enabled": true
+    },
+    "mick-gsk/drift": {
+        "owner": "mick-gsk",
+        "name": "drift",
+        "branch": "main",
+        "enabled": true
+    },
+    "display-dev/skill": {
+        "owner": "display-dev",
+        "name": "skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Pyroxin/opinionated-claude-skills": {
+        "owner": "Pyroxin",
+        "name": "opinionated-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "khemratechconsulting/github-actions-setup": {
+        "owner": "khemratechconsulting",
+        "name": "github-actions-setup",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Growth-Today/claude-skills": {
+        "owner": "Growth-Today",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sunchaokun/PPT-Design-Skill": {
+        "owner": "sunchaokun",
+        "name": "PPT-Design-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kingkingburger/plugin-mh": {
+        "owner": "kingkingburger",
+        "name": "plugin-mh",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ridsync/devoks-team-harness": {
+        "owner": "ridsync",
+        "name": "devoks-team-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "xiaodong528/mobilework-expert-manager": {
+        "owner": "xiaodong528",
+        "name": "mobilework-expert-manager",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yanliudesign/linear-style-illustration": {
+        "owner": "yanliudesign",
+        "name": "linear-style-illustration",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wyuee912-ops/sai-poster-studio": {
+        "owner": "wyuee912-ops",
+        "name": "sai-poster-studio",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mickzijdel/dev-hooks": {
+        "owner": "mickzijdel",
+        "name": "dev-hooks",
+        "branch": "main",
+        "enabled": true
+    },
+    "azadmotala/claude-code-team-builder": {
+        "owner": "azadmotala",
+        "name": "claude-code-team-builder",
+        "branch": "master",
+        "enabled": true
+    },
+    "altikva/cgh": {
+        "owner": "altikva",
+        "name": "cgh",
+        "branch": "main",
+        "enabled": true
+    },
+    "mrcha033/yonsei-skills": {
+        "owner": "mrcha033",
+        "name": "yonsei-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "P-Michelle/michelle-cover": {
+        "owner": "P-Michelle",
+        "name": "michelle-cover",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gulmezeren2-byte/andon": {
+        "owner": "gulmezeren2-byte",
+        "name": "andon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "namit-jpg/presales-agent-skill": {
+        "owner": "namit-jpg",
+        "name": "presales-agent-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "gageracer/svelte5-migration-analyst": {
+        "owner": "gageracer",
+        "name": "svelte5-migration-analyst",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

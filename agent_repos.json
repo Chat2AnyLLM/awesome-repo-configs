@@ -2823,5 +2823,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kingkingburger/plugin-mh": {
+    "owner": "kingkingburger",
+    "name": "plugin-mh",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
