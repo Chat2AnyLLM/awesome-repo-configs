@@ -16995,5 +16995,113 @@
         "name": "ai-toolbox",
         "branch": "main",
         "enabled": true
+    },
+    "Cadasto/openehr-assistant-plugin": {
+        "owner": "Cadasto",
+        "name": "openehr-assistant-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dev-Jahn/waystone": {
+        "owner": "Dev-Jahn",
+        "name": "waystone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chrismccoy/forge": {
+        "owner": "chrismccoy",
+        "name": "forge",
+        "branch": "master",
+        "enabled": true
+    },
+    "Mavens-Tech-Lab/skills": {
+        "owner": "Mavens-Tech-Lab",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tatendaz/yapui": {
+        "owner": "Tatendaz",
+        "name": "yapui",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nicolasaigner/angular-material-skill": {
+        "owner": "nicolasaigner",
+        "name": "angular-material-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SashaMarchuk/claude-plugins": {
+        "owner": "SashaMarchuk",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "bhumik154/claim-check": {
+        "owner": "bhumik154",
+        "name": "claim-check",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jamiecooper4-netizen/token-optimiser": {
+        "owner": "jamiecooper4-netizen",
+        "name": "token-optimiser",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sudeepgupta90/extended-andrej-karpathy-skill": {
+        "owner": "sudeepgupta90",
+        "name": "extended-andrej-karpathy-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anton-winter-arch/dotagents": {
+        "owner": "anton-winter-arch",
+        "name": "dotagents",
+        "branch": "develop",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "punkscience/agent-skills": {
+        "owner": "punkscience",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kaixin1seu/retrospective-system": {
+        "owner": "kaixin1seu",
+        "name": "retrospective-system",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "bobbyhyam/agentics": {
+        "owner": "bobbyhyam",
+        "name": "agentics",
+        "branch": "main",
+        "enabled": true
+    },
+    "softwaresoftware-dev/softwaresoftware": {
+        "owner": "softwaresoftware-dev",
+        "name": "softwaresoftware",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sjh9714/red-handed": {
+        "owner": "sjh9714",
+        "name": "red-handed",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

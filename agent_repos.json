@@ -2844,5 +2844,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Cadasto/openehr-assistant-plugin": {
+    "owner": "Cadasto",
+    "name": "openehr-assistant-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "anton-winter-arch/dotagents": {
+    "owner": "anton-winter-arch",
+    "name": "dotagents",
+    "branch": "develop",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

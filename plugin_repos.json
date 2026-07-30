@@ -14149,5 +14149,122 @@
     "repoOwner": "TranDenyDFW",
     "repoName": "claude-code-extension-engineering",
     "repoBranch": "main"
+  },
+  "Cadasto/openehr-assistant-plugin": {
+    "name": "Cadasto/openehr-assistant-plugin",
+    "description": "openEHR assistant AI plugin suite with Skills, commands, and MCP server configuration for clinical workflow integration",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Cadasto",
+    "repoName": "openehr-assistant-plugin",
+    "repoBranch": "main"
+  },
+  "chrismccoy/forge": {
+    "name": "chrismccoy/forge",
+    "description": "My Claude Code Custom Skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chrismccoy",
+    "repoName": "forge",
+    "repoBranch": "master"
+  },
+  "Mavens-Tech-Lab/skills": {
+    "name": "Mavens-Tech-Lab/skills",
+    "description": "Open-source Agent Skills for Claude Code, Cursor & Codex \u2014 production engineering playbooks packaged as a one-command plugin marketplace. Every skill scans your actual codebase before it generates anything. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mavens-Tech-Lab",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Tatendaz/yapui": {
+    "name": "Tatendaz/yapui",
+    "description": "Yap at your UI \u2014 live HTML preview with a two-way feedback loop, as a Claude Code skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tatendaz",
+    "repoName": "yapui",
+    "repoBranch": "main"
+  },
+  "SashaMarchuk/claude-plugins": {
+    "name": "SashaMarchuk/claude-plugins",
+    "description": "Sasha Marchuk's Claude Code plugins \u2014 opinionated tooling for ticket management, automation, and everyday engineering workflows. Marketplace install: /plugin marketplace add SashaMarchuk/claude-plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SashaMarchuk",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "bhumik154/claim-check": {
+    "name": "bhumik154/claim-check",
+    "description": "Verify test-count claims in commit messages against real pytest output, as a pre-commit hook, a Claude Code hook, or a standalone CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bhumik154",
+    "repoName": "claim-check",
+    "repoBranch": "main"
+  },
+  "GusGaiotti/vibecode.fm": {
+    "name": "GusGaiotti/vibecode.fm",
+    "description": "A soundtrack for your coding agent \u2014 music plays while Claude Code works and stops the moment it's your turn. Native, zero-dependency, cross-platform.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GusGaiotti",
+    "repoName": "vibecode.fm",
+    "repoBranch": "main"
+  },
+  "sudeepgupta90/extended-andrej-karpathy-skill": {
+    "name": "sudeepgupta90/extended-andrej-karpathy-skill",
+    "description": "Five behavioral principles for coding agents \u2014 Karpathy's four, extended with Signal Uncertainty. Works in Claude Code, Codex, and Antigravity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sudeepgupta90",
+    "repoName": "extended-andrej-karpathy-skill",
+    "repoBranch": "main"
+  },
+  "kaixin1seu/retrospective-system": {
+    "name": "kaixin1seu/retrospective-system",
+    "description": "\u901a\u7528AI Agent\u590d\u76d8\u7cfb\u7edf\u2014\u2014\u69a8\u5e72\u5bf9\u8bdd\u4ef7\u503c\uff0c\u6c89\u6dc0\u4e3a\u77e5\u8bc6\u8d44\u4ea7\u3002Claude Code /\u590d\u76d8 \u547d\u4ee4 + 6\u9886\u57dfskill + \u5e73\u8861\u951a\u5b9a",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kaixin1seu",
+    "repoName": "retrospective-system",
+    "repoBranch": "main"
+  },
+  "bobbyhyam/agentics": {
+    "name": "bobbyhyam/agentics",
+    "description": "Modular agentics for Claude Code \u2014 skills, subagents, hooks, and CLAUDE.md snippets, each installable individually via the plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bobbyhyam",
+    "repoName": "agentics",
+    "repoBranch": "main"
+  },
+  "softwaresoftware-dev/softwaresoftware": {
+    "name": "softwaresoftware-dev/softwaresoftware",
+    "description": "Plugin dependency resolver for Claude Code \u2014 detects environment, resolves capabilities, auto-selects providers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "softwaresoftware-dev",
+    "repoName": "softwaresoftware",
+    "repoBranch": "main"
+  },
+  "dbhq-uk/marketplace": {
+    "name": "dbhq-uk/marketplace",
+    "description": "DBHQ's Claude Code plugin marketplace - six free, open-source skills for Claude Code and Codex. Add with: /plugin marketplace add dbhq-uk/marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dbhq-uk",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "sjh9714/red-handed": {
+    "name": "sjh9714/red-handed",
+    "description": "Audit what your Claude Code agent actually did against what it said. Reads session logs + git, cites evidence, calls no model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjh9714",
+    "repoName": "red-handed",
+    "repoBranch": "main"
   }
 }
