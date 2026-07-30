@@ -2830,5 +2830,19 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "vmobifystudio/app-dev-team": {
+    "owner": "vmobifystudio",
+    "name": "app-dev-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Jsnnmsc/10000x-engineer": {
+    "owner": "Jsnnmsc",
+    "name": "10000x-engineer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -14068,5 +14068,86 @@
     "repoOwner": "gageracer",
     "repoName": "svelte5-migration-analyst",
     "repoBranch": "main"
+  },
+  "levi-qiao/octopus-skill": {
+    "name": "levi-qiao/octopus-skill",
+    "description": "Long-horizon agent skill for Claude Code / Cursor / Codex / Grok \u2014 multi-task ledger loop (related or not), host-portable (re-send the prompt to continue), clean-context supervisor, verified gates. Markdown library (l...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "levi-qiao",
+    "repoName": "octopus-skill",
+    "repoBranch": "main"
+  },
+  "vmobifystudio/app-dev-team": {
+    "name": "vmobifystudio/app-dev-team",
+    "description": "Autonomous 17-role mobile-app development team for Claude Code \u2014 idea to shipped iOS/Android app, parallel agents, self-reviewing, wired to Axiom/Material3/ASO skills, with a living House Knowledge Base.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vmobifystudio",
+    "repoName": "app-dev-team",
+    "repoBranch": "main"
+  },
+  "rikdc/ai-skills": {
+    "name": "rikdc/ai-skills",
+    "description": "My personal claude plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rikdc",
+    "repoName": "ai-skills",
+    "repoBranch": "main"
+  },
+  "Zaious/journal-atlas": {
+    "name": "Zaious/journal-atlas",
+    "description": "Answers \"where should I submit this paper?\" from cited soft metadata \u2014 reviewer culture, framing requirements, real word limits \u2014 instead of model recall. 399 curated journal entries, a 166,821-journal ISSN spine, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zaious",
+    "repoName": "journal-atlas",
+    "repoBranch": "main"
+  },
+  "Jsnnmsc/10000x-engineer": {
+    "name": "Jsnnmsc/10000x-engineer",
+    "description": "Explain any technical concept to an idiot \u2014 decode errors, scope work, surface risk, and make decisions faster. In your language.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jsnnmsc",
+    "repoName": "10000x-engineer",
+    "repoBranch": "main"
+  },
+  "DATA-AI-XYZ/Tandem": {
+    "name": "DATA-AI-XYZ/Tandem",
+    "description": "Project-management plugin for Claude Code: slash commands drive a governed SDLC pipeline from North Star and OKRs through PRD, epic, feature, story and testplan to a tested ship \u2014 with Definition-of-Ready/Done gates,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DATA-AI-XYZ",
+    "repoName": "Tandem",
+    "repoBranch": "main"
+  },
+  "stereobooster/software-quality-skills": {
+    "name": "stereobooster/software-quality-skills",
+    "description": "Claude Code skills distilled from the Software Quality knowledge base",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stereobooster",
+    "repoName": "software-quality-skills",
+    "repoBranch": "main"
+  },
+  "wavebound-ai/wavebound-skills": {
+    "name": "wavebound-ai/wavebound-skills",
+    "description": "Wavebound's Claude Code skill library \u2014 role-based skill bundles. Ships /tldr and /tldr-extended: plain-English session summaries.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wavebound-ai",
+    "repoName": "wavebound-skills",
+    "repoBranch": "main"
+  },
+  "TranDenyDFW/claude-code-extension-engineering": {
+    "name": "TranDenyDFW/claude-code-extension-engineering",
+    "description": "Claude Code extension engineering: pick the right mechanism, then build it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TranDenyDFW",
+    "repoName": "claude-code-extension-engineering",
+    "repoBranch": "main"
   }
 }

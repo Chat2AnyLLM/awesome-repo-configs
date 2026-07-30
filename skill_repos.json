@@ -16865,5 +16865,135 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "levi-qiao/octopus-skill": {
+        "owner": "levi-qiao",
+        "name": "octopus-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "olgasafonova/SkillCheck-Free": {
+        "owner": "olgasafonova",
+        "name": "SkillCheck-Free",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saidsurucu/dergipark-skill": {
+        "owner": "saidsurucu",
+        "name": "dergipark-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NidheeshJain/itr-prep-skill": {
+        "owner": "NidheeshJain",
+        "name": "itr-prep-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kaizakin/mydots": {
+        "owner": "kaizakin",
+        "name": "mydots",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vmobifystudio/app-dev-team": {
+        "owner": "vmobifystudio",
+        "name": "app-dev-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rikdc/ai-skills": {
+        "owner": "rikdc",
+        "name": "ai-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "0xelitesystem/claude-skills-templates": {
+        "owner": "0xelitesystem",
+        "name": "claude-skills-templates",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KirKruglov/OFFICINA": {
+        "owner": "KirKruglov",
+        "name": "OFFICINA",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Xingzaozhan43-ultimate/pptx-bilingual-translate": {
+        "owner": "Xingzaozhan43-ultimate",
+        "name": "pptx-bilingual-translate",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "klarahermesz/ai-competency-compass": {
+        "owner": "klarahermesz",
+        "name": "ai-competency-compass",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Zaious/journal-atlas": {
+        "owner": "Zaious",
+        "name": "journal-atlas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kiwissenorg-skills/claude-skills": {
+        "owner": "kiwissenorg-skills",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jsnnmsc/10000x-engineer": {
+        "owner": "Jsnnmsc",
+        "name": "10000x-engineer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DATA-AI-XYZ/Tandem": {
+        "owner": "DATA-AI-XYZ",
+        "name": "Tandem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stereobooster/software-quality-skills": {
+        "owner": "stereobooster",
+        "name": "software-quality-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wavebound-ai/wavebound-skills": {
+        "owner": "wavebound-ai",
+        "name": "wavebound-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "TranDenyDFW/claude-code-extension-engineering": {
+        "owner": "TranDenyDFW",
+        "name": "claude-code-extension-engineering",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kvachikk/ai-toolbox": {
+        "owner": "kvachikk",
+        "name": "ai-toolbox",
+        "branch": "main",
+        "enabled": true
     }
 }
