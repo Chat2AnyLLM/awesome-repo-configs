@@ -16612,5 +16612,135 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "worldwonderer/novel-to-game": {
+        "owner": "worldwonderer",
+        "name": "novel-to-game",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nextor2k/hyperfocus": {
+        "owner": "nextor2k",
+        "name": "hyperfocus",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cunhaax/ai-workflow": {
+        "owner": "cunhaax",
+        "name": "ai-workflow",
+        "branch": "master",
+        "enabled": true
+    },
+    "thisAAY/archeyes": {
+        "owner": "thisAAY",
+        "name": "archeyes",
+        "branch": "main",
+        "enabled": true
+    },
+    "sakimyto/roast-my-code": {
+        "owner": "sakimyto",
+        "name": "roast-my-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "conorbronsdon/agent-skill-builder": {
+        "owner": "conorbronsdon",
+        "name": "agent-skill-builder",
+        "branch": "main",
+        "enabled": true
+    },
+    "SELAT-AI/selat-skills": {
+        "owner": "SELAT-AI",
+        "name": "selat-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sumomowynaut/sayu-perspective": {
+        "owner": "sumomowynaut",
+        "name": "sayu-perspective",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ferousco-dev/anti-slop-design": {
+        "owner": "Ferousco-dev",
+        "name": "anti-slop-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sumitake/agent-collab": {
+        "owner": "sumitake",
+        "name": "agent-collab",
+        "branch": "main",
+        "enabled": true
+    },
+    "buildingwithai/pmm-os": {
+        "owner": "buildingwithai",
+        "name": "pmm-os",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xiaowu89/skill-matting": {
+        "owner": "xiaowu89",
+        "name": "skill-matting",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "conorbronsdon/agent-workspace": {
+        "owner": "conorbronsdon",
+        "name": "agent-workspace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KijitoAI/kijito-claude": {
+        "owner": "KijitoAI",
+        "name": "kijito-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "IamOumarIbrahim/skill-issue": {
+        "owner": "IamOumarIbrahim",
+        "name": "skill-issue",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stgomoyaa/firma": {
+        "owner": "stgomoyaa",
+        "name": "firma",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guildshelf/free-skills": {
+        "owner": "guildshelf",
+        "name": "free-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ASTARLab-s/cosquared-marketplace": {
+        "owner": "ASTARLab-s",
+        "name": "cosquared-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "luisfarfan/rein-agentic-kit": {
+        "owner": "luisfarfan",
+        "name": "rein-agentic-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "XIYO/plug-hole": {
+        "owner": "XIYO",
+        "name": "plug-hole",
+        "branch": "main",
+        "enabled": true
     }
 }

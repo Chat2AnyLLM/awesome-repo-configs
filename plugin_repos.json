@@ -13870,5 +13870,104 @@
     "repoOwner": "transon-org",
     "repoName": "transon-authoring-skill",
     "repoBranch": "main"
+  },
+  "worldwonderer/novel-to-game": {
+    "name": "worldwonderer/novel-to-game",
+    "description": "\u5c06\u4efb\u4f55\u5c0f\u8bf4\u84b8\u998f\u4e3a\u53ef\u73a9\u7684\u6e38\u620f \u00b7 Turn any novel/story into a playable game \u2014 a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "worldwonderer",
+    "repoName": "novel-to-game",
+    "repoBranch": "main"
+  },
+  "nextor2k/hyperfocus": {
+    "name": "nextor2k/hyperfocus",
+    "description": "ADHD-friendly output formatting for Claude Code. Restructures responses with evidence-based cognitive accessibility.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nextor2k",
+    "repoName": "hyperfocus",
+    "repoBranch": "main"
+  },
+  "cunhaax/ai-workflow": {
+    "name": "cunhaax/ai-workflow",
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cunhaax",
+    "repoName": "ai-workflow",
+    "repoBranch": "master"
+  },
+  "thisAAY/archeyes": {
+    "name": "thisAAY/archeyes",
+    "description": "Bidirectional plan diagrams for AI coding agents \u2014 the diagram is an input device.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thisAAY",
+    "repoName": "archeyes",
+    "repoBranch": "main"
+  },
+  "Ferousco-dev/anti-slop-design": {
+    "name": "Ferousco-dev/anti-slop-design",
+    "description": "Claude Agent Skill that eliminates generic AI-generated design. Stop your AI shipping the same purple-gradient, Inter-font, three-feature-card website as everyone else.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ferousco-dev",
+    "repoName": "anti-slop-design",
+    "repoBranch": "main"
+  },
+  "sumitake/agent-collab": {
+    "name": "sumitake/agent-collab",
+    "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sumitake",
+    "repoName": "agent-collab",
+    "repoBranch": "main"
+  },
+  "buildingwithai/pmm-os": {
+    "name": "buildingwithai/pmm-os",
+    "description": "Product marketing & GTM in your terminal \u2014 45 skills for positioning, messaging, personas, pricing, battlecards, and launches, plus an interactive launch kit. Claude Code & Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "buildingwithai",
+    "repoName": "pmm-os",
+    "repoBranch": "main"
+  },
+  "guildshelf/free-skills": {
+    "name": "guildshelf/free-skills",
+    "description": "Guildshelf free funnel skills for Claude Code \u2014 Apache-2.0. Try before you subscribe: guildshelf.com",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guildshelf",
+    "repoName": "free-skills",
+    "repoBranch": "main"
+  },
+  "ASTARLab-s/cosquared-marketplace": {
+    "name": "ASTARLab-s/cosquared-marketplace",
+    "description": "13 validated Claude Code plugins \u2014 skills and commands for AI-assisted development, policy-linted and Apache-2.0",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ASTARLab-s",
+    "repoName": "cosquared-marketplace",
+    "repoBranch": "main"
+  },
+  "luisfarfan/rein-agentic-kit": {
+    "name": "luisfarfan/rein-agentic-kit",
+    "description": "Keep your Claude Code agents lean and in control \u2014 bounded agent loops, per-agent model routing, and real per-model token measurement.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "luisfarfan",
+    "repoName": "rein-agentic-kit",
+    "repoBranch": "main"
+  },
+  "XIYO/plug-hole": {
+    "name": "XIYO/plug-hole",
+    "description": "Sherpa: one local-first macOS assistant plugin for Calendar, Reminders, KakaoTalk, and iMessage",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "XIYO",
+    "repoName": "plug-hole",
+    "repoBranch": "main"
   }
 }
