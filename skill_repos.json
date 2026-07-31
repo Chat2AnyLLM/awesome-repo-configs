@@ -17228,5 +17228,132 @@
         "name": "a12-dmtool-releases",
         "branch": "main",
         "enabled": true
+    },
+    "Lupynow/math-modeling-skills": {
+        "owner": "Lupynow",
+        "name": "math-modeling-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AThevon/genjutsu": {
+        "owner": "AThevon",
+        "name": "genjutsu",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TAJD/economist-style-guide-plugin": {
+        "owner": "TAJD",
+        "name": "economist-style-guide-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "datarobot-oss/datarobot-agent-skills": {
+        "owner": "datarobot-oss",
+        "name": "datarobot-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zgbrenner/adhd-and-47-tabs": {
+        "owner": "zgbrenner",
+        "name": "adhd-and-47-tabs",
+        "branch": "main",
+        "enabled": true
+    },
+    "xx-hub/craft-your-textbook": {
+        "owner": "xx-hub",
+        "name": "craft-your-textbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bunhine0452/Ocul-PM": {
+        "owner": "bunhine0452",
+        "name": "Ocul-PM",
+        "branch": "main",
+        "enabled": true
+    },
+    "mehdimicra/renoolab-agent-skills": {
+        "owner": "mehdimicra",
+        "name": "renoolab-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dev-Jahn/hippo": {
+        "owner": "Dev-Jahn",
+        "name": "hippo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "storehand/storehand": {
+        "owner": "storehand",
+        "name": "storehand",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lignertys/reddit-research-skills": {
+        "owner": "lignertys",
+        "name": "reddit-research-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PaperasseAI/demarches-skills": {
+        "owner": "PaperasseAI",
+        "name": "demarches-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vcxcvii/rainmaker": {
+        "owner": "vcxcvii",
+        "name": "rainmaker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/vela-skill": {
+        "owner": "dbhq-uk",
+        "name": "vela-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sean190828/crun-agent-skills": {
+        "owner": "Sean190828",
+        "name": "crun-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bamboo-DCM/library": {
+        "owner": "bamboo-DCM",
+        "name": "library",
+        "branch": "main",
+        "enabled": true
+    },
+    "OpenCnid/claude-code-skill-creator": {
+        "owner": "OpenCnid",
+        "name": "claude-code-skill-creator",
+        "branch": "main",
+        "enabled": true
+    },
+    "Korea-DongheeHan/graph-builder": {
+        "owner": "Korea-DongheeHan",
+        "name": "graph-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "moorage/fullwell": {
+        "owner": "moorage",
+        "name": "fullwell",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -2865,5 +2865,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "OpenCnid/claude-code-skill-creator": {
+    "owner": "OpenCnid",
+    "name": "claude-code-skill-creator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

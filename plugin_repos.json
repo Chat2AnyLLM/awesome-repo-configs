@@ -14365,5 +14365,104 @@
     "repoOwner": "mbackschat",
     "repoName": "a12-dmtool-releases",
     "repoBranch": "main"
+  },
+  "AThevon/genjutsu": {
+    "name": "AThevon/genjutsu",
+    "description": "Creative coding skills for Claude: animations, 3D, design systems, motion principles",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AThevon",
+    "repoName": "genjutsu",
+    "repoBranch": "main"
+  },
+  "TAJD/economist-style-guide-plugin": {
+    "name": "TAJD/economist-style-guide-plugin",
+    "description": "Claude Code plugin that applies The Economist style guide - clarity, precision, brevity. Unofficial.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TAJD",
+    "repoName": "economist-style-guide-plugin",
+    "repoBranch": "main"
+  },
+  "datarobot-oss/datarobot-agent-skills": {
+    "name": "datarobot-oss/datarobot-agent-skills",
+    "description": "Bring DataRobot platform capabilities to your coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "datarobot-oss",
+    "repoName": "datarobot-agent-skills",
+    "repoBranch": "main"
+  },
+  "xx-hub/craft-your-textbook": {
+    "name": "xx-hub/craft-your-textbook",
+    "description": "\u672c\u9879\u76ee\u662f Socratopia\uff08\u7834\u5377\uff09\u751f\u6001\u7684\u884d\u751f\u9879\u76ee\uff0c\u662f\u5176\"\u9020\u4e66\"\u73af\u8282\u7684\u65b9\u6cd5\u8bba\u6c89\u6dc0\uff0c\u5df2\u56fa\u5316\u4e3a\u4e00\u4e2a\u53ef\u590d\u7528\u7684 skill\u3002 \u8ba9\u4f60\u5177\u5907\u4eb2\u624b\u4e3a\u81ea\u5df1\u9020\u4e00\u672c\u6559\u6750\u7684\u80fd\u529b\u2014\u2014\u628a\u4e00\u672c\u6559\u6750\uff08\u6216\u4e00\u4e2a\u9886\u57df\u7684\u77e5\u8bc6\uff09\u52a0\u5de5\u6210 AI \u8001\u5e08\u80fd\u62ff\u53bb\u4e0a\u8bfe\u7684\u6559\u5b66\u84dd\u672c\u3002\u6709\u6559\u5e08\u7528\u4e66\u65f6\uff0c\u9020\u51fa\u6765\u7684\u4e66\u8fd8\u80fd\u76f4\u63a5\u9488\u5bf9\u5e94\u8bd5\uff08\u89c1\u7b2c\u56db\u8282\uff09\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xx-hub",
+    "repoName": "craft-your-textbook",
+    "repoBranch": "main"
+  },
+  "bunhine0452/Ocul-PM": {
+    "name": "bunhine0452/Ocul-PM",
+    "description": "Local-first AI project manager (AI PM) for AI coding agents \u2014 auto-journals, verifies & organizes what Claude Code \u00b7 Cursor \u00b7 Gemini CLI do. \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uc6a9 \ub85c\uceec-\uc6b0\uc120 AI PM \u00b7 \uc791\uc5c5 \uc790\ub3d9 \uae30\ub85d\u00b7\uac80\uc99d\u00b7\uc815\ub9ac.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bunhine0452",
+    "repoName": "Ocul-PM",
+    "repoBranch": "main"
+  },
+  "mehdimicra/renoolab-agent-skills": {
+    "name": "mehdimicra/renoolab-agent-skills",
+    "description": "Agent Skills RenooLab : 10 workflows et 29 intentions pour r\u00e9novation, artisans et entreprises BTP, reli\u00e9s au MCP RenooLab.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mehdimicra",
+    "repoName": "renoolab-agent-skills",
+    "repoBranch": "main"
+  },
+  "Dev-Jahn/hippo": {
+    "name": "Dev-Jahn/hippo",
+    "description": "Dev-Jahn/hippo \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dev-Jahn",
+    "repoName": "hippo",
+    "repoBranch": "main"
+  },
+  "storehand/storehand": {
+    "name": "storehand/storehand",
+    "description": "Claude skills for Shopify \u2014 open-source Claude Code plugin that turns Claude into your daily store operator: morning briefings, store health checks, product copy and SEO audits. Read-only by default.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "storehand",
+    "repoName": "storehand",
+    "repoBranch": "main"
+  },
+  "lignertys/reddit-research-skills": {
+    "name": "lignertys/reddit-research-skills",
+    "description": "Reddit research skills for Claude Code and AI agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lignertys",
+    "repoName": "reddit-research-skills",
+    "repoBranch": "main"
+  },
+  "Korea-DongheeHan/graph-builder": {
+    "name": "Korea-DongheeHan/graph-builder",
+    "description": "Claude Code plugin that builds deterministic multi-agent dev pipelines \u2014 define the graph in YAML, scaffold agents into your repo, run with spec gates, feedback loops, and resume.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Korea-DongheeHan",
+    "repoName": "graph-builder",
+    "repoBranch": "main"
+  },
+  "moorage/fullwell": {
+    "name": "moorage/fullwell",
+    "description": "The snack, grocery, delivery, meal planning plugin / skill / tool / agent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moorage",
+    "repoName": "fullwell",
+    "repoBranch": "main"
   }
 }
