@@ -14545,5 +14545,86 @@
     "repoOwner": "blueclover22",
     "repoName": "mw_agent_kit",
     "repoBranch": "main"
+  },
+  "0xwilliamortiz/ratchet": {
+    "name": "0xwilliamortiz/ratchet",
+    "description": "Your agent reads the rules. This checks whether it followed them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0xwilliamortiz",
+    "repoName": "ratchet",
+    "repoBranch": "main"
+  },
+  "chitransh-cj/kimchi": {
+    "name": "chitransh-cj/kimchi",
+    "description": "\ud83c\udf36\ufe0f A product-thinking layer for vibe coders \u2014 grills a raw idea into build-ready docs through 11 expert personas. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chitransh-cj",
+    "repoName": "kimchi",
+    "repoBranch": "main"
+  },
+  "trevhud/rote": {
+    "name": "trevhud/rote",
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trevhud",
+    "repoName": "rote",
+    "repoBranch": "main"
+  },
+  "Dev-Jahn/hippocampus": {
+    "name": "Dev-Jahn/hippocampus",
+    "description": "Dev-Jahn/hippocampus \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dev-Jahn",
+    "repoName": "hippocampus",
+    "repoBranch": "main"
+  },
+  "stanmaygo/dotsweep": {
+    "name": "stanmaygo/dotsweep",
+    "description": "Check domain name availability across 1,200+ TLDs from an AI agent \u2014 with renewal price, minimum term and eligibility. Never reports an unreachable registry as available. Agent skill + MCP server, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stanmaygo",
+    "repoName": "dotsweep",
+    "repoBranch": "main"
+  },
+  "jleonceo/skill-adherencia-reglas": {
+    "name": "jleonceo/skill-adherencia-reglas",
+    "description": "Skill instalable para Claude Code que mide si tu agente cumple las reglas establecidas. Lee el historial de sesiones de tu disco y devuelve un porcentaje por regla de cumplimiento. Sin instalar nada, sin red, bibliote...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jleonceo",
+    "repoName": "skill-adherencia-reglas",
+    "repoBranch": "main"
+  },
+  "jleonceo/skill-detector-control-negativo": {
+    "name": "jleonceo/skill-detector-control-negativo",
+    "description": "Skill de Claude Code que audita si tus pruebas sabr\u00edan ponerse rojas. Instalable como plugin desde el marketplace. La misma herramienta que el repositorio hermano, empaquetada para que la use tu asistente.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jleonceo",
+    "repoName": "skill-detector-control-negativo",
+    "repoBranch": "main"
+  },
+  "mnox/mnox-ai": {
+    "name": "mnox/mnox-ai",
+    "description": "AI utils & skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mnox",
+    "repoName": "mnox-ai",
+    "repoBranch": "main"
+  },
+  "edusouza/edusouza-plugins": {
+    "name": "edusouza/edusouza-plugins",
+    "description": "A personal Claude Code plugin marketplace \u2014 cross-session memory, TDD delivery workflows, GitHub issue ops, context docs, design-to-UI, and an LLM wiki.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "edusouza",
+    "repoName": "edusouza-plugins",
+    "repoBranch": "main"
   }
 }

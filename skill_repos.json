@@ -17483,5 +17483,143 @@
         "name": "orquestacion-enjambres-ia",
         "branch": "main",
         "enabled": true
+    },
+    "0xwilliamortiz/ratchet": {
+        "owner": "0xwilliamortiz",
+        "name": "ratchet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chitransh-cj/kimchi": {
+        "owner": "chitransh-cj",
+        "name": "kimchi",
+        "branch": "main",
+        "enabled": true
+    },
+    "chrzamz/ui-styles-skill": {
+        "owner": "chrzamz",
+        "name": "ui-styles-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ai-hub-open/yandex-direct-manager": {
+        "owner": "ai-hub-open",
+        "name": "yandex-direct-manager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "trevhud/rote": {
+        "owner": "trevhud",
+        "name": "rote",
+        "branch": "main",
+        "enabled": true
+    },
+    "netopsengineer/agent-skill-description-optimizer": {
+        "owner": "netopsengineer",
+        "name": "agent-skill-description-optimizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "Dev-Jahn/hippocampus": {
+        "owner": "Dev-Jahn",
+        "name": "hippocampus",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stanmaygo/dotsweep": {
+        "owner": "stanmaygo",
+        "name": "dotsweep",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vinsonconsulting/califa-cards": {
+        "owner": "vinsonconsulting",
+        "name": "califa-cards",
+        "branch": "main",
+        "enabled": true
+    },
+    "Neofirst0715/french-sentence-breakdown": {
+        "owner": "Neofirst0715",
+        "name": "french-sentence-breakdown",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jleonceo/skill-adherencia-reglas": {
+        "owner": "jleonceo",
+        "name": "skill-adherencia-reglas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "replynodes/awesome-social-media-skills": {
+        "owner": "replynodes",
+        "name": "awesome-social-media-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "punitsnaik/Bouncer": {
+        "owner": "punitsnaik",
+        "name": "Bouncer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jimmynotjames/simple-recurring-budgets": {
+        "owner": "jimmynotjames",
+        "name": "simple-recurring-budgets",
+        "branch": "main",
+        "enabled": true
+    },
+    "jleonceo/skill-detector-control-negativo": {
+        "owner": "jleonceo",
+        "name": "skill-detector-control-negativo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thinkyou0714/github-flow-kit": {
+        "owner": "thinkyou0714",
+        "name": "github-flow-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kromatic-Innovation/kromatic-dev-stack": {
+        "owner": "Kromatic-Innovation",
+        "name": "kromatic-dev-stack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mnox/mnox-ai": {
+        "owner": "mnox",
+        "name": "mnox-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "maxbuildog/skills": {
+        "owner": "maxbuildog",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xhqing/CapabilityManagerAgent": {
+        "owner": "xhqing",
+        "name": "CapabilityManagerAgent",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "edusouza/edusouza-plugins": {
+        "owner": "edusouza",
+        "name": "edusouza-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

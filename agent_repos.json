@@ -2886,5 +2886,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jimmynotjames/simple-recurring-budgets": {
+    "owner": "jimmynotjames",
+    "name": "simple-recurring-budgets",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
