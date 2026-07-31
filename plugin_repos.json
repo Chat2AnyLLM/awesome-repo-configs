@@ -14464,5 +14464,86 @@
     "repoOwner": "moorage",
     "repoName": "fullwell",
     "repoBranch": "main"
+  },
+  "motherduckdb/agent-skills": {
+    "name": "motherduckdb/agent-skills",
+    "description": "Opinionated AI agent skills for building applications with MotherDuck",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "motherduckdb",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "skill-federation/skill-federation": {
+    "name": "skill-federation/skill-federation",
+    "description": "Free, private skill search for AI agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skill-federation",
+    "repoName": "skill-federation",
+    "repoBranch": "main"
+  },
+  "ananthanandanan/skills": {
+    "name": "ananthanandanan/skills",
+    "description": "Skills I use for my agentic engineering workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ananthanandanan",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "MustaphaSteph/vorec-plugins": {
+    "name": "MustaphaSteph/vorec-plugins",
+    "description": "Claude Code plugin for screen recording with AI narration. Record tutorials, product demos, and walkthroughs from any codebase. AI voice-over, zoom effects, subtitles, 4K export.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MustaphaSteph",
+    "repoName": "vorec-plugins",
+    "repoBranch": "main"
+  },
+  "oyusypenko/creo": {
+    "name": "oyusypenko/creo",
+    "description": "AI-powered design review, UX analysis, SEO audit, content generation, DevOps & testing toolkit for Claude Code. 12 skills, 12 parallel subagents. One-liner install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oyusypenko",
+    "repoName": "creo",
+    "repoBranch": "main"
+  },
+  "RoninForge/claude-code-cost": {
+    "name": "RoninForge/claude-code-cost",
+    "description": "See your Claude Code spend per project and git branch, computed locally from the logs Claude Code already writes. Never touches API traffic; zero key, zero prompts, zero latency. roninforge.org/claude-code-cost",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RoninForge",
+    "repoName": "claude-code-cost",
+    "repoBranch": "main"
+  },
+  "seokhoonj/opendart-client": {
+    "name": "seokhoonj/opendart-client",
+    "description": "Read Korean company filings, profiles, and financials from OpenDART (\uc804\uc790\uacf5\uc2dc).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokhoonj",
+    "repoName": "opendart-client",
+    "repoBranch": "main"
+  },
+  "mustafahasanain/frappe-workflow": {
+    "name": "mustafahasanain/frappe-workflow",
+    "description": "Claude Code plugin for Frappe/ERPNext: orchestrate tasks from planning through deployment without losing context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mustafahasanain",
+    "repoName": "frappe-workflow",
+    "repoBranch": "main"
+  },
+  "blueclover22/mw_agent_kit": {
+    "name": "blueclover22/mw_agent_kit",
+    "description": "Development plugin kit used in Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blueclover22",
+    "repoName": "mw_agent_kit",
+    "repoBranch": "main"
   }
 }

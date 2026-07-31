@@ -2872,5 +2872,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "oyusypenko/creo": {
+    "owner": "oyusypenko",
+    "name": "creo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "blueclover22/mw_agent_kit": {
+    "owner": "blueclover22",
+    "name": "mw_agent_kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

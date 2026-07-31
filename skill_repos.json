@@ -17355,5 +17355,133 @@
         "name": "fullwell",
         "branch": "main",
         "enabled": true
+    },
+    "motherduckdb/agent-skills": {
+        "owner": "motherduckdb",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "skill-federation/skill-federation": {
+        "owner": "skill-federation",
+        "name": "skill-federation",
+        "branch": "main",
+        "enabled": true
+    },
+    "ananthanandanan/skills": {
+        "owner": "ananthanandanan",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MustaphaSteph/vorec-plugins": {
+        "owner": "MustaphaSteph",
+        "name": "vorec-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oyusypenko/creo": {
+        "owner": "oyusypenko",
+        "name": "creo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jleonceo/adherencia-reglas": {
+        "owner": "jleonceo",
+        "name": "adherencia-reglas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tishnik/stop-slop-ru": {
+        "owner": "tishnik",
+        "name": "stop-slop-ru",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rodar-dzn/translation-style-match": {
+        "owner": "rodar-dzn",
+        "name": "translation-style-match",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alboechat/appsec-vulnerability-auditor": {
+        "owner": "alboechat",
+        "name": "appsec-vulnerability-auditor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ferr079/humanizer-fr": {
+        "owner": "ferr079",
+        "name": "humanizer-fr",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "seokhoonj/opendart-client": {
+        "owner": "seokhoonj",
+        "name": "opendart-client",
+        "branch": "main",
+        "enabled": true
+    },
+    "thiagoferal-ia/thiago-feral-skills": {
+        "owner": "thiagoferal-ia",
+        "name": "thiago-feral-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mustafahasanain/frappe-workflow": {
+        "owner": "mustafahasanain",
+        "name": "frappe-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite": {
+        "owner": "samikshapattanaik-cmyk",
+        "name": "ga4-analytics-data-quality-suite",
+        "branch": "main",
+        "enabled": true
+    },
+    "ilia-pluzhnikov/book-distill": {
+        "owner": "ilia-pluzhnikov",
+        "name": "book-distill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bhaor/toolcheck": {
+        "owner": "bhaor",
+        "name": "toolcheck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blueclover22/mw_agent_kit": {
+        "owner": "blueclover22",
+        "name": "mw_agent_kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jleonceo/audience-analyst-swarm": {
+        "owner": "jleonceo",
+        "name": "audience-analyst-swarm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jleonceo/orquestacion-enjambres-ia": {
+        "owner": "jleonceo",
+        "name": "orquestacion-enjambres-ia",
+        "branch": "main",
+        "enabled": true
     }
 }
