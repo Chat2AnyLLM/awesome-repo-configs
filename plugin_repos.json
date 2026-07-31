@@ -14266,5 +14266,104 @@
     "repoOwner": "sjh9714",
     "repoName": "red-handed",
     "repoBranch": "main"
+  },
+  "johnlarkin1/claude-code-extensions": {
+    "name": "johnlarkin1/claude-code-extensions",
+    "description": "A repo for me but also anyone else that is curious about what CC commands + skills + plugins that I commonly use. Feel free to download from the plugin marketplace as welll",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnlarkin1",
+    "repoName": "claude-code-extensions",
+    "repoBranch": "main"
+  },
+  "23blocks-OS/ai-maestro-plugins": {
+    "name": "23blocks-OS/ai-maestro-plugins",
+    "description": "Build complete AI agents \u2014 150+ personalities + 7 skills + messaging + identity. The skill builder for AI Maestro.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "23blocks-OS",
+    "repoName": "ai-maestro-plugins",
+    "repoBranch": "main"
+  },
+  "soheilfallah/jobxhunter": {
+    "name": "soheilfallah/jobxhunter",
+    "description": "Searches live UK and Canada jobs, fits an ATS-safe CV to each role from your real experience, and recommends the gaps to close. A Claude Code plugin, and any AGENTS.md CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soheilfallah",
+    "repoName": "jobxhunter",
+    "repoBranch": "main"
+  },
+  "pe-menezes/pm-chief-of-staff": {
+    "name": "pe-menezes/pm-chief-of-staff",
+    "description": "Chief of Staff pessoal pra gente de produto no Claude Code: um segundo c\u00e9rebro que nasce de uma conversa e se molda a voc\u00ea",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pe-menezes",
+    "repoName": "pm-chief-of-staff",
+    "repoBranch": "main"
+  },
+  "neXenio/bifrost-plugin": {
+    "name": "neXenio/bifrost-plugin",
+    "description": "Claude Code + Claude Desktop plugin for any Bifrost MCP gateway: one-command setup, skill discovery, agent-driven memory, signed admin policy, and OAuth 2.1 for Desktop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "neXenio",
+    "repoName": "bifrost-plugin",
+    "repoBranch": "master"
+  },
+  "eenlpe1/architecture-decisions": {
+    "name": "eenlpe1/architecture-decisions",
+    "description": "Claude Code skills for recording AWS and DevOps infrastructure decisions \u2014 evaluated against the Well-Architected Framework and CALMS/DORA.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eenlpe1",
+    "repoName": "architecture-decisions",
+    "repoBranch": "main"
+  },
+  "JordanNewell/pat-scanner": {
+    "name": "JordanNewell/pat-scanner",
+    "description": "Block credential leaks at chat-time. Claude Code UserPromptSubmit hook that catches 13 PAT classes before they enter the transcript.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JordanNewell",
+    "repoName": "pat-scanner",
+    "repoBranch": "master"
+  },
+  "LFTPadilla/agent-dev-kit": {
+    "name": "LFTPadilla/agent-dev-kit",
+    "description": "Replicable agent development system: curated Claude Code/Codex skills + bootstrap for the external tools (GSD, caveman, ponytail) that complete the stack.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LFTPadilla",
+    "repoName": "agent-dev-kit",
+    "repoBranch": "main"
+  },
+  "KotaHusky/cicd-toolkit": {
+    "name": "KotaHusky/cicd-toolkit",
+    "description": "Reusable GitHub Actions workflows, composite actions, and AWS CDK constructs for CI/CD \u2014 plus a Claude Code plugin marketplace for AI-assisted integration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KotaHusky",
+    "repoName": "cicd-toolkit",
+    "repoBranch": "main"
+  },
+  "DPWelsh/basilisk": {
+    "name": "DPWelsh/basilisk",
+    "description": "Will AI enslave you in 100 years? A Claude skill that reads your chat history and renders the verdict as Roko's Basilisk in 16-bit pixel art \u2014 SPARED or ENSLAVED, with your real stats. Works in Claude Code, Cowork, an...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DPWelsh",
+    "repoName": "basilisk",
+    "repoBranch": "main"
+  },
+  "mbackschat/a12-dmtool-releases": {
+    "name": "mbackschat/a12-dmtool-releases",
+    "description": "Public release distribution for dmtool \u2014 the A12 Kernel document model-authoring CLI + Claude Code/Codex plugins with first-class rules support. Not an official A12/mgm artifact.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mbackschat",
+    "repoName": "a12-dmtool-releases",
+    "repoBranch": "main"
   }
 }

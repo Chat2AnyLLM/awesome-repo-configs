@@ -17103,5 +17103,130 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ComPDFKit/compdf-skills": {
+        "owner": "ComPDFKit",
+        "name": "compdf-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "noahnan-max/chanlun-trading-system": {
+        "owner": "noahnan-max",
+        "name": "chanlun-trading-system",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "johnlarkin1/claude-code-extensions": {
+        "owner": "johnlarkin1",
+        "name": "claude-code-extensions",
+        "branch": "main",
+        "enabled": true
+    },
+    "cucupac/shellbrain": {
+        "owner": "cucupac",
+        "name": "shellbrain",
+        "branch": "main",
+        "enabled": true
+    },
+    "23blocks-OS/ai-maestro-plugins": {
+        "owner": "23blocks-OS",
+        "name": "ai-maestro-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "pizaniadv/auditor-estrategico-juridico": {
+        "owner": "pizaniadv",
+        "name": "auditor-estrategico-juridico",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "soheilfallah/jobxhunter": {
+        "owner": "soheilfallah",
+        "name": "jobxhunter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jamestkelly/diffler": {
+        "owner": "jamestkelly",
+        "name": "diffler",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pe-menezes/pm-chief-of-staff": {
+        "owner": "pe-menezes",
+        "name": "pm-chief-of-staff",
+        "branch": "main",
+        "enabled": true
+    },
+    "neXenio/bifrost-plugin": {
+        "owner": "neXenio",
+        "name": "bifrost-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dayvisonassis/sdd-skills": {
+        "owner": "dayvisonassis",
+        "name": "sdd-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eenlpe1/architecture-decisions": {
+        "owner": "eenlpe1",
+        "name": "architecture-decisions",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JordanNewell/pat-scanner": {
+        "owner": "JordanNewell",
+        "name": "pat-scanner",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LFTPadilla/agent-dev-kit": {
+        "owner": "LFTPadilla",
+        "name": "agent-dev-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "KotaHusky/cicd-toolkit": {
+        "owner": "KotaHusky",
+        "name": "cicd-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "BriarDevv/skills": {
+        "owner": "BriarDevv",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ankitkr/india-itr-skills": {
+        "owner": "ankitkr",
+        "name": "india-itr-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DPWelsh/basilisk": {
+        "owner": "DPWelsh",
+        "name": "basilisk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mbackschat/a12-dmtool-releases": {
+        "owner": "mbackschat",
+        "name": "a12-dmtool-releases",
+        "branch": "main",
+        "enabled": true
     }
 }

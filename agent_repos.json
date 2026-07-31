@@ -2858,5 +2858,12 @@
     "branch": "develop",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "soheilfallah/jobxhunter": {
+    "owner": "soheilfallah",
+    "name": "jobxhunter",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
