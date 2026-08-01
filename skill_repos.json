@@ -17621,5 +17621,100 @@
         "name": "edusouza-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "sxhmilyoyo/sundayhao-plugins": {
+        "owner": "sxhmilyoyo",
+        "name": "sundayhao-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "huiyonghkw/hekouwang-claude-skill-doctor-skill": {
+        "owner": "huiyonghkw",
+        "name": "hekouwang-claude-skill-doctor-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "upbound/skills": {
+        "owner": "upbound",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rare/slidesfly-integrations": {
+        "owner": "rare",
+        "name": "slidesfly-integrations",
+        "branch": "main",
+        "enabled": true
+    },
+    "popovych-co/witness": {
+        "owner": "popovych-co",
+        "name": "witness",
+        "branch": "main",
+        "enabled": true
+    },
+    "cskwork/superadvisor": {
+        "owner": "cskwork",
+        "name": "superadvisor",
+        "branch": "main",
+        "enabled": true
+    },
+    "evillollive/Analyze-Video-Skill": {
+        "owner": "evillollive",
+        "name": "Analyze-Video-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hannsxpeter/codedna": {
+        "owner": "hannsxpeter",
+        "name": "codedna",
+        "branch": "main",
+        "enabled": true
+    },
+    "harleensahni/copy-to-clipboard-plugin": {
+        "owner": "harleensahni",
+        "name": "copy-to-clipboard-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fernandox2/portafolio-docente-chile": {
+        "owner": "fernandox2",
+        "name": "portafolio-docente-chile",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rvanbaalen/skills": {
+        "owner": "rvanbaalen",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "produtoramaxvision/maxvision-utilities": {
+        "owner": "produtoramaxvision",
+        "name": "maxvision-utilities",
+        "branch": "main",
+        "enabled": true
+    },
+    "hjdealba96/claude-code-skills": {
+        "owner": "hjdealba96",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ostin-pil/claude-plugins": {
+        "owner": "ostin-pil",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "propersloth/parallax-threejs": {
+        "owner": "propersloth",
+        "name": "parallax-threejs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

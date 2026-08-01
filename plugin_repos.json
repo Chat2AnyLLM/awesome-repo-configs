@@ -14626,5 +14626,131 @@
     "repoOwner": "edusouza",
     "repoName": "edusouza-plugins",
     "repoBranch": "main"
+  },
+  "sxhmilyoyo/sundayhao-plugins": {
+    "name": "sxhmilyoyo/sundayhao-plugins",
+    "description": "\ud83e\udde0 Claude Code plugin marketplace featuring Second Brain - an agentic workflow system with persistent memory and tribal knowledge. Transform Claude from goldfish to elephant with cross-session learning.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sxhmilyoyo",
+    "repoName": "sundayhao-plugins",
+    "repoBranch": "main"
+  },
+  "upbound/skills": {
+    "name": "upbound/skills",
+    "description": "Agent Skills for the Upbound Platform \u2014 Kubernetes control plane fleets, starting with Claude Code. So your agent gets fleet state right instead of confidently wrong.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "upbound",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "rare/slidesfly-integrations": {
+    "name": "rare/slidesfly-integrations",
+    "description": "Slidesfly turns AI-generated HTML slide decks into shareable URLs with one command\u2014no sign-up required. Integrations for GitHub Actions, MCP, Gemini CLI, Marp, Reveal.js, and Slidev.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rare",
+    "repoName": "slidesfly-integrations",
+    "repoBranch": "main"
+  },
+  "smarchetti/agent-sidecar": {
+    "name": "smarchetti/agent-sidecar",
+    "description": "A visual canvas for coding agents \u2014 your agent shows interactive HTML in your browser, your clicks flow back into the conversation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smarchetti",
+    "repoName": "agent-sidecar",
+    "repoBranch": "main"
+  },
+  "popovych-co/witness": {
+    "name": "popovych-co/witness",
+    "description": "Spec-driven development for AI coding agents, where nothing advances without evidence. Brainstorm to PR through six stages and five evidence-gated transitions. Drives from Claude Code or Pi.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "popovych-co",
+    "repoName": "witness",
+    "repoBranch": "main"
+  },
+  "cskwork/superadvisor": {
+    "name": "cskwork/superadvisor",
+    "description": "Router skill: one front door that dispatches each request to the right super* skill, persona, or gstack workflow, and loads only that.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cskwork",
+    "repoName": "superadvisor",
+    "repoBranch": "main"
+  },
+  "evillollive/Analyze-Video-Skill": {
+    "name": "evillollive/Analyze-Video-Skill",
+    "description": "Paste a video link and get a timestamped Word report with screenshots.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "evillollive",
+    "repoName": "Analyze-Video-Skill",
+    "repoBranch": "main"
+  },
+  "harleensahni/copy-to-clipboard-plugin": {
+    "name": "harleensahni/copy-to-clipboard-plugin",
+    "description": "Claude Code plugin: copy queries, shell commands and config snippets from Claude's responses to your clipboard \u2014 macOS, Linux, Windows, and over SSH",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "harleensahni",
+    "repoName": "copy-to-clipboard-plugin",
+    "repoBranch": "main"
+  },
+  "fernandox2/portafolio-docente-chile": {
+    "name": "fernandox2/portafolio-docente-chile",
+    "description": "Skills de Claude para docentes de Chile que elaboran su Portafolio de la Evaluaci\u00f3n Docente (Docentem\u00e1s/CPEIP). Entrevista, audita contra las 233 r\u00fabricas oficiales de las 11 agrupaciones y previene descalificadores....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fernandox2",
+    "repoName": "portafolio-docente-chile",
+    "repoBranch": "main"
+  },
+  "rvanbaalen/skills": {
+    "name": "rvanbaalen/skills",
+    "description": "Public Claude Code skills marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rvanbaalen",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "produtoramaxvision/maxvision-utilities": {
+    "name": "produtoramaxvision/maxvision-utilities",
+    "description": "MaxVision's curated Claude Code marketplace \u2014 production-grade skills for n8n workflows, Google Tag Manager API, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "produtoramaxvision",
+    "repoName": "maxvision-utilities",
+    "repoBranch": "main"
+  },
+  "hjdealba96/claude-code-skills": {
+    "name": "hjdealba96/claude-code-skills",
+    "description": "Personal Claude Code plugin marketplace \u2014 opinionated git workflow skills (commit, branch, PR) that adapt to each project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hjdealba96",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
+  },
+  "ostin-pil/claude-plugins": {
+    "name": "ostin-pil/claude-plugins",
+    "description": "Claude Code plugin marketplace (monorepo): lifecycle-kit, prose-mint, knowledge-kit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ostin-pil",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "propersloth/parallax-threejs": {
+    "name": "propersloth/parallax-threejs",
+    "description": "Claude Code plugin for debugging three.js/GLSL scenes \u2014 correlates scene graph, console, GL state, and pixels into one diagnostic loop, plus a SHA-indexed visual regression suite.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "propersloth",
+    "repoName": "parallax-threejs",
+    "repoBranch": "main"
   }
 }
