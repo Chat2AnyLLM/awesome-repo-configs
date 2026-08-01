@@ -14815,5 +14815,95 @@
     "repoOwner": "z29k",
     "repoName": "notabene",
     "repoBranch": "main"
+  },
+  "MostAshraf/ai-sdlc-harness": {
+    "name": "MostAshraf/ai-sdlc-harness",
+    "description": "AI-driven SDLC harness for Claude Code \u2014 multi-agent TDD workflow (plan \u2192 tests \u2192 code \u2192 review \u2192 PR) with Azure DevOps, Jira, GitHub, GitLab, Zoho, and local-markdown providers. Language-agnostic, discovery-driven.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MostAshraf",
+    "repoName": "ai-sdlc-harness",
+    "repoBranch": "main"
+  },
+  "chan4lk/specclaw": {
+    "name": "chan4lk/specclaw",
+    "description": "\ud83e\udd9e Spec-driven development framework for claude code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chan4lk",
+    "repoName": "specclaw",
+    "repoBranch": "main"
+  },
+  "AqueGen/model-routing": {
+    "name": "AqueGen/model-routing",
+    "description": "AqueGen/model-routing \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AqueGen",
+    "repoName": "model-routing",
+    "repoBranch": "main"
+  },
+  "phazurlabs/install-labs": {
+    "name": "phazurlabs/install-labs",
+    "description": "Turn your AI agents and automations into installable plugins and packages. Claude Code plugin \u2014 12 skills, 10 commands, 17 frameworks, 10 distribution targets. Academic foundations in cognitive science and software en...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phazurlabs",
+    "repoName": "install-labs",
+    "repoBranch": "main"
+  },
+  "alegauss/roadkeep": {
+    "name": "alegauss/roadkeep",
+    "description": "Keeps a project's roadmap, changelog, improvements and strategy files to one format - a schema at the point of insertion, not a linter after the fact. Python CLI + Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alegauss",
+    "repoName": "roadkeep",
+    "repoBranch": "main"
+  },
+  "jeongph/claude-plugins": {
+    "name": "jeongph/claude-plugins",
+    "description": "\ud83d\udecd\ufe0f Claude Code plugin marketplace by jeongph",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jeongph",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "sundarshahi/drydock": {
+    "name": "sundarshahi/drydock",
+    "description": "Idea-to-launch product pipeline for Claude Code \u2014 19 specialized agents take a product from architecture, UX, and API contracts through tested code, security + VAPT, observability, CI/CD, and compliance to ship, then...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sundarshahi",
+    "repoName": "drydock",
+    "repoBranch": "main"
+  },
+  "Pushary/pushary-skill": {
+    "name": "Pushary/pushary-skill",
+    "description": "Push notifications + human-in-the-loop for AI agents. Approve from your lock screen. Claude Code, Claude Cowork, Codex, Cursor, Gemini.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pushary",
+    "repoName": "pushary-skill",
+    "repoBranch": "main"
+  },
+  "MrJoratos/goalglow": {
+    "name": "MrJoratos/goalglow",
+    "description": "GoalGlow \u2014 real RGB status colors inside Claude Code's response area: goal progress, verification state, and deliverability at a glance (blue=analyzing, yellow=executing, purple=verifying, green=verified, red=failed)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MrJoratos",
+    "repoName": "goalglow",
+    "repoBranch": "main"
+  },
+  "trelio-ru/agent-workspaces": {
+    "name": "trelio-ru/agent-workspaces",
+    "description": "\u041f\u043b\u0430\u0433\u0438\u043d \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b Codex \u0438 Claude \u0432 Trelio",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trelio-ru",
+    "repoName": "agent-workspaces",
+    "repoBranch": "main"
   }
 }

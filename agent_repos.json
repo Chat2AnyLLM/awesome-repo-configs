@@ -2914,5 +2914,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "MostAshraf/ai-sdlc-harness": {
+    "owner": "MostAshraf",
+    "name": "ai-sdlc-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "AqueGen/model-routing": {
+    "owner": "AqueGen",
+    "name": "model-routing",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sundarshahi/drydock": {
+    "owner": "sundarshahi",
+    "name": "drydock",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

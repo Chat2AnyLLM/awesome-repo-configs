@@ -17813,5 +17813,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Senzing/senzing-mcp-skill": {
+        "owner": "Senzing",
+        "name": "senzing-mcp-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "MostAshraf/ai-sdlc-harness": {
+        "owner": "MostAshraf",
+        "name": "ai-sdlc-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chan4lk/specclaw": {
+        "owner": "chan4lk",
+        "name": "specclaw",
+        "branch": "main",
+        "enabled": true
+    },
+    "AqueGen/model-routing": {
+        "owner": "AqueGen",
+        "name": "model-routing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "its-me-prash/kleinanzeigen-reader": {
+        "owner": "its-me-prash",
+        "name": "kleinanzeigen-reader",
+        "branch": "main",
+        "enabled": true
+    },
+    "anschnapp/djinnvim": {
+        "owner": "anschnapp",
+        "name": "djinnvim",
+        "branch": "master",
+        "enabled": true
+    },
+    "phazurlabs/install-labs": {
+        "owner": "phazurlabs",
+        "name": "install-labs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Scottthe3rd/academic-researcher-skill": {
+        "owner": "Scottthe3rd",
+        "name": "academic-researcher-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "ujjwalks/buyer-lens": {
+        "owner": "ujjwalks",
+        "name": "buyer-lens",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alegauss/roadkeep": {
+        "owner": "alegauss",
+        "name": "roadkeep",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sundarshahi/drydock": {
+        "owner": "sundarshahi",
+        "name": "drydock",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jeongph/pdf-scan-audit": {
+        "owner": "jeongph",
+        "name": "pdf-scan-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "passeth/claude-lazycodex-skill": {
+        "owner": "passeth",
+        "name": "claude-lazycodex-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Pavelgq/weekly-rpg-retro": {
+        "owner": "Pavelgq",
+        "name": "weekly-rpg-retro",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Pushary/pushary-skill": {
+        "owner": "Pushary",
+        "name": "pushary-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zseta/skill-writer": {
+        "owner": "zseta",
+        "name": "skill-writer",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "trelio-ru/agent-workspaces": {
+        "owner": "trelio-ru",
+        "name": "agent-workspaces",
+        "branch": "main",
+        "enabled": true
     }
 }
