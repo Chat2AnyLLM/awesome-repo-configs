@@ -2935,5 +2935,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mka-codelake/agenticaiplugin": {
+    "owner": "mka-codelake",
+    "name": "agenticaiplugin",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "androsland/forgeward-gate": {
+    "owner": "androsland",
+    "name": "forgeward-gate",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

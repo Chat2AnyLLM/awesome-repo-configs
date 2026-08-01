@@ -14905,5 +14905,77 @@
     "repoOwner": "trelio-ru",
     "repoName": "agent-workspaces",
     "repoBranch": "main"
+  },
+  "caglarbaranbora/Apple-Agent-Kit": {
+    "name": "caglarbaranbora/Apple-Agent-Kit",
+    "description": "Spec-first knowledge system for AI coding agents developing Apple platform apps",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "caglarbaranbora",
+    "repoName": "Apple-Agent-Kit",
+    "repoBranch": "main"
+  },
+  "Autom8Minds/skills": {
+    "name": "Autom8Minds/skills",
+    "description": "Free Claude agent skills for local service businesses \u2014 score a practice 0-100 on the six signals that drive booked appointments, and hand the owner a graded report. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Autom8Minds",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "kyota8ai/halal-app-check": {
+    "name": "kyota8ai/halal-app-check",
+    "description": "Shariah-compliance pre-screen for app developers, packaged as a Claude Code skill. Not a fatwa, not a certification \u2014 a sourced 6-layer audit checklist.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kyota8ai",
+    "repoName": "halal-app-check",
+    "repoBranch": "main"
+  },
+  "mka-codelake/agenticaiplugin": {
+    "name": "mka-codelake/agenticaiplugin",
+    "description": "Language-agnostic Claude Code plugin that adds multi-specialist code reviews, architecture audits, QA traceability, smart git commits, and GitHub release preparation. Project-specific rules in claudedocs/ take priorit...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mka-codelake",
+    "repoName": "agenticaiplugin",
+    "repoBranch": "master"
+  },
+  "andrewferk/adversarial-code-review": {
+    "name": "andrewferk/adversarial-code-review",
+    "description": "A Claude Code plugin for adversarial cross-model code review: a reviewer on a different model challenges your draft PR through the Cursor CLI, argues back in comments, and marks it ready only once both agree.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andrewferk",
+    "repoName": "adversarial-code-review",
+    "repoBranch": "main"
+  },
+  "androsland/forgeward-gate": {
+    "name": "androsland/forgeward-gate",
+    "description": "An enforced, read-only conformance gate for gstack \u2014 blocks /ship until privacy, accessibility, AI-output, SEO, and supply-chain reviewers pass.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "androsland",
+    "repoName": "forgeward-gate",
+    "repoBranch": "master"
+  },
+  "LeKibbitz/video-inventory-skill": {
+    "name": "LeKibbitz/video-inventory-skill",
+    "description": "Claude Code skill: turn a walkthrough video into a priced inventory. Frame extraction, rotated zoom crops to read spines and labels, resale-price research, Markdown + PDF report.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LeKibbitz",
+    "repoName": "video-inventory-skill",
+    "repoBranch": "main"
+  },
+  "hdkhosravian/loop-contract-skill": {
+    "name": "hdkhosravian/loop-contract-skill",
+    "description": "An implementation of loop engineering for Claude Code: an agent is bounded by its verifier, not its model. Frozen scope, an oracle written red before the work, one proof per item, and a gate that runs the check instea...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hdkhosravian",
+    "repoName": "loop-contract-skill",
+    "repoBranch": "main"
   }
 }

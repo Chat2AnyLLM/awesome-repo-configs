@@ -17926,5 +17926,121 @@
         "name": "agent-workspaces",
         "branch": "main",
         "enabled": true
+    },
+    "caglarbaranbora/Apple-Agent-Kit": {
+        "owner": "caglarbaranbora",
+        "name": "Apple-Agent-Kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Svur42/teach-pro": {
+        "owner": "Svur42",
+        "name": "teach-pro",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "btmoriarty/algol": {
+        "owner": "btmoriarty",
+        "name": "algol",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Autom8Minds/skills": {
+        "owner": "Autom8Minds",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kyota8ai/halal-app-check": {
+        "owner": "kyota8ai",
+        "name": "halal-app-check",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mka-codelake/agenticaiplugin": {
+        "owner": "mka-codelake",
+        "name": "agenticaiplugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andrewferk/adversarial-code-review": {
+        "owner": "andrewferk",
+        "name": "adversarial-code-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "androsland/forgeward-gate": {
+        "owner": "androsland",
+        "name": "forgeward-gate",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "abm9111/vigil": {
+        "owner": "abm9111",
+        "name": "vigil",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LeKibbitz/video-inventory-skill": {
+        "owner": "LeKibbitz",
+        "name": "video-inventory-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jasonlijiaxiang/ai-knowledge-base": {
+        "owner": "jasonlijiaxiang",
+        "name": "ai-knowledge-base",
+        "branch": "main",
+        "enabled": true
+    },
+    "hdkhosravian/loop-contract-skill": {
+        "owner": "hdkhosravian",
+        "name": "loop-contract-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TopLocalAI/patentfig-skill": {
+        "owner": "TopLocalAI",
+        "name": "patentfig-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "forrestneo/strong-mindset": {
+        "owner": "forrestneo",
+        "name": "strong-mindset",
+        "branch": "main",
+        "enabled": true
+    },
+    "TheCoolHippo/github-scout": {
+        "owner": "TheCoolHippo",
+        "name": "github-scout",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "malkreide/mcp-transport-hardening-skill": {
+        "owner": "malkreide",
+        "name": "mcp-transport-hardening-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "malkreide/mcp-data-fidelity-skill": {
+        "owner": "malkreide",
+        "name": "mcp-data-fidelity-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
