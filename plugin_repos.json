@@ -14806,5 +14806,14 @@
     "repoOwner": "cskwork",
     "repoName": "superhacker-skill",
     "repoBranch": "main"
+  },
+  "z29k/notabene": {
+    "name": "notabene",
+    "description": "Renders a repo's Markdown/MDX as a navigable site with anchored, Google-Docs-style comments; an agent reads the committed .notabene store, applies the feedback as source edits, resolves the threads, and journals what changed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "z29k",
+    "repoName": "notabene",
+    "repoBranch": "main"
   }
 }
