@@ -17716,5 +17716,102 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "m4vic/socratic": {
+        "owner": "m4vic",
+        "name": "socratic",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TheCodingDad-TisonK/fs25-claude-skill": {
+        "owner": "TheCodingDad-TisonK",
+        "name": "fs25-claude-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "pruthivim/claude-pm-skills": {
+        "owner": "pruthivim",
+        "name": "claude-pm-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "vsladkov/claudex-stereo": {
+        "owner": "vsladkov",
+        "name": "claudex-stereo",
+        "branch": "main",
+        "enabled": true
+    },
+    "hirokisakabe/issuekit": {
+        "owner": "hirokisakabe",
+        "name": "issuekit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RonMizrahi/superpowers-graph": {
+        "owner": "RonMizrahi",
+        "name": "superpowers-graph",
+        "branch": "main",
+        "enabled": true
+    },
+    "SoraLabsOSS/skills": {
+        "owner": "SoraLabsOSS",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mh-mansouri/embedded-iot-mentor": {
+        "owner": "mh-mansouri",
+        "name": "embedded-iot-mentor",
+        "branch": "main",
+        "enabled": true
+    },
+    "anivar/india-tax-guru": {
+        "owner": "anivar",
+        "name": "india-tax-guru",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "benjsmith/curiosity-engine": {
+        "owner": "benjsmith",
+        "name": "curiosity-engine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cskwork/superhacker-skill": {
+        "owner": "cskwork",
+        "name": "superhacker-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "jdepew88/Ralphifier": {
+        "owner": "jdepew88",
+        "name": "Ralphifier",
+        "branch": "main",
+        "enabled": true
+    },
+    "Luo-fe/aniprompt-skill": {
+        "owner": "Luo-fe",
+        "name": "aniprompt-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "moiz-za/svg-design-intelligence-system": {
+        "owner": "moiz-za",
+        "name": "svg-design-intelligence-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "BackTrackCo/tenjin-agent": {
+        "owner": "BackTrackCo",
+        "name": "tenjin-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

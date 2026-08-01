@@ -14752,5 +14752,59 @@
     "repoOwner": "propersloth",
     "repoName": "parallax-threejs",
     "repoBranch": "main"
+  },
+  "vsladkov/claudex-stereo": {
+    "name": "vsladkov/claudex-stereo",
+    "description": "Claude Code, in stereo: Claude plans and reviews, Codex implements.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vsladkov",
+    "repoName": "claudex-stereo",
+    "repoBranch": "main"
+  },
+  "th-yoo/kkamak": {
+    "name": "th-yoo/kkamak",
+    "description": "kkamak completion gate \u2014 Claude Code cannot say done until your check passes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "th-yoo",
+    "repoName": "kkamak",
+    "repoBranch": "main"
+  },
+  "myowinthein/claude-helm": {
+    "name": "myowinthein/claude-helm",
+    "description": "A Claude Code plugin pack for solo developers. Slash commands and rules to ship, refactor, test, and document your own work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "myowinthein",
+    "repoName": "claude-helm",
+    "repoBranch": "main"
+  },
+  "RonMizrahi/superpowers-graph": {
+    "name": "RonMizrahi/superpowers-graph",
+    "description": "Superpowers plugin as graph-engineering.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RonMizrahi",
+    "repoName": "superpowers-graph",
+    "repoBranch": "main"
+  },
+  "SoraLabsOSS/skills": {
+    "name": "SoraLabsOSS/skills",
+    "description": "Agent skills for motion craft from SoraLabs \u2014 animating-icons & motion-meaning",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SoraLabsOSS",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "cskwork/superhacker-skill": {
+    "name": "cskwork/superhacker-skill",
+    "description": "Single intent-routing security skill: one objective routed to 1 of 13 cybersecurity domains, authorization-gated, least-impact, evidence-backed. EN/KO landing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cskwork",
+    "repoName": "superhacker-skill",
+    "repoBranch": "main"
   }
 }

@@ -2907,5 +2907,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Nova-Violet-Role/RoT-MoE": {
+    "owner": "Nova-Violet-Role",
+    "name": "RoT-MoE",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
