@@ -15166,5 +15166,104 @@
     "repoOwner": "rimuln",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "twominutereports/marketing-skills": {
+    "name": "twominutereports/marketing-skills",
+    "description": "Claude Marketing Skills for SEO, PPC, and ecommerce reporting, analysis, and automation via MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "twominutereports",
+    "repoName": "marketing-skills",
+    "repoBranch": "main"
+  },
+  "tensorboy/oogway": {
+    "name": "tensorboy/oogway",
+    "description": "What happened \u2014 in human language \u2014 after every agent loop. What shipped, why it stopped, what's next, with every claim cited. A SKILL.md for Claude Code, Codex, Cursor & Gemini CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tensorboy",
+    "repoName": "oogway",
+    "repoBranch": "main"
+  },
+  "cdmx-in/ui-review": {
+    "name": "cdmx-in/ui-review",
+    "description": "Claude Code skill for automated UI/UX review via the agent-browser CLI \u2014 detects text overflow, wrapping bugs, horizontal scroll, overlapping elements, tap targets, dark-mode & WCAG zoom/reflow issues across mobile/ta...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdmx-in",
+    "repoName": "ui-review",
+    "repoBranch": "master"
+  },
+  "OmriGM/standup": {
+    "name": "OmriGM/standup",
+    "description": "What your Claude Code sessions actually shipped, one page per week. No API keys, no network calls.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OmriGM",
+    "repoName": "standup",
+    "repoBranch": "main"
+  },
+  "spawahh/openpilot-claude-kit": {
+    "name": "spawahh/openpilot-claude-kit",
+    "description": "Claude Code plugin marketplace for openpilot and its forks \u2014 codebase knowledge, cloud dev environments, and read-only comma device access over MCP",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spawahh",
+    "repoName": "openpilot-claude-kit",
+    "repoBranch": "main"
+  },
+  "coreyhiggins/grain": {
+    "name": "coreyhiggins/grain",
+    "description": "Routes each prompt to the right discipline and injects only the matching guidance. Zero tokens on conversational turns. Every claim is benchmarked, including the ones that failed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coreyhiggins",
+    "repoName": "grain",
+    "repoBranch": "main"
+  },
+  "avanturer/claude-bestpractice": {
+    "name": "avanturer/claude-bestpractice",
+    "description": "Enforcement, memory and parallel-session coordination for Claude Code. The Stop gate runs your tests itself \u2014 completion is accepted on evidence, never on assertion.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avanturer",
+    "repoName": "claude-bestpractice",
+    "repoBranch": "main"
+  },
+  "Kirchlive/skill-routing": {
+    "name": "Kirchlive/skill-routing",
+    "description": "Claude Code plugin that routes among the skills your install actually has \u2014 not the ones that survived the listing budget. Family-based selection over the full local corpus, deterministic bootstrap hooks, budget diagn...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kirchlive",
+    "repoName": "skill-routing",
+    "repoBranch": "main"
+  },
+  "maun11/raise-my-dr": {
+    "name": "maun11/raise-my-dr",
+    "description": "Give one editorial link, earn points, get links back. A vetted backlink exchange for B2B startups, run as a Claude skill \u2014 it picks your partner, shows what you'll earn, drafts the post, and verifies the link automati...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maun11",
+    "repoName": "raise-my-dr",
+    "repoBranch": "main"
+  },
+  "roney492/ui-review": {
+    "name": "roney492/ui-review",
+    "description": "Claude Code skill: automated UI/UX review via agent-browser - text overflow, wrapping, responsiveness across breakpoints, codebase-mapped fixes, baseline/diff regression mode",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "roney492",
+    "repoName": "ui-review",
+    "repoBranch": "master"
+  },
+  "hodoshia/social-media-fact-checker": {
+    "name": "hodoshia/social-media-fact-checker",
+    "description": "Claude Code skill that fact-checks social media post drafts and catches AI hallucinations (fabricated stats, laws, sources, quotes) before you publish.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hodoshia",
+    "repoName": "social-media-fact-checker",
+    "repoBranch": "main"
   }
 }

@@ -18429,5 +18429,99 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "sadekxD/vox-style-collage-video-skill": {
+        "owner": "sadekxD",
+        "name": "vox-style-collage-video-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "twominutereports/marketing-skills": {
+        "owner": "twominutereports",
+        "name": "marketing-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sadekxD/cardstock-diorama-myth": {
+        "owner": "sadekxD",
+        "name": "cardstock-diorama-myth",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "handcraftedbygod/Skill-Sentinel": {
+        "owner": "handcraftedbygod",
+        "name": "Skill-Sentinel",
+        "branch": "main",
+        "enabled": true
+    },
+    "tensorboy/oogway": {
+        "owner": "tensorboy",
+        "name": "oogway",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "makukhin-ie/ai-toolbox": {
+        "owner": "makukhin-ie",
+        "name": "ai-toolbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cdmx-in/ui-review": {
+        "owner": "cdmx-in",
+        "name": "ui-review",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "spawahh/openpilot-claude-kit": {
+        "owner": "spawahh",
+        "name": "openpilot-claude-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "coreyhiggins/grain": {
+        "owner": "coreyhiggins",
+        "name": "grain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "avanturer/claude-bestpractice": {
+        "owner": "avanturer",
+        "name": "claude-bestpractice",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kirchlive/skill-routing": {
+        "owner": "Kirchlive",
+        "name": "skill-routing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maun11/raise-my-dr": {
+        "owner": "maun11",
+        "name": "raise-my-dr",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "roney492/ui-review": {
+        "owner": "roney492",
+        "name": "ui-review",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hodoshia/social-media-fact-checker": {
+        "owner": "hodoshia",
+        "name": "social-media-fact-checker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
