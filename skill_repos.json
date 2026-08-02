@@ -18157,5 +18157,141 @@
         "name": "claude-screen-skill",
         "branch": "main",
         "enabled": true
+    },
+    "Kyure-A/agent-skills-nix": {
+        "owner": "Kyure-A",
+        "name": "agent-skills-nix",
+        "branch": "master",
+        "enabled": true
+    },
+    "AutoResearch-Factory/Agon": {
+        "owner": "AutoResearch-Factory",
+        "name": "Agon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kimmingul/xllm": {
+        "owner": "kimmingul",
+        "name": "xllm",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/claude-harness": {
+        "owner": "shimo4228",
+        "name": "claude-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "juliandickie/stripe-plugin": {
+        "owner": "juliandickie",
+        "name": "stripe-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eranw2000/drawio-diagram-skill": {
+        "owner": "eranw2000",
+        "name": "drawio-diagram-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "shimo4228/skill-comply": {
+        "owner": "shimo4228",
+        "name": "skill-comply",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "roshaw/claude-translation-agency": {
+        "owner": "roshaw",
+        "name": "claude-translation-agency",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "dlectronique/adhd-tools-marketplace": {
+        "owner": "dlectronique",
+        "name": "adhd-tools-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "dankofly/eu-ai-act-skill": {
+        "owner": "dankofly",
+        "name": "eu-ai-act-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "RahulDas-dev/skill_builder": {
+        "owner": "RahulDas-dev",
+        "name": "skill_builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Coolkidlab-Yin/line-bot-builder": {
+        "owner": "Coolkidlab-Yin",
+        "name": "line-bot-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Coolkidlab-Yin/ig-bot-builder": {
+        "owner": "Coolkidlab-Yin",
+        "name": "ig-bot-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Coolkidlab-Yin/threads-bot-builder": {
+        "owner": "Coolkidlab-Yin",
+        "name": "threads-bot-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dominikwozniak/dw-solo-skills": {
+        "owner": "dominikwozniak",
+        "name": "dw-solo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wfukatsu/slide-forge": {
+        "owner": "wfukatsu",
+        "name": "slide-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IslandNC/privacygate": {
+        "owner": "IslandNC",
+        "name": "privacygate",
+        "branch": "main",
+        "enabled": true
+    },
+    "malkreide/mcp-data-source-probe-skill": {
+        "owner": "malkreide",
+        "name": "mcp-data-source-probe-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "argorixlabs/argorix-build-skill": {
+        "owner": "argorixlabs",
+        "name": "argorix-build-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "domenicdgenovese/pocket-terminal": {
+        "owner": "domenicdgenovese",
+        "name": "pocket-terminal",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

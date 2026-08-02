@@ -15067,5 +15067,50 @@
     "repoOwner": "Drizzy07x",
     "repoName": "cognitive-powers",
     "repoBranch": "main"
+  },
+  "AutoResearch-Factory/Agon": {
+    "name": "AutoResearch-Factory/Agon",
+    "description": "Claude Code plugin for autonomous AI research \u2014 multi-agent loops take a bare topic all the way to running experiments, with no human-written experimental code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AutoResearch-Factory",
+    "repoName": "Agon",
+    "repoBranch": "main"
+  },
+  "kimmingul/xllm": {
+    "name": "kimmingul/xllm",
+    "description": "xllm plugin \u2014 cross-vendor LLM advisor plugin for agentic CLIs ( Claude Code, Codex, Grok Build). Diverse providers, models, and effort levels \u2014 read-only by default.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kimmingul",
+    "repoName": "xllm",
+    "repoBranch": "master"
+  },
+  "juliandickie/stripe-plugin": {
+    "name": "juliandickie/stripe-plugin",
+    "description": "Full multi-account Stripe API access for Claude Code. Every endpoint the pinned stripe-node SDK exposes, a binary-enforced safety tier with live-mode arming, and the bundled Stripe CLI. Replaces the single-account MCP...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "juliandickie",
+    "repoName": "stripe-plugin",
+    "repoBranch": "main"
+  },
+  "dlectronique/adhd-tools-marketplace": {
+    "name": "dlectronique/adhd-tools-marketplace",
+    "description": "Claude Code plugins that cut the friction between having a thought and shipping the thing. Built for ADHD, useful for everyone: an always-on working mode, and a fix for memory silently reading as empty in repos and wo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dlectronique",
+    "repoName": "adhd-tools-marketplace",
+    "repoBranch": "main"
+  },
+  "dominikwozniak/dw-solo-skills": {
+    "name": "dominikwozniak/dw-solo-skills",
+    "description": "a persistent Solo Projects spec-to-ship workflow for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dominikwozniak",
+    "repoName": "dw-solo-skills",
+    "repoBranch": "main"
   }
 }
