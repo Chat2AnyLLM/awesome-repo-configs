@@ -15112,5 +15112,59 @@
     "repoOwner": "dominikwozniak",
     "repoName": "dw-solo-skills",
     "repoBranch": "main"
+  },
+  "poloplay0114/hard-won-claude-skills": {
+    "name": "poloplay0114/hard-won-claude-skills",
+    "description": "8 hard-won Claude Code skills distilled from one real production project \u2014 verification discipline, xlsx surgery, async task UI & more. Every rule paid for by a real incident.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "poloplay0114",
+    "repoName": "hard-won-claude-skills",
+    "repoBranch": "main"
+  },
+  "Korea-DongheeHan/agent-pipeline-builder": {
+    "name": "Korea-DongheeHan/agent-pipeline-builder",
+    "description": "Claude Code plugin that builds deterministic multi-agent dev pipelines \u2014 define the graph in YAML, scaffold agents into your repo, run with spec gates, feedback loops, and resume.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Korea-DongheeHan",
+    "repoName": "agent-pipeline-builder",
+    "repoBranch": "main"
+  },
+  "marekpolcar/claude-code-skills": {
+    "name": "marekpolcar/claude-code-skills",
+    "description": "Claude Code plugins from production work: plan and delivery review before and after the code, unattended runs that survive a session limit, session handoff, SSH ops runbooks. 12 skills, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marekpolcar",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
+  },
+  "jyh4358/jay-plugin": {
+    "name": "jyh4358/jay-plugin",
+    "description": "\ud83e\uddf0 Jay's Claude Code toolbox \u2014 hooks, commands, skills & agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jyh4358",
+    "repoName": "jay-plugin",
+    "repoBranch": "main"
+  },
+  "knotmark-ai/aflaj-plugin": {
+    "name": "knotmark-ai/aflaj-plugin",
+    "description": "Aflaj for Claude Code \u2014 a self-bootstrapping marketplace: the aflaj plugin and the deterministic repo scanner it runs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "knotmark-ai",
+    "repoName": "aflaj-plugin",
+    "repoBranch": "main"
+  },
+  "rimuln/claude-plugins": {
+    "name": "rimuln/claude-plugins",
+    "description": "Pluginy pro Claude Code kolem geocachingu a spravy kesi v GeoGet",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rimuln",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }

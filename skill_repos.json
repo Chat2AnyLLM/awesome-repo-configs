@@ -18293,5 +18293,141 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "woodfantasy/Seedance-ShotDesign-Skills": {
+        "owner": "woodfantasy",
+        "name": "Seedance-ShotDesign-Skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kgraph57/mckinsey-style-visualization-skill": {
+        "owner": "kgraph57",
+        "name": "mckinsey-style-visualization-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tong666-bit/liu-xiaoyan-skill": {
+        "owner": "tong666-bit",
+        "name": "liu-xiaoyan-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "useosint/osint-skills": {
+        "owner": "useosint",
+        "name": "osint-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Laucked-Security/claude-oswe": {
+        "owner": "Laucked-Security",
+        "name": "claude-oswe",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lecutu/DeepSeek-PPT-skill": {
+        "owner": "lecutu",
+        "name": "DeepSeek-PPT-skill",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "yerdaulet-damir/redpen": {
+        "owner": "yerdaulet-damir",
+        "name": "redpen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "poloplay0114/hard-won-claude-skills": {
+        "owner": "poloplay0114",
+        "name": "hard-won-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "anchit-choudhry/app-drawer": {
+        "owner": "anchit-choudhry",
+        "name": "app-drawer",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Korea-DongheeHan/agent-pipeline-builder": {
+        "owner": "Korea-DongheeHan",
+        "name": "agent-pipeline-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "marekpolcar/claude-code-skills": {
+        "owner": "marekpolcar",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jyh4358/jay-plugin": {
+        "owner": "jyh4358",
+        "name": "jay-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kvasanova/loomwork": {
+        "owner": "kvasanova",
+        "name": "loomwork",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "knotmark-ai/aflaj-plugin": {
+        "owner": "knotmark-ai",
+        "name": "aflaj-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vignesh2699v/claude-rebuild-prompt": {
+        "owner": "vignesh2699v",
+        "name": "claude-rebuild-prompt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rimuln/claude-plugins": {
+        "owner": "rimuln",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Krtvy/gym-plan-artifact-skill": {
+        "owner": "Krtvy",
+        "name": "gym-plan-artifact-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "openwarehq/calque": {
+        "owner": "openwarehq",
+        "name": "calque",
+        "branch": "main",
+        "enabled": true
+    },
+    "pavlelausevic/business-reasoning": {
+        "owner": "pavlelausevic",
+        "name": "business-reasoning",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "petar-nauka/ai-visibility-skill": {
+        "owner": "petar-nauka",
+        "name": "ai-visibility-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
