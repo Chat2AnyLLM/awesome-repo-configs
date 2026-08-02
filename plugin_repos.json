@@ -15265,5 +15265,14 @@
     "repoOwner": "hodoshia",
     "repoName": "social-media-fact-checker",
     "repoBranch": "main"
+  },
+  "finestructure-ai/humanizer-multilingual": {
+    "name": "humanizer-multilingual",
+    "description": "Removes the signs of AI-generated writing from text in Spanish, Portuguese, French, German, Italian, Hebrew, Arabic, Russian, Japanese and Chinese. The English humanizer patterns (delve, em dashes, rule of three) do not transfer to other languages, so each language gets its own researched calques, typography rules, register traps and syntax tells, graded P0/P1/P2. Includes a test corpus with counter-samples that must not be flagged.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "finestructure-ai",
+    "repoName": "humanizer-multilingual",
+    "repoBranch": "main"
   }
 }

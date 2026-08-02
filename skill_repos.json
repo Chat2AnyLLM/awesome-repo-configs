@@ -18523,5 +18523,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "finestructure-ai/humanizer-multilingual": {
+        "owner": "finestructure-ai",
+        "name": "humanizer-multilingual",
+        "branch": "main",
+        "skillsPath": "plugins",
+        "enabled": true
     }
 }
