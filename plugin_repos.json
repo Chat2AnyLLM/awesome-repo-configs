@@ -14977,5 +14977,95 @@
     "repoOwner": "hdkhosravian",
     "repoName": "loop-contract-skill",
     "repoBranch": "main"
+  },
+  "WenyuChiou/ai-research-skills": {
+    "name": "WenyuChiou/ai-research-skills",
+    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writing, and cross-agent delegation for Claude Code, Codex, Gemini, Cursor, OpenClaw, and generic AI cl...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WenyuChiou",
+    "repoName": "ai-research-skills",
+    "repoBranch": "main"
+  },
+  "lool-ventures/founder-skills": {
+    "name": "lool-ventures/founder-skills",
+    "description": "AI agent skills for high-velocity startup founders",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lool-ventures",
+    "repoName": "founder-skills",
+    "repoBranch": "main"
+  },
+  "Midstall/claude-for-hardware": {
+    "name": "Midstall/claude-for-hardware",
+    "description": "Claude Code skills for hardware design, validation, and bring-up",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Midstall",
+    "repoName": "claude-for-hardware",
+    "repoBranch": "master"
+  },
+  "Coolkidlab-Yin/Coolkidlab": {
+    "name": "Coolkidlab-Yin/Coolkidlab",
+    "description": "Claude Code plugins and open-source SEO workflows by Coolkid AI Lab",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Coolkidlab-Yin",
+    "repoName": "Coolkidlab",
+    "repoBranch": "master"
+  },
+  "haunchen/gemini-plugin-cc": {
+    "name": "haunchen/gemini-plugin-cc",
+    "description": "Claude Code plugin marketplace integrating Gemini CLI \u2014 second-opinion code review, security review, and image-Read interception to protect prompt cache",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "haunchen",
+    "repoName": "gemini-plugin-cc",
+    "repoBranch": "master"
+  },
+  "JunbaoLiang/audit-with-plans": {
+    "name": "JunbaoLiang/audit-with-plans",
+    "description": "Companion skill for planning-with-files: audits code \u2194 .planning consistency with fresh-context subagents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JunbaoLiang",
+    "repoName": "audit-with-plans",
+    "repoBranch": "main"
+  },
+  "m1kapp/m1kskills": {
+    "name": "m1kapp/m1kskills",
+    "description": "\ud83e\udde0 AI \uc4f0\ub2e4 \uc720\uc6a9\ud588\ub358 \ub098\ub9cc\uc758 \uc2a4\ud0ac \ubaa8\uc74c \u2014 \uc5b4\ub290 \ub3c4\uad6c\uc5d0\ub098 \ubd99\uc5ec\ub123\uc5b4 \uc4f0\ub294 \ub9c8\ud06c\ub2e4\uc6b4 \ud504\ub86c\ud504\ud2b8",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "m1kapp",
+    "repoName": "m1kskills",
+    "repoBranch": "main"
+  },
+  "RipsawJP/shell-team": {
+    "name": "RipsawJP/shell-team",
+    "description": "A spec-driven AI dev team for Claude Code\u2014with PM, Tech Lead, Engineer, QA, and an independent Codex reviewer behind explicit handoff gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RipsawJP",
+    "repoName": "shell-team",
+    "repoBranch": "main"
+  },
+  "qupunto/workflow-secretary": {
+    "name": "qupunto/workflow-secretary",
+    "description": "A suite of Claude Code skills that keep a project's record, roadmap, docs and tooling honest \u2014 a secretary to coding, not the coder.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qupunto",
+    "repoName": "workflow-secretary",
+    "repoBranch": "main"
+  },
+  "Drizzy07x/cognitive-powers": {
+    "name": "Drizzy07x/cognitive-powers",
+    "description": "16 skills for Claude Code and Codex: focused execution with durable evidence and independent verification",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Drizzy07x",
+    "repoName": "cognitive-powers",
+    "repoBranch": "main"
   }
 }

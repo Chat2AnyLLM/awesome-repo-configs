@@ -2949,5 +2949,26 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Midstall/claude-for-hardware": {
+    "owner": "Midstall",
+    "name": "claude-for-hardware",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "RipsawJP/shell-team": {
+    "owner": "RipsawJP",
+    "name": "shell-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Drizzy07x/cognitive-powers": {
+    "owner": "Drizzy07x",
+    "name": "cognitive-powers",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

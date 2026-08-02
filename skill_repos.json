@@ -18042,5 +18042,120 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "lool-ventures/founder-skills": {
+        "owner": "lool-ventures",
+        "name": "founder-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mworldorg/markdown-memory": {
+        "owner": "mworldorg",
+        "name": "markdown-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Midstall/claude-for-hardware": {
+        "owner": "Midstall",
+        "name": "claude-for-hardware",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yheshamx/artifact-to-pdf": {
+        "owner": "yheshamx",
+        "name": "artifact-to-pdf",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Coolkidlab-Yin/Coolkidlab": {
+        "owner": "Coolkidlab-Yin",
+        "name": "Coolkidlab",
+        "branch": "master",
+        "enabled": true
+    },
+    "Kerrywang64/kiln": {
+        "owner": "Kerrywang64",
+        "name": "kiln",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JunbaoLiang/audit-with-plans": {
+        "owner": "JunbaoLiang",
+        "name": "audit-with-plans",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ahhchu/prompt-efficiency-coach": {
+        "owner": "ahhchu",
+        "name": "prompt-efficiency-coach",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "m1kapp/m1kskills": {
+        "owner": "m1kapp",
+        "name": "m1kskills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ypjun100/butter-workflow": {
+        "owner": "ypjun100",
+        "name": "butter-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RipsawJP/shell-team": {
+        "owner": "RipsawJP",
+        "name": "shell-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qupunto/workflow-secretary": {
+        "owner": "qupunto",
+        "name": "workflow-secretary",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Drizzy07x/cognitive-powers": {
+        "owner": "Drizzy07x",
+        "name": "cognitive-powers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "menghuanshiguang/bilibili-downloader-skill": {
+        "owner": "menghuanshiguang",
+        "name": "bilibili-downloader-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aidan269/hubspot-attribution-auditor": {
+        "owner": "aidan269",
+        "name": "hubspot-attribution-auditor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bmeunier1974/beautify-md": {
+        "owner": "bmeunier1974",
+        "name": "beautify-md",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jadstrike/claude-screen-skill": {
+        "owner": "jadstrike",
+        "name": "claude-screen-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
