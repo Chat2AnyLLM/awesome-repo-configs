@@ -18777,5 +18777,120 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "hyhmrright/brooks-lint": {
+        "owner": "hyhmrright",
+        "name": "brooks-lint",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnifaces/claude-faces-expert": {
+        "owner": "omnifaces",
+        "name": "claude-faces-expert",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "AugustusW/audio-tldr-skill": {
+        "owner": "AugustusW",
+        "name": "audio-tldr-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zircote/lsp-tools": {
+        "owner": "zircote",
+        "name": "lsp-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "atexy4ba/talisman-skill": {
+        "owner": "atexy4ba",
+        "name": "talisman-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ai-hub-open/marketing-strategist": {
+        "owner": "ai-hub-open",
+        "name": "marketing-strategist",
+        "branch": "main",
+        "enabled": true
+    },
+    "mikestankavich/claude-ship-workflow": {
+        "owner": "mikestankavich",
+        "name": "claude-ship-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "worldofhacks/alex-style": {
+        "owner": "worldofhacks",
+        "name": "alex-style",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "handcraftedbygod/SkillTrace": {
+        "owner": "handcraftedbygod",
+        "name": "SkillTrace",
+        "branch": "main",
+        "enabled": true
+    },
+    "kaposty/context-kit": {
+        "owner": "kaposty",
+        "name": "context-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "rterakedis/leanwheel-skills": {
+        "owner": "rterakedis",
+        "name": "leanwheel-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "morpheusadam/claude-for-pro-max-user": {
+        "owner": "morpheusadam",
+        "name": "claude-for-pro-max-user",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "elucidata/spectrum": {
+        "owner": "elucidata",
+        "name": "spectrum",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "quietmill/respeak": {
+        "owner": "quietmill",
+        "name": "respeak",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cre-ai-skills/CRE-AI-Skills": {
+        "owner": "cre-ai-skills",
+        "name": "CRE-AI-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OthmanAdi/gmira": {
+        "owner": "OthmanAdi",
+        "name": "gmira",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ahartzog/agent-plugins": {
+        "owner": "ahartzog",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

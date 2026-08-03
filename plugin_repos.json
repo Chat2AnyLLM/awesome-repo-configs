@@ -15499,5 +15499,104 @@
     "repoOwner": "SWHee",
     "repoName": "diffscope",
     "repoBranch": "main"
+  },
+  "hyhmrright/brooks-lint": {
+    "name": "hyhmrright/brooks-lint",
+    "description": "AI code reviews grounded in 12 classic engineering books \u2014 decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hyhmrright",
+    "repoName": "brooks-lint",
+    "repoBranch": "main"
+  },
+  "AugustusW/audio-tldr-skill": {
+    "name": "AugustusW/audio-tldr-skill",
+    "description": "Claude Code skill: summarize videos, audio & podcasts with local cached transcription",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AugustusW",
+    "repoName": "audio-tldr-skill",
+    "repoBranch": "main"
+  },
+  "zamarrowski/claudemon": {
+    "name": "zamarrowski/claudemon",
+    "description": "Wild Pokemon appear while you work in Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zamarrowski",
+    "repoName": "claudemon",
+    "repoBranch": "main"
+  },
+  "akholod/consensus-review": {
+    "name": "akholod/consensus-review",
+    "description": "Multi-model consensus code review for Claude Code (Opus + codex + opencode): triage, P0\u2013P2, independent sceptic verifier, code-graph aware.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akholod",
+    "repoName": "consensus-review",
+    "repoBranch": "main"
+  },
+  "mikestankavich/claude-ship-workflow": {
+    "name": "mikestankavich/claude-ship-workflow",
+    "description": "Ship a tracker ticket: dispatch it into a worktree, drive it to a pull request, merge it after review, and clean up after itself.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mikestankavich",
+    "repoName": "claude-ship-workflow",
+    "repoBranch": "main"
+  },
+  "kaposty/context-kit": {
+    "name": "kaposty/context-kit",
+    "description": "A long session makes Claude Code dumber: compaction keeps what happened and throws away why, so it retries the path you already dropped. This kit keeps a session ledger, the one file where each decision keeps its reas...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kaposty",
+    "repoName": "context-kit",
+    "repoBranch": "main"
+  },
+  "rterakedis/leanwheel-skills": {
+    "name": "rterakedis/leanwheel-skills",
+    "description": "A slimmed-down version of BMAD made to be friendlier to smaller AI plan limits",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rterakedis",
+    "repoName": "leanwheel-skills",
+    "repoBranch": "main"
+  },
+  "quietmill/respeak": {
+    "name": "quietmill/respeak",
+    "description": "Respeak - an editing method for prose that has to sound like a person wrote it. Skill for Claude Code and Codex: humanize AI-sounding drafts without changing facts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "quietmill",
+    "repoName": "respeak",
+    "repoBranch": "main"
+  },
+  "OthmanAdi/gmira": {
+    "name": "OthmanAdi/gmira",
+    "description": "21 Claude Code skills for building web interfaces that do not look AI-generated. Forces a written visual direction before any element is placed, wires 7 shadcn registries (514 components), sets a GPU performance floor...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OthmanAdi",
+    "repoName": "gmira",
+    "repoBranch": "main"
+  },
+  "anyshift-io/claude-plugins": {
+    "name": "anyshift-io/claude-plugins",
+    "description": "Anyshift's Claude Code plugin marketplace. Catalog of public plugins (skills, MCP servers) maintained by Anyshift. Add with `/plugin marketplace add anyshift-io/claude-plugins`.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anyshift-io",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "ahartzog/agent-plugins": {
+    "name": "ahartzog/agent-plugins",
+    "description": "Claude Code plugins for agent memory and verification \u2014 durable domain-agent knowledge (second-brain), multi-contributor knowledge bases (apiary), and adversarial multi-agent review (scout-generator-critic-mediator).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ahartzog",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
   }
 }
