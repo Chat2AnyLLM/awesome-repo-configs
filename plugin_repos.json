@@ -15598,5 +15598,113 @@
     "repoOwner": "ahartzog",
     "repoName": "agent-plugins",
     "repoBranch": "main"
+  },
+  "23blocks-OS/ai-maestro": {
+    "name": "23blocks-OS/ai-maestro",
+    "description": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents between computer...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "23blocks-OS",
+    "repoName": "ai-maestro",
+    "repoBranch": "main"
+  },
+  "InterfaceX-co-jp/genshijin": {
+    "name": "InterfaceX-co-jp/genshijin",
+    "description": "genshijin \u539f\u59cb\u4eba \ud83d\uddff| Claude Code / Codex\u7b49AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8 \u5411\u3051\u8d85\u5727\u7e2e\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30b9\u30ad\u30eb\u3002caveman \u306e\u65e5\u672c\u8a9e\u7248\u3092\u30d9\u30fc\u30b9\u306b\u3001\u65e5\u672c\u8a9e\u7279\u6709\u306e\u5197\u9577\u8868\u73fe\u306b\u6700\u9069\u5316\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "InterfaceX-co-jp",
+    "repoName": "genshijin",
+    "repoBranch": "main"
+  },
+  "Institut-du-Numerique-Responsable/green-claude": {
+    "name": "Institut-du-Numerique-Responsable/green-claude",
+    "description": "\ud83c\udf31 Skill \u00e9co-responsable pour Claude Code : sobri\u00e9t\u00e9 num\u00e9rique, audit d'\u00e9co-conception (RGESN, GR491, Green Software Foundation) et pratiques de sobri\u00e9t\u00e9 IA",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Institut-du-Numerique-Responsable",
+    "repoName": "green-claude",
+    "repoBranch": "main"
+  },
+  "orwa-mahmoud/claude-nightshift": {
+    "name": "orwa-mahmoud/claude-nightshift",
+    "description": "Claude Code stops mid-task. nightshift keeps it working until the punch list is done \u2014 a free plugin for unattended overnight runs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "orwa-mahmoud",
+    "repoName": "claude-nightshift",
+    "repoBranch": "main"
+  },
+  "techtheist/engram": {
+    "name": "techtheist/engram",
+    "description": "Engram Alpha - Inspectable graph memory for AI coding assistants",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "techtheist",
+    "repoName": "engram",
+    "repoBranch": "main"
+  },
+  "backchainai/backchain-plugins": {
+    "name": "backchainai/backchain-plugins",
+    "description": "Claude Code plugins by Backchain. Practical agent skills authored to the agentskills.io specification.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "backchainai",
+    "repoName": "backchain-plugins",
+    "repoBranch": "main"
+  },
+  "DROOdotFOO/agent-skills": {
+    "name": "DROOdotFOO/agent-skills",
+    "description": "Agent skills, autonomous agents, and MCP-companions for programming",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DROOdotFOO",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "RazinAleksandr/vastkit": {
+    "name": "RazinAleksandr/vastkit",
+    "description": "Agents skill for renting and managing vastai gpus",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RazinAleksandr",
+    "repoName": "vastkit",
+    "repoBranch": "main"
+  },
+  "brokenrobot-xyz/agent-skills": {
+    "name": "brokenrobot-xyz/agent-skills",
+    "description": "Claude Code plugin marketplace from brokenrobot.xyz - one agent skill per plugin, so you install only what you want. Each ships with evals, and hooks enforce what the skills author.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brokenrobot-xyz",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "krwhynot/deepgrade": {
+    "name": "krwhynot/deepgrade",
+    "description": "DeepGrade: AI-powered codebase grading, planning, auditing, and operational readiness. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "krwhynot",
+    "repoName": "deepgrade",
+    "repoBranch": "main"
+  },
+  "CallMeTechie/fleet-manager": {
+    "name": "CallMeTechie/fleet-manager",
+    "description": "Claude Code plugin to manage a fleet of Linux servers over SSH",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CallMeTechie",
+    "repoName": "fleet-manager",
+    "repoBranch": "main"
+  },
+  "gyeongmin100/Open-Dart-Plugin": {
+    "name": "gyeongmin100/Open-Dart-Plugin",
+    "description": "OpenDART Plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gyeongmin100",
+    "repoName": "Open-Dart-Plugin",
+    "repoBranch": "main"
   }
 }

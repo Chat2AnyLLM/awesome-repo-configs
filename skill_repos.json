@@ -18892,5 +18892,119 @@
         "name": "agent-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "InterfaceX-co-jp/genshijin": {
+        "owner": "InterfaceX-co-jp",
+        "name": "genshijin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Institut-du-Numerique-Responsable/green-claude": {
+        "owner": "Institut-du-Numerique-Responsable",
+        "name": "green-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "orwa-mahmoud/claude-nightshift": {
+        "owner": "orwa-mahmoud",
+        "name": "claude-nightshift",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "techtheist/engram": {
+        "owner": "techtheist",
+        "name": "engram",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "team-markmesh/mark_mesh_skill": {
+        "owner": "team-markmesh",
+        "name": "mark_mesh_skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "backchainai/backchain-plugins": {
+        "owner": "backchainai",
+        "name": "backchain-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "gquthier/autonomous-learning-os": {
+        "owner": "gquthier",
+        "name": "autonomous-learning-os",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DROOdotFOO/agent-skills": {
+        "owner": "DROOdotFOO",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RazinAleksandr/vastkit": {
+        "owner": "RazinAleksandr",
+        "name": "vastkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "G59-Toneli/agent-harness": {
+        "owner": "G59-Toneli",
+        "name": "agent-harness",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pyqcm-project/pyqcm-skill": {
+        "owner": "pyqcm-project",
+        "name": "pyqcm-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ydbondt/shkills": {
+        "owner": "ydbondt",
+        "name": "shkills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "brokenrobot-xyz/agent-skills": {
+        "owner": "brokenrobot-xyz",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "delpicorp/dev-report": {
+        "owner": "delpicorp",
+        "name": "dev-report",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "krwhynot/deepgrade": {
+        "owner": "krwhynot",
+        "name": "deepgrade",
+        "branch": "main",
+        "enabled": true
+    },
+    "CallMeTechie/fleet-manager": {
+        "owner": "CallMeTechie",
+        "name": "fleet-manager",
+        "branch": "main",
+        "enabled": true
+    },
+    "gyeongmin100/Open-Dart-Plugin": {
+        "owner": "gyeongmin100",
+        "name": "Open-Dart-Plugin",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -3061,5 +3061,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "InterfaceX-co-jp/genshijin": {
+    "owner": "InterfaceX-co-jp",
+    "name": "genshijin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DROOdotFOO/agent-skills": {
+    "owner": "DROOdotFOO",
+    "name": "agent-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
