@@ -18649,5 +18649,133 @@
         "name": "korean-tech-writing",
         "branch": "main",
         "enabled": true
+    },
+    "skyf0xx/hedgehog": {
+        "owner": "skyf0xx",
+        "name": "hedgehog",
+        "branch": "master",
+        "enabled": true
+    },
+    "alexander-danilenko/cortex-ai-skills": {
+        "owner": "alexander-danilenko",
+        "name": "cortex-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mahashwetha/Job-search-email-system-claude": {
+        "owner": "Mahashwetha",
+        "name": "Job-search-email-system-claude",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ontology-of-everything/SemanticSkills": {
+        "owner": "ontology-of-everything",
+        "name": "SemanticSkills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "baodq97/tencentdb-agent-memory": {
+        "owner": "baodq97",
+        "name": "tencentdb-agent-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bitcraft-apps/spec-first": {
+        "owner": "bitcraft-apps",
+        "name": "spec-first",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bemoshiur/OmniRank": {
+        "owner": "bemoshiur",
+        "name": "OmniRank",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ladiossoop5star/open_magi": {
+        "owner": "ladiossoop5star",
+        "name": "open_magi",
+        "branch": "main",
+        "enabled": true
+    },
+    "roccodaffuso/sift": {
+        "owner": "roccodaffuso",
+        "name": "sift",
+        "branch": "main",
+        "enabled": true
+    },
+    "sowadalmughni/contextual-humanizer": {
+        "owner": "sowadalmughni",
+        "name": "contextual-humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "WenqiEric/declaration-skills": {
+        "owner": "WenqiEric",
+        "name": "declaration-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "StielChancellor/VibeGod-Tech-Team": {
+        "owner": "StielChancellor",
+        "name": "VibeGod-Tech-Team",
+        "branch": "main",
+        "enabled": true
+    },
+    "shaunmarsden/skill-author": {
+        "owner": "shaunmarsden",
+        "name": "skill-author",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shaunmarsden/book-to-skill": {
+        "owner": "shaunmarsden",
+        "name": "book-to-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ironking63/Collocation-Vocab-Practice-Claude-SKILL": {
+        "owner": "ironking63",
+        "name": "Collocation-Vocab-Practice-Claude-SKILL",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "broneq/bdk": {
+        "owner": "broneq",
+        "name": "bdk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ShubhenduVaid/flipbook": {
+        "owner": "ShubhenduVaid",
+        "name": "flipbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tutum-pro/archirules": {
+        "owner": "tutum-pro",
+        "name": "archirules",
+        "branch": "main",
+        "enabled": true
+    },
+    "SWHee/diffscope": {
+        "owner": "SWHee",
+        "name": "diffscope",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

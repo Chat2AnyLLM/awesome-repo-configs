@@ -15418,5 +15418,86 @@
     "repoOwner": "pebblous",
     "repoName": "korean-tech-writing",
     "repoBranch": "main"
+  },
+  "alexander-danilenko/cortex-ai-skills": {
+    "name": "alexander-danilenko/cortex-ai-skills",
+    "description": "Opinionated AI Coding Skills for AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexander-danilenko",
+    "repoName": "cortex-ai-skills",
+    "repoBranch": "main"
+  },
+  "baodq97/tencentdb-agent-memory": {
+    "name": "baodq97/tencentdb-agent-memory",
+    "description": "Claude Code plugin: four-layer long-term memory (L0\u2192L1\u2192L2\u2192L3 Persona) with local FTS5 + EmbeddingGemma vector hybrid recall, zero external API",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "baodq97",
+    "repoName": "tencentdb-agent-memory",
+    "repoBranch": "main"
+  },
+  "bitcraft-apps/spec-first": {
+    "name": "bitcraft-apps/spec-first",
+    "description": "Build faster by writing requirements before code. A Claude Code plugin for spec-driven development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitcraft-apps",
+    "repoName": "spec-first",
+    "repoBranch": "main"
+  },
+  "ladiossoop5star/open_magi": {
+    "name": "ladiossoop5star/open_magi",
+    "description": "OpenCode/codex cli/claude code cli plugin for Magi-style multi-agent code deliberation, with three read-only reviewers, artifact tracking, and verification gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ladiossoop5star",
+    "repoName": "open_magi",
+    "repoBranch": "main"
+  },
+  "StielChancellor/VibeGod-Tech-Team": {
+    "name": "StielChancellor/VibeGod-Tech-Team",
+    "description": "VibeGod Tech Team \u2014 install one plugin and a whole software team (27 expert agents: product, design, security, engineering, QA, release) plans, builds, tests, and ships your idea into a production-grade platform insid...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "StielChancellor",
+    "repoName": "VibeGod-Tech-Team",
+    "repoBranch": "main"
+  },
+  "broneq/bdk": {
+    "name": "broneq/bdk",
+    "description": "BDK \u2014 Broneq Dev Kit. Reusable Claude Code workflows: skills, agents, and hooks for TDD, planning, code review, and architecture documentation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "broneq",
+    "repoName": "bdk",
+    "repoBranch": "main"
+  },
+  "ShubhenduVaid/flipbook": {
+    "name": "ShubhenduVaid/flipbook",
+    "description": "Claude can't watch video. Flipbook records your web app while Claude drives it and hands back a flipbook of keyframes it can actually read.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShubhenduVaid",
+    "repoName": "flipbook",
+    "repoBranch": "main"
+  },
+  "tutum-pro/archirules": {
+    "name": "tutum-pro/archirules",
+    "description": "Meta-rules for running a software project, as a Claude Code plugin: decision records (ADR), open questions (OQ), phases with acceptance criteria, and verification discipline",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tutum-pro",
+    "repoName": "archirules",
+    "repoBranch": "main"
+  },
+  "SWHee/diffscope": {
+    "name": "SWHee/diffscope",
+    "description": "Auto-explains what your coding agent just changed \u2014 change map, behavior diff, and Python syntax notes, printed to your terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SWHee",
+    "repoName": "diffscope",
+    "repoBranch": "main"
   }
 }

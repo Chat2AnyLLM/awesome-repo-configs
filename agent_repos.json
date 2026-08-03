@@ -3012,5 +3012,33 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "baodq97/tencentdb-agent-memory": {
+    "owner": "baodq97",
+    "name": "tencentdb-agent-memory",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bitcraft-apps/spec-first": {
+    "owner": "bitcraft-apps",
+    "name": "spec-first",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "broneq/bdk": {
+    "owner": "broneq",
+    "name": "bdk",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "SWHee/diffscope": {
+    "owner": "SWHee",
+    "name": "diffscope",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
