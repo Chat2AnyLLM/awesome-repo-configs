@@ -1,4 +1,11 @@
 {
+    "khadinakbarlabs/shopify-app-builder": {
+        "owner": "khadinakbarlabs",
+        "name": "shopify-app-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "0xsarwagya/ontoly": {
         "owner": "0xsarwagya",
         "name": "ontoly",

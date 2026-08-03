@@ -1,4 +1,13 @@
 {
+  "khadinakbarlabs/shopify-app-builder": {
+    "name": "shopify-app-builder",
+    "description": "Open-source Shopify app development marketplace with 32 focused skills, 9 workflow commands, and 5 specialist agents for building, auditing, launching, and growing production-grade Shopify apps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "khadinakbarlabs",
+    "repoName": "shopify-app-builder",
+    "repoBranch": "main"
+  },
   "keegan-dotcom/encore-lite": {
     "name": "encore-lite",
     "description": "The end-of-week surprise builder, free edition. The night before your weekly usage cap resets, Encore reads your recent work (Projects, files, repos) and builds one bonus deliverable you didn't get to in time - delivered as a reveal, with a weekly scheduled run. Full version with worked playbooks, tidy mode, and ChatGPT/Gemini/Perplexity packs at encoreplugin.com.",
