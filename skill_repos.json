@@ -18523,5 +18523,124 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jaechang-hits/SciAgent-Skills": {
+        "owner": "jaechang-hits",
+        "name": "SciAgent-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "geekjourneyx/ai-daily-skill": {
+        "owner": "geekjourneyx",
+        "name": "ai-daily-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "adkit/ads-skills": {
+        "owner": "adkit",
+        "name": "ads-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "igloude/ds-skills": {
+        "owner": "igloude",
+        "name": "ds-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DeployGate/deploygate-agent-plugin": {
+        "owner": "DeployGate",
+        "name": "deploygate-agent-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "stempeck/agentfactory": {
+        "owner": "stempeck",
+        "name": "agentfactory",
+        "branch": "main",
+        "enabled": true
+    },
+    "AIPMAndy/andy-product-skill": {
+        "owner": "AIPMAndy",
+        "name": "andy-product-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SentiSenseApp/skills": {
+        "owner": "SentiSenseApp",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "design1online/author-it": {
+        "owner": "design1online",
+        "name": "author-it",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mfmp112-karl/raven": {
+        "owner": "mfmp112-karl",
+        "name": "raven",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Carlos-Padilla-Bravo/llm-council-cc": {
+        "owner": "Carlos-Padilla-Bravo",
+        "name": "llm-council-cc",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "On-mission96/janaabg-operations": {
+        "owner": "On-mission96",
+        "name": "janaabg-operations",
+        "branch": "main",
+        "enabled": true
+    },
+    "seokhoonj/mailmail": {
+        "owner": "seokhoonj",
+        "name": "mailmail",
+        "branch": "main",
+        "enabled": true
+    },
+    "meticulosity/hubspot-license-fit": {
+        "owner": "meticulosity",
+        "name": "hubspot-license-fit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rizomaai/negative-campaign-monitor": {
+        "owner": "rizomaai",
+        "name": "negative-campaign-monitor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DailenG/forge-workflow": {
+        "owner": "DailenG",
+        "name": "forge-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AndrewAvery7/claude-codex-bridge": {
+        "owner": "AndrewAvery7",
+        "name": "claude-codex-bridge",
+        "branch": "main",
+        "enabled": true
+    },
+    "pebblous/korean-tech-writing": {
+        "owner": "pebblous",
+        "name": "korean-tech-writing",
+        "branch": "main",
+        "enabled": true
     }
 }

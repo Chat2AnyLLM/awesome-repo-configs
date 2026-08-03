@@ -15292,5 +15292,122 @@
     "repoOwner": "alexgreensh",
     "repoName": "repo-forensics",
     "repoBranch": "main"
+  },
+  "jaechang-hits/SciAgent-Skills": {
+    "name": "jaechang-hits/SciAgent-Skills",
+    "description": "197 bioinformatics & life science skills for Claude Code and AI agents \u2014 BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jaechang-hits",
+    "repoName": "SciAgent-Skills",
+    "repoBranch": "main"
+  },
+  "geekjourneyx/ai-daily-skill": {
+    "name": "geekjourneyx/ai-daily-skill",
+    "description": "AI \u8d44\u8baf\u65e5\u62a5 Claude Code Skill - \u6bcf\u5929\u81ea\u52a8\u83b7\u53d6\u3001\u5206\u6790\u3001\u5f52\u7c7b AI \u524d\u6cbf\u8d44\u8baf",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "geekjourneyx",
+    "repoName": "ai-daily-skill",
+    "repoBranch": "main"
+  },
+  "adkit/ads-skills": {
+    "name": "adkit/ads-skills",
+    "description": "Claude skills to run ads: advertising & marketing strategy, campaign structure, targeting, creative, and budgets for Google Ads, Meta Ads, TikTok & more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adkit",
+    "repoName": "ads-skills",
+    "repoBranch": "main"
+  },
+  "igloude/ds-skills": {
+    "name": "igloude/ds-skills",
+    "description": "Agent skills to police AI-generated frontend work for design system conformance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "igloude",
+    "repoName": "ds-skills",
+    "repoBranch": "main"
+  },
+  "DeployGate/deploygate-agent-plugin": {
+    "name": "DeployGate/deploygate-agent-plugin",
+    "description": "DeployGate integration for Claude Code and Codex",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DeployGate",
+    "repoName": "deploygate-agent-plugin",
+    "repoBranch": "main"
+  },
+  "design1online/author-it": {
+    "name": "design1online/author-it",
+    "description": "AI skills for writers who don't want AI writing their novels for them...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "design1online",
+    "repoName": "author-it",
+    "repoBranch": "main"
+  },
+  "Suprhimp/chonk": {
+    "name": "Suprhimp/chonk",
+    "description": "Claude Code plugin that notices when your session has gotten too big \u2014 and offers a handoff to a fresh one. A UserPromptSubmit hook for context and token bloat. \ud83d\udc08",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Suprhimp",
+    "repoName": "chonk",
+    "repoBranch": "main"
+  },
+  "On-mission96/janaabg-operations": {
+    "name": "On-mission96/janaabg-operations",
+    "description": "Growth-operations skills for local service businesses, agencies and B2B. 20 skills plus industry playbooks for Claude Code and Hermes Agent. Pure markdown, no executable code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "On-mission96",
+    "repoName": "janaabg-operations",
+    "repoBranch": "main"
+  },
+  "seokhoonj/mailmail": {
+    "name": "seokhoonj/mailmail",
+    "description": "Send mail through Gmail or Naver SMTP from Python.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokhoonj",
+    "repoName": "mailmail",
+    "repoBranch": "main"
+  },
+  "DailenG/forge-workflow": {
+    "name": "DailenG/forge-workflow",
+    "description": "Gated spec-to-ship lifecycle for Claude Code, driven by one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DailenG",
+    "repoName": "forge-workflow",
+    "repoBranch": "main"
+  },
+  "AndrewAvery7/claude-codex-bridge": {
+    "name": "AndrewAvery7/claude-codex-bridge",
+    "description": "Hand a live Claude Code session to OpenAI Codex - conversation, skills, and instructions intact. One command, then Codex opens on your thread. Windows, macOS, Linux. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AndrewAvery7",
+    "repoName": "claude-codex-bridge",
+    "repoBranch": "main"
+  },
+  "AndrewAvery7/claude-markitdown-hook": {
+    "name": "AndrewAvery7/claude-markitdown-hook",
+    "description": "Cheap, honest document ingestion for Claude Code - converts referenced PDFs and Office files to markdown and injects a pointer, not the content. Grades every conversion, so an image-only PDF is reported honestly inste...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AndrewAvery7",
+    "repoName": "claude-markitdown-hook",
+    "repoBranch": "main"
+  },
+  "pebblous/korean-tech-writing": {
+    "name": "pebblous/korean-tech-writing",
+    "description": "\ud55c\uad6d\uc5b4 \uae30\uc220 \uc0b0\ubb38 \uc791\uc131 \ud45c\uc900 \u2014 \uc5b4\uc870\u00b7\uc81c\ubaa9\u00b7\uad6c\uc131\u00b7AI \ubb38\uccb4 \uc9c4\ub2e8 \uaddc\uce59\uacfc Claude Code \uc2a4\ud0ac \ud50c\ub7ec\uadf8\uc778",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pebblous",
+    "repoName": "korean-tech-writing",
+    "repoBranch": "main"
   }
 }
