@@ -15265,5 +15265,32 @@
     "repoOwner": "hodoshia",
     "repoName": "social-media-fact-checker",
     "repoBranch": "main"
+  },
+  "alexgreensh/token-optimizer": {
+    "name": "alexgreensh/token-optimizer",
+    "description": "Context and token-cost optimizer for coding agents: finds ghost tokens, survives compaction, and fights context-quality decay. Native plugins for Claude Code, Codex, OpenCode, and OpenClaw.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexgreensh",
+    "repoName": "token-optimizer",
+    "repoBranch": "main"
+  },
+  "alexgreensh/outsourcerer": {
+    "name": "alexgreensh/outsourcerer",
+    "description": "Delegate coding grunt-work to other harnesses and models while your main session stays the orchestrator. Works with Claude Code, Codex, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexgreensh",
+    "repoName": "outsourcerer",
+    "repoBranch": "main"
+  },
+  "alexgreensh/repo-forensics": {
+    "name": "alexgreensh/repo-forensics",
+    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; flags prompt injection, credential theft, and manifest drift before you install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexgreensh",
+    "repoName": "repo-forensics",
+    "repoBranch": "main"
   }
 }
