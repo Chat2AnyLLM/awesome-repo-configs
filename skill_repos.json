@@ -18530,5 +18530,12 @@
         "branch": "main",
         "skillsPath": "plugins",
         "enabled": true
+    },
+    "finestructure-ai/share-live": {
+        "owner": "finestructure-ai",
+        "name": "share-live",
+        "branch": "main",
+        "skillsPath": "plugins",
+        "enabled": true
     }
 }

@@ -15274,5 +15274,14 @@
     "repoOwner": "finestructure-ai",
     "repoName": "humanizer-multilingual",
     "repoBranch": "main"
+  },
+  "finestructure-ai/share-live": {
+    "name": "share-live",
+    "description": "Publishes a local prototype to a real, shareable URL from inside Claude Code. Requires a Fine Structure account and states that in its first paragraph. Ordinary React runs unchanged: hooks, useEffect cleanup, external icon libraries and Tailwind all publish as written, so porting is a path rename rather than a rewrite.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "finestructure-ai",
+    "repoName": "share-live",
+    "repoBranch": "main"
   }
 }
