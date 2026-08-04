@@ -15787,5 +15787,95 @@
     "repoOwner": "debabsah",
     "repoName": "superstack",
     "repoBranch": "main"
+  },
+  "costiash/claude-code-docs": {
+    "name": "costiash/claude-code-docs",
+    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on demand (no docs redistributed). /docs search, interactive HTML courses, changelog reports.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "costiash",
+    "repoName": "claude-code-docs",
+    "repoBranch": "main"
+  },
+  "sorensensig/ai-corner-store": {
+    "name": "sorensensig/ai-corner-store",
+    "description": "AI Corner Store \ud83c\udfea \u2014 a small, curated shop of AI skills, plugins, and bundles for Claude. One folder per release, each installable on its own. Now stocking: organisational-dysfunction (61 dysfunctions via open sociotec...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sorensensig",
+    "repoName": "ai-corner-store",
+    "repoBranch": "main"
+  },
+  "leonidb/claude-code-audio-recap": {
+    "name": "leonidb/claude-code-audio-recap",
+    "description": "Hear what Claude Code is doing without watching the screen - a short audio recap of every turn, summarized for ears.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leonidb",
+    "repoName": "claude-code-audio-recap",
+    "repoBranch": "main"
+  },
+  "AllanOps/Clean-Backend": {
+    "name": "AllanOps/Clean-Backend",
+    "description": "Claude skill for production-hardening practices whenever you're designing, writing, or reviewing your backend code. Featuring endpoints, payment flows, deletes, background jobs, and alerting.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AllanOps",
+    "repoName": "Clean-Backend",
+    "repoBranch": "main"
+  },
+  "rmanish2000-del/warrant-mcp": {
+    "name": "rmanish2000-del/warrant-mcp",
+    "description": "Write the rules for your AI agent once, in plain English. Deterministic code checks every tool call, and a Claude Code hook blocks what your rules forbid. Ships a Claude Skill that writes the policy with you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rmanish2000-del",
+    "repoName": "warrant-mcp",
+    "repoBranch": "main"
+  },
+  "CoinLobster/agent-skills": {
+    "name": "CoinLobster/agent-skills",
+    "description": "Teach any AI agent to read live crypto whale flow like a trader. No API key required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CoinLobster",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "coachpo/plugins-claude": {
+    "name": "coachpo/plugins-claude",
+    "description": "Stitch UI/UX for Claude \u2014 Google Stitch design & build skills for Claude Code (15 skills), adapted from google-labs-code/stitch-skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coachpo",
+    "repoName": "plugins-claude",
+    "repoBranch": "main"
+  },
+  "dbbz/C-K-studio": {
+    "name": "dbbz/C-K-studio",
+    "description": "Concept\u2013Knowledge design sessions in Claude Code. Every concept must be undecidable against knowledge, and every expansive partition must name what it breaks \u2014 enforced by the tool, not by good intentions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dbbz",
+    "repoName": "C-K-studio",
+    "repoBranch": "main"
+  },
+  "srwbsw/second-agent-skill": {
+    "name": "srwbsw/second-agent-skill",
+    "description": "Multi-engine second agent \u2014 delegate code reviews, second opinions, or engineering tasks (write tests, fix bugs, refactor) to Gemini, Codex, Claude, opencode, Copilot, Qwen, Kilo, Antigravity, Command Code, or Cursor",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "srwbsw",
+    "repoName": "second-agent-skill",
+    "repoBranch": "main"
+  },
+  "josix/agentic-retrieval": {
+    "name": "josix/agentic-retrieval",
+    "description": "A Claude Code plugin + offline-first retrieval engine that indexes your project's own docs and code, then compares six retrieval strategies \u2014 contextual BM25, LLM-enriched lexical, dense ANN, Lucene BM25, hybrid RRF,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "josix",
+    "repoName": "agentic-retrieval",
+    "repoBranch": "main"
   }
 }

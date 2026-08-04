@@ -19144,5 +19144,134 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "costiash/claude-code-docs": {
+        "owner": "costiash",
+        "name": "claude-code-docs",
+        "branch": "main",
+        "enabled": true
+    },
+    "sorensensig/ai-corner-store": {
+        "owner": "sorensensig",
+        "name": "ai-corner-store",
+        "branch": "main",
+        "enabled": true
+    },
+    "AllanOps/Clean-Backend": {
+        "owner": "AllanOps",
+        "name": "Clean-Backend",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AntonioCardenas/generate-nanobanana": {
+        "owner": "AntonioCardenas",
+        "name": "generate-nanobanana",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AlessandroCaula/dot-claude": {
+        "owner": "AlessandroCaula",
+        "name": "dot-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yuefanxiao/code-review-adversarial": {
+        "owner": "yuefanxiao",
+        "name": "code-review-adversarial",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rmanish2000-del/warrant-mcp": {
+        "owner": "rmanish2000-del",
+        "name": "warrant-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "markbaindesign/bain-studio": {
+        "owner": "markbaindesign",
+        "name": "bain-studio",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "AVGVSTVS96/better-github-skill": {
+        "owner": "AVGVSTVS96",
+        "name": "better-github-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CoinLobster/agent-skills": {
+        "owner": "CoinLobster",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "humbleteam/audit-design-tokens": {
+        "owner": "humbleteam",
+        "name": "audit-design-tokens",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "benjaminstelzer/ask-claude-for-codex": {
+        "owner": "benjaminstelzer",
+        "name": "ask-claude-for-codex",
+        "branch": "main",
+        "enabled": true
+    },
+    "benjaminstelzer/compact-handoff": {
+        "owner": "benjaminstelzer",
+        "name": "compact-handoff",
+        "branch": "main",
+        "enabled": true
+    },
+    "Coolkidlab-Yin/voice-profile-extraction": {
+        "owner": "Coolkidlab-Yin",
+        "name": "voice-profile-extraction",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Coolkidlab-Yin/claude-code-checkpoint-system": {
+        "owner": "Coolkidlab-Yin",
+        "name": "claude-code-checkpoint-system",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "coachpo/plugins-claude": {
+        "owner": "coachpo",
+        "name": "plugins-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbbz/C-K-studio": {
+        "owner": "dbbz",
+        "name": "C-K-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "srwbsw/second-agent-skill": {
+        "owner": "srwbsw",
+        "name": "second-agent-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "josix/agentic-retrieval": {
+        "owner": "josix",
+        "name": "agentic-retrieval",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

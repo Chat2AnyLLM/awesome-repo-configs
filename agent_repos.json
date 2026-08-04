@@ -3082,5 +3082,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "josix/agentic-retrieval": {
+    "owner": "josix",
+    "name": "agentic-retrieval",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
