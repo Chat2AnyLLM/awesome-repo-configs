@@ -19405,5 +19405,12 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "alfredtech2026/shopify-app-review-brief": {
+        "owner": "alfredtech2026",
+        "name": "shopify-app-review-brief",
+        "branch": "main",
+        "skillsPath": "docs/skills",
+        "enabled": true
     }
 }
