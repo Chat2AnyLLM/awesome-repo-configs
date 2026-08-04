@@ -19006,5 +19006,143 @@
         "name": "Open-Dart-Plugin",
         "branch": "main",
         "enabled": true
+    },
+    "smixs/visual-skills": {
+        "owner": "smixs",
+        "name": "visual-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "belumume/claude-skills": {
+        "owner": "belumume",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "aaddrick/attention-control": {
+        "owner": "aaddrick",
+        "name": "attention-control",
+        "branch": "main",
+        "enabled": true
+    },
+    "thrixel/goal-to-game": {
+        "owner": "thrixel",
+        "name": "goal-to-game",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ymxlx/polis-protocol": {
+        "owner": "ymxlx",
+        "name": "polis-protocol",
+        "branch": "main",
+        "enabled": true
+    },
+    "PANGKAIFENG/ai-product-manager-skills": {
+        "owner": "PANGKAIFENG",
+        "name": "ai-product-manager-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "succtorlin/use-case": {
+        "owner": "succtorlin",
+        "name": "use-case",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "atifgul99/craftsman-marketplace": {
+        "owner": "atifgul99",
+        "name": "craftsman-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "dxkjuanjuan/juanjuan-team": {
+        "owner": "dxkjuanjuan",
+        "name": "juanjuan-team",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "skrrt-sh/skills": {
+        "owner": "skrrt-sh",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "phillipalcock/skills-collection": {
+        "owner": "phillipalcock",
+        "name": "skills-collection",
+        "branch": "main",
+        "enabled": true
+    },
+    "phillipalcock/viral-clip-finder": {
+        "owner": "phillipalcock",
+        "name": "viral-clip-finder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "phillipalcock/code-clipping": {
+        "owner": "phillipalcock",
+        "name": "code-clipping",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "44-pixels/handover-mcp": {
+        "owner": "44-pixels",
+        "name": "handover-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TomerAberbach/claude-config": {
+        "owner": "TomerAberbach",
+        "name": "claude-config",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "derekrbreese/fantasy-football-skills": {
+        "owner": "derekrbreese",
+        "name": "fantasy-football-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "AI-Enablement-Academy/agentic-marketplace": {
+        "owner": "AI-Enablement-Academy",
+        "name": "agentic-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "thevibeworks/deadman": {
+        "owner": "thevibeworks",
+        "name": "deadman",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adarshpuri20/flow-surface": {
+        "owner": "adarshpuri20",
+        "name": "flow-surface",
+        "branch": "main",
+        "enabled": true
+    },
+    "waelouf/cc-powerup-azure-architect": {
+        "owner": "waelouf",
+        "name": "cc-powerup-azure-architect",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "debabsah/superstack": {
+        "owner": "debabsah",
+        "name": "superstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

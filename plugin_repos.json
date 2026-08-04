@@ -15706,5 +15706,86 @@
     "repoOwner": "gyeongmin100",
     "repoName": "Open-Dart-Plugin",
     "repoBranch": "main"
+  },
+  "belumume/claude-skills": {
+    "name": "belumume/claude-skills",
+    "description": "Personal collection of Claude skills - growing as I discover patterns and solve real-world problems",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "belumume",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "aaddrick/attention-control": {
+    "name": "aaddrick/attention-control",
+    "description": "Air traffic control discipline for agent output. Written for a reader with ADHD.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaddrick",
+    "repoName": "attention-control",
+    "repoBranch": "main"
+  },
+  "atifgul99/craftsman-marketplace": {
+    "name": "atifgul99/craftsman-marketplace",
+    "description": "The engineering review you'd get from the technical co-founder you don't have. Audits vibe-coded apps for production-readiness across ten areas, not just security, with plain-language findings and a fixer that can nev...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atifgul99",
+    "repoName": "craftsman-marketplace",
+    "repoBranch": "main"
+  },
+  "skrrt-sh/skills": {
+    "name": "skrrt-sh/skills",
+    "description": "Agent skills for markdown writing, conventional commits, PRs, and releases \u2014 works with Claude Code, Codex, Cursor, and 40+ agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skrrt-sh",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "derekrbreese/fantasy-football-skills": {
+    "name": "derekrbreese/fantasy-football-skills",
+    "description": "Claude Code plugin marketplace for fantasy football: draft strategy, waiver wire, trade analysis, and browser-driven roster ops",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "derekrbreese",
+    "repoName": "fantasy-football-skills",
+    "repoBranch": "main"
+  },
+  "AI-Enablement-Academy/agentic-marketplace": {
+    "name": "AI-Enablement-Academy/agentic-marketplace",
+    "description": "Open agent skills from AI Enablement Academy \u2014 recruiting stack, AI agent builders, AI Opportunity Finder",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AI-Enablement-Academy",
+    "repoName": "agentic-marketplace",
+    "repoBranch": "main"
+  },
+  "thevibeworks/deadman": {
+    "name": "thevibeworks/deadman",
+    "description": "Dead man's switch for Claude Code: writes the handoff before your prompt cache dies",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thevibeworks",
+    "repoName": "deadman",
+    "repoBranch": "main"
+  },
+  "adarshpuri20/flow-surface": {
+    "name": "adarshpuri20/flow-surface",
+    "description": "11-gate surface review, phase conductor, and readiness audits for Claude Code. Bugs are dents, vulnerabilities are bulges.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adarshpuri20",
+    "repoName": "flow-surface",
+    "repoBranch": "main"
+  },
+  "debabsah/superstack": {
+    "name": "debabsah/superstack",
+    "description": "An agentic engineering framework built for long-horizon work: a full team of specialists (idea shaper, planner, debugger, reviewer, incident responder, data migrator, release manager, and more) sharing one durable pro...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "debabsah",
+    "repoName": "superstack",
+    "repoBranch": "main"
   }
 }

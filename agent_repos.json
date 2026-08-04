@@ -3075,5 +3075,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "debabsah/superstack": {
+    "owner": "debabsah",
+    "name": "superstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
