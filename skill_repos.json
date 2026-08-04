@@ -19273,5 +19273,137 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "crabbuild/compass": {
+        "owner": "crabbuild",
+        "name": "compass",
+        "branch": "main",
+        "enabled": true
+    },
+    "levi-qiao/longgraph-skill": {
+        "owner": "levi-qiao",
+        "name": "longgraph-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "EodHistoricalData/eodhd-claude-skills": {
+        "owner": "EodHistoricalData",
+        "name": "eodhd-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Andy1314Chen/architecture-drawer": {
+        "owner": "Andy1314Chen",
+        "name": "architecture-drawer",
+        "branch": "main",
+        "enabled": true
+    },
+    "markmcgrath/Dossier": {
+        "owner": "markmcgrath",
+        "name": "Dossier",
+        "branch": "main",
+        "enabled": true
+    },
+    "OrenAshkenazy/gh-review-loop": {
+        "owner": "OrenAshkenazy",
+        "name": "gh-review-loop",
+        "branch": "main",
+        "enabled": true
+    },
+    "benjaminstelzer/scoville-code-anti-ai-slop": {
+        "owner": "benjaminstelzer",
+        "name": "scoville-code-anti-ai-slop",
+        "branch": "main",
+        "enabled": true
+    },
+    "leonardomjq/six-seven": {
+        "owner": "leonardomjq",
+        "name": "six-seven",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "heyuxuan0209/watch-anything": {
+        "owner": "heyuxuan0209",
+        "name": "watch-anything",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "teskor-hub/minimax-h3-skill": {
+        "owner": "teskor-hub",
+        "name": "minimax-h3-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hesreallyhim/ultracode-workflows": {
+        "owner": "hesreallyhim",
+        "name": "ultracode-workflows",
+        "branch": "main",
+        "enabled": true
+    },
+    "alter-persona/alter": {
+        "owner": "alter-persona",
+        "name": "alter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "slogsdon/skills-writing": {
+        "owner": "slogsdon",
+        "name": "skills-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emircbngl/claude-skills": {
+        "owner": "emircbngl",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ArchitektApx/Auth-Guard": {
+        "owner": "ArchitektApx",
+        "name": "Auth-Guard",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "benjaminstelzer/scoville-ui-anti-ai-slop": {
+        "owner": "benjaminstelzer",
+        "name": "scoville-ui-anti-ai-slop",
+        "branch": "main",
+        "enabled": true
+    },
+    "benjaminstelzer/scoville-scribe-anti-ai-slop": {
+        "owner": "benjaminstelzer",
+        "name": "scoville-scribe-anti-ai-slop",
+        "branch": "main",
+        "enabled": true
+    },
+    "promptmechanic/ai-toolbox": {
+        "owner": "promptmechanic",
+        "name": "ai-toolbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "psyvex/modus": {
+        "owner": "psyvex",
+        "name": "modus",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ArchitektApx/Vibe-Driven-Development": {
+        "owner": "ArchitektApx",
+        "name": "Vibe-Driven-Development",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

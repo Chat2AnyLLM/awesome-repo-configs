@@ -15877,5 +15877,95 @@
     "repoOwner": "josix",
     "repoName": "agentic-retrieval",
     "repoBranch": "main"
+  },
+  "levi-qiao/longgraph-skill": {
+    "name": "levi-qiao/longgraph-skill",
+    "description": "Long-horizon agent skill for Claude Code / Cursor / Codex / Grok Build \u2014 multi-task ledger loop, host-portable, clean-context supervisor, verified gates. Markdown library (loop-graph), not a framework.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "levi-qiao",
+    "repoName": "longgraph-skill",
+    "repoBranch": "main"
+  },
+  "EodHistoricalData/eodhd-claude-skills": {
+    "name": "EodHistoricalData/eodhd-claude-skills",
+    "description": "Claude Code plugin for EODHD financial data \u2014 150k+ tickers, 70+ exchanges, OAuth MCP server with 80 tools, 7 workflow skills, financial-analyst agent, 5 slash commands. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EodHistoricalData",
+    "repoName": "eodhd-claude-skills",
+    "repoBranch": "main"
+  },
+  "Andy1314Chen/architecture-drawer": {
+    "name": "Andy1314Chen/architecture-drawer",
+    "description": "Skill for Claude Code & Codex: describe your system architecture in text \u2192 get an editable PowerPoint diagram (native shapes, not a flat image).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Andy1314Chen",
+    "repoName": "architecture-drawer",
+    "repoBranch": "main"
+  },
+  "OrenAshkenazy/gh-review-loop": {
+    "name": "OrenAshkenazy/gh-review-loop",
+    "description": "Opinionated AI Code Assist PR review loop for Claude Code & Codex. Support Codex and Gemini Code Assistance; Thread-state-aware, Framework-aware for acceptance tests, severity-filtered, cycle cap, sticky-receipt visib...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OrenAshkenazy",
+    "repoName": "gh-review-loop",
+    "repoBranch": "main"
+  },
+  "leonardomjq/six-seven": {
+    "name": "leonardomjq/six-seven",
+    "description": "Your coding agent has brain rot. It spots every 67 in your prompts and your tool output, says the thing, then does the work properly.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leonardomjq",
+    "repoName": "six-seven",
+    "repoBranch": "main"
+  },
+  "hesreallyhim/ultracode-workflows": {
+    "name": "hesreallyhim/ultracode-workflows",
+    "description": "A comprehensive suite of Claude Code ultracode multi-agent workflow scripts, along with a workflow-authoring skill, a live-progress statusline, enhanced observation UI, and validator/diagram tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hesreallyhim",
+    "repoName": "ultracode-workflows",
+    "repoBranch": "main"
+  },
+  "slogsdon/skills-writing": {
+    "name": "slogsdon/skills-writing",
+    "description": "Writing skills for Claude Code: humanize AI prose, enforce Microsoft Writing Style Guide compliance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slogsdon",
+    "repoName": "skills-writing",
+    "repoBranch": "main"
+  },
+  "ArchitektApx/Auth-Guard": {
+    "name": "ArchitektApx/Auth-Guard",
+    "description": "Claude Code hook that prevents leaking commong auth tokens to a transcript",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArchitektApx",
+    "repoName": "Auth-Guard",
+    "repoBranch": "master"
+  },
+  "psyvex/modus": {
+    "name": "psyvex/modus",
+    "description": "An adaptive Claude Code skill that right-sizes its workflow to every task: quick answers stay quick, risky work gets full rigor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "psyvex",
+    "repoName": "modus",
+    "repoBranch": "main"
+  },
+  "ArchitektApx/Vibe-Driven-Development": {
+    "name": "ArchitektApx/Vibe-Driven-Development",
+    "description": "A workflow that improves the code quality of LLMs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArchitektApx",
+    "repoName": "Vibe-Driven-Development",
+    "repoBranch": "master"
   }
 }

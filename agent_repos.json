@@ -3089,5 +3089,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "EodHistoricalData/eodhd-claude-skills": {
+    "owner": "EodHistoricalData",
+    "name": "eodhd-claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
