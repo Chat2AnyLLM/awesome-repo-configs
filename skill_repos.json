@@ -19412,5 +19412,120 @@
         "branch": "main",
         "skillsPath": "docs/skills",
         "enabled": true
+    },
+    "0xwilliamortiz/ponytail-improved": {
+        "owner": "0xwilliamortiz",
+        "name": "ponytail-improved",
+        "branch": "main",
+        "enabled": true
+    },
+    "0xwilliamortiz/humanizer-cli": {
+        "owner": "0xwilliamortiz",
+        "name": "humanizer-cli",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "opslane/opslane": {
+        "owner": "opslane",
+        "name": "opslane",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chancegraff/rules-for-claude": {
+        "owner": "chancegraff",
+        "name": "rules-for-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aliasunder/agent-skills": {
+        "owner": "aliasunder",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MR-Axel/skills": {
+        "owner": "MR-Axel",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "web594/resolve-multicam-workflow": {
+        "owner": "web594",
+        "name": "resolve-multicam-workflow",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alexe-ev/product-plugins": {
+        "owner": "alexe-ev",
+        "name": "product-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Eliasjunit/vibestretch": {
+        "owner": "Eliasjunit",
+        "name": "vibestretch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MohdAljahdali/mjloop": {
+        "owner": "MohdAljahdali",
+        "name": "mjloop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "manavmishra/ZeroSlop": {
+        "owner": "manavmishra",
+        "name": "ZeroSlop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cerint/CareerForge": {
+        "owner": "cerint",
+        "name": "CareerForge",
+        "branch": "main",
+        "enabled": true
+    },
+    "pnz1990/github-perf-evidence": {
+        "owner": "pnz1990",
+        "name": "github-perf-evidence",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "BlinkingSun/claude-github-web-skill": {
+        "owner": "BlinkingSun",
+        "name": "claude-github-web-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aatmik-panse/clone-site-skill": {
+        "owner": "aatmik-panse",
+        "name": "clone-site-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "crawfordxx/xiaoma-durex-copywriter": {
+        "owner": "crawfordxx",
+        "name": "xiaoma-durex-copywriter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Aboudjem/goalify": {
+        "owner": "Aboudjem",
+        "name": "goalify",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

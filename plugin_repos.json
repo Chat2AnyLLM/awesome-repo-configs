@@ -15967,5 +15967,77 @@
     "repoOwner": "ArchitektApx",
     "repoName": "Vibe-Driven-Development",
     "repoBranch": "master"
+  },
+  "0xwilliamortiz/ponytail-improved": {
+    "name": "0xwilliamortiz/ponytail-improved",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0xwilliamortiz",
+    "repoName": "ponytail-improved",
+    "repoBranch": "main"
+  },
+  "opslane/opslane": {
+    "name": "opslane/opslane",
+    "description": "Verification Layer for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "opslane",
+    "repoName": "opslane",
+    "repoBranch": "main"
+  },
+  "alexe-ev/product-plugins": {
+    "name": "alexe-ev/product-plugins",
+    "description": "Skill library for AI agents \u2014 15 product domains, 121 skills. Tells the agent what to ask, how to reason, and what to output.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexe-ev",
+    "repoName": "product-plugins",
+    "repoBranch": "main"
+  },
+  "Eliasjunit/vibestretch": {
+    "name": "Eliasjunit/vibestretch",
+    "description": "Eliasjunit/vibestretch \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Eliasjunit",
+    "repoName": "vibestretch",
+    "repoBranch": "main"
+  },
+  "MohdAljahdali/mjloop": {
+    "name": "MohdAljahdali/mjloop",
+    "description": "A Claude Code plugin that runs work as verified cycles: a leader composes a track's agent roster, dispatches contract-bound agents in isolated contexts, and judges the result on evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MohdAljahdali",
+    "repoName": "mjloop",
+    "repoBranch": "main"
+  },
+  "dafuct/wikiforge": {
+    "name": "dafuct/wikiforge",
+    "description": "Local-first, LLM-curated personal knowledge base + Claude Code plugin: research topics, compile cited articles, and query with hybrid retrieval \u2014 on your Claude subscription or an Anthropic API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dafuct",
+    "repoName": "wikiforge",
+    "repoBranch": "main"
+  },
+  "manavmishra/ZeroSlop": {
+    "name": "manavmishra/ZeroSlop",
+    "description": "Remove AI slop, and prove it. AI writing has an accent and readers have learned to hear it, so Zero Slop scores any draft 0-100, strips the tells, and shows the before and after. It learns from the edits you make to i...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "manavmishra",
+    "repoName": "ZeroSlop",
+    "repoBranch": "main"
+  },
+  "Aboudjem/goalify": {
+    "name": "Aboudjem/goalify",
+    "description": "/goal takes a condition, not a file path. goalify locks the few real decisions, writes the brief, and derives the condition a fresh Claude Code or Codex session has to prove before it calls a big task done.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aboudjem",
+    "repoName": "goalify",
+    "repoBranch": "main"
   }
 }

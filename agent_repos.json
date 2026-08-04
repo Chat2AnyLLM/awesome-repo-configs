@@ -3096,5 +3096,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "MohdAljahdali/mjloop": {
+    "owner": "MohdAljahdali",
+    "name": "mjloop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
