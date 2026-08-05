@@ -19527,5 +19527,119 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "maciejdzierzek/kling-ai-prompt-generator": {
+        "owner": "maciejdzierzek",
+        "name": "kling-ai-prompt-generator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "paypal/AI-Toolkit": {
+        "owner": "paypal",
+        "name": "AI-Toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matcra587/claude-themes": {
+        "owner": "matcra587",
+        "name": "claude-themes",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "lukethecat/aperture": {
+        "owner": "lukethecat",
+        "name": "aperture",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "echennells/sparkbtcbot": {
+        "owner": "echennells",
+        "name": "sparkbtcbot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ayukyo/icode-skill": {
+        "owner": "ayukyo",
+        "name": "icode-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "matthews-wong/claude-code-plugins": {
+        "owner": "matthews-wong",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "heyuxuan0209/codex-feishu-bridge": {
+        "owner": "heyuxuan0209",
+        "name": "codex-feishu-bridge",
+        "branch": "main",
+        "enabled": true
+    },
+    "maciejdzierzek/nano-banana-prompt-generator": {
+        "owner": "maciejdzierzek",
+        "name": "nano-banana-prompt-generator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ndisisnd/mkpub": {
+        "owner": "ndisisnd",
+        "name": "mkpub",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "hjdealba96/hjdealba-agentic-workflow": {
+        "owner": "hjdealba96",
+        "name": "hjdealba-agentic-workflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "pehcastro/harness": {
+        "owner": "pehcastro",
+        "name": "harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "mralabs/radar": {
+        "owner": "mralabs",
+        "name": "radar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "robworks-code/sharding": {
+        "owner": "robworks-code",
+        "name": "sharding",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "impravin22/my-claude-maestro": {
+        "owner": "impravin22",
+        "name": "my-claude-maestro",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dtumacde-source/allostat": {
+        "owner": "dtumacde-source",
+        "name": "allostat",
+        "branch": "main",
+        "enabled": true
+    },
+    "lukasrepublic/agentic-foundry": {
+        "owner": "lukasrepublic",
+        "name": "agentic-foundry",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

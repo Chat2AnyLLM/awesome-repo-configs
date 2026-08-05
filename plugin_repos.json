@@ -1,7 +1,7 @@
 {
   "RiskAverseTech/createa-meme-skill": {
     "name": "createa-meme-skill",
-    "description": "Turn any idea into a finished meme with Create a Meme — picks the format, writes captions that land, generates via the @createa/meme-mcp tools, and offers variations. Works in Claude Code, Cursor, and any MCP agent.",
+    "description": "Turn any idea into a finished meme with Create a Meme \u2014 picks the format, writes captions that land, generates via the @createa/meme-mcp tools, and offers variations. Works in Claude Code, Cursor, and any MCP agent.",
     "enabled": true,
     "type": "plugin",
     "repoOwner": "RiskAverseTech",
@@ -16047,6 +16047,114 @@
     "type": "marketplace",
     "repoOwner": "Aboudjem",
     "repoName": "goalify",
+    "repoBranch": "main"
+  },
+  "maciejdzierzek/kling-ai-prompt-generator": {
+    "name": "maciejdzierzek/kling-ai-prompt-generator",
+    "description": "Claude plugin for Kling AI video prompts. Works with Claude.ai, Claude Desktop & Claude Code. I2V, T2V, Motion Control, Storyboards. Try live: maciejdzierzek.com",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maciejdzierzek",
+    "repoName": "kling-ai-prompt-generator",
+    "repoBranch": "main"
+  },
+  "paypal/AI-Toolkit": {
+    "name": "paypal/AI-Toolkit",
+    "description": "A Claude Code plugin that integrates PayPal's APIs and MCP server into your development workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paypal",
+    "repoName": "AI-Toolkit",
+    "repoBranch": "main"
+  },
+  "matcra587/claude-themes": {
+    "name": "matcra587/claude-themes",
+    "description": "A marketplace of UI themes for Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matcra587",
+    "repoName": "claude-themes",
+    "repoBranch": "main"
+  },
+  "echennells/sparkbtcbot": {
+    "name": "echennells/sparkbtcbot",
+    "description": "Claude Code skill for Spark Bitcoin L2 wallet capabilities including L402 for AI agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "echennells",
+    "repoName": "sparkbtcbot",
+    "repoBranch": "main"
+  },
+  "matthews-wong/claude-code-plugins": {
+    "name": "matthews-wong/claude-code-plugins",
+    "description": "A Claude Code plugin marketplace: 20 plugins for agentic workflows - skills, verification, code review, agent orchestration, loops, and cost control.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matthews-wong",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "maciejdzierzek/nano-banana-prompt-generator": {
+    "name": "maciejdzierzek/nano-banana-prompt-generator",
+    "description": "Claude plugin for Nano Banana (Gemini image) prompts. Claude.ai, Desktop & Code. Generation, editing, YouTube thumbnails, infographics. Try live: maciejdzierzek.com",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maciejdzierzek",
+    "repoName": "nano-banana-prompt-generator",
+    "repoBranch": "main"
+  },
+  "hjdealba96/hjdealba-agentic-workflow": {
+    "name": "hjdealba96/hjdealba-agentic-workflow",
+    "description": "Personal Claude Code plugin marketplace \u2014 opinionated git workflow skills (commit, branch, PR) that adapt to each project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hjdealba96",
+    "repoName": "hjdealba-agentic-workflow",
+    "repoBranch": "main"
+  },
+  "pehcastro/harness": {
+    "name": "pehcastro/harness",
+    "description": "my plugins and skills :)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pehcastro",
+    "repoName": "harness",
+    "repoBranch": "main"
+  },
+  "robworks-code/sharding": {
+    "name": "robworks-code/sharding",
+    "description": "Develop a product as isolated shards coupled only through a frozen, versioned contract, with drift caught mechanically. A Claude Code plugin + deterministic engine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robworks-code",
+    "repoName": "sharding",
+    "repoBranch": "main"
+  },
+  "impravin22/my-claude-maestro": {
+    "name": "impravin22/my-claude-maestro",
+    "description": "Master orchestrator plugin for Claude Code \u2014 task classification, live docs, design gate, layered security, model routing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "impravin22",
+    "repoName": "my-claude-maestro",
+    "repoBranch": "main"
+  },
+  "dtumacde-source/allostat": {
+    "name": "dtumacde-source/allostat",
+    "description": "Allostat \u2014 allostatic regulator for AI coding agents. Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dtumacde-source",
+    "repoName": "allostat",
+    "repoBranch": "main"
+  },
+  "lukasrepublic/agentic-foundry": {
+    "name": "lukasrepublic/agentic-foundry",
+    "description": "The factory: a Claude Code plugin for governed, spec-driven delivery \u2014 frozen acceptance contracts and a merge floor that refuses a red seam.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lukasrepublic",
+    "repoName": "agentic-foundry",
     "repoBranch": "main"
   }
 }

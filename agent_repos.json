@@ -3103,5 +3103,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "nikolareljin/claude-reposec": {
+    "owner": "nikolareljin",
+    "name": "claude-reposec",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lukasrepublic/agentic-foundry": {
+    "owner": "lukasrepublic",
+    "name": "agentic-foundry",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
