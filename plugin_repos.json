@@ -16156,5 +16156,77 @@
     "repoOwner": "lukasrepublic",
     "repoName": "agentic-foundry",
     "repoBranch": "main"
+  },
+  "tonylofgren/aurora-smart-home": {
+    "name": "tonylofgren/aurora-smart-home",
+    "description": "Independent Claude Skills for the whole smart home: Home Assistant, ESPHome, Node-RED, custom integrations, dashboards, and fab-ready hardware design.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonylofgren",
+    "repoName": "aurora-smart-home",
+    "repoBranch": "main"
+  },
+  "ParthGanatra/agent-skills": {
+    "name": "ParthGanatra/agent-skills",
+    "description": "Claude Code agent skills. Includes youtube-summary: a YouTube video summarizer that writes structured notes (TL;DR, takeaways, chapters) with optional slide extraction.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ParthGanatra",
+    "repoName": "agent-skills",
+    "repoBranch": "master"
+  },
+  "ddtcorex/dev-skills-hub": {
+    "name": "ddtcorex/dev-skills-hub",
+    "description": "An extensible, flat AI Skills Registry for Claude Code, OpenCode, Codex, and Copilot. Pre-configured for Magento 2 and Govard workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ddtcorex",
+    "repoName": "dev-skills-hub",
+    "repoBranch": "master"
+  },
+  "davejj1530/planflow-greenlight": {
+    "name": "davejj1530/planflow-greenlight",
+    "description": "davejj1530/planflow-greenlight \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davejj1530",
+    "repoName": "planflow-greenlight",
+    "repoBranch": "main"
+  },
+  "seokhoonj/pyecos": {
+    "name": "seokhoonj/pyecos",
+    "description": "Read interest rates, exchange rates, prices, GDP, and other economic statistics from the Bank of Korea's ECOS (\uacbd\uc81c\ud1b5\uacc4\uc2dc\uc2a4\ud15c).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokhoonj",
+    "repoName": "pyecos",
+    "repoBranch": "main"
+  },
+  "ProgWon/choose-ui": {
+    "name": "ProgWon/choose-ui",
+    "description": "Claude Code skill that chooses UI components from user intent, constraints, accessibility, and design-system context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ProgWon",
+    "repoName": "choose-ui",
+    "repoBranch": "main"
+  },
+  "zexion7873/perchling": {
+    "name": "zexion7873/perchling",
+    "description": "A tiny native desktop pet for Claude Code \u2014 perches on your screen, reacts to hook events. Swift binary under half a megabyte, no Electron.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zexion7873",
+    "repoName": "perchling",
+    "repoBranch": "main"
+  },
+  "kuhung/contextarmor": {
+    "name": "kuhung/contextarmor",
+    "description": "Local pre-send checks for client reports, support tickets, and error logs before AI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kuhung",
+    "repoName": "contextarmor",
+    "repoBranch": "main"
   }
 }

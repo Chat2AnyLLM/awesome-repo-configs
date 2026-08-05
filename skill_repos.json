@@ -19641,5 +19641,124 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "agiwhitelist/auteur": {
+        "owner": "agiwhitelist",
+        "name": "auteur",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tonylofgren/aurora-smart-home": {
+        "owner": "tonylofgren",
+        "name": "aurora-smart-home",
+        "branch": "main",
+        "enabled": true
+    },
+    "soheilmomeniii/positioning-with-ekram": {
+        "owner": "soheilmomeniii",
+        "name": "positioning-with-ekram",
+        "branch": "main",
+        "enabled": true
+    },
+    "ParthGanatra/agent-skills": {
+        "owner": "ParthGanatra",
+        "name": "agent-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "ddtcorex/dev-skills-hub": {
+        "owner": "ddtcorex",
+        "name": "dev-skills-hub",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "davejj1530/planflow-greenlight": {
+        "owner": "davejj1530",
+        "name": "planflow-greenlight",
+        "branch": "main",
+        "enabled": true
+    },
+    "kiraak-h/adsense-compliance-auditor": {
+        "owner": "kiraak-h",
+        "name": "adsense-compliance-auditor",
+        "branch": "main",
+        "enabled": true
+    },
+    "seokhoonj/pyecos": {
+        "owner": "seokhoonj",
+        "name": "pyecos",
+        "branch": "main",
+        "enabled": true
+    },
+    "leandrodslv/claude-skills-library": {
+        "owner": "leandrodslv",
+        "name": "claude-skills-library",
+        "branch": "claude/dazzling-cori-IZWh9",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ProgWon/choose-ui": {
+        "owner": "ProgWon",
+        "name": "choose-ui",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "zexion7873/perchling": {
+        "owner": "zexion7873",
+        "name": "perchling",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kuhung/contextarmor": {
+        "owner": "kuhung",
+        "name": "contextarmor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "deployhq/deployhq-cli": {
+        "owner": "deployhq",
+        "name": "deployhq-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "logog782-cmyk/linkly-quote-cards": {
+        "owner": "logog782-cmyk",
+        "name": "linkly-quote-cards",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gaoshuping99/anki-cards": {
+        "owner": "gaoshuping99",
+        "name": "anki-cards",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "malkreide/mcp-continuous-auditor": {
+        "owner": "malkreide",
+        "name": "mcp-continuous-auditor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OpenCnid/upsum": {
+        "owner": "OpenCnid",
+        "name": "upsum",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "enroh-ops/immut-agent": {
+        "owner": "enroh-ops",
+        "name": "immut-agent",
+        "branch": "main",
+        "enabled": true
     }
 }
