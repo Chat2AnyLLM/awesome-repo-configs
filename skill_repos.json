@@ -19880,5 +19880,37 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "albertoarena/claude-laravel-event-sourcing": {
+        "owner": "albertoarena",
+        "name": "claude-laravel-event-sourcing",
+        "branch": "main",
+        "enabled": true
+    },
+    "sallzzbr/hefesto": {
+        "owner": "sallzzbr",
+        "name": "hefesto",
+        "branch": "master",
+        "enabled": true
+    },
+    "Malo-T/branch-review": {
+        "owner": "Malo-T",
+        "name": "branch-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ahmadghoniem/claude-cursor-delegate": {
+        "owner": "ahmadghoniem",
+        "name": "claude-cursor-delegate",
+        "branch": "main",
+        "enabled": true
+    },
+    "myspacet-ai/multicam-ru": {
+        "owner": "myspacet-ai",
+        "name": "multicam-ru",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

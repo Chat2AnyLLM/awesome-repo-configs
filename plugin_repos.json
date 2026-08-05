@@ -16327,5 +16327,41 @@
     "repoOwner": "tae898",
     "repoName": "de-llm",
     "repoBranch": "main"
+  },
+  "albertoarena/claude-laravel-event-sourcing": {
+    "name": "albertoarena/claude-laravel-event-sourcing",
+    "description": "A Claude Code skill that helps you design and generate event-sourced domain code for Laravel using Spatie event sourcing",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "albertoarena",
+    "repoName": "claude-laravel-event-sourcing",
+    "repoBranch": "main"
+  },
+  "sallzzbr/hefesto": {
+    "name": "sallzzbr/hefesto",
+    "description": "Marketplace de plugins do Claude Code: hefesto (forja de plugins), odin (double diamond), hermes (marketing), bragir (voz), mimyr (cursos), hestia (finan\u00e7as). PT-BR.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sallzzbr",
+    "repoName": "hefesto",
+    "repoBranch": "master"
+  },
+  "Malo-T/branch-review": {
+    "name": "Malo-T/branch-review",
+    "description": "A Claude Code skill for going back over your own unmerged work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Malo-T",
+    "repoName": "branch-review",
+    "repoBranch": "main"
+  },
+  "ahmadghoniem/claude-cursor-delegate": {
+    "name": "ahmadghoniem/claude-cursor-delegate",
+    "description": "Delegate coding tasks from Claude Code to the Cursor CLI \u2014 plan in Claude, pick the right Cursor model, execute, review the diff. Windows + Linux.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ahmadghoniem",
+    "repoName": "claude-cursor-delegate",
+    "repoBranch": "main"
   }
 }
