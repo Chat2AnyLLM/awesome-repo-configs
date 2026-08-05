@@ -19760,5 +19760,125 @@
         "name": "immut-agent",
         "branch": "main",
         "enabled": true
+    },
+    "killernay/cc-devenv-doctor": {
+        "owner": "killernay",
+        "name": "cc-devenv-doctor",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShrimpLeon/cybernetic-thinking": {
+        "owner": "ShrimpLeon",
+        "name": "cybernetic-thinking",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shimo4228/authorship-strategy-skill": {
+        "owner": "shimo4228",
+        "name": "authorship-strategy-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wan-huiyan/overnight-workflows": {
+        "owner": "wan-huiyan",
+        "name": "overnight-workflows",
+        "branch": "main",
+        "enabled": true
+    },
+    "hashbulla/deep-research": {
+        "owner": "hashbulla",
+        "name": "deep-research",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hasanesenn/tymm-ders-etkinlik-tasarimcisi": {
+        "owner": "hasanesenn",
+        "name": "tymm-ders-etkinlik-tasarimcisi",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hussam3bd/filamentphp-claude-design-system": {
+        "owner": "Hussam3bd",
+        "name": "filamentphp-claude-design-system",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LikeMindsCommunity/agentic-workflow-backend": {
+        "owner": "LikeMindsCommunity",
+        "name": "agentic-workflow-backend",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "a596116/hao-skills": {
+        "owner": "a596116",
+        "name": "hao-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lawyerllsx-dotcom/Legal-Workflow-Chain": {
+        "owner": "lawyerllsx-dotcom",
+        "name": "Legal-Workflow-Chain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "runverdict/repo-standard-toolkit": {
+        "owner": "runverdict",
+        "name": "repo-standard-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mariusz-Lazarz/house-rules": {
+        "owner": "Mariusz-Lazarz",
+        "name": "house-rules",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mertagralii/fal.ai-butler": {
+        "owner": "mertagralii",
+        "name": "fal.ai-butler",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gciclon68/web-tutor-kit": {
+        "owner": "gciclon68",
+        "name": "web-tutor-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "zebbern/agent-collab": {
+        "owner": "zebbern",
+        "name": "agent-collab",
+        "branch": "main",
+        "enabled": true
+    },
+    "ketilaa/claude-altinn-plugin": {
+        "owner": "ketilaa",
+        "name": "claude-altinn-plugin",
+        "branch": "master",
+        "enabled": true
+    },
+    "tae898/de-llm": {
+        "owner": "tae898",
+        "name": "de-llm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Bemosha/claude-image-skill": {
+        "owner": "Bemosha",
+        "name": "claude-image-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

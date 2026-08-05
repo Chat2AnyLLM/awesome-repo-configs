@@ -3117,5 +3117,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mertagralii/fal.ai-butler": {
+    "owner": "mertagralii",
+    "name": "fal.ai-butler",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

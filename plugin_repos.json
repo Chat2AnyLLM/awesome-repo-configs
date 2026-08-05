@@ -16228,5 +16228,104 @@
     "repoOwner": "kuhung",
     "repoName": "contextarmor",
     "repoBranch": "main"
+  },
+  "killernay/cc-devenv-doctor": {
+    "name": "killernay/cc-devenv-doctor",
+    "description": "One command to take a bare Windows or Mac machine to a working Claude Code setup \u2014 plus a plugin that keeps diagnosing it afterwards.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "killernay",
+    "repoName": "cc-devenv-doctor",
+    "repoBranch": "main"
+  },
+  "wan-huiyan/overnight-workflows": {
+    "name": "wan-huiyan/overnight-workflows",
+    "description": "Two sister Claude Code plugins for autonomous overnight workflows \u2014 client-delivery polishing + ah-ha insight discovery, both with multi-agent review panels",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wan-huiyan",
+    "repoName": "overnight-workflows",
+    "repoBranch": "main"
+  },
+  "hasanesenn/tymm-ders-etkinlik-tasarimcisi": {
+    "name": "hasanesenn/tymm-ders-etkinlik-tasarimcisi",
+    "description": "TYMM (T\u00fcrkiye Y\u00fczy\u0131l\u0131 Maarif Modeli) kazan\u0131mlar\u0131na dayal\u0131, aktif \u00f6\u011frenme ve farkl\u0131la\u015ft\u0131rma i\u00e7eren ders/etkinlik plan\u0131 \u00fcreten Claude skill'i \u2014 TeacherX",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hasanesenn",
+    "repoName": "tymm-ders-etkinlik-tasarimcisi",
+    "repoBranch": "main"
+  },
+  "runverdict/repo-standard-toolkit": {
+    "name": "runverdict/repo-standard-toolkit",
+    "description": "Bootstrap and enforce enterprise repo hygiene in any codebase, from one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "runverdict",
+    "repoName": "repo-standard-toolkit",
+    "repoBranch": "main"
+  },
+  "DrunkkToys/claude-guardrails": {
+    "name": "DrunkkToys/claude-guardrails",
+    "description": "Claude Code guardrails enforced by the harness, not by prompts: deny placeholder code and dangerous commands, block ending a turn on an unverified 'done'. Six hooks, zero dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DrunkkToys",
+    "repoName": "claude-guardrails",
+    "repoBranch": "main"
+  },
+  "Mariusz-Lazarz/house-rules": {
+    "name": "Mariusz-Lazarz/house-rules",
+    "description": "house-rules: every folder has house rules \u2014 write them down, keep them true. Claude Code plugin & portable Agent Skill (works in Codex too) that documents each directory's file pattern into a short AGENTS.md, kept hon...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mariusz-Lazarz",
+    "repoName": "house-rules",
+    "repoBranch": "master"
+  },
+  "mertagralii/fal.ai-butler": {
+    "name": "mertagralii/fal.ai-butler",
+    "description": "Reklam videosu kampanyas\u0131 kuran Claude Code plugin'i. Projeni okur, k\u0131sa bir r\u00f6portajla kurguyu \u00e7\u0131kar\u0131r ve fal.ai'a import edilmeye haz\u0131r bir workflow.json \u00fcretir \u2014 sahneler zincirlenmi\u015f, karakter tutarl\u0131. Hi\u00e7bir mode...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mertagralii",
+    "repoName": "fal.ai-butler",
+    "repoBranch": "master"
+  },
+  "gciclon68/web-tutor-kit": {
+    "name": "gciclon68/web-tutor-kit",
+    "description": "Reusable Claude Code plugin: multi-page HTML study/reference sites with an embedded 'Tutor' chat backed by your logged-in claude CLI. Markdown + LaTeX, per-chat model, context folders, offline.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gciclon68",
+    "repoName": "web-tutor-kit",
+    "repoBranch": "main"
+  },
+  "zebbern/agent-collab": {
+    "name": "zebbern/agent-collab",
+    "description": "Run Codex and Cursor as background workers inside Claude Code. Reviews, tasks, and rescues with tracked jobs, live progress, and session handoffs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zebbern",
+    "repoName": "agent-collab",
+    "repoBranch": "main"
+  },
+  "ketilaa/claude-altinn-plugin": {
+    "name": "ketilaa/claude-altinn-plugin",
+    "description": "Claude Code plugin marketplace for Altinn Studio (.NET) app development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ketilaa",
+    "repoName": "claude-altinn-plugin",
+    "repoBranch": "master"
+  },
+  "tae898/de-llm": {
+    "name": "tae898/de-llm",
+    "description": "Strip the markers that make text read as machine-generated. Ordered by measured frequency in agent-written prose: formatting first, paste-era artifacts last. Sources cited, unsourced claims labelled.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tae898",
+    "repoName": "de-llm",
+    "repoBranch": "main"
   }
 }
