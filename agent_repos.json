@@ -3145,5 +3145,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "modu-ai/moai-cowork": {
+    "owner": "modu-ai",
+    "name": "moai-cowork",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "FRACerqueira/AdrPlus-IA-Plugin": {
+    "owner": "FRACerqueira",
+    "name": "AdrPlus-IA-Plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bakhod1r/awesome-agents": {
+    "owner": "bakhod1r",
+    "name": "awesome-agents",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "zyx1121/paper-generator": {
+    "owner": "zyx1121",
+    "name": "paper-generator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lunaos-ai/luna-agents": {
+    "owner": "lunaos-ai",
+    "name": "luna-agents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

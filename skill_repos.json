@@ -1,4 +1,3 @@
-
 {
     "liuboacean/mubu-integration": {
         "owner": "liuboacean",
@@ -20078,6 +20077,105 @@
         "name": "pdf-extract",
         "branch": "main",
         "skillsPath": "skills",
+        "enabled": true
+    },
+    "atgreen/secscan-skill": {
+        "owner": "atgreen",
+        "name": "secscan-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cagatayuncu/marketing-machine": {
+        "owner": "cagatayuncu",
+        "name": "marketing-machine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "modu-ai/moai-cowork": {
+        "owner": "modu-ai",
+        "name": "moai-cowork",
+        "branch": "main",
+        "enabled": true
+    },
+    "mutagent-io/skills": {
+        "owner": "mutagent-io",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ChloeVPin/apple-design-skill": {
+        "owner": "ChloeVPin",
+        "name": "apple-design-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Faust-Donf/finfluencer-audit": {
+        "owner": "Faust-Donf",
+        "name": "finfluencer-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ChloeVPin/tdd-agent-skill": {
+        "owner": "ChloeVPin",
+        "name": "tdd-agent-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "McClew/AI-Skills": {
+        "owner": "McClew",
+        "name": "AI-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "OQIODev/oqio-tool-starter": {
+        "owner": "OQIODev",
+        "name": "oqio-tool-starter",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "enmanuelmag/cardor-skills": {
+        "owner": "enmanuelmag",
+        "name": "cardor-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "FRACerqueira/AdrPlus-IA-Plugin": {
+        "owner": "FRACerqueira",
+        "name": "AdrPlus-IA-Plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "sallzzbr/hefesto-publico": {
+        "owner": "sallzzbr",
+        "name": "hefesto-publico",
+        "branch": "master",
+        "enabled": true
+    },
+    "bakhod1r/awesome-agents": {
+        "owner": "bakhod1r",
+        "name": "awesome-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "zyx1121/paper-generator": {
+        "owner": "zyx1121",
+        "name": "paper-generator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tjdwls101010/Ultra-Fetch": {
+        "owner": "tjdwls101010",
+        "name": "Ultra-Fetch",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
         "enabled": true
     }
 }

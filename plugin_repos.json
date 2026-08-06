@@ -16480,5 +16480,95 @@
     "repoOwner": "leonoronhas",
     "repoName": "attest-ai",
     "repoBranch": "main"
+  },
+  "cagatayuncu/marketing-machine": {
+    "name": "cagatayuncu/marketing-machine",
+    "description": "Claim-provenance and brand-compliance harness for marketing content: scans your codebase for product truth, lints copy against it, renders on-brand cards and video. Installs as a Claude Code plugin/skill, Cursor rule,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cagatayuncu",
+    "repoName": "marketing-machine",
+    "repoBranch": "main"
+  },
+  "modu-ai/moai-cowork": {
+    "name": "modu-ai/moai-cowork",
+    "description": "\ubaa8\ub450\uc758 \ucf54\uc6cc\ud06c(MoAI-Cowork) \u2014 \ud55c\uad6d \uc2e4\ubb34 Claude Code AI \uc9c1\uc6d0 \ud50c\ub7ec\uadf8\uc778 + 4\ud2b8\ub799 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc (cowork.mo.ai.kr)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "modu-ai",
+    "repoName": "moai-cowork",
+    "repoBranch": "main"
+  },
+  "mutagent-io/skills": {
+    "name": "mutagent-io/skills",
+    "description": "Official MutagenT skills for AI coding agents \u2014 Claude Code plugin marketplace for prompt optimization, evaluation, and observability.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mutagent-io",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "app-brew/claude-nanny": {
+    "name": "app-brew/claude-nanny",
+    "description": "Menu-bar status HUD for Claude Code \u2014 monitor multiple running Claude Code sessions (running \u00b7 needs input \u00b7 done \u00b7 error) across terminals on macOS. Installs as a Claude Code plugin. No Xcode needed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "app-brew",
+    "repoName": "claude-nanny",
+    "repoBranch": "main"
+  },
+  "enmanuelmag/cardor-skills": {
+    "name": "enmanuelmag/cardor-skills",
+    "description": "A marketplace of Claude Code skills for production-grade scaffolding, architecture and tooling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enmanuelmag",
+    "repoName": "cardor-skills",
+    "repoBranch": "master"
+  },
+  "FRACerqueira/AdrPlus-IA-Plugin": {
+    "name": "FRACerqueira/AdrPlus-IA-Plugin",
+    "description": "Lets Claude Code manage Architecture Decision Records in your repository via the adrplus CLI, in plain language, instead of you typing every command yourself.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FRACerqueira",
+    "repoName": "AdrPlus-IA-Plugin",
+    "repoBranch": "main"
+  },
+  "sallzzbr/hefesto-publico": {
+    "name": "sallzzbr/hefesto-publico",
+    "description": "Marketplace de plugins do Claude Code: hefesto (forja de plugins), odin (double diamond), hermes (marketing), bragir (voz), mimyr (cursos), hestia (finan\u00e7as). PT-BR.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sallzzbr",
+    "repoName": "hefesto-publico",
+    "repoBranch": "master"
+  },
+  "bakhod1r/awesome-agents": {
+    "name": "bakhod1r/awesome-agents",
+    "description": "109 specialist Claude Code subagents \u00b7 16 engineering teams \u00b7 11 commands \u00b7 10 skills. Architecture \u2192 build \u2192 verify \u2192 ship, with the delegation chain enforced. Installable as a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bakhod1r",
+    "repoName": "awesome-agents",
+    "repoBranch": "main"
+  },
+  "zyx1121/paper-generator": {
+    "name": "zyx1121/paper-generator",
+    "description": "Claude Code plugin: idea-to-paper pipeline with simulated peer review",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zyx1121",
+    "repoName": "paper-generator",
+    "repoBranch": "main"
+  },
+  "lunaos-ai/luna-agents": {
+    "name": "lunaos-ai/luna-agents",
+    "description": "Luna Pipes: a concatenative AI shell language. 358 verbs composed via >>. AI honesty auditor (/ll-no-bluf), agent scaffolder, 21 stack-aware doctors, evidence-weighted voting swarm. Claude Code plugin. MIT. Runs locally.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lunaos-ai",
+    "repoName": "luna-agents",
+    "repoBranch": "main"
   }
 }
