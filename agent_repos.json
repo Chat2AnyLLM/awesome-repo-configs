@@ -3124,5 +3124,12 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "lovepixel-git/skill-forge": {
+    "owner": "lovepixel-git",
+    "name": "skill-forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

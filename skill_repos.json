@@ -19912,5 +19912,77 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "curie-eng/curie": {
+        "owner": "curie-eng",
+        "name": "curie",
+        "branch": "main",
+        "enabled": true
+    },
+    "mariano-aguero/spec-driven-development-skill": {
+        "owner": "mariano-aguero",
+        "name": "spec-driven-development-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "auver/maven-code-graph": {
+        "owner": "auver",
+        "name": "maven-code-graph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shubhaviatiningsih-byte/fortune-liuyao-skill": {
+        "owner": "shubhaviatiningsih-byte",
+        "name": "fortune-liuyao-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lovepixel-git/skill-forge": {
+        "owner": "lovepixel-git",
+        "name": "skill-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "martinciu/gruppo": {
+        "owner": "martinciu",
+        "name": "gruppo",
+        "branch": "main",
+        "enabled": true
+    },
+    "devbasex/ai-plugins": {
+        "owner": "devbasex",
+        "name": "ai-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "liyuechao2018/face-photo-search": {
+        "owner": "liyuechao2018",
+        "name": "face-photo-search",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mmurshed/tmlr-verify": {
+        "owner": "mmurshed",
+        "name": "tmlr-verify",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aihunt-ttg/client-safe-sweep": {
+        "owner": "aihunt-ttg",
+        "name": "client-safe-sweep",
+        "branch": "main",
+        "enabled": true
+    },
+    "Koo-bon/skillers-share": {
+        "owner": "Koo-bon",
+        "name": "skillers-share",
+        "branch": "main",
+        "enabled": true
     }
 }

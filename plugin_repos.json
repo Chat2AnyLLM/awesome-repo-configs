@@ -16363,5 +16363,50 @@
     "repoOwner": "ahmadghoniem",
     "repoName": "claude-cursor-delegate",
     "repoBranch": "main"
+  },
+  "curie-eng/curie": {
+    "name": "curie-eng/curie",
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. Run the same bundle locally and on Kubernetes, and ship it with git push.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "curie-eng",
+    "repoName": "curie",
+    "repoBranch": "main"
+  },
+  "lovepixel-git/skill-forge": {
+    "name": "lovepixel-git/skill-forge",
+    "description": "Design, scaffold, review, and publish production-grade Claude Code skills. Follows the Agent Skills open standard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lovepixel-git",
+    "repoName": "skill-forge",
+    "repoBranch": "main"
+  },
+  "martinciu/gruppo": {
+    "name": "martinciu/gruppo",
+    "description": "A coordinated set of Claude Code plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martinciu",
+    "repoName": "gruppo",
+    "repoBranch": "main"
+  },
+  "devbasex/ai-plugins": {
+    "name": "devbasex/ai-plugins",
+    "description": "AI Agent Marketplace - Claude Code\u30d7\u30e9\u30b0\u30a4\u30f3\u30de\u30fc\u30b1\u30c3\u30c8\u30d7\u30ec\u30a4\u30b9",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devbasex",
+    "repoName": "ai-plugins",
+    "repoBranch": "main"
+  },
+  "aihunt-ttg/client-safe-sweep": {
+    "name": "aihunt-ttg/client-safe-sweep",
+    "description": "Pre-send safety sweep for client-facing artifacts: catches secrets, internal tooling leaks, AI-authorship markers, absolute guarantees, and cross-client contamination before anything is sent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aihunt-ttg",
+    "repoName": "client-safe-sweep",
+    "repoBranch": "main"
   }
 }
