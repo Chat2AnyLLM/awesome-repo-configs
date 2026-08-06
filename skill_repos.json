@@ -7,7 +7,6 @@
         "skillsPath": ".",
         "enabled": true
     },
-    "khadinakbarlabs/shopify-app-builder"{
     "khadinakbarlabs/shopify-app-builder": {
         "owner": "khadinakbarlabs",
         "name": "shopify-app-builder",
