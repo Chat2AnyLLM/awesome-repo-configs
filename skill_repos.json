@@ -1,4 +1,11 @@
+
 {
+    "liuboacean/mubu-integration": {
+        "owner": "liuboacean",
+        "name": "mubu-integration",
+        "branch": "main",
+        "enabled": true
+    },
     "khadinakbarlabs/shopify-app-builder": {
         "owner": "khadinakbarlabs",
         "name": "shopify-app-builder",
