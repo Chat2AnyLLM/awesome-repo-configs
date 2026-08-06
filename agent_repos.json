@@ -3131,5 +3131,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "salmanashraf/mobile-ai-agents": {
+    "owner": "salmanashraf",
+    "name": "mobile-ai-agents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gitgitWi/council-flow": {
+    "owner": "gitgitWi",
+    "name": "council-flow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -19984,5 +19984,93 @@
         "name": "skillers-share",
         "branch": "main",
         "enabled": true
+    },
+    "konradmichalik/md-annotator": {
+        "owner": "konradmichalik",
+        "name": "md-annotator",
+        "branch": "main",
+        "enabled": true
+    },
+    "matt-ye/Toutour": {
+        "owner": "matt-ye",
+        "name": "Toutour",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CrunTeam/crun-agent-skills": {
+        "owner": "CrunTeam",
+        "name": "crun-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gitgitWi/council-flow": {
+        "owner": "gitgitWi",
+        "name": "council-flow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johnrucnapier-sketch/ACGM-for-Claude-Code": {
+        "owner": "johnrucnapier-sketch",
+        "name": "ACGM-for-Claude-Code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matt-ye/Pack-and-Ship": {
+        "owner": "matt-ye",
+        "name": "Pack-and-Ship",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shumingyang-opencode/mattpocock-skills-zh-tw": {
+        "owner": "shumingyang-opencode",
+        "name": "mattpocock-skills-zh-tw",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Malo-T/claude-toolbelt": {
+        "owner": "Malo-T",
+        "name": "claude-toolbelt",
+        "branch": "main",
+        "enabled": true
+    },
+    "Arindaag760/humanizer-cli": {
+        "owner": "Arindaag760",
+        "name": "humanizer-cli",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "leonoronhas/attest-ai": {
+        "owner": "leonoronhas",
+        "name": "attest-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "kubersharmax/amda-skill": {
+        "owner": "kubersharmax",
+        "name": "amda-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "roomi-fields/notebooklm-skill": {
+        "owner": "roomi-fields",
+        "name": "notebooklm-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LPSlv/pdf-extract": {
+        "owner": "LPSlv",
+        "name": "pdf-extract",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
