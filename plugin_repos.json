@@ -16570,5 +16570,113 @@
     "repoOwner": "lunaos-ai",
     "repoName": "luna-agents",
     "repoBranch": "main"
+  },
+  "IngvarConsulting/unica": {
+    "name": "IngvarConsulting/unica",
+    "description": "Unica (\u042e\u0301\u043d\u0438\u043a\u0430) \u2014 \u043f\u0443\u0431\u043b\u0438\u0447\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d Codex \u0438 Claude Code \u0434\u043b\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043d\u0430 1\u0421:\u041f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0438.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IngvarConsulting",
+    "repoName": "unica",
+    "repoBranch": "main"
+  },
+  "wei18/Upkeep": {
+    "name": "wei18/Upkeep",
+    "description": "Upkeep \u2014 an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/skill + reusable CI workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wei18",
+    "repoName": "Upkeep",
+    "repoBranch": "main"
+  },
+  "dbc-oduffy/coordinator-claude": {
+    "name": "dbc-oduffy/coordinator-claude",
+    "description": "An opinionated Claude operating system for PM-led engineering. Planning, enrichment, delegated execution, staged review, ship decisions, durable handoffs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dbc-oduffy",
+    "repoName": "coordinator-claude",
+    "repoBranch": "main"
+  },
+  "DocketDrafter/docketdrafter-plugins": {
+    "name": "DocketDrafter/docketdrafter-plugins",
+    "description": "Open-source legal research plugins for Claude Cowork and Claude Code from DocketDrafter.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DocketDrafter",
+    "repoName": "docketdrafter-plugins",
+    "repoBranch": "master"
+  },
+  "JietingWeiJietingWei/skills": {
+    "name": "JietingWeiJietingWei/skills",
+    "description": "Skills for builders who ship their own products. Includes roast-my-product: a multi-perspective product audit for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JietingWeiJietingWei",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "unbounce/agent-plugins": {
+    "name": "unbounce/agent-plugins",
+    "description": "Unbounce's plugin marketplace for AI agents. Install the unbounce-mcp plugin in Claude Code/Cowork and ChatGPT/Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "unbounce",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "GentBajko/capstone": {
+    "name": "GentBajko/capstone",
+    "description": "Claude Code plugin: architecture reference docs (DESIGN.md + docs/design/) stamped to commits, with verify/query/changelog/critique/runbooks/onboarding, a greenfield design interview, and product-discovery mockups",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GentBajko",
+    "repoName": "capstone",
+    "repoBranch": "main"
+  },
+  "Misoto22/skills": {
+    "name": "Misoto22/skills",
+    "description": "Portable, configurable agent skills for reliable everyday work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Misoto22",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "sbnet/flux": {
+    "name": "sbnet/flux",
+    "description": "A quasi-autonomous development workflow built on Claude Code: a convention and configuration layer over native primitives (hooks, skills, GitHub Actions), not a new engine",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sbnet",
+    "repoName": "flux",
+    "repoBranch": "main"
+  },
+  "Clinical-Quality-Artifical-Intelligence/practice-loops": {
+    "name": "Clinical-Quality-Artifical-Intelligence/practice-loops",
+    "description": "Safe, governed AI practice loops for nursing \u2014 a Claude Code plugin. Six NMC-anchored loops with built-in verification, escalation, human sign-off and an audit trail.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Clinical-Quality-Artifical-Intelligence",
+    "repoName": "practice-loops",
+    "repoBranch": "main"
+  },
+  "BryceEWatson/honestweek": {
+    "name": "BryceEWatson/honestweek",
+    "description": "Turn a week of your AI coding sessions into an honest, shareable work report \u2014 verified against git, private by default. Spec-first; built from the issues.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BryceEWatson",
+    "repoName": "honestweek",
+    "repoBranch": "main"
+  },
+  "imMamdouhaboammar/linkedin-animated-infographics": {
+    "name": "imMamdouhaboammar/linkedin-animated-infographics",
+    "description": "Claude Skill & CLI pipeline for creating, designing, and rendering deterministic, lightweight looping GIF infographics for LinkedIn (RTL & Arabic supported).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "imMamdouhaboammar",
+    "repoName": "linkedin-animated-infographics",
+    "repoBranch": "main"
   }
 }

@@ -3180,5 +3180,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "dbc-oduffy/coordinator-claude": {
+    "owner": "dbc-oduffy",
+    "name": "coordinator-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sbnet/flux": {
+    "owner": "sbnet",
+    "name": "flux",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "imMamdouhaboammar/linkedin-animated-infographics": {
+    "owner": "imMamdouhaboammar",
+    "name": "linkedin-animated-infographics",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

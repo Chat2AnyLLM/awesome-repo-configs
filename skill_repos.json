@@ -20177,5 +20177,108 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "IngvarConsulting/unica": {
+        "owner": "IngvarConsulting",
+        "name": "unica",
+        "branch": "main",
+        "enabled": true
+    },
+    "wei18/Upkeep": {
+        "owner": "wei18",
+        "name": "Upkeep",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbc-oduffy/coordinator-claude": {
+        "owner": "dbc-oduffy",
+        "name": "coordinator-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "olgasafonova/one-page-strategy": {
+        "owner": "olgasafonova",
+        "name": "one-page-strategy",
+        "branch": "main",
+        "enabled": true
+    },
+    "DocketDrafter/docketdrafter-plugins": {
+        "owner": "DocketDrafter",
+        "name": "docketdrafter-plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "Anvil-Code/skill-validator": {
+        "owner": "Anvil-Code",
+        "name": "skill-validator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Sandeeprdy1729/skills": {
+        "owner": "Sandeeprdy1729",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OKHP3/skillz": {
+        "owner": "OKHP3",
+        "name": "skillz",
+        "branch": "main",
+        "enabled": true
+    },
+    "JietingWeiJietingWei/skills": {
+        "owner": "JietingWeiJietingWei",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "unbounce/agent-plugins": {
+        "owner": "unbounce",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "GentBajko/capstone": {
+        "owner": "GentBajko",
+        "name": "capstone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Misoto22/skills": {
+        "owner": "Misoto22",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sbnet/flux": {
+        "owner": "sbnet",
+        "name": "flux",
+        "branch": "main",
+        "enabled": true
+    },
+    "Clinical-Quality-Artifical-Intelligence/practice-loops": {
+        "owner": "Clinical-Quality-Artifical-Intelligence",
+        "name": "practice-loops",
+        "branch": "main",
+        "enabled": true
+    },
+    "BryceEWatson/honestweek": {
+        "owner": "BryceEWatson",
+        "name": "honestweek",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "imMamdouhaboammar/linkedin-animated-infographics": {
+        "owner": "imMamdouhaboammar",
+        "name": "linkedin-animated-infographics",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
