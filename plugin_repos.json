@@ -16723,5 +16723,68 @@
     "repoOwner": "yash161004",
     "repoName": "context-guardian",
     "repoBranch": "main"
+  },
+  "nexiouscaliver/OmniForge": {
+    "name": "nexiouscaliver/OmniForge",
+    "description": "OmniForge. Because merge requests deserve more than LGTM. 3 adversarial AI agents tear apart your code in isolated worktrees, auto-fix the findings, and forge MRs that actually have descriptions. One plugin to forge y...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nexiouscaliver",
+    "repoName": "OmniForge",
+    "repoBranch": "main"
+  },
+  "cdmx-in/security-review": {
+    "name": "cdmx-in/security-review",
+    "description": "Claude Code skill that runs real security scanners (Semgrep, gitleaks, TruffleHog, Trivy, osv-scanner, ZAP) then verifies every finding against source. SAST, secrets across full git history, SCA, IaC, Supabase/Firebas...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdmx-in",
+    "repoName": "security-review",
+    "repoBranch": "main"
+  },
+  "vsdudakov/troika": {
+    "name": "vsdudakov/troika",
+    "description": "Turn a tracker ticket into a reviewed, QA-verified pull request. AI coding-agent pipeline of eight roles \u2014 plugin for Claude Code, Codex and Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vsdudakov",
+    "repoName": "troika",
+    "repoBranch": "main"
+  },
+  "AleksandarBisevac/claude-plugins": {
+    "name": "AleksandarBisevac/claude-plugins",
+    "description": "Claude Code plugin marketplace. audit: a manifest-driven audit/fix pipeline with enforced plan-first and TDD gates \u2014 deterministic hooks, not prompt suggestions \u2014 token spend attributed to phases and tasks, and a shar...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AleksandarBisevac",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "khalilmaaouni/BrotherSBE": {
+    "name": "khalilmaaouni/BrotherSBE",
+    "description": "A design review tool that refuses to report success over anything it did not examine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "khalilmaaouni",
+    "repoName": "BrotherSBE",
+    "repoBranch": "main"
+  },
+  "novanoticia/token-calculator-suite": {
+    "name": "novanoticia/token-calculator-suite",
+    "description": "Unified token calculation system for Claude Chat, Cowork, and Claude Code. Reusable TypeScript library and tools to estimate token usage, context consumption, and API costs with transparent error margins and a privacy...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "novanoticia",
+    "repoName": "token-calculator-suite",
+    "repoBranch": "main"
+  },
+  "developerjillur/all-cli-council": {
+    "name": "developerjillur/all-cli-council",
+    "description": "All CLI Council for Claude Code \u2014 ask five models across four vendors the same hard question, let them rank each other anonymously, then decide yourself. Runs on the CLIs you already have. No API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "developerjillur",
+    "repoName": "all-cli-council",
+    "repoBranch": "main"
   }
 }

@@ -20333,5 +20333,71 @@
         "name": "ja-human-writing",
         "branch": "main",
         "enabled": true
+    },
+    "nexiouscaliver/OmniForge": {
+        "owner": "nexiouscaliver",
+        "name": "OmniForge",
+        "branch": "main",
+        "enabled": true
+    },
+    "vbkotecha/agentservices-api": {
+        "owner": "vbkotecha",
+        "name": "agentservices-api",
+        "branch": "main",
+        "enabled": true
+    },
+    "cdmx-in/security-review": {
+        "owner": "cdmx-in",
+        "name": "security-review",
+        "branch": "main",
+        "enabled": true
+    },
+    "vsdudakov/troika": {
+        "owner": "vsdudakov",
+        "name": "troika",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AleksandarBisevac/claude-plugins": {
+        "owner": "AleksandarBisevac",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "khalilmaaouni/BrotherSBE": {
+        "owner": "khalilmaaouni",
+        "name": "BrotherSBE",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "novanoticia/token-calculator-suite": {
+        "owner": "novanoticia",
+        "name": "token-calculator-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "developerjillur/all-cli-council": {
+        "owner": "developerjillur",
+        "name": "all-cli-council",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lisayinyy/wgz_painting": {
+        "owner": "Lisayinyy",
+        "name": "wgz_painting",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "KUN11-UAER/kun-embedded-workflows": {
+        "owner": "KUN11-UAER",
+        "name": "kun-embedded-workflows",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

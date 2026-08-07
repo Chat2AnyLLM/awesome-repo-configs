@@ -3215,5 +3215,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "vsdudakov/troika": {
+    "owner": "vsdudakov",
+    "name": "troika",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "khalilmaaouni/BrotherSBE": {
+    "owner": "khalilmaaouni",
+    "name": "BrotherSBE",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
