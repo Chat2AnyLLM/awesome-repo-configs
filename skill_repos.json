@@ -20465,5 +20465,130 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "686f6c61/alfred-dev": {
+        "owner": "686f6c61",
+        "name": "alfred-dev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jartan-LLC/grimoire": {
+        "owner": "Jartan-LLC",
+        "name": "grimoire",
+        "branch": "main",
+        "enabled": true
+    },
+    "KashZod/devloop": {
+        "owner": "KashZod",
+        "name": "devloop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gangchen/epiage-skill": {
+        "owner": "gangchen",
+        "name": "epiage-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "farshadmomo/lan-direct": {
+        "owner": "farshadmomo",
+        "name": "lan-direct",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "novoads/claude-code-ads": {
+        "owner": "novoads",
+        "name": "claude-code-ads",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SPXROS/quality-comments": {
+        "owner": "SPXROS",
+        "name": "quality-comments",
+        "branch": "main",
+        "enabled": true
+    },
+    "Alexyskoutnev/research-skills": {
+        "owner": "Alexyskoutnev",
+        "name": "research-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "1Popov/handoff": {
+        "owner": "1Popov",
+        "name": "handoff",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dekan-aleksandr/biodiscovery-skills": {
+        "owner": "dekan-aleksandr",
+        "name": "biodiscovery-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "christianpasinrey/refactoring.guru-skill": {
+        "owner": "christianpasinrey",
+        "name": "refactoring.guru-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adelaidasofia/claude-deconstruct": {
+        "owner": "adelaidasofia",
+        "name": "claude-deconstruct",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adelaidasofia/claude-plan": {
+        "owner": "adelaidasofia",
+        "name": "claude-plan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guilherme-iaparaagronomos/skills-agro": {
+        "owner": "guilherme-iaparaagronomos",
+        "name": "skills-agro",
+        "branch": "main",
+        "enabled": true
+    },
+    "orlodax/metaconcert": {
+        "owner": "orlodax",
+        "name": "metaconcert",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "soulsurya/claude-skills": {
+        "owner": "soulsurya",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "takaoumehara/intuitive-game-design-skill": {
+        "owner": "takaoumehara",
+        "name": "intuitive-game-design-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wan-huiyan/guide-your-ai-art": {
+        "owner": "wan-huiyan",
+        "name": "guide-your-ai-art",
+        "branch": "main",
+        "enabled": true
+    },
+    "eaqd/short-film-forge": {
+        "owner": "eaqd",
+        "name": "short-film-forge",
+        "branch": "main",
+        "enabled": true
     }
 }

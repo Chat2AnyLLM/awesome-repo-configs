@@ -16840,5 +16840,77 @@
     "repoOwner": "moiri-gamboni",
     "repoName": "praxis",
     "repoBranch": "master"
+  },
+  "686f6c61/alfred-dev": {
+    "name": "686f6c61/alfred-dev",
+    "description": "Plugin de Claude Code: 18 agentes especializados, 60 skills, 25 comandos, 13 hooks, memoria persistente, Memory UI local, quality gates, evidence guard, continuidad operativa y modo autopilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "686f6c61",
+    "repoName": "alfred-dev",
+    "repoBranch": "main"
+  },
+  "Jartan-LLC/grimoire": {
+    "name": "Jartan-LLC/grimoire",
+    "description": "Where Merlin keeps his spells, for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jartan-LLC",
+    "repoName": "grimoire",
+    "repoBranch": "main"
+  },
+  "1Popov/handoff": {
+    "name": "1Popov/handoff",
+    "description": "Does not ask the next session to read your project. It asks it to prove that it did. The old session writes the exam from live memory, the new one takes it, the old one marks it. Questions only a reader could answer,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "1Popov",
+    "repoName": "handoff",
+    "repoBranch": "main"
+  },
+  "dekan-aleksandr/biodiscovery-skills": {
+    "name": "dekan-aleksandr/biodiscovery-skills",
+    "description": "Thinking tools for AI agents making discoveries in the life sciences",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dekan-aleksandr",
+    "repoName": "biodiscovery-skills",
+    "repoBranch": "main"
+  },
+  "adelaidasofia/claude-deconstruct": {
+    "name": "adelaidasofia/claude-deconstruct",
+    "description": "First-principles analyst. Surfaces hidden assumptions, finds foundational truths, identifies the high-leverage move.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adelaidasofia",
+    "repoName": "claude-deconstruct",
+    "repoBranch": "main"
+  },
+  "adelaidasofia/claude-plan": {
+    "name": "adelaidasofia/claude-plan",
+    "description": "Temporal Agency for Claude Code: turns to-dos into time-boxed calendar blocks, protects biological anchors first, tracks scheduled vs shipped",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adelaidasofia",
+    "repoName": "claude-plan",
+    "repoBranch": "main"
+  },
+  "soulsurya/claude-skills": {
+    "name": "soulsurya/claude-skills",
+    "description": "soulsurya/claude-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soulsurya",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "wan-huiyan/guide-your-ai-art": {
+    "name": "wan-huiyan/guide-your-ai-art",
+    "description": "Diagnose AI-generated art by measuring the output instead of rewriting the prompt \u2014 then get it onto a real app surface.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wan-huiyan",
+    "repoName": "guide-your-ai-art",
+    "repoBranch": "main"
   }
 }
