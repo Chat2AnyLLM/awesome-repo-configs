@@ -20280,5 +20280,58 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jordanrendric/claude-video-vision": {
+        "owner": "jordanrendric",
+        "name": "claude-video-vision",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lancegui/causal-powers": {
+        "owner": "lancegui",
+        "name": "causal-powers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seokhoonj/krx-openapi": {
+        "owner": "seokhoonj",
+        "name": "krx-openapi",
+        "branch": "main",
+        "enabled": true
+    },
+    "lizliz404/agent-skills": {
+        "owner": "lizliz404",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rulebase-co/rulebase-skills": {
+        "owner": "rulebase-co",
+        "name": "rulebase-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thatdudealso/read-me-launcher": {
+        "owner": "thatdudealso",
+        "name": "read-me-launcher",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jimmy-ai-studio/dongye-detective-skill": {
+        "owner": "Jimmy-ai-studio",
+        "name": "dongye-detective-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "vincent-wen789/ja-human-writing": {
+        "owner": "vincent-wen789",
+        "name": "ja-human-writing",
+        "branch": "main",
+        "enabled": true
     }
 }

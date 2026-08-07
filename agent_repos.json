@@ -3201,5 +3201,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jordanrendric/claude-video-vision": {
+    "owner": "jordanrendric",
+    "name": "claude-video-vision",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lancegui/causal-powers": {
+    "owner": "lancegui",
+    "name": "causal-powers",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

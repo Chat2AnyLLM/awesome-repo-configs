@@ -16678,5 +16678,50 @@
     "repoOwner": "imMamdouhaboammar",
     "repoName": "linkedin-animated-infographics",
     "repoBranch": "main"
+  },
+  "jordanrendric/claude-video-vision": {
+    "name": "jordanrendric/claude-video-vision",
+    "description": "Give Claude the ability to watch and understand videos \u2014 Claude Code plugin with frame extraction and multimodal audio analysis",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jordanrendric",
+    "repoName": "claude-video-vision",
+    "repoBranch": "main"
+  },
+  "lancegui/causal-powers": {
+    "name": "lancegui/causal-powers",
+    "description": "Economist's discipline for data analysis, causal inference, and econometrics \u2014 reduced-form and structural. A Claude Code plugin whose name is a homage to superpowers; it makes the silent failures of data work loud.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lancegui",
+    "repoName": "causal-powers",
+    "repoBranch": "main"
+  },
+  "dotcomjack/claude-session-tint": {
+    "name": "dotcomjack/claude-session-tint",
+    "description": "Know which Claude Code session needs you. Tints your terminal window by project and lights it up when a response lands unseen. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dotcomjack",
+    "repoName": "claude-session-tint",
+    "repoBranch": "main"
+  },
+  "seokhoonj/krx-openapi": {
+    "name": "seokhoonj/krx-openapi",
+    "description": "Read the Korea Exchange (KRX) Open API: indices, stocks, ETP, bonds, derivatives, commodities, ESG",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokhoonj",
+    "repoName": "krx-openapi",
+    "repoBranch": "main"
+  },
+  "yash161004/context-guardian": {
+    "name": "yash161004/context-guardian",
+    "description": "Detects when a Claude Code session is losing context and nudges Claude to delegate or compact - instead of showing you a dashboard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yash161004",
+    "repoName": "context-guardian",
+    "repoBranch": "main"
   }
 }
