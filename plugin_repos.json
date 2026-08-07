@@ -16786,5 +16786,59 @@
     "repoOwner": "developerjillur",
     "repoName": "all-cli-council",
     "repoBranch": "main"
+  },
+  "Snowflake-Labs/snowflake-ai-kit": {
+    "name": "Snowflake-Labs/snowflake-ai-kit",
+    "description": "Snowflake AI Kit: Cortex Code plugin for automatic Snowflake routing, envelope-based permission policy, and one-command installers for Snowflake CLI + Cortex Code CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Snowflake-Labs",
+    "repoName": "snowflake-ai-kit",
+    "repoBranch": "main"
+  },
+  "transcendr/slopware-skills": {
+    "name": "transcendr/slopware-skills",
+    "description": "Free, portable AI agent skills and plugins for Codex, Claude Code, and Agent Skills clients by Slopware Engineer (@aienginerd). Home of the MSW Kernel for Minimum Sufficient Work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "transcendr",
+    "repoName": "slopware-skills",
+    "repoBranch": "main"
+  },
+  "justmaniv/cannery-row": {
+    "name": "justmaniv/cannery-row",
+    "description": "Your agent's work survives the session that wrote it. Task state as files in your repo, where the location is the status. A Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justmaniv",
+    "repoName": "cannery-row",
+    "repoBranch": "main"
+  },
+  "kanno321-create/ai-video-prompt-skills": {
+    "name": "kanno321-create/ai-video-prompt-skills",
+    "description": "19 Claude Code skills for AI video prompts (Kling, Seedance, Veo) \u2014 matter, light, weather, and a full identity-lock skill from the paid pack. From production A/B measurements.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kanno321-create",
+    "repoName": "ai-video-prompt-skills",
+    "repoBranch": "main"
+  },
+  "Texarkanine/stockroom": {
+    "name": "Texarkanine/stockroom",
+    "description": "A local, faithful, searchable warehouse of your agentic-coding history.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Texarkanine",
+    "repoName": "stockroom",
+    "repoBranch": "main"
+  },
+  "moiri-gamboni/praxis": {
+    "name": "moiri-gamboni/praxis",
+    "description": "A Claude Code plugin for software development: structured debugging, TDD, code review, git workflows, and specialized analysis agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moiri-gamboni",
+    "repoName": "praxis",
+    "repoBranch": "master"
   }
 }

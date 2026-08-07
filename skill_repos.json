@@ -20399,5 +20399,71 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "Snowflake-Labs/snowflake-ai-kit": {
+        "owner": "Snowflake-Labs",
+        "name": "snowflake-ai-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "transcendr/slopware-skills": {
+        "owner": "transcendr",
+        "name": "slopware-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "justmaniv/cannery-row": {
+        "owner": "justmaniv",
+        "name": "cannery-row",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AirtonLira/boostprompt": {
+        "owner": "AirtonLira",
+        "name": "boostprompt",
+        "branch": "main",
+        "enabled": true
+    },
+    "kanno321-create/ai-video-prompt-skills": {
+        "owner": "kanno321-create",
+        "name": "ai-video-prompt-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "betmoar/cc-status-plugin": {
+        "owner": "betmoar",
+        "name": "cc-status-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Texarkanine/stockroom": {
+        "owner": "Texarkanine",
+        "name": "stockroom",
+        "branch": "main",
+        "enabled": true
+    },
+    "moiri-gamboni/praxis": {
+        "owner": "moiri-gamboni",
+        "name": "praxis",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mdharastani-pixel/user-scenario-audit": {
+        "owner": "mdharastani-pixel",
+        "name": "user-scenario-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mwstech/wp-security-audit-skill": {
+        "owner": "mwstech",
+        "name": "wp-security-audit-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
