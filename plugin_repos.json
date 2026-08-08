@@ -17065,5 +17065,14 @@
     "repoOwner": "abdulazizsapra",
     "repoName": "marie-kondo-skill",
     "repoBranch": "main"
+  },
+  "meemoprasad/meeba-brain-marketplace": {
+  "name": "Meeba Brain",
+  "description": "Ground-truth code graph context for your own private codebase — exact callers, callees, symbol definitions, and file dependencies, from a real parsed graph, not text-similarity guessing.",
+  "enabled": true,
+  "type": "marketplace",
+  "repoOwner": "meemoprasad",
+  "repoName": "meeba-brain-marketplace",
+  "repoBranch": "main"
   }
 }
