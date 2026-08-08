@@ -20590,5 +20590,120 @@
         "name": "short-film-forge",
         "branch": "main",
         "enabled": true
+    },
+    "hyhmrright/logic-lens": {
+        "owner": "hyhmrright",
+        "name": "logic-lens",
+        "branch": "main",
+        "enabled": true
+    },
+    "antonio0720/writing-intelligence": {
+        "owner": "antonio0720",
+        "name": "writing-intelligence",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sanhuang520-ship-it/awesome-chinese-ai-tools": {
+        "owner": "sanhuang520-ship-it",
+        "name": "awesome-chinese-ai-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "n-pillai/ai-fluency-assessment-skill": {
+        "owner": "n-pillai",
+        "name": "ai-fluency-assessment-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "n-pillai/spinner-verbs-skill": {
+        "owner": "n-pillai",
+        "name": "spinner-verbs-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tae898/academic-de-llm": {
+        "owner": "tae898",
+        "name": "academic-de-llm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seomarlboro/domain-check-skills": {
+        "owner": "seomarlboro",
+        "name": "domain-check-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "adelaidasofia/claude-performance": {
+        "owner": "adelaidasofia",
+        "name": "claude-performance",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adelaidasofia/claude-patterns": {
+        "owner": "adelaidasofia",
+        "name": "claude-patterns",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FRACerqueira/ConsolePlus-PromptPlus-IA-Plugin": {
+        "owner": "FRACerqueira",
+        "name": "ConsolePlus-PromptPlus-IA-Plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "SoliEstre/idd": {
+        "owner": "SoliEstre",
+        "name": "idd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "plotdevice01/codex-chief-of-staff": {
+        "owner": "plotdevice01",
+        "name": "codex-chief-of-staff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qupunto/workflow-secretary-suite": {
+        "owner": "qupunto",
+        "name": "workflow-secretary-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kiwi2k00/_RemoveMetadata": {
+        "owner": "kiwi2k00",
+        "name": "_RemoveMetadata",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hacka0wi/IBN5100": {
+        "owner": "hacka0wi",
+        "name": "IBN5100",
+        "branch": "main",
+        "enabled": true
+    },
+    "yanliudesign/modern-editorial-cover": {
+        "owner": "yanliudesign",
+        "name": "modern-editorial-cover",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TheRandomDev9/keynote-deck": {
+        "owner": "TheRandomDev9",
+        "name": "keynote-deck",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

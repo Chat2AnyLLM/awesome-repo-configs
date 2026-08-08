@@ -16912,5 +16912,86 @@
     "repoOwner": "wan-huiyan",
     "repoName": "guide-your-ai-art",
     "repoBranch": "main"
+  },
+  "hyhmrright/logic-lens": {
+    "name": "hyhmrright/logic-lens",
+    "description": "Logic-first AI code review via semi-formal execution tracing (Premises \u2192 Trace \u2192 Divergence \u2192 Trigger \u2192 Remedy). Catches behavioral bugs, type-contract breaches & async hazards that linters miss. Six skills \u00b7 Claude C...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hyhmrright",
+    "repoName": "logic-lens",
+    "repoBranch": "main"
+  },
+  "501336North/one-shot-ship-plugin": {
+    "name": "501336North/one-shot-ship-plugin",
+    "description": "One Shot Ship - Claude Code plugin for world-class development workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "501336North",
+    "repoName": "one-shot-ship-plugin",
+    "repoBranch": "main"
+  },
+  "tae898/academic-de-llm": {
+    "name": "tae898/academic-de-llm",
+    "description": "Strip the markers that make text read as machine-generated. Ordered by measured frequency in agent-written prose: formatting first, paste-era artifacts last. Sources cited, unsourced claims labelled.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tae898",
+    "repoName": "academic-de-llm",
+    "repoBranch": "main"
+  },
+  "adelaidasofia/claude-performance": {
+    "name": "adelaidasofia/claude-performance",
+    "description": "Self-improving measurement layer for Claude Code. Reads JSONL session data, computes effectiveness metrics, writes behavioral rules into CLAUDE.md. Companion to claude-daily-journal and claude-insights.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adelaidasofia",
+    "repoName": "claude-performance",
+    "repoBranch": "main"
+  },
+  "adelaidasofia/claude-patterns": {
+    "name": "adelaidasofia/claude-patterns",
+    "description": "Instinct Engine that scans recent sessions for recurring patterns and turns them into concrete captures.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adelaidasofia",
+    "repoName": "claude-patterns",
+    "repoBranch": "main"
+  },
+  "FRACerqueira/ConsolePlus-PromptPlus-IA-Plugin": {
+    "name": "FRACerqueira/ConsolePlus-PromptPlus-IA-Plugin",
+    "description": "Helps Claude Code select and implement the right ConsolePlus/PromptPlus control for a .NET console app: determines the proper layer, checks if interactive controls run in the target context, chooses among 21 available...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FRACerqueira",
+    "repoName": "ConsolePlus-PromptPlus-IA-Plugin",
+    "repoBranch": "main"
+  },
+  "SoliEstre/idd": {
+    "name": "SoliEstre/idd",
+    "description": "Implementation-Driven Development: learn from isolated probes before behavior becomes a product promise",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SoliEstre",
+    "repoName": "idd",
+    "repoBranch": "main"
+  },
+  "qupunto/workflow-secretary-suite": {
+    "name": "qupunto/workflow-secretary-suite",
+    "description": "A suite of Claude Code skills that keep a project's record, roadmap, docs and tooling honest \u2014 a secretary to coding, not the coder.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qupunto",
+    "repoName": "workflow-secretary-suite",
+    "repoBranch": "main"
+  },
+  "hacka0wi/IBN5100": {
+    "name": "hacka0wi/IBN5100",
+    "description": "Run a control room over many parallel Claude Code agent sessions \u2014 one shared backlog, one owner for deploy and writes. A Claude Code plugin (control-agent skill: patterns, room contract, verification traps).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hacka0wi",
+    "repoName": "IBN5100",
+    "repoBranch": "main"
   }
 }

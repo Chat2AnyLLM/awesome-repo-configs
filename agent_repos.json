@@ -3264,5 +3264,33 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "hyhmrright/logic-lens": {
+    "owner": "hyhmrright",
+    "name": "logic-lens",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "antonio0720/writing-intelligence": {
+    "owner": "antonio0720",
+    "name": "writing-intelligence",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "501336North/one-shot-ship-plugin": {
+    "owner": "501336North",
+    "name": "one-shot-ship-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "FRACerqueira/ConsolePlus-PromptPlus-IA-Plugin": {
+    "owner": "FRACerqueira",
+    "name": "ConsolePlus-PromptPlus-IA-Plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
