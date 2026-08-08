@@ -16993,5 +16993,77 @@
     "repoOwner": "hacka0wi",
     "repoName": "IBN5100",
     "repoBranch": "main"
+  },
+  "vinta/hal-9000": {
+    "name": "vinta/hal-9000",
+    "description": "Opinionated AI coding agent and dev environment automation for macOS",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vinta",
+    "repoName": "hal-9000",
+    "repoBranch": "main"
+  },
+  "ankitai-s/superdialog-playbook-skill": {
+    "name": "ankitai-s/superdialog-playbook-skill",
+    "description": "Claude Code / Codex skill for authoring and reviewing SuperDialog voice-agent playbook YAMLs \u2014 schema reference, 15-point failure-pattern checklist, interrupt-guard code pattern",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ankitai-s",
+    "repoName": "superdialog-playbook-skill",
+    "repoBranch": "main"
+  },
+  "muzalee/claude-atelier": {
+    "name": "muzalee/claude-atelier",
+    "description": "Claude Code plugin marketplace \u2014 atelier (design \u2192 build \u2192 review pipeline + writing craft) and atelier-typescript (Fastify skills)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "muzalee",
+    "repoName": "claude-atelier",
+    "repoBranch": "main"
+  },
+  "QAIA-Project/QAIA": {
+    "name": "QAIA-Project/QAIA",
+    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. Markdown skills only, no API key, no shipped code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QAIA-Project",
+    "repoName": "QAIA",
+    "repoBranch": "main"
+  },
+  "doublebearoliver-cyber/mihomo-ai-failover": {
+    "name": "doublebearoliver-cyber/mihomo-ai-failover",
+    "description": "Automatic failover for ChatGPT, Codex, WorkBuddy, Kimi, MiniMax and Mavis on macOS with Clash Verge Rev/Mihomo. Includes Agent Skill, MCP and CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "doublebearoliver-cyber",
+    "repoName": "mihomo-ai-failover",
+    "repoBranch": "main"
+  },
+  "xzawed/claude-grok-build-plugin": {
+    "name": "xzawed/claude-grok-build-plugin",
+    "description": "A Claude Code plugin (MCP-server wrapper) that lets Claude delegate coding tasks to xAI's Grok Build CLI \u2014 billed via your xAI subscription, not metered API. 9 MCP tools, /grok:* commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xzawed",
+    "repoName": "claude-grok-build-plugin",
+    "repoBranch": "main"
+  },
+  "tjdwls101010/Codex-in-Claude": {
+    "name": "tjdwls101010/Codex-in-Claude",
+    "description": "Run OpenAI Codex as a managed subagent from Claude Code \u2014 background runs, a filtered live event log, stop-and-redirect, thread resume, and a sandbox that stays put across turns.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tjdwls101010",
+    "repoName": "Codex-in-Claude",
+    "repoBranch": "main"
+  },
+  "abdulazizsapra/marie-kondo-skill": {
+    "name": "abdulazizsapra/marie-kondo-skill",
+    "description": "Declutter web and app UIs with the KonMari method, grounded in HCI research. An anti-clutter design skill for coding agents \u2014 with the guardrails that stop minimalism breaking a UI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abdulazizsapra",
+    "repoName": "marie-kondo-skill",
+    "repoBranch": "main"
   }
 }

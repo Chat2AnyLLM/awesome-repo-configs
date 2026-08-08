@@ -20705,5 +20705,84 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "vinta/hal-9000": {
+        "owner": "vinta",
+        "name": "hal-9000",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sube-py/awesome-skills": {
+        "owner": "Sube-py",
+        "name": "awesome-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ankitai-s/superdialog-playbook-skill": {
+        "owner": "ankitai-s",
+        "name": "superdialog-playbook-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "muzalee/claude-atelier": {
+        "owner": "muzalee",
+        "name": "claude-atelier",
+        "branch": "main",
+        "enabled": true
+    },
+    "QAIA-Project/QAIA": {
+        "owner": "QAIA-Project",
+        "name": "QAIA",
+        "branch": "main",
+        "enabled": true
+    },
+    "doublebearoliver-cyber/mihomo-ai-failover": {
+        "owner": "doublebearoliver-cyber",
+        "name": "mihomo-ai-failover",
+        "branch": "main",
+        "enabled": true
+    },
+    "xzawed/claude-grok-build-plugin": {
+        "owner": "xzawed",
+        "name": "claude-grok-build-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "tjdwls101010/Codex-in-Claude": {
+        "owner": "tjdwls101010",
+        "name": "Codex-in-Claude",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "final90006-sketch/youtube-to-article": {
+        "owner": "final90006-sketch",
+        "name": "youtube-to-article",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mfrashad/video-analyze": {
+        "owner": "mfrashad",
+        "name": "video-analyze",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "abdulazizsapra/marie-kondo-skill": {
+        "owner": "abdulazizsapra",
+        "name": "marie-kondo-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jonymusky/waveshare-epaper-skill": {
+        "owner": "jonymusky",
+        "name": "waveshare-epaper-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -3292,5 +3292,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "xzawed/claude-grok-build-plugin": {
+    "owner": "xzawed",
+    "name": "claude-grok-build-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
