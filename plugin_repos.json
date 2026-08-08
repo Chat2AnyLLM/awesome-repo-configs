@@ -17067,12 +17067,66 @@
     "repoBranch": "main"
   },
   "meemoprasad/meeba-brain-marketplace": {
-  "name": "Meeba Brain",
-  "description": "Ground-truth code graph context for your own private codebase — exact callers, callees, symbol definitions, and file dependencies, from a real parsed graph, not text-similarity guessing.",
-  "enabled": true,
-  "type": "marketplace",
-  "repoOwner": "meemoprasad",
-  "repoName": "meeba-brain-marketplace",
-  "repoBranch": "main"
+    "name": "Meeba Brain",
+    "description": "Ground-truth code graph context for your own private codebase \u2014 exact callers, callees, symbol definitions, and file dependencies, from a real parsed graph, not text-similarity guessing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "meemoprasad",
+    "repoName": "meeba-brain-marketplace",
+    "repoBranch": "main"
+  },
+  "robertguss/claude-code-toolkit": {
+    "name": "robertguss/claude-code-toolkit",
+    "description": "A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robertguss",
+    "repoName": "claude-code-toolkit",
+    "repoBranch": "main"
+  },
+  "soreavis/research-entity": {
+    "name": "soreavis/research-entity",
+    "description": "The Dossier Machine aka Research Entity \u2014 board-ready competitive-intelligence & due-diligence dossiers on any company. 23 sections: founders, funding, product, pricing, customers, competition, red-flag scan. Cross-va...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soreavis",
+    "repoName": "research-entity",
+    "repoBranch": "main"
+  },
+  "simonpokorny/knowledgebase": {
+    "name": "simonpokorny/knowledgebase",
+    "description": "git-versioned institutional memory for coding agents: schema-enforced findings, learnings and decisions, written by agents, reviewed by humans",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "simonpokorny",
+    "repoName": "knowledgebase",
+    "repoBranch": "main"
+  },
+  "seokhoonj/fred-client": {
+    "name": "seokhoonj/fred-client",
+    "description": "Read economic data from the Federal Reserve's FRED, ALFRED, and GeoFRED APIs: curated indicators, series, releases, categories, sources, tags, and maps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokhoonj",
+    "repoName": "fred-client",
+    "repoBranch": "main"
+  },
+  "tibtof/cobots": {
+    "name": "tibtof/cobots",
+    "description": "Agent pipeline plugins: pm/architect/dev/reviewer collaborating through GitHub state \u2014 collaborative robots, human merges",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tibtof",
+    "repoName": "cobots",
+    "repoBranch": "main"
+  },
+  "zhaoyshine/looppower": {
+    "name": "zhaoyshine/looppower",
+    "description": "A Claude Code plugin built on a plan-execute loop: Expert Panel plans, dynamic-loop executes phase by phase.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zhaoyshine",
+    "repoName": "looppower",
+    "repoBranch": "main"
   }
 }

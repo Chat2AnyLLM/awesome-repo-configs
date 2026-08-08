@@ -3299,5 +3299,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "zhaoyshine/looppower": {
+    "owner": "zhaoyshine",
+    "name": "looppower",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

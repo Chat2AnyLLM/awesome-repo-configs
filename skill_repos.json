@@ -20784,5 +20784,132 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "robertguss/claude-code-toolkit": {
+        "owner": "robertguss",
+        "name": "claude-code-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smixs/mentor": {
+        "owner": "smixs",
+        "name": "mentor",
+        "branch": "main",
+        "enabled": true
+    },
+    "YangsonHung/awesome-agent-skills": {
+        "owner": "YangsonHung",
+        "name": "awesome-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "holm-digital-io/human-skill": {
+        "owner": "holm-digital-io",
+        "name": "human-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "f22363712-dotcom/fbd-skill": {
+        "owner": "f22363712-dotcom",
+        "name": "fbd-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "soreavis/research-entity": {
+        "owner": "soreavis",
+        "name": "research-entity",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mdharastani-pixel/test-like-a-new-user": {
+        "owner": "mdharastani-pixel",
+        "name": "test-like-a-new-user",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CRangelP/codebase-cleanup": {
+        "owner": "CRangelP",
+        "name": "codebase-cleanup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "simonpokorny/knowledgebase": {
+        "owner": "simonpokorny",
+        "name": "knowledgebase",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seokhoonj/fred-client": {
+        "owner": "seokhoonj",
+        "name": "fred-client",
+        "branch": "main",
+        "enabled": true
+    },
+    "benjaminstelzer/scoville-plan": {
+        "owner": "benjaminstelzer",
+        "name": "scoville-plan",
+        "branch": "main",
+        "enabled": true
+    },
+    "tibtof/cobots": {
+        "owner": "tibtof",
+        "name": "cobots",
+        "branch": "main",
+        "enabled": true
+    },
+    "zhaoyshine/looppower": {
+        "owner": "zhaoyshine",
+        "name": "looppower",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "js-lover/uxflow": {
+        "owner": "js-lover",
+        "name": "uxflow",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yanouyuan-bit/fate-arena": {
+        "owner": "yanouyuan-bit",
+        "name": "fate-arena",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nlink-jp/news-digest": {
+        "owner": "nlink-jp",
+        "name": "news-digest",
+        "branch": "main",
+        "enabled": true
+    },
+    "RoXsaita/debank-portfolio-skill": {
+        "owner": "RoXsaita",
+        "name": "debank-portfolio-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "RoXsaita/avatar-explainer-video": {
+        "owner": "RoXsaita",
+        "name": "avatar-explainer-video",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ThirteenMonthLabXIII/personal-writing-voice": {
+        "owner": "ThirteenMonthLabXIII",
+        "name": "personal-writing-voice",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
