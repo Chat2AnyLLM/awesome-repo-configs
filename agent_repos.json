@@ -3306,5 +3306,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "durchnull/heal-suite": {
+    "owner": "durchnull",
+    "name": "heal-suite",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

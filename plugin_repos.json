@@ -17128,5 +17128,41 @@
     "repoOwner": "zhaoyshine",
     "repoName": "looppower",
     "repoBranch": "main"
+  },
+  "serbanghita/plan-critique-skills": {
+    "name": "serbanghita/plan-critique-skills",
+    "description": "Planning skills for Claude Code, Copilot, Agy, etc.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serbanghita",
+    "repoName": "plan-critique-skills",
+    "repoBranch": "main"
+  },
+  "matt-w-horn/skills": {
+    "name": "matt-w-horn/skills",
+    "description": "Personal Claude Code skills, installable as a plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matt-w-horn",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "HM-Li/graph-engineering": {
+    "name": "HM-Li/graph-engineering",
+    "description": "Claude Code skill: design multi-agent workflows as dependency graphs, not linear pipelines",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HM-Li",
+    "repoName": "graph-engineering",
+    "repoBranch": "main"
+  },
+  "durchnull/heal-suite": {
+    "name": "durchnull/heal-suite",
+    "description": "A self-maintaining repo immune system for Claude Code \u2014 14 auditing 'healers' that detect drift, fix the mechanical, and prevent recurrence. Plugin in development; live preview inside.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "durchnull",
+    "repoName": "heal-suite",
+    "repoBranch": "main"
   }
 }

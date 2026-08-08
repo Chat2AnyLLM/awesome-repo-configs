@@ -20911,5 +20911,80 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "serbanghita/plan-critique-skills": {
+        "owner": "serbanghita",
+        "name": "plan-critique-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "zszendro/vc-teardown": {
+        "owner": "zszendro",
+        "name": "vc-teardown",
+        "branch": "main",
+        "enabled": true
+    },
+    "matt-w-horn/skills": {
+        "owner": "matt-w-horn",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bestdeejay-design/agent-skills": {
+        "owner": "bestdeejay-design",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HM-Li/graph-engineering": {
+        "owner": "HM-Li",
+        "name": "graph-engineering",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "durchnull/heal-suite": {
+        "owner": "durchnull",
+        "name": "heal-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ndisisnd/wdym": {
+        "owner": "ndisisnd",
+        "name": "wdym",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "heysep/claude-skill-apps-in-toss": {
+        "owner": "heysep",
+        "name": "claude-skill-apps-in-toss",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jinks-b/design-review-skill": {
+        "owner": "jinks-b",
+        "name": "design-review-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joshuafuller/atak-plugin-skill": {
+        "owner": "joshuafuller",
+        "name": "atak-plugin-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Zaosusu/resume-onepager": {
+        "owner": "Zaosusu",
+        "name": "resume-onepager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
