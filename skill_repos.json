@@ -21147,5 +21147,31 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "vitalii-matvieiev/skills": {
+        "owner": "vitalii-matvieiev",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "EthanSK/outstanding-items": {
+        "owner": "EthanSK",
+        "name": "outstanding-items",
+        "branch": "main",
+        "enabled": true
+    },
+    "colossus8756/quota-steward": {
+        "owner": "colossus8756",
+        "name": "quota-steward",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "colossus8756/loop-design": {
+        "owner": "colossus8756",
+        "name": "loop-design",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

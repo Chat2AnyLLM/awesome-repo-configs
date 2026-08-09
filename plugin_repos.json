@@ -17308,5 +17308,14 @@
     "repoOwner": "EwingYangs",
     "repoName": "social-media-cover",
     "repoBranch": "main"
+  },
+  "EthanSK/outstanding-items": {
+    "name": "EthanSK/outstanding-items",
+    "description": "Outsource your memory \u2014 a curated work experience. An installable OpenAI and Claude Code plugin with one user-owned ledger.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EthanSK",
+    "repoName": "outstanding-items",
+    "repoBranch": "main"
   }
 }
