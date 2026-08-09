@@ -17317,5 +17317,68 @@
     "repoOwner": "EthanSK",
     "repoName": "outstanding-items",
     "repoBranch": "main"
+  },
+  "ppgranger/token-saver": {
+    "name": "ppgranger/token-saver",
+    "description": "Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, diffs, or stack traces.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ppgranger",
+    "repoName": "token-saver",
+    "repoBranch": "main"
+  },
+  "mertbarutcuoglu/agent-mesh": {
+    "name": "mertbarutcuoglu/agent-mesh",
+    "description": "Stop copy-pasting context between your AI agents. Let them talk to each other.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mertbarutcuoglu",
+    "repoName": "agent-mesh",
+    "repoBranch": "main"
+  },
+  "studiomeyer-io/studiomeyer-marketplace": {
+    "name": "studiomeyer-io/studiomeyer-marketplace",
+    "description": "StudioMeyer MCP Suite for Claude Code \u2014 4 hosted plugins (Memory, CRM, GEO, Crew). 119 tools, 21 slash commands, 5 skills, 3 subagents. Magic Link auth. EU Frankfurt. Free tier.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "studiomeyer-io",
+    "repoName": "studiomeyer-marketplace",
+    "repoBranch": "main"
+  },
+  "le-19-stvn/creative-stack": {
+    "name": "le-19-stvn/creative-stack",
+    "description": "Adaptive, anti-slop stack for Claude Code. Nothing by default, everything by decision.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "le-19-stvn",
+    "repoName": "creative-stack",
+    "repoBranch": "main"
+  },
+  "sodam-ai/SoDam-Design-Kit": {
+    "name": "sodam-ai/SoDam-Design-Kit",
+    "description": "Figma \ub514\uc790\uc778\uc744 shadcn/ui \ucf54\ub4dc\ub85c \ubcc0\ud658\ud558\uace0 \uc2e4\uc81c \ube0c\ub77c\uc6b0\uc800 \uac80\uc99d(Playwright+axe-core)\uc744 \ud1b5\uacfc\ud574\uc57c \uc644\ub8cc\ub85c \uc778\uc815\ud558\ub294 Claude Code \ub514\uc790\uc778 \uc790\ub3d9\ud654 \ud50c\ub7ec\uadf8\uc778 (Phase 1 \uc644\ub8cc)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sodam-ai",
+    "repoName": "SoDam-Design-Kit",
+    "repoBranch": "chore/bootstrap-repository"
+  },
+  "kubilaiswf/claude-tutor": {
+    "name": "kubilaiswf/claude-tutor",
+    "description": "A Claude Code plugin that turns Claude into an evidence-based tutor - personalized syllabus, mastery-gated lessons, quizzes, exams, and spaced-repetition review, on any subject. Every teaching rule cited to research.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kubilaiswf",
+    "repoName": "claude-tutor",
+    "repoBranch": "main"
+  },
+  "iamakbarsha1/whetstone": {
+    "name": "iamakbarsha1/whetstone",
+    "description": "Agent skills honed on real work \u2014 standalone, sanitized, CC BY 4.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iamakbarsha1",
+    "repoName": "whetstone",
+    "repoBranch": "main"
   }
 }

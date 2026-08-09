@@ -21173,5 +21173,64 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "ppgranger/token-saver": {
+        "owner": "ppgranger",
+        "name": "token-saver",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "infranodus/skills": {
+        "owner": "infranodus",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "mertbarutcuoglu/agent-mesh": {
+        "owner": "mertbarutcuoglu",
+        "name": "agent-mesh",
+        "branch": "main",
+        "enabled": true
+    },
+    "studiomeyer-io/studiomeyer-marketplace": {
+        "owner": "studiomeyer-io",
+        "name": "studiomeyer-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "le-19-stvn/creative-stack": {
+        "owner": "le-19-stvn",
+        "name": "creative-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "sodam-ai/SoDam-Design-Kit": {
+        "owner": "sodam-ai",
+        "name": "SoDam-Design-Kit",
+        "branch": "chore/bootstrap-repository",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sguri003/US_Labor_CPI": {
+        "owner": "sguri003",
+        "name": "US_Labor_CPI",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "kubilaiswf/claude-tutor": {
+        "owner": "kubilaiswf",
+        "name": "claude-tutor",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "iamakbarsha1/whetstone": {
+        "owner": "iamakbarsha1",
+        "name": "whetstone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
