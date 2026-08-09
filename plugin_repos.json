@@ -17164,5 +17164,95 @@
     "repoOwner": "durchnull",
     "repoName": "heal-suite",
     "repoBranch": "main"
+  },
+  "whisper-sec/whisper-skills": {
+    "name": "whisper-sec/whisper-skills",
+    "description": "Agent Skills for the WhisperGraph MCP server \u2014 threat investigation, Cypher query authoring, and brand-protection sweeps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "whisper-sec",
+    "repoName": "whisper-skills",
+    "repoBranch": "main"
+  },
+  "matt-w-horn/lean-skills": {
+    "name": "matt-w-horn/lean-skills",
+    "description": "Seven skills, split by what you are actually doing rather than by topic. A \"tactics\" skill and a \"Mathlib\" skill both fire on every task, and neither tells the agent what to do next. These fire one at a time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matt-w-horn",
+    "repoName": "lean-skills",
+    "repoBranch": "main"
+  },
+  "AppFreeticket/agent-skills": {
+    "name": "AppFreeticket/agent-skills",
+    "description": "Agent skills for FreeTicket \u2014 drive the ft CLI and audit/grow events. Install with npx skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AppFreeticket",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "johnisanerd/claude-skill-google-street-view-api": {
+    "name": "johnisanerd/claude-skill-google-street-view-api",
+    "description": "Claude/agent skill: google maps street view api. Installs via npx skills add.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnisanerd",
+    "repoName": "claude-skill-google-street-view-api",
+    "repoBranch": "main"
+  },
+  "johnisanerd/claude-skill-google-maps-photo-download": {
+    "name": "johnisanerd/claude-skill-google-maps-photo-download",
+    "description": "Claude/agent skill: google maps photo download. Installs via npx skills add.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnisanerd",
+    "repoName": "claude-skill-google-maps-photo-download",
+    "repoBranch": "main"
+  },
+  "aaddrick/slushpile": {
+    "name": "aaddrick/slushpile",
+    "description": "An adversarial job search that gets better as it goes: pool-anchored fit scoring, a resume and cover letter built against the job description, seven agents that try to reject you before a recruiter does, and a profile...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaddrick",
+    "repoName": "slushpile",
+    "repoBranch": "main"
+  },
+  "nuko-nova-dynamics/marketplace": {
+    "name": "nuko-nova-dynamics/marketplace",
+    "description": "Claude Code plugins built at Nuko Nova Dynamics",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nuko-nova-dynamics",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "SoliEstre/twdd": {
+    "name": "SoliEstre/twdd",
+    "description": "Test-Window-Driven Development: maximize safe, replayable evidence from scarce real-world validation windows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SoliEstre",
+    "repoName": "twdd",
+    "repoBranch": "main"
+  },
+  "alanvaa06/award-craft": {
+    "name": "alanvaa06/award-craft",
+    "description": "Claude Code plugin: six skills for crafting Awwwards-level landing pages",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alanvaa06",
+    "repoName": "award-craft",
+    "repoBranch": "main"
+  },
+  "yjun1806/waymark": {
+    "name": "yjun1806/waymark",
+    "description": "Spec-driven development for teams whose truth already lives elsewhere \u2014 one thin doc per issue that references planning/contract/tracker instead of copying them. Folder = status, frozen on done. A Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yjun1806",
+    "repoName": "waymark",
+    "repoBranch": "main"
   }
 }

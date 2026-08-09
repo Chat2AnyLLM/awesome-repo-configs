@@ -20986,5 +20986,113 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "0xwilliamortiz/claude-red": {
+        "owner": "0xwilliamortiz",
+        "name": "claude-red",
+        "branch": "main",
+        "skillsPath": "Skills",
+        "enabled": true
+    },
+    "vasilyu1983/AI-Agents-public": {
+        "owner": "vasilyu1983",
+        "name": "AI-Agents-public",
+        "branch": "main",
+        "enabled": true
+    },
+    "cooler333/cool-claude-code": {
+        "owner": "cooler333",
+        "name": "cool-claude-code",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "whisper-sec/whisper-skills": {
+        "owner": "whisper-sec",
+        "name": "whisper-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "minioutman/relay-chat-and-work": {
+        "owner": "minioutman",
+        "name": "relay-chat-and-work",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "matt-w-horn/lean-skills": {
+        "owner": "matt-w-horn",
+        "name": "lean-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AppFreeticket/agent-skills": {
+        "owner": "AppFreeticket",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johnisanerd/claude-skill-google-street-view-api": {
+        "owner": "johnisanerd",
+        "name": "claude-skill-google-street-view-api",
+        "branch": "main",
+        "enabled": true
+    },
+    "johnisanerd/claude-skill-google-maps-photo-download": {
+        "owner": "johnisanerd",
+        "name": "claude-skill-google-maps-photo-download",
+        "branch": "main",
+        "enabled": true
+    },
+    "aaddrick/slushpile": {
+        "owner": "aaddrick",
+        "name": "slushpile",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SoliEstre/twdd": {
+        "owner": "SoliEstre",
+        "name": "twdd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alanvaa06/award-craft": {
+        "owner": "alanvaa06",
+        "name": "award-craft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yjun1806/waymark": {
+        "owner": "yjun1806",
+        "name": "waymark",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "scottconverse/multi-model-routing-skill": {
+        "owner": "scottconverse",
+        "name": "multi-model-routing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "joxinyks/swiss-neo-monolith": {
+        "owner": "joxinyks",
+        "name": "swiss-neo-monolith",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alialsaudi/deslop": {
+        "owner": "alialsaudi",
+        "name": "deslop",
+        "branch": "main",
+        "enabled": true
     }
 }

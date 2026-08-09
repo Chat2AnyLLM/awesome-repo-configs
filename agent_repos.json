@@ -3313,5 +3313,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "whisper-sec/whisper-skills": {
+    "owner": "whisper-sec",
+    "name": "whisper-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "AppFreeticket/agent-skills": {
+    "owner": "AppFreeticket",
+    "name": "agent-skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "aaddrick/slushpile": {
+    "owner": "aaddrick",
+    "name": "slushpile",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
