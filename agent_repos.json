@@ -3334,5 +3334,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "gr8monk3ys/claude-code-config": {
+    "owner": "gr8monk3ys",
+    "name": "claude-code-config",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

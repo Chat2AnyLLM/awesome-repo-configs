@@ -17254,5 +17254,59 @@
     "repoOwner": "yjun1806",
     "repoName": "waymark",
     "repoBranch": "main"
+  },
+  "docmancer/docmancer": {
+    "name": "docmancer/docmancer",
+    "description": "Find out what your coding agents already know. Docmancer indexes the memory, rules, and instructions Claude Code, Codex, Cursor, and Gemini wrote on your machine, then carries the durable parts to every agent. It is l...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "docmancer",
+    "repoName": "docmancer",
+    "repoBranch": "main"
+  },
+  "SELAT-AI/selat-plugins": {
+    "name": "SELAT-AI/selat-plugins",
+    "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wallet (self-custody), from any agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SELAT-AI",
+    "repoName": "selat-plugins",
+    "repoBranch": "main"
+  },
+  "gr8monk3ys/claude-code-config": {
+    "name": "gr8monk3ys/claude-code-config",
+    "description": "My general configuration for projects when using Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gr8monk3ys",
+    "repoName": "claude-code-config",
+    "repoBranch": "main"
+  },
+  "Shivak11/shva-marketplace": {
+    "name": "Shivak11/shva-marketplace",
+    "description": "Shiva's personal Claude Code plugins. v0.1.0 ships /shva:brief-me \u2014 domain-agnostic pre-project vocabulary briefing for any GenAI build.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Shivak11",
+    "repoName": "shva-marketplace",
+    "repoBranch": "main"
+  },
+  "mrsingh86/trimtab-trade-analyst": {
+    "name": "mrsingh86/trimtab-trade-analyst",
+    "description": "Agent skill for the Trimtab US Trade Ledger \u2014 teaches any agent to answer US tariff, duty, HS classification and import-trade questions from receipts rather than the rulebook. Open data, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrsingh86",
+    "repoName": "trimtab-trade-analyst",
+    "repoBranch": "main"
+  },
+  "EwingYangs/social-media-cover": {
+    "name": "EwingYangs/social-media-cover",
+    "description": "\u81ea\u5a92\u4f53\u5c01\u9762\u56fe skill\uff08\u5c0f\u7ea2\u4e66 / \u6296\u97f3 / B\u7ad9 / \u516c\u4f17\u53f7\uff09\uff1a\u5199 HTML \u518d\u622a\u56fe\uff0c\u4ee3\u66ff AI \u751f\u56fe \u2014\u2014 \u4e2d\u6587\u96f6\u9519\u5b57\u3001logo \u7cbe\u786e\u3001\u53ef\u5d4c\u771f\u5b9e\u4ea7\u54c1\u622a\u56fe\u3001\u6539\u4e00\u884c\u5c31\u80fd\u8c03",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EwingYangs",
+    "repoName": "social-media-cover",
+    "repoBranch": "main"
   }
 }

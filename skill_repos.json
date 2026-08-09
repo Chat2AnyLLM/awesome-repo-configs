@@ -21094,5 +21094,58 @@
         "name": "deslop",
         "branch": "main",
         "enabled": true
+    },
+    "docmancer/docmancer": {
+        "owner": "docmancer",
+        "name": "docmancer",
+        "branch": "main",
+        "enabled": true
+    },
+    "SELAT-AI/selat-plugins": {
+        "owner": "SELAT-AI",
+        "name": "selat-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Jsua3/consejo-skill": {
+        "owner": "Jsua3",
+        "name": "consejo-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "voidning/ink-it": {
+        "owner": "voidning",
+        "name": "ink-it",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Shivak11/shva-marketplace": {
+        "owner": "Shivak11",
+        "name": "shva-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "mrsingh86/trimtab-trade-analyst": {
+        "owner": "mrsingh86",
+        "name": "trimtab-trade-analyst",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "EwingYangs/social-media-cover": {
+        "owner": "EwingYangs",
+        "name": "social-media-cover",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "seyonv/loose-ends": {
+        "owner": "seyonv",
+        "name": "loose-ends",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
