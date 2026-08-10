@@ -17380,5 +17380,23 @@
     "repoOwner": "iamakbarsha1",
     "repoName": "whetstone",
     "repoBranch": "main"
+  },
+  "bobadilla-tech/requiems-api-skills": {
+    "name": "bobadilla-tech/requiems-api-skills",
+    "description": "\ud83e\uddbe AI Skills for Requiems API",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bobadilla-tech",
+    "repoName": "requiems-api-skills",
+    "repoBranch": "main"
+  },
+  "chris-peterson/claude-marketplace": {
+    "name": "chris-peterson/claude-marketplace",
+    "description": "Claude plugin \"marketplace\"",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chris-peterson",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
   }
 }

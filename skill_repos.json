@@ -21232,5 +21232,60 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "issouza/repo-business-context": {
+        "owner": "issouza",
+        "name": "repo-business-context",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bobadilla-tech/requiems-api-skills": {
+        "owner": "bobadilla-tech",
+        "name": "requiems-api-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "heyNag/charms": {
+        "owner": "heyNag",
+        "name": "charms",
+        "branch": "main",
+        "enabled": true
+    },
+    "moongiadventures-dev/handdrawn-ppt": {
+        "owner": "moongiadventures-dev",
+        "name": "handdrawn-ppt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "petar-djukic/writing-skills": {
+        "owner": "petar-djukic",
+        "name": "writing-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Y2Kwastaken/Marginalia": {
+        "owner": "Y2Kwastaken",
+        "name": "Marginalia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "richardkmichael/claude-rodin": {
+        "owner": "richardkmichael",
+        "name": "claude-rodin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhan08/sd-coach": {
+        "owner": "dbhan08",
+        "name": "sd-coach",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
