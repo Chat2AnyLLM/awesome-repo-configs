@@ -17533,5 +17533,77 @@
     "repoOwner": "Tamircohen28",
     "repoName": "tamirs-marketplace",
     "repoBranch": "main"
+  },
+  "joris887/exosuit": {
+    "name": "joris887/exosuit",
+    "description": "Suit up. Build anything. A drop-in engineering organization for Claude Code \u2014 deep idea interrogation, TDD sprints, enforced quality gates. 43 skills \u00b7 8 agents \u00b7 13 hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joris887",
+    "repoName": "exosuit",
+    "repoBranch": "main"
+  },
+  "schwann2402/quiz-me-skill": {
+    "name": "schwann2402/quiz-me-skill",
+    "description": "Claude Code plugin that quizzes you on root cause and fix before it writes any code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "schwann2402",
+    "repoName": "quiz-me-skill",
+    "repoBranch": "main"
+  },
+  "ojoaobranco/meus-salvos": {
+    "name": "ojoaobranco/meus-salvos",
+    "description": "Seus posts salvos do Instagram viram uma biblioteca que o Claude l\u00ea e usa. Gr\u00e1tis, roda local, sem senha.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ojoaobranco",
+    "repoName": "meus-salvos",
+    "repoBranch": "main"
+  },
+  "trevor-ryan-burkholder/dare-to-be-stupid": {
+    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be stupid!",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trevor-ryan-burkholder",
+    "repoName": "dare-to-be-stupid",
+    "repoBranch": "main"
+  },
+  "uchimata2/htmldeck": {
+    "name": "uchimata2/htmldeck",
+    "description": "Single-file HTML presentations that don't look generated. One .html you double-click, and it opens with the network off. A Claude Code plugin: a 163-rule design system, a build check that names every rule it cannot re...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uchimata2",
+    "repoName": "htmldeck",
+    "repoBranch": "master"
+  },
+  "d08m/skillfile": {
+    "name": "d08m/skillfile",
+    "description": "Generate AGENTS.md and Claude SKILL.md from a deterministic scan of your repo, and fail CI when they drift. No LLM calls, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "d08m",
+    "repoName": "skillfile",
+    "repoBranch": "main"
+  },
+  "adelaidasofia/claude-insights": {
+    "name": "adelaidasofia/claude-insights",
+    "description": "Weekly and monthly journal pattern recognition for Claude Code. Floor trends, life coach observations, advisory panel. Companion to claude-daily-journal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adelaidasofia",
+    "repoName": "claude-insights",
+    "repoBranch": "main"
+  },
+  "adelaidasofia/claude-meeting-todos": {
+    "name": "adelaidasofia/claude-meeting-todos",
+    "description": "Extract action items from meeting notes or transcripts and add them to your to-do file.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adelaidasofia",
+    "repoName": "claude-meeting-todos",
+    "repoBranch": "main"
   }
 }

@@ -21477,5 +21477,91 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "sv-number/skills": {
+        "owner": "sv-number",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "joris887/exosuit": {
+        "owner": "joris887",
+        "name": "exosuit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "schwann2402/quiz-me-skill": {
+        "owner": "schwann2402",
+        "name": "quiz-me-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "warodan/hey-codex": {
+        "owner": "warodan",
+        "name": "hey-codex",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tmj-90/gaffer": {
+        "owner": "tmj-90",
+        "name": "gaffer",
+        "branch": "main",
+        "enabled": true
+    },
+    "ojoaobranco/meus-salvos": {
+        "owner": "ojoaobranco",
+        "name": "meus-salvos",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jmadden/Helpful-Claude-Skills": {
+        "owner": "jmadden",
+        "name": "Helpful-Claude-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "uchimata2/htmldeck": {
+        "owner": "uchimata2",
+        "name": "htmldeck",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stefanobaghino/simple-output-styles": {
+        "owner": "stefanobaghino",
+        "name": "simple-output-styles",
+        "branch": "main",
+        "enabled": true
+    },
+    "d08m/skillfile": {
+        "owner": "d08m",
+        "name": "skillfile",
+        "branch": "main",
+        "enabled": true
+    },
+    "tsai1278/make-knowledge-cards": {
+        "owner": "tsai1278",
+        "name": "make-knowledge-cards",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adelaidasofia/claude-insights": {
+        "owner": "adelaidasofia",
+        "name": "claude-insights",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adelaidasofia/claude-meeting-todos": {
+        "owner": "adelaidasofia",
+        "name": "claude-meeting-todos",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
