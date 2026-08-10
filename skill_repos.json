@@ -3,7 +3,6 @@
         "owner": "agentvitals",
         "name": "checkup",
         "branch": "main",
-        "skillsPath": ".",
         "enabled": true
     },
     "liuboacean/mubu-integration": {
