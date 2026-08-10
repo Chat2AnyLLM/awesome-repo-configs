@@ -3341,5 +3341,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "Sateezg/codex-bridge": {
+    "owner": "Sateezg",
+    "name": "codex-bridge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "S-jooyoung/oh-my-joy": {
+    "owner": "S-jooyoung",
+    "name": "oh-my-joy",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "dankofly/production-architecture-guardian": {
+    "owner": "dankofly",
+    "name": "production-architecture-guardian",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

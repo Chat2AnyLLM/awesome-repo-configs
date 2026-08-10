@@ -21287,5 +21287,96 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "XiaoMaColtAI/math-modeling-skill": {
+        "owner": "XiaoMaColtAI",
+        "name": "math-modeling-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sateezg/codex-bridge": {
+        "owner": "Sateezg",
+        "name": "codex-bridge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cdeust/cortex-viz": {
+        "owner": "cdeust",
+        "name": "cortex-viz",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adamriofc/indonesian-business-agent-skills": {
+        "owner": "adamriofc",
+        "name": "indonesian-business-agent-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "seed-forge/harness-ai-kit": {
+        "owner": "seed-forge",
+        "name": "harness-ai-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dupflo/decision-ledger": {
+        "owner": "Dupflo",
+        "name": "decision-ledger",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lucas-Belucci-Bellini/Veritas": {
+        "owner": "Lucas-Belucci-Bellini",
+        "name": "Veritas",
+        "branch": "main",
+        "enabled": true
+    },
+    "StartupBros-com/skill-tuner": {
+        "owner": "StartupBros-com",
+        "name": "skill-tuner",
+        "branch": "main",
+        "enabled": true
+    },
+    "leninkhaidem/super-developer": {
+        "owner": "leninkhaidem",
+        "name": "super-developer",
+        "branch": "main",
+        "enabled": true
+    },
+    "S-jooyoung/oh-my-joy": {
+        "owner": "S-jooyoung",
+        "name": "oh-my-joy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dillettante/pdf-bookmarks": {
+        "owner": "dillettante",
+        "name": "pdf-bookmarks",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dillettante/sentencing-guidelines": {
+        "owner": "dillettante",
+        "name": "sentencing-guidelines",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vanko001/webqa-skill": {
+        "owner": "vanko001",
+        "name": "webqa-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "dankofly/production-architecture-guardian": {
+        "owner": "dankofly",
+        "name": "production-architecture-guardian",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

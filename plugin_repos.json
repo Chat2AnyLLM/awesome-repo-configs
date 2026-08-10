@@ -17398,5 +17398,68 @@
     "repoOwner": "chris-peterson",
     "repoName": "claude-marketplace",
     "repoBranch": "main"
+  },
+  "Sateezg/codex-bridge": {
+    "name": "Sateezg/codex-bridge",
+    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code \u2014 through the Codex CLI login you already have. No OpenAI API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sateezg",
+    "repoName": "codex-bridge",
+    "repoBranch": "main"
+  },
+  "cdeust/cortex-viz": {
+    "name": "cdeust/cortex-viz",
+    "description": "Cross-platform visualization MCP for Cortex \u2014 host-neutral live activity from Codex, Gemini CLI, Claude Code, and other MCP clients; memory galaxy, execution trace, knowledge graph, consolidation board, and wiki. Read...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdeust",
+    "repoName": "cortex-viz",
+    "repoBranch": "main"
+  },
+  "adamriofc/indonesian-business-agent-skills": {
+    "name": "adamriofc/indonesian-business-agent-skills",
+    "description": "Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating in the Indonesian business ecosystem.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adamriofc",
+    "repoName": "indonesian-business-agent-skills",
+    "repoBranch": "master"
+  },
+  "Lucas-Belucci-Bellini/Veritas": {
+    "name": "Lucas-Belucci-Bellini/Veritas",
+    "description": "Lucas-Belucci-Bellini/Veritas \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lucas-Belucci-Bellini",
+    "repoName": "Veritas",
+    "repoBranch": "main"
+  },
+  "StartupBros-com/skill-tuner": {
+    "name": "StartupBros-com/skill-tuner",
+    "description": "Tell whether a change to an agent-consumed document actually worked: probe a SKILL.md/AGENTS.md/CLAUDE.md, fix what three independent skeptics confirm, and prove the description still routes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "StartupBros-com",
+    "repoName": "skill-tuner",
+    "repoBranch": "main"
+  },
+  "leninkhaidem/super-developer": {
+    "name": "leninkhaidem/super-developer",
+    "description": "A Claude Code plugin that orchestrates the full development lifecycle \u2014 divergent ideation, structured planning, parallel implementation with git worktree isolation, and multi-agent adversarial code review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leninkhaidem",
+    "repoName": "super-developer",
+    "repoBranch": "main"
+  },
+  "S-jooyoung/oh-my-joy": {
+    "name": "S-jooyoung/oh-my-joy",
+    "description": "Claude Code plugin for the code\u2194Figma frontend loop: a read-only spec primer that turns Plan mode's write block into the review gate, plus visual verification and interactive design-token sync.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "S-jooyoung",
+    "repoName": "oh-my-joy",
+    "repoBranch": "main"
   }
 }
