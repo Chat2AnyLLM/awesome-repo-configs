@@ -1,4 +1,10 @@
 {
+    "agentvitals/checkup": {
+        "owner": "agentvitals",
+        "name": "checkup",
+        "branch": "main",
+        "enabled": true
+    },
     "liuboacean/mubu-integration": {
         "owner": "liuboacean",
         "name": "mubu-integration",
