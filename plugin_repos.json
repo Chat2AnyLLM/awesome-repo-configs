@@ -17461,5 +17461,77 @@
     "repoOwner": "S-jooyoung",
     "repoName": "oh-my-joy",
     "repoBranch": "main"
+  },
+  "GRCEngClub/claude-grc-engineering": {
+    "name": "GRCEngClub/claude-grc-engineering",
+    "description": "Open-source GRC toolkit from the GRC Engineering Club. Claude Code plugins for evidence collection, SCF crosswalks, multi-framework gap reports, OSCAL workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GRCEngClub",
+    "repoName": "claude-grc-engineering",
+    "repoBranch": "main"
+  },
+  "atlassian/forge-skills": {
+    "name": "atlassian/forge-skills",
+    "description": "The Forge Skills Plugin bundles several Forge-focused skills plus MCP-backed tooling so your agent can scaffold apps, review them before deploy, debug production issues, and stay current on Forge APIs and the Atlassia...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atlassian",
+    "repoName": "forge-skills",
+    "repoBranch": "main"
+  },
+  "normalled/apijack": {
+    "name": "normalled/apijack",
+    "description": "Generate full-featured CLIs with workflow automation from any OpenAPI spec",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "normalled",
+    "repoName": "apijack",
+    "repoBranch": "main"
+  },
+  "cdeust/ai-architect-mcp-codebase": {
+    "name": "cdeust/ai-architect-mcp-codebase",
+    "description": "AI Architect Codebase: cross-platform code intelligence MCP for Claude Code, Codex, Gemini, Cursor, VS Code, and Zed. Tree-sitter AST to LadybugDB graph, hybrid search, and impact analysis.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdeust",
+    "repoName": "ai-architect-mcp-codebase",
+    "repoBranch": "main"
+  },
+  "trevor-ryan-burkholder/adventure-claude": {
+    "name": "trevor-ryan-burkholder/adventure-claude",
+    "description": "Claude Code skills that make your AI pair-programmer cosplay as Adventure Time characters. UNACCEPTABLE bugs get 30 days in the dungeon.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trevor-ryan-burkholder",
+    "repoName": "adventure-claude",
+    "repoBranch": "master"
+  },
+  "sturec5/claude-audit-protocol": {
+    "name": "sturec5/claude-audit-protocol",
+    "description": "A 54-phase code-audit protocol for any AI coding agent \u2014 Cursor, Claude Code, Codex, Windsurf, Copilot. One markdown file, no install. Plus domain overlays for the failures generic checklists can't catch.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sturec5",
+    "repoName": "claude-audit-protocol",
+    "repoBranch": "main"
+  },
+  "kio-vibe/speech-to-prompt": {
+    "name": "kio-vibe/speech-to-prompt",
+    "description": "Speech To Prompt - Think out loud, turn your genuine intent into prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kio-vibe",
+    "repoName": "speech-to-prompt",
+    "repoBranch": "main"
+  },
+  "Tamircohen28/tamirs-marketplace": {
+    "name": "Tamircohen28/tamirs-marketplace",
+    "description": "Unified Claude Code plugin marketplace (tamirs-plugins) for @Tamircohen28",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tamircohen28",
+    "repoName": "tamirs-marketplace",
+    "repoBranch": "main"
   }
 }

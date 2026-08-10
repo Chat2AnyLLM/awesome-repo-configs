@@ -21384,5 +21384,98 @@
         "branch": "master",
         "skillsPath": "./",
         "enabled": true
+    },
+    "GRCEngClub/claude-grc-engineering": {
+        "owner": "GRCEngClub",
+        "name": "claude-grc-engineering",
+        "branch": "main",
+        "enabled": true
+    },
+    "atlassian/forge-skills": {
+        "owner": "atlassian",
+        "name": "forge-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "normalled/apijack": {
+        "owner": "normalled",
+        "name": "apijack",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "jeffsenso/prestashop-skills": {
+        "owner": "jeffsenso",
+        "name": "prestashop-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jmagar/swag-mcp": {
+        "owner": "jmagar",
+        "name": "swag-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "cdeust/ai-architect-mcp-codebase": {
+        "owner": "cdeust",
+        "name": "ai-architect-mcp-codebase",
+        "branch": "main",
+        "enabled": true
+    },
+    "trevor-ryan-burkholder/adventure-claude": {
+        "owner": "trevor-ryan-burkholder",
+        "name": "adventure-claude",
+        "branch": "master",
+        "enabled": true
+    },
+    "warodan/vscode-claude-chat-context-meter": {
+        "owner": "warodan",
+        "name": "vscode-claude-chat-context-meter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sturec5/claude-audit-protocol": {
+        "owner": "sturec5",
+        "name": "claude-audit-protocol",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kio-vibe/speech-to-prompt": {
+        "owner": "kio-vibe",
+        "name": "speech-to-prompt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Tamircohen28/tamirs-marketplace": {
+        "owner": "Tamircohen28",
+        "name": "tamirs-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "loadkpi/simplified-technical-russian-skill": {
+        "owner": "loadkpi",
+        "name": "simplified-technical-russian-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bar148/ben-adam-humanizer": {
+        "owner": "bar148",
+        "name": "ben-adam-humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jlwin/unslop": {
+        "owner": "jlwin",
+        "name": "unslop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
