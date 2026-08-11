@@ -21810,5 +21810,126 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "jangviktor-web/nihaixia": {
+        "owner": "jangviktor-web",
+        "name": "nihaixia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "internet-court/internet-court-skill": {
+        "owner": "internet-court",
+        "name": "internet-court-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "mpagot/os-autoinst-distri-opensuse-skills": {
+        "owner": "mpagot",
+        "name": "os-autoinst-distri-opensuse-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fatmind/webclaw3": {
+        "owner": "fatmind",
+        "name": "webclaw3",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Codyte/Tia-Portal-CLI": {
+        "owner": "Codyte",
+        "name": "Tia-Portal-CLI",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "baixinghao/intent-gate": {
+        "owner": "baixinghao",
+        "name": "intent-gate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Swastikbhat-lab/kintsugi": {
+        "owner": "Swastikbhat-lab",
+        "name": "kintsugi",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Adkid-Zephyr/anti-defensive-writing": {
+        "owner": "Adkid-Zephyr",
+        "name": "anti-defensive-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smoke-signal-app/agent-plugin": {
+        "owner": "smoke-signal-app",
+        "name": "agent-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "StartupBros-com/pro-gate": {
+        "owner": "StartupBros-com",
+        "name": "pro-gate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yotron-ai/transcribe-meeting": {
+        "owner": "yotron-ai",
+        "name": "transcribe-meeting",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sernoxxx/shatterpoint": {
+        "owner": "sernoxxx",
+        "name": "shatterpoint",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "xs2tariqrasheed/strict-property-access": {
+        "owner": "xs2tariqrasheed",
+        "name": "strict-property-access",
+        "branch": "main",
+        "enabled": true
+    },
+    "yraveragework/yraverage-officeaddins": {
+        "owner": "yraveragework",
+        "name": "yraverage-officeaddins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GitVoytenko/anti-ai-slop-writing": {
+        "owner": "GitVoytenko",
+        "name": "anti-ai-slop-writing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "XINMurat/Mizan": {
+        "owner": "XINMurat",
+        "name": "Mizan",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tash000/git-workflow-skill": {
+        "owner": "Tash000",
+        "name": "git-workflow-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "XINMurat/Iskele": {
+        "owner": "XINMurat",
+        "name": "Iskele",
+        "branch": "main",
+        "enabled": true
     }
 }

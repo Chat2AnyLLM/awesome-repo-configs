@@ -17767,5 +17767,59 @@
     "repoOwner": "kwp490",
     "repoName": "tldr-output-style",
     "repoBranch": "main"
+  },
+  "internet-court/internet-court-skill": {
+    "name": "internet-court/internet-court-skill",
+    "description": "The trust layer for agent-to-agent commerce \u2014 natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "internet-court",
+    "repoName": "internet-court-skill",
+    "repoBranch": "main"
+  },
+  "mpagot/os-autoinst-distri-opensuse-skills": {
+    "name": "mpagot/os-autoinst-distri-opensuse-skills",
+    "description": "OSADO educated clankers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mpagot",
+    "repoName": "os-autoinst-distri-opensuse-skills",
+    "repoBranch": "main"
+  },
+  "baixinghao/intent-gate": {
+    "name": "baixinghao/intent-gate",
+    "description": "Stop AI coding agents from guessing. MCP server + Claude Code plugin that enforces intent alignment BEFORE coding: PRD \u2192 intent-confidence gate \u2192 Mermaid contracts (state machines / sequence diagrams / decision tables...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "baixinghao",
+    "repoName": "intent-gate",
+    "repoBranch": "main"
+  },
+  "smoke-signal-app/agent-plugin": {
+    "name": "smoke-signal-app/agent-plugin",
+    "description": "Let your coding agent notify you, when you are needed. Smoke Signal Codex & Claude plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smoke-signal-app",
+    "repoName": "agent-plugin",
+    "repoBranch": "main"
+  },
+  "xs2tariqrasheed/strict-property-access": {
+    "name": "xs2tariqrasheed/strict-property-access",
+    "description": "A Claude Code skill that forbids guessy fallback property access (obj.x or obj.X) and requires schema-verified property names.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xs2tariqrasheed",
+    "repoName": "strict-property-access",
+    "repoBranch": "main"
+  },
+  "yraveragework/yraverage-officeaddins": {
+    "name": "yraveragework/yraverage-officeaddins",
+    "description": "Turn a plain description of Excel tools into a .xlam add-in with its own ribbon tab, plus a single self-installing .xlsm your colleagues open once and click. Built to be driven by an AI assistant: the spec is validate...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yraveragework",
+    "repoName": "yraverage-officeaddins",
+    "repoBranch": "main"
   }
 }
