@@ -17713,5 +17713,59 @@
     "repoOwner": "studiogo",
     "repoName": "kaganiec",
     "repoBranch": "main"
+  },
+  "aweussom/claude-code-quota": {
+    "name": "aweussom/claude-code-quota",
+    "description": "Claude Code OAuth quota in your status line \u2014 Windows (PowerShell) and Linux (or WSL2)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aweussom",
+    "repoName": "claude-code-quota",
+    "repoBranch": "main"
+  },
+  "JubaKitiashvili/mac-storage-cleaner": {
+    "name": "JubaKitiashvili/mac-storage-cleaner",
+    "description": "Trust-first macOS disk cleaner as a Claude skill \u2014 allowlist-only auto-clean, mechanically enforced never-tier, reversible Trash removals, audit log, 86 tests",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JubaKitiashvili",
+    "repoName": "mac-storage-cleaner",
+    "repoBranch": "main"
+  },
+  "sernoxxx/prompt-boost": {
+    "name": "sernoxxx/prompt-boost",
+    "description": "Sharpen a vague request into a checkable brief before Claude Code starts working. Goal, done-check, assumption, scope fence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sernoxxx",
+    "repoName": "prompt-boost",
+    "repoBranch": "main"
+  },
+  "Pilot2Service/AI-Business-Designer": {
+    "name": "Pilot2Service/AI-Business-Designer",
+    "description": "AI business design skills for Claude Code & Cowork \u2014 opportunity recognition, business case building, AI strategy & governance, human-AI oversight design, and more. 9 core packs, 99 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pilot2Service",
+    "repoName": "AI-Business-Designer",
+    "repoBranch": "main"
+  },
+  "richawo/yaps-plugins": {
+    "name": "richawo/yaps-plugins",
+    "description": "Claude Code plugins for Yaps \u2014 local-first dictation, transcription, meeting notes, captions, voice, translation, and memory tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "richawo",
+    "repoName": "yaps-plugins",
+    "repoBranch": "main"
+  },
+  "kwp490/tldr-output-style": {
+    "name": "kwp490/tldr-output-style",
+    "description": "ADHD-shaped output style for Claude Code: action first, numbered steps, no preamble, in ASD-STE100 Simplified Technical English.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kwp490",
+    "repoName": "tldr-output-style",
+    "repoBranch": "main"
   }
 }

@@ -21737,5 +21737,78 @@
         "name": "claude-skill-ai-seo",
         "branch": "main",
         "enabled": true
+    },
+    "aweussom/claude-code-quota": {
+        "owner": "aweussom",
+        "name": "claude-code-quota",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JubaKitiashvili/mac-storage-cleaner": {
+        "owner": "JubaKitiashvili",
+        "name": "mac-storage-cleaner",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jangviktor-web/wujutong": {
+        "owner": "jangviktor-web",
+        "name": "wujutong",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zamushwani/biomedical-ai-skills": {
+        "owner": "zamushwani",
+        "name": "biomedical-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "prvthmpcypher/skills-personal": {
+        "owner": "prvthmpcypher",
+        "name": "skills-personal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Pilot2Service/AI-Business-Designer": {
+        "owner": "Pilot2Service",
+        "name": "AI-Business-Designer",
+        "branch": "main",
+        "enabled": true
+    },
+    "benjaminstelzer/scoville-handoff": {
+        "owner": "benjaminstelzer",
+        "name": "scoville-handoff",
+        "branch": "main",
+        "enabled": true
+    },
+    "richawo/yaps-plugins": {
+        "owner": "richawo",
+        "name": "yaps-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "LPSlv/doc-extract": {
+        "owner": "LPSlv",
+        "name": "doc-extract",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jsx1786742815/book-slimmer": {
+        "owner": "jsx1786742815",
+        "name": "book-slimmer",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zaosusu/schedule-onepager": {
+        "owner": "Zaosusu",
+        "name": "schedule-onepager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
