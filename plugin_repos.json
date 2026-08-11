@@ -17605,5 +17605,68 @@
     "repoOwner": "adelaidasofia",
     "repoName": "claude-meeting-todos",
     "repoBranch": "main"
+  },
+  "itqanlab/agent-toolkit": {
+    "name": "itqanlab/agent-toolkit",
+    "description": "Agent toolkit \u2014 portable Agent Skills, MCP servers, and Claude Code plugins. One repo, eight agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itqanlab",
+    "repoName": "agent-toolkit",
+    "repoBranch": "main"
+  },
+  "smartwatermelon/personify": {
+    "name": "smartwatermelon/personify",
+    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated style",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smartwatermelon",
+    "repoName": "personify",
+    "repoBranch": "main"
+  },
+  "robbiegal/plugin-marketplace": {
+    "name": "robbiegal/plugin-marketplace",
+    "description": "Claude Code plugin marketplace: robbiegal-tools. Add with /plugin marketplace add robbiegal/plugin-marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robbiegal",
+    "repoName": "plugin-marketplace",
+    "repoBranch": "main"
+  },
+  "StartupBros-com/hov-marketplace": {
+    "name": "StartupBros-com/hov-marketplace",
+    "description": "House of Vibe Claude Code plugin marketplace: token-eater, pro-gate, wsl-cdp, skill-tuner, memory-dream.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "StartupBros-com",
+    "repoName": "hov-marketplace",
+    "repoBranch": "main"
+  },
+  "thedigitalorganizer/soloship": {
+    "name": "thedigitalorganizer/soloship",
+    "description": "Ship solo, safely. Guardrails for non-coders building software through AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thedigitalorganizer",
+    "repoName": "soloship",
+    "repoBranch": "main"
+  },
+  "int2t05/engineering-skills": {
+    "name": "int2t05/engineering-skills",
+    "description": "Unified Claude Code plugin \u2014 33 engineering skills across the SDLC (product\u2192research\u2192design\u2192develop\u2192tune\u2192test\u2192verify\u2192ship\u2192operate) with shared engineering principles injected at session start.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "int2t05",
+    "repoName": "engineering-skills",
+    "repoBranch": "main"
+  },
+  "NorthGate-Strategic-LLC/flightdeck-plugin": {
+    "name": "NorthGate-Strategic-LLC/flightdeck-plugin",
+    "description": "FlightDeck plugin for Claude Code \u2014 governed multi-agent engineering: one board, one hash-chained record, every agent. Engine from PyPI (flightdeck-connect).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NorthGate-Strategic-LLC",
+    "repoName": "flightdeck-plugin",
+    "repoBranch": "main"
   }
 }

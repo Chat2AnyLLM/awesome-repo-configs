@@ -21563,5 +21563,94 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "atlas-doc/atlas-flight-booking-skill": {
+        "owner": "atlas-doc",
+        "name": "atlas-flight-booking-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ooooooooooooooooooop/skills": {
+        "owner": "ooooooooooooooooooop",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "dakhlallah/arch-render": {
+        "owner": "dakhlallah",
+        "name": "arch-render",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fongzhizhi/claude-skill-lab": {
+        "owner": "fongzhizhi",
+        "name": "claude-skill-lab",
+        "branch": "master",
+        "enabled": true
+    },
+    "silentashish/claude-resume-generator-skill": {
+        "owner": "silentashish",
+        "name": "claude-resume-generator-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "itqanlab/agent-toolkit": {
+        "owner": "itqanlab",
+        "name": "agent-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AugustusW/parcel-kau-a": {
+        "owner": "AugustusW",
+        "name": "parcel-kau-a",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "smartwatermelon/personify": {
+        "owner": "smartwatermelon",
+        "name": "personify",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thedigitalorganizer/soloship": {
+        "owner": "thedigitalorganizer",
+        "name": "soloship",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "int2t05/engineering-skills": {
+        "owner": "int2t05",
+        "name": "engineering-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UrBaneee/job-match-skill": {
+        "owner": "UrBaneee",
+        "name": "job-match-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "merryAI-dev/MerryPPTmaker": {
+        "owner": "merryAI-dev",
+        "name": "MerryPPTmaker",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JuaniSarmiento/branded-pdf-skill": {
+        "owner": "JuaniSarmiento",
+        "name": "branded-pdf-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
