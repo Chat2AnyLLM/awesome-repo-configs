@@ -21652,5 +21652,90 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "zenbu-labs/terminal-browser": {
+        "owner": "zenbu-labs",
+        "name": "terminal-browser",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Turki-Sh/Foreman": {
+        "owner": "Turki-Sh",
+        "name": "Foreman",
+        "branch": "main",
+        "enabled": true
+    },
+    "forger-labs-hq/researchforge": {
+        "owner": "forger-labs-hq",
+        "name": "researchforge",
+        "branch": "main",
+        "enabled": true
+    },
+    "Rlegaspi562/no-slop": {
+        "owner": "Rlegaspi562",
+        "name": "no-slop",
+        "branch": "main",
+        "enabled": true
+    },
+    "LunarCommand/claude-skills": {
+        "owner": "LunarCommand",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thesfb/agentscan": {
+        "owner": "thesfb",
+        "name": "agentscan",
+        "branch": "main",
+        "enabled": true
+    },
+    "evnchn-agentic/agentic-exam-prep": {
+        "owner": "evnchn-agentic",
+        "name": "agentic-exam-prep",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "evnchn-agentic/agentic-3d-modeling": {
+        "owner": "evnchn-agentic",
+        "name": "agentic-3d-modeling",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jsk4581/speech-to-prompt": {
+        "owner": "jsk4581",
+        "name": "speech-to-prompt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adezdev/blueprint": {
+        "owner": "adezdev",
+        "name": "blueprint",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PRATHAMESHG1234/claude-skill-audit-memory": {
+        "owner": "PRATHAMESHG1234",
+        "name": "claude-skill-audit-memory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "convergeai-labs/framia-skills": {
+        "owner": "convergeai-labs",
+        "name": "framia-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "lucasyhzhu-debug/claude-skill-ai-seo": {
+        "owner": "lucasyhzhu-debug",
+        "name": "claude-skill-ai-seo",
+        "branch": "main",
+        "enabled": true
     }
 }

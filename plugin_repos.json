@@ -17668,5 +17668,50 @@
     "repoOwner": "NorthGate-Strategic-LLC",
     "repoName": "flightdeck-plugin",
     "repoBranch": "main"
+  },
+  "Turki-Sh/Foreman": {
+    "name": "Turki-Sh/Foreman",
+    "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design and scope decisions, locks a visual system, writes the build brief, then verifies, ships, and ind...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Turki-Sh",
+    "repoName": "Foreman",
+    "repoBranch": "main"
+  },
+  "MohamedEmbarak/Supreme-Leader": {
+    "name": "MohamedEmbarak/Supreme-Leader",
+    "description": "An installable Claude Code plugin: five-team agent organization with hook-enforced verification \u2014 blocks test claims that don't reproduce and imports that don't resolve. Plain by default, tyrant lore optional.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MohamedEmbarak",
+    "repoName": "Supreme-Leader",
+    "repoBranch": "main"
+  },
+  "jsk4581/speech-to-prompt": {
+    "name": "jsk4581/speech-to-prompt",
+    "description": "Speech To Prompt - Think out loud, turn your genuine intent into prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jsk4581",
+    "repoName": "speech-to-prompt",
+    "repoBranch": "main"
+  },
+  "adezdev/blueprint": {
+    "name": "adezdev/blueprint",
+    "description": "Spec-driven development for Claude Code: plan to requirements to architecture to tasks to reviewed PRs, with traceability enforced.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adezdev",
+    "repoName": "blueprint",
+    "repoBranch": "main"
+  },
+  "studiogo/kaganiec": {
+    "name": "studiogo/kaganiec",
+    "description": "Trzyma agenta AI w ryzach \u2014 Twoje zasady w ka\u017cdej wiadomo\u015bci Claude Code, tak\u017ce u subagent\u00f3w. Plus stra\u017cnik, kt\u00f3ry nie pozwala plikowi zasad urosn\u0105\u0107.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "studiogo",
+    "repoName": "kaganiec",
+    "repoBranch": "main"
   }
 }

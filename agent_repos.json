@@ -3383,5 +3383,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "MohamedEmbarak/Supreme-Leader": {
+    "owner": "MohamedEmbarak",
+    "name": "Supreme-Leader",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
