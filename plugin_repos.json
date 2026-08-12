@@ -1,4 +1,13 @@
 {
+  "Pupok462/claude-afk": {
+    "name": "claude-afk",
+    "description": "Keep talking to Claude Code from Telegram when you step away: plain text becomes your next turn in the same live session, tool permissions are approved with yes/no from the phone, and one live message shows which tool is running. Pure Python standard library - no daemon, no tmux, no Node.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pupok462",
+    "repoName": "claude-afk",
+    "repoBranch": "main"
+  },
   "RiskAverseTech/createa-meme-skill": {
     "name": "createa-meme-skill",
     "description": "Turn any idea into a finished meme with Create a Meme \u2014 picks the format, writes captions that land, generates via the @createa/meme-mcp tools, and offers variations. Works in Claude Code, Cursor, and any MCP agent.",
