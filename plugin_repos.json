@@ -18127,5 +18127,86 @@
     "repoOwner": "Ultimatrixman",
     "repoName": "claude-flightdeck",
     "repoBranch": "main"
+  },
+  "testdriverai/testdriverai": {
+    "name": "testdriverai/testdriverai",
+    "description": "Computer-Use SDK for E2E QA Testing",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "testdriverai",
+    "repoName": "testdriverai",
+    "repoBranch": "main"
+  },
+  "UiPath/coder_eval": {
+    "name": "UiPath/coder_eval",
+    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UiPath",
+    "repoName": "coder_eval",
+    "repoBranch": "main"
+  },
+  "quiknode-labs/blockchain-skills": {
+    "name": "quiknode-labs/blockchain-skills",
+    "description": "Blockchain skills you can use with your coding agent, such as Claude Code, OpenCode, Codex, Cursor and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "quiknode-labs",
+    "repoName": "blockchain-skills",
+    "repoBranch": "main"
+  },
+  "Avinava/document-design-system": {
+    "name": "Avinava/document-design-system",
+    "description": "A design system for documents \u2014 analytical reports, diagrams, charts, decks, and long-form specs as self-contained HTML. Five Claude Code skills over one semantic token contract.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Avinava",
+    "repoName": "document-design-system",
+    "repoBranch": "main"
+  },
+  "abhimanyusingh-gh/software-craftsmanship": {
+    "name": "abhimanyusingh-gh/software-craftsmanship",
+    "description": "Evidence-backed engineering standards for Claude Code \u2014 every rule graded against real PR review findings, including the claims the data disproved.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abhimanyusingh-gh",
+    "repoName": "software-craftsmanship",
+    "repoBranch": "main"
+  },
+  "anaidenko/claude-video-digest": {
+    "name": "anaidenko/claude-video-digest",
+    "description": "Claude Code plugin that turns any video into a readable digest \u2014 timestamped contact sheet, frame-synced transcript, no hallucinated captions on silent tracks. ffmpeg + local Whisper, no cloud, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anaidenko",
+    "repoName": "claude-video-digest",
+    "repoBranch": "main"
+  },
+  "TomVDH/toolshed": {
+    "name": "TomVDH/toolshed",
+    "description": "A toolshed of small, sharp Claude Code plugins \u2014 adjudant (Obsidian vault ops), tui-toolbox, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TomVDH",
+    "repoName": "toolshed",
+    "repoBranch": "main"
+  },
+  "webmehedi/oma": {
+    "name": "webmehedi/oma",
+    "description": "A full SDLC team of AI agents inside Claude Code: PM, architect, UX, frontend, backend and QA agents take a project idea from PRD to a tested repository through phase gates you approve. Multi-agent SDLC orchestration...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "webmehedi",
+    "repoName": "oma",
+    "repoBranch": "main"
+  },
+  "oFrusch/ste-guard": {
+    "name": "oFrusch/ste-guard",
+    "description": "Keeps Claude Code replies in Simplified Technical English. Makes Claude talk less.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oFrusch",
+    "repoName": "ste-guard",
+    "repoBranch": "main"
   }
 }

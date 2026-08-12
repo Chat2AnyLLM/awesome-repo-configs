@@ -22308,5 +22308,140 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "testdriverai/testdriverai": {
+        "owner": "testdriverai",
+        "name": "testdriverai",
+        "branch": "main",
+        "enabled": true
+    },
+    "UiPath/coder_eval": {
+        "owner": "UiPath",
+        "name": "coder_eval",
+        "branch": "main",
+        "enabled": true
+    },
+    "kgraph57/paper-writer-skill": {
+        "owner": "kgraph57",
+        "name": "paper-writer-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "quiknode-labs/blockchain-skills": {
+        "owner": "quiknode-labs",
+        "name": "blockchain-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "parousia8888/web-app-security-skill": {
+        "owner": "parousia8888",
+        "name": "web-app-security-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Avinava/document-design-system": {
+        "owner": "Avinava",
+        "name": "document-design-system",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joshuatownsend/huh-skill": {
+        "owner": "joshuatownsend",
+        "name": "huh-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "debba/free-my-arch": {
+        "owner": "debba",
+        "name": "free-my-arch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ChrisThoma/de-ai-text": {
+        "owner": "ChrisThoma",
+        "name": "de-ai-text",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "abhimanyusingh-gh/software-craftsmanship": {
+        "owner": "abhimanyusingh-gh",
+        "name": "software-craftsmanship",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mamounjamous/arabic-documents-skill": {
+        "owner": "mamounjamous",
+        "name": "arabic-documents-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Yuuqq/collection-skill": {
+        "owner": "Yuuqq",
+        "name": "collection-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "anaidenko/claude-video-digest": {
+        "owner": "anaidenko",
+        "name": "claude-video-digest",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MyAiFreedomSystems/incredagents-site": {
+        "owner": "MyAiFreedomSystems",
+        "name": "incredagents-site",
+        "branch": "main",
+        "enabled": true
+    },
+    "sakshi-gupta-1/idea-teardown-skill": {
+        "owner": "sakshi-gupta-1",
+        "name": "idea-teardown-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "qiran87/web-search-free": {
+        "owner": "qiran87",
+        "name": "web-search-free",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TomVDH/toolshed": {
+        "owner": "TomVDH",
+        "name": "toolshed",
+        "branch": "main",
+        "enabled": true
+    },
+    "webmehedi/oma": {
+        "owner": "webmehedi",
+        "name": "oma",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oFrusch/ste-guard": {
+        "owner": "oFrusch",
+        "name": "ste-guard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "talgolan/session-continuity": {
+        "owner": "talgolan",
+        "name": "session-continuity",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
