@@ -18037,5 +18037,95 @@
     "repoOwner": "undeemed",
     "repoName": "manifest",
     "repoBranch": "main"
+  },
+  "rushnur88/claimkeep": {
+    "name": "rushnur88/claimkeep",
+    "description": "ClaimKeep \u2014 narrow continuous-memory plugin for Claude Code: harvests an agent's high-signal calibrated claims into a schema-stable brief before compaction and re-injects after. Paper (Zenodo): zenodo.org/records/2081...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rushnur88",
+    "repoName": "claimkeep",
+    "repoBranch": "master"
+  },
+  "sernoxxx/claude-prompt-boost": {
+    "name": "sernoxxx/claude-prompt-boost",
+    "description": "Sharpen a vague request into a checkable brief before Claude Code starts working. Goal, done-check, assumption, scope fence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sernoxxx",
+    "repoName": "claude-prompt-boost",
+    "repoBranch": "main"
+  },
+  "bayeslabs-rsi/Svatah": {
+    "name": "bayeslabs-rsi/Svatah",
+    "description": "Autonomous autoresearch framework for Codex and Claude Code, combining experiment DAGs, scientific memory,literature grounding, agentic planning, reproducible benchmarks, and local dashboards.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bayeslabs-rsi",
+    "repoName": "Svatah",
+    "repoBranch": "main"
+  },
+  "Drizzy07x/Skillquiver": {
+    "name": "Drizzy07x/Skillquiver",
+    "description": "23 curated Agent Skills for Claude Code \u2014 install as a plugin, use everywhere",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Drizzy07x",
+    "repoName": "Skillquiver",
+    "repoBranch": "main"
+  },
+  "konglong87/xuanxue-skills": {
+    "name": "konglong87/xuanxue-skills",
+    "description": "\u4e2d\u56fd\u4f20\u7edf\u7384\u5b66skills\u6280\u80fd\u5305\u3002\u7b97\u547d\u8fd0\u3001\u770b\u98ce\u6c34\u3001\u770b\u624b\u76f8\u3001\u5a5a\u59fb\u60c5\u611f\u3001\u4e8b\u4e1a\u8d22\u8fd0",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "konglong87",
+    "repoName": "xuanxue-skills",
+    "repoBranch": "main"
+  },
+  "ibrahim-isikli/arge-tesvik-skills": {
+    "name": "ibrahim-isikli/arge-tesvik-skills",
+    "description": "T\u00dcB\u0130TAK TEYDEB/ARDEB \u00e7a\u011fr\u0131 takibi, proje \u00f6nerisi \u00f6n de\u011ferlendirme, patent \u00f6n ara\u015ft\u0131rma ve 5746 mevzuat uyumu i\u00e7in Claude Code eklentisi. Unofficial \u2014 T\u00dcB\u0130TAK ile ili\u015fkili de\u011fildir.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ibrahim-isikli",
+    "repoName": "arge-tesvik-skills",
+    "repoBranch": "main"
+  },
+  "trvux/skills": {
+    "name": "trvux/skills",
+    "description": "Claude Code plugin marketplace: study/explanation-format skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trvux",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "heyparsadev/liquid-glass-skill": {
+    "name": "heyparsadev/liquid-glass-skill",
+    "description": "Claude Code skill for iOS 26 Liquid Glass SwiftUI design \u2014 glassEffect API reference, HIG principles, design tokens, motion and accessibility rules, a pattern library, and nine example screens that compile in Xcode 26.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heyparsadev",
+    "repoName": "liquid-glass-skill",
+    "repoBranch": "main"
+  },
+  "ZeroPointRepo/zillow-plugin": {
+    "name": "ZeroPointRepo/zillow-plugin",
+    "description": "Zillow plugin for Cursor, Claude Code & Open Plugins-compatible AI agents \u2014 property data, Zestimates & listing search via hosted MCP (OAuth, no API key). Try for free.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ZeroPointRepo",
+    "repoName": "zillow-plugin",
+    "repoBranch": "main"
+  },
+  "Ultimatrixman/claude-flightdeck": {
+    "name": "Ultimatrixman/claude-flightdeck",
+    "description": "Claude Code reports your context and quota to you. flightdeck reports them to Claude: a per-turn budget the model acts on, a go/no-go verdict on whether agent work fits the quota window, and cross-session phase awaren...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ultimatrixman",
+    "repoName": "claude-flightdeck",
+    "repoBranch": "main"
   }
 }

@@ -22171,5 +22171,142 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Zachariah9420/lit-review-skill": {
+        "owner": "Zachariah9420",
+        "name": "lit-review-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ashfulcra/fulcra-tools": {
+        "owner": "ashfulcra",
+        "name": "fulcra-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "StephenAbbott/beneficial-ownership-data": {
+        "owner": "StephenAbbott",
+        "name": "beneficial-ownership-data",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bayeslabs-rsi/Svatah": {
+        "owner": "bayeslabs-rsi",
+        "name": "Svatah",
+        "branch": "main",
+        "enabled": true
+    },
+    "Drizzy07x/Skillquiver": {
+        "owner": "Drizzy07x",
+        "name": "Skillquiver",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kayquer/portugues-tecnico-controlado": {
+        "owner": "kayquer",
+        "name": "portugues-tecnico-controlado",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ki-stuff/skill-auditor": {
+        "owner": "ki-stuff",
+        "name": "skill-auditor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "konglong87/xuanxue-skills": {
+        "owner": "konglong87",
+        "name": "xuanxue-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YuliaMelekhova/analyst-toolkit": {
+        "owner": "YuliaMelekhova",
+        "name": "analyst-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ibrahim-isikli/arge-tesvik-skills": {
+        "owner": "ibrahim-isikli",
+        "name": "arge-tesvik-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ucsandman/claude-skills": {
+        "owner": "ucsandman",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "trvux/skills": {
+        "owner": "trvux",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "heyparsadev/liquid-glass-skill": {
+        "owner": "heyparsadev",
+        "name": "liquid-glass-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ohmyskyhigh/threadwave-skill": {
+        "owner": "ohmyskyhigh",
+        "name": "threadwave-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ZeroPointRepo/zillow-plugin": {
+        "owner": "ZeroPointRepo",
+        "name": "zillow-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FabworksHQ/fabworks-plugin": {
+        "owner": "FabworksHQ",
+        "name": "fabworks-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ZloyDeDD/wb-api-skill": {
+        "owner": "ZloyDeDD",
+        "name": "wb-api-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Hankgoods/ad-master": {
+        "owner": "Hankgoods",
+        "name": "ad-master",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "js-lover/flowlint": {
+        "owner": "js-lover",
+        "name": "flowlint",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "huiyonghkw/hekouwang-env-doctor-skill": {
+        "owner": "huiyonghkw",
+        "name": "hekouwang-env-doctor-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
