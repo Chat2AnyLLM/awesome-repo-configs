@@ -21931,5 +21931,138 @@
         "name": "Iskele",
         "branch": "main",
         "enabled": true
+    },
+    "iamzifei/wechat-article-publisher-skill": {
+        "owner": "iamzifei",
+        "name": "wechat-article-publisher-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iamzifei/wechat-article-formatter-skill": {
+        "owner": "iamzifei",
+        "name": "wechat-article-formatter-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mykpono/ultimate-seo-geo": {
+        "owner": "mykpono",
+        "name": "ultimate-seo-geo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "iamzifei/gtd-coach-plugin": {
+        "owner": "iamzifei",
+        "name": "gtd-coach-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iamzifei/linkedin-article-publisher-skill": {
+        "owner": "iamzifei",
+        "name": "linkedin-article-publisher-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iamzifei/red-publisher-skill": {
+        "owner": "iamzifei",
+        "name": "red-publisher-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iamzifei/xiaohongshu-images-skill": {
+        "owner": "iamzifei",
+        "name": "xiaohongshu-images-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "theagenticguy/agentic-plugins": {
+        "owner": "theagenticguy",
+        "name": "agentic-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "jontsai/claude-plugins": {
+        "owner": "jontsai",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "brissonjo-sudo/droit-francais-skill": {
+        "owner": "brissonjo-sudo",
+        "name": "droit-francais-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "heyparsadev/claude-venture-plugin": {
+        "owner": "heyparsadev",
+        "name": "claude-venture-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "tony/skills": {
+        "owner": "tony",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tannnnhauser/pivot-web-search": {
+        "owner": "Tannnnhauser",
+        "name": "pivot-web-search",
+        "branch": "main",
+        "enabled": true
+    },
+    "WSD-MJ/xhs-audit": {
+        "owner": "WSD-MJ",
+        "name": "xhs-audit",
+        "branch": "main",
+        "enabled": true
+    },
+    "entpnomad/bootstrapper-toolkit": {
+        "owner": "entpnomad",
+        "name": "bootstrapper-toolkit",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "veerapan-boo/claude-statusline-beauty": {
+        "owner": "veerapan-boo",
+        "name": "claude-statusline-beauty",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ez-hq/uni-course-scheduler": {
+        "owner": "ez-hq",
+        "name": "uni-course-scheduler",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Zachariah9420/embedded-systems-architect": {
+        "owner": "Zachariah9420",
+        "name": "embedded-systems-architect",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kansokusha2026/jsa-park": {
+        "owner": "kansokusha2026",
+        "name": "jsa-park",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "entpnomad/review-staged": {
+        "owner": "entpnomad",
+        "name": "review-staged",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

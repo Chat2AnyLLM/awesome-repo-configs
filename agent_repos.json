@@ -3404,5 +3404,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mykpono/ultimate-seo-geo": {
+    "owner": "mykpono",
+    "name": "ultimate-seo-geo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

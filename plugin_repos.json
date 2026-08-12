@@ -17821,5 +17821,86 @@
     "repoOwner": "yraveragework",
     "repoName": "yraverage-officeaddins",
     "repoBranch": "main"
+  },
+  "mykpono/ultimate-seo-geo": {
+    "name": "mykpono/ultimate-seo-geo",
+    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Overviews, ChatGPT, Perplexity), schema generation, E-E-A-T assessment, and 20 diagnostic scripts. Th...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mykpono",
+    "repoName": "ultimate-seo-geo",
+    "repoBranch": "main"
+  },
+  "PCIRCLE-AI/toonify-mcp": {
+    "name": "PCIRCLE-AI/toonify-mcp",
+    "description": "Context compression plugin for Claude Code. Automatically trims large tool output\u2014JSON, YAML, stack traces, and logs\u2014before it enters the context window.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PCIRCLE-AI",
+    "repoName": "toonify-mcp",
+    "repoBranch": "main"
+  },
+  "theagenticguy/agentic-plugins": {
+    "name": "theagenticguy/agentic-plugins",
+    "description": "Public Claude Code plugin marketplace \u2014 installable skills and agents for AI coding agents. Drop-in capabilities you add with one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theagenticguy",
+    "repoName": "agentic-plugins",
+    "repoBranch": "main"
+  },
+  "jontsai/claude-plugins": {
+    "name": "jontsai/claude-plugins",
+    "description": "Curated Claude Code plugins for research, productivity, and development workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jontsai",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "heyparsadev/claude-venture-plugin": {
+    "name": "heyparsadev/claude-venture-plugin",
+    "description": "Claude Code plugin and agent skills for founders \u2014 market research, competitor analysis, customer discovery, product-market fit, go-to-market and unit economics, chained through one shared workspace. Persian and English.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heyparsadev",
+    "repoName": "claude-venture-plugin",
+    "repoBranch": "main"
+  },
+  "tony/skills": {
+    "name": "tony/skills",
+    "description": "Language-agnostic AI workflow plugins for Claude Code and Codex. Every workflow is a skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tony",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Tannnnhauser/pivot-web-search": {
+    "name": "Tannnnhauser/pivot-web-search",
+    "description": "Pivot Web Search \u2014 Claude Code plugin: multi-provider web search with failover",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tannnnhauser",
+    "repoName": "pivot-web-search",
+    "repoBranch": "main"
+  },
+  "MisterRaindrop/agent-router-cc": {
+    "name": "MisterRaindrop/agent-router-cc",
+    "description": "Claude Code plugin that routes coding subtasks to the cheapest capable model \u2014 the main session (Opus) plans, reviews and verifies; codex/claude executors write the code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MisterRaindrop",
+    "repoName": "agent-router-cc",
+    "repoBranch": "main"
+  },
+  "Zachariah9420/embedded-systems-architect": {
+    "name": "Zachariah9420/embedded-systems-architect",
+    "description": "Evidence-driven embedded systems & edge-AI skill for Claude Code and other agents \u2014 vendor-doc intake, cross-layer feasibility verdicts, hard-gated flashing/recovery. Turn week-three surprises into day-one knowledge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zachariah9420",
+    "repoName": "embedded-systems-architect",
+    "repoBranch": "main"
   }
 }
