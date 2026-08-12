@@ -22064,5 +22064,112 @@
         "branch": "master",
         "skillsPath": "./",
         "enabled": true
+    },
+    "JuneYaooo/social-account-doctor": {
+        "owner": "JuneYaooo",
+        "name": "social-account-doctor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "punt-labs/prfaq": {
+        "owner": "punt-labs",
+        "name": "prfaq",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SupercmoHQ/superCMO-skills": {
+        "owner": "SupercmoHQ",
+        "name": "superCMO-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JellyBrick/korean-prose-skill": {
+        "owner": "JellyBrick",
+        "name": "korean-prose-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tercel/code-forge": {
+        "owner": "tercel",
+        "name": "code-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "franzos/claude-plugins": {
+        "owner": "franzos",
+        "name": "claude-plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "punt-labs/dungeon": {
+        "owner": "punt-labs",
+        "name": "dungeon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "astropham1808/astro-agent-skills": {
+        "owner": "astropham1808",
+        "name": "astro-agent-skills",
+        "branch": "develop",
+        "enabled": true
+    },
+    "mananritwik/ux-proofsheet": {
+        "owner": "mananritwik",
+        "name": "ux-proofsheet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nawazxz/20-claude-skills-for-business": {
+        "owner": "nawazxz",
+        "name": "20-claude-skills-for-business",
+        "branch": "main",
+        "enabled": true
+    },
+    "Pr1m4lc0d3/peitho": {
+        "owner": "Pr1m4lc0d3",
+        "name": "peitho",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Pr1m4lc0d3/janus": {
+        "owner": "Pr1m4lc0d3",
+        "name": "janus",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SpencerPresley/everyday-engineering-skills": {
+        "owner": "SpencerPresley",
+        "name": "everyday-engineering-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "emerickchasse/claude-code-plugin-marketplace-culp": {
+        "owner": "emerickchasse",
+        "name": "claude-code-plugin-marketplace-culp",
+        "branch": "main",
+        "enabled": true
+    },
+    "uppifyagency/atomic-cc": {
+        "owner": "uppifyagency",
+        "name": "atomic-cc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "undeemed/manifest": {
+        "owner": "undeemed",
+        "name": "manifest",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

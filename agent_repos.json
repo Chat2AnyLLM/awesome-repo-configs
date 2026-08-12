@@ -3411,5 +3411,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "punt-labs/prfaq": {
+    "owner": "punt-labs",
+    "name": "prfaq",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "uppifyagency/atomic-cc": {
+    "owner": "uppifyagency",
+    "name": "atomic-cc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

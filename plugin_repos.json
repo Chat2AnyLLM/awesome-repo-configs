@@ -17911,5 +17911,122 @@
     "repoOwner": "rga-rt",
     "repoName": "claude-nuxt-fullstack-scaffold",
     "repoBranch": "main"
+  },
+  "SupercmoHQ/superCMO-skills": {
+    "name": "SupercmoHQ/superCMO-skills",
+    "description": "Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns - UGC videos, ad videos, product photography and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SupercmoHQ",
+    "repoName": "superCMO-skills",
+    "repoBranch": "main"
+  },
+  "tercel/code-forge": {
+    "name": "tercel/code-forge",
+    "description": "Complete development workflow \u2014 from TDD-driven implementation plans to execution, debugging, code review, git worktree management, branch lifecycle, and parallel agent dispatch.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tercel",
+    "repoName": "code-forge",
+    "repoBranch": "main"
+  },
+  "franzos/claude-plugins": {
+    "name": "franzos/claude-plugins",
+    "description": "Claude Code plugin marketplace: a set of domain experts (subagents) grouped into installable plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "franzos",
+    "repoName": "claude-plugins",
+    "repoBranch": "master"
+  },
+  "astropham1808/astro-agent-skills": {
+    "name": "astropham1808/astro-agent-skills",
+    "description": "Codex skills and Claude Code plugins for verifiable agent-assisted delivery. Plan the repo, run one story through an implementer plus an independent read-only reviewer in an isolated Git worktree, gate on a project-ow...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "astropham1808",
+    "repoName": "astro-agent-skills",
+    "repoBranch": "develop"
+  },
+  "mananritwik/ux-proofsheet": {
+    "name": "mananritwik/ux-proofsheet",
+    "description": "Benchmark a UI/UX design against how real apps ship, in your industry and outside it. A Claude Agent Skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mananritwik",
+    "repoName": "ux-proofsheet",
+    "repoBranch": "main"
+  },
+  "Pr1m4lc0d3/peitho": {
+    "name": "Pr1m4lc0d3/peitho",
+    "description": "Make prose pull a reader in and hold them there. A Claude Code skill built on classical rhetoric and the studies that contradict most hook advice.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pr1m4lc0d3",
+    "repoName": "peitho",
+    "repoBranch": "main"
+  },
+  "Pr1m4lc0d3/janus": {
+    "name": "Pr1m4lc0d3/janus",
+    "description": "Turn a product's contradictions into its positioning. A Claude Code skill \u2014 every other thinking framework dissolves a contradiction; this one refuses.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pr1m4lc0d3",
+    "repoName": "janus",
+    "repoBranch": "main"
+  },
+  "mrieck/claude-plugins": {
+    "name": "mrieck/claude-plugins",
+    "description": "Free indie hacker tools for Claude Code \u2014 demo videos (DemoDay), SEO articles (SEO Blog), social reach (Social Cue), project oversight (Overboard). One marketplace, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrieck",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "SpencerPresley/everyday-engineering-skills": {
+    "name": "SpencerPresley/everyday-engineering-skills",
+    "description": "Agent Skills, Claude Code plugins, hooks, and focused engineering utilities for everyday development work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SpencerPresley",
+    "repoName": "everyday-engineering-skills",
+    "repoBranch": "main"
+  },
+  "heyparsadev/claude-plugins": {
+    "name": "heyparsadev/claude-plugins",
+    "description": "Claude Code plugin marketplace \u2014 three plugins for startup validation, business strategy, and iOS 26 SwiftUI design. Install with /plugin marketplace add heyparsadev/claude-plugins. Persian and English.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heyparsadev",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "emerickchasse/claude-code-plugin-marketplace-culp": {
+    "name": "emerickchasse/claude-code-plugin-marketplace-culp",
+    "description": "Public Claude Code plugin marketplace for CULP \u2014 reduce Claude Code token usage without reducing output quality.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emerickchasse",
+    "repoName": "claude-code-plugin-marketplace-culp",
+    "repoBranch": "main"
+  },
+  "uppifyagency/atomic-cc": {
+    "name": "uppifyagency/atomic-cc",
+    "description": "A verification harness that lives inside Claude Code. Native plugin: 9 workflows, 11 subagents, 12 slash commands, 6 hooks. Approval is arithmetic in plain JS; commits stay gated until a validated CLI seals it. Indepe...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uppifyagency",
+    "repoName": "atomic-cc",
+    "repoBranch": "main"
+  },
+  "undeemed/manifest": {
+    "name": "undeemed/manifest",
+    "description": "Kill learned helplessness in AI coding agents. A/B-benchmarked skill for Claude Code, Codex, Cursor: no more 'unsolved, so I can't' - attempt mandatory, fabrication banned, honesty intact.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "undeemed",
+    "repoName": "manifest",
+    "repoBranch": "main"
   }
 }
