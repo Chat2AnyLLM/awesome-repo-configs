@@ -17902,5 +17902,14 @@
     "repoOwner": "Zachariah9420",
     "repoName": "embedded-systems-architect",
     "repoBranch": "main"
+  },
+  "rga-rt/claude-nuxt-fullstack-scaffold": {
+    "name": "rga-rt/claude-nuxt-fullstack-scaffold",
+    "description": "Claude Code plugin/marketplace that scaffolds production-ready Nuxt 3 apps with Tailwind, Vitest, and optional i18n, SQLite (Drizzle), or Supabase.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rga-rt",
+    "repoName": "claude-nuxt-fullstack-scaffold",
+    "repoBranch": "main"
   }
 }
