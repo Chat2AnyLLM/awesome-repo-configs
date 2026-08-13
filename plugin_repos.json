@@ -18280,5 +18280,104 @@
     "repoOwner": "IsaacEryn",
     "repoName": "humanizer-ko",
     "repoBranch": "main"
+  },
+  "oxylabs/agent-skills": {
+    "name": "oxylabs/agent-skills",
+    "description": "Official Agent skills of Oxylabs products",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oxylabs",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "kgraph57/evidentia": {
+    "name": "kgraph57/evidentia",
+    "description": "Open-source medical citation verifier: catches fabricated DOI/PMID/NCT references with CLI, MCP, and Claude Code skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kgraph57",
+    "repoName": "evidentia",
+    "repoBranch": "main"
+  },
+  "Yuno15-bb/c-brain": {
+    "name": "Yuno15-bb/c-brain",
+    "description": "Persistent memory and a growing knowledge tree for CLI agents \u2014 an installable engine, kept separate from your notes, that updates itself",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Yuno15-bb",
+    "repoName": "c-brain",
+    "repoBranch": "main"
+  },
+  "sodam-ai/SoDam-Agentic-Eng": {
+    "name": "sodam-ai/SoDam-Agentic-Eng",
+    "description": "\ucd08\ubcf4 \ubc14\uc774\ube0c\ucf54\ub354\ub97c \uc704\ud55c Claude Code/Codex \ud50c\ub7ec\uadf8\uc778 \u2014 \uacc4\ud68d \uba3c\uc800\u00b7\uc26c\uc6b4 \uac80\ud1a0\u00b7\uc548\uc804 \ucc28\ub2e8+\uae30\ub85d(F6), Codex\uc5d0\ub3c4 \ub3d9\uc77c \uc548\uc804\uc7a5\uce58 \ub4f1\ub85d(F7) (Apache-2.0)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sodam-ai",
+    "repoName": "SoDam-Agentic-Eng",
+    "repoBranch": "init-mvp"
+  },
+  "AviMYB/mybusiness-plugins": {
+    "name": "AviMYB/mybusiness-plugins",
+    "description": "MyBusiness CRM implementation toolkit for Claude Code - product knowledge base + no-code implementation skills for the Hebrew-first Israeli CRM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AviMYB",
+    "repoName": "mybusiness-plugins",
+    "repoBranch": "main"
+  },
+  "sidchaudhary/gtm-skills": {
+    "name": "sidchaudhary/gtm-skills",
+    "description": "78 GTM skills for Claude Code \u2014 7 GTM roles, 8 store loops, one shared setup skill. Lifecycle segmentation, deal scoring, creative direction, and more. Built by Intempt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sidchaudhary",
+    "repoName": "gtm-skills",
+    "repoBranch": "master"
+  },
+  "Heretek-AI/heretek-claude-harness": {
+    "name": "Heretek-AI/heretek-claude-harness",
+    "description": "Open-source Claude Code plugin marketplace framework and distribution CLI deploying fast quality guardrails (ruff, pyright, biome, clippy), MCP tools, and language packs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Heretek-AI",
+    "repoName": "heretek-claude-harness",
+    "repoBranch": "main"
+  },
+  "pyang2045/claude-code-marketplace": {
+    "name": "pyang2045/claude-code-marketplace",
+    "description": "Claude Code plugin marketplace \u2014 /obs-close writes Obsidian session handoffs, /whats-up briefs you on where work stands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pyang2045",
+    "repoName": "claude-code-marketplace",
+    "repoBranch": "main"
+  },
+  "wayne930242/grillboard": {
+    "name": "wayne930242/grillboard",
+    "description": "Browser-based, live decision-tree interviews for Claude Code \u2014 no MCP round-trip, full web operation, docs written back for your main session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wayne930242",
+    "repoName": "grillboard",
+    "repoBranch": "main"
+  },
+  "vishesh9131/elephant": {
+    "name": "vishesh9131/elephant",
+    "description": "Local-first session continuity across AI coding harnesses",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vishesh9131",
+    "repoName": "elephant",
+    "repoBranch": "main"
+  },
+  "chjnett/open_contribute": {
+    "name": "chjnett/open_contribute",
+    "description": "Agent Skills that take you from \"I want to contribute to open source\" to a submitted pull request \u2014 and measure whether a repo actually merges outside PRs before recommending it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chjnett",
+    "repoName": "open_contribute",
+    "repoBranch": "main"
   }
 }

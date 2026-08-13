@@ -22530,5 +22530,104 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "oxylabs/agent-skills": {
+        "owner": "oxylabs",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kgraph57/evidentia": {
+        "owner": "kgraph57",
+        "name": "evidentia",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Yuno15-bb/c-brain": {
+        "owner": "Yuno15-bb",
+        "name": "c-brain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sodam-ai/SoDam-Agentic-Eng": {
+        "owner": "sodam-ai",
+        "name": "SoDam-Agentic-Eng",
+        "branch": "init-mvp",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AviMYB/mybusiness-plugins": {
+        "owner": "AviMYB",
+        "name": "mybusiness-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "UdotCASH/ucash-skills": {
+        "owner": "UdotCASH",
+        "name": "ucash-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kalyvask/pm-evaluation-framework": {
+        "owner": "kalyvask",
+        "name": "pm-evaluation-framework",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "KijitoAI/kijito-tools": {
+        "owner": "KijitoAI",
+        "name": "kijito-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "sidchaudhary/gtm-skills": {
+        "owner": "sidchaudhary",
+        "name": "gtm-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Heretek-AI/heretek-claude-harness": {
+        "owner": "Heretek-AI",
+        "name": "heretek-claude-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "pyang2045/claude-code-marketplace": {
+        "owner": "pyang2045",
+        "name": "claude-code-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "wayne930242/grillboard": {
+        "owner": "wayne930242",
+        "name": "grillboard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vishesh9131/elephant": {
+        "owner": "vishesh9131",
+        "name": "elephant",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zachariah9420/research-gap-hunter-skill-": {
+        "owner": "Zachariah9420",
+        "name": "research-gap-hunter-skill-",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chjnett/open_contribute": {
+        "owner": "chjnett",
+        "name": "open_contribute",
+        "branch": "main",
+        "enabled": true
     }
 }
