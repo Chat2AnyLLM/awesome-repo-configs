@@ -3467,5 +3467,26 @@
     "branch": "init-mvp",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "fn-jakubkarp/crocthejob": {
+    "owner": "fn-jakubkarp",
+    "name": "crocthejob",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "maplenk/claude-orchestrator": {
+    "owner": "maplenk",
+    "name": "claude-orchestrator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ali-demirbas/ab-test-playbook": {
+    "owner": "ali-demirbas",
+    "name": "ab-test-playbook",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -18379,5 +18379,95 @@
     "repoOwner": "chjnett",
     "repoName": "open_contribute",
     "repoBranch": "main"
+  },
+  "Ootto-AI/claude-content-skills": {
+    "name": "Ootto-AI/claude-content-skills",
+    "description": "Free, copy-paste Claude skills that run your content growth factory \u2014 turn ideas + your NotebookLM memory into scroll-stopping Instagram reels. By Ootto.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ootto-AI",
+    "repoName": "claude-content-skills",
+    "repoBranch": "main"
+  },
+  "netresearch/matrix-skill": {
+    "name": "netresearch/matrix-skill",
+    "description": "Three Agentic Skills for Matrix: encrypted chat with a daemon that follows rooms live, Synapse homeserver administration, and content guidance for announcements. Chat works with any homeserver; administration requires...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "netresearch",
+    "repoName": "matrix-skill",
+    "repoBranch": "main"
+  },
+  "apideck-libraries/api-skills": {
+    "name": "apideck-libraries/api-skills",
+    "description": "One abstraction, 146 SaaS connectors. Agent skills for Apideck's Unified API \u2014 integrate Salesforce, QuickBooks, BambooHR, Jira, Shopify and 140+ more by changing one string.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "apideck-libraries",
+    "repoName": "api-skills",
+    "repoBranch": "main"
+  },
+  "thiagopbraga/skills-space": {
+    "name": "thiagopbraga/skills-space",
+    "description": "Marketplace aberto de skills para agentes de c\u00f3digo \u2014 Claude Code, Cursor, Copilot e AGENTS.md",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thiagopbraga",
+    "repoName": "skills-space",
+    "repoBranch": "main"
+  },
+  "seyedehsanhadi/sloptrim": {
+    "name": "seyedehsanhadi/sloptrim",
+    "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seyedehsanhadi",
+    "repoName": "sloptrim",
+    "repoBranch": "main"
+  },
+  "pcvelz/cloudone": {
+    "name": "pcvelz/cloudone",
+    "description": "Spawn separate zero-token Claude Code sessions against a local model (llama-swap / llama.cpp) for long-running or simple side tasks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pcvelz",
+    "repoName": "cloudone",
+    "repoBranch": "main"
+  },
+  "maplenk/claude-orchestrator": {
+    "name": "maplenk/claude-orchestrator",
+    "description": "Plan \u2192 delegate \u2192 verify workflow for Claude Code. Roles and harnesses as orthogonal axes: run any role on Claude, Codex, Grok or pi, with an enforced no-implement mode and a cross-harness message bus.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maplenk",
+    "repoName": "claude-orchestrator",
+    "repoBranch": "main"
+  },
+  "mohamedzhioua/pixelproof": {
+    "name": "mohamedzhioua/pixelproof",
+    "description": "AI images that pass your spec ,generate via Codex from inside Claude Code, verify every pixel, retake until correct. No API key required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mohamedzhioua",
+    "repoName": "pixelproof",
+    "repoBranch": "main"
+  },
+  "FlashGalatine/claude-govee-lights": {
+    "name": "FlashGalatine/claude-govee-lights",
+    "description": "Drive your Govee lights from Claude Code activity - idle, thinking, tool use, waiting on you, errors.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FlashGalatine",
+    "repoName": "claude-govee-lights",
+    "repoBranch": "main"
+  },
+  "ali-demirbas/ab-test-playbook": {
+    "name": "ali-demirbas/ab-test-playbook",
+    "description": "A/B testing and CRO playbook for Claude Code: 179 experiment scenarios for e-commerce, mobile and SaaS, single-variable test design, plan auditing, real z-test statistics, and a rendered HTML card per scenario.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ali-demirbas",
+    "repoName": "ab-test-playbook",
+    "repoBranch": "main"
   }
 }

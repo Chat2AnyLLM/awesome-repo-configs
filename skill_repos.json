@@ -22629,5 +22629,107 @@
         "name": "open_contribute",
         "branch": "main",
         "enabled": true
+    },
+    "instavm/coderunner": {
+        "owner": "instavm",
+        "name": "coderunner",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ootto-AI/claude-content-skills": {
+        "owner": "Ootto-AI",
+        "name": "claude-content-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kaisers-io/refs": {
+        "owner": "kaisers-io",
+        "name": "refs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ootto-AI/ootto-watch": {
+        "owner": "Ootto-AI",
+        "name": "ootto-watch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "netresearch/matrix-skill": {
+        "owner": "netresearch",
+        "name": "matrix-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "timw255/aprimo-references": {
+        "owner": "timw255",
+        "name": "aprimo-references",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "apideck-libraries/api-skills": {
+        "owner": "apideck-libraries",
+        "name": "api-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "fn-jakubkarp/crocthejob": {
+        "owner": "fn-jakubkarp",
+        "name": "crocthejob",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "vignesh-s7/product-management": {
+        "owner": "vignesh-s7",
+        "name": "product-management",
+        "branch": "dev",
+        "enabled": true
+    },
+    "thiagopbraga/skills-space": {
+        "owner": "thiagopbraga",
+        "name": "skills-space",
+        "branch": "main",
+        "enabled": true
+    },
+    "seyedehsanhadi/sloptrim": {
+        "owner": "seyedehsanhadi",
+        "name": "sloptrim",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maplenk/claude-orchestrator": {
+        "owner": "maplenk",
+        "name": "claude-orchestrator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mohamedzhioua/pixelproof": {
+        "owner": "mohamedzhioua",
+        "name": "pixelproof",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ali-demirbas/ab-test-playbook": {
+        "owner": "ali-demirbas",
+        "name": "ab-test-playbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shahzaibrafiq/shipkit": {
+        "owner": "shahzaibrafiq",
+        "name": "shipkit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
