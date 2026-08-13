@@ -22443,5 +22443,92 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "getcargohq/cargo-skills": {
+        "owner": "getcargohq",
+        "name": "cargo-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShipWithAI/shipwithai-plugins": {
+        "owner": "ShipWithAI",
+        "name": "shipwithai-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "melconcoast/code-idea": {
+        "owner": "melconcoast",
+        "name": "code-idea",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aiperceivable/apcore-skills": {
+        "owner": "aiperceivable",
+        "name": "apcore-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vincent-wen789/persona-audit": {
+        "owner": "vincent-wen789",
+        "name": "persona-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jotterhans/malaysian-chinese-skill": {
+        "owner": "jotterhans",
+        "name": "malaysian-chinese-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "faridjaff/show-dont-tell": {
+        "owner": "faridjaff",
+        "name": "show-dont-tell",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "janek-moon/murex": {
+        "owner": "janek-moon",
+        "name": "murex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lucasyhzhu-debug/claude-skills": {
+        "owner": "lucasyhzhu-debug",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "weijia-89/palamedes": {
+        "owner": "weijia-89",
+        "name": "palamedes",
+        "branch": "main",
+        "enabled": true
+    },
+    "signal-yield/esquisse-kun": {
+        "owner": "signal-yield",
+        "name": "esquisse-kun",
+        "branch": "main",
+        "enabled": true
+    },
+    "IsaacEryn/humanizer-ko": {
+        "owner": "IsaacEryn",
+        "name": "humanizer-ko",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "eduhsouza-pixel/opnsense-agent-skill": {
+        "owner": "eduhsouza-pixel",
+        "name": "opnsense-agent-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

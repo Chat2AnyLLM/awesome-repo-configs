@@ -18208,5 +18208,77 @@
     "repoOwner": "oFrusch",
     "repoName": "ste-guard",
     "repoBranch": "main"
+  },
+  "getcargohq/cargo-skills": {
+    "name": "getcargohq/cargo-skills",
+    "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring, CRM sync, and buying-signal monitoring (job changes, funding, tech intent) from Claude Code, Co...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getcargohq",
+    "repoName": "cargo-skills",
+    "repoBranch": "main"
+  },
+  "ShipWithAI/shipwithai-plugins": {
+    "name": "ShipWithAI/shipwithai-plugins",
+    "description": "Open-source Claude Code plugins \u2014 build a real project harness, not another pasted CLAUDE.md.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShipWithAI",
+    "repoName": "shipwithai-plugins",
+    "repoBranch": "main"
+  },
+  "aiperceivable/apcore-skills": {
+    "name": "aiperceivable/apcore-skills",
+    "description": "Apcore ecosystem management skill for Claude Code. Handles cross-language SDK synchronization, framework integration scaffolding, multi-repo audits, coordinated releases, and documentation alignment.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aiperceivable",
+    "repoName": "apcore-skills",
+    "repoBranch": "main"
+  },
+  "jotterhans/malaysian-chinese-skill": {
+    "name": "jotterhans/malaysian-chinese-skill",
+    "description": "AI agent skill for authentic Malaysian Chinese voice \u2014 \u9a6c\u6765\u897f\u4e9a\u534e\u4eba/\u5927\u9a6c\u534e\u8bed AI \u6280\u80fd\uff1aManglish\u3001\u534e\u8bed\u3001\u7ca4\u8bed\u3001\u798f\u5efa\u8bdd code-switching\uff0c\u7ffb\u8bd1\u4e0e\u6587\u5316 | kopitiam culture, slang translator",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jotterhans",
+    "repoName": "malaysian-chinese-skill",
+    "repoBranch": "main"
+  },
+  "faridjaff/show-dont-tell": {
+    "name": "faridjaff/show-dont-tell",
+    "description": "Claude Code skill: answers as ASCII status boards, flow chains, and case matrices instead of prose walls.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "faridjaff",
+    "repoName": "show-dont-tell",
+    "repoBranch": "main"
+  },
+  "janek-moon/murex": {
+    "name": "janek-moon/murex",
+    "description": "Risk-driven spiral-model conductor for coding agents \u2014 spikes the largest risk each cycle and gates on a commitment review",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "janek-moon",
+    "repoName": "murex",
+    "repoBranch": "main"
+  },
+  "lucasyhzhu-debug/claude-skills": {
+    "name": "lucasyhzhu-debug/claude-skills",
+    "description": "Index of Lucas Zhu's open-source Claude Code skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucasyhzhu-debug",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "IsaacEryn/humanizer-ko": {
+    "name": "IsaacEryn/humanizer-ko",
+    "description": "\ud55c\uad6d\uc5b4 \ud14d\uc2a4\ud2b8\uc5d0\uc11c AI \uc0dd\uc131 \uae00\uc758 \ud2f0\ub97c \uc81c\uac70\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \u2014 blader/humanizer\uc758 \ud55c\uad6d\uc5b4 \uc7ac\uc124\uacc4\ud310 (Korean adaptation of the humanizer agent skill)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IsaacEryn",
+    "repoName": "humanizer-ko",
+    "repoBranch": "main"
   }
 }

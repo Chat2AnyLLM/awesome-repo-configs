@@ -3432,5 +3432,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "getcargohq/cargo-skills": {
+    "owner": "getcargohq",
+    "name": "cargo-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ShipWithAI/shipwithai-plugins": {
+    "owner": "ShipWithAI",
+    "name": "shipwithai-plugins",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Just-Another-Agent-Factory/jaf": {
+    "owner": "Just-Another-Agent-Factory",
+    "name": "jaf",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
