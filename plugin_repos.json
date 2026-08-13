@@ -18469,5 +18469,59 @@
     "repoOwner": "ali-demirbas",
     "repoName": "ab-test-playbook",
     "repoBranch": "main"
+  },
+  "malekokour/clinpharm-pmx-skills": {
+    "name": "malekokour/clinpharm-pmx-skills",
+    "description": "Turn any AI agent into a clinical pharmacologist and pharmacometrician. It reviews, reconciles, and prepares evidence. It never selects a dose, signs off, or submits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "malekokour",
+    "repoName": "clinpharm-pmx-skills",
+    "repoBranch": "main"
+  },
+  "martynjsimpson/workManagementClaudePlugin": {
+    "name": "martynjsimpson/workManagementClaudePlugin",
+    "description": "Claude Code plugin marketplace for work-management \u2014 a project-agnostic Request \u2192 Work item \u2192 Active release \u2192 Done delivery model for AI-supported development. Install via /plugin marketplace add, updates ship automa...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martynjsimpson",
+    "repoName": "workManagementClaudePlugin",
+    "repoBranch": "main"
+  },
+  "dbaggott/claude-plugins": {
+    "name": "dbaggott/claude-plugins",
+    "description": "Opinionated GitHub workflow and coding-practice plugins for Claude Code: worktree + draft PR flow, self-documenting issues, an independent PR reviewer bot, and work summaries.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dbaggott",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "timharris707/skills": {
+    "name": "timharris707/skills",
+    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for tracked, multi-session, agent-assisted development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "timharris707",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "sinteco/healthit-copilot": {
+    "name": "sinteco/healthit-copilot",
+    "description": "HL7 v2 to FHIR R4 converter & validator \u2014 Claude Code plugin with deterministic MCP tools for healthcare interoperability engineers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sinteco",
+    "repoName": "healthit-copilot",
+    "repoBranch": "main"
+  },
+  "karlkfi/claude-branch-guard": {
+    "name": "karlkfi/claude-branch-guard",
+    "description": "Branch-aware git permissions for Claude Code \u2014 auto-approve safe git/gh commands, pause at main and destructive ops.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karlkfi",
+    "repoName": "claude-branch-guard",
+    "repoBranch": "main"
   }
 }

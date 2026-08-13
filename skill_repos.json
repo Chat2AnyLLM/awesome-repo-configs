@@ -22731,5 +22731,129 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "liustack/modlens": {
+        "owner": "liustack",
+        "name": "modlens",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JuneYaooo/self-media-compliance-review": {
+        "owner": "JuneYaooo",
+        "name": "self-media-compliance-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "malekokour/clinpharm-pmx-skills": {
+        "owner": "malekokour",
+        "name": "clinpharm-pmx-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sky-Cube/fullflow-dev-agent": {
+        "owner": "Sky-Cube",
+        "name": "fullflow-dev-agent",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "mplind/second-reader": {
+        "owner": "mplind",
+        "name": "second-reader",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "martynjsimpson/workManagementClaudePlugin": {
+        "owner": "martynjsimpson",
+        "name": "workManagementClaudePlugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sumedh1599/chess-theory": {
+        "owner": "Sumedh1599",
+        "name": "chess-theory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "The-LukeZ/discord-intent-application": {
+        "owner": "The-LukeZ",
+        "name": "discord-intent-application",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dbaggott/claude-plugins": {
+        "owner": "dbaggott",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "timharris707/skills": {
+        "owner": "timharris707",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sinteco/healthit-copilot": {
+        "owner": "sinteco",
+        "name": "healthit-copilot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fredmayor88/acr-setup-engineer": {
+        "owner": "fredmayor88",
+        "name": "acr-setup-engineer",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "thestratcore/My-skills": {
+        "owner": "thestratcore",
+        "name": "My-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "danyuchn/memory-engineering-skill": {
+        "owner": "danyuchn",
+        "name": "memory-engineering-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "xjjbeijing-julio/crf-ocr-entry": {
+        "owner": "xjjbeijing-julio",
+        "name": "crf-ocr-entry",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Chykalophia/cklph-diagram-skill": {
+        "owner": "Chykalophia",
+        "name": "cklph-diagram-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "danyuchn/iso-24495-skill": {
+        "owner": "danyuchn",
+        "name": "iso-24495-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LucasSantana-Dev/frontend-reference-hunt": {
+        "owner": "LucasSantana-Dev",
+        "name": "frontend-reference-hunt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
