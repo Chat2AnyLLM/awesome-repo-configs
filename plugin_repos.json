@@ -18613,5 +18613,113 @@
     "repoOwner": "Black-Line-Ops",
     "repoName": "scroll-scrub-hero",
     "repoBranch": "main"
+  },
+  "nowork-studio/notfair-plugin": {
+    "name": "nowork-studio/notfair-plugin",
+    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nowork-studio",
+    "repoName": "notfair-plugin",
+    "repoBranch": "main"
+  },
+  "SepineTam/mcp-for-stata": {
+    "name": "SepineTam/mcp-for-stata",
+    "description": "A MCP server for Stata to integrate Stata into your agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SepineTam",
+    "repoName": "mcp-for-stata",
+    "repoBranch": "master"
+  },
+  "novoads/agent-skills": {
+    "name": "novoads/agent-skills",
+    "description": "AI video and image ads for marketers, built in Claude Code or Cursor and priced by a live estimate first.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "novoads",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "tomthebearded/guide-forge": {
+    "name": "tomthebearded/guide-forge",
+    "description": "Turns your own idea into a learn-as-you-go build guide: a Claude Code plugin that plans a gated milestone ladder and drafts atomic step files that explain every action where it happens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomthebearded",
+    "repoName": "guide-forge",
+    "repoBranch": "main"
+  },
+  "tonydzi/second-brain-starter-kit": {
+    "name": "tonydzi/second-brain-starter-kit",
+    "description": "Claude Code as a second brain: all 101 skills, a working CRM engine, vault templates and the handover map. Method, not data.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonydzi",
+    "repoName": "second-brain-starter-kit",
+    "repoBranch": "master"
+  },
+  "orieg/gws-connector": {
+    "name": "orieg/gws-connector",
+    "description": "Multi-account Google Workspace MCP server \u2014 Gmail, Calendar, and Drive with smart routing. Plugin for Claude Code and Gemini CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "orieg",
+    "repoName": "gws-connector",
+    "repoBranch": "main"
+  },
+  "dravensoft-dev/arena": {
+    "name": "dravensoft-dev/arena",
+    "description": "Arena: a token-driven design system built to be operated by agents. React, Angular and Tailwind, shipped as two npm packages, a Claude Code plugin and an Agent Skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dravensoft-dev",
+    "repoName": "arena",
+    "repoBranch": "main"
+  },
+  "charlesashe/backbrief-kit": {
+    "name": "charlesashe/backbrief-kit",
+    "description": "Run your Claude Code project like a team. The free Backbrief Kit as a Claude Code plugin. backbrief.ai",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "charlesashe",
+    "repoName": "backbrief-kit",
+    "repoBranch": "main"
+  },
+  "mkt-henry/plainspeak": {
+    "name": "mkt-henry/plainspeak",
+    "description": "Plain-language mode for Claude Code. For non-developers who ship real products by vibe coding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mkt-henry",
+    "repoName": "plainspeak",
+    "repoBranch": "main"
+  },
+  "janek-moon/planter": {
+    "name": "janek-moon/planter",
+    "description": "Delegate Claude Code tasks to named tmux/cmux sessions \u2014 run claude, codex, or a shell, then monitor and report back",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "janek-moon",
+    "repoName": "planter",
+    "repoBranch": "main"
+  },
+  "astrofoundry/talk-normal": {
+    "name": "astrofoundry/talk-normal",
+    "description": "Make your coding agent talk normal: plain, unambiguous, action-first English. Multi-harness skill for Claude Code, Codex, Gemini CLI, Qwen, Kimi, Pi, Copilot, Zed, Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "astrofoundry",
+    "repoName": "talk-normal",
+    "repoBranch": "main"
+  },
+  "rdyplayerB/claude-blackbox": {
+    "name": "rdyplayerB/claude-blackbox",
+    "description": "Crash recovery for Claude Code. A flight recorder for every session: know when one died, resume it with full context, get warned when one isn't saving.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rdyplayerB",
+    "repoName": "claude-blackbox",
+    "repoBranch": "master"
   }
 }

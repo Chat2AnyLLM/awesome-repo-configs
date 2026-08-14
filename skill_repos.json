@@ -22963,5 +22963,120 @@
         "name": "tech-audit-skill",
         "branch": "main",
         "enabled": true
+    },
+    "nowork-studio/notfair-plugin": {
+        "owner": "nowork-studio",
+        "name": "notfair-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "SepineTam/mcp-for-stata": {
+        "owner": "SepineTam",
+        "name": "mcp-for-stata",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "chanjing-ai/chan-skills": {
+        "owner": "chanjing-ai",
+        "name": "chan-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "novoads/agent-skills": {
+        "owner": "novoads",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kpcrmv4/gas-best-practices": {
+        "owner": "kpcrmv4",
+        "name": "gas-best-practices",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tomthebearded/guide-forge": {
+        "owner": "tomthebearded",
+        "name": "guide-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonydzi/second-brain-starter-kit": {
+        "owner": "tonydzi",
+        "name": "second-brain-starter-kit",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "orieg/gws-connector": {
+        "owner": "orieg",
+        "name": "gws-connector",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dravensoft-dev/arena": {
+        "owner": "dravensoft-dev",
+        "name": "arena",
+        "branch": "main",
+        "enabled": true
+    },
+    "485524097/novel-scout": {
+        "owner": "485524097",
+        "name": "novel-scout",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zhang66633/dsh-plugin-installer": {
+        "owner": "zhang66633",
+        "name": "dsh-plugin-installer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jeremiah-masters/skills": {
+        "owner": "jeremiah-masters",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "charlesashe/backbrief-kit": {
+        "owner": "charlesashe",
+        "name": "backbrief-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "mkt-henry/plainspeak": {
+        "owner": "mkt-henry",
+        "name": "plainspeak",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "janek-moon/planter": {
+        "owner": "janek-moon",
+        "name": "planter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "astrofoundry/talk-normal": {
+        "owner": "astrofoundry",
+        "name": "talk-normal",
+        "branch": "main",
+        "enabled": true
+    },
+    "rdyplayerB/claude-blackbox": {
+        "owner": "rdyplayerB",
+        "name": "claude-blackbox",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

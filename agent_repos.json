@@ -3495,5 +3495,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "orieg/gws-connector": {
+    "owner": "orieg",
+    "name": "gws-connector",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
