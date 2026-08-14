@@ -22855,5 +22855,113 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Leutenegger/book-to-skill": {
+        "owner": "Leutenegger",
+        "name": "book-to-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JanYork/llm-wiki-cli": {
+        "owner": "JanYork",
+        "name": "llm-wiki-cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lincoln504/pi-research": {
+        "owner": "Lincoln504",
+        "name": "pi-research",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PCIRCLE-AI/memesh": {
+        "owner": "PCIRCLE-AI",
+        "name": "memesh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NEXPACE-Limited/msu-skills": {
+        "owner": "NEXPACE-Limited",
+        "name": "msu-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "remybroun/infographic": {
+        "owner": "remybroun",
+        "name": "infographic",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "adityaarakeri/senior-agent-skills": {
+        "owner": "adityaarakeri",
+        "name": "senior-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MyAiFreedomSystems/graphic-testimonials": {
+        "owner": "MyAiFreedomSystems",
+        "name": "graphic-testimonials",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MyAiFreedomSystems/harvest-testimonials": {
+        "owner": "MyAiFreedomSystems",
+        "name": "harvest-testimonials",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aarontzeng/dev-lead": {
+        "owner": "aarontzeng",
+        "name": "dev-lead",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "msmorgan/jj-kata": {
+        "owner": "msmorgan",
+        "name": "jj-kata",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "the-practice-company/bench": {
+        "owner": "the-practice-company",
+        "name": "bench",
+        "branch": "main",
+        "enabled": true
+    },
+    "vib795/agent-memory": {
+        "owner": "vib795",
+        "name": "agent-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fxw-labs/beachcombing": {
+        "owner": "fxw-labs",
+        "name": "beachcombing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Black-Line-Ops/scroll-scrub-hero": {
+        "owner": "Black-Line-Ops",
+        "name": "scroll-scrub-hero",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "GuidanceStudio/tech-audit-skill": {
+        "owner": "GuidanceStudio",
+        "name": "tech-audit-skill",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -18523,5 +18523,95 @@
     "repoOwner": "karlkfi",
     "repoName": "claude-branch-guard",
     "repoBranch": "main"
+  },
+  "JanYork/llm-wiki-cli": {
+    "name": "JanYork/llm-wiki-cli",
+    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JanYork",
+    "repoName": "llm-wiki-cli",
+    "repoBranch": "main"
+  },
+  "PCIRCLE-AI/memesh": {
+    "name": "PCIRCLE-AI/memesh",
+    "description": "Agentic memory for coding agents \u2014 captured from the agent's real work, injected when it acts, kept honest when it contradicts itself. One SQLite file. MCP + CLI + hooks + dashboard. No cloud.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PCIRCLE-AI",
+    "repoName": "memesh",
+    "repoBranch": "main"
+  },
+  "NEXPACE-Limited/msu-skills": {
+    "name": "NEXPACE-Limited/msu-skills",
+    "description": "Agent Skills for MapleStory Universe \u2014 a SKILL.md catalog for MSU builders. Works with Claude Code, Codex CLI, Gemini CLI, Kimi CLI, and any LLM agent that reads SKILL.md. By NEXPACE.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NEXPACE-Limited",
+    "repoName": "msu-skills",
+    "repoBranch": "main"
+  },
+  "Alfafis/cc-token-statusline": {
+    "name": "Alfafis/cc-token-statusline",
+    "description": "Claude Code status line badge: context window, account quota, session cost, cache hit rate and subagent token spend",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Alfafis",
+    "repoName": "cc-token-statusline",
+    "repoBranch": "main"
+  },
+  "aarontzeng/dev-lead": {
+    "name": "aarontzeng/dev-lead",
+    "description": "Cross-model delegation and adversarial review for CLI coding agents: one lead, four runtime adapters, and no change merges reviewed only by its own model family.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aarontzeng",
+    "repoName": "dev-lead",
+    "repoBranch": "master"
+  },
+  "ghiaog123/opencode-plugin-cc": {
+    "name": "ghiaog123/opencode-plugin-cc",
+    "description": "Run OpenCode as a subagent inside Claude Code for independent code reviews, adversarial feedback, and delegated background tasks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ghiaog123",
+    "repoName": "opencode-plugin-cc",
+    "repoBranch": "main"
+  },
+  "msmorgan/jj-kata": {
+    "name": "msmorgan/jj-kata",
+    "description": "Safe Jujutsu workspace coordination for parallel agents, with optional file-backed Kanban.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "msmorgan",
+    "repoName": "jj-kata",
+    "repoBranch": "main"
+  },
+  "the-practice-company/bench": {
+    "name": "the-practice-company/bench",
+    "description": "A Claude Code marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "the-practice-company",
+    "repoName": "bench",
+    "repoBranch": "main"
+  },
+  "vib795/agent-memory": {
+    "name": "vib795/agent-memory",
+    "description": "Durable cross-repo memory for GitHub Copilot and Claude Code. Markdown source of truth, SQLite graph index, zero runtime dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vib795",
+    "repoName": "agent-memory",
+    "repoBranch": "main"
+  },
+  "Black-Line-Ops/scroll-scrub-hero": {
+    "name": "Black-Line-Ops/scroll-scrub-hero",
+    "description": "Turn one photo of a real place into a scroll-scrubbed hero. kie.ai pipeline: storyboard, keyframes, Kling first/last-frame tweens, drop-in WebP frames. By Black Line Design.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Black-Line-Ops",
+    "repoName": "scroll-scrub-hero",
+    "repoBranch": "main"
   }
 }
