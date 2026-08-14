@@ -23078,5 +23078,115 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "lbb00/ai-rules-sync": {
+        "owner": "lbb00",
+        "name": "ai-rules-sync",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "playcanvas/skills": {
+        "owner": "playcanvas",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "chengzhi-c/natural-talk": {
+        "owner": "chengzhi-c",
+        "name": "natural-talk",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aahlijia/dekko": {
+        "owner": "aahlijia",
+        "name": "dekko",
+        "branch": "main",
+        "enabled": true
+    },
+    "runapi-ai/cli-skill": {
+        "owner": "runapi-ai",
+        "name": "cli-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SearchCans/searchcans-skills-zh": {
+        "owner": "SearchCans",
+        "name": "searchcans-skills-zh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "H2OArctic/claude-skill-deps-update": {
+        "owner": "H2OArctic",
+        "name": "claude-skill-deps-update",
+        "branch": "main",
+        "enabled": true
+    },
+    "Piccolo123/url-manager": {
+        "owner": "Piccolo123",
+        "name": "url-manager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PHPCraftdream/rust-intel": {
+        "owner": "PHPCraftdream",
+        "name": "rust-intel",
+        "branch": "main",
+        "enabled": true
+    },
+    "Swellshinider/janitor": {
+        "owner": "Swellshinider",
+        "name": "janitor",
+        "branch": "main",
+        "enabled": true
+    },
+    "OrinVoss/dsh-math-team": {
+        "owner": "OrinVoss",
+        "name": "dsh-math-team",
+        "branch": "main",
+        "enabled": true
+    },
+    "lellis-medical-group/kineo-nest-backend": {
+        "owner": "lellis-medical-group",
+        "name": "kineo-nest-backend",
+        "branch": "master",
+        "enabled": true
+    },
+    "fattain-naime/cwp-superpowers": {
+        "owner": "fattain-naime",
+        "name": "cwp-superpowers",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SaraHadou/incident-agent-claude-code": {
+        "owner": "SaraHadou",
+        "name": "incident-agent-claude-code",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "biancoenrico/claude-skills": {
+        "owner": "biancoenrico",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "eugenezhangco-spec/foreman": {
+        "owner": "eugenezhangco-spec",
+        "name": "foreman",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emaarco/hogwarts": {
+        "owner": "emaarco",
+        "name": "hogwarts",
+        "branch": "main",
+        "enabled": true
     }
 }

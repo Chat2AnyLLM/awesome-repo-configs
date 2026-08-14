@@ -18721,5 +18721,95 @@
     "repoOwner": "rdyplayerB",
     "repoName": "claude-blackbox",
     "repoBranch": "master"
+  },
+  "playcanvas/skills": {
+    "name": "playcanvas/skills",
+    "description": "Reusable skills for AI coding agents working with PlayCanvas products",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "playcanvas",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "aahlijia/dekko": {
+    "name": "aahlijia/dekko",
+    "description": "Static code map generator (MAP.md + map.json) powered by tree-sitter \u2014 a Claude Code /map plugin and MCP server that gives coding agents call graphs, file outlines, and impacted-test lookups without spending tokens on...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aahlijia",
+    "repoName": "dekko",
+    "repoBranch": "main"
+  },
+  "PHPCraftdream/rust-intel": {
+    "name": "PHPCraftdream/rust-intel",
+    "description": "A living spec defending against the 26 categories of mistakes LLMs systematically make in Rust. Claude Code skill + 3 slash commands (rust-audit, rust-fix, rust-plan) built on a single source of truth.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PHPCraftdream",
+    "repoName": "rust-intel",
+    "repoBranch": "main"
+  },
+  "Swellshinider/janitor": {
+    "name": "Swellshinider/janitor",
+    "description": "Behavior-preserving codebase cleanup: removes dead code, splits oversized files and classes, and merges duplicated logic without changing behavior.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Swellshinider",
+    "repoName": "janitor",
+    "repoBranch": "main"
+  },
+  "fattain-naime/cwp-superpowers": {
+    "name": "fattain-naime/cwp-superpowers",
+    "description": "AI-powered plugin for CWP (Control Web Panel) management. 12 skills, 5 agents, 17 MCP tools, full CLI. Verified against live AlmaLinux 8.10 + CWP 0.9.8.1244.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fattain-naime",
+    "repoName": "cwp-superpowers",
+    "repoBranch": "master"
+  },
+  "biancoenrico/claude-skills": {
+    "name": "biancoenrico/claude-skills",
+    "description": "Claude Code skills & plugins: git-flow skill for the gitflow branching model, installed via plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "biancoenrico",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "eugenezhangco-spec/foreman": {
+    "name": "eugenezhangco-spec/foreman",
+    "description": "A 14-agent engineering team for Claude Code. Plans before it builds, reviews before it ships, and never says 'it works' without proof.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eugenezhangco-spec",
+    "repoName": "foreman",
+    "repoBranch": "main"
+  },
+  "longthread/claude-plugins": {
+    "name": "longthread/claude-plugins",
+    "description": "longthread/claude-plugins \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "longthread",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "emaarco/hogwarts": {
+    "name": "emaarco/hogwarts",
+    "description": "A Hogwarts for Claude Code \u2014 a spellbook of plugins that guard, reveal & automate. Patronum shields, Protego seals, Revelio reveals, Felix gets lucky. \ud83c\udff0\ud83e\ude84",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emaarco",
+    "repoName": "hogwarts",
+    "repoBranch": "main"
+  },
+  "jatingargiitk/claude-rem": {
+    "name": "jatingargiitk/claude-rem",
+    "description": "A brain that remembers everything. One memory for all your AI coding tools: Claude Code, Cursor & Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jatingargiitk",
+    "repoName": "claude-rem",
+    "repoBranch": "main"
   }
 }

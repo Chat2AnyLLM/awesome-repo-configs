@@ -3502,5 +3502,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "fattain-naime/cwp-superpowers": {
+    "owner": "fattain-naime",
+    "name": "cwp-superpowers",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "SaraHadou/incident-agent-claude-code": {
+    "owner": "SaraHadou",
+    "name": "incident-agent-claude-code",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "eugenezhangco-spec/foreman": {
+    "owner": "eugenezhangco-spec",
+    "name": "foreman",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
