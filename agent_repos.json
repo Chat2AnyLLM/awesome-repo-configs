@@ -3523,5 +3523,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "VonTerraProject501c3/slushpile": {
+    "owner": "VonTerraProject501c3",
+    "name": "slushpile",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "smshahbaj/crucible": {
+    "owner": "smshahbaj",
+    "name": "crucible",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

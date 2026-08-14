@@ -18811,5 +18811,95 @@
     "repoOwner": "jatingargiitk",
     "repoName": "claude-rem",
     "repoBranch": "main"
+  },
+  "VonTerraProject501c3/slushpile": {
+    "name": "VonTerraProject501c3/slushpile",
+    "description": "An adversarial job search that gets better as it goes: pool-anchored fit scoring, a resume and cover letter built against the job description, seven agents that try to reject you before a recruiter does, and a profile...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VonTerraProject501c3",
+    "repoName": "slushpile",
+    "repoBranch": "main"
+  },
+  "smshahbaj/crucible": {
+    "name": "smshahbaj/crucible",
+    "description": "Production-ready Claude Code decision intelligence marketplace with adversarial routing, evidence-driven analysis, specialized agents, benchmarks, and automated validation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smshahbaj",
+    "repoName": "crucible",
+    "repoBranch": "main"
+  },
+  "nordicnode/skillpack": {
+    "name": "nordicnode/skillpack",
+    "description": "Generate, verify, and maintain AI agent guidance for your OSS project \u2014 skills, plugins, and AGENTS.md for Claude Code, Cursor, Codex, Copilot, and 10+ AI coding ecosystems. One command turns any CLI or library into a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nordicnode",
+    "repoName": "skillpack",
+    "repoBranch": "main"
+  },
+  "sanshengai/sansheng-write": {
+    "name": "sanshengai/sansheng-write",
+    "description": "Claude Code skill for Chinese long-form & WeChat article production \u00b7 \u4e2d\u6587\u957f\u6587\u4e0e\u516c\u4f17\u53f7\u5185\u5bb9\u751f\u4ea7",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sanshengai",
+    "repoName": "sansheng-write",
+    "repoBranch": "main"
+  },
+  "PounceAI/bob-control": {
+    "name": "PounceAI/bob-control",
+    "description": "Bob Control: an MCP server + CLI + auto-dispatch worker that runs an AI coding agent (IBM Bob, a Roo Code fork) unattended against a SQLite task board.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PounceAI",
+    "repoName": "bob-control",
+    "repoBranch": "main"
+  },
+  "ryvn-dev/no-misread": {
+    "name": "ryvn-dev/no-misread",
+    "description": "Linter and Claude skill for the text between you and a model. Checks prompts for the ambiguity a model will guess through, and model output for invisible watermark characters, machine rhythm, and AI tells. English and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryvn-dev",
+    "repoName": "no-misread",
+    "repoBranch": "main"
+  },
+  "trevor-ryan-burkholder/meeseeks": {
+    "name": "trevor-ryan-burkholder/meeseeks",
+    "description": "Meeseeks is a Claude Code plugin. One command hands a specification to an autonomous loop that designs, builds, gates, audits and ships it - unattended - until it passes an enterprise definition of done, or the budget...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trevor-ryan-burkholder",
+    "repoName": "meeseeks",
+    "repoBranch": "main"
+  },
+  "sascha-gruesshaber/claudify": {
+    "name": "sascha-gruesshaber/claudify",
+    "description": "A committed-spec engineering lifecycle for Claude Code. The plugin ships law; your repo keeps shape in .agents/.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sascha-gruesshaber",
+    "repoName": "claudify",
+    "repoBranch": "main"
+  },
+  "marcomarkl/plugin-cmd-skills": {
+    "name": "marcomarkl/plugin-cmd-skills",
+    "description": "Claude-Code-Plugin mit f\u00fcnf Skills f\u00fcr Kl\u00e4ren, Planen, Reviewen, Umsetzen und Lernen \u2014 inklusive eigenem Marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marcomarkl",
+    "repoName": "plugin-cmd-skills",
+    "repoBranch": "main"
+  },
+  "SatanshuMishra/logbook": {
+    "name": "SatanshuMishra/logbook",
+    "description": "A git enabled claude plugin to persist your work in threads across multiple sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SatanshuMishra",
+    "repoName": "logbook",
+    "repoBranch": "main"
   }
 }

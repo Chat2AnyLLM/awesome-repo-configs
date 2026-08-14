@@ -23188,5 +23188,118 @@
         "name": "hogwarts",
         "branch": "main",
         "enabled": true
+    },
+    "VonTerraProject501c3/slushpile": {
+        "owner": "VonTerraProject501c3",
+        "name": "slushpile",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smshahbaj/crucible": {
+        "owner": "smshahbaj",
+        "name": "crucible",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cmdrvl/edgar-change-interpreter": {
+        "owner": "cmdrvl",
+        "name": "edgar-change-interpreter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nordicnode/skillpack": {
+        "owner": "nordicnode",
+        "name": "skillpack",
+        "branch": "main",
+        "enabled": true
+    },
+    "kakadeka/Baton": {
+        "owner": "kakadeka",
+        "name": "Baton",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sanshengai/sansheng-write": {
+        "owner": "sanshengai",
+        "name": "sansheng-write",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PounceAI/bob-control": {
+        "owner": "PounceAI",
+        "name": "bob-control",
+        "branch": "main",
+        "enabled": true
+    },
+    "ryvn-dev/no-misread": {
+        "owner": "ryvn-dev",
+        "name": "no-misread",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Institut-du-Numerique-Responsable/claude_skill_accessibilite": {
+        "owner": "Institut-du-Numerique-Responsable",
+        "name": "claude_skill_accessibilite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "trevor-ryan-burkholder/meeseeks": {
+        "owner": "trevor-ryan-burkholder",
+        "name": "meeseeks",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sascha-gruesshaber/claudify": {
+        "owner": "sascha-gruesshaber",
+        "name": "claudify",
+        "branch": "main",
+        "enabled": true
+    },
+    "marcomarkl/plugin-cmd-skills": {
+        "owner": "marcomarkl",
+        "name": "plugin-cmd-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "SatanshuMishra/logbook": {
+        "owner": "SatanshuMishra",
+        "name": "logbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rookieplayerjr/pygmt-plotting-skill": {
+        "owner": "rookieplayerjr",
+        "name": "pygmt-plotting-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "scottconverse/onedrive-exorcism": {
+        "owner": "scottconverse",
+        "name": "onedrive-exorcism",
+        "branch": "main",
+        "enabled": true
+    },
+    "MitchelDoomz/chcommandcenter": {
+        "owner": "MitchelDoomz",
+        "name": "chcommandcenter",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "bekideas/fast-marketing-skill": {
+        "owner": "bekideas",
+        "name": "fast-marketing-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
