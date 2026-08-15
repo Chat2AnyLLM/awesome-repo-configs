@@ -19081,5 +19081,14 @@
     "repoOwner": "Ruxiu0409",
     "repoName": "tarot-skill",
     "repoBranch": "main"
+  },
+  "AIStoryHub/etincel": {
+    "name": "etincel",
+    "description": "Non-fiction writing connector: trainable voice, premade emotional tones, and a transparent anti-AI-tells audit for Claude Code, Claude Desktop, and any MCP-enabled tool.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AIStoryHub",
+    "repoName": "etincel",
+    "repoBranch": "main"
   }
 }
