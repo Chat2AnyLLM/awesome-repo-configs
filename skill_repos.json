@@ -23376,5 +23376,73 @@
         "name": "archon-skill",
         "branch": "main",
         "enabled": true
+    },
+    "reticlehq/reticle": {
+        "owner": "reticlehq",
+        "name": "reticle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dreamworker0/urimal-for-socialworker": {
+        "owner": "dreamworker0",
+        "name": "urimal-for-socialworker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SaarthiOS/contract-review": {
+        "owner": "SaarthiOS",
+        "name": "contract-review",
+        "branch": "main",
+        "enabled": true
+    },
+    "parkjui92/fact-verify": {
+        "owner": "parkjui92",
+        "name": "fact-verify",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "michael-L-i/cadence-code": {
+        "owner": "michael-L-i",
+        "name": "cadence-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kadaba/claude-bridge": {
+        "owner": "kadaba",
+        "name": "claude-bridge",
+        "branch": "main",
+        "enabled": true
+    },
+    "coolTheWorld/stanford-oval-storm-skills": {
+        "owner": "coolTheWorld",
+        "name": "stanford-oval-storm-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matt-ye/yaeo": {
+        "owner": "matt-ye",
+        "name": "yaeo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SameerKhan/apple-photos-to-social": {
+        "owner": "SameerKhan",
+        "name": "apple-photos-to-social",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beadnall/codemap": {
+        "owner": "beadnall",
+        "name": "codemap",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
