@@ -22867,6 +22867,7 @@
         "owner": "JanYork",
         "name": "llm-wiki-cli",
         "branch": "main",
+        "skillsPath": "skills",
         "enabled": true
     },
     "Lincoln504/pi-research": {
