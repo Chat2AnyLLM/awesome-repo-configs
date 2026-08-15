@@ -3537,5 +3537,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "KSEGIT/Version-Sentinel": {
+    "owner": "KSEGIT",
+    "name": "Version-Sentinel",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ma-nucho-pro/supervisor-claude-plugin": {
+    "owner": "ma-nucho-pro",
+    "name": "supervisor-claude-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "unlikelyzero/agy-companion": {
+    "owner": "unlikelyzero",
+    "name": "agy-companion",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

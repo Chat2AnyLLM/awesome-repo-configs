@@ -23301,5 +23301,79 @@
         "name": "fast-marketing-skill",
         "branch": "main",
         "enabled": true
+    },
+    "KSEGIT/Version-Sentinel": {
+        "owner": "KSEGIT",
+        "name": "Version-Sentinel",
+        "branch": "main",
+        "enabled": true
+    },
+    "ceoguy/x-algorithm-skill": {
+        "owner": "ceoguy",
+        "name": "x-algorithm-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tetckx/deep-structural-analysis-skill": {
+        "owner": "tetckx",
+        "name": "deep-structural-analysis-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ma-nucho-pro/supervisor-claude-plugin": {
+        "owner": "ma-nucho-pro",
+        "name": "supervisor-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ma-nucho-pro/supervisorLLM-plugin": {
+        "owner": "ma-nucho-pro",
+        "name": "supervisorLLM-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "mdorf/agent-skills": {
+        "owner": "mdorf",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PCMStack/agent-skills": {
+        "owner": "PCMStack",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mrrobertkent/helixlab-plugin": {
+        "owner": "mrrobertkent",
+        "name": "helixlab-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "unlikelyzero/agy-companion": {
+        "owner": "unlikelyzero",
+        "name": "agy-companion",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eric-hastie/claim-check": {
+        "owner": "eric-hastie",
+        "name": "claim-check",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thodson-usgs/archon-skill": {
+        "owner": "thodson-usgs",
+        "name": "archon-skill",
+        "branch": "main",
+        "enabled": true
     }
 }

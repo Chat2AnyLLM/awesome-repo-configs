@@ -18901,5 +18901,59 @@
     "repoOwner": "SatanshuMishra",
     "repoName": "logbook",
     "repoBranch": "main"
+  },
+  "KSEGIT/Version-Sentinel": {
+    "name": "KSEGIT/Version-Sentinel",
+    "description": "Claude Code plugin that hard-blocks dependency additions, bumps, and downgrades until a fresh, source-cited version check is recorded. Supports npm, pip, Poetry/uv, Cargo, and NuGet.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KSEGIT",
+    "repoName": "Version-Sentinel",
+    "repoBranch": "main"
+  },
+  "ceoguy/x-algorithm-skill": {
+    "name": "ceoguy/x-algorithm-skill",
+    "description": "A Claude skill that teaches Claude to write X (Twitter) posts engineered against the open-source For-You ranker. Sourced from xai-org/x-algorithm + twitter/the-algorithm + Community Notes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ceoguy",
+    "repoName": "x-algorithm-skill",
+    "repoBranch": "main"
+  },
+  "ma-nucho-pro/supervisorLLM-plugin": {
+    "name": "ma-nucho-pro/supervisorLLM-plugin",
+    "description": "Cross-harness SupervisorLLM plugin for Claude Code, Codex, Cursor and Gemini CLI with native agents, hooks, web verification and final release gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ma-nucho-pro",
+    "repoName": "supervisorLLM-plugin",
+    "repoBranch": "main"
+  },
+  "mdorf/agent-skills": {
+    "name": "mdorf/agent-skills",
+    "description": "Portable Agent Skills (SKILL.md) for Claude Code, OpenAI Codex, and other AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mdorf",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "mrrobertkent/helixlab-plugin": {
+    "name": "mrrobertkent/helixlab-plugin",
+    "description": "AI agent tooling marketplace. Plugins, skills, hooks, agents, and MCP servers for Claude Code, Claude Desktop, claude.ai, and Codex CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrrobertkent",
+    "repoName": "helixlab-plugin",
+    "repoBranch": "main"
+  },
+  "unlikelyzero/agy-companion": {
+    "name": "unlikelyzero/agy-companion",
+    "description": "Claude Code plugin for Google's Antigravity CLI (agy): delegate coding tasks, run independent code reviews, and manage background jobs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "unlikelyzero",
+    "repoName": "agy-companion",
+    "repoBranch": "main"
   }
 }
