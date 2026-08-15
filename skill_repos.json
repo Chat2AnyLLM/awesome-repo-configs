@@ -23577,5 +23577,109 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "1gr14/agents-party": {
+        "owner": "1gr14",
+        "name": "agents-party",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "parkscloud/okf-author": {
+        "owner": "parkscloud",
+        "name": "okf-author",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GuillaumeLessard/qector-claude-plugin": {
+        "owner": "GuillaumeLessard",
+        "name": "qector-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "erfanhabibipanah/commonbook": {
+        "owner": "erfanhabibipanah",
+        "name": "commonbook",
+        "branch": "main",
+        "enabled": true
+    },
+    "qingtiandamowang/alibaba-java-guidelines-skills": {
+        "owner": "qingtiandamowang",
+        "name": "alibaba-java-guidelines-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PieroJF/claude-workflow-resilience": {
+        "owner": "PieroJF",
+        "name": "claude-workflow-resilience",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chris-peterson/shipshape": {
+        "owner": "chris-peterson",
+        "name": "shipshape",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kasperjunky/Gamification-Skill": {
+        "owner": "kasperjunky",
+        "name": "Gamification-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kanitthac/ats-resume-checker": {
+        "owner": "kanitthac",
+        "name": "ats-resume-checker",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "founderfunnel/tiermaker-skill": {
+        "owner": "founderfunnel",
+        "name": "tiermaker-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HaJH/unreal-material-graph-skill": {
+        "owner": "HaJH",
+        "name": "unreal-material-graph-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "UppercutLabs/heimdall": {
+        "owner": "UppercutLabs",
+        "name": "heimdall",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sergiobuilds/biz-health-check": {
+        "owner": "sergiobuilds",
+        "name": "biz-health-check",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gootf/austrian-judgment-protocol": {
+        "owner": "gootf",
+        "name": "austrian-judgment-protocol",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sunjongos/perfect-guess-agent": {
+        "owner": "sunjongos",
+        "name": "perfect-guess-agent",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

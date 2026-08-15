@@ -3572,5 +3572,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "GuillaumeLessard/qector-claude-plugin": {
+    "owner": "GuillaumeLessard",
+    "name": "qector-claude-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
