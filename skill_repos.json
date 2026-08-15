@@ -4451,13 +4451,6 @@
         "branch": "main",
         "enabled": true
     },
-    "effythealien/plumb-line": {
-        "owner": "effythealien",
-        "name": "plumb-line",
-        "branch": "main",
-        "skillsPath": "skills",
-        "enabled": true
-    },
     "cody-hutson/pmo-platform": {
         "owner": "cody-hutson",
         "name": "pmo-platform",
