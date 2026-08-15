@@ -23444,5 +23444,145 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "learnwithu/mingli-master": {
+        "owner": "learnwithu",
+        "name": "mingli-master",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sanshengai/sansheng-distill": {
+        "owner": "sanshengai",
+        "name": "sansheng-distill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maystudios/claude-skills": {
+        "owner": "maystudios",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sandbaseai/sandbase-skills": {
+        "owner": "sandbaseai",
+        "name": "sandbase-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "shuzhao1133/gbt9704-format": {
+        "owner": "shuzhao1133",
+        "name": "gbt9704-format",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Justinjchen-Cornell/Science-Research-Writing-Skill": {
+        "owner": "Justinjchen-Cornell",
+        "name": "Science-Research-Writing-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hendriknielaender/go-turbo": {
+        "owner": "hendriknielaender",
+        "name": "go-turbo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WardLu/skills": {
+        "owner": "WardLu",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Julien339/template-filler-skill": {
+        "owner": "Julien339",
+        "name": "template-filler-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "xu-jin-cs/dsh-skills": {
+        "owner": "xu-jin-cs",
+        "name": "dsh-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ihabkhaled/AI-Psychiatry": {
+        "owner": "ihabkhaled",
+        "name": "AI-Psychiatry",
+        "branch": "main",
+        "enabled": true
+    },
+    "weifashi/html-mockup": {
+        "owner": "weifashi",
+        "name": "html-mockup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "apitube/news-api-skills": {
+        "owner": "apitube",
+        "name": "news-api-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "svy04/ballast": {
+        "owner": "svy04",
+        "name": "ballast",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "luogangan7-lgtm/website-visuals": {
+        "owner": "luogangan7-lgtm",
+        "name": "website-visuals",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yakultyum/ai-coding-exam-skill": {
+        "owner": "yakultyum",
+        "name": "ai-coding-exam-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "diligent-dilettante/life-planning": {
+        "owner": "diligent-dilettante",
+        "name": "life-planning",
+        "branch": "master",
+        "enabled": true
+    },
+    "ameriadec/revue-changement": {
+        "owner": "ameriadec",
+        "name": "revue-changement",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rami-code-review/claude-code-marketplace": {
+        "owner": "rami-code-review",
+        "name": "claude-code-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "ameriadec/analyse-biais": {
+        "owner": "ameriadec",
+        "name": "analyse-biais",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ruxiu0409/tarot-skill": {
+        "owner": "Ruxiu0409",
+        "name": "tarot-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -3565,5 +3565,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "rami-code-review/claude-code-marketplace": {
+    "owner": "rami-code-review",
+    "name": "claude-code-marketplace",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

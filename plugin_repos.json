@@ -19009,5 +19009,77 @@
     "repoOwner": "coolTheWorld",
     "repoName": "stanford-oval-storm-skills",
     "repoBranch": "main"
+  },
+  "sanshengai/sansheng-distill": {
+    "name": "sanshengai/sansheng-distill",
+    "description": "Claude Code skill: distill a book or video series into one interactive single-file HTML \u00b7 \u4e66\u7c4d/\u89c6\u9891\u6df1\u5ea6\u84b8\u998f",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sanshengai",
+    "repoName": "sansheng-distill",
+    "repoBranch": "main"
+  },
+  "sandbaseai/sandbase-skills": {
+    "name": "sandbaseai/sandbase-skills",
+    "description": "88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows\u2014compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sandbaseai",
+    "repoName": "sandbase-skills",
+    "repoBranch": "main"
+  },
+  "hendriknielaender/go-turbo": {
+    "name": "hendriknielaender/go-turbo",
+    "description": "Go performance mode for AI coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hendriknielaender",
+    "repoName": "go-turbo",
+    "repoBranch": "main"
+  },
+  "ihabkhaled/AI-Psychiatry": {
+    "name": "ihabkhaled/AI-Psychiatry",
+    "description": "AI-Psychiatry is a Claude plugin that gives AI coding agents an executive-function layer to detect and control attention drift, overthinking, recursive reasoning, compulsive verification, scope drift, retry loops, dea...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ihabkhaled",
+    "repoName": "AI-Psychiatry",
+    "repoBranch": "main"
+  },
+  "apitube/news-api-skills": {
+    "name": "apitube/news-api-skills",
+    "description": "Official APITube News API skill for AI coding agents \u2014 search worldwide news, sentiment, entities and 135 filters from Claude Code, Cursor, Codex, Copilot and Gemini CLI. Every parameter verified against the live API.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "apitube",
+    "repoName": "news-api-skills",
+    "repoBranch": "main"
+  },
+  "svy04/ballast": {
+    "name": "svy04/ballast",
+    "description": "Turns working with Claude Code into a system that finishes goals - what you teach, verify, and solve once stays in use, session after session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "svy04",
+    "repoName": "ballast",
+    "repoBranch": "main"
+  },
+  "rami-code-review/claude-code-marketplace": {
+    "name": "rami-code-review/claude-code-marketplace",
+    "description": "Claude Code plugins for [Rami Code Review](https://rami.reviews)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rami-code-review",
+    "repoName": "claude-code-marketplace",
+    "repoBranch": "main"
+  },
+  "Ruxiu0409/tarot-skill": {
+    "name": "Ruxiu0409/tarot-skill",
+    "description": "\ud83d\udd2e Type /tarot in Claude Code and draw real tarot cards. 78-card deck, reversals, true randomness \u2014 work, love, family, or the engineer-only daily dev fortune. Any language.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ruxiu0409",
+    "repoName": "tarot-skill",
+    "repoBranch": "main"
   }
 }
