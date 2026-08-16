@@ -1913,7 +1913,7 @@
   "stefanoskarakasis/Product-Marketing-Skills": {
     "name": "stefanoskarakasis/Product-Marketing-Skills",
     "description": "Product Marketing Skills for Claude Cowork and AI agents \u2014 from growth experiments to go-to-market strategy, execution, CI, and research.",
-    "enabled": true,
+    "enabled": false,
     "type": "marketplace",
     "repoOwner": "stefanoskarakasis",
     "repoName": "Product-Marketing-Skills",
