@@ -23681,5 +23681,132 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Ezra144israel/governed-agent-skills": {
+        "owner": "Ezra144israel",
+        "name": "governed-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "asale-ai/anything-to-skill": {
+        "owner": "asale-ai",
+        "name": "anything-to-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "IdanTayree/Blindspot": {
+        "owner": "IdanTayree",
+        "name": "Blindspot",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chgagne/claude-skills-research": {
+        "owner": "chgagne",
+        "name": "claude-skills-research",
+        "branch": "main",
+        "enabled": true
+    },
+    "szarkans/multi-code-review": {
+        "owner": "szarkans",
+        "name": "multi-code-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hamzahamidi/claude-in-chrome-cli": {
+        "owner": "hamzahamidi",
+        "name": "claude-in-chrome-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "makidav/clinical-assistant": {
+        "owner": "makidav",
+        "name": "clinical-assistant",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thgMatajs/squirrel-mode": {
+        "owner": "thgMatajs",
+        "name": "squirrel-mode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "openhonest/honest-skills": {
+        "owner": "openhonest",
+        "name": "honest-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mace-Enterprise/Agent-Knowledge-Memory-Wiki": {
+        "owner": "Mace-Enterprise",
+        "name": "Agent-Knowledge-Memory-Wiki",
+        "branch": "main",
+        "enabled": true
+    },
+    "Madrona-Product-Studio/madrona-open": {
+        "owner": "Madrona-Product-Studio",
+        "name": "madrona-open",
+        "branch": "main",
+        "enabled": true
+    },
+    "ritmillio/skills": {
+        "owner": "ritmillio",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Harish-here/maddog": {
+        "owner": "Harish-here",
+        "name": "maddog",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "techguy0711/app-maker": {
+        "owner": "techguy0711",
+        "name": "app-maker",
+        "branch": "main",
+        "enabled": true
+    },
+    "ApexionSoft/google-pagespeed-skill": {
+        "owner": "ApexionSoft",
+        "name": "google-pagespeed-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "7cubit/cybersecurity": {
+        "owner": "7cubit",
+        "name": "cybersecurity",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SriniGundelli/talent-intel": {
+        "owner": "SriniGundelli",
+        "name": "talent-intel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yanyanvv/comms-media-watch": {
+        "owner": "yanyanvv",
+        "name": "comms-media-watch",
+        "branch": "main",
+        "enabled": true
+    },
+    "yanyanvv/ai-watch": {
+        "owner": "yanyanvv",
+        "name": "ai-watch",
+        "branch": "main",
+        "enabled": true
     }
 }

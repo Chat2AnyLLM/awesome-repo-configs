@@ -3579,5 +3579,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "szarkans/multi-code-review": {
+    "owner": "szarkans",
+    "name": "multi-code-review",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Harish-here/maddog": {
+    "owner": "Harish-here",
+    "name": "maddog",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

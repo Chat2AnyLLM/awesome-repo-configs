@@ -19144,5 +19144,86 @@
     "repoOwner": "AltDoug",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "Ezra144israel/governed-agent-skills": {
+    "name": "Ezra144israel/governed-agent-skills",
+    "description": "A governance constitution and working method for multi-agent and solo-agent workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ezra144israel",
+    "repoName": "governed-agent-skills",
+    "repoBranch": "main"
+  },
+  "szarkans/multi-code-review": {
+    "name": "szarkans/multi-code-review",
+    "description": "Consensus code review: Claude + OpenAI Codex (+ optional Google Antigravity) review the same diff in parallel, findings reconciled into one report. Claude Code plugin marketplace + Agent Skills format.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "szarkans",
+    "repoName": "multi-code-review",
+    "repoBranch": "main"
+  },
+  "hamzahamidi/claude-in-chrome-cli": {
+    "name": "hamzahamidi/claude-in-chrome-cli",
+    "description": "Use the Claude in Chrome extension tools natively in Claude Code (plugin) or from your shell (cic.sh). Same MCP bridge, two front doors.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hamzahamidi",
+    "repoName": "claude-in-chrome-cli",
+    "repoBranch": "main"
+  },
+  "thgMatajs/squirrel-mode": {
+    "name": "thgMatajs/squirrel-mode",
+    "description": "ADHD-friendly AI responses: answer first, zero fluff. Output-style plugin for Claude Code, Codex and Cursor. \ud83d\udc3f\ufe0f",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thgMatajs",
+    "repoName": "squirrel-mode",
+    "repoBranch": "main"
+  },
+  "openhonest/honest-skills": {
+    "name": "openhonest/honest-skills",
+    "description": "Agent skills that make a model report what it cannot do. root-cause forbids a causal claim without evidence; sitrep puts the finding first, bad news above good, and names every gap. Ships clarity.py so the rules are a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "openhonest",
+    "repoName": "honest-skills",
+    "repoBranch": "main"
+  },
+  "Madrona-Product-Studio/madrona-open": {
+    "name": "Madrona-Product-Studio/madrona-open",
+    "description": "Open tools from Madrona Product Studio \u2014 a Claude Code plugin marketplace of reusable skills for building and shipping polished product",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Madrona-Product-Studio",
+    "repoName": "madrona-open",
+    "repoBranch": "main"
+  },
+  "ritmillio/skills": {
+    "name": "ritmillio/skills",
+    "description": "Agent skills for long-running engineering work. One SKILL.md, usable in Claude Code, Codex, Gemini CLI, Cursor and anything else that reads the open standard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ritmillio",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Harish-here/maddog": {
+    "name": "Harish-here/maddog",
+    "description": "maddog: an advisor-executor agent universe for Claude Code \u2014 judgment-tiered executor family, product-engineering pipeline, gated authoring and session-mining skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Harish-here",
+    "repoName": "maddog",
+    "repoBranch": "main"
+  },
+  "techguy0711/app-maker": {
+    "name": "techguy0711/app-maker",
+    "description": "techguy0711/app-maker \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "techguy0711",
+    "repoName": "app-maker",
+    "repoBranch": "main"
   }
 }
