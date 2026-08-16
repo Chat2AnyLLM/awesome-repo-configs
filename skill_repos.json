@@ -23889,5 +23889,143 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "GaZmagik/iso-24495": {
+        "owner": "GaZmagik",
+        "name": "iso-24495",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "v-yun/vuln-report-skill": {
+        "owner": "v-yun",
+        "name": "vuln-report-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Backtthefuture/video-transcript": {
+        "owner": "Backtthefuture",
+        "name": "video-transcript",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "R2h1/my-book-skills": {
+        "owner": "R2h1",
+        "name": "my-book-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jkaninda/okapi-skills": {
+        "owner": "jkaninda",
+        "name": "okapi-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "suyu-creator/deep-analysis-skills": {
+        "owner": "suyu-creator",
+        "name": "deep-analysis-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "VincenzoManto/clarity-skill": {
+        "owner": "VincenzoManto",
+        "name": "clarity-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "EONRaider/SkillArtisan": {
+        "owner": "EONRaider",
+        "name": "SkillArtisan",
+        "branch": "master",
+        "enabled": true
+    },
+    "Chisanan232/requirement-zero": {
+        "owner": "Chisanan232",
+        "name": "requirement-zero",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "BenoshAntonyBenoy/repo-graphics": {
+        "owner": "BenoshAntonyBenoy",
+        "name": "repo-graphics",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pixel-ju/wechat-mp-backup": {
+        "owner": "pixel-ju",
+        "name": "wechat-mp-backup",
+        "branch": "main",
+        "enabled": true
+    },
+    "zzunaid/prompt-line": {
+        "owner": "zzunaid",
+        "name": "prompt-line",
+        "branch": "main",
+        "enabled": true
+    },
+    "jcorbettfrank/backlog-ops": {
+        "owner": "jcorbettfrank",
+        "name": "backlog-ops",
+        "branch": "main",
+        "enabled": true
+    },
+    "hepzanechen/causal-graph-harness": {
+        "owner": "hepzanechen",
+        "name": "causal-graph-harness",
+        "branch": "master",
+        "enabled": true
+    },
+    "HaJH/unreal-graph-skills": {
+        "owner": "HaJH",
+        "name": "unreal-graph-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sthibod/blpapi-expert": {
+        "owner": "sthibod",
+        "name": "blpapi-expert",
+        "branch": "main",
+        "enabled": true
+    },
+    "HugoFara/knock-first": {
+        "owner": "HugoFara",
+        "name": "knock-first",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aisenseapi/aisense-free-public-rest-apis": {
+        "owner": "aisenseapi",
+        "name": "aisense-free-public-rest-apis",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TimTsung/cinematic-composition-skill": {
+        "owner": "TimTsung",
+        "name": "cinematic-composition-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "pripanggalih/discussion-to-matt": {
+        "owner": "pripanggalih",
+        "name": "discussion-to-matt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "URneiU1/choosing-research-skills": {
+        "owner": "URneiU1",
+        "name": "choosing-research-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -19252,5 +19252,86 @@
     "repoOwner": "tomkd555",
     "repoName": "research-skill",
     "repoBranch": "main"
+  },
+  "GaZmagik/iso-24495": {
+    "name": "GaZmagik/iso-24495",
+    "description": "ISO 24495 Plain Language skills and Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GaZmagik",
+    "repoName": "iso-24495",
+    "repoBranch": "main"
+  },
+  "suyu-creator/deep-analysis-skills": {
+    "name": "suyu-creator/deep-analysis-skills",
+    "description": "Claude Code skill for deep requirement analysis: 3-gate pipeline (clarify \u2192 simulate \u2192 report), optional red-team, PRD output. Built-in researcher/simulator/reporter agents + reflexion memory. Zero dependencies, no MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "suyu-creator",
+    "repoName": "deep-analysis-skills",
+    "repoBranch": "main"
+  },
+  "VincenzoManto/clarity-skill": {
+    "name": "VincenzoManto/clarity-skill",
+    "description": "Claude Code skill: turns Microsoft Clarity session/heatmap data into ranked UX, performance and UI fixes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VincenzoManto",
+    "repoName": "clarity-skill",
+    "repoBranch": "master"
+  },
+  "Chisanan232/requirement-zero": {
+    "name": "Chisanan232/requirement-zero",
+    "description": "Two Agent Skills for AI coding agents: Requirement Zero challenges whether a requirement should be built; Codebase Zero audits whether existing code still deserves to exist. Markdown only, with published evaluation runs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Chisanan232",
+    "repoName": "requirement-zero",
+    "repoBranch": "main"
+  },
+  "pixel-ju/wechat-mp-backup": {
+    "name": "pixel-ju/wechat-mp-backup",
+    "description": "\u628a\u4f60\u81ea\u5df1\u7684\u5fae\u4fe1\u516c\u4f17\u53f7\u5386\u53f2\u6587\u7ae0\u5168\u90e8\u5bfc\u51fa\uff1a\u6b63\u6587 Markdown + \u56fe\u7247 + \u539f\u59cb HTML\uff0c\u626b\u4e00\u6b21\u7801\u5373\u53ef\uff0c\u65e0\u9700 PC \u5fae\u4fe1/\u6293\u5305",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pixel-ju",
+    "repoName": "wechat-mp-backup",
+    "repoBranch": "main"
+  },
+  "zzunaid/prompt-line": {
+    "name": "zzunaid/prompt-line",
+    "description": "Local, read-only visual timeline of your Claude Code prompt history \u2014 dashboard, activity heatmap, and searchable per-project feed. No dependencies, no network calls, runs entirely on 127.0.0.1.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zzunaid",
+    "repoName": "prompt-line",
+    "repoBranch": "main"
+  },
+  "jcorbettfrank/backlog-ops": {
+    "name": "jcorbettfrank/backlog-ops",
+    "description": "Run several Claude Code agent sessions against one GitHub backlog without collisions: advisory issue claims, proven-parallel work selection, and priority/readiness triage.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jcorbettfrank",
+    "repoName": "backlog-ops",
+    "repoBranch": "main"
+  },
+  "hepzanechen/causal-graph-harness": {
+    "name": "hepzanechen/causal-graph-harness",
+    "description": "Auditable fact/deduction + Bayesian causal graph harness for structuring an AI agent's investigation, so it can't quietly cherry-pick evidence for an early verdict.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hepzanechen",
+    "repoName": "causal-graph-harness",
+    "repoBranch": "master"
+  },
+  "pripanggalih/discussion-to-matt": {
+    "name": "pripanggalih/discussion-to-matt",
+    "description": "The foundation layer mattpocock/skills assumes but never creates \u2014 interrogate an idea into durable project docs, an ordered roadmap, and one paste-ready run sheet per feature.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pripanggalih",
+    "repoName": "discussion-to-matt",
+    "repoBranch": "main"
   }
 }
