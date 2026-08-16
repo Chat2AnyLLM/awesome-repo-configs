@@ -19369,5 +19369,14 @@
     "repoOwner": "azrtydxb",
     "repoName": "procoder",
     "repoBranch": "main"
+  },
+  "uizze/uizze": {
+    "name": "uizze",
+    "description": "UIZZE anti-UI-slop plugin for Claude Code: a free skill and GitHub Action grounded in 800,000+ real web and iOS screens, product-specific design contracts, and a hard finish gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uizze",
+    "repoName": "uizze",
+    "repoBranch": "main"
   }
 }
