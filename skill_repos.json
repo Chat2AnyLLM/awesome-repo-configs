@@ -9801,6 +9801,13 @@
         "skillsPath": ".claude/skills",
         "enabled": true
     },
+    "aeonfun/aeon": {
+        "owner": "aeonfun",
+        "name": "aeon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "aeonfun/soul.md": {
         "owner": "aeonfun",
         "name": "soul.md",
