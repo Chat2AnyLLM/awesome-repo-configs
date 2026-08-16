@@ -3593,5 +3593,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Nova-Violet-Role/RoT-DTD-GOAL": {
+    "owner": "Nova-Violet-Role",
+    "name": "RoT-DTD-GOAL",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jtprogru/bear-skills": {
+    "owner": "jtprogru",
+    "name": "bear-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

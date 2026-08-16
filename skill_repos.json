@@ -24027,5 +24027,86 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "danielLublinsky/Skill-Atlas": {
+        "owner": "danielLublinsky",
+        "name": "Skill-Atlas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "homeowmorphism/adaptive-teacher": {
+        "owner": "homeowmorphism",
+        "name": "adaptive-teacher",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jtprogru/bear-skills": {
+        "owner": "jtprogru",
+        "name": "bear-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ChloeVPin/safe-mac-storage-cleanup-skill": {
+        "owner": "ChloeVPin",
+        "name": "safe-mac-storage-cleanup-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ChloeVPin/mascot-mark-generator": {
+        "owner": "ChloeVPin",
+        "name": "mascot-mark-generator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ChloeVPin/brand-asset-art-director": {
+        "owner": "ChloeVPin",
+        "name": "brand-asset-art-director",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ChloeVPin/angwy": {
+        "owner": "ChloeVPin",
+        "name": "angwy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Luohao-Yan/luohao-skills": {
+        "owner": "Luohao-Yan",
+        "name": "luohao-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "SeagullTwo/uk-planning-skills": {
+        "owner": "SeagullTwo",
+        "name": "uk-planning-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "azrtydxb/procoder": {
+        "owner": "azrtydxb",
+        "name": "procoder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ansvar-Systems/regulatory-threat-model-skill": {
+        "owner": "Ansvar-Systems",
+        "name": "regulatory-threat-model-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "baytcho/spider-dead-code-skill": {
+        "owner": "baytcho",
+        "name": "spider-dead-code-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
