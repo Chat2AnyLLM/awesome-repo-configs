@@ -23808,5 +23808,86 @@
         "name": "ai-watch",
         "branch": "main",
         "enabled": true
+    },
+    "1102tools/federal-contracting-skills": {
+        "owner": "1102tools",
+        "name": "federal-contracting-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "swaylq/sijiao-skill": {
+        "owner": "swaylq",
+        "name": "sijiao-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "eirik-rune/runemap": {
+        "owner": "eirik-rune",
+        "name": "runemap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "skywain/trip-planner-skill": {
+        "owner": "skywain",
+        "name": "trip-planner-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pkozanian/promptboot": {
+        "owner": "pkozanian",
+        "name": "promptboot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Avijit07x/claude-db": {
+        "owner": "Avijit07x",
+        "name": "claude-db",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "by-carlos/plan-staged-rollout": {
+        "owner": "by-carlos",
+        "name": "plan-staged-rollout",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Machai-Kydoimos/dependabot-audit": {
+        "owner": "Machai-Kydoimos",
+        "name": "dependabot-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tomkd555/research-skill": {
+        "owner": "tomkd555",
+        "name": "research-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zaious/riftbound-chronicle": {
+        "owner": "Zaious",
+        "name": "riftbound-chronicle",
+        "branch": "main",
+        "enabled": true
+    },
+    "climpea/daily-news-digest": {
+        "owner": "climpea",
+        "name": "daily-news-digest",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NeekChaw/indigo-riso-poster-skill": {
+        "owner": "NeekChaw",
+        "name": "indigo-riso-poster-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

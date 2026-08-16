@@ -19225,5 +19225,32 @@
     "repoOwner": "techguy0711",
     "repoName": "app-maker",
     "repoBranch": "main"
+  },
+  "Machai-Kydoimos/dependabot-audit": {
+    "name": "Machai-Kydoimos/dependabot-audit",
+    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock and GitHub Actions. Never merges.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Machai-Kydoimos",
+    "repoName": "dependabot-audit",
+    "repoBranch": "main"
+  },
+  "sylvain-artois/kairos-claude-code-workflow": {
+    "name": "sylvain-artois/kairos-claude-code-workflow",
+    "description": "Claude Code plugin for a story-driven agile workflow on existing projects. Turn an idea into PRDs, stories, branches and PRs without leaving your editor \u2014 with a pre-human QA layer. Built for solo devs and small teams...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sylvain-artois",
+    "repoName": "kairos-claude-code-workflow",
+    "repoBranch": "main"
+  },
+  "tomkd555/research-skill": {
+    "name": "tomkd555/research-skill",
+    "description": "Claude Code plugin: a five-stage research pipeline over a team of subagents, with verified citations and an audit gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomkd555",
+    "repoName": "research-skill",
+    "repoBranch": "main"
   }
 }
