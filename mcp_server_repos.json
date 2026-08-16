@@ -1,1 +1,10 @@
-{}
+{
+  "uizze/uizze": {
+    "owner": "uizze",
+    "name": "uizze",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.uizze/uizze",
+    "note": "Official UIZZE MCP Registry source with the hosted Streamable HTTP endpoint at https://uizze.com/mcp."
+  }
+}
