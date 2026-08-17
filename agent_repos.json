@@ -3621,5 +3621,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "szarkans/multi": {
+    "owner": "szarkans",
+    "name": "multi",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DotDebian/asd-ste100-skill": {
+    "owner": "DotDebian",
+    "name": "asd-ste100-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "eugenezhangco-spec/athena": {
+    "owner": "eugenezhangco-spec",
+    "name": "athena",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "yerros/context-forge": {
+    "owner": "yerros",
+    "name": "context-forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

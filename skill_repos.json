@@ -24256,5 +24256,119 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "thousandflowers/skillreaper": {
+        "owner": "thousandflowers",
+        "name": "skillreaper",
+        "branch": "main",
+        "enabled": true
+    },
+    "orange4664/chinese-grammar-proofreader": {
+        "owner": "orange4664",
+        "name": "chinese-grammar-proofreader",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rfxlamia/pocketto": {
+        "owner": "rfxlamia",
+        "name": "pocketto",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "szarkans/multi": {
+        "owner": "szarkans",
+        "name": "multi",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SIE-Operations-and-Maintenance-Team/sie-smom": {
+        "owner": "SIE-Operations-and-Maintenance-Team",
+        "name": "sie-smom",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sjrazaviebra/le-cabinet": {
+        "owner": "Sjrazaviebra",
+        "name": "le-cabinet",
+        "branch": "main",
+        "enabled": true
+    },
+    "arcjet/arcjet-plugin": {
+        "owner": "arcjet",
+        "name": "arcjet-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "DotDebian/asd-ste100-skill": {
+        "owner": "DotDebian",
+        "name": "asd-ste100-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hnidboubker/symphony-async": {
+        "owner": "hnidboubker",
+        "name": "symphony-async",
+        "branch": "main",
+        "enabled": true
+    },
+    "0ss/ship": {
+        "owner": "0ss",
+        "name": "ship",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sichenai/sichen-skills": {
+        "owner": "sichenai",
+        "name": "sichen-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ks72/agent-session-memory": {
+        "owner": "ks72",
+        "name": "agent-session-memory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dees91/agent-skill-manager": {
+        "owner": "dees91",
+        "name": "agent-skill-manager",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eugenezhangco-spec/athena": {
+        "owner": "eugenezhangco-spec",
+        "name": "athena",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Lion-1209/dsh-plugin-lion-skills": {
+        "owner": "Lion-1209",
+        "name": "dsh-plugin-lion-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "manulanirwan/claude-skills": {
+        "owner": "manulanirwan",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yerros/context-forge": {
+        "owner": "yerros",
+        "name": "context-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

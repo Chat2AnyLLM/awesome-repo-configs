@@ -19486,5 +19486,86 @@
     "repoOwner": "bluerock-io",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "thousandflowers/skillreaper": {
+    "name": "thousandflowers/skillreaper",
+    "description": "Evidence-based pruning for your AI-agent stack \u2014 scan, report, and safely prune unused skills/MCP servers/agents using real transcript evidence",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thousandflowers",
+    "repoName": "skillreaper",
+    "repoBranch": "main"
+  },
+  "rfxlamia/pocketto": {
+    "name": "rfxlamia/pocketto",
+    "description": "A middleweight workflow for serious AI-coded features: less ceremony than BMAD, more accountability than Superpowers. Source : Trust Me Bro.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rfxlamia",
+    "repoName": "pocketto",
+    "repoBranch": "main"
+  },
+  "szarkans/multi": {
+    "name": "szarkans/multi",
+    "description": "Use (Multi)ple agents for code-review, verifying and questions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "szarkans",
+    "repoName": "multi",
+    "repoBranch": "main"
+  },
+  "SIE-Operations-and-Maintenance-Team/sie-smom": {
+    "name": "SIE-Operations-and-Maintenance-Team/sie-smom",
+    "description": "SIE SMOM \u5e73\u53f0\u5f00\u53d1\u4e13\u5bb6 Claude Code Skill - .NET 6.0 MES + SIE \u81ea\u7814\u6846\u67b6\uff0c\u9632\u5e7b\u5199\u53c2\u8003\u5e95\u5e93",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SIE-Operations-and-Maintenance-Team",
+    "repoName": "sie-smom",
+    "repoBranch": "main"
+  },
+  "Sjrazaviebra/le-cabinet": {
+    "name": "Sjrazaviebra/le-cabinet",
+    "description": "Deux skills IA en droit francais : un comptable et un avocat. Entreprise et vie privee. Aucun chiffre ecrit de memoire - tout est source et date.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sjrazaviebra",
+    "repoName": "le-cabinet",
+    "repoBranch": "main"
+  },
+  "arcjet/arcjet-plugin": {
+    "name": "arcjet/arcjet-plugin",
+    "description": "This plugin makes your AI coding agent an Arcjet security expert.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arcjet",
+    "repoName": "arcjet-plugin",
+    "repoBranch": "main"
+  },
+  "DotDebian/asd-ste100-skill": {
+    "name": "DotDebian/asd-ste100-skill",
+    "description": "Simplified Technical English for software documentation: a Claude Code skill, three review agents, four slash commands, and a zero-dependency linter with 19 rules.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DotDebian",
+    "repoName": "asd-ste100-skill",
+    "repoBranch": "main"
+  },
+  "0ss/ship": {
+    "name": "0ss/ship",
+    "description": "\ud83d\udea2 Be as messy as you actually are. Paste transcripts, voice notes, fifteen scattered messages \u2014 ship turns them into a requirements ledger, builds it, and proves it worked. One word, one file, one skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0ss",
+    "repoName": "ship",
+    "repoBranch": "main"
+  },
+  "yerros/context-forge": {
+    "name": "yerros/context-forge",
+    "description": "Claude Code plugin for disciplined AI development \u2014 spec-driven builds, real verification, and project memory that survives every session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yerros",
+    "repoName": "context-forge",
+    "repoBranch": "main"
   }
 }
