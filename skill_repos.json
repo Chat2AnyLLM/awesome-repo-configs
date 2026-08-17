@@ -24175,5 +24175,86 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "aerovato/container": {
+        "owner": "aerovato",
+        "name": "container",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "utk2103/Prompt-Studio": {
+        "owner": "utk2103",
+        "name": "Prompt-Studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pactflow/pactflow-agent-skills": {
+        "owner": "pactflow",
+        "name": "pactflow-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "arch3rPro/ark-space": {
+        "owner": "arch3rPro",
+        "name": "ark-space",
+        "branch": "main",
+        "enabled": true
+    },
+    "Autsunset/vision-skill": {
+        "owner": "Autsunset",
+        "name": "vision-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "f8wco/prompt-atlas": {
+        "owner": "f8wco",
+        "name": "prompt-atlas",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cjohnhanson/almanac": {
+        "owner": "cjohnhanson",
+        "name": "almanac",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "imrohitagrawal/project-doc-skills": {
+        "owner": "imrohitagrawal",
+        "name": "project-doc-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GuillaumeLessard/qector-claude-skills": {
+        "owner": "GuillaumeLessard",
+        "name": "qector-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mucinous-riposte867/evidence-based-copywriting": {
+        "owner": "mucinous-riposte867",
+        "name": "evidence-based-copywriting",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bluerock-io/claude-plugins": {
+        "owner": "bluerock-io",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "bogdankrupin/ask-seranking-api": {
+        "owner": "bogdankrupin",
+        "name": "ask-seranking-api",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

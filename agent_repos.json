@@ -3607,5 +3607,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "arch3rPro/ark-space": {
+    "owner": "arch3rPro",
+    "name": "ark-space",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "GuillaumeLessard/qector-claude-skills": {
+    "owner": "GuillaumeLessard",
+    "name": "qector-claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

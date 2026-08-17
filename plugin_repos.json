@@ -19441,5 +19441,50 @@
     "repoOwner": "human-beyond",
     "repoName": "mainbook-skill",
     "repoBranch": "main"
+  },
+  "utk2103/Prompt-Studio": {
+    "name": "utk2103/Prompt-Studio",
+    "description": "here you can create prompts for your own purpose on point which need mimimal changes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "utk2103",
+    "repoName": "Prompt-Studio",
+    "repoBranch": "main"
+  },
+  "pactflow/pactflow-agent-skills": {
+    "name": "pactflow/pactflow-agent-skills",
+    "description": "Plugins & Agent Skills for Pactflow, Pact & Drift",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pactflow",
+    "repoName": "pactflow-agent-skills",
+    "repoBranch": "main"
+  },
+  "arch3rPro/ark-space": {
+    "name": "arch3rPro/ark-space",
+    "description": "ArkSpace is a creative workspace for orchestrating agent skills, roles, and workflows across Claude Code and Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arch3rPro",
+    "repoName": "ark-space",
+    "repoBranch": "main"
+  },
+  "GuillaumeLessard/qector-claude-skills": {
+    "name": "GuillaumeLessard/qector-claude-skills",
+    "description": "Source of truth for the QECTOR Claude integration: verified qector-decoder-v3 quantum error correction skills, agents, commands, and a local stdio MCP server for Claude Code and claude.ai.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GuillaumeLessard",
+    "repoName": "qector-claude-skills",
+    "repoBranch": "main"
+  },
+  "bluerock-io/claude-plugins": {
+    "name": "bluerock-io/claude-plugins",
+    "description": "The Claude Code plugin marketplace for BlueRock for Builders. Account scorecards, daily priorities, and session wrap-ups, in plain markdown you own.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bluerock-io",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }
