@@ -19567,5 +19567,59 @@
     "repoOwner": "yerros",
     "repoName": "context-forge",
     "repoBranch": "main"
+  },
+  "devoncarew/flutter-slipstream": {
+    "name": "devoncarew/flutter-slipstream",
+    "description": "Live Flutter app introspection for coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devoncarew",
+    "repoName": "flutter-slipstream",
+    "repoBranch": "main"
+  },
+  "tonykipkemboi/skill-foundry": {
+    "name": "tonykipkemboi/skill-foundry",
+    "description": "A governed pipeline for shipping Claude skills to your whole org. An AI agent runs the entire pipeline and you clickmerge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonykipkemboi",
+    "repoName": "skill-foundry",
+    "repoBranch": "main"
+  },
+  "fmaaakcode/devlog": {
+    "name": "fmaaakcode/devlog",
+    "description": "Claude Code forgets what it shipped. DevLog remembers \u2014 and blocks releases while todos are still open. A local, zero-telemetry dashboard fed by tags in Claude's responses.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fmaaakcode",
+    "repoName": "devlog",
+    "repoBranch": "main"
+  },
+  "usetheokit/theokit-skill": {
+    "name": "usetheokit/theokit-skill",
+    "description": "Claude Code plugin: the theokit-sdk authoring skill for @theokit/sdk. Install once and Claude Code writes correct SDK code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "usetheokit",
+    "repoName": "theokit-skill",
+    "repoBranch": "main"
+  },
+  "hgambas/think-like-a-pm": {
+    "name": "hgambas/think-like-a-pm",
+    "description": "Agent skills for the person who owns the product, not the codebase. Context is Queen is available now; three more in the workshop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hgambas",
+    "repoName": "think-like-a-pm",
+    "repoBranch": "main"
+  },
+  "theophile-wallez/boomer": {
+    "name": "theophile-wallez/boomer",
+    "description": "Un skill Claude Code qui fait repondre ton agent comme ta tante sur Facebook",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theophile-wallez",
+    "repoName": "boomer",
+    "repoBranch": "main"
   }
 }

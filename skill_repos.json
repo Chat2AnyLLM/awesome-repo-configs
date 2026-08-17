@@ -24370,5 +24370,108 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "kju4q/q-claude-skills": {
+        "owner": "kju4q",
+        "name": "q-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devoncarew/flutter-slipstream": {
+        "owner": "devoncarew",
+        "name": "flutter-slipstream",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "obenic/paper-translator": {
+        "owner": "obenic",
+        "name": "paper-translator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Everlky-yyj/content-director": {
+        "owner": "Everlky-yyj",
+        "name": "content-director",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mouraod/promocoes-supermercados-fortaleza": {
+        "owner": "mouraod",
+        "name": "promocoes-supermercados-fortaleza",
+        "branch": "main",
+        "enabled": true
+    },
+    "dbhq-uk/heliograph-skill": {
+        "owner": "dbhq-uk",
+        "name": "heliograph-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GianlucaNaarden/claude-skills-nederlands": {
+        "owner": "GianlucaNaarden",
+        "name": "claude-skills-nederlands",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonykipkemboi/skill-foundry": {
+        "owner": "tonykipkemboi",
+        "name": "skill-foundry",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Gol-D-Al/skill-vision": {
+        "owner": "Gol-D-Al",
+        "name": "skill-vision",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fmaaakcode/devlog": {
+        "owner": "fmaaakcode",
+        "name": "devlog",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "usetheokit/theokit-skill": {
+        "owner": "usetheokit",
+        "name": "theokit-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "purp1e-bk/resume-builder": {
+        "owner": "purp1e-bk",
+        "name": "resume-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hgambas/think-like-a-pm": {
+        "owner": "hgambas",
+        "name": "think-like-a-pm",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "theophile-wallez/boomer": {
+        "owner": "theophile-wallez",
+        "name": "boomer",
+        "branch": "main",
+        "enabled": true
+    },
+    "okazaky/copywriting-15-patterns-skill": {
+        "owner": "okazaky",
+        "name": "copywriting-15-patterns-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
