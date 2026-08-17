@@ -19432,5 +19432,14 @@
     "repoOwner": "umar-s",
     "repoName": "devpowers",
     "repoBranch": "main"
+  },
+  "human-beyond/mainbook-skill": {
+    "name": "mainbook-bank-statement-converter",
+    "description": "Convert PDF bank statements into Excel, CSV, or JSON and review the arithmetic checks and warning evidence before using the numbers. Bundles one agent skill and the MainBook MCP server.",
+    "enabled": true,
+    "type": "plugin",
+    "repoOwner": "human-beyond",
+    "repoName": "mainbook-skill",
+    "repoBranch": "main"
   }
 }
