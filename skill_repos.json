@@ -24115,5 +24115,65 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "skymanbp/cc-tree": {
+        "owner": "skymanbp",
+        "name": "cc-tree",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "strelov1/freehire-cli": {
+        "owner": "strelov1",
+        "name": "freehire-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "raghuramsirigiri/claude-chart-dashboard": {
+        "owner": "raghuramsirigiri",
+        "name": "claude-chart-dashboard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "abhaymettu/writing-from-dated-sources": {
+        "owner": "abhaymettu",
+        "name": "writing-from-dated-sources",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mishafyi/claudus-maximus": {
+        "owner": "mishafyi",
+        "name": "claudus-maximus",
+        "branch": "master",
+        "enabled": true
+    },
+    "Hannah96Z/claude-skills": {
+        "owner": "Hannah96Z",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "6Kmfi6HP/v4-flash-godmode-claude-code": {
+        "owner": "6Kmfi6HP",
+        "name": "v4-flash-godmode-claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "pete-builds/radar": {
+        "owner": "pete-builds",
+        "name": "radar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dillettante/k-realty-yield": {
+        "owner": "dillettante",
+        "name": "k-realty-yield",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -19378,5 +19378,59 @@
     "repoOwner": "uizze",
     "repoName": "uizze",
     "repoBranch": "main"
+  },
+  "skymanbp/cc-tree": {
+    "name": "skymanbp/cc-tree",
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / design / code-audit) for divergent ideation, adversarial critique, and design-space exploration....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skymanbp",
+    "repoName": "cc-tree",
+    "repoBranch": "main"
+  },
+  "strelov1/freehire-cli": {
+    "name": "strelov1/freehire-cli",
+    "description": "CLI over the freehire job API for agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "strelov1",
+    "repoName": "freehire-cli",
+    "repoBranch": "main"
+  },
+  "raghuramsirigiri/claude-chart-dashboard": {
+    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero dependencies, works offline. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raghuramsirigiri",
+    "repoName": "claude-chart-dashboard",
+    "repoBranch": "main"
+  },
+  "mishafyi/claudus-maximus": {
+    "name": "mishafyi/claudus-maximus",
+    "description": "Claude Code plugin marketplace \u2014 diagram generation, parallel strategy orchestration, and career companion for frontier tech",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mishafyi",
+    "repoName": "claudus-maximus",
+    "repoBranch": "master"
+  },
+  "6Kmfi6HP/v4-flash-godmode-claude-code": {
+    "name": "6Kmfi6HP/v4-flash-godmode-claude-code",
+    "description": "Claude Code \u63d2\u4ef6\uff1a\u4e3a Flash \u7ea7\u6a21\u578b\u6ce8\u5165\u4e94\u951a\u5f15\u5bfc\uff08\u795e\u6a21\u5f0f\uff09\u2014\u2014\u81ea\u52a8\u63a2\u6d4b\u6ce8\u5165\u3001compact \u91cd\u6ce8\u5165\u3001/reflash \u624b\u52a8\u91cd\u6ce8\u5165\u3002A Claude Code plugin that injects five-anchor god-mode guidance for Flash-tier models to escape ghost mode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "6Kmfi6HP",
+    "repoName": "v4-flash-godmode-claude-code",
+    "repoBranch": "main"
+  },
+  "umar-s/devpowers": {
+    "name": "umar-s/devpowers",
+    "description": "devpowers \u2014 product line of Claude Code plugins by umar-s. One marketplace, individual plugin repos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "umar-s",
+    "repoName": "devpowers",
+    "repoBranch": "main"
   }
 }
