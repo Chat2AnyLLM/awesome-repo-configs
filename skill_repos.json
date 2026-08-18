@@ -24816,5 +24816,83 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "HIDORAKAI002/ai-workspace-archive": {
+        "owner": "HIDORAKAI002",
+        "name": "ai-workspace-archive",
+        "branch": "main",
+        "enabled": true
+    },
+    "aplaceforallmystuff/the-antislop": {
+        "owner": "aplaceforallmystuff",
+        "name": "the-antislop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Maksim-Burtsev/simple-man": {
+        "owner": "Maksim-Burtsev",
+        "name": "simple-man",
+        "branch": "master",
+        "enabled": true
+    },
+    "jposluns/cleanlanguage": {
+        "owner": "jposluns",
+        "name": "cleanlanguage",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zintellix/Claude-Skills": {
+        "owner": "Zintellix",
+        "name": "Claude-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dylanfaks/scrap-skill": {
+        "owner": "Dylanfaks",
+        "name": "scrap-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AlpayC/mcp-migration-check": {
+        "owner": "AlpayC",
+        "name": "mcp-migration-check",
+        "branch": "main",
+        "enabled": true
+    },
+    "dezeat/claude-usage-meter": {
+        "owner": "dezeat",
+        "name": "claude-usage-meter",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ortimusirig/c-cube-loop": {
+        "owner": "ortimusirig",
+        "name": "c-cube-loop",
+        "branch": "main",
+        "enabled": true
+    },
+    "mmyslin/sideboard": {
+        "owner": "mmyslin",
+        "name": "sideboard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adammatthewsteinberger/vibey-skills": {
+        "owner": "adammatthewsteinberger",
+        "name": "vibey-skills",
+        "branch": "develop",
+        "enabled": true
+    },
+    "TianhaoWu66/trip-planner": {
+        "owner": "TianhaoWu66",
+        "name": "trip-planner",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -19837,5 +19837,59 @@
     "repoOwner": "Tangoal",
     "repoName": "site-audit-skill",
     "repoBranch": "main"
+  },
+  "Zintellix/Claude-Skills": {
+    "name": "Zintellix/Claude-Skills",
+    "description": "Claude Skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zintellix",
+    "repoName": "Claude-Skills",
+    "repoBranch": "main"
+  },
+  "aplaceforallmystuff/marketplace": {
+    "name": "aplaceforallmystuff/marketplace",
+    "description": "Claude Code plugins by Jim Christian \u2014 writing, decision-making, and system hygiene skills, agents, and commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aplaceforallmystuff",
+    "repoName": "marketplace",
+    "repoBranch": "master"
+  },
+  "dezeat/claude-usage-meter": {
+    "name": "dezeat/claude-usage-meter",
+    "description": "Live Claude Code usage meter: statusline limit pace bars, cost-forward spend, cross-session fleet, and after-task cost summary. No network, zero runtime deps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dezeat",
+    "repoName": "claude-usage-meter",
+    "repoBranch": "main"
+  },
+  "ortimusirig/c-cube-loop": {
+    "name": "ortimusirig/c-cube-loop",
+    "description": "A Claude Code plugin: Codex writes in a git-isolated copy, your own commands gate it by exit code, and Cursor reviews the diff read-only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ortimusirig",
+    "repoName": "c-cube-loop",
+    "repoBranch": "main"
+  },
+  "mmyslin/sideboard": {
+    "name": "mmyslin/sideboard",
+    "description": "Your GitHub Issues as a live roadmap board in Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mmyslin",
+    "repoName": "sideboard",
+    "repoBranch": "main"
+  },
+  "adammatthewsteinberger/vibey-skills": {
+    "name": "adammatthewsteinberger/vibey-skills",
+    "description": "vibey-skills \u2014 Claude Code plugin marketplace of 18 plugins / 71 evidence-grounded Agent Skills (security, cloud, DevSecOps, AI/ML, architecture, QA). MIT, on PyPI. Formerly vibe-engineering-skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adammatthewsteinberger",
+    "repoName": "vibey-skills",
+    "repoBranch": "develop"
   }
 }
