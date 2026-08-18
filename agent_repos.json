@@ -3649,5 +3649,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "epoko77-ai/im-not-ai": {
+    "owner": "epoko77-ai",
+    "name": "im-not-ai",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ethanon/developer.ai": {
+    "owner": "Ethanon",
+    "name": "developer.ai",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "thomascasali/claude-kb-workflow": {
+    "owner": "thomascasali",
+    "name": "claude-kb-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "wxxzy/Claude-Code-Software-Studios": {
+    "owner": "wxxzy",
+    "name": "Claude-Code-Software-Studios",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "thefilesareinthecomputer/dotagents": {
+    "owner": "thefilesareinthecomputer",
+    "name": "dotagents",
+    "branch": "develop",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

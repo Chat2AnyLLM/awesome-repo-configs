@@ -24586,5 +24586,102 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "epoko77-ai/im-not-ai": {
+        "owner": "epoko77-ai",
+        "name": "im-not-ai",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Viy1204/recruiting-copilot": {
+        "owner": "Viy1204",
+        "name": "recruiting-copilot",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ethanon/developer.ai": {
+        "owner": "Ethanon",
+        "name": "developer.ai",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Misaka16384/magi": {
+        "owner": "Misaka16384",
+        "name": "magi",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zenml-io/kitaru-skills": {
+        "owner": "zenml-io",
+        "name": "kitaru-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nicolasrosado/team-maturity-self-locator": {
+        "owner": "nicolasrosado",
+        "name": "team-maturity-self-locator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thomascasali/claude-kb-workflow": {
+        "owner": "thomascasali",
+        "name": "claude-kb-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wxxzy/Claude-Code-Software-Studios": {
+        "owner": "wxxzy",
+        "name": "Claude-Code-Software-Studios",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ZHAO0424/unity-cli-skill": {
+        "owner": "ZHAO0424",
+        "name": "unity-cli-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gorock007/make-product-viral": {
+        "owner": "gorock007",
+        "name": "make-product-viral",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rithwik-01/claude-code-plugin-kubernetes": {
+        "owner": "rithwik-01",
+        "name": "claude-code-plugin-kubernetes",
+        "branch": "main",
+        "enabled": true
+    },
+    "thefilesareinthecomputer/dotagents": {
+        "owner": "thefilesareinthecomputer",
+        "name": "dotagents",
+        "branch": "develop",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seanjr2847/seo-miner": {
+        "owner": "seanjr2847",
+        "name": "seo-miner",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KranzL/dive-slides": {
+        "owner": "KranzL",
+        "name": "dive-slides",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
