@@ -19756,5 +19756,86 @@
     "repoOwner": "seanjr2847",
     "repoName": "seo-miner",
     "repoBranch": "main"
+  },
+  "giuseppe-trisciuoglio/developer-kit": {
+    "name": "giuseppe-trisciuoglio/developer-kit",
+    "description": "Modular plugin marketplace for Claude Code and agentic CLIs, with validated, spec-driven skills, agents, commands, and workflows for Java, TypeScript, Python, PHP, AWS, and AI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "giuseppe-trisciuoglio",
+    "repoName": "developer-kit",
+    "repoBranch": "main"
+  },
+  "ddtcorex/agent-dev-skills": {
+    "name": "ddtcorex/agent-dev-skills",
+    "description": "An extensible, flat AI Skills Registry for Claude Code, OpenCode, Codex, and Copilot. Pre-configured for Magento 2 and Govard workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ddtcorex",
+    "repoName": "agent-dev-skills",
+    "repoBranch": "master"
+  },
+  "haiggoh/get-haiggoh": {
+    "name": "haiggoh/get-haiggoh",
+    "description": "Install and keep up to date every published haiggoh Claude Code plugin from one place. Also the canonical home of the haiggoh marketplace catalog",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "haiggoh",
+    "repoName": "get-haiggoh",
+    "repoBranch": "main"
+  },
+  "by-carlos/daikenja": {
+    "name": "by-carlos/daikenja",
+    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and where to go next.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "by-carlos",
+    "repoName": "daikenja",
+    "repoBranch": "main"
+  },
+  "ictseoyoungmin/immersive-web-simulation-forge": {
+    "name": "ictseoyoungmin/immersive-web-simulation-forge",
+    "description": "Web-based 3D & physical simulation development, rendering, and validation toolkit for AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ictseoyoungmin",
+    "repoName": "immersive-web-simulation-forge",
+    "repoBranch": "main"
+  },
+  "agentrel/skills": {
+    "name": "agentrel/skills",
+    "description": "Software adoption engineering tools for Claude Code. Audit whether your API, SDK, and docs are usable by developers and AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agentrel",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "zbc0315/user-portrait": {
+    "name": "zbc0315/user-portrait",
+    "description": "Claude Code plugin: learns a global user portrait from every message and adapts every reply to the user's language and knowledge level. \u5b66\u4e60\u7528\u6237\u753b\u50cf\uff0c\u8f93\u51fa\u7528\u6237\u80fd\u770b\u61c2\u7684\u8bed\u8a00\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zbc0315",
+    "repoName": "user-portrait",
+    "repoBranch": "main"
+  },
+  "a2v10/llm": {
+    "name": "a2v10/llm",
+    "description": "Claude Code plugin/skill for the A2v10 Platform",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "a2v10",
+    "repoName": "llm",
+    "repoBranch": "master"
+  },
+  "Tangoal/site-audit-skill": {
+    "name": "Tangoal/site-audit-skill",
+    "description": "Skill Claude Code : audite un site public (TLS, headers de s\u00e9curit\u00e9, performance) via testssl.sh, MDN HTTP Observatory et Lighthouse",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tangoal",
+    "repoName": "site-audit-skill",
+    "repoBranch": "main"
   }
 }

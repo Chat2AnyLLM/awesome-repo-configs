@@ -24683,5 +24683,138 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "giuseppe-trisciuoglio/developer-kit": {
+        "owner": "giuseppe-trisciuoglio",
+        "name": "developer-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "chiruu12/OSS-Skills": {
+        "owner": "chiruu12",
+        "name": "OSS-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LaGrowthMachine/gtm-system": {
+        "owner": "LaGrowthMachine",
+        "name": "gtm-system",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kaizakin/dotfiles": {
+        "owner": "kaizakin",
+        "name": "dotfiles",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Platanor/hardware-compliance-handbook": {
+        "owner": "Platanor",
+        "name": "hardware-compliance-handbook",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "partikularwaters/Banka": {
+        "owner": "partikularwaters",
+        "name": "Banka",
+        "branch": "main",
+        "enabled": true
+    },
+    "ddtcorex/agent-dev-skills": {
+        "owner": "ddtcorex",
+        "name": "agent-dev-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JesseRaber/manus-prompt-engineering-skill": {
+        "owner": "JesseRaber",
+        "name": "manus-prompt-engineering-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Pablo-aps/prove-it": {
+        "owner": "Pablo-aps",
+        "name": "prove-it",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "haiggoh/get-haiggoh": {
+        "owner": "haiggoh",
+        "name": "get-haiggoh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fisher0012/xiaocai-stock-ai": {
+        "owner": "Fisher0012",
+        "name": "xiaocai-stock-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "by-carlos/daikenja": {
+        "owner": "by-carlos",
+        "name": "daikenja",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ictseoyoungmin/immersive-web-simulation-forge": {
+        "owner": "ictseoyoungmin",
+        "name": "immersive-web-simulation-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "agentrel/skills": {
+        "owner": "agentrel",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "fengyan3141/skill-warehouse": {
+        "owner": "fengyan3141",
+        "name": "skill-warehouse",
+        "branch": "main",
+        "enabled": true
+    },
+    "sainteye/clawdline": {
+        "owner": "sainteye",
+        "name": "clawdline",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "zbc0315/user-portrait": {
+        "owner": "zbc0315",
+        "name": "user-portrait",
+        "branch": "main",
+        "enabled": true
+    },
+    "a2v10/llm": {
+        "owner": "a2v10",
+        "name": "llm",
+        "branch": "master",
+        "enabled": true
+    },
+    "Tangoal/site-audit-skill": {
+        "owner": "Tangoal",
+        "name": "site-audit-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Tgaurav1k/real-images": {
+        "owner": "Tgaurav1k",
+        "name": "real-images",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
