@@ -24473,5 +24473,118 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "taekchef/claude-code-zh-cn": {
+        "owner": "taekchef",
+        "name": "claude-code-zh-cn",
+        "branch": "main",
+        "enabled": true
+    },
+    "sgroy10/speclock": {
+        "owner": "sgroy10",
+        "name": "speclock",
+        "branch": "main",
+        "enabled": true
+    },
+    "JZKK720/cubecloud-skills-bundle-kit": {
+        "owner": "JZKK720",
+        "name": "cubecloud-skills-bundle-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "connerkward/macos-screen-recorder-system-audio": {
+        "owner": "connerkward",
+        "name": "macos-screen-recorder-system-audio",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "revenantworks/claude-skills": {
+        "owner": "revenantworks",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Fortune-Code-Digital-Sloutions/fortune-checklist": {
+        "owner": "Fortune-Code-Digital-Sloutions",
+        "name": "fortune-checklist",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "m3dcodie/eng-flow": {
+        "owner": "m3dcodie",
+        "name": "eng-flow",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "AlveeeRahman/skill-vision": {
+        "owner": "AlveeeRahman",
+        "name": "skill-vision",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AlveeeRahman/research-hound": {
+        "owner": "AlveeeRahman",
+        "name": "research-hound",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "goodbotbadbot/goodbotbadbot": {
+        "owner": "goodbotbadbot",
+        "name": "goodbotbadbot",
+        "branch": "main",
+        "enabled": true
+    },
+    "maccydee/claude-planning-skills": {
+        "owner": "maccydee",
+        "name": "claude-planning-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "maccydee/rate-cv": {
+        "owner": "maccydee",
+        "name": "rate-cv",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maccydee/natural-writing": {
+        "owner": "maccydee",
+        "name": "natural-writing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AshwinSathian/humanize-writing-skill": {
+        "owner": "AshwinSathian",
+        "name": "humanize-writing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jehyunlee/dooray-weekly": {
+        "owner": "jehyunlee",
+        "name": "dooray-weekly",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Bitcoindefi/agente-smith": {
+        "owner": "Bitcoindefi",
+        "name": "agente-smith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MendeMatthias/qid-connect-skill": {
+        "owner": "MendeMatthias",
+        "name": "qid-connect-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

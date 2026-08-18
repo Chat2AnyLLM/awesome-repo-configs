@@ -19621,5 +19621,86 @@
     "repoOwner": "theophile-wallez",
     "repoName": "boomer",
     "repoBranch": "main"
+  },
+  "taekchef/claude-code-zh-cn": {
+    "name": "taekchef/claude-code-zh-cn",
+    "description": "Claude Code CLI \u7b80\u4f53\u4e2d\u6587\u672c\u5730\u5316 / \u6c49\u5316\u63d2\u4ef6\uff1b\u652f\u6301 macOS\u3001Linux\u3001WSL\u3001Windows \u4e0e\u65b0\u7248 native\uff0c\u4e00\u884c\u5b89\u88c5\uff0c\u66f4\u65b0\u540e\u81ea\u52a8\u4fee\u590d\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "taekchef",
+    "repoName": "claude-code-zh-cn",
+    "repoBranch": "main"
+  },
+  "sgroy10/speclock": {
+    "name": "sgroy10/speclock",
+    "description": "Action guardrails for AI coding agents \u2014 native Claude Code enforcement, MCP integrations, and Git/CI checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sgroy10",
+    "repoName": "speclock",
+    "repoBranch": "main"
+  },
+  "young1lin/claude-token-monitor": {
+    "name": "young1lin/claude-token-monitor",
+    "description": "Claude Code Statusline plugin with support for Anthropic native quota display and Z.ai Coding Plan quota display. Claude Code Statuline \u63d2\u4ef6\uff0c\u652f\u6301 Anthropic \u539f\u751f\u989d\u5ea6\u663e\u793a\uff0cGLM Coding Plan \u989d\u5ea6\u663e\u793a",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "young1lin",
+    "repoName": "claude-token-monitor",
+    "repoBranch": "main"
+  },
+  "connerkward/macos-screen-recorder-system-audio": {
+    "name": "connerkward/macos-screen-recorder-system-audio",
+    "description": "macos-screen-recorder (sck-record) \u2014 a macOS screen recorder with system audio via ScreenCaptureKit: CLI, no driver, no sudo. Plus a Claude Code skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "connerkward",
+    "repoName": "macos-screen-recorder-system-audio",
+    "repoBranch": "main"
+  },
+  "revenantworks/claude-skills": {
+    "name": "revenantworks/claude-skills",
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "revenantworks",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Fortune-Code-Digital-Sloutions/fortune-checklist": {
+    "name": "Fortune-Code-Digital-Sloutions/fortune-checklist",
+    "description": "Autonomous 518-point pre-launch QA for web projects \u2014 a Claude Code skill by FortuneCode. Type /fortune-checklist and it audits your repo with evidence and returns GO/NO-GO.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fortune-Code-Digital-Sloutions",
+    "repoName": "fortune-checklist",
+    "repoBranch": "main"
+  },
+  "m3dcodie/eng-flow": {
+    "name": "m3dcodie/eng-flow",
+    "description": "Tool-agnostic engineering process for Claude Code: a lightweight MVP mode for fast builds, and a staged production track (spec \u2192 architecture \u2192 review \u2192 implement \u2192 QA \u2192 ship) for formal requirements-driven work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "m3dcodie",
+    "repoName": "eng-flow",
+    "repoBranch": "main"
+  },
+  "goodbotbadbot/goodbotbadbot": {
+    "name": "goodbotbadbot/goodbotbadbot",
+    "description": "The MCP server behind goodbotbad.bot, where the crowd rules AI transcripts good bot or bad bot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "goodbotbadbot",
+    "repoName": "goodbotbadbot",
+    "repoBranch": "main"
+  },
+  "pocke/wakeguard": {
+    "name": "pocke/wakeguard",
+    "description": "Keeps your machine awake only while Claude Code is working on a turn",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pocke",
+    "repoName": "wakeguard",
+    "repoBranch": "master"
   }
 }
