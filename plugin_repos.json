@@ -19999,5 +19999,59 @@
     "repoOwner": "poorvith-mp",
     "repoName": "skills-education",
     "repoBranch": "main"
+  },
+  "arifszn/slide-wright": {
+    "name": "arifszn/slide-wright",
+    "description": "AI agent skill to generate beautiful, unique slide decks with reveal.js - new design for every prompt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arifszn",
+    "repoName": "slide-wright",
+    "repoBranch": "main"
+  },
+  "MartinOlivero/saas-builder": {
+    "name": "MartinOlivero/saas-builder",
+    "description": "Build a complete, secure SaaS end to end in Claude Code: prevention-first security (not audit), real Stripe payments (not just a catalog), and 15 lifecycle skills. Pairs with Superpowers \u2014 needs nothing else.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MartinOlivero",
+    "repoName": "saas-builder",
+    "repoBranch": "main"
+  },
+  "gr8monk3ys/skills": {
+    "name": "gr8monk3ys/skills",
+    "description": "My general configuration for projects when using Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gr8monk3ys",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "NavistAu/claude-marketplace": {
+    "name": "NavistAu/claude-marketplace",
+    "description": "Claude Code plugins by Navist",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NavistAu",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "joshtune/mx-workflow": {
+    "name": "joshtune/mx-workflow",
+    "description": "The review-grade quality layer for AI-generated code \u2014 Claude Code agents that interrogate generated code for hallucinated APIs, silent failures, suppressed errors, and type rot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joshtune",
+    "repoName": "mx-workflow",
+    "repoBranch": "main"
+  },
+  "vicky-tiq/skill-interview": {
+    "name": "vicky-tiq/skill-interview",
+    "description": "A bilingual (EN/VI) Claude Code skill that interviews you about your problem \u2014 one question at a time, across 7 layers, until nothing is ambiguous \u2014 then synthesizes it into a single HTML file.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vicky-tiq",
+    "repoName": "skill-interview",
+    "repoBranch": "main"
   }
 }

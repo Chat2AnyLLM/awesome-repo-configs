@@ -25004,5 +25004,114 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "titanwings/colleague-skill": {
+        "owner": "titanwings",
+        "name": "colleague-skill",
+        "branch": "dot-skill",
+        "enabled": true
+    },
+    "Desko77/claude-code-skills-1c": {
+        "owner": "Desko77",
+        "name": "claude-code-skills-1c",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arifszn/slide-wright": {
+        "owner": "arifszn",
+        "name": "slide-wright",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "buluslan/seedance-video-script": {
+        "owner": "buluslan",
+        "name": "seedance-video-script",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "liustack/pptfast": {
+        "owner": "liustack",
+        "name": "pptfast",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kevintsengtw/stop-slop-zh-tw": {
+        "owner": "kevintsengtw",
+        "name": "stop-slop-zh-tw",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MartinOlivero/saas-builder": {
+        "owner": "MartinOlivero",
+        "name": "saas-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "makidav/cmo": {
+        "owner": "makidav",
+        "name": "cmo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bygama/skills": {
+        "owner": "bygama",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kbrovibes/bro-toolkit": {
+        "owner": "kbrovibes",
+        "name": "bro-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "kawase1295/wt": {
+        "owner": "kawase1295",
+        "name": "wt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joshtune/mx-workflow": {
+        "owner": "joshtune",
+        "name": "mx-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neckarshore-skills/ai-phrase-check": {
+        "owner": "neckarshore-skills",
+        "name": "ai-phrase-check",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zdrjson/xhs-growth-skill": {
+        "owner": "zdrjson",
+        "name": "xhs-growth-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "KKenny0/social-content-kit-skill": {
+        "owner": "KKenny0",
+        "name": "social-content-kit-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vicky-tiq/skill-interview": {
+        "owner": "vicky-tiq",
+        "name": "skill-interview",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
