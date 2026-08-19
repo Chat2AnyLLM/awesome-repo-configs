@@ -20053,5 +20053,86 @@
     "repoOwner": "vicky-tiq",
     "repoName": "skill-interview",
     "repoBranch": "main"
+  },
+  "GO-VIRTUAL-bv/tile38.go": {
+    "name": "GO-VIRTUAL-bv/tile38.go",
+    "description": "A dependency-free Go client for the Tile38 geospatial database \u2014 RESP over net.Conn, with searches, hooks, channels, and live geofence streaming.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GO-VIRTUAL-bv",
+    "repoName": "tile38.go",
+    "repoBranch": "main"
+  },
+  "varo6/reTerminal-sticky-skill": {
+    "name": "varo6/reTerminal-sticky-skill",
+    "description": "Claude Code skill for the Seeed Studio reTerminal Sticky (ESP32-S3 e-ink): pin map, ESP-IDF firmware patterns, ePaper refresh, and Playground publishing rules.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "varo6",
+    "repoName": "reTerminal-sticky-skill",
+    "repoBranch": "main"
+  },
+  "patforna/auto-task": {
+    "name": "patforna/auto-task",
+    "description": "An opinionated agentic workflow to turn well-defined units of work into shippable code with minimal human input.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "patforna",
+    "repoName": "auto-task",
+    "repoBranch": "main"
+  },
+  "jon-greeff-katsini/outside-dave": {
+    "name": "jon-greeff-katsini/outside-dave",
+    "description": "jon-greeff-katsini/outside-dave \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jon-greeff-katsini",
+    "repoName": "outside-dave",
+    "repoBranch": "main"
+  },
+  "shimo4228/rules-stocktake": {
+    "name": "shimo4228/rules-stocktake",
+    "description": "Audit always-loaded behavioral rules for quality \u2014 residency cost model, 7 verdicts incl. Demote-to-skill / Dissolve. AKC Curate-phase skill for the rules layer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "rules-stocktake",
+    "repoBranch": "main"
+  },
+  "shimo4228/repo-asset-stocktake": {
+    "name": "shimo4228/repo-asset-stocktake",
+    "description": "Audit a project repo's non-code assets (tool configs, CI workflows, runbooks) for diminished value \u2014 Keep/Update/Retire/Merge. A semantic value layer above structural linters.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "repo-asset-stocktake",
+    "repoBranch": "main"
+  },
+  "hypermemory-ai/hm-plugins-claude": {
+    "name": "hypermemory-ai/hm-plugins-claude",
+    "description": "Hypermemory marketplace and plugins for Claude desktop and Claude code adding long-term persistant memory across all AI tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hypermemory-ai",
+    "repoName": "hm-plugins-claude",
+    "repoBranch": "main"
+  },
+  "yuryalencar/ai-skills": {
+    "name": "yuryalencar/ai-skills",
+    "description": "A collection of Claude Code skills, built to be installed on any machine, mine or yours. Each skill packages a repeatable procedure or a body of expertise so Claude applies it consistently instead of being re-explaine...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yuryalencar",
+    "repoName": "ai-skills",
+    "repoBranch": "main"
+  },
+  "SteerSpec/.claude": {
+    "name": "SteerSpec/.claude",
+    "description": "Shared Claude Code agents, skills and settings for the SteerSpec org \u2014 installable as a plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SteerSpec",
+    "repoName": ".claude",
+    "repoBranch": "main"
   }
 }

@@ -25120,5 +25120,140 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "GO-VIRTUAL-bv/tile38.go": {
+        "owner": "GO-VIRTUAL-bv",
+        "name": "tile38.go",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "warstellar/agent-skills": {
+        "owner": "warstellar",
+        "name": "agent-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PolakiniO/AI-Engineering-Playbook": {
+        "owner": "PolakiniO",
+        "name": "AI-Engineering-Playbook",
+        "branch": "main",
+        "enabled": true
+    },
+    "ooooooooooooooooooop/agent-tools": {
+        "owner": "ooooooooooooooooooop",
+        "name": "agent-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "varo6/reTerminal-sticky-skill": {
+        "owner": "varo6",
+        "name": "reTerminal-sticky-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "patforna/auto-task": {
+        "owner": "patforna",
+        "name": "auto-task",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zeikar/dotfiles": {
+        "owner": "zeikar",
+        "name": "dotfiles",
+        "branch": "main",
+        "enabled": true
+    },
+    "jon-greeff-katsini/outside-dave": {
+        "owner": "jon-greeff-katsini",
+        "name": "outside-dave",
+        "branch": "main",
+        "enabled": true
+    },
+    "shimo4228/when-code-when-llm": {
+        "owner": "shimo4228",
+        "name": "when-code-when-llm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/skill-health": {
+        "owner": "shimo4228",
+        "name": "skill-health",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/signal-first-research": {
+        "owner": "shimo4228",
+        "name": "signal-first-research",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/rules-stocktake": {
+        "owner": "shimo4228",
+        "name": "rules-stocktake",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/rules-distill": {
+        "owner": "shimo4228",
+        "name": "rules-distill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/repo-asset-stocktake": {
+        "owner": "shimo4228",
+        "name": "repo-asset-stocktake",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/release-doi": {
+        "owner": "shimo4228",
+        "name": "release-doi",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LUC4N3X/antigravity-thalarch": {
+        "owner": "LUC4N3X",
+        "name": "antigravity-thalarch",
+        "branch": "main",
+        "enabled": true
+    },
+    "hypermemory-ai/hm-plugins-claude": {
+        "owner": "hypermemory-ai",
+        "name": "hm-plugins-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "daxueren666/zuzufang": {
+        "owner": "daxueren666",
+        "name": "zuzufang",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yuryalencar/ai-skills": {
+        "owner": "yuryalencar",
+        "name": "ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SteerSpec/.claude": {
+        "owner": "SteerSpec",
+        "name": ".claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

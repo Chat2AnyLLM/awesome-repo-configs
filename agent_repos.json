@@ -3712,5 +3712,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "GO-VIRTUAL-bv/tile38.go": {
+    "owner": "GO-VIRTUAL-bv",
+    "name": "tile38.go",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "SteerSpec/.claude": {
+    "owner": "SteerSpec",
+    "name": ".claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
