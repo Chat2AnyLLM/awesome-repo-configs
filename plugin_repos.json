@@ -20134,5 +20134,113 @@
     "repoOwner": "SteerSpec",
     "repoName": ".claude",
     "repoBranch": "main"
+  },
+  "th3vib3coder/vibe-science": {
+    "name": "th3vib3coder/vibe-science",
+    "description": "\ud83c\udfdb\ufe0f ACM EASE '26 / VibeX full paper \u00b7 DOI 10.1145/3816483.3816631 \u00b7 Adversarial agent loops for verifiable vibe researching. Falsification-first research runtime.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "th3vib3coder",
+    "repoName": "vibe-science",
+    "repoBranch": "main"
+  },
+  "YuAICode/ai-skills": {
+    "name": "YuAICode/ai-skills",
+    "description": "35 \u4e2a\u5373\u7528 Claude Code skill,\u6bcf\u4e2a\u90fd\u5e26\u79bb\u7ebf\u6d4b\u8bd5 + skill-doctor \u81ea\u6821\u9a8c \u00b7 35 tested, self-linted Claude Code skills (\u4e2d\u6587\u4f18\u5148)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YuAICode",
+    "repoName": "ai-skills",
+    "repoBranch": "main"
+  },
+  "ValentinNikolaev/agent-skills": {
+    "name": "ValentinNikolaev/agent-skills",
+    "description": "Cross-platform agent skills and plugin distributions for OpenAI Codex and Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ValentinNikolaev",
+    "repoName": "agent-skills",
+    "repoBranch": "master"
+  },
+  "rs2pydev/claude-skills": {
+    "name": "rs2pydev/claude-skills",
+    "description": "Build, publish, and manage custom Claude Code skills as slash-command plugins via a GitHub-hosted marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rs2pydev",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "aurelioochoa/patina": {
+    "name": "aurelioochoa/patina",
+    "description": "Background self-improvement loop for Claude Code: reviews finished sessions and turns what it learned into skills \u2014 into a queue you approve, or, if you let it, straight into your library.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aurelioochoa",
+    "repoName": "patina",
+    "repoBranch": "master"
+  },
+  "ou-sei/ai-dev-market": {
+    "name": "ou-sei/ai-dev-market",
+    "description": "A growing marketplace of AI-powered dev tools \u2014 Claude Code plugins that automate everyday engineering work, from implementing GitHub Issues to resolving PR reviews.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ou-sei",
+    "repoName": "ai-dev-market",
+    "repoBranch": "main"
+  },
+  "tanvoid0/claude-code-plugins": {
+    "name": "tanvoid0/claude-code-plugins",
+    "description": "A token budget for Claude Code that the agent can't turn off, and six subagents pinned to the cheapest model that holds. Zero dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tanvoid0",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "cotique/claude-discipline-pack": {
+    "name": "cotique/claude-discipline-pack",
+    "description": "Guardrails for agentic coding in Claude Code: gated workflow commands and enforcement hooks, config-driven and stack-agnostic.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cotique",
+    "repoName": "claude-discipline-pack",
+    "repoBranch": "main"
+  },
+  "cgettings/claude-skills": {
+    "name": "cgettings/claude-skills",
+    "description": "A few skills aimed at getting Claude Code to behave",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cgettings",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "claywaters13/keeping-up-with-agents": {
+    "name": "claywaters13/keeping-up-with-agents",
+    "description": "Claude Code plugin + verified wikis of major AI events' talks (currently: AI Engineer World's Fair 2026, 231 talks). Every quote deep-linked to the source video. Also home of the Keeping up with Agents podcast feed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claywaters13",
+    "repoName": "keeping-up-with-agents",
+    "repoBranch": "main"
+  },
+  "sjh9714/profile-cover": {
+    "name": "sjh9714/profile-cover",
+    "description": "Agent skill that designs your GitHub profile README as an editorial page. Kerned serif mastheads as path-outlined SVGs, light and dark pairs, zero external resources, deterministic checks. profile readme, github profi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjh9714",
+    "repoName": "profile-cover",
+    "repoBranch": "main"
+  },
+  "sjh9714/repo-cover": {
+    "name": "sjh9714/repo-cover",
+    "description": "Agent skill that designs your GitHub social preview (og:image) as one self-contained HTML file. Five moods, CJK-first, deterministic checks, PNG export. repo cover, opengraph, link card.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjh9714",
+    "repoName": "repo-cover",
+    "repoBranch": "main"
   }
 }

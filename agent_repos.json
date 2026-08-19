@@ -3726,5 +3726,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "th3vib3coder/vibe-science": {
+    "owner": "th3vib3coder",
+    "name": "vibe-science",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

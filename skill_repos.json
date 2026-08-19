@@ -25255,5 +25255,117 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "th3vib3coder/vibe-science": {
+        "owner": "th3vib3coder",
+        "name": "vibe-science",
+        "branch": "main",
+        "enabled": true
+    },
+    "Soushi888/holochain-agent-skill": {
+        "owner": "Soushi888",
+        "name": "holochain-agent-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "YuAICode/ai-skills": {
+        "owner": "YuAICode",
+        "name": "ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TimurUgulava/route-atlas": {
+        "owner": "TimurUgulava",
+        "name": "route-atlas",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ValentinNikolaev/agent-skills": {
+        "owner": "ValentinNikolaev",
+        "name": "agent-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "LilyCTM/claude-mentor-skills": {
+        "owner": "LilyCTM",
+        "name": "claude-mentor-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rs2pydev/claude-skills": {
+        "owner": "rs2pydev",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "aurelioochoa/patina": {
+        "owner": "aurelioochoa",
+        "name": "patina",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ou-sei/ai-dev-market": {
+        "owner": "ou-sei",
+        "name": "ai-dev-market",
+        "branch": "main",
+        "enabled": true
+    },
+    "tanvoid0/claude-code-plugins": {
+        "owner": "tanvoid0",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "cotique/claude-discipline-pack": {
+        "owner": "cotique",
+        "name": "claude-discipline-pack",
+        "branch": "main",
+        "enabled": true
+    },
+    "cgettings/claude-skills": {
+        "owner": "cgettings",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "claywaters13/keeping-up-with-agents": {
+        "owner": "claywaters13",
+        "name": "keeping-up-with-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "unisone/intel-skill": {
+        "owner": "unisone",
+        "name": "intel-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ejjcc/music-convert-skill": {
+        "owner": "ejjcc",
+        "name": "music-convert-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sjh9714/profile-cover": {
+        "owner": "sjh9714",
+        "name": "profile-cover",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sjh9714/repo-cover": {
+        "owner": "sjh9714",
+        "name": "repo-cover",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
