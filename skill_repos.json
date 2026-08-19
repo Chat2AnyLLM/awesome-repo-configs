@@ -25113,5 +25113,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ghorbanies/workflow-design": {
+        "owner": "ghorbanies",
+        "name": "workflow-design",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
