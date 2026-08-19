@@ -24894,5 +24894,115 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "WaveSpeedAI/wavespeed-cli": {
+        "owner": "WaveSpeedAI",
+        "name": "wavespeed-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arcobaleno64/gemini-plugin-cc": {
+        "owner": "arcobaleno64",
+        "name": "gemini-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "skymanbp/cc-memory": {
+        "owner": "skymanbp",
+        "name": "cc-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "poorvith-mp/skills-gamedev": {
+        "owner": "poorvith-mp",
+        "name": "skills-gamedev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "skymanbp/sci-paper": {
+        "owner": "skymanbp",
+        "name": "sci-paper",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hummer98/nanobanana-adc": {
+        "owner": "hummer98",
+        "name": "nanobanana-adc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "skymanbp/cc-enforcer": {
+        "owner": "skymanbp",
+        "name": "cc-enforcer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wayne930242/straw-boss": {
+        "owner": "wayne930242",
+        "name": "straw-boss",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "poorvith-mp/skills-business": {
+        "owner": "poorvith-mp",
+        "name": "skills-business",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "whoisraibolt/paper-skills": {
+        "owner": "whoisraibolt",
+        "name": "paper-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "poorvith-mp/skills-personal": {
+        "owner": "poorvith-mp",
+        "name": "skills-personal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tanchunzhuo/b2b-presales-workflow": {
+        "owner": "tanchunzhuo",
+        "name": "b2b-presales-workflow",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "poorvith-mp/skills-design": {
+        "owner": "poorvith-mp",
+        "name": "skills-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "poorvith-mp/skills-education": {
+        "owner": "poorvith-mp",
+        "name": "skills-education",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iceberggymnast/skills": {
+        "owner": "iceberggymnast",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "AlveeeRahman/agent-oracle": {
+        "owner": "AlveeeRahman",
+        "name": "agent-oracle",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

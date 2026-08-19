@@ -3684,5 +3684,19 @@
     "branch": "develop",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "skymanbp/cc-memory": {
+    "owner": "skymanbp",
+    "name": "cc-memory",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "skymanbp/cc-enforcer": {
+    "owner": "skymanbp",
+    "name": "cc-enforcer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

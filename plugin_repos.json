@@ -19891,5 +19891,113 @@
     "repoOwner": "adammatthewsteinberger",
     "repoName": "vibey-skills",
     "repoBranch": "develop"
+  },
+  "arcobaleno64/gemini-plugin-cc": {
+    "name": "arcobaleno64/gemini-plugin-cc",
+    "description": "Run Gemini CLI or Antigravity CLI (agy) from inside Claude Code: delegate a task, get a second-opinion or adversarial code review, run it in the background, cancel it honestly. Slash commands, MCP tools, and a credent...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arcobaleno64",
+    "repoName": "gemini-plugin-cc",
+    "repoBranch": "main"
+  },
+  "skymanbp/cc-memory": {
+    "name": "skymanbp/cc-memory",
+    "description": "Persistent memory for Claude Code. Survives compaction and session boundaries: anti-patch reconcile-on-write with LLM-judged de-duplication, a forced PROGRESS.md handoff, a live PLAN.md anchor with an enforced directi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skymanbp",
+    "repoName": "cc-memory",
+    "repoBranch": "main"
+  },
+  "poorvith-mp/skills-gamedev": {
+    "name": "poorvith-mp/skills-gamedev",
+    "description": "22 Claude skills for game developers. Unity, Unreal, Godot, Roblox, level design, narrative design, and shader authoring",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "poorvith-mp",
+    "repoName": "skills-gamedev",
+    "repoBranch": "main"
+  },
+  "skymanbp/sci-paper": {
+    "name": "skymanbp/sci-paper",
+    "description": "Claude Code plugin for scientific paper writing, source-traced review, and de-AI rewriting. 8 skills + 24 tools under one typed standard: non-waivable integrity blockers, zero-target L0 lexicon, ranked advisories, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skymanbp",
+    "repoName": "sci-paper",
+    "repoBranch": "main"
+  },
+  "hummer98/nanobanana-adc": {
+    "name": "hummer98/nanobanana-adc",
+    "description": "Gemini 3 Pro Image (Nano Banana Pro) CLI with Application Default Credentials (ADC) support for Vertex AI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hummer98",
+    "repoName": "nanobanana-adc",
+    "repoBranch": "main"
+  },
+  "skymanbp/cc-enforcer": {
+    "name": "skymanbp/cc-enforcer",
+    "description": "Rules your coding agent physically cannot ignore. Claude Code hooks that DENY the tool call and BLOCK the reply - stopping reactive patches, guessed citations, and premature 'done' claims. Also works as an LLM-agnosti...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skymanbp",
+    "repoName": "cc-enforcer",
+    "repoBranch": "main"
+  },
+  "poorvith-mp/skillary": {
+    "name": "poorvith-mp/skillary",
+    "description": "Hub index for 321 Claude skills across 11 category repos. Browse the full skill list and clone only the category you need",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "poorvith-mp",
+    "repoName": "skillary",
+    "repoBranch": "main"
+  },
+  "wayne930242/straw-boss": {
+    "name": "wayne930242/straw-boss",
+    "description": "Herdr-backed task dispatch for Claude Code: run implementation work in a session rooted in your app's own directory, single-app or across a monorepo",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wayne930242",
+    "repoName": "straw-boss",
+    "repoBranch": "main"
+  },
+  "poorvith-mp/skills-business": {
+    "name": "poorvith-mp/skills-business",
+    "description": "29 Claude skills for business workflows. Project management, OKRs, SOPs, meeting summaries, proposals, and negotiation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "poorvith-mp",
+    "repoName": "skills-business",
+    "repoBranch": "main"
+  },
+  "poorvith-mp/skills-personal": {
+    "name": "poorvith-mp/skills-personal",
+    "description": "11 Claude skills for personal productivity. Resume optimization, habit tracking, financial planning, travel planning, and career tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "poorvith-mp",
+    "repoName": "skills-personal",
+    "repoBranch": "main"
+  },
+  "poorvith-mp/skills-design": {
+    "name": "poorvith-mp/skills-design",
+    "description": "29 Claude skills for designers. UI/UX, brand identity, typography, frontend design, accessibility, and visual storytelling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "poorvith-mp",
+    "repoName": "skills-design",
+    "repoBranch": "main"
+  },
+  "poorvith-mp/skills-education": {
+    "name": "poorvith-mp/skills-education",
+    "description": "14 Claude skills for learning and teaching. Flashcard generation, concept explanation, study plans, exam prep, and research summaries.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "poorvith-mp",
+    "repoName": "skills-education",
+    "repoBranch": "main"
   }
 }
