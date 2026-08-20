@@ -20242,5 +20242,50 @@
     "repoOwner": "sjh9714",
     "repoName": "repo-cover",
     "repoBranch": "main"
+  },
+  "seokhoonj/data-go-kr": {
+    "name": "seokhoonj/data-go-kr",
+    "description": "Read Korean government open-data services from the data.go.kr portal",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokhoonj",
+    "repoName": "data-go-kr",
+    "repoBranch": "main"
+  },
+  "idealockin/plugins": {
+    "name": "idealockin/plugins",
+    "description": "Official ideaLOCKIN plugin marketplace for Claude Code - free skills, steal them",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "idealockin",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "Atiqul-Islam/genesis": {
+    "name": "Atiqul-Islam/genesis",
+    "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specialized agents with enforced expertise and per-agent memory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Atiqul-Islam",
+    "repoName": "genesis",
+    "repoBranch": "main"
+  },
+  "sushiHex/sushi-bar": {
+    "name": "sushiHex/sushi-bar",
+    "description": "Small, bite-sized Claude Code tools for native Windows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sushiHex",
+    "repoName": "sushi-bar",
+    "repoBranch": "main"
+  },
+  "F-DK/humanizer-de": {
+    "name": "F-DK/humanizer-de",
+    "description": "German AI Text Humanizer for Claude Code, Codex & Cowork. Audits 74 German AI-writing patterns using deterministic linters and evidence-safe rewrites, plus a Kontrollierte Sprache mode. No fact-bending, no bypassing t...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "F-DK",
+    "repoName": "humanizer-de",
+    "repoBranch": "main"
   }
 }

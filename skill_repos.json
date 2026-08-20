@@ -25367,5 +25367,126 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Djarvur/go-ultimate": {
+        "owner": "Djarvur",
+        "name": "go-ultimate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "surajshetty3416/demo-video-skill": {
+        "owner": "surajshetty3416",
+        "name": "demo-video-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "helloyxs/skill-subtraction": {
+        "owner": "helloyxs",
+        "name": "skill-subtraction",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dennydkt/xbskill": {
+        "owner": "dennydkt",
+        "name": "xbskill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Vo1ganin/solana-rpc-skill": {
+        "owner": "Vo1ganin",
+        "name": "solana-rpc-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "seokhoonj/data-go-kr": {
+        "owner": "seokhoonj",
+        "name": "data-go-kr",
+        "branch": "main",
+        "enabled": true
+    },
+    "idealockin/plugins": {
+        "owner": "idealockin",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Atiqul-Islam/genesis": {
+        "owner": "Atiqul-Islam",
+        "name": "genesis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saadsalmankhan/entity-seo-skill": {
+        "owner": "saadsalmankhan",
+        "name": "entity-seo-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Gucs29/name-the-dodge": {
+        "owner": "Gucs29",
+        "name": "name-the-dodge",
+        "branch": "main",
+        "enabled": true
+    },
+    "brittanyslay/web-qa": {
+        "owner": "brittanyslay",
+        "name": "web-qa",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "F-DK/humanizer-de": {
+        "owner": "F-DK",
+        "name": "humanizer-de",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "XINMurat/Kiyas": {
+        "owner": "XINMurat",
+        "name": "Kiyas",
+        "branch": "main",
+        "enabled": true
+    },
+    "colincalnan/sam-framework": {
+        "owner": "colincalnan",
+        "name": "sam-framework",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "colincalnan/sdd": {
+        "owner": "colincalnan",
+        "name": "sdd",
+        "branch": "main",
+        "enabled": true
+    },
+    "Vo1ganin/solscan-skill": {
+        "owner": "Vo1ganin",
+        "name": "solscan-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Vo1ganin/pumpfun-skill": {
+        "owner": "Vo1ganin",
+        "name": "pumpfun-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Vo1ganin/dexscreener-skill": {
+        "owner": "Vo1ganin",
+        "name": "dexscreener-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
