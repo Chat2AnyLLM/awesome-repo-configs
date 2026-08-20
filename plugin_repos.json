@@ -20359,5 +20359,104 @@
     "repoOwner": "quietmachineworks",
     "repoName": "qmw",
     "repoBranch": "main"
+  },
+  "getaxonflow/axonflow-claude-plugin": {
+    "name": "getaxonflow/axonflow-claude-plugin",
+    "description": "AxonFlow governance for Claude Code \u2014 block dangerous commands, govern MCP queries and command execution, and keep audit trails for production coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getaxonflow",
+    "repoName": "axonflow-claude-plugin",
+    "repoBranch": "main"
+  },
+  "potterwhite/DeckHand": {
+    "name": "potterwhite/DeckHand",
+    "description": "A Claude Code plugin marketplace \u2014 automating the repetitive, tedious, indispensable chores of a development workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "potterwhite",
+    "repoName": "DeckHand",
+    "repoBranch": "main"
+  },
+  "Smiley73/tagteam": {
+    "name": "Smiley73/tagteam",
+    "description": "Multi-agent AI workflow for Claude Code: Claude and Codex plan, implement, cross-review, and merge pull requests.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Smiley73",
+    "repoName": "tagteam",
+    "repoBranch": "main"
+  },
+  "sodam-ai/SoDam-Reverse-Eng": {
+    "name": "sodam-ai/SoDam-Reverse-Eng",
+    "description": "\ubc29\uc5b4\u00b7\uad50\uc721 \uc804\uc6a9 \ud55c\uad6d\uc5b4 \ub9ac\ubc84\uc2a4 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 Claude Code \ud50c\ub7ec\uadf8\uc778 \u2014 \ub0b4 \ucf54\ub4dc\u00b7AI \uc5d0\uc774\uc804\ud2b8\u00b7\uc548\ub4dc\ub85c\uc774\ub4dc \uc571 \ubd84\uc11d(\uc2e4\uc0ac\uc6a9 \uac80\uc99d\ub428) + \ubc14\uc774\ub108\ub9ac \uc815\uc801\ubd84\uc11d(\uc2e4\ud5d8\uc801), \uc548\uc804 3\uce35(AI\uac70\ubd80+deny-hook+SHA-256), \uc655\ucd08\ubcf4 \ud55c/\uc601 \uac00\uc774\ub4dc (Apache-2.0)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sodam-ai",
+    "repoName": "SoDam-Reverse-Eng",
+    "repoBranch": "main"
+  },
+  "berserkdb/berserk-skills": {
+    "name": "berserkdb/berserk-skills",
+    "description": "Berserk skills for AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "berserkdb",
+    "repoName": "berserk-skills",
+    "repoBranch": "master"
+  },
+  "Ahmad-Jaradat-Space/scientistos": {
+    "name": "Ahmad-Jaradat-Space/scientistos",
+    "description": "Evidence-first research skills for Claude Code and Codex. Keeps agent claims tied to a verifiable evidence graph instead of chat history.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ahmad-Jaradat-Space",
+    "repoName": "scientistos",
+    "repoBranch": "main"
+  },
+  "t-maniteja/codex-failsafe": {
+    "name": "t-maniteja/codex-failsafe",
+    "description": "A second model checks the work \u2014 and never gets the last word. Claude Code plugin: anchoring-free pre-derivation, unreached-consumer hunting, evidence-based adjudication.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "t-maniteja",
+    "repoName": "codex-failsafe",
+    "repoBranch": "main"
+  },
+  "DespotB/handelsregister-cli": {
+    "name": "DespotB/handelsregister-cli",
+    "description": "Search the German commercial register (Handelsregister) and download all registry documents: Gesellschafterliste, Gesellschaftsvertrag, AD/CD/HD printouts, structured XML (SI). Python library + CLI, no API key needed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DespotB",
+    "repoName": "handelsregister-cli",
+    "repoBranch": "main"
+  },
+  "davdittrich/gsd-beads": {
+    "name": "davdittrich/gsd-beads",
+    "description": "Beads (bd) issue-tracking plugin for gsd-core's plan\u2192execute\u2192verify\u2192ship lifecycle \u2014 makes bd the durable, git-native source of truth for Claude Code agent task state, dependencies, and multi-session handoff.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "davdittrich",
+    "repoName": "gsd-beads",
+    "repoBranch": "main"
+  },
+  "Bullseye-Francophone/bfr-claude-plugins": {
+    "name": "Bullseye-Francophone/bfr-claude-plugins",
+    "description": "Claude Code plugin marketplace by Bullseye Francophone (BFR) for DCS World mission makers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Bullseye-Francophone",
+    "repoName": "bfr-claude-plugins",
+    "repoBranch": "main"
+  },
+  "theophile-wallez/persona-ai": {
+    "name": "theophile-wallez/persona-ai",
+    "description": "Persona AI \ud83c\udfad \u2014 a persona library for your coding agent. Install every persona, one theme, or one persona.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theophile-wallez",
+    "repoName": "persona-ai",
+    "repoBranch": "main"
   }
 }

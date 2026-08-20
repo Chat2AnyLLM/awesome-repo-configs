@@ -3761,5 +3761,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Smiley73/tagteam": {
+    "owner": "Smiley73",
+    "name": "tagteam",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "berserkdb/berserk-skills": {
+    "owner": "berserkdb",
+    "name": "berserk-skills",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -25584,5 +25584,124 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "simota/agent-skills": {
+        "owner": "simota",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "arpitbbhayani/ape-skills": {
+        "owner": "arpitbbhayani",
+        "name": "ape-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "getaxonflow/axonflow-claude-plugin": {
+        "owner": "getaxonflow",
+        "name": "axonflow-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "viktor-milev/claude-skills": {
+        "owner": "viktor-milev",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "potterwhite/DeckHand": {
+        "owner": "potterwhite",
+        "name": "DeckHand",
+        "branch": "main",
+        "enabled": true
+    },
+    "Smiley73/tagteam": {
+        "owner": "Smiley73",
+        "name": "tagteam",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sodam-ai/SoDam-Reverse-Eng": {
+        "owner": "sodam-ai",
+        "name": "SoDam-Reverse-Eng",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "berserkdb/berserk-skills": {
+        "owner": "berserkdb",
+        "name": "berserk-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PlutoLei/multi-source-paper-search": {
+        "owner": "PlutoLei",
+        "name": "multi-source-paper-search",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "convergeai-labs/enter-skills": {
+        "owner": "convergeai-labs",
+        "name": "enter-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ahmad-Jaradat-Space/scientistos": {
+        "owner": "Ahmad-Jaradat-Space",
+        "name": "scientistos",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "t-maniteja/codex-failsafe": {
+        "owner": "t-maniteja",
+        "name": "codex-failsafe",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DespotB/handelsregister-cli": {
+        "owner": "DespotB",
+        "name": "handelsregister-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "davdittrich/gsd-beads": {
+        "owner": "davdittrich",
+        "name": "gsd-beads",
+        "branch": "main",
+        "enabled": true
+    },
+    "Bullseye-Francophone/bfr-claude-plugins": {
+        "owner": "Bullseye-Francophone",
+        "name": "bfr-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kelinop/noesis-tutorial": {
+        "owner": "Kelinop",
+        "name": "noesis-tutorial",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "WiselyWise/smartmaya-tidy": {
+        "owner": "WiselyWise",
+        "name": "smartmaya-tidy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "theophile-wallez/persona-ai": {
+        "owner": "theophile-wallez",
+        "name": "persona-ai",
+        "branch": "main",
+        "enabled": true
     }
 }
