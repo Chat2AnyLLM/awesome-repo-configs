@@ -25703,5 +25703,71 @@
         "name": "persona-ai",
         "branch": "main",
         "enabled": true
+    },
+    "umputun/cc-thingz": {
+        "owner": "umputun",
+        "name": "cc-thingz",
+        "branch": "master",
+        "enabled": true
+    },
+    "Metalnib/dotnet-episteme-skills": {
+        "owner": "Metalnib",
+        "name": "dotnet-episteme-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fly0pants/admapix": {
+        "owner": "fly0pants",
+        "name": "admapix",
+        "branch": "main",
+        "enabled": true
+    },
+    "n-shadloo/secure-code-auditor": {
+        "owner": "n-shadloo",
+        "name": "secure-code-auditor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "oegeyilmaz9/seo-aeo-geo-ultimate": {
+        "owner": "oegeyilmaz9",
+        "name": "seo-aeo-geo-ultimate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stevepolitodesign/skills": {
+        "owner": "stevepolitodesign",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "RuslanAMandell/UnslopMyCode": {
+        "owner": "RuslanAMandell",
+        "name": "UnslopMyCode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "terravic/meeting-transcript-summary-skill": {
+        "owner": "terravic",
+        "name": "meeting-transcript-summary-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Texarkanine/a16n": {
+        "owner": "Texarkanine",
+        "name": "a16n",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShahriyorDeveloper/angular-optimization": {
+        "owner": "ShahriyorDeveloper",
+        "name": "angular-optimization",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

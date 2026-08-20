@@ -20458,5 +20458,68 @@
     "repoOwner": "theophile-wallez",
     "repoName": "persona-ai",
     "repoBranch": "main"
+  },
+  "umputun/cc-thingz": {
+    "name": "umputun/cc-thingz",
+    "description": "various things for claude code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "umputun",
+    "repoName": "cc-thingz",
+    "repoBranch": "master"
+  },
+  "Metalnib/dotnet-episteme-skills": {
+    "name": "Metalnib/dotnet-episteme-skills",
+    "description": "DotNet Episteme Skills - a curated, manual-first .NET AI skills library rooted in systematic knowledge (episteme) and shaped by disciplined craft (techne), designed for engineers who prioritise precision over hype.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Metalnib",
+    "repoName": "dotnet-episteme-skills",
+    "repoBranch": "main"
+  },
+  "fly0pants/admapix": {
+    "name": "fly0pants/admapix",
+    "description": "AdMapix \u2014 AI-powered ad intelligence & mobile app analytics. Search ad creatives, analyze competitor strategies, track rankings across 200+ countries. SimilarWeb/Sensor Tower/AppGrowing alternative.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fly0pants",
+    "repoName": "admapix",
+    "repoBranch": "main"
+  },
+  "oegeyilmaz9/seo-aeo-geo-ultimate": {
+    "name": "oegeyilmaz9/seo-aeo-geo-ultimate",
+    "description": "Evidence-first SEO, AEO, GEO and AI-search workflows for Codex and Claude Code \u2014 one router, 27 focused skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oegeyilmaz9",
+    "repoName": "seo-aeo-geo-ultimate",
+    "repoBranch": "main"
+  },
+  "RuslanAMandell/UnslopMyCode": {
+    "name": "RuslanAMandell/UnslopMyCode",
+    "description": "Find the production failures your AI coding tool left behind, then fix the safe ones. 64 checks for secrets, RLS, IDOR, cost, hallucinated deps, and AI rot. A Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RuslanAMandell",
+    "repoName": "UnslopMyCode",
+    "repoBranch": "main"
+  },
+  "tavgear/claude-code-pacebar": {
+    "name": "tavgear/claude-code-pacebar",
+    "description": "A dependency-free bash status line for Claude Code: rate-limit gauges, a gauge for today's pace through the weekly window, and a narrow layout that fits a phone.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tavgear",
+    "repoName": "claude-code-pacebar",
+    "repoBranch": "main"
+  },
+  "ShahriyorDeveloper/angular-optimization": {
+    "name": "ShahriyorDeveloper/angular-optimization",
+    "description": "Audit-first Angular performance agent skill: version-aware detection, evidence-graded findings, approval-gated fixes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShahriyorDeveloper",
+    "repoName": "angular-optimization",
+    "repoBranch": "main"
   }
 }

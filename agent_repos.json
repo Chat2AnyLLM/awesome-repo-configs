@@ -3775,5 +3775,12 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Metalnib/dotnet-episteme-skills": {
+    "owner": "Metalnib",
+    "name": "dotnet-episteme-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
