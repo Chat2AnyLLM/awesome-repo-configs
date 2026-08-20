@@ -25488,5 +25488,101 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "theam/claude-dev-kit": {
+        "owner": "theam",
+        "name": "claude-dev-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "3A2DEV/ansible-designer": {
+        "owner": "3A2DEV",
+        "name": "ansible-designer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nikolaypaskov/claudeconf-plugin": {
+        "owner": "nikolaypaskov",
+        "name": "claudeconf-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "Attemainio/dotnet-toolkit": {
+        "owner": "Attemainio",
+        "name": "dotnet-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CardSorting/LUMI-JOY": {
+        "owner": "CardSorting",
+        "name": "LUMI-JOY",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "swaylq/danshari-skill": {
+        "owner": "swaylq",
+        "name": "danshari-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yanliudesign/mono-color-skill": {
+        "owner": "yanliudesign",
+        "name": "mono-color-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tsubaiso/tsubaiso-intelligence": {
+        "owner": "tsubaiso",
+        "name": "tsubaiso-intelligence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pinatropical/curb-skill": {
+        "owner": "pinatropical",
+        "name": "curb-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "quietmachineworks/qmw": {
+        "owner": "quietmachineworks",
+        "name": "qmw",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/schedule-reminder": {
+        "owner": "DaizeDong",
+        "name": "schedule-reminder",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/box-rclone-binder": {
+        "owner": "DaizeDong",
+        "name": "box-rclone-binder",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DaizeDong/auto-support": {
+        "owner": "DaizeDong",
+        "name": "auto-support",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Black-Line-Ops/dns-preflight": {
+        "owner": "Black-Line-Ops",
+        "name": "dns-preflight",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -20287,5 +20287,77 @@
     "repoOwner": "F-DK",
     "repoName": "humanizer-de",
     "repoBranch": "main"
+  },
+  "theam/claude-dev-kit": {
+    "name": "theam/claude-dev-kit",
+    "description": "Open-source, stack-agnostic issue-to-PR workflow plugin for Claude Code: quality gates, tracker & PR-host adapters, opt-in anonymous telemetry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theam",
+    "repoName": "claude-dev-kit",
+    "repoBranch": "main"
+  },
+  "3A2DEV/ansible-designer": {
+    "name": "3A2DEV/ansible-designer",
+    "description": "Claude code ansible skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "3A2DEV",
+    "repoName": "ansible-designer",
+    "repoBranch": "main"
+  },
+  "froggeric/claude-smart-approval": {
+    "name": "froggeric/claude-smart-approval",
+    "description": "Claude Code hook that auto-approves safe Bash commands. Splits compound commands (pipes, chains, subshells) and checks each against your allow/deny lists. Unknown commands get AI-powered security evaluation with injec...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "froggeric",
+    "repoName": "claude-smart-approval",
+    "repoBranch": "master"
+  },
+  "nikolaypaskov/claudeconf-plugin": {
+    "name": "nikolaypaskov/claudeconf-plugin",
+    "description": "Research-driven, technology-agnostic Claude Code skill that generates a pinned quality + security harness (hooks, CI, e2e, gates) for any project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nikolaypaskov",
+    "repoName": "claudeconf-plugin",
+    "repoBranch": "main"
+  },
+  "Attemainio/dotnet-toolkit": {
+    "name": "Attemainio/dotnet-toolkit",
+    "description": "AI-native .NET code intelligence for faster, more accurate codebase navigation with lower token usage.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Attemainio",
+    "repoName": "dotnet-toolkit",
+    "repoBranch": "main"
+  },
+  "tsubaiso/tsubaiso-intelligence": {
+    "name": "tsubaiso/tsubaiso-intelligence",
+    "description": "Tsubaiso Intelligence Skill \u2014 PSA/IMA\uff08Salesforce\uff09\u696d\u52d9\u306e\u53c2\u7167\u30fb\u30c7\u30fc\u30bf\u6295\u5165\u30fb\u30e1\u30bf\u30c7\u30fc\u30bf\u69cb\u6210\u30fb\u5e33\u7968\u30fb\u4ed5\u69d8\u53ef\u8996\u5316\u30fb\u66f4\u65b0\u652f\u63f4\u30fb\u30ed\u30fc\u30ab\u30eb API \u64cd\u4f5c\u3068\u3001\u5c0e\u5165\uff0f\u30ed\u30fc\u30eb\u30a2\u30a6\u30c8\uff0fPoC\uff0f\u958b\u767a\u904b\u7528\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u5224\u65ad\u3092\u62c5\u3046 Claude/Cowork \u30d7\u30e9\u30b0\u30a4\u30f3\uff08public \u30de\u30fc\u30b1\u30c3\u30c8\u30d7\u30ec\u30a4\u30b9\uff09",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tsubaiso",
+    "repoName": "tsubaiso-intelligence",
+    "repoBranch": "main"
+  },
+  "pinatropical/curb-skill": {
+    "name": "pinatropical/curb-skill",
+    "description": "curb.sale for agents \u2014 sell or find a physical thing nearby in one unauthenticated HTTP call. No account, no API key, no signup. Optional Claude Code plugin; the API itself needs no install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pinatropical",
+    "repoName": "curb-skill",
+    "repoBranch": "main"
+  },
+  "quietmachineworks/qmw": {
+    "name": "quietmachineworks/qmw",
+    "description": "Small, opinionated tools for solo developers shipping real projects: freeze the code rules a project never enforced, and play a real user through its UI before real users do.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "quietmachineworks",
+    "repoName": "qmw",
+    "repoBranch": "main"
   }
 }

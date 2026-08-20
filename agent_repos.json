@@ -3747,5 +3747,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "theam/claude-dev-kit": {
+    "owner": "theam",
+    "name": "claude-dev-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Attemainio/dotnet-toolkit": {
+    "owner": "Attemainio",
+    "name": "dotnet-toolkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
