@@ -20719,5 +20719,86 @@
     "repoOwner": "arcbaslow",
     "repoName": "google-analytics-agent",
     "repoBranch": "master"
+  },
+  "sixoverground/claude-phases": {
+    "name": "sixoverground/claude-phases",
+    "description": "Drive a phased implementation plan from a Claude Code session, including from your phone. Plan in markdown, one PR per phase, gated auto-merge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sixoverground",
+    "repoName": "claude-phases",
+    "repoBranch": "main"
+  },
+  "HoussemDjeghri/plugins": {
+    "name": "HoussemDjeghri/plugins",
+    "description": "Claude Code plugins by Houssem Djeghri.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HoussemDjeghri",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "pantheon-org/claude-code-personalities": {
+    "name": "pantheon-org/claude-code-personalities",
+    "description": "Give Claude Code some personalities",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pantheon-org",
+    "repoName": "claude-code-personalities",
+    "repoBranch": "main"
+  },
+  "spacegrowth/claude-relay": {
+    "name": "spacegrowth/claude-relay",
+    "description": "Claude Code plugin: a lead session delegates work packets to executor sessions in their own terminal tabs/panes \u2014 parallel builds, staged-only work, review gates, auto-wake, one-click diff review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spacegrowth",
+    "repoName": "claude-relay",
+    "repoBranch": "main"
+  },
+  "curb-sale/curb-skill": {
+    "name": "curb-sale/curb-skill",
+    "description": "curb.sale for agents \u2014 sell or find a physical thing nearby in one unauthenticated HTTP call. No account, no API key, no signup. Optional Claude Code plugin; the API itself needs no install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "curb-sale",
+    "repoName": "curb-skill",
+    "repoBranch": "main"
+  },
+  "hallboys/acumatica-claude-kit": {
+    "name": "hallboys/acumatica-claude-kit",
+    "description": "Claude Code plugin: portable Acumatica ERP integration gotchas for contract-REST + OData GIs (UNIVERSAL vs TENANT tagged)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hallboys",
+    "repoName": "acumatica-claude-kit",
+    "repoBranch": "main"
+  },
+  "dumplingsensei/codex-pr-reviewer": {
+    "name": "dumplingsensei/codex-pr-reviewer",
+    "description": "Claude Code plugin: review someone else's GitHub PR with Codex",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dumplingsensei",
+    "repoName": "codex-pr-reviewer",
+    "repoBranch": "main"
+  },
+  "edisonmbli/refactoring-ui-skill": {
+    "name": "edisonmbli/refactoring-ui-skill",
+    "description": "Unofficial Claude Skill derived from the book Refactoring UI \u2014 a design rulebook and diagnostic layer for web UI. 151 tracked rules, design token generation, and Tailwind mappings.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "edisonmbli",
+    "repoName": "refactoring-ui-skill",
+    "repoBranch": "main"
+  },
+  "kvdm-co-pilot/create-cmp": {
+    "name": "kvdm-co-pilot/create-cmp",
+    "description": "Create production mobile apps (Android + iOS, one Kotlin codebase) with AI \u2014 deterministic Compose Multiplatform scaffold, proven-green builds, machine-enforced verify lane, device-free preview loop for coding agents....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kvdm-co-pilot",
+    "repoName": "create-cmp",
+    "repoBranch": "main"
   }
 }

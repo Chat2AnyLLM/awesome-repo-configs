@@ -26044,5 +26044,101 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "sixoverground/claude-phases": {
+        "owner": "sixoverground",
+        "name": "claude-phases",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kevinshi3200/persona-auditor": {
+        "owner": "kevinshi3200",
+        "name": "persona-auditor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CassioRoos/godfly-skills": {
+        "owner": "CassioRoos",
+        "name": "godfly-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EmmanuelRTM/ScientistOne_claude_code_primitives": {
+        "owner": "EmmanuelRTM",
+        "name": "ScientistOne_claude_code_primitives",
+        "branch": "claude/claude-project-multiagent-c9913z",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "spacegrowth/claude-relay": {
+        "owner": "spacegrowth",
+        "name": "claude-relay",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Miseat/mbti-dialogue-test.skill": {
+        "owner": "Miseat",
+        "name": "mbti-dialogue-test.skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cskwork/grill-with-docs-html": {
+        "owner": "cskwork",
+        "name": "grill-with-docs-html",
+        "branch": "main",
+        "enabled": true
+    },
+    "Itachi3355/verify-ai-output": {
+        "owner": "Itachi3355",
+        "name": "verify-ai-output",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "curb-sale/curb-skill": {
+        "owner": "curb-sale",
+        "name": "curb-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hallboys/acumatica-claude-kit": {
+        "owner": "hallboys",
+        "name": "acumatica-claude-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "edisonmbli/refactoring-ui-skill": {
+        "owner": "edisonmbli",
+        "name": "refactoring-ui-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cskwork/supertutor-skill": {
+        "owner": "cskwork",
+        "name": "supertutor-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jacobye2017-afk/jacob-ye-seedance-prompt": {
+        "owner": "jacobye2017-afk",
+        "name": "jacob-ye-seedance-prompt",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kvdm-co-pilot/create-cmp": {
+        "owner": "kvdm-co-pilot",
+        "name": "create-cmp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
