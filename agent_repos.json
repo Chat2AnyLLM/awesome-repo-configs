@@ -3803,5 +3803,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "yannlugrin/cc-frisk": {
+    "owner": "yannlugrin",
+    "name": "cc-frisk",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "adamradek-ux/claude-code-personal-pack": {
+    "owner": "adamradek-ux",
+    "name": "claude-code-personal-pack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "arcbaslow/google-analytics-agent": {
+    "owner": "arcbaslow",
+    "name": "google-analytics-agent",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

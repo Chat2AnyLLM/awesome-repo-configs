@@ -20629,5 +20629,95 @@
     "repoOwner": "karanb192",
     "repoName": "pvr-inox-radar",
     "repoBranch": "main"
+  },
+  "sjh9714/cover-my-repo": {
+    "name": "sjh9714/cover-my-repo",
+    "description": "Agent skill that designs your GitHub social preview (og:image) as one self-contained HTML file. Five moods, CJK-first, deterministic checks, PNG export. repo cover, opengraph, link card.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjh9714",
+    "repoName": "cover-my-repo",
+    "repoBranch": "main"
+  },
+  "egorus1/ask-a-senior": {
+    "name": "egorus1/ask-a-senior",
+    "description": "The AI tool that refuses to help you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "egorus1",
+    "repoName": "ask-a-senior",
+    "repoBranch": "master"
+  },
+  "waazy-w/claude-phantom": {
+    "name": "waazy-w/claude-phantom",
+    "description": "Autonomous crash recovery for your terminal: wrap a command; on crash, headless Claude Code diagnoses, tests, patches on a branch, and writes a post-mortem.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "waazy-w",
+    "repoName": "claude-phantom",
+    "repoBranch": "main"
+  },
+  "marianif/ozempskills": {
+    "name": "marianif/ozempskills",
+    "description": "Trim the fat from your Claude Code context window. Automate SKILL.md token optimization and compression by 40%+ while preserving execution steps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marianif",
+    "repoName": "ozempskills",
+    "repoBranch": "main"
+  },
+  "ryanduguid/MaryAddisonHamilton": {
+    "name": "ryanduguid/MaryAddisonHamilton",
+    "description": "Claude Code agent skills for Australian public practice: BAS reconciliation, FBT, Division 7A benchmark compliance, STP Phase 2, and cash flow modelling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryanduguid",
+    "repoName": "MaryAddisonHamilton",
+    "repoBranch": "main"
+  },
+  "pestalytix/innovate-or-die": {
+    "name": "pestalytix/innovate-or-die",
+    "description": "Role-separated adversarial ideation skill for Claude Code, Codex, Copilot, ChatGPT, Gemini and Perplexity: generates 30 ideas, kills most, delivers one testable experiment. Published evals, including the failures.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pestalytix",
+    "repoName": "innovate-or-die",
+    "repoBranch": "main"
+  },
+  "youndie/docs-bootstrap": {
+    "name": "youndie/docs-bootstrap",
+    "description": "A documentation format for codebases whose primary reader is a coding agent: layers linked by ids, paths into the code, and the checks that keep it honest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "youndie",
+    "repoName": "docs-bootstrap",
+    "repoBranch": "main"
+  },
+  "adamradek-ux/claude-code-personal-pack": {
+    "name": "adamradek-ux/claude-code-personal-pack",
+    "description": "Personal assistant pack for Claude Code: lifestyle agents (Czech), self-check skills, guardrail hooks, methodology docs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adamradek-ux",
+    "repoName": "claude-code-personal-pack",
+    "repoBranch": "main"
+  },
+  "saharkit/windowsill": {
+    "name": "saharkit/windowsill",
+    "description": "Plugins and skills the saharkit agent school shares with everyone \u2014 a Claude Code plugin marketplace. Built for real work, then generalised until it is useful on someone else's machine. Meant to be read as well as run.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saharkit",
+    "repoName": "windowsill",
+    "repoBranch": "main"
+  },
+  "arcbaslow/google-analytics-agent": {
+    "name": "arcbaslow/google-analytics-agent",
+    "description": "Multi-agent toolkit for Google Analytics 4 (Claude Code / Codex / Gemini CLI). Data and Admin APIs, live-site profiling, vertical-aware benchmarks, markdown audits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arcbaslow",
+    "repoName": "google-analytics-agent",
+    "repoBranch": "master"
   }
 }
