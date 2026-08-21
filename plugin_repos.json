@@ -20521,5 +20521,41 @@
     "repoOwner": "ShahriyorDeveloper",
     "repoName": "angular-optimization",
     "repoBranch": "main"
+  },
+  "clayboicardi/clayworks-lite": {
+    "name": "clayboicardi/clayworks-lite",
+    "description": "The Claude Code operator scaffolding I built without writing the code. Open-sourced under MIT for anyone else doing the same.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clayboicardi",
+    "repoName": "clayworks-lite",
+    "repoBranch": "main"
+  },
+  "zhaojiannet/canon": {
+    "name": "zhaojiannet/canon",
+    "description": "\u8ba9 Claude Code \u5b88\u89c4\u8303\u7684\u63d2\u4ef6\u5e02\u573a\u3002lockstep-* \u7cfb\u5217\u8ba9\u6846\u67b6\u4ee3\u7801\u8ddf\u5b98\u65b9\u6700\u65b0\u5199\u6cd5\u8d70\uff08Astro / Vue 3.5 / Nuxt UI v4 / Tailwind v4 / TypeScript / Echo / sqlc / Fastify / PostgreSQL\uff09\uff0c\u7981\u5e9f\u5f03\u8bed\u6cd5\uff1bflow \u7ba1\u5de5\u4f5c\u6d41\u547d\u4ee4\uff1bplain-chinese \u5f3a\u5236\u5e73\u5b9e\u4e2d\u6587\u3001\u7981\u4e92\u8054\u7f51\u9ed1\u8bdd\u4e0e AI \u8154\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zhaojiannet",
+    "repoName": "canon",
+    "repoBranch": "main"
+  },
+  "seokhoonj/pydatagokr": {
+    "name": "seokhoonj/pydatagokr",
+    "description": "Read Korean government open-data services from the data.go.kr portal",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokhoonj",
+    "repoName": "pydatagokr",
+    "repoBranch": "main"
+  },
+  "CristianAjavi/ethical-hacker-squad": {
+    "name": "CristianAjavi/ethical-hacker-squad",
+    "description": "Adaptive squad of ethical offensive-security subagents for Claude Code. Audits, hardens and verifies authorized projects with a cited knowledge corpus: 122 procedures across 7 role packs, each with per-stack detection...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CristianAjavi",
+    "repoName": "ethical-hacker-squad",
+    "repoBranch": "main"
   }
 }

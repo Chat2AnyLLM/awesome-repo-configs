@@ -3782,5 +3782,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "CristianAjavi/ethical-hacker-squad": {
+    "owner": "CristianAjavi",
+    "name": "ethical-hacker-squad",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

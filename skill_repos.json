@@ -25769,5 +25769,57 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "thisisnsh/planx": {
+        "owner": "thisisnsh",
+        "name": "planx",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "clayboicardi/clayworks-lite": {
+        "owner": "clayboicardi",
+        "name": "clayworks-lite",
+        "branch": "main",
+        "enabled": true
+    },
+    "zhaojiannet/canon": {
+        "owner": "zhaojiannet",
+        "name": "canon",
+        "branch": "main",
+        "enabled": true
+    },
+    "seokhoonj/pydatagokr": {
+        "owner": "seokhoonj",
+        "name": "pydatagokr",
+        "branch": "main",
+        "enabled": true
+    },
+    "neblihq/drone-skills": {
+        "owner": "neblihq",
+        "name": "drone-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "fenegroni/calendar-planner-skill": {
+        "owner": "fenegroni",
+        "name": "calendar-planner-skill",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "CristianAjavi/ethical-hacker-squad": {
+        "owner": "CristianAjavi",
+        "name": "ethical-hacker-squad",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "uluhakant/marka-tescil": {
+        "owner": "uluhakant",
+        "name": "marka-tescil",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
