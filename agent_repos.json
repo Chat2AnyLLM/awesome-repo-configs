@@ -3789,5 +3789,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "MichaelYcJo/SpecSeal": {
+    "owner": "MichaelYcJo",
+    "name": "SpecSeal",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "marcus-at-localhost/market-context-kit": {
+    "owner": "marcus-at-localhost",
+    "name": "market-context-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -20557,5 +20557,77 @@
     "repoOwner": "CristianAjavi",
     "repoName": "ethical-hacker-squad",
     "repoBranch": "main"
+  },
+  "SeoNaRu/nulnul-harness": {
+    "name": "SeoNaRu/nulnul-harness",
+    "description": "A minimal, evidence-gated harness for Codex and Claude Code: reuse what works, add only what is missing, verify before evolving.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SeoNaRu",
+    "repoName": "nulnul-harness",
+    "repoBranch": "main"
+  },
+  "amondnet/yoonmoon": {
+    "name": "amondnet/yoonmoon",
+    "description": "\ud55c\uae00 AI \uae00 \uc724\ubb38\u00b7\ud0d0\uc9c0 Claude Code \ud50c\ub7ec\uadf8\uc778 \u2014 AI\uac00 \uc4f4 \ud55c\uad6d\uc5b4\ub97c \uc0ac\ub78c\ucc98\ub7fc \uc724\ubb38\ud558\uace0 AI \uc791\uc131 \uc5ec\ubd80\ub97c \uc9c4\ub2e8",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amondnet",
+    "repoName": "yoonmoon",
+    "repoBranch": "main"
+  },
+  "MichaelYcJo/SpecSeal": {
+    "name": "MichaelYcJo/SpecSeal",
+    "description": "Specs, sealed \u2014 a Claude Code plugin: implement/review agent chain, an evidence ledger with drift detection, and hook-enforced gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MichaelYcJo",
+    "repoName": "SpecSeal",
+    "repoBranch": "main"
+  },
+  "q1343135559/ClaudeMeter": {
+    "name": "q1343135559/ClaudeMeter",
+    "description": "Claude Code statusline showing context, 5-hour, weekly, and per-model (Fable) usage \u2014 local files only, no network, no credentials",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "q1343135559",
+    "repoName": "ClaudeMeter",
+    "repoBranch": "main"
+  },
+  "marcus-at-localhost/market-context-kit": {
+    "name": "marcus-at-localhost/market-context-kit",
+    "description": "Context-aware marketing skills for Claude Code, with B2B, industrial, regulated, and consumer playbooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marcus-at-localhost",
+    "repoName": "market-context-kit",
+    "repoBranch": "main"
+  },
+  "rohitguta2432/agentic-os-skills": {
+    "name": "rohitguta2432/agentic-os-skills",
+    "description": "44 Claude Code agent skills as an installable plugin marketplace \u2014 engineering, content, SEO, productivity, planning, trading & growth. One repo, whole team, auto-updating. Works in Claude Code & Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rohitguta2432",
+    "repoName": "agentic-os-skills",
+    "repoBranch": "main"
+  },
+  "RandyNorthrup/high-quality-projects-skill": {
+    "name": "RandyNorthrup/high-quality-projects-skill",
+    "description": "Vendor-neutral workflows that grill new project ideas into confirmed, release-ready briefs and retrofit existing codebases with evidence-backed quality gates. Native PowerShell and Bash; optional Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RandyNorthrup",
+    "repoName": "high-quality-projects-skill",
+    "repoBranch": "main"
+  },
+  "karanb192/pvr-inox-radar": {
+    "name": "karanb192/pvr-inox-radar",
+    "description": "Movie show radar for the PVR INOX chain: ask in plain English, get one HTML map with showtimes, verified seats-together counts, and drive times. A Claude Code skill, read-only, stdlib-only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karanb192",
+    "repoName": "pvr-inox-radar",
+    "repoBranch": "main"
   }
 }

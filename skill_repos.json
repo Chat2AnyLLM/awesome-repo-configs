@@ -25821,5 +25821,107 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "SeoNaRu/nulnul-harness": {
+        "owner": "SeoNaRu",
+        "name": "nulnul-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "amondnet/yoonmoon": {
+        "owner": "amondnet",
+        "name": "yoonmoon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "runapi-ai/grok-imagine": {
+        "owner": "runapi-ai",
+        "name": "grok-imagine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MichaelYcJo/SpecSeal": {
+        "owner": "MichaelYcJo",
+        "name": "SpecSeal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eagerworks/skills": {
+        "owner": "eagerworks",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "runapi-ai/gemini": {
+        "owner": "runapi-ai",
+        "name": "gemini",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "runapi-ai/kling": {
+        "owner": "runapi-ai",
+        "name": "kling",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "marcus-at-localhost/market-context-kit": {
+        "owner": "marcus-at-localhost",
+        "name": "market-context-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sahil2004/skills": {
+        "owner": "Sahil2004",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rohitguta2432/agentic-os-skills": {
+        "owner": "rohitguta2432",
+        "name": "agentic-os-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "RandyNorthrup/high-quality-projects-skill": {
+        "owner": "RandyNorthrup",
+        "name": "high-quality-projects-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "karanb192/pvr-inox-radar": {
+        "owner": "karanb192",
+        "name": "pvr-inox-radar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PlutoLei/parallel-review": {
+        "owner": "PlutoLei",
+        "name": "parallel-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fyuma68/kaishoku-skill": {
+        "owner": "fyuma68",
+        "name": "kaishoku-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chaonannn-a11y/quantitative--crosstable-skill": {
+        "owner": "chaonannn-a11y",
+        "name": "quantitative--crosstable-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
