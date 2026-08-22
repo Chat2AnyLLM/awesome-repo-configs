@@ -21016,5 +21016,77 @@
     "repoOwner": "chyiiiiiiiiiiii",
     "repoName": "yiibu",
     "repoBranch": "main"
+  },
+  "serejaris/personal-corp-os": {
+    "name": "serejaris/personal-corp-os",
+    "description": "Personal Corp OS \u2014 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043b\u0438\u0447\u043d\u043e\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 \u0447\u0435\u0440\u0435\u0437 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u0437\u0430\u0434\u0430\u0447\u0438 \u0432\u043d\u0435 \u0433\u043e\u043b\u043e\u0432\u044b, \u043e\u0442\u0434\u0435\u043b\u044b \u0432\u043c\u0435\u0441\u0442\u043e \u043f\u0430\u043c\u044f\u0442\u0438, \u043d\u0435\u0434\u0435\u043b\u044c\u043d\u043e\u0435 \u0440\u0435\u0442\u0440\u043e. \u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0435 \u0441\u043a\u0438\u043b\u043b\u044b \u0434\u043b\u044f Claude Code \u0438 Codex",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serejaris",
+    "repoName": "personal-corp-os",
+    "repoBranch": "main"
+  },
+  "saurav-shakya/NeoynGPT-video-to-code": {
+    "name": "saurav-shakya/NeoynGPT-video-to-code",
+    "description": "world's  first Video to code harness skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saurav-shakya",
+    "repoName": "NeoynGPT-video-to-code",
+    "repoBranch": "main"
+  },
+  "docwilde/LORE": {
+    "name": "docwilde/LORE",
+    "description": "Trustworthy memory for Claude Code \u2014 everything that steers the agent is either human-approved or outcome-calibrated. Beliefs, calibration ledger, learned skills, act-time consult.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "docwilde",
+    "repoName": "LORE",
+    "repoBranch": "main"
+  },
+  "rajool/google-workspace-mcp": {
+    "name": "rajool/google-workspace-mcp",
+    "description": "Multi-account Gmail + Calendar + Drive + Tasks MCP server for Claude Code \u2014 act across many Google accounts in parallel, with per-project account scoping (plugin + marketplace).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rajool",
+    "repoName": "google-workspace-mcp",
+    "repoBranch": "main"
+  },
+  "tambo-labs/charming-mcp": {
+    "name": "tambo-labs/charming-mcp",
+    "description": "Charming MCP server \u2014 generate and host interactive web apps via MCP",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tambo-labs",
+    "repoName": "charming-mcp",
+    "repoBranch": "main"
+  },
+  "deuxksy/ai-agent-skill": {
+    "name": "deuxksy/ai-agent-skill",
+    "description": "zzizily \u2014 Personal automation AI Agent Skill marketplace. 28 skills across 10 domain plugins for Claude Code, Codex, and Antigravity runtimes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deuxksy",
+    "repoName": "ai-agent-skill",
+    "repoBranch": "main"
+  },
+  "PromptSign/promptsign-plugin": {
+    "name": "PromptSign/promptsign-plugin",
+    "description": "Claude Code plugin that verifies signatures on skills and instruction files before they reach model context",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PromptSign",
+    "repoName": "promptsign-plugin",
+    "repoBranch": "main"
+  },
+  "maxi3777/claritykit": {
+    "name": "maxi3777/claritykit",
+    "description": "AI skills\uff0cclarify the application creation process through Q&A and Mermaid.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maxi3777",
+    "repoName": "claritykit",
+    "repoBranch": "main"
   }
 }

@@ -3887,5 +3887,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "deuxksy/ai-agent-skill": {
+    "owner": "deuxksy",
+    "name": "ai-agent-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

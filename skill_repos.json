@@ -26437,5 +26437,66 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "serejaris/personal-corp-os": {
+        "owner": "serejaris",
+        "name": "personal-corp-os",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saurav-shakya/NeoynGPT-video-to-code": {
+        "owner": "saurav-shakya",
+        "name": "NeoynGPT-video-to-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "docwilde/LORE": {
+        "owner": "docwilde",
+        "name": "LORE",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tambo-labs/charming-mcp": {
+        "owner": "tambo-labs",
+        "name": "charming-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "IcyCreamDAS/shidi-skill": {
+        "owner": "IcyCreamDAS",
+        "name": "shidi-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "deuxksy/ai-agent-skill": {
+        "owner": "deuxksy",
+        "name": "ai-agent-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "PromptSign/promptsign-plugin": {
+        "owner": "PromptSign",
+        "name": "promptsign-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maxi3777/claritykit": {
+        "owner": "maxi3777",
+        "name": "claritykit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jendaperla/principlesyou-team-dashboard": {
+        "owner": "jendaperla",
+        "name": "principlesyou-team-dashboard",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
