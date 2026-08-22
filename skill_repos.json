@@ -26140,5 +26140,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Orkas-AI/Orkas-VideoStudio": {
+        "owner": "Orkas-AI",
+        "name": "Orkas-VideoStudio",
+        "branch": "main",
+        "skillsPath": "packages/skills",
+        "enabled": true
     }
 }
