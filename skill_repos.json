@@ -26280,5 +26280,81 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "murphytrueman/design-system-ops": {
+        "owner": "murphytrueman",
+        "name": "design-system-ops",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bushrabeg/turkce-humanizer": {
+        "owner": "bushrabeg",
+        "name": "turkce-humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Wenaixi/dsh-ponytail": {
+        "owner": "Wenaixi",
+        "name": "dsh-ponytail",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tms-tungnguyen3/daily_working": {
+        "owner": "tms-tungnguyen3",
+        "name": "daily_working",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "svedbg/trz": {
+        "owner": "svedbg",
+        "name": "trz",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ndisisnd/nxtup": {
+        "owner": "ndisisnd",
+        "name": "nxtup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lost-rob0t/skills": {
+        "owner": "lost-rob0t",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "inakaegg/pair-watch": {
+        "owner": "inakaegg",
+        "name": "pair-watch",
+        "branch": "main",
+        "enabled": true
+    },
+    "yiidtw/adef-skill": {
+        "owner": "yiidtw",
+        "name": "adef-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mizcausevic-dev/evidence-labeling-protocol": {
+        "owner": "mizcausevic-dev",
+        "name": "evidence-labeling-protocol",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mizcausevic-dev/deterministic-core-llm-surface-pattern": {
+        "owner": "mizcausevic-dev",
+        "name": "deterministic-core-llm-surface-pattern",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
