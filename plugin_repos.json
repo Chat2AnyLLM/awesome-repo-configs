@@ -20809,5 +20809,86 @@
     "repoOwner": "likemusic",
     "repoName": "climits",
     "repoBranch": "main"
+  },
+  "SpillwaveSolutions/automating-mac-apps-plugin": {
+    "name": "SpillwaveSolutions/automating-mac-apps-plugin",
+    "description": "Agents, Skills and Commands for automating Keynote, Notes, Reminders, Numbers and more using AppleScript and PyXA (JXA too).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SpillwaveSolutions",
+    "repoName": "automating-mac-apps-plugin",
+    "repoBranch": "main"
+  },
+  "MrMarudi/academy-coach": {
+    "name": "MrMarudi/academy-coach",
+    "description": "Free Claude Code plugin: learn Anthropic products hands-on from the official Claude Academy curriculum, and get your Claude Code setup and habits reviewed against Anthropic's best practices",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MrMarudi",
+    "repoName": "academy-coach",
+    "repoBranch": "main"
+  },
+  "msshives-gif/claude-plugins": {
+    "name": "msshives-gif/claude-plugins",
+    "description": "claude context tools \u2014 a Claude Code plugin marketplace: subagent context reporting, cross-session send guarding, and main-session compaction management incl. an opt-in tmux managed mode",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "msshives-gif",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "tanchunzhuo/ultimate-viral-writer": {
+    "name": "tanchunzhuo/ultimate-viral-writer",
+    "description": "\u7ec8\u6781\u7206\u6b3e\u5199\u4f5c\u4e13\u5bb6 Skill\uff0c\u878d\u5408\u5927V\u6218\u7565\u65b9\u6cd5\u8bba\u3001\u6d3b\u4eba\u611f\u8868\u8fbe\u3001\u5361\u5179\u514b\u5b9e\u6218\u6280\u5de7\u4e0e\u54aa\u8499\u6807\u9898\u5de5\u4e1a\u5316\u6d4b\u8bd5",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tanchunzhuo",
+    "repoName": "ultimate-viral-writer",
+    "repoBranch": "main"
+  },
+  "kcsujeet/kc-claude-kit": {
+    "name": "kcsujeet/kc-claude-kit",
+    "description": "Personal Claude Code toolkit: portable coding conventions, gate-based code review, CLAUDE.md audits, and verification skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kcsujeet",
+    "repoName": "kc-claude-kit",
+    "repoBranch": "main"
+  },
+  "open-coder-ai/chock-claude-plugins": {
+    "name": "open-coder-ai/chock-claude-plugins",
+    "description": "Chock policies as installable Claude-format plugins. Generated from chock-catalog; each plugin states whether it enforces in your client or is advisory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "open-coder-ai",
+    "repoName": "chock-claude-plugins",
+    "repoBranch": "main"
+  },
+  "pipeworx-io/claude-code-plugin": {
+    "name": "pipeworx-io/claude-code-plugin",
+    "description": "Pipeworx Claude Code plugin \u2014 connect Claude Code to 3,300+ live data tools across 750+ sources via the Pipeworx MCP gateway. Loads a few meta-tools into context; reaches the rest on-demand via ask_pipeworx and discov...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pipeworx-io",
+    "repoName": "claude-code-plugin",
+    "repoBranch": "main"
+  },
+  "branecom/lemmaflow": {
+    "name": "branecom/lemmaflow",
+    "description": "Trust engine for production software. Free local scans for PII, secrets, privacy, GDPR and data retention \u2014 plus an AI-native audit. npx -y lemmaflow scan",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "branecom",
+    "repoName": "lemmaflow",
+    "repoBranch": "main"
+  },
+  "shimo4228/generation-audit": {
+    "name": "shimo4228/generation-audit",
+    "description": "Agent Skill \u2014 model-generation-change audit for self-authored Claude Code assets: capture the live runtime layer, classify conflict / redundancy / drift, and hand evidence to the stocktake skills. Implements AKC Scaff...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "generation-audit",
+    "repoBranch": "main"
   }
 }

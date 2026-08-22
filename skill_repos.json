@@ -26147,5 +26147,138 @@
         "branch": "main",
         "skillsPath": "packages/skills",
         "enabled": true
+    },
+    "SpillwaveSolutions/automating-mac-apps-plugin": {
+        "owner": "SpillwaveSolutions",
+        "name": "automating-mac-apps-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "1102tools-dev/federal-contracting-skills": {
+        "owner": "1102tools-dev",
+        "name": "federal-contracting-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrMarudi/academy-coach": {
+        "owner": "MrMarudi",
+        "name": "academy-coach",
+        "branch": "main",
+        "enabled": true
+    },
+    "yingying-chu/class-action-finder": {
+        "owner": "yingying-chu",
+        "name": "class-action-finder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tanchunzhuo/ultimate-viral-writer": {
+        "owner": "tanchunzhuo",
+        "name": "ultimate-viral-writer",
+        "branch": "main",
+        "enabled": true
+    },
+    "shimo4228/learn-eval": {
+        "owner": "shimo4228",
+        "name": "learn-eval",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/claude-skill-writing-ecosystem": {
+        "owner": "shimo4228",
+        "name": "claude-skill-writing-ecosystem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/context-sync": {
+        "owner": "shimo4228",
+        "name": "context-sync",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/codex-review": {
+        "owner": "shimo4228",
+        "name": "codex-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Vossy/claude-video-editing-skill": {
+        "owner": "Vossy",
+        "name": "claude-video-editing-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "kcsujeet/kc-claude-kit": {
+        "owner": "kcsujeet",
+        "name": "kc-claude-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kelonwai/claude-skills": {
+        "owner": "Kelonwai",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shortprompt-blip/awesome-ai-tools-and-utilities": {
+        "owner": "shortprompt-blip",
+        "name": "awesome-ai-tools-and-utilities",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "open-coder-ai/chock-claude-plugins": {
+        "owner": "open-coder-ai",
+        "name": "chock-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "pipeworx-io/claude-code-plugin": {
+        "owner": "pipeworx-io",
+        "name": "claude-code-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Espiritu16/auditoria-as-is-to-be": {
+        "owner": "Espiritu16",
+        "name": "auditoria-as-is-to-be",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shimo4228/llm-as-judge": {
+        "owner": "shimo4228",
+        "name": "llm-as-judge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "manfredjr/legal-br": {
+        "owner": "manfredjr",
+        "name": "legal-br",
+        "branch": "main",
+        "enabled": true
+    },
+    "branecom/lemmaflow": {
+        "owner": "branecom",
+        "name": "lemmaflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/generation-audit": {
+        "owner": "shimo4228",
+        "name": "generation-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

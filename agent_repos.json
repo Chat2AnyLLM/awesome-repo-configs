@@ -3852,5 +3852,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "shimo4228/claude-skill-writing-ecosystem": {
+    "owner": "shimo4228",
+    "name": "claude-skill-writing-ecosystem",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "shaunjstokes/planloop-ship": {
+    "owner": "shaunjstokes",
+    "name": "planloop-ship",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
