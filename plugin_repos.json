@@ -20926,5 +20926,95 @@
     "repoOwner": "inakaegg",
     "repoName": "pair-watch",
     "repoBranch": "main"
+  },
+  "shinpr/claude-code-discover": {
+    "name": "shinpr/claude-code-discover",
+    "description": "Product discovery workflows for Claude Code: test decision-changing assumptions and turn the evidence into independently reviewed PRDs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shinpr",
+    "repoName": "claude-code-discover",
+    "repoBranch": "main"
+  },
+  "AraneaDev/claude-timestamp": {
+    "name": "AraneaDev/claude-timestamp",
+    "description": "Claude Code plugin that timestamps every message, shows how long each turn took, and tells Claude when your prompt was sent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AraneaDev",
+    "repoName": "claude-timestamp",
+    "repoBranch": "main"
+  },
+  "Jimmy7892/quant-research-skill": {
+    "name": "Jimmy7892/quant-research-skill",
+    "description": "A Claude skill for honest backtesting: map the parameter surface, bound the stable region, pool it. Do not pick an argmax.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jimmy7892",
+    "repoName": "quant-research-skill",
+    "repoBranch": "master"
+  },
+  "moveju112/skill_verify": {
+    "name": "moveju112/skill_verify",
+    "description": "Claude\u2194Codex cross-verification ping-pong for Claude Code \u2014 blind independent analysis, numbered findings, token-leak-safe Codex wrapper, plus approval-gated multi-angle unit tests",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moveju112",
+    "repoName": "skill_verify",
+    "repoBranch": "main"
+  },
+  "sjplayground/DevMusts": {
+    "name": "sjplayground/DevMusts",
+    "description": "Claude Code skill that runs a common application quality gate on every dev task \u2014 validation, CRUD completeness, grid sort/search/paging, states, feedback, a11y.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjplayground",
+    "repoName": "DevMusts",
+    "repoBranch": "main"
+  },
+  "bgutschke/skills": {
+    "name": "bgutschke/skills",
+    "description": "Personal agent skills for real engineering.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bgutschke",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "AnTIdoTe003/claude-seo-check": {
+    "name": "AnTIdoTe003/claude-seo-check",
+    "description": "SEO checker skill for Claude Code \u2014 pre-commit SEO audit: /seo-check reviews your git diff for regressions (noindex, robots.txt, canonicals, redirects, JSON-LD) and crawls the affected routes like Googlebot",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AnTIdoTe003",
+    "repoName": "claude-seo-check",
+    "repoBranch": "main"
+  },
+  "karlkfi/claude-bouncer": {
+    "name": "karlkfi/claude-bouncer",
+    "description": "Guard rails for Claude Code: workspace boundaries, protected branches, production targets, lost exit status, and foreground time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karlkfi",
+    "repoName": "claude-bouncer",
+    "repoBranch": "main"
+  },
+  "reatcat/l123-harness": {
+    "name": "reatcat/l123-harness",
+    "description": "L1-L2-L3 \u4e09\u7ea7\u8bb0\u5fc6 agent \u5e95\u5ea7\uff1a\u95e8\u7981\u3001\u4e8b\u4ef6\u65e5\u5fd7\u3001\u5468\u5ba1\u63d0\u70bc\u3001TDD \u6267\u884c\u6d41\u3002Claude Code \u63d2\u4ef6\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "reatcat",
+    "repoName": "l123-harness",
+    "repoBranch": "main"
+  },
+  "chyiiiiiiiiiiii/yiibu": {
+    "name": "chyiiiiiiiiiiii/yiibu",
+    "description": "Turn a folder of phone clips into a publish-ready 9:16 short \u2014 one step, with the quality bar enforced by gates rather than by remembering.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chyiiiiiiiiiiii",
+    "repoName": "yiibu",
+    "repoBranch": "main"
   }
 }

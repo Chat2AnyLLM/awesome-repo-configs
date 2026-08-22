@@ -3866,5 +3866,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "shinpr/claude-code-discover": {
+    "owner": "shinpr",
+    "name": "claude-code-discover",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "punt-labs/biff": {
+    "owner": "punt-labs",
+    "name": "biff",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "chyiiiiiiiiiiii/yiibu": {
+    "owner": "chyiiiiiiiiiiii",
+    "name": "yiibu",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

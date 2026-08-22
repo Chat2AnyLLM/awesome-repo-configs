@@ -26356,5 +26356,86 @@
         "branch": "master",
         "skillsPath": "./",
         "enabled": true
+    },
+    "shinpr/claude-code-discover": {
+        "owner": "shinpr",
+        "name": "claude-code-discover",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Aham-AIAPP/aham-ppt": {
+        "owner": "Aham-AIAPP",
+        "name": "aham-ppt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Jimmy7892/quant-research-skill": {
+        "owner": "Jimmy7892",
+        "name": "quant-research-skill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "moveju112/skill_verify": {
+        "owner": "moveju112",
+        "name": "skill_verify",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sjplayground/DevMusts": {
+        "owner": "sjplayground",
+        "name": "DevMusts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Curious-Keeper/sprint-harness": {
+        "owner": "Curious-Keeper",
+        "name": "sprint-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "AnTIdoTe003/claude-seo-check": {
+        "owner": "AnTIdoTe003",
+        "name": "claude-seo-check",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "karlkfi/claude-bouncer": {
+        "owner": "karlkfi",
+        "name": "claude-bouncer",
+        "branch": "main",
+        "enabled": true
+    },
+    "reatcat/l123-harness": {
+        "owner": "reatcat",
+        "name": "l123-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chyiiiiiiiiiiii/yiibu": {
+        "owner": "chyiiiiiiiiiiii",
+        "name": "yiibu",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "XINMurat/ux-mizan": {
+        "owner": "XINMurat",
+        "name": "ux-mizan",
+        "branch": "main",
+        "enabled": true
+    },
+    "salahuddinuqaili/bar-loop": {
+        "owner": "salahuddinuqaili",
+        "name": "bar-loop",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
