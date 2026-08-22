@@ -20800,5 +20800,14 @@
     "repoOwner": "kvdm-co-pilot",
     "repoName": "create-cmp",
     "repoBranch": "main"
+  },
+  "likemusic/climits": {
+    "name": "likemusic/climits",
+    "description": "A pace governor for Claude Code subscription limits. Turns the quota you have left into how much you were allowed to have spent by this minute, and acts on the gap from hooks: warns, pauses a call until the pace line catches up, asks once when the wait would be long, or in a headless run declines with a growing backoff and tells the agent to schedule a wake-up. It never ends the session, so an overnight run pauses and resumes instead of dying mid-task. Enforcement is off by default, no dependencies beyond the Python standard library, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "likemusic",
+    "repoName": "climits",
+    "repoBranch": "main"
   }
 }
