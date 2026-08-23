@@ -21169,5 +21169,59 @@
     "repoOwner": "blakebauman",
     "repoName": "marmalade",
     "repoBranch": "main"
+  },
+  "kelp/agent-plugins": {
+    "name": "kelp/agent-plugins",
+    "description": "Claude Code plugins: language-agnostic TDD pipeline and Zig 0.15.x corrective context",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kelp",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "nikhilvdev/job-search-pack": {
+    "name": "nikhilvdev/job-search-pack",
+    "description": "Five AI Agent Skills for the job search \u2014 resume tailoring, cover letters, LinkedIn optimization, salary negotiation, and job tracking. Works with Claude, Gemini CLI & Codex CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nikhilvdev",
+    "repoName": "job-search-pack",
+    "repoBranch": "main"
+  },
+  "rgglez/rgglez-dev-skills": {
+    "name": "rgglez/rgglez-dev-skills",
+    "description": "My skills marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rgglez",
+    "repoName": "rgglez-dev-skills",
+    "repoBranch": "main"
+  },
+  "prorochestvo/starterkit": {
+    "name": "prorochestvo/starterkit",
+    "description": "Claude Code plugin marketplace \u2014 a stack-agnostic plan\u2192implement\u2192review agent pipeline, per-stack conventions (Go, Flutter), and distilled book knowledge delivered as on-demand skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "prorochestvo",
+    "repoName": "starterkit",
+    "repoBranch": "main"
+  },
+  "ansh2807/creative-ui": {
+    "name": "ansh2807/creative-ui",
+    "description": "Turns a brief into an interface that looks designed rather than generated.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ansh2807",
+    "repoName": "creative-ui",
+    "repoBranch": "main"
+  },
+  "FutrixDev/magic-art-skill": {
+    "name": "FutrixDev/magic-art-skill",
+    "description": "Magic Art agent skill \u2014 create AI posters, social card decks, portraits and image series via the magic CLI. Mirrored from @magic-art/cli.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FutrixDev",
+    "repoName": "magic-art-skill",
+    "repoBranch": "main"
   }
 }

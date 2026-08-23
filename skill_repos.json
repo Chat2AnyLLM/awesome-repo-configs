@@ -26592,5 +26592,86 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "tristan-mcinnis/PPT-Translator-Formatting-Intact-with-LLMs": {
+        "owner": "tristan-mcinnis",
+        "name": "PPT-Translator-Formatting-Intact-with-LLMs",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "yzfly/skills": {
+        "owner": "yzfly",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kelp/agent-plugins": {
+        "owner": "kelp",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ArunskiOrg/BenArunskiUtils": {
+        "owner": "ArunskiOrg",
+        "name": "BenArunskiUtils",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PolarSnowflake/skills-from-expertise": {
+        "owner": "PolarSnowflake",
+        "name": "skills-from-expertise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nikhilvdev/job-search-pack": {
+        "owner": "nikhilvdev",
+        "name": "job-search-pack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rgglez/rgglez-dev-skills": {
+        "owner": "rgglez",
+        "name": "rgglez-dev-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zealotic-spec/frontend-design-skill": {
+        "owner": "Zealotic-spec",
+        "name": "frontend-design-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "prorochestvo/starterkit": {
+        "owner": "prorochestvo",
+        "name": "starterkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "ansh2807/creative-ui": {
+        "owner": "ansh2807",
+        "name": "creative-ui",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FutrixDev/magic-art-skill": {
+        "owner": "FutrixDev",
+        "name": "magic-art-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ChizkiyahuOhayon/CVPR-Figure": {
+        "owner": "ChizkiyahuOhayon",
+        "name": "CVPR-Figure",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
