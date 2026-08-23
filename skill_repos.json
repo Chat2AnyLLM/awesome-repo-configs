@@ -26754,5 +26754,11 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "livetennisapi/simmer-tennis-live-gate": {
+        "owner": "livetennisapi",
+        "name": "simmer-tennis-live-gate",
+        "branch": "main",
+        "enabled": true
     }
 }
