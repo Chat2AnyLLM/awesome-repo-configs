@@ -3901,5 +3901,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Njengah/claude-code-tracker": {
+    "owner": "Njengah",
+    "name": "claude-code-tracker",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

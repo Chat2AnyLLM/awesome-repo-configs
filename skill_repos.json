@@ -26673,5 +26673,86 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "LeeHueeng/store-screenshots": {
+        "owner": "LeeHueeng",
+        "name": "store-screenshots",
+        "branch": "main",
+        "enabled": true
+    },
+    "liustack/pptpress": {
+        "owner": "liustack",
+        "name": "pptpress",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Royalti-io/royalti-api-skill": {
+        "owner": "Royalti-io",
+        "name": "royalti-api-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BryanBenner/de-ai-gate": {
+        "owner": "BryanBenner",
+        "name": "de-ai-gate",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zydo/skills": {
+        "owner": "zydo",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BryanBenner/no-fabricate-gate": {
+        "owner": "BryanBenner",
+        "name": "no-fabricate-gate",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LarryStanley/pi-delegate": {
+        "owner": "LarryStanley",
+        "name": "pi-delegate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ai-edu-ch/ai-edu-plugins": {
+        "owner": "ai-edu-ch",
+        "name": "ai-edu-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "REMvisual/claude-wol-remote-access": {
+        "owner": "REMvisual",
+        "name": "claude-wol-remote-access",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "buminduyasith/la-peace": {
+        "owner": "buminduyasith",
+        "name": "la-peace",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "osAlhaddad1/crisis-negotiation": {
+        "owner": "osAlhaddad1",
+        "name": "crisis-negotiation",
+        "branch": "main",
+        "enabled": true
+    },
+    "rajtik76/pis-cesky": {
+        "owner": "rajtik76",
+        "name": "pis-cesky",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

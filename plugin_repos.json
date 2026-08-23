@@ -21223,5 +21223,23 @@
     "repoOwner": "FutrixDev",
     "repoName": "magic-art-skill",
     "repoBranch": "main"
+  },
+  "LarryStanley/pi-delegate": {
+    "name": "LarryStanley/pi-delegate",
+    "description": "Delegate coding work from Claude Code to a local pi agent \u2014 MCP tools with mid-run steer/abort, plus per-project discipline hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LarryStanley",
+    "repoName": "pi-delegate",
+    "repoBranch": "main"
+  },
+  "ai-edu-ch/ai-edu-plugins": {
+    "name": "ai-edu-ch/ai-edu-plugins",
+    "description": "Plugin-Marketplace von ai-edu.ch f\u00fcr Schweizer KMU, die Claude Code produktiv einsetzen wollen.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ai-edu-ch",
+    "repoName": "ai-edu-plugins",
+    "repoBranch": "main"
   }
 }
