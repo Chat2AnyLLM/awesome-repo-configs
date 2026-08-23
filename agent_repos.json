@@ -3894,5 +3894,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Langerrr/zforge": {
+    "owner": "Langerrr",
+    "name": "zforge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -26498,5 +26498,99 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Langerrr/zforge": {
+        "owner": "Langerrr",
+        "name": "zforge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chakki-the-potato/open-migrate": {
+        "owner": "chakki-the-potato",
+        "name": "open-migrate",
+        "branch": "main",
+        "enabled": true
+    },
+    "pale-knight/redteam-skill": {
+        "owner": "pale-knight",
+        "name": "redteam-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kelp/kelp-agent-plugins": {
+        "owner": "kelp",
+        "name": "kelp-agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "SI-IC/backlog-skill": {
+        "owner": "SI-IC",
+        "name": "backlog-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pricklywiggles/fractally-claude-marketplace": {
+        "owner": "pricklywiggles",
+        "name": "fractally-claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "bomsn/grokify": {
+        "owner": "bomsn",
+        "name": "grokify",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nt11111/product-tour": {
+        "owner": "nt11111",
+        "name": "product-tour",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nt11111/custom-domain": {
+        "owner": "nt11111",
+        "name": "custom-domain",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nt11111/final-app-push": {
+        "owner": "nt11111",
+        "name": "final-app-push",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tmoody1973/clean-code-claude-code": {
+        "owner": "tmoody1973",
+        "name": "clean-code-claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blakebauman/marmalade": {
+        "owner": "blakebauman",
+        "name": "marmalade",
+        "branch": "main",
+        "enabled": true
+    },
+    "sshin90/pptx-korean-formatting": {
+        "owner": "sshin90",
+        "name": "pptx-korean-formatting",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AgLyx3/interview-synthesis": {
+        "owner": "AgLyx3",
+        "name": "interview-synthesis",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

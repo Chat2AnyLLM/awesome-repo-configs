@@ -21088,5 +21088,86 @@
     "repoOwner": "maxi3777",
     "repoName": "claritykit",
     "repoBranch": "main"
+  },
+  "snflkd/fluent-korean": {
+    "name": "snflkd/fluent-korean",
+    "description": "Claude Code\uac00 \uba85\ud655\ud55c \ud55c\uad6d\uc5b4\ub97c \uad6c\uc0ac\ud558\uac8c \ub9cc\ub4dc\ub294 output-style \ud50c\ub7ec\uadf8\uc778 | Claude Code output-style for clear, fluent Korean",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "snflkd",
+    "repoName": "fluent-korean",
+    "repoBranch": "main"
+  },
+  "Langerrr/zforge": {
+    "name": "Langerrr/zforge",
+    "description": "Template-aware development workflow plugin for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Langerrr",
+    "repoName": "zforge",
+    "repoBranch": "main"
+  },
+  "chakki-the-potato/open-migrate": {
+    "name": "chakki-the-potato/open-migrate",
+    "description": "Move your settings when you switch AI coding tools \u2014 Claude Code, Codex CLI, Cursor, Grok Build. Rules, skills, subagents, hooks, permissions. Plan first, undo after.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chakki-the-potato",
+    "repoName": "open-migrate",
+    "repoBranch": "main"
+  },
+  "kelp/kelp-agent-plugins": {
+    "name": "kelp/kelp-agent-plugins",
+    "description": "Claude Code plugins: language-agnostic TDD pipeline and Zig 0.15.x corrective context",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kelp",
+    "repoName": "kelp-agent-plugins",
+    "repoBranch": "main"
+  },
+  "SI-IC/backlog-skill": {
+    "name": "SI-IC/backlog-skill",
+    "description": "Deferred tasks for Claude Code, stored as files in your repository \u2014 Claude never records them silently.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SI-IC",
+    "repoName": "backlog-skill",
+    "repoBranch": "main"
+  },
+  "pricklywiggles/fractally-claude-marketplace": {
+    "name": "pricklywiggles/fractally-claude-marketplace",
+    "description": "A Claude Code plugin marketplace: ship-it drives a batch of issues to merged PRs; stack-it takes a project from an empty folder to a verified, documented stack.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pricklywiggles",
+    "repoName": "fractally-claude-marketplace",
+    "repoBranch": "main"
+  },
+  "bomsn/grokify": {
+    "name": "bomsn/grokify",
+    "description": "Stop asking Claude to write like a human, use Grokify to instead.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bomsn",
+    "repoName": "grokify",
+    "repoBranch": "master"
+  },
+  "tmoody1973/clean-code-claude-code": {
+    "name": "tmoody1973/clean-code-claude-code",
+    "description": "Claude Code plugin for vibe coders: plain-English code review, a production-readiness audit with a fix brief, safe cleanup, and developer handoff.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tmoody1973",
+    "repoName": "clean-code-claude-code",
+    "repoBranch": "main"
+  },
+  "blakebauman/marmalade": {
+    "name": "blakebauman/marmalade",
+    "description": "Mermaid, without the slop. A Claude Code plugin that treats diagrams as engineering artifacts \u2014 a density-budgeted anti-slop rubric, 12 specialist reviewers, verified WCAG themes, and a reproducible export pipeline.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blakebauman",
+    "repoName": "marmalade",
+    "repoBranch": "main"
   }
 }
