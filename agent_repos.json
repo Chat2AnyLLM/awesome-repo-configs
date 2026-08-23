@@ -3908,5 +3908,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "HoussemDjeghri/self-review": {
+    "owner": "HoussemDjeghri",
+    "name": "self-review",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

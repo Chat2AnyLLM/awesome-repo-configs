@@ -26760,5 +26760,108 @@
         "name": "simmer-tennis-live-gate",
         "branch": "main",
         "enabled": true
+    },
+    "titanwings/distilly": {
+        "owner": "titanwings",
+        "name": "distilly",
+        "branch": "dot-skill",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vshulcz/deja-vu": {
+        "owner": "vshulcz",
+        "name": "deja-vu",
+        "branch": "main",
+        "enabled": true
+    },
+    "arimet/handoff": {
+        "owner": "arimet",
+        "name": "handoff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gregkozakiewicz/roast-my-design-system": {
+        "owner": "gregkozakiewicz",
+        "name": "roast-my-design-system",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aiopshwang/data-analysis-ml-agent-skills": {
+        "owner": "aiopshwang",
+        "name": "data-analysis-ml-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tydm2/workflow-builder-skill": {
+        "owner": "tydm2",
+        "name": "workflow-builder-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vivekkrishna/agentic-validation-skills": {
+        "owner": "vivekkrishna",
+        "name": "agentic-validation-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HoussemDjeghri/self-review": {
+        "owner": "HoussemDjeghri",
+        "name": "self-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lovstudio/dsh-plugin-publisher-skill": {
+        "owner": "lovstudio",
+        "name": "dsh-plugin-publisher-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lovstudio/dsh-plugin-creator-skill": {
+        "owner": "lovstudio",
+        "name": "dsh-plugin-creator-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bedardandy/AI-appraisal-assist": {
+        "owner": "bedardandy",
+        "name": "AI-appraisal-assist",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "aiopshwang/evidence-first-problem-solving": {
+        "owner": "aiopshwang",
+        "name": "evidence-first-problem-solving",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DanielKillenberger/employee-timesheet-skill": {
+        "owner": "DanielKillenberger",
+        "name": "employee-timesheet-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "leo19862046/thesis-topic-checkup": {
+        "owner": "leo19862046",
+        "name": "thesis-topic-checkup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kasoob/research-ideation": {
+        "owner": "kasoob",
+        "name": "research-ideation",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -21241,5 +21241,59 @@
     "repoOwner": "ai-edu-ch",
     "repoName": "ai-edu-plugins",
     "repoBranch": "main"
+  },
+  "vshulcz/deja-vu": {
+    "name": "vshulcz/deja-vu",
+    "description": "Memory for coding agents \u2014 Claude Code, Codex, Cursor and 17 others. Indexes the sessions they already wrote to disk, including months from before you installed it, and recalls them in any of them. No LLM, no embeddin...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vshulcz",
+    "repoName": "deja-vu",
+    "repoBranch": "main"
+  },
+  "gregkozakiewicz/roast-my-design-system": {
+    "name": "gregkozakiewicz/roast-my-design-system",
+    "description": "v5.2.4 \u00b7 Try it: npx roast-my-design-system@latest \u00b7 Your AI can write the UI. This makes sure it writes YOUR ui. A health score, receipts, fixes ranked by payoff, rules via --apply, a local MCP server via --mcp, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gregkozakiewicz",
+    "repoName": "roast-my-design-system",
+    "repoBranch": "main"
+  },
+  "vivekkrishna/agentic-validation-skills": {
+    "name": "vivekkrishna/agentic-validation-skills",
+    "description": "Agentic test automation skills for test case authoring, context, intent, self healing, failure classification, guardrails and progressive context disclosure",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vivekkrishna",
+    "repoName": "agentic-validation-skills",
+    "repoBranch": "main"
+  },
+  "notgabriels-sys/claude-code-50-dark-themes": {
+    "name": "notgabriels-sys/claude-code-50-dark-themes",
+    "description": "50 hand-tuned dark themes for Claude Code \u2014 native plugin install, visual gallery, free and MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "notgabriels-sys",
+    "repoName": "claude-code-50-dark-themes",
+    "repoBranch": "main"
+  },
+  "luminik-io/claude-plugins": {
+    "name": "luminik-io/claude-plugins",
+    "description": "Luminik Claude plugin marketplace for event outbound and GTM workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "luminik-io",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "aiopshwang/evidence-first-problem-solving": {
+    "name": "aiopshwang/evidence-first-problem-solving",
+    "description": "An open Agent Skill for evidence-first investigation, decisive execution, and proof-backed completion in Codex and Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aiopshwang",
+    "repoName": "evidence-first-problem-solving",
+    "repoBranch": "main"
   }
 }
