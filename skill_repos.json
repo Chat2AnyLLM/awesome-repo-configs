@@ -26985,5 +26985,90 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "plugin87/ux-ui-agent-skills": {
+        "owner": "plugin87",
+        "name": "ux-ui-agent-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "DSY-Xueai/image2editable": {
+        "owner": "DSY-Xueai",
+        "name": "image2editable",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rube-de/cc-skills": {
+        "owner": "rube-de",
+        "name": "cc-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sigistry/marketplace": {
+        "owner": "sigistry",
+        "name": "marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "ezra-y/academic-pdf-translation": {
+        "owner": "ezra-y",
+        "name": "academic-pdf-translation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "weshopai/weshop-skill-pakage": {
+        "owner": "weshopai",
+        "name": "weshop-skill-pakage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "levainlabs/skills": {
+        "owner": "levainlabs",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "TimeCraker/vibe-studio": {
+        "owner": "TimeCraker",
+        "name": "vibe-studio",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shreyT19/claude-skills": {
+        "owner": "shreyT19",
+        "name": "claude-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "pengqianhan/NZ-life-skills": {
+        "owner": "pengqianhan",
+        "name": "NZ-life-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "substrait-build/substrait-claudecode-plugin": {
+        "owner": "substrait-build",
+        "name": "substrait-claudecode-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "merryAI-dev/merry-slide": {
+        "owner": "merryAI-dev",
+        "name": "merry-slide",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "breakthrough-edu/breakthrough-whatsapp-triage": {
+        "owner": "breakthrough-edu",
+        "name": "breakthrough-whatsapp-triage",
+        "branch": "main",
+        "enabled": true
     }
 }

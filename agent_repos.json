@@ -3922,5 +3922,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "plugin87/ux-ui-agent-skills": {
+    "owner": "plugin87",
+    "name": "ux-ui-agent-skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ezra-y/academic-pdf-translation": {
+    "owner": "ezra-y",
+    "name": "academic-pdf-translation",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "m-esm/smart-subagents": {
+    "owner": "m-esm",
+    "name": "smart-subagents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -21385,5 +21385,59 @@
     "repoOwner": "eliazv",
     "repoName": "italian-investor",
     "repoBranch": "main"
+  },
+  "rube-de/cc-skills": {
+    "name": "rube-de/cc-skills",
+    "description": "A curated collection of Claude Code plugins: multi-agent dev team, AI council code reviews, and project management",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rube-de",
+    "repoName": "cc-skills",
+    "repoBranch": "main"
+  },
+  "sigistry/marketplace": {
+    "name": "sigistry/marketplace",
+    "description": "Plugin marketplace for Claude Code. Browse, discover, and install community tools for enhanced AI-powered development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sigistry",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "m-esm/smart-subagents": {
+    "name": "m-esm/smart-subagents",
+    "description": "Quota-aware subagent routing for Claude Code. Reads live rate limits across codex/grok/kimi, dispatches to the CLI with headroom, isolates in a git worktree, and verifies the diff before reporting.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "m-esm",
+    "repoName": "smart-subagents",
+    "repoBranch": "main"
+  },
+  "levainlabs/skills": {
+    "name": "levainlabs/skills",
+    "description": "Levain skills and plugins for coding agents \u2014 author Levain agents from Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "levainlabs",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "pengqianhan/NZ-life-skills": {
+    "name": "pengqianhan/NZ-life-skills",
+    "description": "Practical New Zealand life skills for international students, especially Chinese newcomers, with official-source-backed guides for Codex and Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pengqianhan",
+    "repoName": "NZ-life-skills",
+    "repoBranch": "main"
+  },
+  "substrait-build/substrait-claudecode-plugin": {
+    "name": "substrait-build/substrait-claudecode-plugin",
+    "description": "Build and deploy apps on the Substrait platform from Claude Code \u2014 the substrait-app skill plus /substrait:init, /substrait:login, /substrait:link, /substrait:deploy, /substrait:env and /substrait:library.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "substrait-build",
+    "repoName": "substrait-claudecode-plugin",
+    "repoBranch": "main"
   }
 }
