@@ -27070,5 +27070,66 @@
         "name": "breakthrough-whatsapp-triage",
         "branch": "main",
         "enabled": true
+    },
+    "evanca/flutter-ai-rules": {
+        "owner": "evanca",
+        "name": "flutter-ai-rules",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fishzjp/qa-skills": {
+        "owner": "fishzjp",
+        "name": "qa-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andreymudri/claude-teammates": {
+        "owner": "andreymudri",
+        "name": "claude-teammates",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MM-sheng/404-directory": {
+        "owner": "MM-sheng",
+        "name": "404-directory",
+        "branch": "main",
+        "enabled": true
+    },
+    "samulee003/agentic-ppt-skills": {
+        "owner": "samulee003",
+        "name": "agentic-ppt-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qduc/claude-skills": {
+        "owner": "qduc",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "silentbuilds/seedance-prompt-forge": {
+        "owner": "silentbuilds",
+        "name": "seedance-prompt-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AndrewDongminYoo/cc-agents-kit": {
+        "owner": "AndrewDongminYoo",
+        "name": "cc-agents-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "oopsla5xx/open-context": {
+        "owner": "oopsla5xx",
+        "name": "open-context",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

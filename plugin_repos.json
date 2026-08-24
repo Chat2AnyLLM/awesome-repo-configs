@@ -21439,5 +21439,59 @@
     "repoOwner": "substrait-build",
     "repoName": "substrait-claudecode-plugin",
     "repoBranch": "main"
+  },
+  "andreymudri/claude-teammates": {
+    "name": "andreymudri/claude-teammates",
+    "description": "Fleet orchestration for Claude Code: worktree-isolated parallel execution, automated phase gates, and supervision.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andreymudri",
+    "repoName": "claude-teammates",
+    "repoBranch": "master"
+  },
+  "MM-sheng/404-directory": {
+    "name": "MM-sheng/404-directory",
+    "description": "Public read-only MCP server for official AI/cloud docs search, deployment verification, and trust-aware tool discovery.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MM-sheng",
+    "repoName": "404-directory",
+    "repoBranch": "main"
+  },
+  "qduc/claude-skills": {
+    "name": "qduc/claude-skills",
+    "description": "My Claude Skills collection",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qduc",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "aztack/aztack-claude-code-plugins": {
+    "name": "aztack/aztack-claude-code-plugins",
+    "description": "My Claude Code Agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aztack",
+    "repoName": "aztack-claude-code-plugins",
+    "repoBranch": "master"
+  },
+  "AndrewDongminYoo/cc-agents-kit": {
+    "name": "AndrewDongminYoo/cc-agents-kit",
+    "description": "Claude Code plugin marketplace. guard-hooks: five defensive hooks that block dangerous shell commands and secrets access, catch the two zsh quoting mistakes that fail silently, and warn on lockfile drift and shellchec...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AndrewDongminYoo",
+    "repoName": "cc-agents-kit",
+    "repoBranch": "main"
+  },
+  "oopsla5xx/open-context": {
+    "name": "oopsla5xx/open-context",
+    "description": "Zero-LLM context routing for Claude Code \u2014 automatically injects the right domain, files, and architecture rules into every prompt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oopsla5xx",
+    "repoName": "open-context",
+    "repoBranch": "main"
   }
 }
