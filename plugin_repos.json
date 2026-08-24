@@ -21493,5 +21493,113 @@
     "repoOwner": "oopsla5xx",
     "repoName": "open-context",
     "repoBranch": "main"
+  },
+  "zenstory-ai/novel-to-game": {
+    "name": "zenstory-ai/novel-to-game",
+    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zenstory-ai",
+    "repoName": "novel-to-game",
+    "repoBranch": "main"
+  },
+  "Joncik91/ucai": {
+    "name": "Joncik91/ucai",
+    "description": "A Claude Code plugin that solves the same problems as community frameworks (GSD, BMAD, Ralph, Agent OS) \u2014 but using the tool's native architecture instead of fighting it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Joncik91",
+    "repoName": "ucai",
+    "repoBranch": "main"
+  },
+  "anyshift-io/sre-skills": {
+    "name": "anyshift-io/sre-skills",
+    "description": "Open-source library of methodology-shaped SRE skills for AI agents (Apache 2.0)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anyshift-io",
+    "repoName": "sre-skills",
+    "repoBranch": "main"
+  },
+  "TevvvB/parallel-harness-pets": {
+    "name": "TevvvB/parallel-harness-pets",
+    "description": "A creature for every git worktree, living in your coding agent's status line. Deterministic species, rarity bands, and one view across every live session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TevvvB",
+    "repoName": "parallel-harness-pets",
+    "repoBranch": "main"
+  },
+  "jainulabudeenm/nametag": {
+    "name": "jainulabudeenm/nametag",
+    "description": "Names things properly by killing your bad candidates instead of ranking them. A Claude Code skill applying Alexandra Watkins' SMILE and SCRATCH frameworks from Hello, My Name Is Awesome.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jainulabudeenm",
+    "repoName": "nametag",
+    "repoBranch": "main"
+  },
+  "AdityaUmale/google-dev-style": {
+    "name": "AdityaUmale/google-dev-style",
+    "description": "A skill that makes your coding agent write like the Google developer documentation style guide",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AdityaUmale",
+    "repoName": "google-dev-style",
+    "repoBranch": "main"
+  },
+  "zeybek/apex": {
+    "name": "zeybek/apex",
+    "description": "Portable, open-source Agent Skills that give coding agents senior-engineering judgment to design, implement, review, and investigate software changes. Language- and framework-agnostic, with ready-to-install plugins fo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zeybek",
+    "repoName": "apex",
+    "repoBranch": "main"
+  },
+  "mrveiss/Claude-Dev-Skills": {
+    "name": "mrveiss/Claude-Dev-Skills",
+    "description": "General-purpose Claude Code skills extracted while building AutoBot-AI \u2014 process discipline, code review, auditing, UI design, and memory hygiene. Installable as a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrveiss",
+    "repoName": "Claude-Dev-Skills",
+    "repoBranch": "release"
+  },
+  "AL-JANEF/janefskills": {
+    "name": "AL-JANEF/janefskills",
+    "description": "Security skills suite for Claude Code \u2014 auth hardening, vuln audit, threat modeling, secrets detection. 4-layer detection, proof-before-done, no overclaiming.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AL-JANEF",
+    "repoName": "janefskills",
+    "repoBranch": "main"
+  },
+  "Punpun1643/btw-wiki": {
+    "name": "Punpun1643/btw-wiki",
+    "description": "A coding agent plugin that turns useful answers and raw notes into a local, interlinked knowledge base",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Punpun1643",
+    "repoName": "btw-wiki",
+    "repoBranch": "main"
+  },
+  "RoyLarson/comment-review": {
+    "name": "RoyLarson/comment-review",
+    "description": "An editorial board for code comments. A comment says what code is FOR, so checking it against what the code DOES finds design drift, not just stale prose.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RoyLarson",
+    "repoName": "comment-review",
+    "repoBranch": "main"
+  },
+  "Sassy-Dog/sassydog-skills": {
+    "name": "Sassy-Dog/sassydog-skills",
+    "description": "Reusable AI agent skills and review agents for Claude Code, Gemini CLI, and other AI coding tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sassy-Dog",
+    "repoName": "sassydog-skills",
+    "repoBranch": "main"
   }
 }

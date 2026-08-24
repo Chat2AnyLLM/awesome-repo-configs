@@ -3964,5 +3964,19 @@
     "branch": "master",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "Joncik91/ucai": {
+    "owner": "Joncik91",
+    "name": "ucai",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Sassy-Dog/sassydog-skills": {
+    "owner": "Sassy-Dog",
+    "name": "sassydog-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

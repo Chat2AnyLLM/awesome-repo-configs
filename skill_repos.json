@@ -27131,5 +27131,112 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "zenstory-ai/novel-to-game": {
+        "owner": "zenstory-ai",
+        "name": "novel-to-game",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Joncik91/ucai": {
+        "owner": "Joncik91",
+        "name": "ucai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anyshift-io/sre-skills": {
+        "owner": "anyshift-io",
+        "name": "sre-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ipavelm/ultimate-product-discovery-skill": {
+        "owner": "ipavelm",
+        "name": "ultimate-product-discovery-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TevvvB/parallel-harness-pets": {
+        "owner": "TevvvB",
+        "name": "parallel-harness-pets",
+        "branch": "main",
+        "enabled": true
+    },
+    "kritikmodi/product-video-skill": {
+        "owner": "kritikmodi",
+        "name": "product-video-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aliasunder/vault-onboarding": {
+        "owner": "aliasunder",
+        "name": "vault-onboarding",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jainulabudeenm/nametag": {
+        "owner": "jainulabudeenm",
+        "name": "nametag",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AdityaUmale/google-dev-style": {
+        "owner": "AdityaUmale",
+        "name": "google-dev-style",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rosalynthompson32-a11y/github-api-upload": {
+        "owner": "rosalynthompson32-a11y",
+        "name": "github-api-upload",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zeybek/apex": {
+        "owner": "zeybek",
+        "name": "apex",
+        "branch": "main",
+        "enabled": true
+    },
+    "mrveiss/Claude-Dev-Skills": {
+        "owner": "mrveiss",
+        "name": "Claude-Dev-Skills",
+        "branch": "release",
+        "enabled": true
+    },
+    "AL-JANEF/janefskills": {
+        "owner": "AL-JANEF",
+        "name": "janefskills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Punpun1643/btw-wiki": {
+        "owner": "Punpun1643",
+        "name": "btw-wiki",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RoyLarson/comment-review": {
+        "owner": "RoyLarson",
+        "name": "comment-review",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sassy-Dog/sassydog-skills": {
+        "owner": "Sassy-Dog",
+        "name": "sassydog-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
