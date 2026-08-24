@@ -3915,5 +3915,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "backspace-shmackspace/claude-devkit": {
+    "owner": "backspace-shmackspace",
+    "name": "claude-devkit",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

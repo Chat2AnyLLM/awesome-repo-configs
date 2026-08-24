@@ -26863,5 +26863,127 @@
         "name": "research-ideation",
         "branch": "main",
         "enabled": true
+    },
+    "backspace-shmackspace/claude-devkit": {
+        "owner": "backspace-shmackspace",
+        "name": "claude-devkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JasminK11/claude-5-why-skill": {
+        "owner": "JasminK11",
+        "name": "claude-5-why-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jainulabudeenm/mobile-screen-eval": {
+        "owner": "jainulabudeenm",
+        "name": "mobile-screen-eval",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "moveju112/rule-architect": {
+        "owner": "moveju112",
+        "name": "rule-architect",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jainulabudeenm/job-recon": {
+        "owner": "jainulabudeenm",
+        "name": "job-recon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jainulabudeenm/cart-cop": {
+        "owner": "jainulabudeenm",
+        "name": "cart-cop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chorusse/decision-panels": {
+        "owner": "chorusse",
+        "name": "decision-panels",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hsuan1012/Dataviz-Coding-Agent": {
+        "owner": "hsuan1012",
+        "name": "Dataviz-Coding-Agent",
+        "branch": "main",
+        "enabled": true
+    },
+    "matonhp5108/Automatic-Humanizer": {
+        "owner": "matonhp5108",
+        "name": "Automatic-Humanizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "svy04/rutter": {
+        "owner": "svy04",
+        "name": "rutter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Felixx1502/sheet-show": {
+        "owner": "Felixx1502",
+        "name": "sheet-show",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "habib-alqalam/uae-arabic-documents": {
+        "owner": "habib-alqalam",
+        "name": "uae-arabic-documents",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rubin-trade/skills": {
+        "owner": "rubin-trade",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "VincentHHY/big-picture": {
+        "owner": "VincentHHY",
+        "name": "big-picture",
+        "branch": "main",
+        "enabled": true
+    },
+    "mingwen1022/alva-portfolio-watch": {
+        "owner": "mingwen1022",
+        "name": "alva-portfolio-watch",
+        "branch": "main",
+        "enabled": true
+    },
+    "eliazv/italian-investor": {
+        "owner": "eliazv",
+        "name": "italian-investor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yanchrisdifa/claude-skill-watch-video": {
+        "owner": "yanchrisdifa",
+        "name": "claude-skill-watch-video",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sifenfisaha/vps-deploy": {
+        "owner": "sifenfisaha",
+        "name": "vps-deploy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -21295,5 +21295,95 @@
     "repoOwner": "aiopshwang",
     "repoName": "evidence-first-problem-solving",
     "repoBranch": "main"
+  },
+  "JasminK11/claude-5-why-skill": {
+    "name": "JasminK11/claude-5-why-skill",
+    "description": "Root-cause analysis skill for Claude Code \u2014 the Toyota 5-Why method as an installable plugin. Turns recurring bugs, incidents and failures into root causes instead of symptom patches. Includes a what-for variant for g...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JasminK11",
+    "repoName": "claude-5-why-skill",
+    "repoBranch": "main"
+  },
+  "jainulabudeenm/mobile-screen-eval": {
+    "name": "jainulabudeenm/mobile-screen-eval",
+    "description": "A rigorous three-layer UX evaluation skill. Audit any mobile screen against Nielsen's 10 usability heuristics, WCAG 2.1 AA accessibility, and mobile platform guidelines (iOS HIG + Material Design).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jainulabudeenm",
+    "repoName": "mobile-screen-eval",
+    "repoBranch": "main"
+  },
+  "moveju112/rule-architect": {
+    "name": "moveju112/rule-architect",
+    "description": "Claude Code skill that builds a project's AI rule set \u2014 slim CLAUDE.md index + AGENTS.md pointer + on-demand docs/*.md rules, with link/budget verification and a quiz test",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moveju112",
+    "repoName": "rule-architect",
+    "repoBranch": "main"
+  },
+  "jainulabudeenm/job-recon": {
+    "name": "jainulabudeenm/job-recon",
+    "description": "Investigates a company before you interview, using what employees say rather than what the careers page says.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jainulabudeenm",
+    "repoName": "job-recon",
+    "repoBranch": "main"
+  },
+  "jainulabudeenm/cart-cop": {
+    "name": "jainulabudeenm/cart-cop",
+    "description": "Makes you defend a purchase before it approves one. A Claude Code skill grounded in Psychology of Money.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jainulabudeenm",
+    "repoName": "cart-cop",
+    "repoBranch": "main"
+  },
+  "matonhp5108/Automatic-Humanizer": {
+    "name": "matonhp5108/Automatic-Humanizer",
+    "description": "A Claude/Codex plugin to make its writing more human",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matonhp5108",
+    "repoName": "Automatic-Humanizer",
+    "repoBranch": "main"
+  },
+  "svy04/rutter": {
+    "name": "svy04/rutter",
+    "description": "\ud55c\uad6d \uc2dc\uc7a5 \uae30\uc900\uc73c\ub85c \ub2e4\uc2dc \uc4f4 \ub9c8\ucf00\ud305 \uc2a4\ud0ac \ubb36\uc74c\uc785\ub2c8\ub2e4. \ub124\uc774\ubc84\u00b7\uce74\uce74\uc624 \uad11\uace0, \uac80\uc0c9 \ub178\ucd9c, \uc54c\ub9bc\ud1a1, \ud45c\uc2dc\uad11\uace0\ubc95\uacfc \uac1c\uc778\uc815\ubcf4 \uc694\uac74\uae4c\uc9c0 \ub2e4\ub8f9\ub2c8\ub2e4.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "svy04",
+    "repoName": "rutter",
+    "repoBranch": "main"
+  },
+  "rubin-trade/skills": {
+    "name": "rubin-trade/skills",
+    "description": "Official agent skills for Rubin (rubin.trade) \u2014 perps DEX on the Rubin Chain. Install: npx skills add rubin-trade/skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rubin-trade",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "VincentHHY/big-picture": {
+    "name": "VincentHHY/big-picture",
+    "description": "Answers you can judge and act on without reading code \u2014 Claude Code plugins that keep implementation detail below a marked line. Off by default, armed one session at a time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VincentHHY",
+    "repoName": "big-picture",
+    "repoBranch": "main"
+  },
+  "eliazv/italian-investor": {
+    "name": "eliazv/italian-investor",
+    "description": "Claude Skill per l'analisi di portafoglio tax-aware degli investitori italiani: fiscalita ETF, BTP, minusvalenze e zainetto fiscale, ribilanciamento e successione, con verifica su fonti normative primarie.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eliazv",
+    "repoName": "italian-investor",
+    "repoBranch": "main"
   }
 }
