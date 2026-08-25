@@ -21727,5 +21727,95 @@
     "repoOwner": "howel-jp",
     "repoName": "voice-memo-kit",
     "repoBranch": "main"
+  },
+  "markshust/hcf": {
+    "name": "markshust/hcf",
+    "description": "Autonomous development plugin for Claude Code. Define requirements with a PM, then let parallel workers implement everything using TDD.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "markshust",
+    "repoName": "hcf",
+    "repoBranch": "main"
+  },
+  "thevibeworks/claude-code-docs": {
+    "name": "thevibeworks/claude-code-docs",
+    "description": "Everything Anthropic ships for builders, archived and updated 4\u00d7 daily. 3,900+ files. 12 sources. API, Claude Code, MCP, docs, cookbooks, skills, plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thevibeworks",
+    "repoName": "claude-code-docs",
+    "repoBranch": "main"
+  },
+  "V12X/v12x-skills": {
+    "name": "V12X/v12x-skills",
+    "description": "In-depth security-audit skills for Claude Code \u2014 deterministic tools first, every finding refuted, a verdict not a score. The v12x Method.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "V12X",
+    "repoName": "v12x-skills",
+    "repoBranch": "main"
+  },
+  "Cadasto/go-coding-plugin": {
+    "name": "Cadasto/go-coding-plugin",
+    "description": "AI plugin for coding standards for Go",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Cadasto",
+    "repoName": "go-coding-plugin",
+    "repoBranch": "main"
+  },
+  "wwwcojp/safe-dev-hooks": {
+    "name": "wwwcojp/safe-dev-hooks",
+    "description": "Claude Code hooks that stop an AI agent's destructive commands, secret leaks, and data exfiltration \u2014 safe defaults, no configuration required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wwwcojp",
+    "repoName": "safe-dev-hooks",
+    "repoBranch": "main"
+  },
+  "anaidenko/claude-plugins": {
+    "name": "anaidenko/claude-plugins",
+    "description": "Claude Code plugin marketplace by Andrii Naidenko \u2014 desktop notifications that resume the chat, and video digests.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anaidenko",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "talentedgeai/infiniteleverage-plugin": {
+    "name": "talentedgeai/infiniteleverage-plugin",
+    "description": "talentedgeai/infiniteleverage-plugin \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "talentedgeai",
+    "repoName": "infiniteleverage-plugin",
+    "repoBranch": "main"
+  },
+  "peiris/token-cost": {
+    "name": "peiris/token-cost",
+    "description": "Claude Code plugin: records token usage per task into a private per-project ledger, and shows it as a table with /token-cost",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "peiris",
+    "repoName": "token-cost",
+    "repoBranch": "main"
+  },
+  "DannyKeys/mobile-canvas-claude": {
+    "name": "DannyKeys/mobile-canvas-claude",
+    "description": "Drive local iOS Simulators and Android emulators from Claude Code; boot, install, tap by accessibility element, screenshot, record, read logs and crashes. Claude Code port of Redth/mobile-canvas-ghcp.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DannyKeys",
+    "repoName": "mobile-canvas-claude",
+    "repoBranch": "main"
+  },
+  "arcbaslow/meta-ads-agents": {
+    "name": "arcbaslow/meta-ads-agents",
+    "description": "Multi-agent toolkit for Meta (Facebook/Instagram) Ads. Campaign performance, creative fatigue scoring, audience and placement breakdowns, Pixel/CAPI event health, budget pacing, markdown and PDF reports. Read-only by...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arcbaslow",
+    "repoName": "meta-ads-agents",
+    "repoBranch": "master"
   }
 }

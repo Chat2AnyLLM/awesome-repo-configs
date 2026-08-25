@@ -27419,5 +27419,71 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "markshust/hcf": {
+        "owner": "markshust",
+        "name": "hcf",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thevibeworks/claude-code-docs": {
+        "owner": "thevibeworks",
+        "name": "claude-code-docs",
+        "branch": "main",
+        "enabled": true
+    },
+    "PerIPan/music-workflow-skills": {
+        "owner": "PerIPan",
+        "name": "music-workflow-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "V12X/v12x-skills": {
+        "owner": "V12X",
+        "name": "v12x-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jahidashok714-svg/fenjing-storyboard": {
+        "owner": "jahidashok714-svg",
+        "name": "fenjing-storyboard",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Cadasto/go-coding-plugin": {
+        "owner": "Cadasto",
+        "name": "go-coding-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "talentedgeai/infiniteleverage-plugin": {
+        "owner": "talentedgeai",
+        "name": "infiniteleverage-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "DannyKeys/mobile-canvas-claude": {
+        "owner": "DannyKeys",
+        "name": "mobile-canvas-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blitzsicht/falzmarke": {
+        "owner": "blitzsicht",
+        "name": "falzmarke",
+        "branch": "main",
+        "enabled": true
+    },
+    "arcbaslow/meta-ads-agents": {
+        "owner": "arcbaslow",
+        "name": "meta-ads-agents",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

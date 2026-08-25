@@ -3992,5 +3992,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "markshust/hcf": {
+    "owner": "markshust",
+    "name": "hcf",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Cadasto/go-coding-plugin": {
+    "owner": "Cadasto",
+    "name": "go-coding-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "arcbaslow/meta-ads-agents": {
+    "owner": "arcbaslow",
+    "name": "meta-ads-agents",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
