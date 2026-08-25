@@ -21817,5 +21817,77 @@
     "repoOwner": "arcbaslow",
     "repoName": "meta-ads-agents",
     "repoBranch": "master"
+  },
+  "kharmanskyi/open-steps": {
+    "name": "kharmanskyi/open-steps",
+    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kharmanskyi",
+    "repoName": "open-steps",
+    "repoBranch": "main"
+  },
+  "UnboundCompute/security-agent-skills": {
+    "name": "UnboundCompute/security-agent-skills",
+    "description": "Security-testing methodology as portable, tool-agnostic agent skills for Claude Code and any agent runtime: white-box bug hunting, AI-agent and LLM red-teaming, supply-chain risk, and appsec depth.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UnboundCompute",
+    "repoName": "security-agent-skills",
+    "repoBranch": "main"
+  },
+  "barakgut/lore": {
+    "name": "barakgut/lore",
+    "description": "Claude Code plugin that turns any file you drop in a folder into a persistent, interlinked knowledge base your projects can cite",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "barakgut",
+    "repoName": "lore",
+    "repoBranch": "main"
+  },
+  "Maksim-Burtsev/punchcard": {
+    "name": "Maksim-Burtsev/punchcard",
+    "description": "Architecture-level code review for any coding agent \u2014 Claude Code, Codex, Cursor, Gemini CLI and 100+ more. One verdict, every blocker demonstrated by running the code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Maksim-Burtsev",
+    "repoName": "punchcard",
+    "repoBranch": "master"
+  },
+  "Dragoon0x/10x-interface": {
+    "name": "Dragoon0x/10x-interface",
+    "description": "Interface intelligence for agents that design, engineer, critique, and ship exceptional interfaces. Eleven Claude Code skills across intent, architecture, craft, interaction, adaptation, state, experimentation, forens...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dragoon0x",
+    "repoName": "10x-interface",
+    "repoBranch": "main"
+  },
+  "rhyspatt/stay-on-task": {
+    "name": "rhyspatt/stay-on-task",
+    "description": "Task-completion enforcement for Claude Code. An external task ledger plus a Stop-hook gate that refuses to end a turn while recorded work is still outstanding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rhyspatt",
+    "repoName": "stay-on-task",
+    "repoBranch": "main"
+  },
+  "heiyuneo/claude-skills": {
+    "name": "heiyuneo/claude-skills",
+    "description": "Claude Code skills. panel = fan one high-stakes question out to five non-Claude models in parallel, then reconcile their answers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heiyuneo",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "sterlixlol/das-auto": {
+    "name": "sterlixlol/das-auto",
+    "description": "Becomes your replacement the moment you leave. A Claude Code skill that owns the job while you're gone \u2014 finds tools nobody mentioned, picks up what you forgot, and sends the update you keep meaning to send.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sterlixlol",
+    "repoName": "das-auto",
+    "repoBranch": "main"
   }
 }

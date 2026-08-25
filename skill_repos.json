@@ -27492,5 +27492,133 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "kharmanskyi/open-steps": {
+        "owner": "kharmanskyi",
+        "name": "open-steps",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UnboundCompute/security-agent-skills": {
+        "owner": "UnboundCompute",
+        "name": "security-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ferousco-dev/ilana": {
+        "owner": "Ferousco-dev",
+        "name": "ilana",
+        "branch": "main",
+        "enabled": true
+    },
+    "arcjet/skills": {
+        "owner": "arcjet",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "promotoa/youtube-absorb": {
+        "owner": "promotoa",
+        "name": "youtube-absorb",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "barakgut/lore": {
+        "owner": "barakgut",
+        "name": "lore",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Maksim-Burtsev/punchcard": {
+        "owner": "Maksim-Burtsev",
+        "name": "punchcard",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cmun2/unfaked": {
+        "owner": "cmun2",
+        "name": "unfaked",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "christiangalsterer/documentation-plugin": {
+        "owner": "christiangalsterer",
+        "name": "documentation-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kotobuki09/instructree": {
+        "owner": "kotobuki09",
+        "name": "instructree",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jbisaccia-9/brand-gate": {
+        "owner": "jbisaccia-9",
+        "name": "brand-gate",
+        "branch": "main",
+        "enabled": true
+    },
+    "Dragoon0x/10x-interface": {
+        "owner": "Dragoon0x",
+        "name": "10x-interface",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rhyspatt/stay-on-task": {
+        "owner": "rhyspatt",
+        "name": "stay-on-task",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "heiyuneo/claude-skills": {
+        "owner": "heiyuneo",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ConveyThis/claude-translator": {
+        "owner": "ConveyThis",
+        "name": "claude-translator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sterlixlol/das-auto": {
+        "owner": "sterlixlol",
+        "name": "das-auto",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ejun-9/ds-specs": {
+        "owner": "ejun-9",
+        "name": "ds-specs",
+        "branch": "main",
+        "enabled": true
+    },
+    "alkat19/dnbc_skills": {
+        "owner": "alkat19",
+        "name": "dnbc_skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "eelcositeeffect/skill-moneybird": {
+        "owner": "eelcositeeffect",
+        "name": "skill-moneybird",
+        "branch": "main",
+        "enabled": true
     }
 }
