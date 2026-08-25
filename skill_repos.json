@@ -27485,5 +27485,12 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "GarphenGate/moltline-oss": {
+        "owner": "GarphenGate",
+        "name": "moltline-oss",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
