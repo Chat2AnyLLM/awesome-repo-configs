@@ -21700,5 +21700,32 @@
     "repoOwner": "matheusPavaneli",
     "repoName": "unique-skill",
     "repoBranch": "main"
+  },
+  "ww-w-ai/super-token-saver": {
+    "name": "ww-w-ai/super-token-saver",
+    "description": "Restore prior Claude Code AND Codex sessions with zero LLM calls. Cross-tool session handoff, cache-expiry prevention, real cost dashboard. One plugin, both hosts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ww-w-ai",
+    "repoName": "super-token-saver",
+    "repoBranch": "main"
+  },
+  "open-winmale/agent-skills": {
+    "name": "open-winmale/agent-skills",
+    "description": "\u8d62\u9ebb\u4e86\uff08WinMale\uff09\u5b98\u65b9 Agent Skills\uff1a\u6295\u7814\u6280\u80fd\u5305\uff0c\u517c\u5bb9 Cursor / Claude Code / Codex / skills.sh\u3002\u5148\u88c5\u7ba1\u5bb6 wm-skillhub\uff0c\u518d\u88c5\u4e2a\u80a1\u6838\u5bf9\u4e0e\u6295\u7814\u53f0\uff1b\u6570\u636e\u7ecf open.winmale.com OpenAPI\uff0c\u9700\u7533\u8bf7 API Key\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "open-winmale",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "howel-jp/voice-memo-kit": {
+    "name": "howel-jp/voice-memo-kit",
+    "description": "Claude Code plugin: transcribe voice memos locally with WhisperX + Claude proofreading, then start the conversation from what you said (/voice-memo)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "howel-jp",
+    "repoName": "voice-memo-kit",
+    "repoBranch": "main"
   }
 }

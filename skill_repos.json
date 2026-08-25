@@ -27351,5 +27351,73 @@
         "name": "claude-discord-notify",
         "branch": "main",
         "enabled": true
+    },
+    "ww-w-ai/super-token-saver": {
+        "owner": "ww-w-ai",
+        "name": "super-token-saver",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "khangpqvn/SDDADD": {
+        "owner": "khangpqvn",
+        "name": "SDDADD",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "dtsola/xiaoyaoclaw-workspace-initializer": {
+        "owner": "dtsola",
+        "name": "xiaoyaoclaw-workspace-initializer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "98ping/chip": {
+        "owner": "98ping",
+        "name": "chip",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "open-winmale/agent-skills": {
+        "owner": "open-winmale",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "howel-jp/voice-memo-kit": {
+        "owner": "howel-jp",
+        "name": "voice-memo-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jneaimi/media-skill": {
+        "owner": "jneaimi",
+        "name": "media-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lilei0311/pixel-gaze": {
+        "owner": "lilei0311",
+        "name": "pixel-gaze",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "BurraRohan/precision-context": {
+        "owner": "BurraRohan",
+        "name": "precision-context",
+        "branch": "main",
+        "enabled": true
+    },
+    "siddharth-searce/futurify-github-profile": {
+        "owner": "siddharth-searce",
+        "name": "futurify-github-profile",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
