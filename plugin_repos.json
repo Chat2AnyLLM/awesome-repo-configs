@@ -21601,5 +21601,104 @@
     "repoOwner": "Sassy-Dog",
     "repoName": "sassydog-skills",
     "repoBranch": "main"
+  },
+  "Fergius-Engineering/instincts": {
+    "name": "Fergius-Engineering/instincts",
+    "description": "Working-instinct skills for Claude Code: verify claims against the source, log for the bug you can't reproduce, write like a human, test so the test bites. A reflex layer on top of superpowers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fergius-Engineering",
+    "repoName": "instincts",
+    "repoBranch": "main"
+  },
+  "jv-vogler/skills": {
+    "name": "jv-vogler/skills",
+    "description": "Personal Claude Code skills marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jv-vogler",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "CSPulse/cs-skills": {
+    "name": "CSPulse/cs-skills",
+    "description": "Open AI skills for customer success teams \u2014 renewal risk, business reviews, onboarding plans, post-call follow-ups and email critique. No setup required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CSPulse",
+    "repoName": "cs-skills",
+    "repoBranch": "main"
+  },
+  "Anlo-Ventures/skills-and-agents-library": {
+    "name": "Anlo-Ventures/skills-and-agents-library",
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-library",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Anlo-Ventures",
+    "repoName": "skills-and-agents-library",
+    "repoBranch": "main"
+  },
+  "seankoji-com/claude-plugins": {
+    "name": "seankoji-com/claude-plugins",
+    "description": "Curated Claude Code plugin marketplace and cross-platform generator for Claude, OpenCode, and Antigravity",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seankoji-com",
+    "repoName": "claude-plugins",
+    "repoBranch": "master"
+  },
+  "PedroMeloOfficial/Youtube-Agent-Matrix": {
+    "name": "PedroMeloOfficial/Youtube-Agent-Matrix",
+    "description": "A complete YouTube channel operating system for Claude Code \u2014 14 specialized subagents for strategy, research, scripts, thumbnails, SEO and monetization. Any channel, any niche, any language, any market.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PedroMeloOfficial",
+    "repoName": "Youtube-Agent-Matrix",
+    "repoBranch": "main"
+  },
+  "whit3rabbit/rabbit-writes": {
+    "name": "whit3rabbit/rabbit-writes",
+    "description": "Skills to make AI writing sound more human",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "whit3rabbit",
+    "repoName": "rabbit-writes",
+    "repoBranch": "main"
+  },
+  "ridelink0/claude-code-usage-limits": {
+    "name": "ridelink0/claude-code-usage-limits",
+    "description": "Claude Code usage limits read by Claude, not shown to you: every reply opens with what fits in the remaining budget.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ridelink0",
+    "repoName": "claude-code-usage-limits",
+    "repoBranch": "main"
+  },
+  "Senavictors/bootstrap-agent-architecture-plugin": {
+    "name": "Senavictors/bootstrap-agent-architecture-plugin",
+    "description": "Claude Code plugin to bootstrap and govern AI agent architectures (Claude Code, Cursor, Codex) \u2014 roles, task lifecycle, local auditing, and a secrets anti-leak guardrail.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Senavictors",
+    "repoName": "bootstrap-agent-architecture-plugin",
+    "repoBranch": "main"
+  },
+  "skymanbp/rag-your-code": {
+    "name": "skymanbp/rag-your-code",
+    "description": "A local, explainable code retrieval index for coding agents. No network, no runtime dependencies, 15 languages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skymanbp",
+    "repoName": "rag-your-code",
+    "repoBranch": "master"
+  },
+  "matheusPavaneli/unique-skill": {
+    "name": "matheusPavaneli/unique-skill",
+    "description": "Claude Code plugin that generates visuals belonging to the product they are for, and builds them on the stack that job actually calls for.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matheusPavaneli",
+    "repoName": "unique-skill",
+    "repoBranch": "main"
   }
 }

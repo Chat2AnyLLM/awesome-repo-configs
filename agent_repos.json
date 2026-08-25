@@ -3978,5 +3978,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "wardawgmalvicious/agent-config": {
+    "owner": "wardawgmalvicious",
+    "name": "agent-config",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "PedroMeloOfficial/Youtube-Agent-Matrix": {
+    "owner": "PedroMeloOfficial",
+    "name": "Youtube-Agent-Matrix",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

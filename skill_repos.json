@@ -27238,5 +27238,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jiweiyeah/Skills-Manager": {
+        "owner": "jiweiyeah",
+        "name": "Skills-Manager",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wardawgmalvicious/agent-config": {
+        "owner": "wardawgmalvicious",
+        "name": "agent-config",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fergius-Engineering/instincts": {
+        "owner": "Fergius-Engineering",
+        "name": "instincts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jv-vogler/skills": {
+        "owner": "jv-vogler",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "CSPulse/cs-skills": {
+        "owner": "CSPulse",
+        "name": "cs-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Anlo-Ventures/skills-and-agents-library": {
+        "owner": "Anlo-Ventures",
+        "name": "skills-and-agents-library",
+        "branch": "main",
+        "enabled": true
+    },
+    "spscream/ai-skills": {
+        "owner": "spscream",
+        "name": "ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seankoji-com/claude-plugins": {
+        "owner": "seankoji-com",
+        "name": "claude-plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "PedroMeloOfficial/Youtube-Agent-Matrix": {
+        "owner": "PedroMeloOfficial",
+        "name": "Youtube-Agent-Matrix",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "whit3rabbit/rabbit-writes": {
+        "owner": "whit3rabbit",
+        "name": "rabbit-writes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jackxu1978/tai-chi-sword-skills": {
+        "owner": "Jackxu1978",
+        "name": "tai-chi-sword-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ridelink0/claude-code-usage-limits": {
+        "owner": "ridelink0",
+        "name": "claude-code-usage-limits",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fabork-security/go-engineering-skill": {
+        "owner": "fabork-security",
+        "name": "go-engineering-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Senavictors/bootstrap-agent-architecture-plugin": {
+        "owner": "Senavictors",
+        "name": "bootstrap-agent-architecture-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "skymanbp/rag-your-code": {
+        "owner": "skymanbp",
+        "name": "rag-your-code",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matheusPavaneli/unique-skill": {
+        "owner": "matheusPavaneli",
+        "name": "unique-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blakeadaniel/claude-discord-notify": {
+        "owner": "blakeadaniel",
+        "name": "claude-discord-notify",
+        "branch": "main",
+        "enabled": true
     }
 }
