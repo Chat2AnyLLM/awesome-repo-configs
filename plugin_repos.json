@@ -21889,5 +21889,95 @@
     "repoOwner": "sterlixlol",
     "repoName": "das-auto",
     "repoBranch": "main"
+  },
+  "Aboudjem/humanizer-skill": {
+    "name": "Aboudjem/humanizer-skill",
+    "description": "AI writing humanizer and pattern detector. 55 patterns, 5 voices, 0-100 AI-tell score. Pure Markdown, zero dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aboudjem",
+    "repoName": "humanizer-skill",
+    "repoBranch": "main"
+  },
+  "rainmanjam/poka-yoke": {
+    "name": "rainmanjam/poka-yoke",
+    "description": "Mistake-proofing for software. Shigeo Shingo's poka-yoke method as a Claude Code plugin: audit code for footguns, design APIs that resist misuse, install guardrails, turn incidents into devices.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rainmanjam",
+    "repoName": "poka-yoke",
+    "repoBranch": "main"
+  },
+  "emanzurv/quiz-me-skill": {
+    "name": "emanzurv/quiz-me-skill",
+    "description": "Claude Code plugin that quizzes you on root cause and fix before it writes any code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emanzurv",
+    "repoName": "quiz-me-skill",
+    "repoBranch": "main"
+  },
+  "sentasity/cadence": {
+    "name": "sentasity/cadence",
+    "description": "A Claude Code plugin for intent-driven development: brainstorm, design, plan, execute",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sentasity",
+    "repoName": "cadence",
+    "repoBranch": "main"
+  },
+  "AceyAdapter/knap": {
+    "name": "AceyAdapter/knap",
+    "description": "Claude Code workflows for shaping AI-built software \u2014 flintknapping for code. /knap:mockup turns a UI decision into an interactive options page you iterate on before writing app code; /knap:agentify makes any repo age...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AceyAdapter",
+    "repoName": "knap",
+    "repoBranch": "main"
+  },
+  "theAnirudhKumar/skills": {
+    "name": "theAnirudhKumar/skills",
+    "description": "AI skills for customer-facing work and long working sessions \u2014 post-call follow-ups, email critique, chat handoffs, token efficiency. No setup required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theAnirudhKumar",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "c3d-gg/claude-plugin": {
+    "name": "c3d-gg/claude-plugin",
+    "description": "c\u00b3d.gg plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "c3d-gg",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
+  "JHamidun/screencast-desktop": {
+    "name": "JHamidun/screencast-desktop",
+    "description": "Claude Code plugin: an agent drives a Windows app and records it as a demo video that zooms before each click",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JHamidun",
+    "repoName": "screencast-desktop",
+    "repoBranch": "main"
+  },
+  "0xfauzi/systemap": {
+    "name": "0xfauzi/systemap",
+    "description": "The map your coding agent draws of your system: facts read from the code, meaning authored by the agent, a check that refuses an incomplete map, one interactive page.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0xfauzi",
+    "repoName": "systemap",
+    "repoBranch": "main"
+  },
+  "score-technologies/score-studio-agent-plugins": {
+    "name": "score-technologies/score-studio-agent-plugins",
+    "description": "Score Studio MCP server and agent plugins for ChatGPT, Claude, Gemini, Cursor, and Hermes Agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "score-technologies",
+    "repoName": "score-studio-agent-plugins",
+    "repoBranch": "main"
   }
 }

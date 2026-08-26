@@ -4013,5 +4013,19 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "prabhakar349/prisma-systematic-review": {
+    "owner": "prabhakar349",
+    "name": "prisma-systematic-review",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sentasity/cadence": {
+    "owner": "sentasity",
+    "name": "cadence",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

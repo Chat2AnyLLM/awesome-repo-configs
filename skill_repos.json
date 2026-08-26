@@ -27620,5 +27620,127 @@
         "name": "skill-moneybird",
         "branch": "main",
         "enabled": true
+    },
+    "Aboudjem/humanizer-skill": {
+        "owner": "Aboudjem",
+        "name": "humanizer-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jeremylongshore/excel-analyst-pro-skill-md": {
+        "owner": "jeremylongshore",
+        "name": "excel-analyst-pro-skill-md",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rainmanjam/poka-yoke": {
+        "owner": "rainmanjam",
+        "name": "poka-yoke",
+        "branch": "main",
+        "enabled": true
+    },
+    "emanzurv/quiz-me-skill": {
+        "owner": "emanzurv",
+        "name": "quiz-me-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "kritikmodi/product-video-as-code": {
+        "owner": "kritikmodi",
+        "name": "product-video-as-code",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "prabhakar349/prisma-systematic-review": {
+        "owner": "prabhakar349",
+        "name": "prisma-systematic-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sentasity/cadence": {
+        "owner": "sentasity",
+        "name": "cadence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AceyAdapter/knap": {
+        "owner": "AceyAdapter",
+        "name": "knap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DevGonzi/claude-crew": {
+        "owner": "DevGonzi",
+        "name": "claude-crew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "atvari-eu/nix-skills": {
+        "owner": "atvari-eu",
+        "name": "nix-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "duanth/NASA-Punk-UI-SKILL": {
+        "owner": "duanth",
+        "name": "NASA-Punk-UI-SKILL",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "arasovic/skills": {
+        "owner": "arasovic",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "theAnirudhKumar/skills": {
+        "owner": "theAnirudhKumar",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JHamidun/screencast-desktop": {
+        "owner": "JHamidun",
+        "name": "screencast-desktop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "0xfauzi/systemap": {
+        "owner": "0xfauzi",
+        "name": "systemap",
+        "branch": "main",
+        "enabled": true
+    },
+    "score-technologies/score-studio-agent-plugins": {
+        "owner": "score-technologies",
+        "name": "score-studio-agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "francesco-castronuovo/gsap-webflow-skill": {
+        "owner": "francesco-castronuovo",
+        "name": "gsap-webflow-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nam-yun-ha/korean-shorts-skill": {
+        "owner": "nam-yun-ha",
+        "name": "korean-shorts-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
