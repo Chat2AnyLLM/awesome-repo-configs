@@ -4062,5 +4062,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jeremylongshore/tons-of-skills-marketplace": {
+    "owner": "jeremylongshore",
+    "name": "tons-of-skills-marketplace",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "lucas-lima-s/claude-skill-layered-review": {
+    "owner": "lucas-lima-s",
+    "name": "claude-skill-layered-review",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

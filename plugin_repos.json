@@ -22132,5 +22132,86 @@
     "repoOwner": "nyldn",
     "repoName": "plugins",
     "repoBranch": "main"
+  },
+  "jeremylongshore/tons-of-skills-marketplace": {
+    "name": "jeremylongshore/tons-of-skills-marketplace",
+    "description": "471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jeremylongshore",
+    "repoName": "tons-of-skills-marketplace",
+    "repoBranch": "main"
+  },
+  "andypitcher/ponytail-sec": {
+    "name": "andypitcher/ponytail-sec",
+    "description": "The smallest change that ruins an attacker's day.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andypitcher",
+    "repoName": "ponytail-sec",
+    "repoBranch": "main"
+  },
+  "agent-clinic/claude-md-doctor": {
+    "name": "agent-clinic/claude-md-doctor",
+    "description": "Give your CLAUDE.md / AGENTS.md a checkup \u2014 audit size vitals, dead references, drifted claims, and backtest every rule against your own session history to see which rules get followed, ignored, or never used. A docto...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agent-clinic",
+    "repoName": "claude-md-doctor",
+    "repoBranch": "main"
+  },
+  "ds1/probe": {
+    "name": "ds1/probe",
+    "description": "Claude Code slash commands for rigorous Socratic analysis of documents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ds1",
+    "repoName": "probe",
+    "repoBranch": "master"
+  },
+  "AlexCiortan/setlist": {
+    "name": "AlexCiortan/setlist",
+    "description": "Build real software by directing rather than typing: you write the setlist, Claude Code plays it, and the gates keep it honest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AlexCiortan",
+    "repoName": "setlist",
+    "repoBranch": "main"
+  },
+  "7x24labs/claude-plugins": {
+    "name": "7x24labs/claude-plugins",
+    "description": "Claude Code plugin marketplace by 7x24labs, starting with speak: a minimal text-to-speech toggle.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "7x24labs",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "timo-reymann/claude-customization-plugins": {
+    "name": "timo-reymann/claude-customization-plugins",
+    "description": "Claude Code plugin marketplace: output styles and hooks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "timo-reymann",
+    "repoName": "claude-customization-plugins",
+    "repoBranch": "main"
+  },
+  "durchnull/claude-plugins": {
+    "name": "durchnull/claude-plugins",
+    "description": "The durchnull marketplace: a catalog of David Friedrich's Claude Code plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "durchnull",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "r-bart/devtronic-plugin": {
+    "name": "r-bart/devtronic-plugin",
+    "description": "Claude Code plugin marketplace \u2014 35 skills, 15 agents, workflow hooks for structured AI-assisted development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "r-bart",
+    "repoName": "devtronic-plugin",
+    "repoBranch": "main"
   }
 }

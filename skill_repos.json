@@ -27960,5 +27960,138 @@
         "name": "api-capital-design-system",
         "branch": "main",
         "enabled": true
+    },
+    "jeremylongshore/tons-of-skills-marketplace": {
+        "owner": "jeremylongshore",
+        "name": "tons-of-skills-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "andypitcher/ponytail-sec": {
+        "owner": "andypitcher",
+        "name": "ponytail-sec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "agent-clinic/claude-md-doctor": {
+        "owner": "agent-clinic",
+        "name": "claude-md-doctor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "msdanyg/humanize-pro": {
+        "owner": "msdanyg",
+        "name": "humanize-pro",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "eddyplolz/humanizer-pro": {
+        "owner": "eddyplolz",
+        "name": "humanizer-pro",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sebin-gg/zlog": {
+        "owner": "sebin-gg",
+        "name": "zlog",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "adam-s-k-i/super-backlog": {
+        "owner": "adam-s-k-i",
+        "name": "super-backlog",
+        "branch": "master",
+        "enabled": true
+    },
+    "Nishchay-Bhudia/unslop": {
+        "owner": "Nishchay-Bhudia",
+        "name": "unslop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "noestudios/alt-text-skill": {
+        "owner": "noestudios",
+        "name": "alt-text-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "AdrianAdem/prompt-engineer-skill": {
+        "owner": "AdrianAdem",
+        "name": "prompt-engineer-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "AlexCiortan/setlist": {
+        "owner": "AlexCiortan",
+        "name": "setlist",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "7x24labs/claude-plugins": {
+        "owner": "7x24labs",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "timo-reymann/claude-customization-plugins": {
+        "owner": "timo-reymann",
+        "name": "claude-customization-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "r-bart/devtronic-plugin": {
+        "owner": "r-bart",
+        "name": "devtronic-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "lucas-lima-s/claude-skill-polylint": {
+        "owner": "lucas-lima-s",
+        "name": "claude-skill-polylint",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucas-lima-s/claude-skill-todo": {
+        "owner": "lucas-lima-s",
+        "name": "claude-skill-todo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucas-lima-s/claude-skill-timesheet": {
+        "owner": "lucas-lima-s",
+        "name": "claude-skill-timesheet",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucas-lima-s/claude-skill-pyright-envs": {
+        "owner": "lucas-lima-s",
+        "name": "claude-skill-pyright-envs",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucas-lima-s/claude-skill-react-legacy-review": {
+        "owner": "lucas-lima-s",
+        "name": "claude-skill-react-legacy-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucas-lima-s/claude-skill-layered-review": {
+        "owner": "lucas-lima-s",
+        "name": "claude-skill-layered-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
