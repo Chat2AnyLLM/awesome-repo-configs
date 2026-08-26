@@ -4027,5 +4027,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ArcticFox2029/chamnan": {
+    "owner": "ArcticFox2029",
+    "name": "chamnan",
+    "branch": "main",
+    "enabled": true,
+    "agentsPath": "agents"
   }
 }

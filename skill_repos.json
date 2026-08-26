@@ -27742,5 +27742,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "ArcticFox2029/chamnan": {
+        "owner": "ArcticFox2029",
+        "name": "chamnan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
