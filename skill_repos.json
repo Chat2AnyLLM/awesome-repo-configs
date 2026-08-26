@@ -27749,5 +27749,100 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "CodeShuX/tokenwise": {
+        "owner": "CodeShuX",
+        "name": "tokenwise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "weshopai/weshop-skill-package": {
+        "owner": "weshopai",
+        "name": "weshop-skill-package",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "byjunyoung/claude-product-skills": {
+        "owner": "byjunyoung",
+        "name": "claude-product-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Serennity007/awesome-stock-quant-skills": {
+        "owner": "Serennity007",
+        "name": "awesome-stock-quant-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "astroicers/skill-quality-research": {
+        "owner": "astroicers",
+        "name": "skill-quality-research",
+        "branch": "main",
+        "enabled": true
+    },
+    "Solnest-AI/solnest-seo-aeo": {
+        "owner": "Solnest-AI",
+        "name": "solnest-seo-aeo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CHENG-LIANG1/badass-skills": {
+        "owner": "CHENG-LIANG1",
+        "name": "badass-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "psthi/browseros-skill": {
+        "owner": "psthi",
+        "name": "browseros-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "vadimvitvickiy/vv-agent-kit": {
+        "owner": "vadimvitvickiy",
+        "name": "vv-agent-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "misty7kr/doc2md": {
+        "owner": "misty7kr",
+        "name": "doc2md",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "romanticamaj/expression-coach": {
+        "owner": "romanticamaj",
+        "name": "expression-coach",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucas-lima-s/claude-skill-audit": {
+        "owner": "lucas-lima-s",
+        "name": "claude-skill-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "derwi6819-sys/academic-research-survey": {
+        "owner": "derwi6819-sys",
+        "name": "academic-research-survey",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucas-lima-s/claude-skill-repo-audit": {
+        "owner": "lucas-lima-s",
+        "name": "claude-skill-repo-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

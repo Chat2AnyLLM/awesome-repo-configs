@@ -4034,5 +4034,19 @@
     "branch": "main",
     "enabled": true,
     "agentsPath": "agents"
+  },
+  "Solnest-AI/solnest-seo-aeo": {
+    "owner": "Solnest-AI",
+    "name": "solnest-seo-aeo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "vadimvitvickiy/vv-agent-kit": {
+    "owner": "vadimvitvickiy",
+    "name": "vv-agent-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -21988,5 +21988,59 @@
     "repoOwner": "ArcticFox2029",
     "repoName": "chamnan",
     "repoBranch": "main"
+  },
+  "CodeShuX/tokenwise": {
+    "name": "CodeShuX/tokenwise",
+    "description": "Cut Claude Code spend without sacrificing quality \u2014 and prove it. Haiku/Sonnet/Opus router with real $-saved numbers, not vibes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CodeShuX",
+    "repoName": "tokenwise",
+    "repoBranch": "main"
+  },
+  "byjunyoung/claude-product-skills": {
+    "name": "byjunyoung/claude-product-skills",
+    "description": "Claude Code plugins for product design work \u2014 `fig` operates existing Figma files (prep, flow arrows, a read-only lint gate, canonical sync, design-to-code, slide decks) and `pm` writes PRDs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "byjunyoung",
+    "repoName": "claude-product-skills",
+    "repoBranch": "main"
+  },
+  "astroicers/skill-quality-research": {
+    "name": "astroicers/skill-quality-research",
+    "description": "\u9ad8\u661f Agent Skill repo \u7684\u5171\u540c\u9ede\u662f\u300c\u597d\u88dd\u300d\u4e0d\u662f\u300c\u5beb\u5f97\u597d\u300d\u2014\u201497 \u500b repo \u7684\u661f\u6578\u68af\u5ea6\u5206\u6790\uff0c\u9644\u53ef\u57f7\u884c\u7684 skill-reviewer \u54c1\u8cea\u5be9\u67e5\u5de5\u5177",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "astroicers",
+    "repoName": "skill-quality-research",
+    "repoBranch": "main"
+  },
+  "Solnest-AI/solnest-seo-aeo": {
+    "name": "Solnest-AI/solnest-seo-aeo",
+    "description": "SEO and AEO for Claude Code. Audit any site for classic search, then audit whether ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews can find, read and cite it. Fork of claude-seo (MIT).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Solnest-AI",
+    "repoName": "solnest-seo-aeo",
+    "repoBranch": "main"
+  },
+  "vadimvitvickiy/vv-agent-kit": {
+    "name": "vadimvitvickiy/vv-agent-kit",
+    "description": "Portable agent practices for Claude Code: neutral disciplines plus a Swift/Xcode pack, in one plugin that does not rot",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vadimvitvickiy",
+    "repoName": "vv-agent-kit",
+    "repoBranch": "main"
+  },
+  "misty7kr/doc2md": {
+    "name": "misty7kr/doc2md",
+    "description": "Convert PDF/DOCX/XLSX/PPTX to Markdown locally, tables intact, with per-page OCR for scanned pages \u2014 so Claude reads text instead of paying for page images.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "misty7kr",
+    "repoName": "doc2md",
+    "repoBranch": "main"
   }
 }
