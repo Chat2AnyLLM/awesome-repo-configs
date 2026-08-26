@@ -4048,5 +4048,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "the-thinker0/math-skill": {
+    "owner": "the-thinker0",
+    "name": "math-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Uncle-Peke/ui-chan-mcp": {
+    "owner": "Uncle-Peke",
+    "name": "ui-chan-mcp",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

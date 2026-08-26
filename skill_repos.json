@@ -27844,5 +27844,121 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "dongshuyan/compass-skills": {
+        "owner": "dongshuyan",
+        "name": "compass-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "the-thinker0/math-skill": {
+        "owner": "the-thinker0",
+        "name": "math-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "elithril/blender-kiln": {
+        "owner": "elithril",
+        "name": "blender-kiln",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "INo-xious/stockbit-mcp": {
+        "owner": "INo-xious",
+        "name": "stockbit-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sting25/claude-code-handoff": {
+        "owner": "Sting25",
+        "name": "claude-code-handoff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nks0614/harnessay": {
+        "owner": "nks0614",
+        "name": "harnessay",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gootf/halt-long-horizon-tasks": {
+        "owner": "gootf",
+        "name": "halt-long-horizon-tasks",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ai-hub-open/vk-ads-manager": {
+        "owner": "ai-hub-open",
+        "name": "vk-ads-manager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bitsandtea/postking-skills": {
+        "owner": "bitsandtea",
+        "name": "postking-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alivirgo/Major-AI-Skills": {
+        "owner": "alivirgo",
+        "name": "Major-AI-Skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonydzi/oss-publish": {
+        "owner": "tonydzi",
+        "name": "oss-publish",
+        "branch": "main",
+        "enabled": true
+    },
+    "coderdoctor97/Skill-Router": {
+        "owner": "coderdoctor97",
+        "name": "Skill-Router",
+        "branch": "main",
+        "enabled": true
+    },
+    "spscream/ai-floppy": {
+        "owner": "spscream",
+        "name": "ai-floppy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Uncle-Peke/ui-chan-mcp": {
+        "owner": "Uncle-Peke",
+        "name": "ui-chan-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nraford7/agent-studio-v2": {
+        "owner": "nraford7",
+        "name": "agent-studio-v2",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wangsoft/ELI5": {
+        "owner": "wangsoft",
+        "name": "ELI5",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lebeninca/api-capital-design-system": {
+        "owner": "lebeninca",
+        "name": "api-capital-design-system",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -22042,5 +22042,95 @@
     "repoOwner": "misty7kr",
     "repoName": "doc2md",
     "repoBranch": "main"
+  },
+  "elithril/blender-kiln": {
+    "name": "elithril/blender-kiln",
+    "description": "Claude Code plugin: 3D asset pipeline from text brief to production GLB \u2014 Blender MCP, Hunyuan3D, texturing, batch mode",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "elithril",
+    "repoName": "blender-kiln",
+    "repoBranch": "main"
+  },
+  "INo-xious/stockbit-mcp": {
+    "name": "INo-xious/stockbit-mcp",
+    "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top movers, orderbook, fundamentals, sentiment, your portfolio, and your real chart.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "INo-xious",
+    "repoName": "stockbit-mcp",
+    "repoBranch": "main"
+  },
+  "Sting25/claude-code-handoff": {
+    "name": "Sting25/claude-code-handoff",
+    "description": "Session continuity for Claude Code \u2014 auto-snapshots git state and model decisions at context boundaries so the next session starts informed, not blank.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sting25",
+    "repoName": "claude-code-handoff",
+    "repoBranch": "main"
+  },
+  "nks0614/harnessay": {
+    "name": "nks0614/harnessay",
+    "description": "Profile Claude Code context, discover repeated workflows, and regression-test your skills. Local-only, zero-dependency.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nks0614",
+    "repoName": "harnessay",
+    "repoBranch": "main"
+  },
+  "bitsandtea/postking-skills": {
+    "name": "bitsandtea/postking-skills",
+    "description": "Teach any AI agent to run your content marketing. Open-source skill for PostKing - generate posts, plan content weeks, ship blog articles, build landing pages  - installable in Hermes, Claude, and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitsandtea",
+    "repoName": "postking-skills",
+    "repoBranch": "main"
+  },
+  "alivirgo/Major-AI-Skills": {
+    "name": "alivirgo/Major-AI-Skills",
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, and common-sense skills. npx major-ai-skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alivirgo",
+    "repoName": "Major-AI-Skills",
+    "repoBranch": "master"
+  },
+  "spscream/ai-floppy": {
+    "name": "spscream/ai-floppy",
+    "description": "Session ritual for coding agents: durable git-committed memory, a start rite, a wrap rite, and the guards that keep them honest. Claude Code + Cursor plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spscream",
+    "repoName": "ai-floppy",
+    "repoBranch": "main"
+  },
+  "epogonii/cclimit": {
+    "name": "epogonii/cclimit",
+    "description": "Stop Claude Code before your plan usage runs out. Halts at a percentage you choose and waits for you to decide.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "epogonii",
+    "repoName": "cclimit",
+    "repoBranch": "main"
+  },
+  "Uncle-Peke/ui-chan-mcp": {
+    "name": "Uncle-Peke/ui-chan-mcp",
+    "description": "\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30de\u30b9\u30b3\u30c3\u30c8\u300c\u3046\u3044\u300d\u3092 MCP \u3067\u64cd\u4f5c\u3059\u308b\u30b5\u30fc\u30d0 / Claude Code \u30d7\u30e9\u30b0\u30a4\u30f3",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Uncle-Peke",
+    "repoName": "ui-chan-mcp",
+    "repoBranch": "main"
+  },
+  "nyldn/plugins": {
+    "name": "nyldn/plugins",
+    "description": "Shared plugin marketplace for Claude Octopus, img, and other nyldn AI tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nyldn",
+    "repoName": "plugins",
+    "repoBranch": "main"
   }
 }
