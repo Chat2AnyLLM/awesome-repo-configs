@@ -28093,5 +28093,144 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "datit309/supergraph": {
+        "owner": "datit309",
+        "name": "supergraph",
+        "branch": "master",
+        "enabled": true
+    },
+    "Kripu77/software-factory": {
+        "owner": "Kripu77",
+        "name": "software-factory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UnBergant/bergant-workflow": {
+        "owner": "UnBergant",
+        "name": "bergant-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Yakoub-ai/agent-mmm": {
+        "owner": "Yakoub-ai",
+        "name": "agent-mmm",
+        "branch": "main",
+        "enabled": true
+    },
+    "shimo4228/llms-txt-writer": {
+        "owner": "shimo4228",
+        "name": "llms-txt-writer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jungogogogo/Elenchus": {
+        "owner": "jungogogogo",
+        "name": "Elenchus",
+        "branch": "main",
+        "enabled": true
+    },
+    "mtnrabi/travel-agent-skills": {
+        "owner": "mtnrabi",
+        "name": "travel-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lawyeah-Tech/lawyeah": {
+        "owner": "Lawyeah-Tech",
+        "name": "lawyeah",
+        "branch": "main",
+        "enabled": true
+    },
+    "mikaeltorni/programming_prompts": {
+        "owner": "mikaeltorni",
+        "name": "programming_prompts",
+        "branch": "master",
+        "enabled": true
+    },
+    "CSPulse/customer-success-skills": {
+        "owner": "CSPulse",
+        "name": "customer-success-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "onetapstudiogames/1f3d9-citylife": {
+        "owner": "onetapstudiogames",
+        "name": "1f3d9-citylife",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "IISweetHeartII/oh-my-harness": {
+        "owner": "IISweetHeartII",
+        "name": "oh-my-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "demircigoksu/away-mode": {
+        "owner": "demircigoksu",
+        "name": "away-mode",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "StaySound4/shopaholic-skill": {
+        "owner": "StaySound4",
+        "name": "shopaholic-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "weisbert/claude-memory-overhaul": {
+        "owner": "weisbert",
+        "name": "claude-memory-overhaul",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shimo4228/citation-sync": {
+        "owner": "shimo4228",
+        "name": "citation-sync",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LikC1606/lab-meeting-report-skill": {
+        "owner": "LikC1606",
+        "name": "lab-meeting-report-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "an2n/ghostwriter": {
+        "owner": "an2n",
+        "name": "ghostwriter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bartosz-kuc/skanfirmy-mcp": {
+        "owner": "bartosz-kuc",
+        "name": "skanfirmy-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "RumasorengFadil/claude-code-skills": {
+        "owner": "RumasorengFadil",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "NeuraCerebra-AI/github-launch-kit": {
+        "owner": "NeuraCerebra-AI",
+        "name": "github-launch-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

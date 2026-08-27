@@ -22213,5 +22213,86 @@
     "repoOwner": "r-bart",
     "repoName": "devtronic-plugin",
     "repoBranch": "main"
+  },
+  "datit309/supergraph": {
+    "name": "datit309/supergraph",
+    "description": "Engineering workflow system for AI coding agents \u2014 mandatory planning, TDD, verification, review, and intelligent codebase graph analysis.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "datit309",
+    "repoName": "supergraph",
+    "repoBranch": "master"
+  },
+  "Kripu77/software-factory": {
+    "name": "Kripu77/software-factory",
+    "description": "Lanes, tickets, and a human merge. Runner and telemetry are plugs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kripu77",
+    "repoName": "software-factory",
+    "repoBranch": "main"
+  },
+  "UnBergant/bergant-workflow": {
+    "name": "UnBergant/bergant-workflow",
+    "description": "Engineering-workflow Claude Code plugin: project-init + lifecycle skills with gate hooks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UnBergant",
+    "repoName": "bergant-workflow",
+    "repoBranch": "main"
+  },
+  "Yakoub-ai/agent-mmm": {
+    "name": "Yakoub-ai/agent-mmm",
+    "description": "Marketing Mix Model expert agent plugin for Claude Code - pymc-marketing v0.18.2+",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Yakoub-ai",
+    "repoName": "agent-mmm",
+    "repoBranch": "main"
+  },
+  "mtnrabi/travel-agent-skills": {
+    "name": "mtnrabi/travel-agent-skills",
+    "description": "Agent skills for live flight and hotel pricing: cheapest dates, fare watch, trip planning, hotel search, rate-parity monitoring. Works over MCP or plain REST.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mtnrabi",
+    "repoName": "travel-agent-skills",
+    "repoBranch": "main"
+  },
+  "mikaeltorni/programming_prompts": {
+    "name": "mikaeltorni/programming_prompts",
+    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Codex and Claude Code users.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mikaeltorni",
+    "repoName": "programming_prompts",
+    "repoBranch": "master"
+  },
+  "CSPulse/customer-success-skills": {
+    "name": "CSPulse/customer-success-skills",
+    "description": "AI skills for customer success teams - renewal risk, business reviews, onboarding plans, post-call follow-ups and email critique. No setup required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CSPulse",
+    "repoName": "customer-success-skills",
+    "repoBranch": "main"
+  },
+  "IISweetHeartII/oh-my-harness": {
+    "name": "IISweetHeartII/oh-my-harness",
+    "description": "Agent team & skill factory for Claude Code \u2014 a maintained derivative of revfactory/harness, shipping its unmerged v2 rebuild plus reviewed community PRs, with CI that proves its own gates",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IISweetHeartII",
+    "repoName": "oh-my-harness",
+    "repoBranch": "main"
+  },
+  "an2n/ghostwriter": {
+    "name": "an2n/ghostwriter",
+    "description": "Writes text in your own voice instead of generic AI prose, with a check and polish pass built in. Works with Claude Code, Codex CLI, and any agent that reads skills off the filesystem.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "an2n",
+    "repoName": "ghostwriter",
+    "repoBranch": "main"
   }
 }
