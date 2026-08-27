@@ -28232,5 +28232,113 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "chris-peterson/ClaudeWatch": {
+        "owner": "chris-peterson",
+        "name": "ClaudeWatch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smkg75/wikidoc": {
+        "owner": "smkg75",
+        "name": "wikidoc",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zeikar/ludoweft": {
+        "owner": "zeikar",
+        "name": "ludoweft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "phatnguyen975/performance-test-design": {
+        "owner": "phatnguyen975",
+        "name": "performance-test-design",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pathmodeio/claude-plugin": {
+        "owner": "pathmodeio",
+        "name": "claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CGMoreh/bayes-workflow-r": {
+        "owner": "CGMoreh",
+        "name": "bayes-workflow-r",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "herehigher/sapwood-plugin": {
+        "owner": "herehigher",
+        "name": "sapwood-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "brainAlly/pm-cortex": {
+        "owner": "brainAlly",
+        "name": "pm-cortex",
+        "branch": "main",
+        "enabled": true
+    },
+    "CSalcedoDataBI/dax-for-agents": {
+        "owner": "CSalcedoDataBI",
+        "name": "dax-for-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RedesignedRobot/cdx": {
+        "owner": "RedesignedRobot",
+        "name": "cdx",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "scharissis/polako": {
+        "owner": "scharissis",
+        "name": "polako",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MohammedMoataz/ai-coach": {
+        "owner": "MohammedMoataz",
+        "name": "ai-coach",
+        "branch": "main",
+        "enabled": true
+    },
+    "ChuXo/einstein-claude-plugin": {
+        "owner": "ChuXo",
+        "name": "einstein-claude-plugin",
+        "branch": "master",
+        "enabled": true
+    },
+    "Inhibit0r/to-md": {
+        "owner": "Inhibit0r",
+        "name": "to-md",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "betmoar/cc-operator-plugin": {
+        "owner": "betmoar",
+        "name": "cc-operator-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "radkode/underwrite": {
+        "owner": "radkode",
+        "name": "underwrite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

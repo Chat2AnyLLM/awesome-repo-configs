@@ -4076,5 +4076,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "betmoar/cc-operator-plugin": {
+    "owner": "betmoar",
+    "name": "cc-operator-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
