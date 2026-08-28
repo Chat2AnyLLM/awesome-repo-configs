@@ -28340,5 +28340,122 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "zenstory-ai/oh-story-claudecode": {
+        "owner": "zenstory-ai",
+        "name": "oh-story-claudecode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yschimke/compose-ai-tools": {
+        "owner": "yschimke",
+        "name": "compose-ai-tools",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "WYRE-AI/msp-claude-plugins": {
+        "owner": "WYRE-AI",
+        "name": "msp-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "galleonlabs/hypergrok-trading-desk": {
+        "owner": "galleonlabs",
+        "name": "hypergrok-trading-desk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arcobaleno64/agy-plugin-cc": {
+        "owner": "arcobaleno64",
+        "name": "agy-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "swaylq/sunge-skill": {
+        "owner": "swaylq",
+        "name": "sunge-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "freightCognition/linehaulai-claude-marketplace": {
+        "owner": "freightCognition",
+        "name": "linehaulai-claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "nexscope-ai/ecommerce-seo-geo-skills": {
+        "owner": "nexscope-ai",
+        "name": "ecommerce-seo-geo-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Yesterday-AI/skills": {
+        "owner": "Yesterday-AI",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yknnv/brownspec": {
+        "owner": "yknnv",
+        "name": "brownspec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fromfireside/better-tropes": {
+        "owner": "fromfireside",
+        "name": "better-tropes",
+        "branch": "main",
+        "enabled": true
+    },
+    "skills-agents-co/skills-and-agents-library": {
+        "owner": "skills-agents-co",
+        "name": "skills-and-agents-library",
+        "branch": "main",
+        "enabled": true
+    },
+    "kardebadas/claude-plugin": {
+        "owner": "kardebadas",
+        "name": "claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "sudo5zzb/slip-skill": {
+        "owner": "sudo5zzb",
+        "name": "slip-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexis-morain/verbatim-linkedin": {
+        "owner": "alexis-morain",
+        "name": "verbatim-linkedin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aaronartistzhang-afk/DailyWork": {
+        "owner": "aaronartistzhang-afk",
+        "name": "DailyWork",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rafaelpierre/kestrelsearch": {
+        "owner": "rafaelpierre",
+        "name": "kestrelsearch",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ray-manaloto/claude-code-marketplace": {
+        "owner": "ray-manaloto",
+        "name": "claude-code-marketplace",
+        "branch": "main",
+        "enabled": true
     }
 }

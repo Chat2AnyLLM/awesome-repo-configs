@@ -22420,5 +22420,113 @@
     "repoOwner": "OthmanAdi",
     "repoName": "planning-with-files",
     "repoBranch": "master"
+  },
+  "zenstory-ai/oh-story-claudecode": {
+    "name": "zenstory-ai/oh-story-claudecode",
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zenstory-ai",
+    "repoName": "oh-story-claudecode",
+    "repoBranch": "main"
+  },
+  "WYRE-AI/msp-claude-plugins": {
+    "name": "WYRE-AI/msp-claude-plugins",
+    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and accounting, plus cross-vendor industry workflow packs (ops, security, finance, compliance, sales...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WYRE-AI",
+    "repoName": "msp-claude-plugins",
+    "repoBranch": "main"
+  },
+  "galleonlabs/hypergrok-trading-desk": {
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, size, execute and review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "galleonlabs",
+    "repoName": "hypergrok-trading-desk",
+    "repoBranch": "main"
+  },
+  "enesbasbug/voice-to-claude": {
+    "name": "enesbasbug/voice-to-claude",
+    "description": "A Claude Code plugin for high\u2011quality voice dictation using whisper.cpp with Metal GPU acceleration.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enesbasbug",
+    "repoName": "voice-to-claude",
+    "repoBranch": "main"
+  },
+  "arcobaleno64/agy-plugin-cc": {
+    "name": "arcobaleno64/agy-plugin-cc",
+    "description": "Run Gemini CLI or Antigravity CLI (agy) from inside Claude Code: delegate a task, get a second-opinion or adversarial code review, run it in the background, cancel it honestly. Slash commands, MCP tools, and a credent...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arcobaleno64",
+    "repoName": "agy-plugin-cc",
+    "repoBranch": "main"
+  },
+  "freightCognition/linehaulai-claude-marketplace": {
+    "name": "freightCognition/linehaulai-claude-marketplace",
+    "description": "Claude Marketplace of some of the tools we use with Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "freightCognition",
+    "repoName": "linehaulai-claude-marketplace",
+    "repoBranch": "main"
+  },
+  "Yesterday-AI/skills": {
+    "name": "Yesterday-AI/skills",
+    "description": "Yesterday's PUBLIC plugin catalog for Claude Code and Cursor",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Yesterday-AI",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "yknnv/brownspec": {
+    "name": "yknnv/brownspec",
+    "description": "Spec-driven development for existing codebases. A Claude Code plugin that reads your repo's conventions, interviews you about a change, and writes spec/design/tasks to disk, with blast-radius analysis. Regulatory prof...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yknnv",
+    "repoName": "brownspec",
+    "repoBranch": "main"
+  },
+  "skills-agents-co/skills-and-agents-library": {
+    "name": "skills-agents-co/skills-and-agents-library",
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-library",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skills-agents-co",
+    "repoName": "skills-and-agents-library",
+    "repoBranch": "main"
+  },
+  "kardebadas/claude-plugin": {
+    "name": "kardebadas/claude-plugin",
+    "description": "Personal skills for Codex and Claude Code, invoked as superb:*. craft turns a vague product idea into a decision-rich brief; pipeline takes a settled idea to a finished branch.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kardebadas",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
+  "sudo5zzb/slip-skill": {
+    "name": "sudo5zzb/slip-skill",
+    "description": "Pass a note from your AI to someone\u2019s phone. No account.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sudo5zzb",
+    "repoName": "slip-skill",
+    "repoBranch": "main"
+  },
+  "ray-manaloto/claude-code-marketplace": {
+    "name": "ray-manaloto/claude-code-marketplace",
+    "description": "A curated marketplace of Claude Code plugins by Raymond Manaloto. Each plugin is dual-purpose: useful to zero-knowledge users discovering a tool for the first time, and to deep practitioners integrating that tool into...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ray-manaloto",
+    "repoName": "claude-code-marketplace",
+    "repoBranch": "main"
   }
 }

@@ -4083,5 +4083,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "galleonlabs/hypergrok-trading-desk": {
+    "owner": "galleonlabs",
+    "name": "hypergrok-trading-desk",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
