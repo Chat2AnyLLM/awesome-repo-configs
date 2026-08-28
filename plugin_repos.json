@@ -22411,5 +22411,14 @@
     "repoOwner": "radkode",
     "repoName": "underwrite",
     "repoBranch": "main"
+  },
+  "OthmanAdi/planning-with-files": {
+    "name": "OthmanAdi/planning-with-files",
+    "description": "Persistent file-based planning for AI coding agents, with Markdown task plans, findings, progress logs, session recovery, and adapters for Claude Code, Codex CLI, Cursor, Kiro, OpenCode, and other SKILL.md-compatible agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OthmanAdi",
+    "repoName": "planning-with-files",
+    "repoBranch": "master"
   }
 }
