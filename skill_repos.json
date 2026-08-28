@@ -28457,5 +28457,112 @@
         "name": "claude-code-marketplace",
         "branch": "main",
         "enabled": true
+    },
+    "ergrelet/windiff": {
+        "owner": "ergrelet",
+        "name": "windiff",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fiorastudio/buddy": {
+        "owner": "fiorastudio",
+        "name": "buddy",
+        "branch": "master",
+        "enabled": true
+    },
+    "pulumi/agent-skills": {
+        "owner": "pulumi",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "massimodeluisa/recursive-decomposition-skill": {
+        "owner": "massimodeluisa",
+        "name": "recursive-decomposition-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Romandredan/1c-quality-gate": {
+        "owner": "Romandredan",
+        "name": "1c-quality-gate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "naderelewa/Product-to-Prod": {
+        "owner": "naderelewa",
+        "name": "Product-to-Prod",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jun0-ds/sonmat": {
+        "owner": "jun0-ds",
+        "name": "sonmat",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adamlinscott/claude-skills": {
+        "owner": "adamlinscott",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Zenetusken/consolidate-memory": {
+        "owner": "Zenetusken",
+        "name": "consolidate-memory",
+        "branch": "main",
+        "enabled": true
+    },
+    "kapella-hub/FirekeepHQ": {
+        "owner": "kapella-hub",
+        "name": "FirekeepHQ",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SteveKinzey/claude-code-tools-installer": {
+        "owner": "SteveKinzey",
+        "name": "claude-code-tools-installer",
+        "branch": "main",
+        "enabled": true
+    },
+    "HiMyNameIsDavidKim/slide-drawer-skill": {
+        "owner": "HiMyNameIsDavidKim",
+        "name": "slide-drawer-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "grimaldost/keel": {
+        "owner": "grimaldost",
+        "name": "keel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Anselmoo/werkstoff": {
+        "owner": "Anselmoo",
+        "name": "werkstoff",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShulkwiSEC/bugbounty.sa": {
+        "owner": "ShulkwiSEC",
+        "name": "bugbounty.sa",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MichaelDoesMarketing/Freestyle": {
+        "owner": "MichaelDoesMarketing",
+        "name": "Freestyle",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -4090,5 +4090,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Romandredan/1c-quality-gate": {
+    "owner": "Romandredan",
+    "name": "1c-quality-gate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jun0-ds/sonmat": {
+    "owner": "jun0-ds",
+    "name": "sonmat",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "grimaldost/keel": {
+    "owner": "grimaldost",
+    "name": "keel",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
