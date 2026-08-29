@@ -4139,5 +4139,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ArtJack/verdict": {
+    "owner": "ArtJack",
+    "name": "verdict",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -28776,5 +28776,98 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "camilleroux/genart-skill": {
+        "owner": "camilleroux",
+        "name": "genart-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aleksandr-alhoff/seo-landing": {
+        "owner": "aleksandr-alhoff",
+        "name": "seo-landing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "skmtc/skmtc": {
+        "owner": "skmtc",
+        "name": "skmtc",
+        "branch": "main",
+        "enabled": true
+    },
+    "ssheleg/make-skill": {
+        "owner": "ssheleg",
+        "name": "make-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "gul-labs/craftsman-marketplace": {
+        "owner": "gul-labs",
+        "name": "craftsman-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "willisrocks/boopmark": {
+        "owner": "willisrocks",
+        "name": "boopmark",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "acevod/trading-guardian-binance-agent-os": {
+        "owner": "acevod",
+        "name": "trading-guardian-binance-agent-os",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pedrovelasquez9/onbearding": {
+        "owner": "pedrovelasquez9",
+        "name": "onbearding",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tsudo/skills": {
+        "owner": "tsudo",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mrveiss/AutoBot-AI-Claude-dev-skills": {
+        "owner": "mrveiss",
+        "name": "AutoBot-AI-Claude-dev-skills",
+        "branch": "release",
+        "enabled": true
+    },
+    "KKL08/Portolan": {
+        "owner": "KKL08",
+        "name": "Portolan",
+        "branch": "main",
+        "enabled": true
+    },
+    "ajaygunalan/chapter-to-synced-lecture": {
+        "owner": "ajaygunalan",
+        "name": "chapter-to-synced-lecture",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dawson54068/zeabur-refugee": {
+        "owner": "dawson54068",
+        "name": "zeabur-refugee",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thephenyl02-creator/claude-tier": {
+        "owner": "thephenyl02-creator",
+        "name": "claude-tier",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

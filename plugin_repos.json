@@ -22852,5 +22852,140 @@
     "repoOwner": "SSFSKIM",
     "repoName": "designer",
     "repoBranch": "main"
+  },
+  "camilleroux/genart-skill": {
+    "name": "camilleroux/genart-skill",
+    "description": "Generative art skill for Claude Code \u2014 deterministic, hash-seeded, onchain-ready",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "camilleroux",
+    "repoName": "genart-skill",
+    "repoBranch": "main"
+  },
+  "tzachbon/claude-model-router-hook": {
+    "name": "tzachbon/claude-model-router-hook",
+    "description": "Claude Code hooks that auto-switch model tier based on task complexity",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tzachbon",
+    "repoName": "claude-model-router-hook",
+    "repoBranch": "main"
+  },
+  "skmtc/skmtc": {
+    "name": "skmtc/skmtc",
+    "description": "Skmtc is a declarative code generation framework for TypeScript",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skmtc",
+    "repoName": "skmtc",
+    "repoBranch": "main"
+  },
+  "ssheleg/make-skill": {
+    "name": "ssheleg/make-skill",
+    "description": "Create, audit, package, validate, and publish Agent Skills and Claude Code plugins across npm, GitHub, and skills-compatible agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ssheleg",
+    "repoName": "make-skill",
+    "repoBranch": "main"
+  },
+  "gul-labs/craftsman-marketplace": {
+    "name": "gul-labs/craftsman-marketplace",
+    "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten domains\u2014with plain-language findings and verified fixes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gul-labs",
+    "repoName": "craftsman-marketplace",
+    "repoBranch": "main"
+  },
+  "willisrocks/boopmark": {
+    "name": "willisrocks/boopmark",
+    "description": "A fast, self-hostable bookmark manager for humans and AI agents. Built with Rust, HTMX, and Tailwind CSS. Includes a CLI and Claude Code skill support.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "willisrocks",
+    "repoName": "boopmark",
+    "repoBranch": "main"
+  },
+  "pedrovelasquez9/onbearding": {
+    "name": "pedrovelasquez9/onbearding",
+    "description": "Let the bearded senior give you the onboarding. A Claude Code plugin: four prompts that map any unfamiliar codebase - infra, layered architecture, the flow file-by-file - then audit what was read vs. inferred.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pedrovelasquez9",
+    "repoName": "onbearding",
+    "repoBranch": "main"
+  },
+  "tsudo/skills": {
+    "name": "tsudo/skills",
+    "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framework.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tsudo",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "mrveiss/AutoBot-AI-Claude-dev-skills": {
+    "name": "mrveiss/AutoBot-AI-Claude-dev-skills",
+    "description": "AutoBot-AI-specific Claude Code dev skills as a plugin marketplace \u2014 same workflow setup for every platform developer, one install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrveiss",
+    "repoName": "AutoBot-AI-Claude-dev-skills",
+    "repoBranch": "release"
+  },
+  "isquividet/claude-plugin-preflight": {
+    "name": "isquividet/claude-plugin-preflight",
+    "description": "Preflight for Claude Code plugin marketplaces: adds your marketplace and INSTALLS it in a throwaway profile the way a stranger would, reporting validate and install as separate results. Built and maintained by RJH Sig...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "isquividet",
+    "repoName": "claude-plugin-preflight",
+    "repoBranch": "main"
+  },
+  "emgiezet/dumbline": {
+    "name": "emgiezet/dumbline",
+    "description": "Claude Code status-line indicator: green SMART below 100k input tokens, red DUMB at or above. Built on Dex Horthy's Smart Zone / Dumb Zone framing and Chroma's Context Rot research.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emgiezet",
+    "repoName": "dumbline",
+    "repoBranch": "main"
+  },
+  "ArtJack/verdict": {
+    "name": "ArtJack/verdict",
+    "description": "Claude Code QA agent with memory: baseline \u2192 delta runs (NEW/REGRESSED), flaky quarantine with expiry, evidence-cited release verdicts. Ships its own seeded-defect eval \u2014 first published run: 8/8.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArtJack",
+    "repoName": "verdict",
+    "repoBranch": "main"
+  },
+  "gabrielhom/claude-discord-presence": {
+    "name": "gabrielhom/claude-discord-presence",
+    "description": "Discord Rich Presence for Claude Code CLI. Zero deps, works on WSL2.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gabrielhom",
+    "repoName": "claude-discord-presence",
+    "repoBranch": "main"
+  },
+  "KKL08/Portolan": {
+    "name": "KKL08/Portolan",
+    "description": "Long-horizon task management plugin for Claude Code: task alignment, persistent execution, verification",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KKL08",
+    "repoName": "Portolan",
+    "repoBranch": "main"
+  },
+  "thephenyl02-creator/claude-tier": {
+    "name": "thephenyl02-creator/claude-tier",
+    "description": "A tiny Claude Code skill: /tier installs a quality-first, cost-efficient model/effort-tiering rule into any project's CLAUDE.md.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thephenyl02-creator",
+    "repoName": "claude-tier",
+    "repoBranch": "main"
   }
 }
