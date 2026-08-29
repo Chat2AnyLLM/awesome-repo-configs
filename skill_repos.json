@@ -28564,5 +28564,97 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "EmanueleMinotto/minottobot": {
+        "owner": "EmanueleMinotto",
+        "name": "minottobot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cbrock84/headcount": {
+        "owner": "cbrock84",
+        "name": "headcount",
+        "branch": "main",
+        "enabled": true
+    },
+    "shuji-bonji/pdf-trust-skill": {
+        "owner": "shuji-bonji",
+        "name": "pdf-trust-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MagicYangG/claude-drives-gemini": {
+        "owner": "MagicYangG",
+        "name": "claude-drives-gemini",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "viktorinkov/shook": {
+        "owner": "viktorinkov",
+        "name": "shook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jessicahiggs/product-sense-mock-interview": {
+        "owner": "jessicahiggs",
+        "name": "product-sense-mock-interview",
+        "branch": "main",
+        "enabled": true
+    },
+    "danilogj/fitcoach-pro": {
+        "owner": "danilogj",
+        "name": "fitcoach-pro",
+        "branch": "main",
+        "enabled": true
+    },
+    "Pr1m4lc0d3/paraphrasis": {
+        "owner": "Pr1m4lc0d3",
+        "name": "paraphrasis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Pr1m4lc0d3/metaphrasis": {
+        "owner": "Pr1m4lc0d3",
+        "name": "metaphrasis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Cratis/AI.Distribution": {
+        "owner": "Cratis",
+        "name": "AI.Distribution",
+        "branch": "main",
+        "enabled": true
+    },
+    "theAnirudhKumar/work-design": {
+        "owner": "theAnirudhKumar",
+        "name": "work-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack": {
+        "owner": "Mattakushi432",
+        "name": "Claude-Code-Skills-Custom-DevTools-Pack",
+        "branch": "main",
+        "enabled": true
+    },
+    "petmakris/claude-annotate": {
+        "owner": "petmakris",
+        "name": "claude-annotate",
+        "branch": "main",
+        "enabled": true
+    },
+    "danielbentes/digital-twin": {
+        "owner": "danielbentes",
+        "name": "digital-twin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

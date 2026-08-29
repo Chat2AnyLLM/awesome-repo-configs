@@ -4111,5 +4111,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "cbrock84/headcount": {
+    "owner": "cbrock84",
+    "name": "headcount",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack": {
+    "owner": "Mattakushi432",
+    "name": "Claude-Code-Skills-Custom-DevTools-Pack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "danielbentes/digital-twin": {
+    "owner": "danielbentes",
+    "name": "digital-twin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

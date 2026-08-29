@@ -22627,5 +22627,122 @@
     "repoOwner": "Anselmoo",
     "repoName": "werkstoff",
     "repoBranch": "main"
+  },
+  "EmanueleMinotto/minottobot": {
+    "name": "EmanueleMinotto/minottobot",
+    "description": "Your friendly neighborhood QA developer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EmanueleMinotto",
+    "repoName": "minottobot",
+    "repoBranch": "main"
+  },
+  "cbrock84/headcount": {
+    "name": "cbrock84/headcount",
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently installable.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cbrock84",
+    "repoName": "headcount",
+    "repoBranch": "main"
+  },
+  "Pr1m4lc0d3/wheel-to-talk": {
+    "name": "Pr1m4lc0d3/wheel-to-talk",
+    "description": "Hold the middle mouse button to dictate voice-to-text in Claude Code. A Claude Code plugin (Windows).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pr1m4lc0d3",
+    "repoName": "wheel-to-talk",
+    "repoBranch": "main"
+  },
+  "viktorinkov/shook": {
+    "name": "viktorinkov/shook",
+    "description": "SHOOK: hooks that forces ASD-STE100 Simplified Technical English on every reply. Lint gate, /ste toggle, status line badge. Companion to AminBlg/SimpleEnglish.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "viktorinkov",
+    "repoName": "shook",
+    "repoBranch": "main"
+  },
+  "Pr1m4lc0d3/paraphrasis": {
+    "name": "Pr1m4lc0d3/paraphrasis",
+    "description": "Say the same thing to a different audience without the claim moving. A Claude Code skill: sense-for-sense restatement with a fidelity ledger and nine named ways a claim drifts under rewriting.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pr1m4lc0d3",
+    "repoName": "paraphrasis",
+    "repoBranch": "main"
+  },
+  "Pr1m4lc0d3/metaphrasis": {
+    "name": "Pr1m4lc0d3/metaphrasis",
+    "description": "Read audio you cannot hear. A Claude Code skill that turns music and narrated video into measurement a model can act on \u2014 tempo, key, loudness, structure, cut points, and whether the music is burying the voice.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pr1m4lc0d3",
+    "repoName": "metaphrasis",
+    "repoBranch": "main"
+  },
+  "Djarvur/cc-mplace": {
+    "name": "Djarvur/cc-mplace",
+    "description": "Curated plugin marketplace for coding agents \u2014 Claude Code, Codex, Cursor, Grok Build and GitHub Copilot CLI, one native index per host.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Djarvur",
+    "repoName": "cc-mplace",
+    "repoBranch": "main"
+  },
+  "Cratis/AI.Distribution": {
+    "name": "Cratis/AI.Distribution",
+    "description": "Installable Cratis AI skills and plugin marketplaces. 0.x releases remain unsupported evaluations.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Cratis",
+    "repoName": "AI.Distribution",
+    "repoBranch": "main"
+  },
+  "isquividet/claude-code-hooks": {
+    "name": "isquividet/claude-code-hooks",
+    "description": "Two PreToolUse hooks for Claude Code: one refuses destructive shell commands before they run, one refuses to read your credential files at all. Install as a plugin: claude plugin marketplace add isquividet/claude-code...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "isquividet",
+    "repoName": "claude-code-hooks",
+    "repoBranch": "main"
+  },
+  "theAnirudhKumar/work-design": {
+    "name": "theAnirudhKumar/work-design",
+    "description": "Design the work before you do it. AI skills for the moments where one deliberate decision saves the rework: vetting a tool before you sign up, carrying context between sessions, catching an expensive request before it...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theAnirudhKumar",
+    "repoName": "work-design",
+    "repoBranch": "main"
+  },
+  "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack": {
+    "name": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
+    "description": "A curated pack of custom Claude Code skills for developers \u2014 installable as a Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mattakushi432",
+    "repoName": "Claude-Code-Skills-Custom-DevTools-Pack",
+    "repoBranch": "main"
+  },
+  "petmakris/claude-annotate": {
+    "name": "petmakris/claude-annotate",
+    "description": "Read Claude's long answers in a browser and comment on any block; Claude rewrites that block in place",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "petmakris",
+    "repoName": "claude-annotate",
+    "repoBranch": "main"
+  },
+  "danielbentes/digital-twin": {
+    "name": "danielbentes/digital-twin",
+    "description": "Mine your Claude Code session logs into a personalized profile, twin sub-agent, and CLAUDE.md patch \u2014 local-first, your logs never leave your machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danielbentes",
+    "repoName": "digital-twin",
+    "repoBranch": "main"
   }
 }
