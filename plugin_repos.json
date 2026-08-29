@@ -22744,5 +22744,113 @@
     "repoOwner": "danielbentes",
     "repoName": "digital-twin",
     "repoBranch": "main"
+  },
+  "nitinjain999/platform-skills": {
+    "name": "nitinjain999/platform-skills",
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Actions \u2014 with an optional Claude plugin layer for interactive guidance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nitinjain999",
+    "repoName": "platform-skills",
+    "repoBranch": "main"
+  },
+  "kalyvask/winning-writing": {
+    "name": "kalyvask/winning-writing",
+    "description": "Agentic writing toolkit built from Glenn Kramon's Winning Writing at Stanford GSB and Rachel Konrad's cold-outreach guest lectures. 30 Claude skills, a browser Coach with span-level inline critic and refinement chat,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kalyvask",
+    "repoName": "winning-writing",
+    "repoBranch": "main"
+  },
+  "Emlembow/skills": {
+    "name": "Emlembow/skills",
+    "description": "A collection of custom skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Emlembow",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "MK27MK/no-bs-skills": {
+    "name": "MK27MK/no-bs-skills",
+    "description": "Agent skills for pragmatic programmers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MK27MK",
+    "repoName": "no-bs-skills",
+    "repoBranch": "main"
+  },
+  "ihudak/ihudak-claude-plugins": {
+    "name": "ihudak/ihudak-claude-plugins",
+    "description": "Claude Code plugins for the full feature lifecycle: idea \u2192 Value Increment \u2192 ARD \u2192 spec \u2192 design \u2192 Epics \u2192 implementation \u2192 docs \u2192 release notes, each gated by an Opus review. Tracks what every feature costs in $ by p...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ihudak",
+    "repoName": "ihudak-claude-plugins",
+    "repoBranch": "main"
+  },
+  "FaisalNoman/playwright-skills": {
+    "name": "FaisalNoman/playwright-skills",
+    "description": "Playwright E2E skills for AI agents: spec generator + real-time dashboard. Installs to Claude Code, Codex, Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FaisalNoman",
+    "repoName": "playwright-skills",
+    "repoBranch": "master"
+  },
+  "enthrium/open-enthrium-ai-mcp-server": {
+    "name": "enthrium/open-enthrium-ai-mcp-server",
+    "description": "MCP server exposing a rich enterprise connector catalog for Claude Code, Cursor, Windsurf, and any MCP client",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enthrium",
+    "repoName": "open-enthrium-ai-mcp-server",
+    "repoBranch": "main"
+  },
+  "rohitguta2432/agentgrade": {
+    "name": "rohitguta2432/agentgrade",
+    "description": "Production-readiness auditor for AI agents \u2014 a Claude Code skill that grades any agent repo across evaluation, observability, data foundation, orchestration & governance, then tells you exactly what to build next",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rohitguta2432",
+    "repoName": "agentgrade",
+    "repoBranch": "main"
+  },
+  "CB-Systemer/realequity-plugins-shared": {
+    "name": "CB-Systemer/realequity-plugins-shared",
+    "description": "Delte Claude-plugins til RealEquity-kunder. Danske vurderings- og statusrapporter som PDF, bygget direkte p\u00e5 en RealEquity-sag.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CB-Systemer",
+    "repoName": "realequity-plugins-shared",
+    "repoBranch": "main"
+  },
+  "Wooinxlkz/Arabic-formal-writer": {
+    "name": "Wooinxlkz/Arabic-formal-writer",
+    "description": "Claude plugin for formal Modern Standard Arabic writing & review \u2014 official letters, CVs, reports, contracts. Handles Gulf/Egyptian/Levantine/Maghrebi conventions instead of defaulting to one region. Skill + reviewer...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Wooinxlkz",
+    "repoName": "Arabic-formal-writer",
+    "repoBranch": "main"
+  },
+  "wwwcojp/loop-hooks": {
+    "name": "wwwcojp/loop-hooks",
+    "description": "Change-gated verification for Claude Code: run your verify command at end of turn, but only when something actually changed",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wwwcojp",
+    "repoName": "loop-hooks",
+    "repoBranch": "main"
+  },
+  "SSFSKIM/designer": {
+    "name": "SSFSKIM/designer",
+    "description": "designer \u2014 a Claude Code plugin that gives Claude a working UI-design practice: commit to one stance, build on semantic tokens, use real content, hold an accessibility and taste floor. Includes an Essentialist persona...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SSFSKIM",
+    "repoName": "designer",
+    "repoBranch": "main"
   }
 }

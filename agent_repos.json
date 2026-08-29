@@ -4132,5 +4132,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Wooinxlkz/Arabic-formal-writer": {
+    "owner": "Wooinxlkz",
+    "name": "Arabic-formal-writer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

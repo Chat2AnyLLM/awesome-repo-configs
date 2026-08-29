@@ -28656,5 +28656,125 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "nitinjain999/platform-skills": {
+        "owner": "nitinjain999",
+        "name": "platform-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kalyvask/winning-writing": {
+        "owner": "kalyvask",
+        "name": "winning-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Emlembow/skills": {
+        "owner": "Emlembow",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MK27MK/no-bs-skills": {
+        "owner": "MK27MK",
+        "name": "no-bs-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ihudak/ihudak-claude-plugins": {
+        "owner": "ihudak",
+        "name": "ihudak-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "drtgryhf-svg/growth-compass": {
+        "owner": "drtgryhf-svg",
+        "name": "growth-compass",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Kerliula/ship-me": {
+        "owner": "Kerliula",
+        "name": "ship-me",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FaisalNoman/playwright-skills": {
+        "owner": "FaisalNoman",
+        "name": "playwright-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "enthrium/open-enthrium-ai-mcp-server": {
+        "owner": "enthrium",
+        "name": "open-enthrium-ai-mcp-server",
+        "branch": "main",
+        "enabled": true
+    },
+    "xhubio/nanook-skill": {
+        "owner": "xhubio",
+        "name": "nanook-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aksheyw/context-bridge": {
+        "owner": "aksheyw",
+        "name": "context-bridge",
+        "branch": "main",
+        "enabled": true
+    },
+    "apnatvar/web-development-and-online-marketing-skills": {
+        "owner": "apnatvar",
+        "name": "web-development-and-online-marketing-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "drveles/teach-me": {
+        "owner": "drveles",
+        "name": "teach-me",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rohitguta2432/agentgrade": {
+        "owner": "rohitguta2432",
+        "name": "agentgrade",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CB-Systemer/realequity-plugins-shared": {
+        "owner": "CB-Systemer",
+        "name": "realequity-plugins-shared",
+        "branch": "main",
+        "enabled": true
+    },
+    "Wooinxlkz/Arabic-formal-writer": {
+        "owner": "Wooinxlkz",
+        "name": "Arabic-formal-writer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wwwcojp/loop-hooks": {
+        "owner": "wwwcojp",
+        "name": "loop-hooks",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SSFSKIM/designer": {
+        "owner": "SSFSKIM",
+        "name": "designer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
