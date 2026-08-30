@@ -23023,5 +23023,41 @@
     "repoOwner": "AlpayC",
     "repoName": "mcp-migration-check",
     "repoBranch": "main"
+  },
+  "Jamaalx/claude-chat-namer": {
+    "name": "Jamaalx/claude-chat-namer",
+    "description": "Claude Code plugin: name, search, and resume your conversations. No more UUID chaos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jamaalx",
+    "repoName": "claude-chat-namer",
+    "repoBranch": "master"
+  },
+  "riadchaban994-bot/discovery-os": {
+    "name": "riadchaban994-bot/discovery-os",
+    "description": "Product discovery for AI agents, done properly. Seven skills that route any discovery question to the method your evidence can support, and refuse to invent a customer, a number, or a confidence level.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "riadchaban994-bot",
+    "repoName": "discovery-os",
+    "repoBranch": "main"
+  },
+  "duchopj5b2bw4-byte/devpack-pro": {
+    "name": "duchopj5b2bw4-byte/devpack-pro",
+    "description": "10 battle-tested Claude Code plugins \u2014 every one dogfooded on real code. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "duchopj5b2bw4-byte",
+    "repoName": "devpack-pro",
+    "repoBranch": "master"
+  },
+  "scottcrosby-securebine/doctrine-skills": {
+    "name": "scottcrosby-securebine/doctrine-skills",
+    "description": "Claude Code plugin: execution doctrine \u2014 parallel agents in phases and waves, adversarial red-teaming, looping until confident, ruthless simplicity",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scottcrosby-securebine",
+    "repoName": "doctrine-skills",
+    "repoBranch": "main"
   }
 }

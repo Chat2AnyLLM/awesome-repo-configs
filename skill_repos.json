@@ -28977,5 +28977,78 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Adkid-Zephyr/anti-defensive-writing-Skill": {
+        "owner": "Adkid-Zephyr",
+        "name": "anti-defensive-writing-Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jamaalx/claude-chat-namer": {
+        "owner": "Jamaalx",
+        "name": "claude-chat-namer",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "starzzBond/wheel-radar": {
+        "owner": "starzzBond",
+        "name": "wheel-radar",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lifei6671/code-delivery-review-skill": {
+        "owner": "lifei6671",
+        "name": "code-delivery-review-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "riadchaban994-bot/discovery-os": {
+        "owner": "riadchaban994-bot",
+        "name": "discovery-os",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "naercus/gpt-image-skill": {
+        "owner": "naercus",
+        "name": "gpt-image-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "opendatadiscovery/odd-team": {
+        "owner": "opendatadiscovery",
+        "name": "odd-team",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "duchopj5b2bw4-byte/devpack-pro": {
+        "owner": "duchopj5b2bw4-byte",
+        "name": "devpack-pro",
+        "branch": "master",
+        "enabled": true
+    },
+    "scottcrosby-securebine/doctrine-skills": {
+        "owner": "scottcrosby-securebine",
+        "name": "doctrine-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bittencourtthulio/legadox": {
+        "owner": "bittencourtthulio",
+        "name": "legadox",
+        "branch": "main",
+        "enabled": true
+    },
+    "bittencourtthulio/mergex": {
+        "owner": "bittencourtthulio",
+        "name": "mergex",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
