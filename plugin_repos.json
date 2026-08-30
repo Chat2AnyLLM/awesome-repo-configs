@@ -23014,5 +23014,14 @@
     "repoOwner": "jannotix",
     "repoName": "claude-code-route",
     "repoBranch": "main"
+  },
+  "AlpayC/mcp-migration-check": {
+    "name": "AlpayC/mcp-migration-check",
+    "description": "Deterministic readiness checker for the MCP 2026-07-28 specification break, plus the skill that carries out the migration. A dependency-free rule engine scans TypeScript, Python and Rust servers or probes a live endpoint, returning a letter grade with per-finding fixes and the spec section each one derives from.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AlpayC",
+    "repoName": "mcp-migration-check",
+    "repoBranch": "main"
   }
 }
