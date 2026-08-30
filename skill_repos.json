@@ -28869,5 +28869,113 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Agents365-ai/yt2bb": {
+        "owner": "Agents365-ai",
+        "name": "yt2bb",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brunob54/superpowers-orchestrator": {
+        "owner": "brunob54",
+        "name": "superpowers-orchestrator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chris-hendrix/ai-hub": {
+        "owner": "chris-hendrix",
+        "name": "ai-hub",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Juuzoe/stop-design-slop": {
+        "owner": "Juuzoe",
+        "name": "stop-design-slop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lewes2/archpresent": {
+        "owner": "lewes2",
+        "name": "archpresent",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "glichtenthal/the-quorum": {
+        "owner": "glichtenthal",
+        "name": "the-quorum",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dylnbaker15/Claude-Skills-For-Business-Intelligence": {
+        "owner": "dylnbaker15",
+        "name": "Claude-Skills-For-Business-Intelligence",
+        "branch": "main",
+        "enabled": true
+    },
+    "Loriabient5377/blahblahblah-skill": {
+        "owner": "Loriabient5377",
+        "name": "blahblahblah-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Gonadotrophic-tangent41/ux-ui-skills": {
+        "owner": "Gonadotrophic-tangent41",
+        "name": "ux-ui-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "a1964378/geo-mcp-servers": {
+        "owner": "a1964378",
+        "name": "geo-mcp-servers",
+        "branch": "main",
+        "enabled": true
+    },
+    "Jung217/Any-Logo-illustrations": {
+        "owner": "Jung217",
+        "name": "Any-Logo-illustrations",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MaxML154/travel_planner": {
+        "owner": "MaxML154",
+        "name": "travel_planner",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ccvia4072/project-knowledge-base": {
+        "owner": "Ccvia4072",
+        "name": "project-knowledge-base",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "welovejeff/paper-session": {
+        "owner": "welovejeff",
+        "name": "paper-session",
+        "branch": "main",
+        "enabled": true
+    },
+    "SurendharVr/seo-repair": {
+        "owner": "SurendharVr",
+        "name": "seo-repair",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jannotix/claude-code-route": {
+        "owner": "jannotix",
+        "name": "claude-code-route",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

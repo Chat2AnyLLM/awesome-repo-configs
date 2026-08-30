@@ -22987,5 +22987,32 @@
     "repoOwner": "thephenyl02-creator",
     "repoName": "claude-tier",
     "repoBranch": "main"
+  },
+  "brunob54/superpowers-orchestrator": {
+    "name": "brunob54/superpowers-orchestrator",
+    "description": "Claude Code plugin that runs a development pipeline autonomously: spec \u2192 plan \u2192 plan-review rounds \u2192 batched subagent implementation \u2192 code-review rounds, stopping only on errors. Fork of obra/superpowers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brunob54",
+    "repoName": "superpowers-orchestrator",
+    "repoBranch": "main"
+  },
+  "SurendharVr/seo-repair": {
+    "name": "SurendharVr/seo-repair",
+    "description": "Technical SEO audit and repair for Claude Code. Crawls your site for indexing problems, orphan pages, duplicate content, broken links, thin content and schema errors, then gates the fixes in dependency order and never...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SurendharVr",
+    "repoName": "seo-repair",
+    "repoBranch": "main"
+  },
+  "jannotix/claude-code-route": {
+    "name": "jannotix/claude-code-route",
+    "description": "Plan, execute, review. A Claude Code skill where every requirement names the symbol that owns it and closes only on something that was executed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jannotix",
+    "repoName": "claude-code-route",
+    "repoBranch": "main"
   }
 }

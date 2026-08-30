@@ -4146,5 +4146,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "brunob54/superpowers-orchestrator": {
+    "owner": "brunob54",
+    "name": "superpowers-orchestrator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
