@@ -29164,5 +29164,86 @@
         "name": "eusend-skill",
         "branch": "main",
         "enabled": true
+    },
+    "ariaxhan/kernel-claude": {
+        "owner": "ariaxhan",
+        "name": "kernel-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "using-system/oddyssey": {
+        "owner": "using-system",
+        "name": "oddyssey",
+        "branch": "main",
+        "enabled": true
+    },
+    "Fh-Ndiritu/list-my-startup-skill": {
+        "owner": "Fh-Ndiritu",
+        "name": "list-my-startup-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MaciejZet/agent-skills": {
+        "owner": "MaciejZet",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jeffersongoncalves/claude-code-obsidian-notes": {
+        "owner": "jeffersongoncalves",
+        "name": "claude-code-obsidian-notes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "trananhtung/viral-content-skills": {
+        "owner": "trananhtung",
+        "name": "viral-content-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kshyam/opencode-and-claude-skills": {
+        "owner": "kshyam",
+        "name": "opencode-and-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "shepaland/LexForge": {
+        "owner": "shepaland",
+        "name": "LexForge",
+        "branch": "main",
+        "enabled": true
+    },
+    "0trm/gallop": {
+        "owner": "0trm",
+        "name": "gallop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "msoliman6/freeze-and-swap": {
+        "owner": "msoliman6",
+        "name": "freeze-and-swap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eralabs-ai/webmcp": {
+        "owner": "eralabs-ai",
+        "name": "webmcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bittencourtthulio/buildx": {
+        "owner": "bittencourtthulio",
+        "name": "buildx",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

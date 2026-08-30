@@ -23167,5 +23167,77 @@
     "repoOwner": "eusend-dev",
     "repoName": "eusend-skill",
     "repoBranch": "main"
+  },
+  "ariaxhan/kernel-claude": {
+    "name": "ariaxhan/kernel-claude",
+    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ariaxhan",
+    "repoName": "kernel-claude",
+    "repoBranch": "main"
+  },
+  "using-system/oddyssey": {
+    "name": "using-system/oddyssey",
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana stack - or remote ones on any OpenTelemetry backend - and feed the next spec-driven improvement loop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "using-system",
+    "repoName": "oddyssey",
+    "repoBranch": "main"
+  },
+  "MaciejZet/agent-skills": {
+    "name": "MaciejZet/agent-skills",
+    "description": "Agent skills for Claude Code, Cursor and Codex \u2014 14 specialists with CI, 336 tests and 75 routing evals. Research, product ops, QA, release gates, decisions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MaciejZet",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "jeffersongoncalves/claude-code-obsidian-notes": {
+    "name": "jeffersongoncalves/claude-code-obsidian-notes",
+    "description": "Claude Code plugin: skill + /obsidian-note command that persist notes into an Obsidian vault via obsidian-notes-cli.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jeffersongoncalves",
+    "repoName": "claude-code-obsidian-notes",
+    "repoBranch": "main"
+  },
+  "0trm/gallop": {
+    "name": "0trm/gallop",
+    "description": "\ud83d\udc0e Routes a product question to the method it deserves, then runs that method with checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0trm",
+    "repoName": "gallop",
+    "repoBranch": "main"
+  },
+  "n-pillai/goal-kit": {
+    "name": "n-pillai/goal-kit",
+    "description": "A portable long-horizon goal system for Claude Code: durable objectives that survive session breaks, five lifecycle commands, and a continuation loop runner.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "n-pillai",
+    "repoName": "goal-kit",
+    "repoBranch": "master"
+  },
+  "eralabs-ai/webmcp": {
+    "name": "eralabs-ai/webmcp",
+    "description": "Make your website agent-ready with WebMCP. Coding-agent plugin for Claude Code, Codex, and Cursor: audit, implement, and verify document.modelContext tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eralabs-ai",
+    "repoName": "webmcp",
+    "repoBranch": "main"
+  },
+  "agent-toolworks/plugins": {
+    "name": "agent-toolworks/plugins",
+    "description": "Plugin marketplace for agent-toolworks \u2014 add once, get every tool in the org.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agent-toolworks",
+    "repoName": "plugins",
+    "repoBranch": "main"
   }
 }
