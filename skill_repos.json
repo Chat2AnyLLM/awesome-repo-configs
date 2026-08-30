@@ -29050,5 +29050,119 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "liustack/pptwise": {
+        "owner": "liustack",
+        "name": "pptwise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "voidmatcha/ui-clone-skills": {
+        "owner": "voidmatcha",
+        "name": "ui-clone-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "santoshkanthety/powerbi-agent": {
+        "owner": "santoshkanthety",
+        "name": "powerbi-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "santoshkanthety/databricks-agent": {
+        "owner": "santoshkanthety",
+        "name": "databricks-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ibnaleem/osint-skills": {
+        "owner": "ibnaleem",
+        "name": "osint-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "punkaze/skills": {
+        "owner": "punkaze",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "cptnbg/relay": {
+        "owner": "cptnbg",
+        "name": "relay",
+        "branch": "main",
+        "enabled": true
+    },
+    "niuyupeng/CNS-Skills": {
+        "owner": "niuyupeng",
+        "name": "CNS-Skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "choiHkk/lodestone": {
+        "owner": "choiHkk",
+        "name": "lodestone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rivendell-investment/edgepilot-research-claude": {
+        "owner": "Rivendell-investment",
+        "name": "edgepilot-research-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "savvides/jtbd": {
+        "owner": "savvides",
+        "name": "jtbd",
+        "branch": "main",
+        "enabled": true
+    },
+    "qndls42/cc-status-lite": {
+        "owner": "qndls42",
+        "name": "cc-status-lite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "designlesshq/designless-agent": {
+        "owner": "designlesshq",
+        "name": "designless-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "agent-toolworks/token-save": {
+        "owner": "agent-toolworks",
+        "name": "token-save",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mephistopheles4/grimoire": {
+        "owner": "mephistopheles4",
+        "name": "grimoire",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vivantel/kms": {
+        "owner": "vivantel",
+        "name": "kms",
+        "branch": "master",
+        "enabled": true
+    },
+    "eusend-dev/eusend-skill": {
+        "owner": "eusend-dev",
+        "name": "eusend-skill",
+        "branch": "main",
+        "enabled": true
     }
 }

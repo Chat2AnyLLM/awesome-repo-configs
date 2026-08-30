@@ -23059,5 +23059,113 @@
     "repoOwner": "scottcrosby-securebine",
     "repoName": "doctrine-skills",
     "repoBranch": "main"
+  },
+  "voidmatcha/ui-clone-skills": {
+    "name": "voidmatcha/ui-clone-skills",
+    "description": "Motion forensics for the animated web. A Claude Code & Codex plugin that reverse-engineers a live URL into React + Tailwind \u2014 pulling real CSS + animation params from JS bundles (GSAP/Framer Motion/Webflow IX2) and ve...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "voidmatcha",
+    "repoName": "ui-clone-skills",
+    "repoBranch": "main"
+  },
+  "punkaze/skills": {
+    "name": "punkaze/skills",
+    "description": "punkaze's Claude Code agent skills collection (plugin marketplace). Ships the bruno skill: author/generate/run Bruno .bru API collections.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "punkaze",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "cptnbg/relay": {
+    "name": "cptnbg/relay",
+    "description": "Run a long multi-phase build to completion across automatically chained Claude Code sessions. Sandboxed by default, with a consented full-trust mode for work that needs SSH or the network.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cptnbg",
+    "repoName": "relay",
+    "repoBranch": "main"
+  },
+  "niuyupeng/CNS-Skills": {
+    "name": "niuyupeng/CNS-Skills",
+    "description": "Evidence-first scientific title optimization and manuscript revision for Cell, Nature, Science, and leading conferences\u2014natural academic English, verified citations, figures/tables, and clean-submission DOCX QA.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "niuyupeng",
+    "repoName": "CNS-Skills",
+    "repoBranch": "main"
+  },
+  "choiHkk/lodestone": {
+    "name": "choiHkk/lodestone",
+    "description": "Pulls the code that matters out of the mass \u2014 matched by meaning, not by name. An Agent Skill for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "choiHkk",
+    "repoName": "lodestone",
+    "repoBranch": "main"
+  },
+  "savvides/jtbd": {
+    "name": "savvides/jtbd",
+    "description": "Jobs to Be Done skills for Claude Code. Turn customer interview transcripts into structured, version-controlled demand evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "savvides",
+    "repoName": "jtbd",
+    "repoBranch": "main"
+  },
+  "qndls42/cc-status-lite": {
+    "name": "qndls42/cc-status-lite",
+    "description": "Two-line Claude Code status line: context usage plus your 5-hour and weekly limits, each with the time it resets. macOS, Linux, Windows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qndls42",
+    "repoName": "cc-status-lite",
+    "repoBranch": "main"
+  },
+  "designlesshq/designless-agent": {
+    "name": "designlesshq/designless-agent",
+    "description": "Designless agent: your brand's design judgment, served to coding agents at runtime. Source-visible plugin for Claude Code, Codex, and Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "designlesshq",
+    "repoName": "designless-agent",
+    "repoBranch": "main"
+  },
+  "agent-toolworks/token-save": {
+    "name": "agent-toolworks/token-save",
+    "description": "Measure what your AI coding sessions actually cost, then act on advice derived from your own numbers \u2014 not someone else's.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agent-toolworks",
+    "repoName": "token-save",
+    "repoBranch": "main"
+  },
+  "mephistopheles4/grimoire": {
+    "name": "mephistopheles4/grimoire",
+    "description": "A spellbook of agent skills for AI. Cast wisely.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mephistopheles4",
+    "repoName": "grimoire",
+    "repoBranch": "main"
+  },
+  "vivantel/kms": {
+    "name": "vivantel/kms",
+    "description": "Vivantel KMS: a Claude Code / Codex plugin marketplace of knowledge-management skills \u2014 capture decisions as durable, traceable artifacts and keep them current, queryable, and attributable across sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vivantel",
+    "repoName": "kms",
+    "repoBranch": "master"
+  },
+  "eusend-dev/eusend-skill": {
+    "name": "eusend-dev/eusend-skill",
+    "description": "Official Claude Code plugin for eusend \u2014 a skill that teaches Claude how eusend behaves, plus the eusend MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eusend-dev",
+    "repoName": "eusend-skill",
+    "repoBranch": "main"
   }
 }

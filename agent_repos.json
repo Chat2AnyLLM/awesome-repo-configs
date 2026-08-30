@@ -4174,5 +4174,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "designlesshq/designless-agent": {
+    "owner": "designlesshq",
+    "name": "designless-agent",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
