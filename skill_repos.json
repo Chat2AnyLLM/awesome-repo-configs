@@ -29518,5 +29518,127 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "nota-america/forgecat-agent-profiles": {
+        "owner": "nota-america",
+        "name": "forgecat-agent-profiles",
+        "branch": "main",
+        "enabled": true
+    },
+    "proyecto26/sherlock-ai-plugin": {
+        "owner": "proyecto26",
+        "name": "sherlock-ai-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FynePool/job-hunter-template": {
+        "owner": "FynePool",
+        "name": "job-hunter-template",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Kandler3/yandex-tracker-skill": {
+        "owner": "Kandler3",
+        "name": "yandex-tracker-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dreamiurg/harness-map": {
+        "owner": "dreamiurg",
+        "name": "harness-map",
+        "branch": "main",
+        "enabled": true
+    },
+    "wilbeibi/wilbeibi-skills": {
+        "owner": "wilbeibi",
+        "name": "wilbeibi-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "abouchard11/midnight-seo-skills": {
+        "owner": "abouchard11",
+        "name": "midnight-seo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SpoiledMilkLabs/skills": {
+        "owner": "SpoiledMilkLabs",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "godilley/agent-tiers": {
+        "owner": "godilley",
+        "name": "agent-tiers",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saparjohnick/agents_control": {
+        "owner": "saparjohnick",
+        "name": "agents_control",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thinkingtoo/cc-agent-names": {
+        "owner": "thinkingtoo",
+        "name": "cc-agent-names",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "korya/swd-skills": {
+        "owner": "korya",
+        "name": "swd-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AgentTanuki/agent-guild": {
+        "owner": "AgentTanuki",
+        "name": "agent-guild",
+        "branch": "main",
+        "enabled": true
+    },
+    "leonardocandiani/keepwright": {
+        "owner": "leonardocandiani",
+        "name": "keepwright",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MosoFin/mosofin-finance-skills": {
+        "owner": "MosoFin",
+        "name": "mosofin-finance-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LarrySequino/skills": {
+        "owner": "LarrySequino",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "amylyra/agent-prompt-author": {
+        "owner": "amylyra",
+        "name": "agent-prompt-author",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kaelys-js/ttt-workflows": {
+        "owner": "kaelys-js",
+        "name": "ttt-workflows",
+        "branch": "main",
+        "enabled": true
     }
 }

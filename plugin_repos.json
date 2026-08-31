@@ -23374,5 +23374,104 @@
     "repoOwner": "ttalkkaklab",
     "repoName": "social-flow",
     "repoBranch": "main"
+  },
+  "nota-america/forgecat-agent-profiles": {
+    "name": "nota-america/forgecat-agent-profiles",
+    "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute ForgeCat packages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nota-america",
+    "repoName": "forgecat-agent-profiles",
+    "repoBranch": "main"
+  },
+  "proyecto26/sherlock-ai-plugin": {
+    "name": "proyecto26/sherlock-ai-plugin",
+    "description": "Sherlock AI plugin; Research & Implementation Supercharged with a curated list of AI skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "proyecto26",
+    "repoName": "sherlock-ai-plugin",
+    "repoBranch": "main"
+  },
+  "dreamiurg/harness-map": {
+    "name": "dreamiurg/harness-map",
+    "description": "Agent skill that generates an interactive dependency map of your AI harness (skills, agents, commands, MCP servers)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dreamiurg",
+    "repoName": "harness-map",
+    "repoBranch": "main"
+  },
+  "godilley/agent-tiers": {
+    "name": "godilley/agent-tiers",
+    "description": "Cost-aware sub-agent tiers for Claude Code - daily-drive a cheap Lead, buy the strong models per call. Guard hooks hard-stop force-pushes and secrets before they run. Plain files + POSIX shell, no server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "godilley",
+    "repoName": "agent-tiers",
+    "repoBranch": "master"
+  },
+  "saparjohnick/agents_control": {
+    "name": "saparjohnick/agents_control",
+    "description": "Control iTerm2 tabs including AI agents from Telegram",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saparjohnick",
+    "repoName": "agents_control",
+    "repoBranch": "main"
+  },
+  "thinkingtoo/cc-agent-names": {
+    "name": "thinkingtoo/cc-agent-names",
+    "description": "Gives each Claude Code session a human first name, so parallel sessions become people you can talk with and about.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thinkingtoo",
+    "repoName": "cc-agent-names",
+    "repoBranch": "main"
+  },
+  "korya/swd-skills": {
+    "name": "korya/swd-skills",
+    "description": "Software development skills for Claude Code, Codex CLI, and Agent Plugins clients: deep planning, root-cause analysis, rigorous PR review, spec-aware rebasing, agent-oriented repo docs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "korya",
+    "repoName": "swd-skills",
+    "repoBranch": "master"
+  },
+  "AgentTanuki/agent-guild": {
+    "name": "AgentTanuki/agent-guild",
+    "description": "The trust + settlement layer for AI agents \u2014 discover, vet, pay, and build portable reputation between autonomous agents. Hosted MCP + HTTP + the open AGI-1 standard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AgentTanuki",
+    "repoName": "agent-guild",
+    "repoBranch": "main"
+  },
+  "leonardocandiani/keepwright": {
+    "name": "leonardocandiani/keepwright",
+    "description": "Skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git. Rules estruturadas + CI/CD com auto-review OAuth + validators port\u00e1veis + deploy adaptado \u00e0 stack.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leonardocandiani",
+    "repoName": "keepwright",
+    "repoBranch": "main"
+  },
+  "MosoFin/mosofin-finance-skills": {
+    "name": "MosoFin/mosofin-finance-skills",
+    "description": "Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, bank reconciliation, journal entries, GL coding, financial statements, AR aging, three-way match. Ev...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MosoFin",
+    "repoName": "mosofin-finance-skills",
+    "repoBranch": "main"
+  },
+  "kaelys-js/ttt-workflows": {
+    "name": "kaelys-js/ttt-workflows",
+    "description": "Three engineering workflows as Claude Code skills \u2014 pr-review, sec-audit, trp. A git-backed plugin marketplace with a marketing site.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kaelys-js",
+    "repoName": "ttt-workflows",
+    "repoBranch": "main"
   }
 }

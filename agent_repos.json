@@ -4237,5 +4237,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "godilley/agent-tiers": {
+    "owner": "godilley",
+    "name": "agent-tiers",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "leonardocandiani/keepwright": {
+    "owner": "leonardocandiani",
+    "name": "keepwright",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
