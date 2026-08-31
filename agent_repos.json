@@ -4195,5 +4195,47 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "Mohamed-El-Sharqawy/agent-tutor": {
+    "owner": "Mohamed-El-Sharqawy",
+    "name": "agent-tutor",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Rememora/rememora": {
+    "owner": "Rememora",
+    "name": "rememora",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "blyatiful1/ultraweb": {
+    "owner": "blyatiful1",
+    "name": "ultraweb",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "YixuAnsensei/we-need-ds": {
+    "owner": "YixuAnsensei",
+    "name": "we-need-ds",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Deadshot-77/davinci": {
+    "owner": "Deadshot-77",
+    "name": "davinci",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ttalkkaklab/social-flow": {
+    "owner": "ttalkkaklab",
+    "name": "social-flow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

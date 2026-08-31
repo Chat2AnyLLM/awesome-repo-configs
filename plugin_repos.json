@@ -23302,5 +23302,77 @@
     "repoOwner": "ItachiDevv",
     "repoName": "llvideo",
     "repoBranch": "master"
+  },
+  "Rememora/rememora": {
+    "name": "Rememora/rememora",
+    "description": "Persistent, cross-agent memory for AI coding agents. Rust CLI + SQLite. Install as a Claude Code plugin \u2014 everything is automatic.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rememora",
+    "repoName": "rememora",
+    "repoBranch": "main"
+  },
+  "blyatiful1/ultraweb": {
+    "name": "blyatiful1/ultraweb",
+    "description": "A design studio for Claude Code. A short scoping interview, three mockups to choose from, then a production-grade Next.js 16 site built through real review checkpoints \u2014 with preview URLs you check on your own phone....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blyatiful1",
+    "repoName": "ultraweb",
+    "repoBranch": "main"
+  },
+  "kenshinice-ai/apple-notes-tagger": {
+    "name": "kenshinice-ai/apple-notes-tagger",
+    "description": "Create real Apple Notes hashtag tags from a script \u2014 including Chinese/Japanese/Korean ones. A Claude Code skill + standalone macOS scripts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kenshinice-ai",
+    "repoName": "apple-notes-tagger",
+    "repoBranch": "main"
+  },
+  "neelshah4/claude-plugins": {
+    "name": "neelshah4/claude-plugins",
+    "description": "Claude Code plugin marketplace: grant review, critical-care consults, citation verification, fabrication auditing, prompt optimization.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "neelshah4",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "YixuAnsensei/we-need-ds": {
+    "name": "YixuAnsensei/we-need-ds",
+    "description": "Unlock full-power \"We need\" reasoning chains for DeepSeek Pro models in Claude Code by dynamically decoupling first-round tool schemas.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YixuAnsensei",
+    "repoName": "we-need-ds",
+    "repoBranch": "main"
+  },
+  "Deadshot-77/davinci": {
+    "name": "Deadshot-77/davinci",
+    "description": "An autonomous development team for Claude Code: a clarifying intake agent, an orchestrating tech lead, scoped builder agents, and hook-enforced review gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Deadshot-77",
+    "repoName": "davinci",
+    "repoBranch": "main"
+  },
+  "giladbarnea/interaction": {
+    "name": "giladbarnea/interaction",
+    "description": "Communication toolkit for burnt-out humans and collaborative AI's",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "giladbarnea",
+    "repoName": "interaction",
+    "repoBranch": "main"
+  },
+  "ttalkkaklab/social-flow": {
+    "name": "ttalkkaklab/social-flow",
+    "description": "Claude Code plugin: a channel-based short-form/long-form social content pipeline \u2014 storyboard with adversarial quality gates, video production, HITL-approved publishing, and autonomous growth loops. Built-in MCP serve...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ttalkkaklab",
+    "repoName": "social-flow",
+    "repoBranch": "main"
   }
 }

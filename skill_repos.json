@@ -29398,5 +29398,125 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "yanliudesign/french-illustration-skill": {
+        "owner": "yanliudesign",
+        "name": "french-illustration-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mohamed-El-Sharqawy/agent-tutor": {
+        "owner": "Mohamed-El-Sharqawy",
+        "name": "agent-tutor",
+        "branch": "main",
+        "enabled": true
+    },
+    "Rememora/rememora": {
+        "owner": "Rememora",
+        "name": "rememora",
+        "branch": "main",
+        "enabled": true
+    },
+    "AliceLJY/repo-insight": {
+        "owner": "AliceLJY",
+        "name": "repo-insight",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BerkaySevinc/agent-toolkit": {
+        "owner": "BerkaySevinc",
+        "name": "agent-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "danfeistar/house-skills-kit": {
+        "owner": "danfeistar",
+        "name": "house-skills-kit",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "blyatiful1/ultraweb": {
+        "owner": "blyatiful1",
+        "name": "ultraweb",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KokoFinance/koko-credit-card-plugin": {
+        "owner": "KokoFinance",
+        "name": "koko-credit-card-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kenshinice-ai/apple-notes-tagger": {
+        "owner": "kenshinice-ai",
+        "name": "apple-notes-tagger",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/agent-stocktake": {
+        "owner": "shimo4228",
+        "name": "agent-stocktake",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "weinaike/maic_skill": {
+        "owner": "weinaike",
+        "name": "maic_skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "m7mdwb/martech-verify": {
+        "owner": "m7mdwb",
+        "name": "martech-verify",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "solidx86/intraday-trade": {
+        "owner": "solidx86",
+        "name": "intraday-trade",
+        "branch": "main",
+        "enabled": true
+    },
+    "BernhardJackiewicz/icca-harness": {
+        "owner": "BernhardJackiewicz",
+        "name": "icca-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YixuAnsensei/we-need-ds": {
+        "owner": "YixuAnsensei",
+        "name": "we-need-ds",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Deadshot-77/davinci": {
+        "owner": "Deadshot-77",
+        "name": "davinci",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "giladbarnea/interaction": {
+        "owner": "giladbarnea",
+        "name": "interaction",
+        "branch": "main",
+        "enabled": true
+    },
+    "ttalkkaklab/social-flow": {
+        "owner": "ttalkkaklab",
+        "name": "social-flow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
