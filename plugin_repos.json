@@ -23239,5 +23239,68 @@
     "repoOwner": "agent-toolworks",
     "repoName": "plugins",
     "repoBranch": "main"
+  },
+  "WenyuChiou/agent-collab-skills": {
+    "name": "WenyuChiou/agent-collab-skills",
+    "description": "Claude Code marketplace for multi-agent collaboration \u2014 task splitter, output reconciler, adversarial debate, shared memory, acceptance gate. Composes with codex-delegate / gemini-delegate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WenyuChiou",
+    "repoName": "agent-collab-skills",
+    "repoBranch": "main"
+  },
+  "bitranox/bitranox-skills": {
+    "name": "bitranox/bitranox-skills",
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke as /bitranox:<skill>.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitranox",
+    "repoName": "bitranox-skills",
+    "repoBranch": "master"
+  },
+  "kindsusu/multi-geo": {
+    "name": "kindsusu/multi-geo",
+    "description": "Multi-engine GEO \u2014 a Claude Code skill that audits, implements, and measures AI search visibility with a separate lane per engine: ChatGPT, Gemini, Claude, Perplexity, plus Naver.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kindsusu",
+    "repoName": "multi-geo",
+    "repoBranch": "main"
+  },
+  "mongdang/elp-notes-method": {
+    "name": "mongdang/elp-notes-method",
+    "description": "A documentation methodology as a Claude Code plugin \u2014 progress board, ADRs, archive, a doc linter, and a safety gate for hardware projects. Ships a committed snapshot so the repo stays self-contained.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mongdang",
+    "repoName": "elp-notes-method",
+    "repoBranch": "master"
+  },
+  "okets/claude-voiceover": {
+    "name": "okets/claude-voiceover",
+    "description": "Give Claude Code a voice: real-time local TTS narration of everything Claude is doing. 13 Kokoro neural voices, offline, free.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "okets",
+    "repoName": "claude-voiceover",
+    "repoBranch": "main"
+  },
+  "karuha-m/publishport-skill": {
+    "name": "karuha-m/publishport-skill",
+    "description": "Agent Skill that lets Claude publish to 60+ social and content platforms through your own logged-in browser \u2014 X, Reddit, LinkedIn, Medium, Dev.to, Bluesky, Xiaohongshu, Douyin, Bilibili, Zhihu and more. No platform AP...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karuha-m",
+    "repoName": "publishport-skill",
+    "repoBranch": "main"
+  },
+  "ItachiDevv/llvideo": {
+    "name": "ItachiDevv/llvideo",
+    "description": "Give any coding agent real video understanding \u2014 structured, timestamped, 19x cheaper than frame extraction. Claude Code + Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ItachiDevv",
+    "repoName": "llvideo",
+    "repoBranch": "master"
   }
 }

@@ -29245,5 +29245,158 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "redfox-data/redfox-community": {
+        "owner": "redfox-data",
+        "name": "redfox-community",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WenyuChiou/agent-collab-skills": {
+        "owner": "WenyuChiou",
+        "name": "agent-collab-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Djarvur/cc-websearch": {
+        "owner": "Djarvur",
+        "name": "cc-websearch",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bridgenode-ai/bridgenode-skill": {
+        "owner": "bridgenode-ai",
+        "name": "bridgenode-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jiangyurong609/motion-pages": {
+        "owner": "jiangyurong609",
+        "name": "motion-pages",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Akash97p/agent-notify": {
+        "owner": "Akash97p",
+        "name": "agent-notify",
+        "branch": "main",
+        "enabled": true
+    },
+    "AntheaLaffy/the-missing-semester-skills": {
+        "owner": "AntheaLaffy",
+        "name": "the-missing-semester-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "nerdstalker/lukew-design-skill": {
+        "owner": "nerdstalker",
+        "name": "lukew-design-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SilverAssist/agents-toolkit": {
+        "owner": "SilverAssist",
+        "name": "agents-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "bitranox/bitranox-skills": {
+        "owner": "bitranox",
+        "name": "bitranox-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "kindsusu/multi-geo": {
+        "owner": "kindsusu",
+        "name": "multi-geo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Zessi-C/biofigure-self-evolve": {
+        "owner": "Zessi-C",
+        "name": "biofigure-self-evolve",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zevdeng-cell/decor-stylist": {
+        "owner": "zevdeng-cell",
+        "name": "decor-stylist",
+        "branch": "main",
+        "enabled": true
+    },
+    "Abner-Machado/agent-layer": {
+        "owner": "Abner-Machado",
+        "name": "agent-layer",
+        "branch": "main",
+        "enabled": true
+    },
+    "mongdang/elp-notes-method": {
+        "owner": "mongdang",
+        "name": "elp-notes-method",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "htlin222/project-management-in-chat": {
+        "owner": "htlin222",
+        "name": "project-management-in-chat",
+        "branch": "main",
+        "enabled": true
+    },
+    "Resetnak/domain-availability-skill": {
+        "owner": "Resetnak",
+        "name": "domain-availability-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AlmaasTalha/youtube-hindi-to-roman-transcript-skill": {
+        "owner": "AlmaasTalha",
+        "name": "youtube-hindi-to-roman-transcript-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kuangketongxue/kuang-skills": {
+        "owner": "kuangketongxue",
+        "name": "kuang-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "karuha-m/publishport-skill": {
+        "owner": "karuha-m",
+        "name": "publishport-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ItachiDevv/llvideo": {
+        "owner": "ItachiDevv",
+        "name": "llvideo",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JASGENIUS/appbacktest-skill": {
+        "owner": "JASGENIUS",
+        "name": "appbacktest-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gznywjc/sft-rag-pipeline": {
+        "owner": "gznywjc",
+        "name": "sft-rag-pipeline",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
