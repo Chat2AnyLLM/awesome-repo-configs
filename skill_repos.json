@@ -29640,5 +29640,130 @@
         "name": "ttt-workflows",
         "branch": "main",
         "enabled": true
+    },
+    "opslane/verify": {
+        "owner": "opslane",
+        "name": "verify",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Hahaknight/claude-skills-pro": {
+        "owner": "Hahaknight",
+        "name": "claude-skills-pro",
+        "branch": "main",
+        "enabled": true
+    },
+    "miaqu766520-a11y/blogger-tracker": {
+        "owner": "miaqu766520-a11y",
+        "name": "blogger-tracker",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "oomol-lab/skills": {
+        "owner": "oomol-lab",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sodam-ai/SoDam-Harness-Eng": {
+        "owner": "sodam-ai",
+        "name": "SoDam-Harness-Eng",
+        "branch": "feat/phase1-mvp",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hanzhangzzz/agent-skills-zh": {
+        "owner": "hanzhangzzz",
+        "name": "agent-skills-zh",
+        "branch": "main",
+        "enabled": true
+    },
+    "theAnirudhKumar/meeting-design": {
+        "owner": "theAnirudhKumar",
+        "name": "meeting-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jaywavfeng/tiered-agent-orchestrator": {
+        "owner": "jaywavfeng",
+        "name": "tiered-agent-orchestrator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yojuhsu/video-cut": {
+        "owner": "yojuhsu",
+        "name": "video-cut",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lml679939-cmyk/streamlit-security-audit-skill": {
+        "owner": "lml679939-cmyk",
+        "name": "streamlit-security-audit-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shumingyang-opencode/superpowers-zh-tw": {
+        "owner": "shumingyang-opencode",
+        "name": "superpowers-zh-tw",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "getlost01/stock-research-skills": {
+        "owner": "getlost01",
+        "name": "stock-research-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Shantydotcom/northstariq-revenue-operations-intelligence": {
+        "owner": "Shantydotcom",
+        "name": "northstariq-revenue-operations-intelligence",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Hahaknight/digital-employee-pack": {
+        "owner": "Hahaknight",
+        "name": "digital-employee-pack",
+        "branch": "main",
+        "enabled": true
+    },
+    "ebellefontaine/eric-ai-plugins": {
+        "owner": "ebellefontaine",
+        "name": "eric-ai-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Iman/agent-driven-options-desk-and-skills": {
+        "owner": "Iman",
+        "name": "agent-driven-options-desk-and-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "pyy0715/glm-plugin-cc": {
+        "owner": "pyy0715",
+        "name": "glm-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "apexbymanish/claude-ai-agents-ios": {
+        "owner": "apexbymanish",
+        "name": "claude-ai-agents-ios",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ortimusirig/uroboros": {
+        "owner": "ortimusirig",
+        "name": "uroboros",
+        "branch": "main",
+        "enabled": true
     }
 }

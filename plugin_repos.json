@@ -23473,5 +23473,86 @@
     "repoOwner": "kaelys-js",
     "repoName": "ttt-workflows",
     "repoBranch": "main"
+  },
+  "opslane/verify": {
+    "name": "opslane/verify",
+    "description": "Verification Layer for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "opslane",
+    "repoName": "verify",
+    "repoBranch": "main"
+  },
+  "sodam-ai/SoDam-Harness-Eng": {
+    "name": "sodam-ai/SoDam-Harness-Eng",
+    "description": "\uc644\uc804 \ucd08\ubcf4\uc790\uc6a9 'AI \uc548\uc804\ubca8\ud2b8' Claude Code \ud50c\ub7ec\uadf8\uc778 \u2014 AI\uc758 \uc704\ud5d8 \uc791\uc5c5 \uc790\ub3d9 \ucc28\ub2e8\u00b7\ubc31\uc5c5\u00b7\ub418\ub3cc\ub9ac\uae30 + \ud655\uc778 \ube48\ub3c4 \ub9de\ucda4 \uc124\uc815(\ub9c8\ubc95\uc0ac) + 6\ud615\uc81c \ud50c\ub7ec\uadf8\uc778\uacfc \uacf5\uc874\ud558\ub3c4\ub85d \uc124\uacc4 (Apache-2.0)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sodam-ai",
+    "repoName": "SoDam-Harness-Eng",
+    "repoBranch": "feat/phase1-mvp"
+  },
+  "hanzhangzzz/agent-skills-zh": {
+    "name": "hanzhangzzz/agent-skills-zh",
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, GPT-image prompts. Install: npx skills add hanzhangzzz/agent-skills-zh",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hanzhangzzz",
+    "repoName": "agent-skills-zh",
+    "repoBranch": "main"
+  },
+  "theAnirudhKumar/meeting-design": {
+    "name": "theAnirudhKumar/meeting-design",
+    "description": "Design the meeting before you run it. An AI skill that names the decision, picks the decision rule, cuts the room, and plans for deadlock. Ships fill-in agenda templates. No terminal required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theAnirudhKumar",
+    "repoName": "meeting-design",
+    "repoBranch": "main"
+  },
+  "getlost01/stock-research-skills": {
+    "name": "getlost01/stock-research-skills",
+    "description": "19 research skills that turn Groww\u2019s MCP server into an AI research desk for Indian markets \u2014 supports stocks, ETFs, mutual funds, bonds, and F&O.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getlost01",
+    "repoName": "stock-research-skills",
+    "repoBranch": "main"
+  },
+  "Iman/agent-driven-options-desk-and-skills": {
+    "name": "Iman/agent-driven-options-desk-and-skills",
+    "description": "Options analytics an AI agent can drive and a person can read. Sixteen Greeks, seventeen structures, dealer positioning, GARCH-t simulation, backtests, local dashboard. Skills, commands, agents and MCP for Claude Code...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Iman",
+    "repoName": "agent-driven-options-desk-and-skills",
+    "repoBranch": "main"
+  },
+  "pyy0715/glm-plugin-cc": {
+    "name": "pyy0715/glm-plugin-cc",
+    "description": "GLM (Z.ai) integration plugin for Claude Code \u2014 delegate coding tasks, review code, and monitor usage quotas",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pyy0715",
+    "repoName": "glm-plugin-cc",
+    "repoBranch": "main"
+  },
+  "apexbymanish/claude-ai-agents-ios": {
+    "name": "apexbymanish/claude-ai-agents-ios",
+    "description": "Claude Code subagents & skills for iOS, Swift & Xcode \u2014 evidence-based AI agents for architecture, testing, security, App Store review, and Tuist",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "apexbymanish",
+    "repoName": "claude-ai-agents-ios",
+    "repoBranch": "main"
+  },
+  "ortimusirig/uroboros": {
+    "name": "ortimusirig/uroboros",
+    "description": "A Claude Code plugin: Codex writes in a git-isolated copy, your own commands gate it by exit code, and Cursor reviews the diff read-only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ortimusirig",
+    "repoName": "uroboros",
+    "repoBranch": "main"
   }
 }
