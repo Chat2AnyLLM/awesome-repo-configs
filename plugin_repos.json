@@ -23554,5 +23554,104 @@
     "repoOwner": "ortimusirig",
     "repoName": "uroboros",
     "repoBranch": "main"
+  },
+  "egorfedorov/claude-context-optimizer": {
+    "name": "egorfedorov/claude-context-optimizer",
+    "description": "Claude Code plugin that tracks token usage, identifies wasted context, and saves 30-50% on API costs. Heatmaps, ROI reports, budget alerts, efficiency scores, git-aware suggestions \u2014 all local, zero config.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "egorfedorov",
+    "repoName": "claude-context-optimizer",
+    "repoBranch": "main"
+  },
+  "covagashi/eplan-rag-mcp": {
+    "name": "covagashi/eplan-rag-mcp",
+    "description": "EPLAN Electric P8 2026  + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. EEC PRO RAG",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "covagashi",
+    "repoName": "eplan-rag-mcp",
+    "repoBranch": "main"
+  },
+  "b1rdmania/hinge-profile-optimizer": {
+    "name": "b1rdmania/hinge-profile-optimizer",
+    "description": "Research-backed Hinge profile optimizer for ChatGPT, Codex and Claude Code: screenshot audits, photo strategy, prompt writing and settings.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "b1rdmania",
+    "repoName": "hinge-profile-optimizer",
+    "repoBranch": "main"
+  },
+  "glukicov/slideops": {
+    "name": "glukicov/slideops",
+    "description": "Turn a repository into a slide deck that tells you when it stops matching the code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "glukicov",
+    "repoName": "slideops",
+    "repoBranch": "main"
+  },
+  "bovinphang/frontend-craft": {
+    "name": "bovinphang/frontend-craft",
+    "description": "frontend-craft is a universal frontend plugin that brings the same opinionated engineering standards to all 15 AI coding assistants.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bovinphang",
+    "repoName": "frontend-craft",
+    "repoBranch": "main"
+  },
+  "sodam-ai/SoDam-Graph-Eng": {
+    "name": "sodam-ai/SoDam-Graph-Eng",
+    "description": "\uc18c\ub2f4 7\ud615\uc81c \ud504\ub85c\uc81d\ud2b8\uc758 \uc704\uce58\u00b7\uc9c4\ud589 \uc0c1\ud0dc\u00b7\uc758\uc874\uad00\uacc4\ub97c \uc790\ub3d9 \ud310\uc815\ud558\uace0, \uc644\ub8cc \uc870\uac74 \uc790\ub3d9 \uac80\uc99d\uacfc \uc0ac\ub78c \ubaab \ube14\ub85c\ucee4 \ucd94\uc801\uae4c\uc9c0 \uc9c0\uc6d0\ud558\ub294 Claude Code \ud50c\ub7ec\uadf8\uc778 (\uc77d\uae30 \uc804\uc6a9, \uc2e4\ud589\uc740 \ud558\uc9c0 \uc54a\uc74c)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sodam-ai",
+    "repoName": "SoDam-Graph-Eng",
+    "repoBranch": "main"
+  },
+  "SatoruoGojoo/octopus": {
+    "name": "SatoruoGojoo/octopus",
+    "description": "harness\u63d2\u4ef6",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SatoruoGojoo",
+    "repoName": "octopus",
+    "repoBranch": "master"
+  },
+  "Aboudjem/10x": {
+    "name": "Aboudjem/10x",
+    "description": "Curated Claude Code plugin marketplace: sniff (AI QA in a real browser), ui-ux-suite (design audit), recap-studio (one-page explainers), aws-cost-audit (safe AWS savings), goalify (the brief and the condition for /goa...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aboudjem",
+    "repoName": "10x",
+    "repoBranch": "main"
+  },
+  "radra23/otel-as-code-plugin": {
+    "name": "radra23/otel-as-code-plugin",
+    "description": "OpenTelemetry instrumentation & observability-as-code for Claude Code and Codex \u2014 instrument Node.js/Python, then generate Terraform for Grafana, Datadog, New Relic & Dash0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "radra23",
+    "repoName": "otel-as-code-plugin",
+    "repoBranch": "main"
+  },
+  "raiki61/claude-plugins": {
+    "name": "raiki61/claude-plugins",
+    "description": "Two Claude Code loops that keep reviewing and researching until they reach a fixed point: the implementer and the grader are held in separate contexts, and the machine may only ever declare failure, never convergence....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raiki61",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "runnithan/claudex-setup": {
+    "name": "runnithan/claudex-setup",
+    "description": "Portable Claude Code and Codex configuration: slash commands, subagents, hooks, skills, and a transcript-to-lessons pipeline. Installable as a plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "runnithan",
+    "repoName": "claudex-setup",
+    "repoBranch": "main"
   }
 }

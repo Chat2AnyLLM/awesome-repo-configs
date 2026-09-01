@@ -29765,5 +29765,91 @@
         "name": "uroboros",
         "branch": "main",
         "enabled": true
+    },
+    "egorfedorov/claude-context-optimizer": {
+        "owner": "egorfedorov",
+        "name": "claude-context-optimizer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "covagashi/eplan-rag-mcp": {
+        "owner": "covagashi",
+        "name": "eplan-rag-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "b1rdmania/hinge-profile-optimizer": {
+        "owner": "b1rdmania",
+        "name": "hinge-profile-optimizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "glukicov/slideops": {
+        "owner": "glukicov",
+        "name": "slideops",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bovinphang/frontend-craft": {
+        "owner": "bovinphang",
+        "name": "frontend-craft",
+        "branch": "main",
+        "enabled": true
+    },
+    "jitu2611/indian-stock-analyst": {
+        "owner": "jitu2611",
+        "name": "indian-stock-analyst",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ronronner02/paper-innovation-analyst": {
+        "owner": "ronronner02",
+        "name": "paper-innovation-analyst",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "caix84476-netizen/personal-understanding": {
+        "owner": "caix84476-netizen",
+        "name": "personal-understanding",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "johnwangwyx/stele": {
+        "owner": "johnwangwyx",
+        "name": "stele",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "radra23/otel-as-code-plugin": {
+        "owner": "radra23",
+        "name": "otel-as-code-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "apolenkov/feynman": {
+        "owner": "apolenkov",
+        "name": "feynman",
+        "branch": "main",
+        "enabled": true
+    },
+    "raiki61/claude-plugins": {
+        "owner": "raiki61",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "runnithan/claudex-setup": {
+        "owner": "runnithan",
+        "name": "claudex-setup",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

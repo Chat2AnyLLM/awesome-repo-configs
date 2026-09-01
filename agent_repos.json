@@ -4265,5 +4265,47 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "egorfedorov/claude-context-optimizer": {
+    "owner": "egorfedorov",
+    "name": "claude-context-optimizer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bovinphang/frontend-craft": {
+    "owner": "bovinphang",
+    "name": "frontend-craft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "SatoruoGojoo/octopus": {
+    "owner": "SatoruoGojoo",
+    "name": "octopus",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "radra23/otel-as-code-plugin": {
+    "owner": "radra23",
+    "name": "otel-as-code-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "raiki61/claude-plugins": {
+    "owner": "raiki61",
+    "name": "claude-plugins",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "runnithan/claudex-setup": {
+    "owner": "runnithan",
+    "name": "claudex-setup",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
