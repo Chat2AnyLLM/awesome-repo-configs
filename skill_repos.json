@@ -29851,5 +29851,93 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ara-mkr/Wonder-Pill": {
+        "owner": "ara-mkr",
+        "name": "Wonder-Pill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wdhwg001/csift": {
+        "owner": "wdhwg001",
+        "name": "csift",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "3dl-dev/opencode-worker": {
+        "owner": "3dl-dev",
+        "name": "opencode-worker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gmessori/redazione-norme": {
+        "owner": "gmessori",
+        "name": "redazione-norme",
+        "branch": "main",
+        "enabled": true
+    },
+    "Teknesyum/Teknesyum-Core": {
+        "owner": "Teknesyum",
+        "name": "Teknesyum-Core",
+        "branch": "main",
+        "enabled": true
+    },
+    "Productside/Productside-Market-Intelligence-Skills": {
+        "owner": "Productside",
+        "name": "Productside-Market-Intelligence-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seokhoonj/newswatcher": {
+        "owner": "seokhoonj",
+        "name": "newswatcher",
+        "branch": "main",
+        "enabled": true
+    },
+    "YuanpingSong/boss-skill": {
+        "owner": "YuanpingSong",
+        "name": "boss-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matewishkey/mwk-rider": {
+        "owner": "matewishkey",
+        "name": "mwk-rider",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "limonequantistico/docsygen": {
+        "owner": "limonequantistico",
+        "name": "docsygen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OLIVERWU-LAB/visual-editor-skill": {
+        "owner": "OLIVERWU-LAB",
+        "name": "visual-editor-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "EESIZ/APM": {
+        "owner": "EESIZ",
+        "name": "APM",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Seneku/project-status-report": {
+        "owner": "Seneku",
+        "name": "project-status-report",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

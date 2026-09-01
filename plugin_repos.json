@@ -23653,5 +23653,104 @@
     "repoOwner": "runnithan",
     "repoName": "claudex-setup",
     "repoBranch": "main"
+  },
+  "3dl-dev/opencode-worker": {
+    "name": "3dl-dev/opencode-worker",
+    "description": "A Claude Code skill that offloads agentic work to a cheaper local or API model. Honestly graded, subscription-safe.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "3dl-dev",
+    "repoName": "opencode-worker",
+    "repoBranch": "main"
+  },
+  "Teknesyum/Teknesyum-Core": {
+    "name": "Teknesyum/Teknesyum-Core",
+    "description": "Token-aware multi-agent orchestration plugin for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Teknesyum",
+    "repoName": "Teknesyum-Core",
+    "repoBranch": "main"
+  },
+  "Productside/Productside-Market-Intelligence-Skills": {
+    "name": "Productside/Productside-Market-Intelligence-Skills",
+    "description": "Twenty-two instructional skills teaching market and competitive intelligence as collection disciplines, for Product Managers, Product Marketers, and Business Analysts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Productside",
+    "repoName": "Productside-Market-Intelligence-Skills",
+    "repoBranch": "main"
+  },
+  "seokhoonj/newswatcher": {
+    "name": "seokhoonj/newswatcher",
+    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seokhoonj",
+    "repoName": "newswatcher",
+    "repoBranch": "main"
+  },
+  "karlkfi/claude-spill-guard": {
+    "name": "karlkfi/claude-spill-guard",
+    "description": "Keeps secrets and PII from reaching the API through a Claude Code session \u2014 a local, zero-dependency scanner at the exfiltration boundary.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karlkfi",
+    "repoName": "claude-spill-guard",
+    "repoBranch": "main"
+  },
+  "YuanpingSong/boss-skill": {
+    "name": "YuanpingSong/boss-skill",
+    "description": "report-to-the-boss \u2014 a Claude Code skill that makes Claude's reports readable. Built from a corpus study of Claudish: name the referent, don't ban the words.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YuanpingSong",
+    "repoName": "boss-skill",
+    "repoBranch": "main"
+  },
+  "LEAPWare-Software/LEAPWare-Watchtower": {
+    "name": "LEAPWare-Software/LEAPWare-Watchtower",
+    "description": "Claude Code advisory layer for Windows/PowerShell 5.1: observes a session, reports honestly, overstates nothing. Nine of its ten modules only observe and warn; the tenth, a delegate gate refusing tool calls not from a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LEAPWare-Software",
+    "repoName": "LEAPWare-Watchtower",
+    "repoBranch": "main"
+  },
+  "matewishkey/mwk-rider": {
+    "name": "matewishkey/mwk-rider",
+    "description": "Mate Wish Key Rider \u2014 on-demand best-practices auditor for Astro sites. Ten domains (seven offline + three live), zero dependencies, reports findings and never edits your project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matewishkey",
+    "repoName": "mwk-rider",
+    "repoBranch": "main"
+  },
+  "Sertelegger/astir": {
+    "name": "Sertelegger/astir",
+    "description": "Live activity view for AI coding sessions (Claude Code + Codex): know when an agent is blocked on you, and where in the repo work is happening.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sertelegger",
+    "repoName": "astir",
+    "repoBranch": "main"
+  },
+  "limonequantistico/docsygen": {
+    "name": "limonequantistico/docsygen",
+    "description": "Documentation-driven development workflow for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "limonequantistico",
+    "repoName": "docsygen",
+    "repoBranch": "main"
+  },
+  "Seneku/project-status-report": {
+    "name": "Seneku/project-status-report",
+    "description": "A Claude Code skill that turns a repository into one measured, publishable project status report: what is built, what verifies it, a dated done-vs-owed timeline, and the real gaps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Seneku",
+    "repoName": "project-status-report",
+    "repoBranch": "main"
   }
 }

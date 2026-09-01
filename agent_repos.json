@@ -4307,5 +4307,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mantacron/manta": {
+    "owner": "mantacron",
+    "name": "manta",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "LEAPWare-Software/LEAPWare-Watchtower": {
+    "owner": "LEAPWare-Software",
+    "name": "LEAPWare-Watchtower",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
