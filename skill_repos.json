@@ -29939,5 +29939,130 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jvogan/a-fable-of-codexes": {
+        "owner": "jvogan",
+        "name": "a-fable-of-codexes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Cristhianzl/claude-skills-czl": {
+        "owner": "Cristhianzl",
+        "name": "claude-skills-czl",
+        "branch": "main",
+        "enabled": true
+    },
+    "VicBa2000/socratiskill": {
+        "owner": "VicBa2000",
+        "name": "socratiskill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JakubKontra/skills": {
+        "owner": "JakubKontra",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ayaangazali/graph-engineering": {
+        "owner": "ayaangazali",
+        "name": "graph-engineering",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sses79/gen-chart": {
+        "owner": "sses79",
+        "name": "gen-chart",
+        "branch": "main",
+        "enabled": true
+    },
+    "csinva/agent-progress": {
+        "owner": "csinva",
+        "name": "agent-progress",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ElxMaj/pegel-berlin-job-skill": {
+        "owner": "ElxMaj",
+        "name": "pegel-berlin-job-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "afterlaunch/skills": {
+        "owner": "afterlaunch",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ShanedixonGit/macverify": {
+        "owner": "ShanedixonGit",
+        "name": "macverify",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ipapadop/plugins": {
+        "owner": "ipapadop",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "sylviachangdou-prayer/fanfic-AU-apocrypha": {
+        "owner": "sylviachangdou-prayer",
+        "name": "fanfic-AU-apocrypha",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "overtonlabs/youtube-transcriber": {
+        "owner": "overtonlabs",
+        "name": "youtube-transcriber",
+        "branch": "main",
+        "enabled": true
+    },
+    "AnniesAI/agenthog-claude": {
+        "owner": "AnniesAI",
+        "name": "agenthog-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "Dimen2608/Projekt-Foundation": {
+        "owner": "Dimen2608",
+        "name": "Projekt-Foundation",
+        "branch": "main",
+        "enabled": true
+    },
+    "saides-code/local-delegate": {
+        "owner": "saides-code",
+        "name": "local-delegate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "benjsmith/curiosity-merge": {
+        "owner": "benjsmith",
+        "name": "curiosity-merge",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "soloveev/holst-board": {
+        "owner": "soloveev",
+        "name": "holst-board",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rogueduda/marketread": {
+        "owner": "rogueduda",
+        "name": "marketread",
+        "branch": "main",
+        "enabled": true
     }
 }

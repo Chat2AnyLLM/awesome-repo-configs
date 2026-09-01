@@ -4321,5 +4321,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ayaangazali/graph-engineering": {
+    "owner": "ayaangazali",
+    "name": "graph-engineering",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

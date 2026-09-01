@@ -23752,5 +23752,77 @@
     "repoOwner": "Seneku",
     "repoName": "project-status-report",
     "repoBranch": "main"
+  },
+  "VicBa2000/socratiskill": {
+    "name": "VicBa2000/socratiskill",
+    "description": "Claude Code plugin that teaches you to code instead of coding for you. Adaptive socratic mentor with hint escalation, Leitner reviews, and Feynman mode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VicBa2000",
+    "repoName": "socratiskill",
+    "repoBranch": "main"
+  },
+  "ayaangazali/graph-engineering": {
+    "name": "ayaangazali/graph-engineering",
+    "description": "Graph engineering for Claude Code: /graph turns any goal into a DAG of specialist subagents with JSON-schema hand-offs, executed, adversarially verified, and replayable as a persistent goal graph.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ayaangazali",
+    "repoName": "graph-engineering",
+    "repoBranch": "main"
+  },
+  "afterlaunch/skills": {
+    "name": "afterlaunch/skills",
+    "description": "Growth skills for AI visibility and SEO. Farm content ideas, draft in your own voice, post without getting banned. Free and MIT, and they plug into AfterLaunch, the organic growth engine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "afterlaunch",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "ipapadop/plugins": {
+    "name": "ipapadop/plugins",
+    "description": "A collection of opinionated plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ipapadop",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "AnniesAI/agenthog-claude": {
+    "name": "AnniesAI/agenthog-claude",
+    "description": "AgentHog analytics for Claude Code \u2014 a plugin of agent skills that instrument your app, run A/B tests, and write live reports.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AnniesAI",
+    "repoName": "agenthog-claude",
+    "repoBranch": "main"
+  },
+  "Dimen2608/Projekt-Foundation": {
+    "name": "Dimen2608/Projekt-Foundation",
+    "description": "Toolkit, das Projekte auf die Implementierung durch Menschen und AI-Agents vorbereitet: Claude-Code-Skill plus Validator-CLI. Dokumentation auf Deutsch.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dimen2608",
+    "repoName": "Projekt-Foundation",
+    "repoBranch": "main"
+  },
+  "saides-code/local-delegate": {
+    "name": "saides-code/local-delegate",
+    "description": "Claude Code plugin: delegate the mechanical parts of a job to a second Claude Code running on local Ollama models. No subscription tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saides-code",
+    "repoName": "local-delegate",
+    "repoBranch": "main"
+  },
+  "rvenutolo/claude-pgrep-pkill-guard": {
+    "name": "rvenutolo/claude-pgrep-pkill-guard",
+    "description": "Claude Code PreToolUse hook that denies the pgrep/pkill shapes that kill the agent's own session or spin forever.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rvenutolo",
+    "repoName": "claude-pgrep-pkill-guard",
+    "repoBranch": "main"
   }
 }
