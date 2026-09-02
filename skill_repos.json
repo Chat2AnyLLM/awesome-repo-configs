@@ -30432,5 +30432,66 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "shir-danishyar/humanize": {
+        "owner": "shir-danishyar",
+        "name": "humanize",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Joomla-Bible-Study/claude-skill-joomla": {
+        "owner": "Joomla-Bible-Study",
+        "name": "claude-skill-joomla",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jaredcassoutt/vox-editorial": {
+        "owner": "jaredcassoutt",
+        "name": "vox-editorial",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IndieCoreDev/ask-first": {
+        "owner": "IndieCoreDev",
+        "name": "ask-first",
+        "branch": "main",
+        "enabled": true
+    },
+    "vforge/claude-marketplace": {
+        "owner": "vforge",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "grunion-ai/decklet": {
+        "owner": "grunion-ai",
+        "name": "decklet",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "templetongroup/fable-friend": {
+        "owner": "templetongroup",
+        "name": "fable-friend",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "greenstevester/db-architecture-reviewer": {
+        "owner": "greenstevester",
+        "name": "db-architecture-reviewer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "manuacl/infra-audit": {
+        "owner": "manuacl",
+        "name": "infra-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

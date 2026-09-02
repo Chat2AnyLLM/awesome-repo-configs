@@ -24058,5 +24058,59 @@
     "repoOwner": "zkylek1212-k",
     "repoName": "multi-agent-hub",
     "repoBranch": "master"
+  },
+  "shir-danishyar/humanize": {
+    "name": "shir-danishyar/humanize",
+    "description": "Agent skill that removes documented AI-writing patterns \u2014 two modes, register awareness, voice calibration, and a deterministic linter. Works in Claude Code, Cursor, Copilot, Codex, or any harness that reads SKILL.md",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shir-danishyar",
+    "repoName": "humanize",
+    "repoBranch": "main"
+  },
+  "Joomla-Bible-Study/claude-skill-joomla": {
+    "name": "Joomla-Bible-Study/claude-skill-joomla",
+    "description": "Joomla 5+/6 extension development skill for Claude Code \u2014 components, modules, plugins, templates with modern MVC, PSR-4, DI, service providers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Joomla-Bible-Study",
+    "repoName": "claude-skill-joomla",
+    "repoBranch": "main"
+  },
+  "IndieCoreDev/ask-first": {
+    "name": "IndieCoreDev/ask-first",
+    "description": "A Claude Code skill and hooks that put every question in a card instead of a paragraph",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IndieCoreDev",
+    "repoName": "ask-first",
+    "repoBranch": "main"
+  },
+  "vforge/claude-marketplace": {
+    "name": "vforge/claude-marketplace",
+    "description": "Claude Code plugin marketplace: redundancy measurement, generated-text auditing, point-form specs, and both-sides idea analysis",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vforge",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "greenstevester/db-architecture-reviewer": {
+    "name": "greenstevester/db-architecture-reviewer",
+    "description": "Claude Code skill that documents a PostgreSQL schema and reviews its design in one run",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "greenstevester",
+    "repoName": "db-architecture-reviewer",
+    "repoBranch": "main"
+  },
+  "manuacl/infra-audit": {
+    "name": "manuacl/infra-audit",
+    "description": "Read-only security audit of a deployed server, as a Claude Code skill: host, proxy, containers, datastore roles, DNS, CI pipeline and public HTTP surface. Evidence-backed report, ordered fix plan, guided remediation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "manuacl",
+    "repoName": "infra-audit",
+    "repoBranch": "main"
   }
 }
