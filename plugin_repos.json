@@ -23824,5 +23824,77 @@
     "repoOwner": "rvenutolo",
     "repoName": "claude-pgrep-pkill-guard",
     "repoBranch": "main"
+  },
+  "nateherkai/scroll-craft": {
+    "name": "nateherkai/scroll-craft",
+    "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nateherkai",
+    "repoName": "scroll-craft",
+    "repoBranch": "main"
+  },
+  "clownware/product-dev": {
+    "name": "clownware/product-dev",
+    "description": "AI-assisted product development, from fuzzy idea to technical spec \u2014 a Claude Code plugin of guided UX-research prompt flows, skills, and a spec-compiling subagent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clownware",
+    "repoName": "product-dev",
+    "repoBranch": "main"
+  },
+  "Nova-Violet-Role/RoT-DtD-Commander": {
+    "name": "Nova-Violet-Role/RoT-DtD-Commander",
+    "description": "RoT DtD Commander: 58 Claude Code commands, 18 skills and 4 agents that carry their own DTD grammar and trust boundary, a guided NPX installer, and the Adiutor, a Stop-hook doctor that checks every -dtd answer against...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nova-Violet-Role",
+    "repoName": "RoT-DtD-Commander",
+    "repoBranch": "main"
+  },
+  "cyh-skill/browser-skill": {
+    "name": "cyh-skill/browser-skill",
+    "description": "Codex-first, Claude Code-compatible browser automation Skill with a local Rust runtime, Chromium extension, and CDP sidecar",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cyh-skill",
+    "repoName": "browser-skill",
+    "repoBranch": "main"
+  },
+  "tuna781/dspec": {
+    "name": "tuna781/dspec",
+    "description": "Spec-driven development for Claude Code. Your product model lives as markdown in the repo, binds to real symbols in your code, and ds check fails when the two disagree. No server, no token, no network.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tuna781",
+    "repoName": "dspec",
+    "repoBranch": "master"
+  },
+  "cyh-skill/artifact-share": {
+    "name": "cyh-skill/artifact-share",
+    "description": "Codex-first, Claude Code-compatible Skill for safely publishing HTML artifacts to Cloudflare Pages",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cyh-skill",
+    "repoName": "artifact-share",
+    "repoBranch": "main"
+  },
+  "cyh-skill/cyh-flow": {
+    "name": "cyh-skill/cyh-flow",
+    "description": "Codex-first software-delivery Skill, compatible with Claude Code, for planning, implementation, review, convergence, and persistent task pools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cyh-skill",
+    "repoName": "cyh-flow",
+    "repoBranch": "main"
+  },
+  "sarrafgsarraf/humanize-text-pro": {
+    "name": "sarrafgsarraf/humanize-text-pro",
+    "description": "One agent skill merging no-ai-slop, humanizer, and ASD-STE100 into a non-conflicting ruleset: no AI tells, no invented facts, no ambiguity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sarrafgsarraf",
+    "repoName": "humanize-text-pro",
+    "repoBranch": "main"
   }
 }

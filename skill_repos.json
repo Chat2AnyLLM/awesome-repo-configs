@@ -30064,5 +30064,112 @@
         "name": "marketread",
         "branch": "main",
         "enabled": true
+    },
+    "nateherkai/scroll-craft": {
+        "owner": "nateherkai",
+        "name": "scroll-craft",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kalabint/ChatGPT-Primer": {
+        "owner": "Kalabint",
+        "name": "ChatGPT-Primer",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "clownware/product-dev": {
+        "owner": "clownware",
+        "name": "product-dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "Nova-Violet-Role/RoT-DtD-Commander": {
+        "owner": "Nova-Violet-Role",
+        "name": "RoT-DtD-Commander",
+        "branch": "main",
+        "enabled": true
+    },
+    "cyh-skill/browser-skill": {
+        "owner": "cyh-skill",
+        "name": "browser-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yazelin/personal-brand-site-starter": {
+        "owner": "yazelin",
+        "name": "personal-brand-site-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "normlstudio/moonpresschat-skill": {
+        "owner": "normlstudio",
+        "name": "moonpresschat-skill",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "tuna781/dspec": {
+        "owner": "tuna781",
+        "name": "dspec",
+        "branch": "master",
+        "enabled": true
+    },
+    "MarkVibeSapce/aieasypro-vibe-skill": {
+        "owner": "MarkVibeSapce",
+        "name": "aieasypro-vibe-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "markgoob/latex-twocol-cjk": {
+        "owner": "markgoob",
+        "name": "latex-twocol-cjk",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cyh-skill/artifact-share": {
+        "owner": "cyh-skill",
+        "name": "artifact-share",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cyh-skill/cyh-flow": {
+        "owner": "cyh-skill",
+        "name": "cyh-flow",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MarkVibeSapce/my-ads-skill": {
+        "owner": "MarkVibeSapce",
+        "name": "my-ads-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "baanpakpoolvilla/capcut-editor": {
+        "owner": "baanpakpoolvilla",
+        "name": "capcut-editor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sarrafgsarraf/humanize-text-pro": {
+        "owner": "sarrafgsarraf",
+        "name": "humanize-text-pro",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ADWilkinson/usdctofiat-skills": {
+        "owner": "ADWilkinson",
+        "name": "usdctofiat-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

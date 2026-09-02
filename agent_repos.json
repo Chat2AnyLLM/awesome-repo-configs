@@ -4328,5 +4328,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Nova-Violet-Role/RoT-DtD-Commander": {
+    "owner": "Nova-Violet-Role",
+    "name": "RoT-DtD-Commander",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
