@@ -1201,9 +1201,9 @@
   },
   "avelikiy/great_cto": {
     "name": "avelikiy/great_cto",
-    "description": "Don't buy software. Get the work done. GreatCTO ships AI autopilots that run a whole business function — medical coding, legal docs, procurement, accounting, IT, tax — from intake to outcome. A qualified human signs o...",
+    "description": "You already have the agent. This is everything around it. great_cto runs Claude Code as a pipeline of 70 specialist agents — an independent model checks each stage before the next builds on it, spending caps refuse rather than warn, and three decisions stay yours: what gets built, how, and whether it ships.",
     "enabled": true,
-    "type": "marketplace",
+    "type": "plugin",
     "repoOwner": "avelikiy",
     "repoName": "great_cto",
     "repoBranch": "main"
