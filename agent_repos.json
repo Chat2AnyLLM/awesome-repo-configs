@@ -4335,5 +4335,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Aboudjem/ui-ux-suite": {
+    "owner": "Aboudjem",
+    "name": "ui-ux-suite",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

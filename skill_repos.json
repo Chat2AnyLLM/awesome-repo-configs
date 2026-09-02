@@ -30171,5 +30171,152 @@
         "name": "usdctofiat-skills",
         "branch": "main",
         "enabled": true
+    },
+    "OutlineDriven/outline-driven-development": {
+        "owner": "OutlineDriven",
+        "name": "outline-driven-development",
+        "branch": "main",
+        "enabled": true
+    },
+    "bybit-exchange/svg-diagram": {
+        "owner": "bybit-exchange",
+        "name": "svg-diagram",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maxritter/open-claude-design": {
+        "owner": "maxritter",
+        "name": "open-claude-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "timwukp/agent-skills-best-practice": {
+        "owner": "timwukp",
+        "name": "agent-skills-best-practice",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Aboudjem/ui-ux-suite": {
+        "owner": "Aboudjem",
+        "name": "ui-ux-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AIimagined/Godmode": {
+        "owner": "AIimagined",
+        "name": "Godmode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "olivervvvv/plain-language-skill": {
+        "owner": "olivervvvv",
+        "name": "plain-language-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "roccodaffuso/obsidian-memory-closeout": {
+        "owner": "roccodaffuso",
+        "name": "obsidian-memory-closeout",
+        "branch": "main",
+        "enabled": true
+    },
+    "egkz/disciplined-code-changes-plugin": {
+        "owner": "egkz",
+        "name": "disciplined-code-changes-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "baron-3dl/skillc": {
+        "owner": "baron-3dl",
+        "name": "skillc",
+        "branch": "main",
+        "enabled": true
+    },
+    "aditya-ariosity/ux-ui-skills": {
+        "owner": "aditya-ariosity",
+        "name": "ux-ui-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "lucashuang-an/data-analysis-report": {
+        "owner": "lucashuang-an",
+        "name": "data-analysis-report",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Aboudjem/aws-cost-audit-skill": {
+        "owner": "Aboudjem",
+        "name": "aws-cost-audit-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dashies-ai/dashies-plugin": {
+        "owner": "Dashies-ai",
+        "name": "dashies-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "jdvanleenen-sys/wayfinder-cartographer": {
+        "owner": "jdvanleenen-sys",
+        "name": "wayfinder-cartographer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "swaylq/shuorenhua-skill": {
+        "owner": "swaylq",
+        "name": "shuorenhua-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vignesh2699v/flightplan": {
+        "owner": "vignesh2699v",
+        "name": "flightplan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GemixGM/cv-product-designer-skill": {
+        "owner": "GemixGM",
+        "name": "cv-product-designer-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "tomtdhzz/skills-radar": {
+        "owner": "tomtdhzz",
+        "name": "skills-radar",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alexhooi/herdr-orchestrate": {
+        "owner": "alexhooi",
+        "name": "herdr-orchestrate",
+        "branch": "main",
+        "enabled": true
+    },
+    "romain-nicod/kickoff": {
+        "owner": "romain-nicod",
+        "name": "kickoff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilandahan/breather": {
+        "owner": "ilandahan",
+        "name": "breather",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
