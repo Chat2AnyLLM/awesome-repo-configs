@@ -23968,5 +23968,95 @@
     "repoOwner": "ilandahan",
     "repoName": "breather",
     "repoBranch": "main"
+  },
+  "mzored/SkipHow": {
+    "name": "mzored/SkipHow",
+    "description": "Outcome-first orchestration for Claude Code and Codex. Describe the product result; the agent chooses the engineering method and proves the outcome.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mzored",
+    "repoName": "SkipHow",
+    "repoBranch": "main"
+  },
+  "denys-petryniak/nativish": {
+    "name": "denys-petryniak/nativish",
+    "description": "Writing coach for non-native speakers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "denys-petryniak",
+    "repoName": "nativish",
+    "repoBranch": "main"
+  },
+  "meikocho1/alchemy-marketing-skills": {
+    "name": "meikocho1/alchemy-marketing-skills",
+    "description": "Rory Sutherland's psycho-logic as Claude skills \u2014 solve the human perception, not the metric. Reframing, costly signaling, counterintuitive tests, experience design.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "meikocho1",
+    "repoName": "alchemy-marketing-skills",
+    "repoBranch": "main"
+  },
+  "emtcmca/promptsmith": {
+    "name": "emtcmca/promptsmith",
+    "description": "Prompt & context engineering for agents \u2014 Claude Code plugin with /sharpen, /forge-agent, /lens, /orchestrate and a 20-agent gallery. Also installable as plain skills in any agent. Zero deps, no API keys, eval-backed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emtcmca",
+    "repoName": "promptsmith",
+    "repoBranch": "main"
+  },
+  "exPardus/cc-oracle": {
+    "name": "exPardus/cc-oracle",
+    "description": "Claude Code plugin: when a session is unsure or stuck, it consults a read-only best-model oracle instead of flailing solo. Zero config, no runtime deps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "exPardus",
+    "repoName": "cc-oracle",
+    "repoBranch": "main"
+  },
+  "sjquant/cram": {
+    "name": "sjquant/cram",
+    "description": "Cram any document into your head \u2014 a Claude skill that extracts flashcards and renders them as an offline quiz in one self-contained HTML file",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjquant",
+    "repoName": "cram",
+    "repoBranch": "main"
+  },
+  "10xequity/claude-skill-library": {
+    "name": "10xequity/claude-skill-library",
+    "description": "Claude Skill Library",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "10xequity",
+    "repoName": "claude-skill-library",
+    "repoBranch": "main"
+  },
+  "kennyolofsson23-netizen/claude-code-config": {
+    "name": "kennyolofsson23-netizen/claude-code-config",
+    "description": "The most comprehensive Claude Code setup \u2014 29 skills, 9 plugins, 13 hooks, 8 agents, 8 commands. Self-documenting, self-improving, CLI-first. Includes self-interview prompt for personalization.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kennyolofsson23-netizen",
+    "repoName": "claude-code-config",
+    "repoBranch": "main"
+  },
+  "amenophis1er/claude-golden-eye": {
+    "name": "amenophis1er/claude-golden-eye",
+    "description": "Live, view-only dashboard for Claude Code sessions (agents, transcripts, plan, tokens) + optional hook-enforced PM-mode discipline. Two-plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amenophis1er",
+    "repoName": "claude-golden-eye",
+    "repoBranch": "main"
+  },
+  "zkylek1212-k/multi-agent-hub": {
+    "name": "zkylek1212-k/multi-agent-hub",
+    "description": "MCP-based multi-agent dispatch hub for Claude Code \u2014 parallel worker orchestration with git worktree isolation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zkylek1212-k",
+    "repoName": "multi-agent-hub",
+    "repoBranch": "master"
   }
 }

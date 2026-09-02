@@ -30324,5 +30324,113 @@
         "name": "whetstone",
         "branch": "main",
         "enabled": true
+    },
+    "mex-memory/mex": {
+        "owner": "mex-memory",
+        "name": "mex",
+        "branch": "main",
+        "enabled": true
+    },
+    "seo-skills/seo-audit-skill": {
+        "owner": "seo-skills",
+        "name": "seo-audit-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mzored/SkipHow": {
+        "owner": "mzored",
+        "name": "SkipHow",
+        "branch": "main",
+        "enabled": true
+    },
+    "denys-petryniak/nativish": {
+        "owner": "denys-petryniak",
+        "name": "nativish",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "meikocho1/alchemy-marketing-skills": {
+        "owner": "meikocho1",
+        "name": "alchemy-marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emtcmca/promptsmith": {
+        "owner": "emtcmca",
+        "name": "promptsmith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sjquant/cram": {
+        "owner": "sjquant",
+        "name": "cram",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mateusands/claude-code-crew-kit": {
+        "owner": "mateusands",
+        "name": "claude-code-crew-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "10xequity/claude-skill-library": {
+        "owner": "10xequity",
+        "name": "claude-skill-library",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NeuraCerebra-AI/testprune": {
+        "owner": "NeuraCerebra-AI",
+        "name": "testprune",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kennyolofsson23-netizen/claude-code-config": {
+        "owner": "kennyolofsson23-netizen",
+        "name": "claude-code-config",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "homayoun-asghari/claude-agentic-workflow-starter-kit": {
+        "owner": "homayoun-asghari",
+        "name": "claude-agentic-workflow-starter-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "amenophis1er/claude-golden-eye": {
+        "owner": "amenophis1er",
+        "name": "claude-golden-eye",
+        "branch": "main",
+        "enabled": true
+    },
+    "zkylek1212-k/multi-agent-hub": {
+        "owner": "zkylek1212-k",
+        "name": "multi-agent-hub",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thebusinesstoolkitdev/claude-greenshift-skill": {
+        "owner": "thebusinesstoolkitdev",
+        "name": "claude-greenshift-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AgentSmoki/telegram-content-factory": {
+        "owner": "AgentSmoki",
+        "name": "telegram-content-factory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

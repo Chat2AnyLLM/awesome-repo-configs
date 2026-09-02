@@ -4342,5 +4342,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "emtcmca/promptsmith": {
+    "owner": "emtcmca",
+    "name": "promptsmith",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "exPardus/cc-oracle": {
+    "owner": "exPardus",
+    "name": "cc-oracle",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mateusands/claude-code-crew-kit": {
+    "owner": "mateusands",
+    "name": "claude-code-crew-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kennyolofsson23-netizen/claude-code-config": {
+    "owner": "kennyolofsson23-netizen",
+    "name": "claude-code-config",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
