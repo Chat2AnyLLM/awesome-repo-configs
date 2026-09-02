@@ -30318,5 +30318,11 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "TbusOS/whetstone": {
+        "owner": "TbusOS",
+        "name": "whetstone",
+        "branch": "main",
+        "enabled": true
     }
 }
