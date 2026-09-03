@@ -30820,5 +30820,125 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "i18next/i18next-cli": {
+        "owner": "i18next",
+        "name": "i18next-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "roomi-fields/notebooklm-mcp": {
+        "owner": "roomi-fields",
+        "name": "notebooklm-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rtur2003/Claude-Code-Promts-Skills": {
+        "owner": "Rtur2003",
+        "name": "Claude-Code-Promts-Skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "khromov/codebay": {
+        "owner": "khromov",
+        "name": "codebay",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "eshwarvijay/secondmate": {
+        "owner": "eshwarvijay",
+        "name": "secondmate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "specialone0007/review-skills": {
+        "owner": "specialone0007",
+        "name": "review-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "selectess/Esprit": {
+        "owner": "selectess",
+        "name": "Esprit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aloim/phaneslight": {
+        "owner": "Aloim",
+        "name": "phaneslight",
+        "branch": "main",
+        "enabled": true
+    },
+    "locize/locize-agents": {
+        "owner": "locize",
+        "name": "locize-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qtsone/learning": {
+        "owner": "qtsone",
+        "name": "learning",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "amaklakov-droid/pitch-deck-skill": {
+        "owner": "amaklakov-droid",
+        "name": "pitch-deck-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "discolike/discolike-skills": {
+        "owner": "discolike",
+        "name": "discolike-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sirponch-hub/aicanholst": {
+        "owner": "sirponch-hub",
+        "name": "aicanholst",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wagneripjr/skills": {
+        "owner": "wagneripjr",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "kcy4334-lgtm/translate-book-arxiv": {
+        "owner": "kcy4334-lgtm",
+        "name": "translate-book-arxiv",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LearnDataLive/BurnItAllDown": {
+        "owner": "LearnDataLive",
+        "name": "BurnItAllDown",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "m1nga/skills": {
+        "owner": "m1nga",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "getrecast/recast-for-claude": {
+        "owner": "getrecast",
+        "name": "recast-for-claude",
+        "branch": "main",
+        "enabled": true
     }
 }

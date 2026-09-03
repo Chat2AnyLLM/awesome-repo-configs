@@ -24427,5 +24427,95 @@
     "repoOwner": "ryuki-imachi",
     "repoName": "claude-code-discord-bot",
     "repoBranch": "main"
+  },
+  "eshwarvijay/secondmate": {
+    "name": "eshwarvijay/secondmate",
+    "description": "\ud83d\udc3e Your agent writes the code, a different model tries to break it, and only what survives ships. Cross-model review, gated merges, human-approved.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eshwarvijay",
+    "repoName": "secondmate",
+    "repoBranch": "main"
+  },
+  "specialone0007/review-skills": {
+    "name": "specialone0007/review-skills",
+    "description": "Seven portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, tests, docs, structure.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "specialone0007",
+    "repoName": "review-skills",
+    "repoBranch": "main"
+  },
+  "selectess/Esprit": {
+    "name": "selectess/Esprit",
+    "description": "Claude Code plugin: a conduct layer for autonomous agents. A PreToolUse hook refuses a spend, deletion or git push that was not announced first \u2014 the announcement is the bypass. A Stop hook flags numbers asserted with...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "selectess",
+    "repoName": "Esprit",
+    "repoBranch": "main"
+  },
+  "Aloim/phaneslight": {
+    "name": "Aloim/phaneslight",
+    "description": "The Phanes Light version to the Phanes Orchestrator",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aloim",
+    "repoName": "phaneslight",
+    "repoBranch": "main"
+  },
+  "locize/locize-agents": {
+    "name": "locize/locize-agents",
+    "description": "Locize plugin for AI coding agents: i18next localization skill, translation conventions and the Locize MCP server (Claude Code, Copilot CLI, Gemini CLI, Cursor)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "locize",
+    "repoName": "locize-agents",
+    "repoBranch": "main"
+  },
+  "amaklakov-droid/pitch-deck-skill": {
+    "name": "amaklakov-droid/pitch-deck-skill",
+    "description": "Open-source Claude Agent Skill for building and reviewing investor pitch decks \u2014 specialized for high-tech / deep-tech startups. Based on YC, Sequoia, a16z and DocSend research.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amaklakov-droid",
+    "repoName": "pitch-deck-skill",
+    "repoBranch": "main"
+  },
+  "discolike/discolike-skills": {
+    "name": "discolike/discolike-skills",
+    "description": "Skills that teach coding agents to find companies, enrich them, and reach contacts with DiscoLike. Claude Code plugin marketplace included.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "discolike",
+    "repoName": "discolike-skills",
+    "repoBranch": "main"
+  },
+  "wagneripjr/skills": {
+    "name": "wagneripjr/skills",
+    "description": "Claude Code plugin marketplace: 8 engineering skills (wagner-skills) + a 14-skill reverse-engineering pipeline that turns a legacy codebase into traceable, ATDD-ready specs (doc-this).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wagneripjr",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "LearnDataLive/BurnItAllDown": {
+    "name": "LearnDataLive/BurnItAllDown",
+    "description": "Adversarial \"anarchist\" reviewer for Claude Code \u2014 turns fixed constraints into asymmetric leverage, red-teams your own plan, and runs an anti-sycophancy check",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LearnDataLive",
+    "repoName": "BurnItAllDown",
+    "repoBranch": "main"
+  },
+  "getrecast/recast-for-claude": {
+    "name": "getrecast/recast-for-claude",
+    "description": "Recast for Claude \u2014 public Claude Code marketplace & plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getrecast",
+    "repoName": "recast-for-claude",
+    "repoBranch": "main"
   }
 }
