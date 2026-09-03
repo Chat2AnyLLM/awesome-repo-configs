@@ -4377,5 +4377,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sd0xdev/sd0x-harness": {
+    "owner": "sd0xdev",
+    "name": "sd0x-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "roomi-fields/paper-trail": {
+    "owner": "roomi-fields",
+    "name": "paper-trail",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "vishnu-77/bugrabbit": {
+    "owner": "vishnu-77",
+    "name": "bugrabbit",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

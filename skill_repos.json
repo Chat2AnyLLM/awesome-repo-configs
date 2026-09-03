@@ -30594,5 +30594,110 @@
         "branch": "main",
         "skillsPath": "plugins/share-live/skills",
         "enabled": true
+    },
+    "sd0xdev/sd0x-harness": {
+        "owner": "sd0xdev",
+        "name": "sd0x-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "coldteadotai/pr-lens": {
+        "owner": "coldteadotai",
+        "name": "pr-lens",
+        "branch": "main",
+        "enabled": true
+    },
+    "geml-spec/geml": {
+        "owner": "geml-spec",
+        "name": "geml",
+        "branch": "main",
+        "enabled": true
+    },
+    "smicolon/ai-kit": {
+        "owner": "smicolon",
+        "name": "ai-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "h-zahran/delivery-kit": {
+        "owner": "h-zahran",
+        "name": "delivery-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "roomi-fields/paper-trail": {
+        "owner": "roomi-fields",
+        "name": "paper-trail",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "StasPotapov/present": {
+        "owner": "StasPotapov",
+        "name": "present",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gen-chart/gen-chart": {
+        "owner": "gen-chart",
+        "name": "gen-chart",
+        "branch": "main",
+        "enabled": true
+    },
+    "TheAdamLabs/deep-research-skill": {
+        "owner": "TheAdamLabs",
+        "name": "deep-research-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ToRvaLDz/trailhead": {
+        "owner": "ToRvaLDz",
+        "name": "trailhead",
+        "branch": "main",
+        "enabled": true
+    },
+    "dvasyliev/claude-workshop-trial-todo-list-app-template": {
+        "owner": "dvasyliev",
+        "name": "claude-workshop-trial-todo-list-app-template",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "chalosalvador/claude-workflows": {
+        "owner": "chalosalvador",
+        "name": "claude-workflows",
+        "branch": "main",
+        "enabled": true
+    },
+    "akidly/yasmine": {
+        "owner": "akidly",
+        "name": "yasmine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "githrish/product-manager-resume-builder": {
+        "owner": "githrish",
+        "name": "product-manager-resume-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bauerk132/math-notes-to-markdown": {
+        "owner": "bauerk132",
+        "name": "math-notes-to-markdown",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "corevider/meshy-threejs-skill": {
+        "owner": "corevider",
+        "name": "meshy-threejs-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
