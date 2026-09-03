@@ -4,6 +4,7 @@
 import importlib.util
 import pathlib
 import unittest
+from unittest import mock
 
 
 SCRIPT_PATH = pathlib.Path(__file__).resolve().parents[1] / ".github" / "scripts" / "review_pr_config.py"
@@ -13,6 +14,12 @@ SPEC.loader.exec_module(REVIEW)
 
 
 class ReviewPrConfigTests(unittest.TestCase):
+    def test_get_file_text_falls_back_to_git_blob_for_large_files(self):
+        contents = {"encoding": "none", "git_url": "https://api.github.test/blob/sha"}
+        blob = {"encoding": "base64", "content": "aGVsbG8="}
+        with mock.patch.object(REVIEW, "api_request", side_effect=[(200, contents), (200, blob)]):
+            self.assertEqual("hello", REVIEW.get_file_text("owner/repo", "large.json", "sha", "token"))
+
     def test_parse_json_strict_rejects_duplicate_keys(self):
         with self.assertRaises(REVIEW.DuplicateKeyError):
             REVIEW.parse_json_strict('{"repo": {"enabled": true}, "repo": {"enabled": false}}')
