@@ -30573,5 +30573,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "mohocp/dataecho": {
+        "owner": "mohocp",
+        "name": "dataecho",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
