@@ -4398,5 +4398,19 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jamessunheart/super-agents-pack": {
+    "owner": "jamessunheart",
+    "name": "super-agents-pack",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "higebu/dsct": {
+    "owner": "higebu",
+    "name": "dsct",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

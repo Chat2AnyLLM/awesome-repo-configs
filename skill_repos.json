@@ -30699,5 +30699,126 @@
         "branch": "master",
         "skillsPath": "./",
         "enabled": true
+    },
+    "gbessoni/seobuild-onpage": {
+        "owner": "gbessoni",
+        "name": "seobuild-onpage",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "taxueseek/fund-investment-guide": {
+        "owner": "taxueseek",
+        "name": "fund-investment-guide",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wu736139669/agent-taskgraph-protocol": {
+        "owner": "wu736139669",
+        "name": "agent-taskgraph-protocol",
+        "branch": "main",
+        "enabled": true
+    },
+    "sergeyizmailov/knowledge-delta-skills": {
+        "owner": "sergeyizmailov",
+        "name": "knowledge-delta-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blakecyze/kanso": {
+        "owner": "blakecyze",
+        "name": "kanso",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Qapla/qapla-api-skill": {
+        "owner": "Qapla",
+        "name": "qapla-api-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ClydeShen/tech-humanizer-skill": {
+        "owner": "ClydeShen",
+        "name": "tech-humanizer-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Kyo-zmol/fitness-diet-planner-free": {
+        "owner": "Kyo-zmol",
+        "name": "fitness-diet-planner-free",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jiutianxvanyin/humanizer-formal": {
+        "owner": "jiutianxvanyin",
+        "name": "humanizer-formal",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Pulseboard-ai/execution-drift-skills": {
+        "owner": "Pulseboard-ai",
+        "name": "execution-drift-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "relexlegal/relex-claude": {
+        "owner": "relexlegal",
+        "name": "relex-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "robustagile/laser-engraver-skill": {
+        "owner": "robustagile",
+        "name": "laser-engraver-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "konradcinkusz/claude-scope": {
+        "owner": "konradcinkusz",
+        "name": "claude-scope",
+        "branch": "main",
+        "enabled": true
+    },
+    "ronidomingues/dev-learning-lab": {
+        "owner": "ronidomingues",
+        "name": "dev-learning-lab",
+        "branch": "main",
+        "enabled": true
+    },
+    "higebu/dsct": {
+        "owner": "higebu",
+        "name": "dsct",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iOSDevSK/html2wp-cc-plugin": {
+        "owner": "iOSDevSK",
+        "name": "html2wp-cc-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ryuki-imachi/claude-code-discord-bot": {
+        "owner": "ryuki-imachi",
+        "name": "claude-code-discord-bot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "muneebrbaig/n2i-dev-cycle": {
+        "owner": "muneebrbaig",
+        "name": "n2i-dev-cycle",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

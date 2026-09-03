@@ -24337,5 +24337,95 @@
     "repoOwner": "Loveless-Cartographer",
     "repoName": "lsp-flake",
     "repoBranch": "main"
+  },
+  "wu736139669/agent-taskgraph-protocol": {
+    "name": "wu736139669/agent-taskgraph-protocol",
+    "description": "Graph engineering protocol for Claude Code and Codex teams: spec freeze, durable roles, isolated workers, independent review, and evidence-backed delivery.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wu736139669",
+    "repoName": "agent-taskgraph-protocol",
+    "repoBranch": "main"
+  },
+  "blakecyze/kanso": {
+    "name": "blakecyze/kanso",
+    "description": "Six Claude Code skills that keep AI-generated code tight. Audit, refactor, commit, PR, curate context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blakecyze",
+    "repoName": "kanso",
+    "repoBranch": "main"
+  },
+  "jiutianxvanyin/humanizer-formal": {
+    "name": "jiutianxvanyin/humanizer-formal",
+    "description": "Reduce the \"AI-generated\" feel in business and academic texts; applicable to both Chinese and English. \u964d\u4f4e\u5546\u52a1\u4e0e\u5b66\u672f\u6587\u672c\u7684 AI \u751f\u6210\u611f\uff0c\u4e2d\u82f1\u6587\u5747\u9002\u7528\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jiutianxvanyin",
+    "repoName": "humanizer-formal",
+    "repoBranch": "main"
+  },
+  "relexlegal/relex-claude": {
+    "name": "relexlegal/relex-claude",
+    "description": "Relex plugin for Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "relexlegal",
+    "repoName": "relex-claude",
+    "repoBranch": "main"
+  },
+  "konradcinkusz/claude-scope": {
+    "name": "konradcinkusz/claude-scope",
+    "description": "Session forensics for Claude Code: a /session-report skill that turns a session's own transcript into token, timing and conversation-shape analytics \u2014 with a visual timeline. Installable as a plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "konradcinkusz",
+    "repoName": "claude-scope",
+    "repoBranch": "main"
+  },
+  "rdevraj950/claude-plugins": {
+    "name": "rdevraj950/claude-plugins",
+    "description": "rdevraj950's Claude Code plugins \u2014 a marketplace. Add rdevraj950/claude-plugins, then install what you want from it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rdevraj950",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "jamessunheart/super-agents-pack": {
+    "name": "jamessunheart/super-agents-pack",
+    "description": "jamessunheart/super-agents-pack \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jamessunheart",
+    "repoName": "super-agents-pack",
+    "repoBranch": "master"
+  },
+  "higebu/dsct": {
+    "name": "higebu/dsct",
+    "description": "Packet dissector CLI for LLMs and large captures",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "higebu",
+    "repoName": "dsct",
+    "repoBranch": "main"
+  },
+  "iOSDevSK/html2wp-cc-plugin": {
+    "name": "iOSDevSK/html2wp-cc-plugin",
+    "description": "Convert HTML to WordPress. A Claude Code plugin that turns a static HTML site \u2014 Lovable, Bolt, v0, Claude artifacts, hand-written pages \u2014 into a real WordPress block theme: pixel-identical, editable, no page builder,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iOSDevSK",
+    "repoName": "html2wp-cc-plugin",
+    "repoBranch": "main"
+  },
+  "ryuki-imachi/claude-code-discord-bot": {
+    "name": "ryuki-imachi/claude-code-discord-bot",
+    "description": "Unofficial Claude Code Discord plugin with context tracking, session clearing, bot status, server management, and custom slash commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryuki-imachi",
+    "repoName": "claude-code-discord-bot",
+    "repoBranch": "main"
   }
 }
