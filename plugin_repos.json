@@ -24220,5 +24220,23 @@
     "repoOwner": "mohocp",
     "repoName": "dataecho",
     "repoBranch": "main"
+  },
+  "finestructure-ai/humanizer-multilingual": {
+    "name": "finestructure-ai/humanizer-multilingual",
+    "description": "Marketplace of multilingual writing, accessibility, internationalization, and publishing skills for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "finestructure-ai",
+    "repoName": "humanizer-multilingual",
+    "repoBranch": "main"
+  },
+  "finestructure-ai/share-live": {
+    "name": "finestructure-ai/share-live",
+    "description": "Claude Code marketplace for publishing local prototypes to shareable URLs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "finestructure-ai",
+    "repoName": "share-live",
+    "repoBranch": "main"
   }
 }
