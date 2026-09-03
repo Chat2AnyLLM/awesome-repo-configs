@@ -24112,5 +24112,104 @@
     "repoOwner": "manuacl",
     "repoName": "infra-audit",
     "repoBranch": "main"
+  },
+  "sivaprasadreddy/sivalabs-agent-skills": {
+    "name": "sivaprasadreddy/sivalabs-agent-skills",
+    "description": "Spring Boot skills for AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sivaprasadreddy",
+    "repoName": "sivalabs-agent-skills",
+    "repoBranch": "main"
+  },
+  "dat999zx/knowl": {
+    "name": "dat999zx/knowl",
+    "description": "Persistent memory for Claude Code, Cursor and Codex. Facts are typed, sourced, and retired when they change. Local SQLite, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dat999zx",
+    "repoName": "knowl",
+    "repoBranch": "main"
+  },
+  "WatsonTsai/smart-brief": {
+    "name": "WatsonTsai/smart-brief",
+    "description": "A Claude Code skill and hook that replace the built-in Artifact tool with local, version-controlled HTML decision briefs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WatsonTsai",
+    "repoName": "smart-brief",
+    "repoBranch": "master"
+  },
+  "Aarvion-AI/stackwise-skills": {
+    "name": "Aarvion-AI/stackwise-skills",
+    "description": "End-to-end development skills for Claude Code: framework-specific expertise for frontend, backend, mobile, infra, and QA, with verification baked into every workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aarvion-AI",
+    "repoName": "stackwise-skills",
+    "repoBranch": "main"
+  },
+  "vikcena01/ai-continuity-plugin": {
+    "name": "vikcena01/ai-continuity-plugin",
+    "description": "Durable project state across AI sessions \u2014 decisions, constraints, and rejected paths, versioned in git. Not a memory tool.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vikcena01",
+    "repoName": "ai-continuity-plugin",
+    "repoBranch": "main"
+  },
+  "epicsagas/toefl-prep": {
+    "name": "epicsagas/toefl-prep",
+    "description": "TOEFL iBT study plugin \u2014 fully offline grading of all 4 sections (Reading/Listening/Speaking/Writing) with a local LLM (Ollama) + whisper.cpp. Customizable schedule in Claude Code \u00b7 Codex \u00b7 agy.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "epicsagas",
+    "repoName": "toefl-prep",
+    "repoBranch": "main"
+  },
+  "maxxiedddd/unjargon": {
+    "name": "maxxiedddd/unjargon",
+    "description": "Stop Claude from inventing words. A skill + output style that makes Opus 5 and Fable write plainly, in English and Chinese. Zero dependencies, no second model, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maxxiedddd",
+    "repoName": "unjargon",
+    "repoBranch": "main"
+  },
+  "coltonbearden/awakened": {
+    "name": "coltonbearden/awakened",
+    "description": "coltonbearden/awakened \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coltonbearden",
+    "repoName": "awakened",
+    "repoBranch": "main"
+  },
+  "epicsagas/AgentGlance": {
+    "name": "epicsagas/AgentGlance",
+    "description": "\ud83d\udcfa Turn a GeekMagic SmallTV (SD_RU/SDPro ESP8266) into a live agent status monitor \u2014 WORKING / APPROVAL / DONE + model, context %, and token counts. Multi-host plugin for Claude Code, Codex, agy & hermes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "epicsagas",
+    "repoName": "AgentGlance",
+    "repoBranch": "main"
+  },
+  "lilyshin/can-i-delete-this": {
+    "name": "lilyshin/can-i-delete-this",
+    "description": "git \uc774\ub825\uc744 \ucd94\uc801\ud574 '\uc774 \ucf54\ub4dc \uc9c0\uc6cc\ub3c4 \ub418\ub098'\uc5d0 \ucee4\ubc0b \uadfc\uac70\ub85c \ub2f5\ud558\ub294 Claude Code \uc2a4\ud0ac. \ud3ec\ub9e4\ud130\u00b7\uc2a4\ucffc\uc2dc\u00b7\ucf54\ub4dc \uc774\ub3d9 \ub178\uc774\uc988\ub97c \ub118\uc5b4 \uc9c4\uc9dc \ub3c4\uc785 \ucee4\ubc0b\uc744 \ucc3e\uc2b5\ub2c8\ub2e4.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lilyshin",
+    "repoName": "can-i-delete-this",
+    "repoBranch": "main"
+  },
+  "latentminds-ai/atmina-plugins": {
+    "name": "latentminds-ai/atmina-plugins",
+    "description": "Atmina shared memory for coding agents \u2014 Claude Code, Cursor and Codex plugins. Generated; issues welcome, PRs are reverted on publish.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "latentminds-ai",
+    "repoName": "atmina-plugins",
+    "repoBranch": "main"
   }
 }

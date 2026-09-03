@@ -30493,5 +30493,85 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "sivaprasadreddy/sivalabs-agent-skills": {
+        "owner": "sivaprasadreddy",
+        "name": "sivalabs-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WatsonTsai/smart-brief": {
+        "owner": "WatsonTsai",
+        "name": "smart-brief",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Aarvion-AI/stackwise-skills": {
+        "owner": "Aarvion-AI",
+        "name": "stackwise-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vikcena01/ai-continuity-plugin": {
+        "owner": "vikcena01",
+        "name": "ai-continuity-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "epicsagas/toefl-prep": {
+        "owner": "epicsagas",
+        "name": "toefl-prep",
+        "branch": "main",
+        "enabled": true
+    },
+    "maxxiedddd/unjargon": {
+        "owner": "maxxiedddd",
+        "name": "unjargon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "grandheman/claude-sdlc": {
+        "owner": "grandheman",
+        "name": "claude-sdlc",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "coltonbearden/awakened": {
+        "owner": "coltonbearden",
+        "name": "awakened",
+        "branch": "main",
+        "enabled": true
+    },
+    "epicsagas/AgentGlance": {
+        "owner": "epicsagas",
+        "name": "AgentGlance",
+        "branch": "main",
+        "enabled": true
+    },
+    "lilyshin/can-i-delete-this": {
+        "owner": "lilyshin",
+        "name": "can-i-delete-this",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "latentminds-ai/atmina-plugins": {
+        "owner": "latentminds-ai",
+        "name": "atmina-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "rockbenben/aishort-skills": {
+        "owner": "rockbenben",
+        "name": "aishort-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

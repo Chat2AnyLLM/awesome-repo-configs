@@ -4370,5 +4370,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sivaprasadreddy/sivalabs-agent-skills": {
+    "owner": "sivaprasadreddy",
+    "name": "sivalabs-agent-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
