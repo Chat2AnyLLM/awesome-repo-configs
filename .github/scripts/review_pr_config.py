@@ -268,9 +268,20 @@ def get_file_text(repo, path, ref, token):
         return None
     if status >= 400:
         raise RuntimeError(data.get("message", f"Unable to fetch {path}"))
-    if data.get("encoding") != "base64":
-        raise RuntimeError(f"Unexpected encoding for {path}")
-    return base64.b64decode(data["content"]).decode("utf-8")
+    if data.get("encoding") == "base64":
+        return base64.b64decode(data["content"]).decode("utf-8")
+
+    # The contents API omits inline content for files larger than 1 MiB.
+    # Fetch the referenced Git blob instead, which remains base64 encoded.
+    git_url = data.get("git_url")
+    if git_url:
+        blob_status, blob = api_request(git_url, token)
+        if blob_status >= 400:
+            raise RuntimeError(blob.get("message", f"Unable to fetch Git blob for {path}"))
+        if blob.get("encoding") == "base64":
+            return base64.b64decode(blob["content"]).decode("utf-8")
+
+    raise RuntimeError(f"Unexpected encoding for {path}")
 
 
 def get_tree_paths(owner, repo, ref, token):
