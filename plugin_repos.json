@@ -7618,7 +7618,7 @@
   },
   "atretyak1985/swarmery": {
     "name": "atretyak1985/swarmery",
-    "description": "The craft of agent swarms \u2014 a vendor-neutral, multi-project Claude Code agent framework (plugin marketplace): one shared core + opt-in domain packs.",
+    "description": "Local-first control plane for Claude Code (session index, live tool calls and cost, one approvals queue, board tasks dispatched to headless agents in git worktrees) plus a plugin marketplace: core + 11 opt-in domain packs. No cloud, no account, no telemetry.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "atretyak1985",
