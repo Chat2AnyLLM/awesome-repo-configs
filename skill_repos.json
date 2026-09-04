@@ -31049,5 +31049,125 @@
         "name": "done",
         "branch": "main",
         "enabled": true
+    },
+    "restarter/lets-workflow": {
+        "owner": "restarter",
+        "name": "lets-workflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "zekker6/claude-code-channel-matrix": {
+        "owner": "zekker6",
+        "name": "claude-code-channel-matrix",
+        "branch": "master",
+        "enabled": true
+    },
+    "FIZ-co/fiz-invoicing-skill": {
+        "owner": "FIZ-co",
+        "name": "fiz-invoicing-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "dinhanhthi/coding-friend": {
+        "owner": "dinhanhthi",
+        "name": "coding-friend",
+        "branch": "main",
+        "enabled": true
+    },
+    "AzamatRaimbekov/vibe-coding-mentor": {
+        "owner": "AzamatRaimbekov",
+        "name": "vibe-coding-mentor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nowespojrzenie/HEXAGRAM": {
+        "owner": "nowespojrzenie",
+        "name": "HEXAGRAM",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "doughoseck/divi5-builder": {
+        "owner": "doughoseck",
+        "name": "divi5-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "matiaspalmac/fivem-resource-builder": {
+        "owner": "matiaspalmac",
+        "name": "fivem-resource-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "elieandraos/agentic-engineering": {
+        "owner": "elieandraos",
+        "name": "agentic-engineering",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ahmad-G1/ppc-audit-lite": {
+        "owner": "Ahmad-G1",
+        "name": "ppc-audit-lite",
+        "branch": "main",
+        "enabled": true
+    },
+    "yeyuan98/bioresearcher-skills": {
+        "owner": "yeyuan98",
+        "name": "bioresearcher-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SWHee/skills": {
+        "owner": "SWHee",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "bestiaya/ctx-kit": {
+        "owner": "bestiaya",
+        "name": "ctx-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thetoyosibello/claude-sound-ear": {
+        "owner": "thetoyosibello",
+        "name": "claude-sound-ear",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kjungit/claude-code-worklog": {
+        "owner": "kjungit",
+        "name": "claude-code-worklog",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ridelink0/claude-computer-use": {
+        "owner": "ridelink0",
+        "name": "claude-computer-use",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jorekai/skills": {
+        "owner": "jorekai",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "frty2-ai/scrummy-skill": {
+        "owner": "frty2-ai",
+        "name": "scrummy-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

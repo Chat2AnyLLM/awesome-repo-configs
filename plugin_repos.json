@@ -24616,5 +24616,95 @@
     "repoOwner": "young1ll",
     "repoName": "done",
     "repoBranch": "main"
+  },
+  "restarter/lets-workflow": {
+    "name": "restarter/lets-workflow",
+    "description": "A Claude Code plugin for a structured dev workflow \u2014 14 expert agents, code review, planning, and task tracking, all from the terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "restarter",
+    "repoName": "lets-workflow",
+    "repoBranch": "main"
+  },
+  "zekker6/claude-code-channel-matrix": {
+    "name": "zekker6/claude-code-channel-matrix",
+    "description": "A channel for Claude Code to work with Matrix.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zekker6",
+    "repoName": "claude-code-channel-matrix",
+    "repoBranch": "master"
+  },
+  "dinhanhthi/coding-friend": {
+    "name": "dinhanhthi/coding-friend",
+    "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antigravity, ZCode).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dinhanhthi",
+    "repoName": "coding-friend",
+    "repoBranch": "main"
+  },
+  "yeyuan98/bioresearcher-skills": {
+    "name": "yeyuan98/bioresearcher-skills",
+    "description": "Agent Skills (SKILL.md, agentskills.io standard) for biomedical research with the biomcp-ts MCP server \u2014 deep research, PubMed weekly updates, uv setup. Works in opencode, Claude Code, Codex, Cursor, Gemini CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yeyuan98",
+    "repoName": "bioresearcher-skills",
+    "repoBranch": "main"
+  },
+  "bestiaya/ctx-kit": {
+    "name": "bestiaya/ctx-kit",
+    "description": "Session lifecycle toolkit for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bestiaya",
+    "repoName": "ctx-kit",
+    "repoBranch": "main"
+  },
+  "kjungit/claude-code-worklog": {
+    "name": "kjungit/claude-code-worklog",
+    "description": "kjungit/claude-code-worklog \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kjungit",
+    "repoName": "claude-code-worklog",
+    "repoBranch": "main"
+  },
+  "ridelink0/claude-computer-use": {
+    "name": "ridelink0/claude-computer-use",
+    "description": "Codex-style computer use for Claude Code. Drives Windows and macOS apps through the accessibility tree, ~20x cheaper than screenshots, and lets you keep working on the same desktop while it works.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ridelink0",
+    "repoName": "claude-computer-use",
+    "repoBranch": "main"
+  },
+  "akasecurity/marketplace": {
+    "name": "akasecurity/marketplace",
+    "description": "One place to install AKA Security's tools for coding agents \u2014 Claude Code, Codex, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akasecurity",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "jorekai/skills": {
+    "name": "jorekai/skills",
+    "description": "Hand-maintained Claude Code skills, one plugin per theme (jorekai-seo). MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jorekai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "frty2-ai/scrummy-skill": {
+    "name": "frty2-ai/scrummy-skill",
+    "description": "Chief of staff for a Scrummy (Plane) workspace \u2014 a Claude skill that turns conversations and code into board state, says what's next, briefs stakeholders, and flags deadlines that cannot absorb a late start.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "frty2-ai",
+    "repoName": "scrummy-skill",
+    "repoBranch": "main"
   }
 }
