@@ -31193,5 +31193,113 @@
         "name": "skill-devkit-skill",
         "branch": "master",
         "enabled": true
+    },
+    "bjcoombs/ai-native-toolkit": {
+        "owner": "bjcoombs",
+        "name": "ai-native-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "billLiao/PPT-Design-Skill": {
+        "owner": "billLiao",
+        "name": "PPT-Design-Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sergvss/agents-best-teams": {
+        "owner": "sergvss",
+        "name": "agents-best-teams",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AntonioBlago/claude-code-seo-starter": {
+        "owner": "AntonioBlago",
+        "name": "claude-code-seo-starter",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "bendusz/deliver": {
+        "owner": "bendusz",
+        "name": "deliver",
+        "branch": "main",
+        "enabled": true
+    },
+    "sriwitsumo/project-skill": {
+        "owner": "sriwitsumo",
+        "name": "project-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kdykes/synthetic-customer-discovery": {
+        "owner": "kdykes",
+        "name": "synthetic-customer-discovery",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "betmoar/cc-reload-plugin": {
+        "owner": "betmoar",
+        "name": "cc-reload-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "supostat/mneme-plugin": {
+        "owner": "supostat",
+        "name": "mneme-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "harshitt13/Silicon-Valley-Skill": {
+        "owner": "harshitt13",
+        "name": "Silicon-Valley-Skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aloim/phaneslightplugin": {
+        "owner": "Aloim",
+        "name": "phaneslightplugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "XyraSinclair/ideonomy": {
+        "owner": "XyraSinclair",
+        "name": "ideonomy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cschuman/design-antislop": {
+        "owner": "cschuman",
+        "name": "design-antislop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "caesay/claude-codex-subagent": {
+        "owner": "caesay",
+        "name": "claude-codex-subagent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BakerVentures/shipcheck": {
+        "owner": "BakerVentures",
+        "name": "shipcheck",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ahmadghoniem/skills": {
+        "owner": "ahmadghoniem",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
     }
 }

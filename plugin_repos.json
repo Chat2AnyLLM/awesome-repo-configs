@@ -24706,5 +24706,113 @@
     "repoOwner": "frty2-ai",
     "repoName": "scrummy-skill",
     "repoBranch": "main"
+  },
+  "bjcoombs/ai-native-toolkit": {
+    "name": "bjcoombs/ai-native-toolkit",
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats deliberation (/huddle), AI-slop removal (/deslop), skill hardening (/skill-forge), and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bjcoombs",
+    "repoName": "ai-native-toolkit",
+    "repoBranch": "main"
+  },
+  "sergvss/agents-best-teams": {
+    "name": "sergvss/agents-best-teams",
+    "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective hooks. Works with Claude Code, Codex, Cursor, Cline, Aider. Docs and role templates are in Russian.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sergvss",
+    "repoName": "agents-best-teams",
+    "repoBranch": "main"
+  },
+  "AntonioBlago/claude-code-seo-starter": {
+    "name": "AntonioBlago/claude-code-seo-starter",
+    "description": "Claude Code blueprint for SEO freelancers & agencies \u2014 Visibly AI MCP, full client workflow (status-quo \u2192 potential \u2192 offer \u2192 PDF), intent-aware CTR model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AntonioBlago",
+    "repoName": "claude-code-seo-starter",
+    "repoBranch": "master"
+  },
+  "bendusz/deliver": {
+    "name": "bendusz/deliver",
+    "description": "A Project/Product Manager skill for Claude Code: Claude orchestrates delivery \u2014 discover, plan, sign-off, then build/review/ship via subagents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bendusz",
+    "repoName": "deliver",
+    "repoBranch": "main"
+  },
+  "betmoar/cc-reload-plugin": {
+    "name": "betmoar/cc-reload-plugin",
+    "description": "Session continuity across context resets for Claude Code \u2014 snapshots a session digest before /clear, /compact, or auto-compaction and auto-rehydrates after. The non-looped companion to cc-repete.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "betmoar",
+    "repoName": "cc-reload-plugin",
+    "repoBranch": "main"
+  },
+  "supostat/mneme-plugin": {
+    "name": "supostat/mneme-plugin",
+    "description": "Persistent cross-project memory and phase-workflow engine for Claude Code \u2014 human-gated, local-first, event-sourced. Ships as a plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "supostat",
+    "repoName": "mneme-plugin",
+    "repoBranch": "main"
+  },
+  "harshitt13/Silicon-Valley-Skill": {
+    "name": "harshitt13/Silicon-Valley-Skill",
+    "description": "Claude Code plugin: the old Silicon Valley dev nobody notices and nobody can fault. Quiet voice, untouchable craft, one dark line at most.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "harshitt13",
+    "repoName": "Silicon-Valley-Skill",
+    "repoBranch": "main"
+  },
+  "Aloim/phaneslightplugin": {
+    "name": "Aloim/phaneslightplugin",
+    "description": "PhanesLight as a Claude Code plugin: multi-agent orchestration and durable project memory. One command turns a repository into a wired, opinionated agent team. Manual install version at Aloim/phaneslight.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aloim",
+    "repoName": "phaneslightplugin",
+    "repoBranch": "main"
+  },
+  "XyraSinclair/ideonomy": {
+    "name": "XyraSinclair/ideonomy",
+    "description": "Computational ideonomy: Gunkel's science of ideas as inference-time machinery \u2014 a 37-primitive organon, an MDL-ratcheted respiratory engine, and 14 gated agent skills (Claude Code plugin)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "XyraSinclair",
+    "repoName": "ideonomy",
+    "repoBranch": "main"
+  },
+  "caesay/claude-codex-subagent": {
+    "name": "caesay/claude-codex-subagent",
+    "description": "Run OpenAI Codex (GPT models) as a subagent from Claude Code \u2014 skill + watchdog runner, no daemon",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "caesay",
+    "repoName": "claude-codex-subagent",
+    "repoBranch": "main"
+  },
+  "BakerVentures/shipcheck": {
+    "name": "BakerVentures/shipcheck",
+    "description": "App Store / Google Play rejection-risk checker for React Native and Expo apps. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BakerVentures",
+    "repoName": "shipcheck",
+    "repoBranch": "master"
+  },
+  "ahmadghoniem/skills": {
+    "name": "ahmadghoniem/skills",
+    "description": "My Claude Code skills and CLI delegation plugins, in one marketplace: align, tailwind, opencode, snapshot, recall, plus cursor/grok/agy delegation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ahmadghoniem",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }

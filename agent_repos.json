@@ -4447,5 +4447,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "bjcoombs/ai-native-toolkit": {
+    "owner": "bjcoombs",
+    "name": "ai-native-toolkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "caesay/claude-codex-subagent": {
+    "owner": "caesay",
+    "name": "claude-codex-subagent",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
