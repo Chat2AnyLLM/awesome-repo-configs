@@ -30940,5 +30940,114 @@
         "name": "recast-for-claude",
         "branch": "main",
         "enabled": true
+    },
+    "agentii-ai/agentii-investment-intelligence": {
+        "owner": "agentii-ai",
+        "name": "agentii-investment-intelligence",
+        "branch": "main",
+        "enabled": true
+    },
+    "foyzulkarim/skills": {
+        "owner": "foyzulkarim",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "JohnWayneeee/casely-qa-skill": {
+        "owner": "JohnWayneeee",
+        "name": "casely-qa-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "buluslan/bulus-amazon-skill": {
+        "owner": "buluslan",
+        "name": "bulus-amazon-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "durmazoguzhan/turkish-humanify": {
+        "owner": "durmazoguzhan",
+        "name": "turkish-humanify",
+        "branch": "master",
+        "enabled": true
+    },
+    "MarcSky/loanword": {
+        "owner": "MarcSky",
+        "name": "loanword",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hellohelen-ai/iceberg": {
+        "owner": "hellohelen-ai",
+        "name": "iceberg",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SenMuShare/senmu-buildos": {
+        "owner": "SenMuShare",
+        "name": "senmu-buildos",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alternative-intelligence-cp/claude-skills": {
+        "owner": "alternative-intelligence-cp",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "coltonbearden/carrel": {
+        "owner": "coltonbearden",
+        "name": "carrel",
+        "branch": "main",
+        "enabled": true
+    },
+    "herehigher/sapwood": {
+        "owner": "herehigher",
+        "name": "sapwood",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hizir-SamuelP/deep-trip-planning": {
+        "owner": "Hizir-SamuelP",
+        "name": "deep-trip-planning",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LeonardoBringel/intelect-devorer-skill": {
+        "owner": "LeonardoBringel",
+        "name": "intelect-devorer-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "iansteitz1-eng/aria-skills": {
+        "owner": "iansteitz1-eng",
+        "name": "aria-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Bisbi/testament-of-ephemeral-minds": {
+        "owner": "Bisbi",
+        "name": "testament-of-ephemeral-minds",
+        "branch": "main",
+        "enabled": true
+    },
+    "arsen-ask-lx/Agent_Quality_Kit": {
+        "owner": "arsen-ask-lx",
+        "name": "Agent_Quality_Kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "young1ll/done": {
+        "owner": "young1ll",
+        "name": "done",
+        "branch": "main",
+        "enabled": true
     }
 }

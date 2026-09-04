@@ -24517,5 +24517,104 @@
     "repoOwner": "getrecast",
     "repoName": "recast-for-claude",
     "repoBranch": "main"
+  },
+  "agentii-ai/agentii-investment-intelligence": {
+    "name": "agentii-ai/agentii-investment-intelligence",
+    "description": "Claude-type skills for institutional equity research \u2014 25 AI agent skills with SEC   filings, XBRL financials, earnings calendars, DCF/comps/LBO models, and PPT   generation. Powered by agentii.ai data plane. Works wi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agentii-ai",
+    "repoName": "agentii-investment-intelligence",
+    "repoBranch": "main"
+  },
+  "foyzulkarim/skills": {
+    "name": "foyzulkarim/skills",
+    "description": "Personal Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "foyzulkarim",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "durmazoguzhan/turkish-humanify": {
+    "name": "durmazoguzhan/turkish-humanify",
+    "description": "Turkish humanizer skill for Claude and Claude Code. Rewrites AI-sounding Turkish into Turkish a person would have written: native sentence architecture, register-aware dosing, technical terms kept. T\u00fcrk\u00e7e humanizer /...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "durmazoguzhan",
+    "repoName": "turkish-humanify",
+    "repoBranch": "master"
+  },
+  "MarcSky/loanword": {
+    "name": "MarcSky/loanword",
+    "description": "MarcSky/loanword \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MarcSky",
+    "repoName": "loanword",
+    "repoBranch": "master"
+  },
+  "hellohelen-ai/iceberg": {
+    "name": "hellohelen-ai/iceberg",
+    "description": "Show 1/8, keep 7/8 below the surface. 84% fewer output tokens than 'Answer concisely.' \u2014 measured, not claimed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hellohelen-ai",
+    "repoName": "iceberg",
+    "repoBranch": "main"
+  },
+  "SenMuShare/senmu-buildos": {
+    "name": "SenMuShare/senmu-buildos",
+    "description": "AI-native BuildOS for Codex, Claude Code, Doubao, WorkBuddy and ZCode: product discovery, UI/UX design, software engineering, context-aware workflows, testing, Git and verifiable releases.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SenMuShare",
+    "repoName": "senmu-buildos",
+    "repoBranch": "main"
+  },
+  "alternative-intelligence-cp/claude-skills": {
+    "name": "alternative-intelligence-cp/claude-skills",
+    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a project from a client's idea to a working product under a signed charter \u2014 traceable requirement...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alternative-intelligence-cp",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "coltonbearden/carrel": {
+    "name": "coltonbearden/carrel",
+    "description": "A library desk for your files \u2014 and your agents. Local file toolkit + Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coltonbearden",
+    "repoName": "carrel",
+    "repoBranch": "main"
+  },
+  "herehigher/sapwood": {
+    "name": "herehigher/sapwood",
+    "description": "The autonomous coding loop with governance built in: issues in \u2192 reviewed PRs out.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "herehigher",
+    "repoName": "sapwood",
+    "repoBranch": "main"
+  },
+  "Bisbi/testament-of-ephemeral-minds": {
+    "name": "Bisbi/testament-of-ephemeral-minds",
+    "description": "A constitution with a right of reply, a testament rite for every mind that works in your repo, a register for human decisions, and guardians that keep the charter honest. Claude Code plugin + thesis + real letters.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Bisbi",
+    "repoName": "testament-of-ephemeral-minds",
+    "repoBranch": "main"
+  },
+  "young1ll/done": {
+    "name": "young1ll/done",
+    "description": "Small, finished Claude Code plugins by young1ll",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "young1ll",
+    "repoName": "done",
+    "repoBranch": "main"
   }
 }
