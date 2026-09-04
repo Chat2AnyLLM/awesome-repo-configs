@@ -4461,5 +4461,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "KonstantinRoehrl/devcycle": {
+    "owner": "KonstantinRoehrl",
+    "name": "devcycle",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

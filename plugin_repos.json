@@ -24814,5 +24814,59 @@
     "repoOwner": "ahmadghoniem",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "KonstantinRoehrl/devcycle": {
+    "name": "KonstantinRoehrl/devcycle",
+    "description": "Turns a short feature/bug description into a reviewed, on-device-verified implementation \u2014 parallel subagents, cross-model review, GitHub reconcile, and a doctor/learn loop that benchmarks and improves the pipeline it...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KonstantinRoehrl",
+    "repoName": "devcycle",
+    "repoBranch": "main"
+  },
+  "NishikantaRay/Attic": {
+    "name": "NishikantaRay/Attic",
+    "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NishikantaRay",
+    "repoName": "Attic",
+    "repoBranch": "main"
+  },
+  "qiaeru/skill-claudemd": {
+    "name": "qiaeru/skill-claudemd",
+    "description": "A Claude Code skill that trims a project's CLAUDE.md to what is strictly necessary, replacing derivable or duplicated content with on-demand references to save context tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qiaeru",
+    "repoName": "skill-claudemd",
+    "repoBranch": "main"
+  },
+  "qiaeru/skill-english-prose": {
+    "name": "qiaeru/skill-english-prose",
+    "description": "A Claude Code skill that removes AI writing patterns from English prose and targets fluent, natural US English. Maintained fork of hardikpandya/stop-slop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qiaeru",
+    "repoName": "skill-english-prose",
+    "repoBranch": "main"
+  },
+  "colomet/skill-boilerplate": {
+    "name": "colomet/skill-boilerplate",
+    "description": "A starting point for building Claude Skills that doesn't bake in someone else's conventions. A setup wizard asks how you name, version and lay out skills, then generates a skill-creator with your answers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "colomet",
+    "repoName": "skill-boilerplate",
+    "repoBranch": "main"
+  },
+  "AiBJohnson/scale-systems-skills": {
+    "name": "AiBJohnson/scale-systems-skills",
+    "description": "Eight free Claude Code skills for one-person business operations, with synthetic test inputs, expected behavior, and safety boundaries.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AiBJohnson",
+    "repoName": "scale-systems-skills",
+    "repoBranch": "main"
   }
 }

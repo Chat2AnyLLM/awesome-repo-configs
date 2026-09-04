@@ -31301,5 +31301,57 @@
         "name": "skills",
         "branch": "main",
         "enabled": true
+    },
+    "agents-inc/agents-inc": {
+        "owner": "agents-inc",
+        "name": "agents-inc",
+        "branch": "main",
+        "enabled": true
+    },
+    "NishikantaRay/Attic": {
+        "owner": "NishikantaRay",
+        "name": "Attic",
+        "branch": "main",
+        "enabled": true
+    },
+    "sequelachi/poprawna-polszczyzna": {
+        "owner": "sequelachi",
+        "name": "poprawna-polszczyzna",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "qiaeru/skill-claudemd": {
+        "owner": "qiaeru",
+        "name": "skill-claudemd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qiaeru/skill-english-prose": {
+        "owner": "qiaeru",
+        "name": "skill-english-prose",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "colomet/skill-boilerplate": {
+        "owner": "colomet",
+        "name": "skill-boilerplate",
+        "branch": "main",
+        "enabled": true
+    },
+    "AiBJohnson/scale-systems-skills": {
+        "owner": "AiBJohnson",
+        "name": "scale-systems-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yosishe/visual-video-summarizer": {
+        "owner": "yosishe",
+        "name": "visual-video-summarizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
