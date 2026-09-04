@@ -31169,5 +31169,29 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "qiusuo0226/chrono-pm-skill": {
+        "owner": "qiusuo0226",
+        "name": "chrono-pm-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "qiusuo0226/job-research-analyst-skill": {
+        "owner": "qiusuo0226",
+        "name": "job-research-analyst-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "qiusuo0226/session-handoff-skill": {
+        "owner": "qiusuo0226",
+        "name": "session-handoff-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "qiusuo0226/skill-devkit-skill": {
+        "owner": "qiusuo0226",
+        "name": "skill-devkit-skill",
+        "branch": "master",
+        "enabled": true
     }
 }
