@@ -4517,5 +4517,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "LetA-Tech/mellions-coxen": {
+    "owner": "LetA-Tech",
+    "name": "mellions-coxen",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mafftopia/trade-stories": {
+    "owner": "mafftopia",
+    "name": "trade-stories",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "open-science-pillars/ocean-science": {
+    "owner": "open-science-pillars",
+    "name": "ocean-science",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

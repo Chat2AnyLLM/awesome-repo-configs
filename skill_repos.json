@@ -31660,5 +31660,118 @@
         "branch": "master",
         "skillsPath": "./",
         "enabled": true
+    },
+    "justinjdev/fellowship": {
+        "owner": "justinjdev",
+        "name": "fellowship",
+        "branch": "main",
+        "enabled": true
+    },
+    "AI-Business-Tools/claude-code": {
+        "owner": "AI-Business-Tools",
+        "name": "claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN": {
+        "owner": "wanshuiyin",
+        "name": "ALIGN-Agentic-Loop-Image-GeneratioN",
+        "branch": "main",
+        "enabled": true
+    },
+    "vasco-branco06/geo-check": {
+        "owner": "vasco-branco06",
+        "name": "geo-check",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nyldn/model-optimizer-lite": {
+        "owner": "nyldn",
+        "name": "model-optimizer-lite",
+        "branch": "main",
+        "enabled": true
+    },
+    "LetA-Tech/mellions-coxen": {
+        "owner": "LetA-Tech",
+        "name": "mellions-coxen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mafftopia/trade-stories": {
+        "owner": "mafftopia",
+        "name": "trade-stories",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "brightops-ai/brightopsai-plugins-official": {
+        "owner": "brightops-ai",
+        "name": "brightopsai-plugins-official",
+        "branch": "main",
+        "enabled": true
+    },
+    "open-science-pillars/ocean-science": {
+        "owner": "open-science-pillars",
+        "name": "ocean-science",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MasterinoSplinterino/mobile-release-playbook": {
+        "owner": "MasterinoSplinterino",
+        "name": "mobile-release-playbook",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thalleskayke6/skill-professor-concurso-publico": {
+        "owner": "thalleskayke6",
+        "name": "skill-professor-concurso-publico",
+        "branch": "main",
+        "enabled": true
+    },
+    "thebgtagency/ai-writing-audit": {
+        "owner": "thebgtagency",
+        "name": "ai-writing-audit",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LinardsLiepenieks/honecode": {
+        "owner": "LinardsLiepenieks",
+        "name": "honecode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "forcewake/remarkable-send": {
+        "owner": "forcewake",
+        "name": "remarkable-send",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nanoodlecom/noodle-skills": {
+        "owner": "nanoodlecom",
+        "name": "noodle-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "abgne/line-dev": {
+        "owner": "abgne",
+        "name": "line-dev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gabrielnfc/gabarito-mestre": {
+        "owner": "gabrielnfc",
+        "name": "gabarito-mestre",
+        "branch": "main",
+        "enabled": true
     }
 }

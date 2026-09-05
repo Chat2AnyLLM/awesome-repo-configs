@@ -25138,5 +25138,95 @@
     "repoOwner": "rokokol",
     "repoName": "ai-commit-trailers-skill",
     "repoBranch": "master"
+  },
+  "justinjdev/fellowship": {
+    "name": "justinjdev/fellowship",
+    "description": "A Claude Code plugin for orchestrating parallel AI agent quests with worktree isolation, phase gates, and context discipline",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justinjdev",
+    "repoName": "fellowship",
+    "repoBranch": "main"
+  },
+  "nyldn/model-optimizer-lite": {
+    "name": "nyldn/model-optimizer-lite",
+    "description": "Lightweight model routing, effort guidance, and review verification for Claude and Codex, including Astra.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nyldn",
+    "repoName": "model-optimizer-lite",
+    "repoBranch": "main"
+  },
+  "LetA-Tech/mellions-coxen": {
+    "name": "LetA-Tech/mellions-coxen",
+    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, continuity, and autonomous completion.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LetA-Tech",
+    "repoName": "mellions-coxen",
+    "repoBranch": "main"
+  },
+  "mafftopia/trade-stories": {
+    "name": "mafftopia/trade-stories",
+    "description": "Trade Stories DSL",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mafftopia",
+    "repoName": "trade-stories",
+    "repoBranch": "main"
+  },
+  "brightops-ai/brightopsai-plugins-official": {
+    "name": "brightops-ai/brightopsai-plugins-official",
+    "description": "Official Claude Code plugin marketplace by BrightOps AI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brightops-ai",
+    "repoName": "brightopsai-plugins-official",
+    "repoBranch": "main"
+  },
+  "flykit-cc/plugins": {
+    "name": "flykit-cc/plugins",
+    "description": "The Claude Code plugin marketplace for flykit \u2014 a menu pointing at each plugin's own repo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "flykit-cc",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "open-science-pillars/ocean-science": {
+    "name": "open-science-pillars/ocean-science",
+    "description": "Physical oceanography plugin for Open Science Pillars: the ECCO v4r4 state estimate, SWOT KaRIn SSH, meridional transport, budget closure, water masses, sea level, receipted figures, and the PO.DAAC knowledge arc. One...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "open-science-pillars",
+    "repoName": "ocean-science",
+    "repoBranch": "main"
+  },
+  "LinardsLiepenieks/honecode": {
+    "name": "LinardsLiepenieks/honecode",
+    "description": "Eight code-quality skills for Claude Code: scope, grade, structurize, simplify, harden, clean up, audit, and flag concerns to teammates in the code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LinardsLiepenieks",
+    "repoName": "honecode",
+    "repoBranch": "main"
+  },
+  "abgne/line-dev": {
+    "name": "abgne/line-dev",
+    "description": "AI agent skills for LINE platform development \u2014 Messaging API, Login, LIFF, MINI App, and Notification Messages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abgne",
+    "repoName": "line-dev",
+    "repoBranch": "main"
+  },
+  "gabrielnfc/gabarito-mestre": {
+    "name": "gabrielnfc/gabarito-mestre",
+    "description": "Plugin de Claude Code: barra o destrutivo (hooks R2/R3), confere o produzido (conformidade, review adversarial, spike) e mede o n\u00edvel real de ado\u00e7\u00e3o (doctor). Comp\u00f5e com superpowers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gabrielnfc",
+    "repoName": "gabarito-mestre",
+    "repoBranch": "main"
   }
 }
