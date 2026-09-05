@@ -24868,5 +24868,122 @@
     "repoOwner": "AiBJohnson",
     "repoName": "scale-systems-skills",
     "repoBranch": "main"
+  },
+  "zenstory-ai/video-recap-skills": {
+    "name": "zenstory-ai/video-recap-skills",
+    "description": "Clip any video into a narration recap with claude code skill\uff5c\u7528 claude code skill \u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zenstory-ai",
+    "repoName": "video-recap-skills",
+    "repoBranch": "main"
+  },
+  "religa/multi_mcp": {
+    "name": "religa/multi_mcp",
+    "description": "Multi-Model chat, code review and analysis MCP Server for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "religa",
+    "repoName": "multi_mcp",
+    "repoBranch": "main"
+  },
+  "Mojtaba-Alehosseini/persian-skill": {
+    "name": "Mojtaba-Alehosseini/persian-skill",
+    "description": "Claude skill: English-Persian (Farsi) translation plus Persian text mechanics (RTL, ZWNJ, digits, punctuation).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mojtaba-Alehosseini",
+    "repoName": "persian-skill",
+    "repoBranch": "main"
+  },
+  "knitli/toolshed": {
+    "name": "knitli/toolshed",
+    "description": "Curated Claude Code plugins by Knitli",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "knitli",
+    "repoName": "toolshed",
+    "repoBranch": "main"
+  },
+  "shubham0704/claude-skills": {
+    "name": "shubham0704/claude-skills",
+    "description": "Skills that help YOU operate at staff-researcher level. The agent does the grunt work; you stay in the driver's seat. A proper workflow for polishing ideas, expressing them rigorously, and implementing them properly....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shubham0704",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Qualimetry/claude-code-qualimetry-ai-app": {
+    "name": "Qualimetry/claude-code-qualimetry-ai-app",
+    "description": "Claude Code marketplace and plugin: catches coding-standards, principles, and policy violations as Claude writes code, and surfaces open review findings the moment a reviewed file is opened.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Qualimetry",
+    "repoName": "claude-code-qualimetry-ai-app",
+    "repoBranch": "main"
+  },
+  "neeleshseerapu/Rehorse": {
+    "name": "neeleshseerapu/Rehorse",
+    "description": "Auto mode for Claude Code you can actually walk away from",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "neeleshseerapu",
+    "repoName": "Rehorse",
+    "repoBranch": "main"
+  },
+  "Citability/claude-code-adhd-skills": {
+    "name": "Citability/claude-code-adhd-skills",
+    "description": "Two Claude Code skills for ADHD developers (mirror, librarian), copied unedited from the author's daily ~/.claude/skills. MIT. No installer, no dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Citability",
+    "repoName": "claude-code-adhd-skills",
+    "repoBranch": "main"
+  },
+  "ray-amjad/awesome-claude-code-function-hooks": {
+    "name": "ray-amjad/awesome-claude-code-function-hooks",
+    "description": "Claude Code function hooks worth installing. First up: secret-redactor, which keeps secrets, emails and IPs out of the session transcript.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ray-amjad",
+    "repoName": "awesome-claude-code-function-hooks",
+    "repoBranch": "main"
+  },
+  "timgillASA/claude-bridge": {
+    "name": "timgillASA/claude-bridge",
+    "description": "A review room for coding-agent sessions: one append-only markdown file where two to four Claude Code (or Codex) sessions holding different evidence correct each other's claims. No server, no daemon. Every rule was pai...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "timgillASA",
+    "repoName": "claude-bridge",
+    "repoBranch": "main"
+  },
+  "duongtdn/devloop": {
+    "name": "duongtdn/devloop",
+    "description": "Sprint lifecycle automation: plan, execute, review, and close sprints with TDD workflows and human-gated decisions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "duongtdn",
+    "repoName": "devloop",
+    "repoBranch": "main"
+  },
+  "apatheticus/z2s": {
+    "name": "apatheticus/z2s",
+    "description": "Zero-to-Ship (Z2S): a spec-driven build method and toolchain. The specification is the machine's input; the plan is derived from it; uncovered scope is a build failure.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "apatheticus",
+    "repoName": "z2s",
+    "repoBranch": "main"
+  },
+  "snhomeground-cell/ux-audit-skill": {
+    "name": "snhomeground-cell/ux-audit-skill",
+    "description": "UX\ub97c \uc808\ucc28\ub300\ub85c \uc810\uac80\ud574 \uac80\uc99d \uac00\ub2a5\ud55c Improvement Backlog\ub85c \ub9cc\ub4dc\ub294 Claude Code \uc2a4\ud0ac",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "snhomeground-cell",
+    "repoName": "ux-audit-skill",
+    "repoBranch": "main"
   }
 }

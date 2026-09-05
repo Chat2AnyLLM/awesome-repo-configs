@@ -31353,5 +31353,105 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "zenstory-ai/video-recap-skills": {
+        "owner": "zenstory-ai",
+        "name": "video-recap-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mojtaba-Alehosseini/persian-skill": {
+        "owner": "Mojtaba-Alehosseini",
+        "name": "persian-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "obeone/claude-skills": {
+        "owner": "obeone",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "knitli/toolshed": {
+        "owner": "knitli",
+        "name": "toolshed",
+        "branch": "main",
+        "enabled": true
+    },
+    "shubham0704/claude-skills": {
+        "owner": "shubham0704",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Elliotoh-jin/claude-memory-loop": {
+        "owner": "Elliotoh-jin",
+        "name": "claude-memory-loop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Qualimetry/claude-code-qualimetry-ai-app": {
+        "owner": "Qualimetry",
+        "name": "claude-code-qualimetry-ai-app",
+        "branch": "main",
+        "enabled": true
+    },
+    "neeleshseerapu/Rehorse": {
+        "owner": "neeleshseerapu",
+        "name": "Rehorse",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mediagyancy/wp-code-optimizer": {
+        "owner": "mediagyancy",
+        "name": "wp-code-optimizer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Citability/claude-code-adhd-skills": {
+        "owner": "Citability",
+        "name": "claude-code-adhd-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aymenjdily/biblion-testing-agentic-ai-skills": {
+        "owner": "Aymenjdily",
+        "name": "biblion-testing-agentic-ai-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "guerrilla2799/ops-and-scale-os": {
+        "owner": "guerrilla2799",
+        "name": "ops-and-scale-os",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "duongtdn/devloop": {
+        "owner": "duongtdn",
+        "name": "devloop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "apatheticus/z2s": {
+        "owner": "apatheticus",
+        "name": "z2s",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "snhomeground-cell/ux-audit-skill": {
+        "owner": "snhomeground-cell",
+        "name": "ux-audit-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

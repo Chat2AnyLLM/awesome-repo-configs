@@ -4468,5 +4468,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "neeleshseerapu/Rehorse": {
+    "owner": "neeleshseerapu",
+    "name": "Rehorse",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "duongtdn/devloop": {
+    "owner": "duongtdn",
+    "name": "devloop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
