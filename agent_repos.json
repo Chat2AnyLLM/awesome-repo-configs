@@ -4482,5 +4482,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "FW1201/twa-edu-harness": {
+    "owner": "FW1201",
+    "name": "twa-edu-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "genkun-test/claude-code-kit": {
+    "owner": "genkun-test",
+    "name": "claude-code-kit",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

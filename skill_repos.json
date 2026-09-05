@@ -31453,5 +31453,101 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "av/skills": {
+        "owner": "av",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "humbleteam/design-brief": {
+        "owner": "humbleteam",
+        "name": "design-brief",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "humbleteam/ux-writing": {
+        "owner": "humbleteam",
+        "name": "ux-writing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "phmatray/ai-migration-kit": {
+        "owner": "phmatray",
+        "name": "ai-migration-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maravil5768/Wonder-Pill": {
+        "owner": "maravil5768",
+        "name": "Wonder-Pill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alfredzhang98/research-obsidian-skill": {
+        "owner": "alfredzhang98",
+        "name": "research-obsidian-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FW1201/twa-edu-harness": {
+        "owner": "FW1201",
+        "name": "twa-edu-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rneayan/airship-skills": {
+        "owner": "Rneayan",
+        "name": "airship-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RolandOne/codex-image-generation": {
+        "owner": "RolandOne",
+        "name": "codex-image-generation",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BurakErdemci/codex-delegate": {
+        "owner": "BurakErdemci",
+        "name": "codex-delegate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "greenstevester/archlens-postgres": {
+        "owner": "greenstevester",
+        "name": "archlens-postgres",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "224Sand/charter": {
+        "owner": "224Sand",
+        "name": "charter",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "biswajeetdev/classnotes-agent": {
+        "owner": "biswajeetdev",
+        "name": "classnotes-agent",
+        "branch": "main",
+        "enabled": true
+    },
+    "rvignatenko/treker-akseleratora": {
+        "owner": "rvignatenko",
+        "name": "treker-akseleratora",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

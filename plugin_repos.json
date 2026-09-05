@@ -24985,5 +24985,59 @@
     "repoOwner": "snhomeground-cell",
     "repoName": "ux-audit-skill",
     "repoBranch": "main"
+  },
+  "phmatray/ai-migration-kit": {
+    "name": "phmatray/ai-migration-kit",
+    "description": "A Claude Code plugin with two loops: a gate-verified pipeline that migrates legacy .NET applications with RoselineMCP, and a hands-off GitHub issue \u2192 PR lifecycle (create-issue, implement-issue, merge-pr, auto-dev) th...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phmatray",
+    "repoName": "ai-migration-kit",
+    "repoBranch": "main"
+  },
+  "Rneayan/airship-skills": {
+    "name": "Rneayan/airship-skills",
+    "description": "Claude & GPT skills for solo creators \u2014 Korean business messaging, B2B quoting, Gmail/Todoist/Calendar briefings, Obsidian journaling. 1\uc778 \ud06c\ub9ac\uc5d0\uc774\ud130\ub97c \uc704\ud55c Claude \uc2a4\ud0ac \ubaa8\uc74c",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rneayan",
+    "repoName": "airship-skills",
+    "repoBranch": "main"
+  },
+  "RolandOne/codex-image-generation": {
+    "name": "RolandOne/codex-image-generation",
+    "description": "Production-grade Codex image_gen bridge for Claude Code. Sandbox-correct, gpt-image-2 only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RolandOne",
+    "repoName": "codex-image-generation",
+    "repoBranch": "main"
+  },
+  "BurakErdemci/codex-delegate": {
+    "name": "BurakErdemci/codex-delegate",
+    "description": "Delegate implementation work to a Codex worker while Claude stays the architect and reviewer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BurakErdemci",
+    "repoName": "codex-delegate",
+    "repoBranch": "main"
+  },
+  "greenstevester/archlens-postgres": {
+    "name": "greenstevester/archlens-postgres",
+    "description": "Claude Code skill that documents a PostgreSQL schema and reviews its design in one run",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "greenstevester",
+    "repoName": "archlens-postgres",
+    "repoBranch": "main"
+  },
+  "224Sand/charter": {
+    "name": "224Sand/charter",
+    "description": "MCP server that governs an AI coding agent through a delivery lifecycle: each named role must produce a machine-checkable artifact before it may sign off, and the whole build record survives on disk across sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "224Sand",
+    "repoName": "charter",
+    "repoBranch": "master"
   }
 }
