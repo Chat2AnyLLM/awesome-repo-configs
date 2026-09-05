@@ -31549,5 +31549,116 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Adilmunawar/ZD-claude-plugin": {
+        "owner": "Adilmunawar",
+        "name": "ZD-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "deathemperor/infinitus": {
+        "owner": "deathemperor",
+        "name": "infinitus",
+        "branch": "main",
+        "enabled": true
+    },
+    "MarieLynneBlock/arcanum-artifex": {
+        "owner": "MarieLynneBlock",
+        "name": "arcanum-artifex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "onlygian/G-Forge": {
+        "owner": "onlygian",
+        "name": "G-Forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Aiyo28/memento-os": {
+        "owner": "Aiyo28",
+        "name": "memento-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "mongdang/girok": {
+        "owner": "mongdang",
+        "name": "girok",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jackneil/claude-jacked": {
+        "owner": "jackneil",
+        "name": "claude-jacked",
+        "branch": "master",
+        "enabled": true
+    },
+    "Onur45500/skillpack": {
+        "owner": "Onur45500",
+        "name": "skillpack",
+        "branch": "main",
+        "enabled": true
+    },
+    "benman1/wiggum": {
+        "owner": "benman1",
+        "name": "wiggum",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "flykit-cc/flykit": {
+        "owner": "flykit-cc",
+        "name": "flykit",
+        "branch": "main",
+        "enabled": true
+    },
+    "WaveSpeedAI/claude-plugins": {
+        "owner": "WaveSpeedAI",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "bobuel/bloom-taxonomy-quiz-builder-skill": {
+        "owner": "bobuel",
+        "name": "bloom-taxonomy-quiz-builder-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "missionbuilt/loadout": {
+        "owner": "missionbuilt",
+        "name": "loadout",
+        "branch": "main",
+        "enabled": true
+    },
+    "rokokol/ci-skill": {
+        "owner": "rokokol",
+        "name": "ci-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rokokol/super-productivity-skill": {
+        "owner": "rokokol",
+        "name": "super-productivity-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "matis-dev/m-skills": {
+        "owner": "matis-dev",
+        "name": "m-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/ai-commit-trailers-skill": {
+        "owner": "rokokol",
+        "name": "ai-commit-trailers-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -4496,5 +4496,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "deathemperor/infinitus": {
+    "owner": "deathemperor",
+    "name": "infinitus",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "MarieLynneBlock/arcanum-artifex": {
+    "owner": "MarieLynneBlock",
+    "name": "arcanum-artifex",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "onlygian/G-Forge": {
+    "owner": "onlygian",
+    "name": "G-Forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

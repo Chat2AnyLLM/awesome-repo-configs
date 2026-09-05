@@ -25039,5 +25039,104 @@
     "repoOwner": "224Sand",
     "repoName": "charter",
     "repoBranch": "master"
+  },
+  "Adilmunawar/ZD-claude-plugin": {
+    "name": "Adilmunawar/ZD-claude-plugin",
+    "description": "Claude Code plugins for agricultural geospatial engineering \u2014 agents, skills and guardrails for satellite ML, PostGIS/Earth Engine, Next.js and mobile apps, deployment and ops. One install, 14 modules, tested hooks, n...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Adilmunawar",
+    "repoName": "ZD-claude-plugin",
+    "repoBranch": "main"
+  },
+  "deathemperor/infinitus": {
+    "name": "deathemperor/infinitus",
+    "description": "Every Claude account in one menu bar \u2014 swap before you stall. Native macOS app for the claude-swap engine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deathemperor",
+    "repoName": "infinitus",
+    "repoBranch": "main"
+  },
+  "onlygian/G-Forge": {
+    "name": "onlygian/G-Forge",
+    "description": "An engineering process for Claude Code projects: plan, review, record. The commit gate is a git hook, so it isn't optional.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "onlygian",
+    "repoName": "G-Forge",
+    "repoBranch": "main"
+  },
+  "Aiyo28/memento-os": {
+    "name": "Aiyo28/memento-os",
+    "description": "Claude Code plugin for persistent AI memory. Store conclusions, not notes. OODA-driven reasoning artifacts with priority matrix, invalidation triggers, and seed activation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aiyo28",
+    "repoName": "memento-os",
+    "repoBranch": "main"
+  },
+  "mongdang/girok": {
+    "name": "mongdang/girok",
+    "description": "\ubb38\uc11c \ubc29\ubc95\ub860\uc744 Claude Code \ud50c\ub7ec\uadf8\uc778\uc73c\ub85c \u2014 \ud604\ud669\ud310\u00b7\uacb0\uc815 \uae30\ub85d(ADR)\u00b7\uc544\uce74\uc774\ube0c \ubd84\ub9ac, \ubb38\uc11c \uac80\uc0ac\uae30, \uc2e4\uc7a5\ube44 \ud504\ub85c\uc81d\ud2b8\uc6a9 \uc548\uc804 \uac8c\uc774\ud2b8. \uaddc\uce59\uc758 \ub3d9\uacb0 \uc0ac\ubcf8\uc774 \uc800\uc7a5\uc18c\uc5d0 \ucee4\ubc0b\ub418\uc5b4 \ud50c\ub7ec\uadf8\uc778 \uc5c6\uc774\ub3c4 \uc790\uae30\uc644\uacb0\uc801\uc774\ub2e4.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mongdang",
+    "repoName": "girok",
+    "repoBranch": "master"
+  },
+  "jackneil/claude-jacked": {
+    "name": "jackneil/claude-jacked",
+    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Code and Codex: live 5h/7d usage tracking, auto account-switching, a menu-bar app on macOS and syst...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jackneil",
+    "repoName": "claude-jacked",
+    "repoBranch": "master"
+  },
+  "flykit-cc/flykit": {
+    "name": "flykit-cc/flykit",
+    "description": "The flykit registry \u2014 the Claude Code plugin marketplace and the agent-tool catalog behind flykit.cc.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "flykit-cc",
+    "repoName": "flykit",
+    "repoBranch": "main"
+  },
+  "WaveSpeedAI/claude-plugins": {
+    "name": "WaveSpeedAI/claude-plugins",
+    "description": "Official WaveSpeed plugin marketplace for Claude Code \u2014 AI media generation (image, video, audio, 3D) via the wavespeed CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WaveSpeedAI",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "rokokol/super-productivity-skill": {
+    "name": "rokokol/super-productivity-skill",
+    "description": "Claude Code skill for Super Productivity \u2014 manage tasks, scheduling and time tracking through the app's Local REST API",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rokokol",
+    "repoName": "super-productivity-skill",
+    "repoBranch": "main"
+  },
+  "matis-dev/m-skills": {
+    "name": "matis-dev/m-skills",
+    "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matis-dev",
+    "repoName": "m-skills",
+    "repoBranch": "main"
+  },
+  "rokokol/ai-commit-trailers-skill": {
+    "name": "rokokol/ai-commit-trailers-skill",
+    "description": "Disclose an agent's share of a commit with Assisted-by / Generated-by",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rokokol",
+    "repoName": "ai-commit-trailers-skill",
+    "repoBranch": "master"
   }
 }
