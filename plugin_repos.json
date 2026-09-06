@@ -25453,5 +25453,32 @@
     "repoOwner": "gonimar",
     "repoName": "claude-web-studio",
     "repoBranch": "master"
+  },
+  "Lrosias/yougame-plugin": {
+    "name": "Lrosias/yougame-plugin",
+    "description": "Publish browser games on YouGame from your coding agent: Claude Code plugin, MCP server, and the pre-upload checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lrosias",
+    "repoName": "yougame-plugin",
+    "repoBranch": "main"
+  },
+  "nathanpond/n8SDLC-Skills": {
+    "name": "nathanpond/n8SDLC-Skills",
+    "description": "n8SDLC: a complete SDLC for building software with coding agents \u2014 a Claude Code plugin running on GitHub Issues",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nathanpond",
+    "repoName": "n8SDLC-Skills",
+    "repoBranch": "main"
+  },
+  "shasyasan/claude-rein": {
+    "name": "shasyasan/claude-rein",
+    "description": "Automatic session handover for Claude Code, before a long task wears one out. No restart to do, nothing to write up, and nobody has to be at the desk for it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shasyasan",
+    "repoName": "claude-rein",
+    "repoBranch": "main"
   }
 }
