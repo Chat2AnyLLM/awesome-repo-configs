@@ -31955,5 +31955,124 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "serpro69/claude-toolbox": {
+        "owner": "serpro69",
+        "name": "claude-toolbox",
+        "branch": "master",
+        "enabled": true
+    },
+    "IchenDEV/prompt-optimizer-plugins": {
+        "owner": "IchenDEV",
+        "name": "prompt-optimizer-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "MartinPuli/cvfit": {
+        "owner": "MartinPuli",
+        "name": "cvfit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ddzyx/qiuxiaoce-football-data": {
+        "owner": "ddzyx",
+        "name": "qiuxiaoce-football-data",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "IulaiJedi/sdd-skill": {
+        "owner": "IulaiJedi",
+        "name": "sdd-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Stianlars1/drawn-to": {
+        "owner": "Stianlars1",
+        "name": "drawn-to",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "merturl4576/unflat": {
+        "owner": "merturl4576",
+        "name": "unflat",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ipeterpetrus/samewrite": {
+        "owner": "ipeterpetrus",
+        "name": "samewrite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fernando-delrio/saas-claude-toolkit": {
+        "owner": "fernando-delrio",
+        "name": "saas-claude-toolkit",
+        "branch": "master",
+        "enabled": true
+    },
+    "drop-project-edu/claude-skills": {
+        "owner": "drop-project-edu",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Nyce-ArrowProd/linkedin-founder-os": {
+        "owner": "Nyce-ArrowProd",
+        "name": "linkedin-founder-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "627-hub/cn-stock-fraud-screen": {
+        "owner": "627-hub",
+        "name": "cn-stock-fraud-screen",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nielsmadan/skills": {
+        "owner": "nielsmadan",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "open-coder-ai/context-report": {
+        "owner": "open-coder-ai",
+        "name": "context-report",
+        "branch": "main",
+        "enabled": true
+    },
+    "isachivka/beware-of-skills": {
+        "owner": "isachivka",
+        "name": "beware-of-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Nightdreams-bat/claude-code-kit": {
+        "owner": "Nightdreams-bat",
+        "name": "claude-code-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "auge2u/lisa-helps-ralph-loops": {
+        "owner": "auge2u",
+        "name": "lisa-helps-ralph-loops",
+        "branch": "main",
+        "enabled": true
+    },
+    "gonimar/claude-web-studio": {
+        "owner": "gonimar",
+        "name": "claude-web-studio",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

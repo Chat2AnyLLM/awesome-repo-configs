@@ -25354,5 +25354,104 @@
     "repoOwner": "O6lvl4",
     "repoName": "onomly",
     "repoBranch": "main"
+  },
+  "serpro69/claude-toolbox": {
+    "name": "serpro69/claude-toolbox",
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your Claude Code agentic development workflows: mcp, configs, skills, agents and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serpro69",
+    "repoName": "claude-toolbox",
+    "repoBranch": "master"
+  },
+  "IchenDEV/prompt-optimizer-plugins": {
+    "name": "IchenDEV/prompt-optimizer-plugins",
+    "description": "Dual-protocol prompt optimizer plugins for GPT-5.6 and Claude Fable 5, compatible with Codex and Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IchenDEV",
+    "repoName": "prompt-optimizer-plugins",
+    "repoBranch": "main"
+  },
+  "MartinPuli/cvfit": {
+    "name": "MartinPuli/cvfit",
+    "description": "One-page Harvard-format resume aimed at a specific posting. A Claude Code skill with a fitter that keeps it to a page and a guard that fails if tailoring inflates a date or a title.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MartinPuli",
+    "repoName": "cvfit",
+    "repoBranch": "main"
+  },
+  "Stianlars1/drawn-to": {
+    "name": "Stianlars1/drawn-to",
+    "description": "Give your coding agent a trained eye - a measured taste library and a weighted lock-in interview for design direction. 57 references, 12 constants, 8 families.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Stianlars1",
+    "repoName": "drawn-to",
+    "repoBranch": "main"
+  },
+  "ipeterpetrus/samewrite": {
+    "name": "ipeterpetrus/samewrite",
+    "description": "Where a coding-agent session really spends tokens: 1,316 Claude Code transcripts, 462 scored A/B runs. Cost is carry \u2014 Bash+Read 63.8%, \"emit only the changed block\" is net negative, 72.9% of skill-listing bytes never...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ipeterpetrus",
+    "repoName": "samewrite",
+    "repoBranch": "main"
+  },
+  "fernando-delrio/saas-claude-toolkit": {
+    "name": "fernando-delrio/saas-claude-toolkit",
+    "description": "Claude Code plugin: 5 agentes de revisi\u00f3n de c\u00f3digo (seguridad, calidad, convenciones frontend, esquema BD, testing) + skill de arquitectura multi-tenant para SaaS, derivada de una auditor\u00eda real que encontr\u00f3 y corrig...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fernando-delrio",
+    "repoName": "saas-claude-toolkit",
+    "repoBranch": "master"
+  },
+  "drop-project-edu/claude-skills": {
+    "name": "drop-project-edu/claude-skills",
+    "description": "Skills that teach Claude how to handle several teacher tasks on Drop Project",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drop-project-edu",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "nielsmadan/skills": {
+    "name": "nielsmadan/skills",
+    "description": "Agent skills for code review, planning, testing, and daily dev   workflow",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nielsmadan",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "isachivka/beware-of-skills": {
+    "name": "isachivka/beware-of-skills",
+    "description": "Claude Code / Codex CLI plugin with skills for running many agent sessions side by side in agterm: PM-style orchestration of worker sessions, session backup/fork/archive across restarts, Claude\u2013Codex peer chat, memory...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "isachivka",
+    "repoName": "beware-of-skills",
+    "repoBranch": "main"
+  },
+  "auge2u/lisa-helps-ralph-loops": {
+    "name": "auge2u/lisa-helps-ralph-loops",
+    "description": "Give Claude Code a memory before it touches your code. Rescue abandoned projects, extract semantic memory, generate roadmaps, and structure work for multi-agent execution.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "auge2u",
+    "repoName": "lisa-helps-ralph-loops",
+    "repoBranch": "main"
+  },
+  "gonimar/claude-web-studio": {
+    "name": "gonimar/claude-web-studio",
+    "description": "Web Studio for Claude Code: tiered agents, pipeline skills, hooks, dated stack reference, agent testing framework",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gonimar",
+    "repoName": "claude-web-studio",
+    "repoBranch": "master"
   }
 }

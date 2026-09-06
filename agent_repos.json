@@ -4573,5 +4573,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Nightdreams-bat/claude-code-kit": {
+    "owner": "Nightdreams-bat",
+    "name": "claude-code-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gonimar/claude-web-studio": {
+    "owner": "gonimar",
+    "name": "claude-web-studio",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
