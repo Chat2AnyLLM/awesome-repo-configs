@@ -1,4 +1,13 @@
 {
+  "beepboop2025/market-brief": {
+    "name": "market-brief",
+    "description": "Free funding, capital-market and liquidity briefs with source dates, explicit data gaps, and local change comparison. Includes a Claude Code skill and browser companion; no broker connection or API key is required.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "beepboop2025",
+    "repoName": "market-brief",
+    "repoBranch": "main"
+  },
   "Pupok462/claude-afk": {
     "name": "claude-afk",
     "description": "Keep talking to Claude Code from Telegram when you step away: plain text becomes your next turn in the same live session, tool permissions are approved with yes/no from the phone, and one live message shows which tool is running. Pure Python standard library - no daemon, no tmux, no Node.",
