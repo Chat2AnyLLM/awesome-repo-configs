@@ -4545,5 +4545,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "theYahia/YaGEO": {
+    "owner": "theYahia",
+    "name": "YaGEO",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ajitta/know-your-unknowns": {
+    "owner": "ajitta",
+    "name": "know-your-unknowns",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mefayed/boss-skill": {
+    "owner": "mefayed",
+    "name": "boss-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kamilibragimov7772-lab/orchestrator": {
+    "owner": "kamilibragimov7772-lab",
+    "name": "orchestrator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

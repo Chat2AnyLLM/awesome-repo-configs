@@ -25264,5 +25264,86 @@
     "repoOwner": "Mahdifoladvand",
     "repoName": "nine-roles",
     "repoBranch": "main"
+  },
+  "ajitta/know-your-unknowns": {
+    "name": "ajitta/know-your-unknowns",
+    "description": "Claude Code plugin: know your unknowns \u2014 blind-spot passes, domain primers, pre-implementation interviews, tweak-likelihood plans, deviation logs and merge quizzes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ajitta",
+    "repoName": "know-your-unknowns",
+    "repoBranch": "main"
+  },
+  "ventusff/claude-model-guard": {
+    "name": "ventusff/claude-model-guard",
+    "description": "\ud83d\udea8 Claude Code statusline plugin that catches silent model downgrades \u2014 theme-proof full-width alarm for model / effort / thinking / rate-limit pressure",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ventusff",
+    "repoName": "claude-model-guard",
+    "repoBranch": "main"
+  },
+  "tiny-glitch/recipe-timeline": {
+    "name": "tiny-glitch/recipe-timeline",
+    "description": "A Claude/agent skill that turns a written recipe into an execution-order cooking timeline.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tiny-glitch",
+    "repoName": "recipe-timeline",
+    "repoBranch": "main"
+  },
+  "ebziw/repo-medic": {
+    "name": "ebziw/repo-medic",
+    "description": "Self-contained Claude Code skill toolkit for daily code maintenance: refactor, dedup, DB tune, doc organize, Vue review, tool bootstrap, self-evolve.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ebziw",
+    "repoName": "repo-medic",
+    "repoBranch": "main"
+  },
+  "mefayed/boss-skill": {
+    "name": "mefayed/boss-skill",
+    "description": "Multi-model orchestration plugin for Claude Code: an Opus supervisor delegates coding tasks to Haiku/Sonnet subagents, consults a Fable advisor, reviews every diff, and optionally routes work to OpenAI Codex. One orch...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mefayed",
+    "repoName": "boss-skill",
+    "repoBranch": "main"
+  },
+  "Pyure-ai/working-contract": {
+    "name": "Pyure-ai/working-contract",
+    "description": "Pyure's vibe development plugin for code and no-code projects. Claude drives the conversation in a token and context efficient manner while outsourcing tasks to subagents and being responsive to the Principal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pyure-ai",
+    "repoName": "working-contract",
+    "repoBranch": "main"
+  },
+  "kyisaiah47/kynth-claude-plugin": {
+    "name": "kyisaiah47/kynth-claude-plugin",
+    "description": "Claude Code plugin for Kynth Core \u2014 wires up the @kynth/api-mcp MCP server (41 tools) plus three skills: financial-document extraction, PII redaction, and an API reference. Install: /plugin marketplace add kyisaiah47/...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kyisaiah47",
+    "repoName": "kynth-claude-plugin",
+    "repoBranch": "main"
+  },
+  "mahdifooladvand/shora": {
+    "name": "mahdifooladvand/shora",
+    "description": "\u0634\u0648\u0631\u0627 | Shora: a management decision team for Claude. Nine roles run a real meeting, stop to ask you the questions that change it, and hand back a decision with owners and dates. Never invents numbers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mahdifooladvand",
+    "repoName": "shora",
+    "repoBranch": "main"
+  },
+  "O6lvl4/onomly": {
+    "name": "O6lvl4/onomly",
+    "description": "Product-name due-diligence skill for Claude Code \u2014 parallel availability sweep in Almide, bundled as a WASI 0.3 component",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "O6lvl4",
+    "repoName": "onomly",
+    "repoBranch": "main"
   }
 }

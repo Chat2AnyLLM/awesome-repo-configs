@@ -31826,5 +31826,127 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "DogukanK/claude-pc-cleanup": {
+        "owner": "DogukanK",
+        "name": "claude-pc-cleanup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pt1987/claude-code-psadt-skill": {
+        "owner": "pt1987",
+        "name": "claude-code-psadt-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jahidulislamseo/antigravity-ai-skills": {
+        "owner": "jahidulislamseo",
+        "name": "antigravity-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/legwork-skill": {
+        "owner": "dbhq-uk",
+        "name": "legwork-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "theYahia/YaGEO": {
+        "owner": "theYahia",
+        "name": "YaGEO",
+        "branch": "master",
+        "enabled": true
+    },
+    "dbhq-uk/heliograph": {
+        "owner": "dbhq-uk",
+        "name": "heliograph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kmgcc/macOS-Trace": {
+        "owner": "kmgcc",
+        "name": "macOS-Trace",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kmgcc/iOS-Trace": {
+        "owner": "kmgcc",
+        "name": "iOS-Trace",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ajitta/know-your-unknowns": {
+        "owner": "ajitta",
+        "name": "know-your-unknowns",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ventusff/claude-model-guard": {
+        "owner": "ventusff",
+        "name": "claude-model-guard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tiny-glitch/recipe-timeline": {
+        "owner": "tiny-glitch",
+        "name": "recipe-timeline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ebziw/repo-medic": {
+        "owner": "ebziw",
+        "name": "repo-medic",
+        "branch": "main",
+        "enabled": true
+    },
+    "ingridleiria/breaktalk-skills": {
+        "owner": "ingridleiria",
+        "name": "breaktalk-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mefayed/boss-skill": {
+        "owner": "mefayed",
+        "name": "boss-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kamilibragimov7772-lab/orchestrator": {
+        "owner": "kamilibragimov7772-lab",
+        "name": "orchestrator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kyisaiah47/kynth-claude-plugin": {
+        "owner": "kyisaiah47",
+        "name": "kynth-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mahdifooladvand/shora": {
+        "owner": "mahdifooladvand",
+        "name": "shora",
+        "branch": "main",
+        "enabled": true
+    },
+    "O6lvl4/onomly": {
+        "owner": "O6lvl4",
+        "name": "onomly",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
