@@ -1,4 +1,11 @@
 {
+    "beepboop2025/market-brief": {
+        "owner": "beepboop2025",
+        "name": "market-brief",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "agentvitals/checkup": {
         "owner": "agentvitals",
         "name": "checkup",
