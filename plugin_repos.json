@@ -25228,5 +25228,41 @@
     "repoOwner": "gabrielnfc",
     "repoName": "gabarito-mestre",
     "repoBranch": "main"
+  },
+  "kindsusu/su-multi-geo": {
+    "name": "kindsusu/su-multi-geo",
+    "description": "SEO and AI-search audit toolkit + Claude Code skill. Crawl, draft, verify and measure citations across engines, including Naver. Python standard library.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kindsusu",
+    "repoName": "su-multi-geo",
+    "repoBranch": "main"
+  },
+  "sebastiansulinski/claude-plugins": {
+    "name": "sebastiansulinski/claude-plugins",
+    "description": "A Claude Code plugin marketplace \u2014 personal slash commands and subagents for code review, releases, codebase hygiene, and session workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sebastiansulinski",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "dseloustev/artel": {
+    "name": "dseloustev/artel",
+    "description": "Spec-driven autonomous feature workflow for Claude Code and OpenCode: a ticket goes in, a pull request comes out, with one human approval pause in between.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dseloustev",
+    "repoName": "artel",
+    "repoBranch": "main"
+  },
+  "Mahdifoladvand/nine-roles": {
+    "name": "Mahdifoladvand/nine-roles",
+    "description": "A nine-role team council for Claude: run a real meeting on any business decision, read the transcript, get owners and dates. Never invents numbers. English and Persian.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mahdifoladvand",
+    "repoName": "nine-roles",
+    "repoBranch": "main"
   }
 }

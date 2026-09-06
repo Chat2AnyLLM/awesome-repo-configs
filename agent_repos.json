@@ -4538,5 +4538,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "dseloustev/artel": {
+    "owner": "dseloustev",
+    "name": "artel",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

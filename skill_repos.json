@@ -31773,5 +31773,58 @@
         "name": "gabarito-mestre",
         "branch": "main",
         "enabled": true
+    },
+    "kindsusu/su-multi-geo": {
+        "owner": "kindsusu",
+        "name": "su-multi-geo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sebastiansulinski/claude-plugins": {
+        "owner": "sebastiansulinski",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "dseloustev/artel": {
+        "owner": "dseloustev",
+        "name": "artel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mahdifoladvand/nine-roles": {
+        "owner": "Mahdifoladvand",
+        "name": "nine-roles",
+        "branch": "main",
+        "enabled": true
+    },
+    "marcosmodly/github-repo-hygiene-skill": {
+        "owner": "marcosmodly",
+        "name": "github-repo-hygiene-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AdeDeepFishing/trip-itinerary-page": {
+        "owner": "AdeDeepFishing",
+        "name": "trip-itinerary-page",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bryanG2518/paper-grader-skill": {
+        "owner": "bryanG2518",
+        "name": "paper-grader-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "gujiapeng1991-droid/coco-preproduction": {
+        "owner": "gujiapeng1991-droid",
+        "name": "coco-preproduction",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
