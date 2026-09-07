@@ -32239,5 +32239,154 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "aiworkskills/wechat-article-skills": {
+        "owner": "aiworkskills",
+        "name": "wechat-article-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "foreturn/product-studio": {
+        "owner": "foreturn",
+        "name": "product-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jostelzer/grounded": {
+        "owner": "jostelzer",
+        "name": "grounded",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "snwlee/Nereus": {
+        "owner": "snwlee",
+        "name": "Nereus",
+        "branch": "main",
+        "enabled": true
+    },
+    "promptmetrics/prompt-workflow-architecture": {
+        "owner": "promptmetrics",
+        "name": "prompt-workflow-architecture",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "laowang-ai-xbb/free-ai-token": {
+        "owner": "laowang-ai-xbb",
+        "name": "free-ai-token",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zcourts/zboard": {
+        "owner": "zcourts",
+        "name": "zboard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "runapi-ai/gemini-omni": {
+        "owner": "runapi-ai",
+        "name": "gemini-omni",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "amjad1233/ai-skills": {
+        "owner": "amjad1233",
+        "name": "ai-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ncoevoet/claude-workflow-kit": {
+        "owner": "ncoevoet",
+        "name": "claude-workflow-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "savinofiore/lexi": {
+        "owner": "savinofiore",
+        "name": "lexi",
+        "branch": "main",
+        "enabled": true
+    },
+    "wuaishare/sharextract": {
+        "owner": "wuaishare",
+        "name": "sharextract",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wuaishare/boyue": {
+        "owner": "wuaishare",
+        "name": "boyue",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jovelove7/facet": {
+        "owner": "jovelove7",
+        "name": "facet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "runapi-ai/glm": {
+        "owner": "runapi-ai",
+        "name": "glm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jinshanbaihai/dialogue-tutor": {
+        "owner": "jinshanbaihai",
+        "name": "dialogue-tutor",
+        "branch": "main",
+        "enabled": true
+    },
+    "ahmedyehya92/saas-platform-teardown-kit": {
+        "owner": "ahmedyehya92",
+        "name": "saas-platform-teardown-kit",
+        "branch": "master",
+        "enabled": true
+    },
+    "why20261/douyin-bluesea-collector": {
+        "owner": "why20261",
+        "name": "douyin-bluesea-collector",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-social": {
+        "owner": "why20261",
+        "name": "douyin-social",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-feeds": {
+        "owner": "why20261",
+        "name": "douyin-feeds",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-kol-searchs": {
+        "owner": "why20261",
+        "name": "douyin-kol-searchs",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AndresParraSilva/learn-up": {
+        "owner": "AndresParraSilva",
+        "name": "learn-up",
+        "branch": "main",
+        "enabled": true
     }
 }
