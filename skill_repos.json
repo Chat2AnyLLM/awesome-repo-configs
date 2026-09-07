@@ -32150,5 +32150,94 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Hainrixz/claude-seo-ai": {
+        "owner": "Hainrixz",
+        "name": "claude-seo-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "baidu-maps/jsapi-skills": {
+        "owner": "baidu-maps",
+        "name": "jsapi-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chaserr/novel-craft": {
+        "owner": "chaserr",
+        "name": "novel-craft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AgentGameLab/skills": {
+        "owner": "AgentGameLab",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "suriyalk/verified-academic-sourcing": {
+        "owner": "suriyalk",
+        "name": "verified-academic-sourcing",
+        "branch": "main",
+        "enabled": true
+    },
+    "renatodvc/rstack": {
+        "owner": "renatodvc",
+        "name": "rstack",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matasarei/claude-rpg": {
+        "owner": "matasarei",
+        "name": "claude-rpg",
+        "branch": "main",
+        "enabled": true
+    },
+    "Feynman520/d06-p01-self-improve": {
+        "owner": "Feynman520",
+        "name": "d06-p01-self-improve",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "open-science-pillars/hydrology": {
+        "owner": "open-science-pillars",
+        "name": "hydrology",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MatthewDuke1/aws-onboarding": {
+        "owner": "MatthewDuke1",
+        "name": "aws-onboarding",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hharshitarora/deslop": {
+        "owner": "hharshitarora",
+        "name": "deslop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "christianfurr/creative-web-studio": {
+        "owner": "christianfurr",
+        "name": "creative-web-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nicodeguyo/fantasy-draft-analyst": {
+        "owner": "nicodeguyo",
+        "name": "fantasy-draft-analyst",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

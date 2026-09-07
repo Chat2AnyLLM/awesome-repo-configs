@@ -25480,5 +25480,95 @@
     "repoOwner": "shasyasan",
     "repoName": "claude-rein",
     "repoBranch": "main"
+  },
+  "Hainrixz/claude-seo-ai": {
+    "name": "Hainrixz/claude-seo-ai",
+    "description": "The SEO + AI-search (GEO/AEO) optimization toolkit for Claude Code \u2014 two-score audit + opt-in fixer. Built for 2026-2027.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hainrixz",
+    "repoName": "claude-seo-ai",
+    "repoBranch": "main"
+  },
+  "chaserr/novel-craft": {
+    "name": "chaserr/novel-craft",
+    "description": "\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u4e0e\u5ba1\u7a3f Claude Code plugin\u3002\u9898\u6750\u4e2d\u6027 \u2014 \u6821\u56ed\u9752\u6625\u3001\u60ac\u7591\u3001\u6b66\u4fa0\u3001\u79d1\u5e7b\u3001\u5386\u53f2\u3001\u90fd\u5e02\u7b49\u957f\u7bc7\u5747\u53ef\u3002\u5305\u542b 5 \u4e2a skill + 12 \u4e2a agent + 8 \u7bc7\u901a\u7528\u5199\u4f5c\u6280\u6cd5 reference\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chaserr",
+    "repoName": "novel-craft",
+    "repoBranch": "main"
+  },
+  "AgentGameLab/skills": {
+    "name": "AgentGameLab/skills",
+    "description": "AgentGameLab's agent skills as one installable Claude Code plugin \u2014 tuneup (fuzzy request \u2192 high-density prompt), harness-evolve (self-evolving agent harness, L1/L2/L3 risk tiers), learn-coach (teach to mastery, not j...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AgentGameLab",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "renatodvc/rstack": {
+    "name": "renatodvc/rstack",
+    "description": "Claude Code setup: skills, settings and hooks for personal use.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "renatodvc",
+    "repoName": "rstack",
+    "repoBranch": "master"
+  },
+  "matasarei/claude-rpg": {
+    "name": "matasarei/claude-rpg",
+    "description": "Claude Code plugin that runs development as an RPG: you are the Summoner, Claude is the Daemon. Quests from scrying to a merged pull request, questlines, sidequests, subagent forks, a guard hook, and a pact that keeps...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matasarei",
+    "repoName": "claude-rpg",
+    "repoBranch": "main"
+  },
+  "Feynman520/d06-p01-self-improve": {
+    "name": "Feynman520/d06-p01-self-improve",
+    "description": "Claude Code plugin: a self-improvement loop that logs user-correction moments, finds patterns, and prescribes recurrence-prevention fixes (MCP server + 2 skills)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Feynman520",
+    "repoName": "d06-p01-self-improve",
+    "repoBranch": "main"
+  },
+  "open-science-pillars/hydrology": {
+    "name": "open-science-pillars/hydrology",
+    "description": "Hydrology plugin for Open Science Pillars: SWOT river and lake levels, GRACE-FO groundwater, USGS NWIS streamflow, SMAP soil moisture, and an applied water-resources pack for drought and reservoir analysis. In active...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "open-science-pillars",
+    "repoName": "hydrology",
+    "repoBranch": "main"
+  },
+  "MatthewDuke1/aws-onboarding": {
+    "name": "MatthewDuke1/aws-onboarding",
+    "description": "Claude Agent Skill: take a non-technical user from no AWS account to a deployed, torn-down-able CloudFormation or Terraform stack - with budget guardrails and a preflight that exits non-zero",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MatthewDuke1",
+    "repoName": "aws-onboarding",
+    "repoBranch": "main"
+  },
+  "christianfurr/creative-web-studio": {
+    "name": "christianfurr/creative-web-studio",
+    "description": "Claude Code skill for building art-directed Next.js websites \u2014 concept before code, deliberate motion, production quality bar.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "christianfurr",
+    "repoName": "creative-web-studio",
+    "repoBranch": "main"
+  },
+  "nicodeguyo/fantasy-draft-analyst": {
+    "name": "nicodeguyo/fantasy-draft-analyst",
+    "description": "Free, open-source skill for Claude. Turn your league rules into a fantasy football draft plan with targets, backups, and a board for draft night.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nicodeguyo",
+    "repoName": "fantasy-draft-analyst",
+    "repoBranch": "main"
   }
 }

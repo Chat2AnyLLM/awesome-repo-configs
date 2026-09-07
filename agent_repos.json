@@ -4587,5 +4587,26 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Hainrixz/claude-seo-ai": {
+    "owner": "Hainrixz",
+    "name": "claude-seo-ai",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "chaserr/novel-craft": {
+    "owner": "chaserr",
+    "name": "novel-craft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "open-science-pillars/hydrology": {
+    "owner": "open-science-pillars",
+    "name": "hydrology",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
