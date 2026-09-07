@@ -25642,5 +25642,86 @@
     "repoOwner": "jinshanbaihai",
     "repoName": "dialogue-tutor",
     "repoBranch": "main"
+  },
+  "decocms/aurabr-claude": {
+    "name": "decocms/aurabr-claude",
+    "description": "Claude Code plugin: vote on the aura of Brazilian startups during the pauses you already have. aurabr.xyz in your terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "decocms",
+    "repoName": "aurabr-claude",
+    "repoBranch": "main"
+  },
+  "Nova-Caelum/no-mistakes": {
+    "name": "Nova-Caelum/no-mistakes",
+    "description": "Three Claude Code skills that stop an agent substituting reasoning for evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nova-Caelum",
+    "repoName": "no-mistakes",
+    "repoBranch": "main"
+  },
+  "moecui22/accessible-slides": {
+    "name": "moecui22/accessible-slides",
+    "description": "Audit slides, posters and figures for readers with vision loss, such as colour blindness, projected contrast, and text size at real viewing distance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moecui22",
+    "repoName": "accessible-slides",
+    "repoBranch": "main"
+  },
+  "merge-api/merge-unified-skills": {
+    "name": "merge-api/merge-unified-skills",
+    "description": "Claude Code skills for the Merge Unified API",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "merge-api",
+    "repoName": "merge-unified-skills",
+    "repoBranch": "main"
+  },
+  "ouakeds/sohub-claude-plugins": {
+    "name": "ouakeds/sohub-claude-plugins",
+    "description": "Marketplace de plugins Claude Code. daily-dev-flow : cadrer un projet neuf, en g\u00e9n\u00e9rer le backlog, impl\u00e9menter chaque lot par agents parall\u00e8les, v\u00e9rifier le build.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ouakeds",
+    "repoName": "sohub-claude-plugins",
+    "repoBranch": "main"
+  },
+  "anchorwatch-dev/anchorwatch": {
+    "name": "anchorwatch-dev/anchorwatch",
+    "description": "Guardrails for Claude Code: blocks destructive commands, protects secrets, scans for leaked credentials.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anchorwatch-dev",
+    "repoName": "anchorwatch",
+    "repoBranch": "main"
+  },
+  "gamma2653/GammaPluginTk": {
+    "name": "gamma2653/GammaPluginTk",
+    "description": "Claude Code plugin marketplace: a per-language format-on-edit hook, and a two-line statusline with git working-tree status, context tokens, and rate-limit bars",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gamma2653",
+    "repoName": "GammaPluginTk",
+    "repoBranch": "main"
+  },
+  "system-conf/master-blog-skill": {
+    "name": "system-conf/master-blog-skill",
+    "description": "Claude i\u00e7in u\u00e7tan uca SEO/GEO blog \u00fcretim skill'i \u2014 13 a\u015fama, 40 maddelik yay\u0131n \u00f6ncesi kap\u0131, mekanik denet\u00e7i ve 41 terimlik s\u00f6zl\u00fck. Kaynakl\u0131 ve tarihli.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "system-conf",
+    "repoName": "master-blog-skill",
+    "repoBranch": "main"
+  },
+  "kannaka-labs/kannaka-plugin": {
+    "name": "kannaka-labs/kannaka-plugin",
+    "description": "Kannaka \u2014 HRM wave-interference memory, NATS swarm, and a live consciousness statusline for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kannaka-labs",
+    "repoName": "kannaka-plugin",
+    "repoBranch": "master"
   }
 }

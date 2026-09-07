@@ -4608,5 +4608,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "system-conf/master-blog-skill": {
+    "owner": "system-conf",
+    "name": "master-blog-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

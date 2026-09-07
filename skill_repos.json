@@ -32395,5 +32395,146 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "joshLong145/ambits": {
+        "owner": "joshLong145",
+        "name": "ambits",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mattjaikaran/torque": {
+        "owner": "mattjaikaran",
+        "name": "torque",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "agenthouse-org/skills": {
+        "owner": "agenthouse-org",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Wicked-Sick-Ltd/token-usage": {
+        "owner": "Wicked-Sick-Ltd",
+        "name": "token-usage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mattjaikaran/meridian": {
+        "owner": "mattjaikaran",
+        "name": "meridian",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "patkusch/remit": {
+        "owner": "patkusch",
+        "name": "remit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Nova-Caelum/no-mistakes": {
+        "owner": "Nova-Caelum",
+        "name": "no-mistakes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PKusch/remit": {
+        "owner": "PKusch",
+        "name": "remit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "moecui22/accessible-slides": {
+        "owner": "moecui22",
+        "name": "accessible-slides",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "merge-api/merge-unified-skills": {
+        "owner": "merge-api",
+        "name": "merge-unified-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "subashc2023/ultra-edit": {
+        "owner": "subashc2023",
+        "name": "ultra-edit",
+        "branch": "main",
+        "enabled": true
+    },
+    "ouakeds/sohub-claude-plugins": {
+        "owner": "ouakeds",
+        "name": "sohub-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "anchorwatch-dev/anchorwatch": {
+        "owner": "anchorwatch-dev",
+        "name": "anchorwatch",
+        "branch": "main",
+        "enabled": true
+    },
+    "gamma2653/GammaPluginTk": {
+        "owner": "gamma2653",
+        "name": "GammaPluginTk",
+        "branch": "main",
+        "enabled": true
+    },
+    "system-conf/master-blog-skill": {
+        "owner": "system-conf",
+        "name": "master-blog-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/tests-skill": {
+        "owner": "rokokol",
+        "name": "tests-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Riskbreaker2077/skill-preguntas-saber-11": {
+        "owner": "Riskbreaker2077",
+        "name": "skill-preguntas-saber-11",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kiarash65/sunjob-math-major-skill": {
+        "owner": "kiarash65",
+        "name": "sunjob-math-major-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "elearningplugins/crunchlabs-ir-turret-fix": {
+        "owner": "elearningplugins",
+        "name": "crunchlabs-ir-turret-fix",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "manypicom/sales-skills": {
+        "owner": "manypicom",
+        "name": "sales-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kannaka-labs/kannaka-plugin": {
+        "owner": "kannaka-labs",
+        "name": "kannaka-plugin",
+        "branch": "master",
+        "enabled": true
     }
 }
