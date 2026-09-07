@@ -32388,5 +32388,12 @@
         "name": "learn-up",
         "branch": "main",
         "enabled": true
+    },
+    "Marchenko-sales/ai-sales-skills": {
+        "owner": "Marchenko-sales",
+        "name": "ai-sales-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
