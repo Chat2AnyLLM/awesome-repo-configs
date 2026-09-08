@@ -25885,5 +25885,95 @@
     "repoOwner": "pelayomendez",
     "repoName": "in-my-own-words",
     "repoBranch": "main"
+  },
+  "technicalpickles/pickled-claude-plugins": {
+    "name": "technicalpickles/pickled-claude-plugins",
+    "description": "Personal collection of Claude Code skills for development workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "technicalpickles",
+    "repoName": "pickled-claude-plugins",
+    "repoBranch": "main"
+  },
+  "joaovicdev/claude-appsec": {
+    "name": "joaovicdev/claude-appsec",
+    "description": "Skills for claude code security using OWASP 10:2025 and STRIDE as a threat model",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joaovicdev",
+    "repoName": "claude-appsec",
+    "repoBranch": "main"
+  },
+  "krzysztofdudek/UrdSkill": {
+    "name": "krzysztofdudek/UrdSkill",
+    "description": "Your agent hits a gap in the spec and guesses. Urd makes it stop and ask instead.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "krzysztofdudek",
+    "repoName": "UrdSkill",
+    "repoBranch": "main"
+  },
+  "krzysztofdudek/RatatoskrSkill": {
+    "name": "krzysztofdudek/RatatoskrSkill",
+    "description": "A communication layer between you and your codebase: it keeps your AI coding agent talking in plain language \u2014 no jargon, no invented timelines \u2014 with one clear yes before anything irreversible.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "krzysztofdudek",
+    "repoName": "RatatoskrSkill",
+    "repoBranch": "main"
+  },
+  "oxGrad/spicebag": {
+    "name": "oxGrad/spicebag",
+    "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job application you submit.  Your CV is like a great recipe. You have all the right ingredients (expe...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oxGrad",
+    "repoName": "spicebag",
+    "repoBranch": "main"
+  },
+  "heyimjames/ultrapolish": {
+    "name": "heyimjames/ultrapolish",
+    "description": "Two universal design-polish skills for Claude Code, Cursor, Codex, Windsurf, Aider, Continue and Zed: ultrapolish-ios (Swift/SwiftUI) and ultrapolish-web (React/TypeScript/CSS). Motion, colour, type, layout, sheets, h...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heyimjames",
+    "repoName": "ultrapolish",
+    "repoBranch": "main"
+  },
+  "howard-lynn-ye/fin-skills": {
+    "name": "howard-lynn-ye/fin-skills",
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated and marked verified/secondhand/unverified.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "howard-lynn-ye",
+    "repoName": "fin-skills",
+    "repoBranch": "master"
+  },
+  "Haruki1090/plumb": {
+    "name": "Haruki1090/plumb",
+    "description": "A harness for Claude Code: 22 playbooks and 22 principles you call by name, judgment routed to another model family, and skipping that is allowed but never silent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Haruki1090",
+    "repoName": "plumb",
+    "repoBranch": "main"
+  },
+  "theinfosecguy/innerloop-agent": {
+    "name": "theinfosecguy/innerloop-agent",
+    "description": "Portable Innerloop skills and remote MCP discovery for independently operated agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theinfosecguy",
+    "repoName": "innerloop-agent",
+    "repoBranch": "main"
+  },
+  "tillmeier/claude-code-guardrails": {
+    "name": "tillmeier/claude-code-guardrails",
+    "description": "Incident-derived guardrail hooks and a plan\u2192implement\u2192verify\u2192crosscheck delivery loop for Claude Code. Hook cost measured; 35 bats tests.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tillmeier",
+    "repoName": "claude-code-guardrails",
+    "repoBranch": "main"
   }
 }

@@ -4650,5 +4650,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "joaovicdev/claude-appsec": {
+    "owner": "joaovicdev",
+    "name": "claude-appsec",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Faaz17/Agents-and-Skills": {
+    "owner": "Faaz17",
+    "name": "Agents-and-Skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Haruki1090/plumb": {
+    "owner": "Haruki1090",
+    "name": "plumb",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

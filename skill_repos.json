@@ -32792,5 +32792,105 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "technicalpickles/pickled-claude-plugins": {
+        "owner": "technicalpickles",
+        "name": "pickled-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "sergeyklay/.agents": {
+        "owner": "sergeyklay",
+        "name": ".agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lu1sDV/skillsmd": {
+        "owner": "Lu1sDV",
+        "name": "skillsmd",
+        "branch": "main",
+        "enabled": true
+    },
+    "Barinfo/Camelot.skill": {
+        "owner": "Barinfo",
+        "name": "Camelot.skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "joaovicdev/claude-appsec": {
+        "owner": "joaovicdev",
+        "name": "claude-appsec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "krzysztofdudek/UrdSkill": {
+        "owner": "krzysztofdudek",
+        "name": "UrdSkill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "krzysztofdudek/RatatoskrSkill": {
+        "owner": "krzysztofdudek",
+        "name": "RatatoskrSkill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Faaz17/Agents-and-Skills": {
+        "owner": "Faaz17",
+        "name": "Agents-and-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "heyimjames/ultrapolish": {
+        "owner": "heyimjames",
+        "name": "ultrapolish",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wlkerwong-boop/lifeos-media-pack": {
+        "owner": "wlkerwong-boop",
+        "name": "lifeos-media-pack",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "howard-lynn-ye/fin-skills": {
+        "owner": "howard-lynn-ye",
+        "name": "fin-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "Haruki1090/plumb": {
+        "owner": "Haruki1090",
+        "name": "plumb",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "theinfosecguy/innerloop-agent": {
+        "owner": "theinfosecguy",
+        "name": "innerloop-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fedius01/cve-triage": {
+        "owner": "fedius01",
+        "name": "cve-triage",
+        "branch": "main",
+        "enabled": true
+    },
+    "shelasmax/cx-impact": {
+        "owner": "shelasmax",
+        "name": "cx-impact",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
