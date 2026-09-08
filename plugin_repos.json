@@ -25975,5 +25975,77 @@
     "repoOwner": "tillmeier",
     "repoName": "claude-code-guardrails",
     "repoBranch": "main"
+  },
+  "Manavarya09/design-extract": {
+    "name": "Manavarya09/design-extract",
+    "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, Wor...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Manavarya09",
+    "repoName": "design-extract",
+    "repoBranch": "main"
+  },
+  "kyoungbinkim/give-me-job": {
+    "name": "kyoungbinkim/give-me-job",
+    "description": "AI agent toolkit for Korean job applications, from resume evidence to tailored cover letters and interview prep",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kyoungbinkim",
+    "repoName": "give-me-job",
+    "repoBranch": "main"
+  },
+  "karankumar24/delulu": {
+    "name": "karankumar24/delulu",
+    "description": "Carry a Claude Code session into the next one, without re-explaining",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karankumar24",
+    "repoName": "delulu",
+    "repoBranch": "main"
+  },
+  "vadimgaidai/react-feature-kit": {
+    "name": "vadimgaidai/react-feature-kit",
+    "description": "React Feature Kit \u2014 plan a feature into one file, build it in one pass, review the diff, with React 19, shadcn/ui and Feature-Sliced Design conventions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vadimgaidai",
+    "repoName": "react-feature-kit",
+    "repoBranch": "main"
+  },
+  "TerminallyLazy/tree-ring-memory-claude-plugin": {
+    "name": "TerminallyLazy/tree-ring-memory-claude-plugin",
+    "description": "Claude Code plugin wrapper for Tree Ring Memory local-first agent memory lifecycle guidance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TerminallyLazy",
+    "repoName": "tree-ring-memory-claude-plugin",
+    "repoBranch": "main"
+  },
+  "Cadasto/sdd-plugin": {
+    "name": "Cadasto/sdd-plugin",
+    "description": "Spec-Driven Development (SDD) for AI assistants \u2014 requirements, RFC-2119 specs, and ADRs with stable identifiers, machine-checked traceability, and the delivery pipeline that runs on them: plan, workers, review ledger...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Cadasto",
+    "repoName": "sdd-plugin",
+    "repoBranch": "main"
+  },
+  "justinstimatze/onsetter": {
+    "name": "justinstimatze/onsetter",
+    "description": "Injects a note from your CLAUDE.md at the Write, Edit, or Bash call it's actually about \u2014 not once at the top of the session and never again.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justinstimatze",
+    "repoName": "onsetter",
+    "repoBranch": "main"
+  },
+  "danibsheehan/dani-foundations": {
+    "name": "danibsheehan/dani-foundations",
+    "description": "Shared Claude Code skills marketplace for personal project repos",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danibsheehan",
+    "repoName": "dani-foundations",
+    "repoBranch": "main"
   }
 }

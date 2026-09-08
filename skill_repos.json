@@ -32892,5 +32892,119 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Manavarya09/design-extract": {
+        "owner": "Manavarya09",
+        "name": "design-extract",
+        "branch": "main",
+        "enabled": true
+    },
+    "hk-vk/txtskills": {
+        "owner": "hk-vk",
+        "name": "txtskills",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kyoungbinkim/give-me-job": {
+        "owner": "kyoungbinkim",
+        "name": "give-me-job",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Pirat83/claude-code-skills": {
+        "owner": "Pirat83",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "planetabhi/skills": {
+        "owner": "planetabhi",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TechNickAI/hermes-skills": {
+        "owner": "TechNickAI",
+        "name": "hermes-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Barinfo/NEVERMIND.skill": {
+        "owner": "Barinfo",
+        "name": "NEVERMIND.skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jacksonrpp/pbi-skills-claude": {
+        "owner": "jacksonrpp",
+        "name": "pbi-skills-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "vadimgaidai/react-feature-kit": {
+        "owner": "vadimgaidai",
+        "name": "react-feature-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "neelshah4/claude-icu-clinical-consult": {
+        "owner": "neelshah4",
+        "name": "claude-icu-clinical-consult",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neelshah4/claude-fabrication-audit": {
+        "owner": "neelshah4",
+        "name": "claude-fabrication-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neelshah4/claude-citation-verification": {
+        "owner": "neelshah4",
+        "name": "claude-citation-verification",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neelshah4/claude-prompt-optimizer": {
+        "owner": "neelshah4",
+        "name": "claude-prompt-optimizer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TerminallyLazy/tree-ring-memory-claude-plugin": {
+        "owner": "TerminallyLazy",
+        "name": "tree-ring-memory-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Cadasto/sdd-plugin": {
+        "owner": "Cadasto",
+        "name": "sdd-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "justinstimatze/onsetter": {
+        "owner": "justinstimatze",
+        "name": "onsetter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "danibsheehan/dani-foundations": {
+        "owner": "danibsheehan",
+        "name": "dani-foundations",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -4671,5 +4671,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ajaygunalan/flow-friction": {
+    "owner": "ajaygunalan",
+    "name": "flow-friction",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "neelshah4/claude-icu-clinical-consult": {
+    "owner": "neelshah4",
+    "name": "claude-icu-clinical-consult",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "neelshah4/claude-fabrication-audit": {
+    "owner": "neelshah4",
+    "name": "claude-fabrication-audit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "neelshah4/claude-citation-verification": {
+    "owner": "neelshah4",
+    "name": "claude-citation-verification",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Cadasto/sdd-plugin": {
+    "owner": "Cadasto",
+    "name": "sdd-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
