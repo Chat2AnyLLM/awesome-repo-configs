@@ -33006,5 +33006,12 @@
         "name": "dani-foundations",
         "branch": "main",
         "enabled": true
+    },
+    "yylo-dev/yylo": {
+        "owner": "yylo-dev",
+        "name": "yylo",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
