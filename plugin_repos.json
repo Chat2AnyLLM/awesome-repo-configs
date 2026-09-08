@@ -25723,5 +25723,104 @@
     "repoOwner": "kannaka-labs",
     "repoName": "kannaka-plugin",
     "repoBranch": "master"
+  },
+  "grainulation/grainulator": {
+    "name": "grainulation/grainulator",
+    "description": "Research that compiles.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "grainulation",
+    "repoName": "grainulator",
+    "repoBranch": "main"
+  },
+  "wilu222/unpolish-ai-writing": {
+    "name": "wilu222/unpolish-ai-writing",
+    "description": "Agent skill that removes signs of AI-generated writing, and optionally adds sparse typing errors using probability distributions informed by researched human error patterns.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wilu222",
+    "repoName": "unpolish-ai-writing",
+    "repoBranch": "main"
+  },
+  "naravid19/claude-ctf-skills": {
+    "name": "naravid19/claude-ctf-skills",
+    "description": "Claude Code plugin: autonomous CTF solver + 9 category skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "naravid19",
+    "repoName": "claude-ctf-skills",
+    "repoBranch": "main"
+  },
+  "alex-zwingli/plan-to-eat-mcp": {
+    "name": "alex-zwingli/plan-to-eat-mcp",
+    "description": "Unofficial Plan to Eat (plantoeat.com) API client, CLI, and MCP server \u2014 drive your recipe book, meal planner, freezer, and shopping list from any agent or the terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alex-zwingli",
+    "repoName": "plan-to-eat-mcp",
+    "repoBranch": "main"
+  },
+  "Synthenova/conthunt-cli": {
+    "name": "Synthenova/conthunt-cli",
+    "description": "Agent skill and official CLI releases for ContHunt, social content research for coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Synthenova",
+    "repoName": "conthunt-cli",
+    "repoBranch": "main"
+  },
+  "alinafe82/cognitive-deadlift": {
+    "name": "alinafe82/cognitive-deadlift",
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alinafe82",
+    "repoName": "cognitive-deadlift",
+    "repoBranch": "main"
+  },
+  "cskwork/claude-minimal-plugin": {
+    "name": "cskwork/claude-minimal-plugin",
+    "description": "15 design & dev skills + 6 AI agents + TDD workflow for Claude Code. Zero dependencies. One install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cskwork",
+    "repoName": "claude-minimal-plugin",
+    "repoBranch": "main"
+  },
+  "bsmi021/google-notebook-plugin": {
+    "name": "bsmi021/google-notebook-plugin",
+    "description": "Claude Code plugin for Google NotebookLM automation via the nlm CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bsmi021",
+    "repoName": "google-notebook-plugin",
+    "repoBranch": "main"
+  },
+  "open-coder-ai-org/chock-claude-plugins": {
+    "name": "open-coder-ai-org/chock-claude-plugins",
+    "description": "Chock policies as installable Claude-format plugins. Generated from chock-catalog; each plugin states whether it enforces in your client or is advisory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "open-coder-ai-org",
+    "repoName": "chock-claude-plugins",
+    "repoBranch": "main"
+  },
+  "memcell-ai/cli": {
+    "name": "memcell-ai/cli",
+    "description": "Living memory for AI coding agents (Claude Code, Cursor, Copilot, Codex). Cross-vendor persistent memory, decision recall, and outcome calibration via MCP and hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "memcell-ai",
+    "repoName": "cli",
+    "repoBranch": "main"
+  },
+  "shode666/claude-skill-shode-house": {
+    "name": "shode666/claude-skill-shode-house",
+    "description": "Multi-agent software engineering OS for Claude Code / Cowork \u2014 19 agents in 7 teams, evidence-driven quality gates, domain experts (fintech/ERP/SAP/trading/insurance), token-aware context routing, behavioral A/B eval",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shode666",
+    "repoName": "claude-skill-shode-house",
+    "repoBranch": "main"
   }
 }

@@ -32536,5 +32536,113 @@
         "name": "kannaka-plugin",
         "branch": "master",
         "enabled": true
+    },
+    "grainulation/grainulator": {
+        "owner": "grainulation",
+        "name": "grainulator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "travsteward/openwriter": {
+        "owner": "travsteward",
+        "name": "openwriter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Shehabov/pm-resume-builder-skill": {
+        "owner": "Shehabov",
+        "name": "pm-resume-builder-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Pranav-Nexus/antigravity-skill-porter": {
+        "owner": "Pranav-Nexus",
+        "name": "antigravity-skill-porter",
+        "branch": "main",
+        "enabled": true
+    },
+    "acchuang/zh-tw-humanizer": {
+        "owner": "acchuang",
+        "name": "zh-tw-humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wilu222/unpolish-ai-writing": {
+        "owner": "wilu222",
+        "name": "unpolish-ai-writing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "naravid19/claude-ctf-skills": {
+        "owner": "naravid19",
+        "name": "claude-ctf-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alex-zwingli/plan-to-eat-mcp": {
+        "owner": "alex-zwingli",
+        "name": "plan-to-eat-mcp",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Synthenova/conthunt-cli": {
+        "owner": "Synthenova",
+        "name": "conthunt-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alinafe82/cognitive-deadlift": {
+        "owner": "alinafe82",
+        "name": "cognitive-deadlift",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "letswritetw/lets-social": {
+        "owner": "letswritetw",
+        "name": "lets-social",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cskwork/claude-minimal-plugin": {
+        "owner": "cskwork",
+        "name": "claude-minimal-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bsmi021/google-notebook-plugin": {
+        "owner": "bsmi021",
+        "name": "google-notebook-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "open-coder-ai-org/chock-claude-plugins": {
+        "owner": "open-coder-ai-org",
+        "name": "chock-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "memcell-ai/cli": {
+        "owner": "memcell-ai",
+        "name": "cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "shode666/claude-skill-shode-house": {
+        "owner": "shode666",
+        "name": "claude-skill-shode-house",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

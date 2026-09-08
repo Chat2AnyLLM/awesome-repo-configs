@@ -4615,5 +4615,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "grainulation/grainulator": {
+    "owner": "grainulation",
+    "name": "grainulator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "naravid19/claude-ctf-skills": {
+    "owner": "naravid19",
+    "name": "claude-ctf-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "cskwork/claude-minimal-plugin": {
+    "owner": "cskwork",
+    "name": "claude-minimal-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "shode666/claude-skill-shode-house": {
+    "owner": "shode666",
+    "name": "claude-skill-shode-house",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
