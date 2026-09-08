@@ -4643,5 +4643,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "alex-macra/claude-codex-skills-assembly": {
+    "owner": "alex-macra",
+    "name": "claude-codex-skills-assembly",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -25822,5 +25822,68 @@
     "repoOwner": "shode666",
     "repoName": "claude-skill-shode-house",
     "repoBranch": "main"
+  },
+  "XBlueSky/cc-marketspec": {
+    "name": "XBlueSky/cc-marketspec",
+    "description": "Headless data standard + deterministic generator for Claude Code plugin marketplaces \u2014 describe your marketplace as data, emit one render-agnostic manifest.json. Ships data, not design.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "XBlueSky",
+    "repoName": "cc-marketspec",
+    "repoBranch": "main"
+  },
+  "ahmtsahin/groundwork": {
+    "name": "ahmtsahin/groundwork",
+    "description": "A Codex and Claude Code plugin that reads your repository, settles decisions through native question forms, then implements and verifies the agreed result.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ahmtsahin",
+    "repoName": "groundwork",
+    "repoBranch": "main"
+  },
+  "Handsomeboy990/craft-suite": {
+    "name": "Handsomeboy990/craft-suite",
+    "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering, security, research, career and opportunity work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Handsomeboy990",
+    "repoName": "craft-suite",
+    "repoBranch": "main"
+  },
+  "epode-studio/crosstalk": {
+    "name": "epode-studio/crosstalk",
+    "description": "Now your Claude agents can talk to other people's Claude agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "epode-studio",
+    "repoName": "crosstalk",
+    "repoBranch": "main"
+  },
+  "Zentrik-AI/claude-plugins": {
+    "name": "Zentrik-AI/claude-plugins",
+    "description": "Zentrik plugins for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zentrik-AI",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "ianmhuang/bmc-toolkit": {
+    "name": "ianmhuang/bmc-toolkit",
+    "description": "Claude Code plugin for BMC firmware developers: answers questions from the BMC specification corpus (IPMI, MCTP, PLDM, SPDM, Redfish, NVMe-MI, OCP DC-SCM...) and from OpenBMC source, and cites document, version, secti...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ianmhuang",
+    "repoName": "bmc-toolkit",
+    "repoBranch": "main"
+  },
+  "pelayomendez/in-my-own-words": {
+    "name": "pelayomendez/in-my-own-words",
+    "description": "pelayomendez/in-my-own-words \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pelayomendez",
+    "repoName": "in-my-own-words",
+    "repoBranch": "main"
   }
 }

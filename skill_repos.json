@@ -32644,5 +32644,153 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "NocodeMrLi/mini-program-engineering-skill-suite": {
+        "owner": "NocodeMrLi",
+        "name": "mini-program-engineering-skill-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/verve-skill": {
+        "owner": "dbhq-uk",
+        "name": "verve-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "XBlueSky/cc-marketspec": {
+        "owner": "XBlueSky",
+        "name": "cc-marketspec",
+        "branch": "main",
+        "enabled": true
+    },
+    "ahmtsahin/groundwork": {
+        "owner": "ahmtsahin",
+        "name": "groundwork",
+        "branch": "main",
+        "enabled": true
+    },
+    "publora-team/publora-post-ideas": {
+        "owner": "publora-team",
+        "name": "publora-post-ideas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bacsystem/skills": {
+        "owner": "bacsystem",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Rhay427/D.StandarDev": {
+        "owner": "Rhay427",
+        "name": "D.StandarDev",
+        "branch": "main",
+        "enabled": true
+    },
+    "AliceLJY/digital-clone-skill": {
+        "owner": "AliceLJY",
+        "name": "digital-clone-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jessicahiggs/daily-compliment": {
+        "owner": "jessicahiggs",
+        "name": "daily-compliment",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alex-macra/claude-codex-skills-assembly": {
+        "owner": "alex-macra",
+        "name": "claude-codex-skills-assembly",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Handsomeboy990/craft-suite": {
+        "owner": "Handsomeboy990",
+        "name": "craft-suite",
+        "branch": "main",
+        "enabled": true
+    },
+    "muchandresh/Vibe-Map": {
+        "owner": "muchandresh",
+        "name": "Vibe-Map",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-creator-videos": {
+        "owner": "why20261",
+        "name": "douyin-creator-videos",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-comments-assistant": {
+        "owner": "why20261",
+        "name": "douyin-comments-assistant",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-data-assistant": {
+        "owner": "why20261",
+        "name": "douyin-data-assistant",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "epode-studio/crosstalk": {
+        "owner": "epode-studio",
+        "name": "crosstalk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Zentrik-AI/claude-plugins": {
+        "owner": "Zentrik-AI",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ianmhuang/bmc-toolkit": {
+        "owner": "ianmhuang",
+        "name": "bmc-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aEboli/zhongguose-palette": {
+        "owner": "aEboli",
+        "name": "zhongguose-palette",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jianruntech/geo-score": {
+        "owner": "jianruntech",
+        "name": "geo-score",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pelayomendez/in-my-own-words": {
+        "owner": "pelayomendez",
+        "name": "in-my-own-words",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "apimageorg/apimage-skills": {
+        "owner": "apimageorg",
+        "name": "apimage-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
