@@ -33013,5 +33013,125 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "kazukinagata/shinkoku": {
+        "owner": "kazukinagata",
+        "name": "shinkoku",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "michael-denyer/pstack-claude": {
+        "owner": "michael-denyer",
+        "name": "pstack-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "publora/skills": {
+        "owner": "publora",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ljx-chase/research-field-onboarding": {
+        "owner": "ljx-chase",
+        "name": "research-field-onboarding",
+        "branch": "main",
+        "enabled": true
+    },
+    "nullphase-net/enfurbish": {
+        "owner": "nullphase-net",
+        "name": "enfurbish",
+        "branch": "main",
+        "enabled": true
+    },
+    "Crowd9/giveaway-skills": {
+        "owner": "Crowd9",
+        "name": "giveaway-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "renchenxuan/Umami-Skill-for-Health": {
+        "owner": "renchenxuan",
+        "name": "Umami-Skill-for-Health",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nhhthong/clio": {
+        "owner": "nhhthong",
+        "name": "clio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joshfng/skills": {
+        "owner": "joshfng",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rwshiraishi/novelty-hunt": {
+        "owner": "rwshiraishi",
+        "name": "novelty-hunt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "emanoeI/spec-agent-skill": {
+        "owner": "emanoeI",
+        "name": "spec-agent-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Pr1m4lc0d3/ekphrasis": {
+        "owner": "Pr1m4lc0d3",
+        "name": "ekphrasis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blkdynamite/Gio-prompt-optimizer": {
+        "owner": "blkdynamite",
+        "name": "Gio-prompt-optimizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "xnfinite/icm-ops": {
+        "owner": "xnfinite",
+        "name": "icm-ops",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonydzi/claude-memory-tidy": {
+        "owner": "tonydzi",
+        "name": "claude-memory-tidy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ridelink0/video-watch": {
+        "owner": "ridelink0",
+        "name": "video-watch",
+        "branch": "master",
+        "enabled": true
+    },
+    "ccediland/brand-system-skills": {
+        "owner": "ccediland",
+        "name": "brand-system-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matheuszambonin/teach-me": {
+        "owner": "matheuszambonin",
+        "name": "teach-me",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -26047,5 +26047,113 @@
     "repoOwner": "danibsheehan",
     "repoName": "dani-foundations",
     "repoBranch": "main"
+  },
+  "kazukinagata/shinkoku": {
+    "name": "kazukinagata/shinkoku",
+    "description": "\u78ba\u5b9a\u7533\u544a\u81ea\u52d5\u5316 AI \u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u30d7\u30e9\u30b0\u30a4\u30f3 \u2014 \u5e33\u7c3f\u7ba1\u7406\u304b\u3089 e-Tax \u5165\u529b\u4ee3\u884c\u307e\u3067",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kazukinagata",
+    "repoName": "shinkoku",
+    "repoBranch": "main"
+  },
+  "michael-denyer/pstack-claude": {
+    "name": "michael-denyer/pstack-claude",
+    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated to other agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "michael-denyer",
+    "repoName": "pstack-claude",
+    "repoBranch": "main"
+  },
+  "publora/skills": {
+    "name": "publora/skills",
+    "description": "Official Publora skills for AI agents: post and schedule to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram from Claude Code, Codex, Cursor or OpenClaw through the Publora MC...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "publora",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "nullphase-net/enfurbish": {
+    "name": "nullphase-net/enfurbish",
+    "description": "Claude Code Plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nullphase-net",
+    "repoName": "enfurbish",
+    "repoBranch": "main"
+  },
+  "Crowd9/giveaway-skills": {
+    "name": "Crowd9/giveaway-skills",
+    "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, winner messages and ideas. Platform-neutral, supported by Gleam.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Crowd9",
+    "repoName": "giveaway-skills",
+    "repoBranch": "main"
+  },
+  "nhhthong/clio": {
+    "name": "nhhthong/clio",
+    "description": "A standard layout for .claude/",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nhhthong",
+    "repoName": "clio",
+    "repoBranch": "main"
+  },
+  "joshfng/skills": {
+    "name": "joshfng/skills",
+    "description": "Agent skills for backend and platform work. Claude Code plugin or npx skills@latest add joshfng/skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joshfng",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Pr1m4lc0d3/ekphrasis": {
+    "name": "Pr1m4lc0d3/ekphrasis",
+    "description": "Adjectives are how slop is made, not how it is cured. A Claude Code skill for image and animation prompts: name the subject, fix the light, restrict the medium, say what it is not.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pr1m4lc0d3",
+    "repoName": "ekphrasis",
+    "repoBranch": "main"
+  },
+  "blkdynamite/Gio-prompt-optimizer": {
+    "name": "blkdynamite/Gio-prompt-optimizer",
+    "description": "Free Claude Code plugin: targeted file:line retrieval instead of whole-file reads. Measured 6\u201314\u00d7 fewer input tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blkdynamite",
+    "repoName": "Gio-prompt-optimizer",
+    "repoBranch": "main"
+  },
+  "xnfinite/icm-ops": {
+    "name": "xnfinite/icm-ops",
+    "description": "Skills that keep an ICM workspace honest, for Claude Code, Codex, and any Agent Skills harness: a ledger that scores the agent's advice with falsifiers and outcomes, a verifier that checks claimed work before it repor...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xnfinite",
+    "repoName": "icm-ops",
+    "repoBranch": "main"
+  },
+  "ridelink0/video-watch": {
+    "name": "ridelink0/video-watch",
+    "description": "Let Claude actually watch a video: ffmpeg frame extraction, scene-change cuts and contact sheets, handed back as images a model can read. Zero dependencies, nothing leaves the machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ridelink0",
+    "repoName": "video-watch",
+    "repoBranch": "master"
+  },
+  "ccediland/brand-system-skills": {
+    "name": "ccediland/brand-system-skills",
+    "description": "Claude Code plugin: turns any brand into a machine-true, output-agnostic source of truth (four-layer canon + DTCG/OKLCH tokens) \u2014 a real prototype, a /design-sync-ready component library, and an attachable keystone an...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ccediland",
+    "repoName": "brand-system-skills",
+    "repoBranch": "main"
   }
 }
