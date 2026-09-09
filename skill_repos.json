@@ -33400,5 +33400,53 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "AZidan/archflow": {
+        "owner": "AZidan",
+        "name": "archflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tykok/learning-with-claude": {
+        "owner": "Tykok",
+        "name": "learning-with-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cypher0n3/dotagents": {
+        "owner": "cypher0n3",
+        "name": "dotagents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrustyCap-Technologies/trustycap-skills": {
+        "owner": "TrustyCap-Technologies",
+        "name": "trustycap-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WhereTheTunnelEnds/quorum": {
+        "owner": "WhereTheTunnelEnds",
+        "name": "quorum",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devendrakushwah/glimpse": {
+        "owner": "devendrakushwah",
+        "name": "glimpse",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zhuy9/markdown-to-google-docs": {
+        "owner": "zhuy9",
+        "name": "markdown-to-google-docs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

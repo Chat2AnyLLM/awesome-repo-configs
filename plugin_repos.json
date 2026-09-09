@@ -26299,5 +26299,50 @@
     "repoOwner": "farhan1188",
     "repoName": "claude-code-session-handoff",
     "repoBranch": "main"
+  },
+  "AZidan/archflow": {
+    "name": "AZidan/archflow",
+    "description": "Phase-based AI development framework for Claude Code. 17 specialized agents across 6 phases, handing off through files in your repo \u2014 and it reads the codebase you already have.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AZidan",
+    "repoName": "archflow",
+    "repoBranch": "main"
+  },
+  "Tykok/learning-with-claude": {
+    "name": "Tykok/learning-with-claude",
+    "description": "Turns Claude Code into a learning loop: quizzes you on your own diffs, tracks weak spots per developer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tykok",
+    "repoName": "learning-with-claude",
+    "repoBranch": "main"
+  },
+  "TrustyCap-Technologies/trustycap-skills": {
+    "name": "TrustyCap-Technologies/trustycap-skills",
+    "description": "Agent skills for making an AI-built application production ready: diagnose what is missing, then install only what fits. Each skill routes to TrustyCap's published decision surface rather than restating claims that go...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TrustyCap-Technologies",
+    "repoName": "trustycap-skills",
+    "repoBranch": "main"
+  },
+  "WhereTheTunnelEnds/quorum": {
+    "name": "WhereTheTunnelEnds/quorum",
+    "description": "Multi-model agents for Claude Code: field-tested adapters for other vendors' coding CLIs, plus a probe-driven generator that builds verified adapters for providers you already have.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WhereTheTunnelEnds",
+    "repoName": "quorum",
+    "repoBranch": "main"
+  },
+  "zhuy9/markdown-to-google-docs": {
+    "name": "zhuy9/markdown-to-google-docs",
+    "description": "Convert Markdown to styled Google Docs or DOCX, with Mermaid diagrams and validation reports",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zhuy9",
+    "repoName": "markdown-to-google-docs",
+    "repoBranch": "main"
   }
 }

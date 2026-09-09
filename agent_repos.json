@@ -4713,5 +4713,19 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AZidan/archflow": {
+    "owner": "AZidan",
+    "name": "archflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "WhereTheTunnelEnds/quorum": {
+    "owner": "WhereTheTunnelEnds",
+    "name": "quorum",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
