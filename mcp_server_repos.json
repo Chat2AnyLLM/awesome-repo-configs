@@ -6,5 +6,13 @@
     "enabled": true,
     "serverName": "io.github.uizze/uizze",
     "note": "Official UIZZE MCP Registry source with the hosted Streamable HTTP endpoint at https://uizze.com/mcp."
+  },
+  "n3wth/r3": {
+    "owner": "n3wth",
+    "name": "r3",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.n3wth/r3",
+    "note": "Local Redis memory MCP for AI apps. Official registry: io.github.n3wth/r3. Site: https://r3.n3wth.com. Install: npx @n3wth/r3"
   }
 }
