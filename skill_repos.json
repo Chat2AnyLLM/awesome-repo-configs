@@ -33280,5 +33280,125 @@
         "name": "claude-marketplace",
         "branch": "main",
         "enabled": true
+    },
+    "ciembor/agent-rules-books": {
+        "owner": "ciembor",
+        "name": "agent-rules-books",
+        "branch": "main",
+        "enabled": true
+    },
+    "y0f/fable-orchestration-5.1": {
+        "owner": "y0f",
+        "name": "fable-orchestration-5.1",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "konradmichalik/annotaitr": {
+        "owner": "konradmichalik",
+        "name": "annotaitr",
+        "branch": "main",
+        "enabled": true
+    },
+    "konglong87/shenbi-maliang": {
+        "owner": "konglong87",
+        "name": "shenbi-maliang",
+        "branch": "main",
+        "enabled": true
+    },
+    "nick-railsback/skill-engine": {
+        "owner": "nick-railsback",
+        "name": "skill-engine",
+        "branch": "main",
+        "enabled": true
+    },
+    "itsjavi/skills": {
+        "owner": "itsjavi",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Diegocortes15/playwright-ai-framework": {
+        "owner": "Diegocortes15",
+        "name": "playwright-ai-framework",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ColdBox/skills": {
+        "owner": "ColdBox",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "appleweed/game-skills-for-agents": {
+        "owner": "appleweed",
+        "name": "game-skills-for-agents",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mervick/lemonsqueezy-agent-skills": {
+        "owner": "mervick",
+        "name": "lemonsqueezy-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "farhan1188/claude-code-session-handoff": {
+        "owner": "farhan1188",
+        "name": "claude-code-session-handoff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zhangmask/promptfigure-skill": {
+        "owner": "zhangmask",
+        "name": "promptfigure-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "conselho-administrativo/skill-edital2027": {
+        "owner": "conselho-administrativo",
+        "name": "skill-edital2027",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aiffective-yhi/context-profile": {
+        "owner": "aiffective-yhi",
+        "name": "context-profile",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MaxSchoon/rgs-skill": {
+        "owner": "MaxSchoon",
+        "name": "rgs-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "imadbadreddine7-bot/uae-corporate-tax-registration-skill": {
+        "owner": "imadbadreddine7-bot",
+        "name": "uae-corporate-tax-registration-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "balaka/bro": {
+        "owner": "balaka",
+        "name": "bro",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Hitchiban/appstore-analysis": {
+        "owner": "Hitchiban",
+        "name": "appstore-analysis",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

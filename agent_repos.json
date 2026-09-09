@@ -4706,5 +4706,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "y0f/fable-orchestration-5.1": {
+    "owner": "y0f",
+    "name": "fable-orchestration-5.1",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
