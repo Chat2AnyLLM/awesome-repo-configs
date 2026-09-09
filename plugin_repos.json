@@ -26155,5 +26155,95 @@
     "repoOwner": "ccediland",
     "repoName": "brand-system-skills",
     "repoBranch": "main"
+  },
+  "cryndoc/polisade-orchestrator": {
+    "name": "cryndoc/polisade-orchestrator",
+    "description": "Autonomous development framework for Claude Code, Qwen CLI, GigaCode CLI and opencode \u2014 /polisade:* commands drive the full cycle: spec \u2192 tasks \u2192 implement \u2192 review \u2192 merge. Read-only release mirror.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cryndoc",
+    "repoName": "polisade-orchestrator",
+    "repoBranch": "main"
+  },
+  "starter-series/create-starter": {
+    "name": "starter-series/create-starter",
+    "description": "Scaffold projects from Starter Series templates \u2014 MCP server + Claude Code skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "starter-series",
+    "repoName": "create-starter",
+    "repoBranch": "main"
+  },
+  "autographical/claude-code-plugins": {
+    "name": "autographical/claude-code-plugins",
+    "description": "Connect Claude Code to Autographical",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "autographical",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "kugamon/salesforce-core-skills": {
+    "name": "kugamon/salesforce-core-skills",
+    "description": "Fifteen behaviorally-tested Salesforce skills for AI agents \u2014 Apex, Flow, SOQL, LWC, Metadata, Permissions, Diagrams, Org Audit, Tests, Security, Debug, Org Diff, Integrations, Campaigns, Leads. MCP-first, works with...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kugamon",
+    "repoName": "salesforce-core-skills",
+    "repoBranch": "main"
+  },
+  "martinwolve/DEC-aanbestedingen-plugin": {
+    "name": "martinwolve/DEC-aanbestedingen-plugin",
+    "description": "Claude plugin met skills voor Nederlandse aanbestedingen: planning en stukken ophalen van TenderNed en Mercell, NvI-vragen aanscherpen en aanbestedingsdocumenten omzetten naar Markdown.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martinwolve",
+    "repoName": "DEC-aanbestedingen-plugin",
+    "repoBranch": "main"
+  },
+  "suqo-ai/suqo-claude-plugin": {
+    "name": "suqo-ai/suqo-claude-plugin",
+    "description": "Claude Code plugin that ships skills for building apps on top of the SUQO SDKs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "suqo-ai",
+    "repoName": "suqo-claude-plugin",
+    "repoBranch": "main"
+  },
+  "parMaster/claude-dlc": {
+    "name": "parMaster/claude-dlc",
+    "description": "Personal Claude Code plugins \u2014 planning, brainstorming, reviewing, git workflow, Go tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "parMaster",
+    "repoName": "claude-dlc",
+    "repoBranch": "main"
+  },
+  "ThomirEL/claude-server-handover": {
+    "name": "ThomirEL/claude-server-handover",
+    "description": "Hand a Claude Code session to a home server over Tailscale, let it work, pull the work and the conversation back. Three Claude Code skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ThomirEL",
+    "repoName": "claude-server-handover",
+    "repoBranch": "main"
+  },
+  "itsOmidKarami/kraft": {
+    "name": "itsOmidKarami/kraft",
+    "description": "Published marketplace for the Kraft and Kraft Lite Claude Code plugins. Generated mirror \u2014 source lives in a private monorepo; this tree is regenerated and force-pushed each release.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itsOmidKarami",
+    "repoName": "kraft",
+    "repoBranch": "main"
+  },
+  "vardior/claude-marketplace": {
+    "name": "vardior/claude-marketplace",
+    "description": "A collection of Claude Code plugins for enhanced development workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vardior",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
   }
 }
