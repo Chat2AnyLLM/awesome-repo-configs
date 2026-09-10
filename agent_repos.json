@@ -4727,5 +4727,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "LumioGames/workflow-plugin": {
+    "owner": "LumioGames",
+    "name": "workflow-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "TheOnlyFusionCube/potetos-for-everyone": {
+    "owner": "TheOnlyFusionCube",
+    "name": "potetos-for-everyone",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -33448,5 +33448,88 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jam-cc/paper-review.skill": {
+        "owner": "jam-cc",
+        "name": "paper-review.skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LumioGames/workflow-plugin": {
+        "owner": "LumioGames",
+        "name": "workflow-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mixocreative/ecommerce-cia": {
+        "owner": "mixocreative",
+        "name": "ecommerce-cia",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-scrapers": {
+        "owner": "why20261",
+        "name": "douyin-scrapers",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jordankzf/claude-subagents-mcp": {
+        "owner": "jordankzf",
+        "name": "claude-subagents-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IsthisLee/claude-korean-writing": {
+        "owner": "IsthisLee",
+        "name": "claude-korean-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TheOnlyFusionCube/potetos-for-everyone": {
+        "owner": "TheOnlyFusionCube",
+        "name": "potetos-for-everyone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sinan/hemingway": {
+        "owner": "sinan",
+        "name": "hemingway",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adiolk98/clean-diagram": {
+        "owner": "adiolk98",
+        "name": "clean-diagram",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BruceFloyd/claude-skill-speaker-page": {
+        "owner": "BruceFloyd",
+        "name": "claude-skill-speaker-page",
+        "branch": "main",
+        "enabled": true
+    },
+    "mixocreative/cia": {
+        "owner": "mixocreative",
+        "name": "cia",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yuna78/html-to-pptx": {
+        "owner": "yuna78",
+        "name": "html-to-pptx",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -26344,5 +26344,77 @@
     "repoOwner": "zhuy9",
     "repoName": "markdown-to-google-docs",
     "repoBranch": "main"
+  },
+  "LumioGames/workflow-plugin": {
+    "name": "LumioGames/workflow-plugin",
+    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs with dedup, runs real online QA, and drives ticket status \u2014 every write verified by read-back. A...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LumioGames",
+    "repoName": "workflow-plugin",
+    "repoBranch": "main"
+  },
+  "mixocreative/ecommerce-cia": {
+    "name": "mixocreative/ecommerce-cia",
+    "description": "Claude Code / Codex skill: audits an e-commerce system as a Viable System (Stafford Beer VSM). Payments, stock, orders, entitlements traced as channels; finds cross-boundary invariant violations in the money path. ECP...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mixocreative",
+    "repoName": "ecommerce-cia",
+    "repoBranch": "main"
+  },
+  "IsthisLee/claude-korean-writing": {
+    "name": "IsthisLee/claude-korean-writing",
+    "description": "Claude Code\uac00 \uc4f0\ub294 \ubaa8\ub4e0 \ud55c\uad6d\uc5b4\uc758 \ud488\uc9c8 \ud5a5\uc0c1\uc2dc\ud0a4\ub294 \ud50c\ub7ec\uadf8\uc778. \uc138\uc158 \uaddc\uce59 \uc8fc\uc785\uacfc \uc2a4\ud0ac 4\uc885, \ud30c\uc77c \ud3b8\uc9d1 \uac80\uc0ac \ud6c5 \u00b7 Korean writing quality for Claude Code: four skills and a PostToolUse hook. No network, nothing leaves your machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IsthisLee",
+    "repoName": "claude-korean-writing",
+    "repoBranch": "main"
+  },
+  "TheOnlyFusionCube/potetos-for-everyone": {
+    "name": "TheOnlyFusionCube/potetos-for-everyone",
+    "description": "How to use pstack without Cursor: universal workflow for Claude Code (pstack-claude), Pi (pi-pstack), Codex, & Gemini. Zero dependencies, v0.15.0+.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TheOnlyFusionCube",
+    "repoName": "potetos-for-everyone",
+    "repoBranch": "main"
+  },
+  "YourBestDeveloper/hangul-corruption-guard": {
+    "name": "YourBestDeveloper/hangul-corruption-guard",
+    "description": "\ud55c\uae00 \uae68\uc9d0(Hangul corruption) \ubc29\uc9c0 \ud6c5 \u2014 LLM\uc774 tool call \ud30c\ub77c\ubbf8\ud130\uc5d0 \ud55c\uae00\uc744 \uc798\ubabb \uc368\uc11c \u300c\ucd94\ucc9c\u300d\uc774 \u300c\ucd94\uccb8\u300d\uc774 \ub418\ub294 \ubb38\uc81c\ub97c \uc800\uc7a5 \uc9c1\uc804\uc5d0 \ucc28\ub2e8\ud569\ub2c8\ub2e4. \uc778\ucf54\ub529\u00b7\ud3f0\ud2b8 \uae68\uc9d0(mojibake)\uacfc \ub2e4\ub978 \ubb38\uc81c. Claude Code \u00b7 Cursor \u00b7 Codex / Notion \u00b7 Jira \u00b7 Confluence",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YourBestDeveloper",
+    "repoName": "hangul-corruption-guard",
+    "repoBranch": "main"
+  },
+  "sinan/hemingway": {
+    "name": "sinan/hemingway",
+    "description": "sinan/hemingway \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sinan",
+    "repoName": "hemingway",
+    "repoBranch": "main"
+  },
+  "adiolk98/clean-diagram": {
+    "name": "adiolk98/clean-diagram",
+    "description": "Turn a codebase into one clean architecture map \u2014 engineer view, plain-language view, and the gaps worth a look. Self-contained HTML, draggable nodes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adiolk98",
+    "repoName": "clean-diagram",
+    "repoBranch": "main"
+  },
+  "mixocreative/cia": {
+    "name": "mixocreative/cia",
+    "description": "Claude Code / Codex skill: audits a codebase as a Viable System (Stafford Beer VSM). Maps modules onto Systems 1-5, walks the channels, finds cross-boundary invariant violations a green test suite cannot see.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mixocreative",
+    "repoName": "cia",
+    "repoBranch": "main"
   }
 }
