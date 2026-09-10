@@ -33618,5 +33618,38 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ralfstrobel/agentic-brownfield-coding": {
+        "owner": "ralfstrobel",
+        "name": "agentic-brownfield-coding",
+        "branch": "main",
+        "enabled": true
+    },
+    "RevolutionLA/ascend-assistant": {
+        "owner": "RevolutionLA",
+        "name": "ascend-assistant",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "twistedmelonman/personify": {
+        "owner": "twistedmelonman",
+        "name": "personify",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "djjay0131/agentic-governance": {
+        "owner": "djjay0131",
+        "name": "agentic-governance",
+        "branch": "main",
+        "enabled": true
+    },
+    "yuna78/pdf-to-pptx": {
+        "owner": "yuna78",
+        "name": "pdf-to-pptx",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

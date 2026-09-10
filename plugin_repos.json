@@ -26497,5 +26497,32 @@
     "repoOwner": "sivert-io",
     "repoName": "sprakvask",
     "repoBranch": "main"
+  },
+  "ralfstrobel/agentic-brownfield-coding": {
+    "name": "ralfstrobel/agentic-brownfield-coding",
+    "description": "Claude Code scaffolding and first steps for complex brownfield projects",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ralfstrobel",
+    "repoName": "agentic-brownfield-coding",
+    "repoBranch": "main"
+  },
+  "twistedmelonman/personify": {
+    "name": "twistedmelonman/personify",
+    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated style",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "twistedmelonman",
+    "repoName": "personify",
+    "repoBranch": "main"
+  },
+  "djjay0131/agentic-governance": {
+    "name": "djjay0131/agentic-governance",
+    "description": "AI Engineering Operating System: portfolio governance canon, per-project delta contract, and Claude Code plugin (executive personas + establish/audit/migrate)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "djjay0131",
+    "repoName": "agentic-governance",
+    "repoBranch": "main"
   }
 }
