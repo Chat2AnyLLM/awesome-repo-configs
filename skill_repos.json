@@ -33651,5 +33651,112 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "matlab/agent-skills-playground": {
+        "owner": "matlab",
+        "name": "agent-skills-playground",
+        "branch": "main",
+        "enabled": true
+    },
+    "CorvinLabs/CorvinOS": {
+        "owner": "CorvinLabs",
+        "name": "CorvinOS",
+        "branch": "main",
+        "enabled": true
+    },
+    "formify-e-sign/formify-skills": {
+        "owner": "formify-e-sign",
+        "name": "formify-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/3x-ui-admin-skill": {
+        "owner": "rokokol",
+        "name": "3x-ui-admin-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "afaro-ai/afaro": {
+        "owner": "afaro-ai",
+        "name": "afaro",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andreworia/claude-finance-skills": {
+        "owner": "andreworia",
+        "name": "claude-finance-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "eugene-jet/linkedin-profile-scan": {
+        "owner": "eugene-jet",
+        "name": "linkedin-profile-scan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/huix-standard-skill": {
+        "owner": "rokokol",
+        "name": "huix-standard-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rokokol/companion-skill": {
+        "owner": "rokokol",
+        "name": "companion-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bbsnly/sdlc": {
+        "owner": "bbsnly",
+        "name": "sdlc",
+        "branch": "main",
+        "enabled": true
+    },
+    "tdries/td-claude-plugin-popr": {
+        "owner": "tdries",
+        "name": "td-claude-plugin-popr",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mauriciovieira/groundwork": {
+        "owner": "mauriciovieira",
+        "name": "groundwork",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brquatti/readme-style": {
+        "owner": "brquatti",
+        "name": "readme-style",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "uzampogn/dual-loop-harness": {
+        "owner": "uzampogn",
+        "name": "dual-loop-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/versioning-skill": {
+        "owner": "rokokol",
+        "name": "versioning-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "asm0dey/precedent": {
+        "owner": "asm0dey",
+        "name": "precedent",
+        "branch": "main",
+        "enabled": true
     }
 }

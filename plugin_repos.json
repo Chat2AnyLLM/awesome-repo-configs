@@ -26524,5 +26524,113 @@
     "repoOwner": "djjay0131",
     "repoName": "agentic-governance",
     "repoBranch": "main"
+  },
+  "CorvinLabs/CorvinOS": {
+    "name": "CorvinLabs/CorvinOS",
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord, Telegram, WhatsApp, Slack & Email. EU AI Act 2026 & GDPR compliance by architecture.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CorvinLabs",
+    "repoName": "CorvinOS",
+    "repoBranch": "main"
+  },
+  "formify-e-sign/formify-skills": {
+    "name": "formify-e-sign/formify-skills",
+    "description": "AI agent skills for SMB e-signing and document workflows \u2014 build fillable PDF forms, send contracts for electronic signature, verify signers with BankID or an ID scan, and track everything after the send. Works with C...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "formify-e-sign",
+    "repoName": "formify-skills",
+    "repoBranch": "main"
+  },
+  "ed-is-ai/looselips-guard": {
+    "name": "ed-is-ai/looselips-guard",
+    "description": "Stops your coding agent publishing your data to the world \u2014 a PreToolUse egress guard for Claude Code and other agent hosts",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ed-is-ai",
+    "repoName": "looselips-guard",
+    "repoBranch": "master"
+  },
+  "eugene-jet/linkedin-profile-scan": {
+    "name": "eugene-jet/linkedin-profile-scan",
+    "description": "A Claude Code skill that audits a LinkedIn profile out of 100 across fourteen checks and hands back the rewritten text \u2014 headline options, a redrafted About, reworked Experience bullets, a Featured list, and a content...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eugene-jet",
+    "repoName": "linkedin-profile-scan",
+    "repoBranch": "main"
+  },
+  "bbsnly/sdlc": {
+    "name": "bbsnly/sdlc",
+    "description": "A story-driven delivery loop for Claude Code: one story per session, nine gates, enforced by hooks. Tests are frozen before implementation and the agent that writes the code cannot edit them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bbsnly",
+    "repoName": "sdlc",
+    "repoBranch": "main"
+  },
+  "tdries/td-claude-plugin-popr": {
+    "name": "tdries/td-claude-plugin-popr",
+    "description": "Clickable macOS notifications for Claude Code. A session finishes, needs you, or errors \u2014 you hear it, see it, and one click puts you back in the right window.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tdries",
+    "repoName": "td-claude-plugin-popr",
+    "repoBranch": "main"
+  },
+  "mauriciovieira/groundwork": {
+    "name": "mauriciovieira/groundwork",
+    "description": "Opt-in, spec-driven development framework for Claude Code: Socratic discovery, PRDs, ADRs, tracer-bullet issues, TDD execution, and review. Nothing fires without a slash command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mauriciovieira",
+    "repoName": "groundwork",
+    "repoBranch": "main"
+  },
+  "brquatti/readme-style": {
+    "name": "brquatti/readme-style",
+    "description": "Keep every README on your GitHub profile in the same visual style, with no effort",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brquatti",
+    "repoName": "readme-style",
+    "repoBranch": "main"
+  },
+  "uzampogn/dual-loop-harness": {
+    "name": "uzampogn/dual-loop-harness",
+    "description": "Dual-loop harness for Claude Code: a human-led design loop and an autonomous build loop, packaged as a plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uzampogn",
+    "repoName": "dual-loop-harness",
+    "repoBranch": "main"
+  },
+  "marcobelini/tapproval-helper": {
+    "name": "marcobelini/tapproval-helper",
+    "description": "Tapproval Base \u2014 the computer half of Tapproval: answer Claude Code from your Apple Watch. Open, auditable, standard-library only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marcobelini",
+    "repoName": "tapproval-helper",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/agent-signage": {
+    "name": "hermes-labs-ai/agent-signage",
+    "description": "Road signs for coding agents: one measured fact at the moment of action, silence otherwise",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "agent-signage",
+    "repoBranch": "main"
+  },
+  "asm0dey/precedent": {
+    "name": "asm0dey/precedent",
+    "description": "Claude Code skill: remembers your architectural and business decisions across every project, and surfaces them as precedent when a comparable choice comes up.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asm0dey",
+    "repoName": "precedent",
+    "repoBranch": "main"
   }
 }

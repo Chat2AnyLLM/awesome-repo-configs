@@ -4762,5 +4762,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mauriciovieira/groundwork": {
+    "owner": "mauriciovieira",
+    "name": "groundwork",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
