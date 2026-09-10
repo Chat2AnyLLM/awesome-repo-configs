@@ -33531,5 +33531,92 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "alivecontext/alive": {
+        "owner": "alivecontext",
+        "name": "alive",
+        "branch": "main",
+        "enabled": true
+    },
+    "bkraad47/fat_llama_fftw": {
+        "owner": "bkraad47",
+        "name": "fat_llama_fftw",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ilyautov/humanizer-it": {
+        "owner": "ilyautov",
+        "name": "humanizer-it",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "savasturkoglu1/promptpilot-plugin": {
+        "owner": "savasturkoglu1",
+        "name": "promptpilot-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "faruheaisha/cnipa-patent-kit": {
+        "owner": "faruheaisha",
+        "name": "cnipa-patent-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "abduelhamit/hungrai-skill": {
+        "owner": "abduelhamit",
+        "name": "hungrai-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "schudarin/chudarin-figma-skills": {
+        "owner": "schudarin",
+        "name": "chudarin-figma-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wuzhenhua24/inkstone": {
+        "owner": "wuzhenhua24",
+        "name": "inkstone",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ArthurZakirov/SkillPort": {
+        "owner": "ArthurZakirov",
+        "name": "SkillPort",
+        "branch": "main",
+        "enabled": true
+    },
+    "ArthurZakirov/AgentDesk": {
+        "owner": "ArthurZakirov",
+        "name": "AgentDesk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sumitk1/wolfpack-code-review": {
+        "owner": "sumitk1",
+        "name": "wolfpack-code-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Brilia-it/k3-plugin-cc": {
+        "owner": "Brilia-it",
+        "name": "k3-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "sivert-io/sprakvask": {
+        "owner": "sivert-io",
+        "name": "sprakvask",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

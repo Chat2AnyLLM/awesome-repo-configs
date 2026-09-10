@@ -4741,5 +4741,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "bkraad47/fat_llama_fftw": {
+    "owner": "bkraad47",
+    "name": "fat_llama_fftw",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "savasturkoglu1/promptpilot-plugin": {
+    "owner": "savasturkoglu1",
+    "name": "promptpilot-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Brilia-it/k3-plugin-cc": {
+    "owner": "Brilia-it",
+    "name": "k3-plugin-cc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

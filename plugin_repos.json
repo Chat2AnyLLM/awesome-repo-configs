@@ -26416,5 +26416,86 @@
     "repoOwner": "mixocreative",
     "repoName": "cia",
     "repoBranch": "main"
+  },
+  "alivecontext/alive": {
+    "name": "alivecontext/alive",
+    "description": "Personal Context Manager for Claude Code. Your life in walnuts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alivecontext",
+    "repoName": "alive",
+    "repoBranch": "main"
+  },
+  "ilyautov/humanizer-it": {
+    "name": "ilyautov/humanizer-it",
+    "description": "Remove AI traces from Italian text \u2014 opensource (MIT) skill for Claude. The \u00abIA-taliano\u00bb: English calques, nominal burocratese, missing intercalari/clitics. 52 patterns, 15 hard bans, dependency-free scanner.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilyautov",
+    "repoName": "humanizer-it",
+    "repoBranch": "main"
+  },
+  "savasturkoglu1/promptpilot-plugin": {
+    "name": "savasturkoglu1/promptpilot-plugin",
+    "description": "Turn rough, vague prompts into precise, context-enriched prompts inside your AI coding agent session \u2014 Claude Code plugin, plus native commands for Codex CLI, OpenCode, Gemini CLI, and Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "savasturkoglu1",
+    "repoName": "promptpilot-plugin",
+    "repoBranch": "main"
+  },
+  "abduelhamit/hungrai-skill": {
+    "name": "abduelhamit/hungrai-skill",
+    "description": "Unofficial Claude Code port of the SNICKERS HUNGR.AI campaign: hand Claude a digital candy bar when its last answer was off, get a blunter second attempt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abduelhamit",
+    "repoName": "hungrai-skill",
+    "repoBranch": "main"
+  },
+  "schudarin/chudarin-figma-skills": {
+    "name": "schudarin/chudarin-figma-skills",
+    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow planning",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "schudarin",
+    "repoName": "chudarin-figma-skills",
+    "repoBranch": "main"
+  },
+  "ArthurZakirov/SkillPort": {
+    "name": "ArthurZakirov/SkillPort",
+    "description": "Package agent skills once. Install them anywhere.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArthurZakirov",
+    "repoName": "SkillPort",
+    "repoBranch": "main"
+  },
+  "ArthurZakirov/AgentDesk": {
+    "name": "ArthurZakirov/AgentDesk",
+    "description": "Make any machine ready for human and AI-agent work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArthurZakirov",
+    "repoName": "AgentDesk",
+    "repoBranch": "main"
+  },
+  "Brilia-it/k3-plugin-cc": {
+    "name": "Brilia-it/k3-plugin-cc",
+    "description": "UNOFFICIAL fork of linxule/kimi-plugin-cc. Use Kimi K3 inside Claude Code via your own Kimi Code subscription. Not affiliated with Moonshot AI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Brilia-it",
+    "repoName": "k3-plugin-cc",
+    "repoBranch": "main"
+  },
+  "sivert-io/sprakvask": {
+    "name": "sivert-io/sprakvask",
+    "description": "Norsk spr\u00e5kvask etter Spr\u00e5kr\u00e5dets normer \u2013 skill for Claude Code. Rettskriving, tegnsetting og klarspr\u00e5k for bokm\u00e5l og nynorsk. A Norwegian language skill for AI coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sivert-io",
+    "repoName": "sprakvask",
+    "repoBranch": "main"
   }
 }
