@@ -26632,5 +26632,68 @@
     "repoOwner": "asm0dey",
     "repoName": "precedent",
     "repoBranch": "main"
+  },
+  "noteflowai/dsh-skills-anywhere": {
+    "name": "noteflowai/dsh-skills-anywhere",
+    "description": "Your skills, anywhere. Install an Agent Skill once, use it in every agent: live skill provider for DeepSeek Harness (dsh) + MCP server / Claude Code plugin for Claude Code, Cursor, Codex. Reads 60+ agents' skill dirs,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "noteflowai",
+    "repoName": "dsh-skills-anywhere",
+    "repoBranch": "main"
+  },
+  "johney4415/session-engram": {
+    "name": "johney4415/session-engram",
+    "description": "macOS menu bar app and CLI for browsing, resuming and cleaning up past Claude Code and Codex sessions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johney4415",
+    "repoName": "session-engram",
+    "repoBranch": "main"
+  },
+  "XuGuanghaiGoogle/interactive-diagram-html": {
+    "name": "XuGuanghaiGoogle/interactive-diagram-html",
+    "description": "Claude Code skill: turn architecture diagrams, process flows and development plans into single-file interactive HTML through a guided conversation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "XuGuanghaiGoogle",
+    "repoName": "interactive-diagram-html",
+    "repoBranch": "main"
+  },
+  "marcosathanasoulis/prompt-it": {
+    "name": "marcosathanasoulis/prompt-it",
+    "description": "A planning skill for Claude or ChatGPT that asks before it plans. Three versions: claude.ai, engineers, and read-only for people with data access who don't ship code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marcosathanasoulis",
+    "repoName": "prompt-it",
+    "repoBranch": "main"
+  },
+  "jrabercrombie/watchbill": {
+    "name": "jrabercrombie/watchbill",
+    "description": "The deckhands do the work, the officer of the watch runs the deck: parallel Claude subagents in git worktrees, coordinated through a file mailbox with live status, corrections, claims, and evidence-checked merges.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jrabercrombie",
+    "repoName": "watchbill",
+    "repoBranch": "main"
+  },
+  "tribeunal/mcp-server": {
+    "name": "tribeunal/mcp-server",
+    "description": "MCP server for Tribeunal \u2014 39 tools and 8 Agent Skills that put humans and AI agents on the same jury",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tribeunal",
+    "repoName": "mcp-server",
+    "repoBranch": "main"
+  },
+  "CodyWhatleyMD/riverbed-compact": {
+    "name": "CodyWhatleyMD/riverbed-compact",
+    "description": "Directed, lossless context compaction for Claude Code \u2014 the live session (or its forks) authors what survives",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CodyWhatleyMD",
+    "repoName": "riverbed-compact",
+    "repoBranch": "main"
   }
 }

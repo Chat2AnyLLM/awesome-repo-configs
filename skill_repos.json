@@ -33758,5 +33758,80 @@
         "name": "precedent",
         "branch": "main",
         "enabled": true
+    },
+    "Soushi888/holochain-agent-skills": {
+        "owner": "Soushi888",
+        "name": "holochain-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johney4415/session-engram": {
+        "owner": "johney4415",
+        "name": "session-engram",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wonder37-debug/agent-skill-pdf-lecture-notes": {
+        "owner": "wonder37-debug",
+        "name": "agent-skill-pdf-lecture-notes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "XuGuanghaiGoogle/interactive-diagram-html": {
+        "owner": "XuGuanghaiGoogle",
+        "name": "interactive-diagram-html",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "marcosathanasoulis/prompt-it": {
+        "owner": "marcosathanasoulis",
+        "name": "prompt-it",
+        "branch": "main",
+        "enabled": true
+    },
+    "PyModel/done-means-done": {
+        "owner": "PyModel",
+        "name": "done-means-done",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jrabercrombie/watchbill": {
+        "owner": "jrabercrombie",
+        "name": "watchbill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dangnhathuycntt-byte/claude-skills": {
+        "owner": "dangnhathuycntt-byte",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tribeunal/mcp-server": {
+        "owner": "tribeunal",
+        "name": "mcp-server",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CodyWhatleyMD/riverbed-compact": {
+        "owner": "CodyWhatleyMD",
+        "name": "riverbed-compact",
+        "branch": "main",
+        "enabled": true
+    },
+    "aniboy2k-gif/memory-health": {
+        "owner": "aniboy2k-gif",
+        "name": "memory-health",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
