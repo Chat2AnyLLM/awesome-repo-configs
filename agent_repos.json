@@ -4776,5 +4776,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "imtiazrayhan/agentscamp-library": {
+    "owner": "imtiazrayhan",
+    "name": "agentscamp-library",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

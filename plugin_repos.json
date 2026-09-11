@@ -26794,5 +26794,86 @@
     "repoOwner": "yumiaura",
     "repoName": "TaskTracker",
     "repoBranch": "main"
+  },
+  "sj817/claude-code-plugin-hud": {
+    "name": "sj817/claude-code-plugin-hud",
+    "description": "\u4e00\u4e2a\u6e05\u723d\u6781\u7b80\u7684 Claude Code \u72b6\u6001\u680f\u63d2\u4ef6/A minimal and refreshing statusline for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sj817",
+    "repoName": "claude-code-plugin-hud",
+    "repoBranch": "main"
+  },
+  "kbelasheuski/ios-architecture-skills": {
+    "name": "kbelasheuski/ios-architecture-skills",
+    "description": "Choose, audit, refactor & migrate iOS app architectures. A Claude Code & Codex agent plus skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kbelasheuski",
+    "repoName": "ios-architecture-skills",
+    "repoBranch": "main"
+  },
+  "iDWong/pm-skills": {
+    "name": "iDWong/pm-skills",
+    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iDWong",
+    "repoName": "pm-skills",
+    "repoBranch": "main"
+  },
+  "iDWong/dev-skills": {
+    "name": "iDWong/dev-skills",
+    "description": "\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a23 \u4e2a\u6280\u80fd / 4 \u4e2a plugin / \u5355\u4e00\u7f16\u6392\u5668 dev-master \u7ba1 13 \u9636\u6bb5\u6d41\u7a0b\uff08SRS \u771f\u6e90 \u2192 \u8bbe\u8ba1 \u2192 \u5b9e\u73b0 \u2192 \u6d4b\u8bd5 \u2192 \u4e0a\u7ebf\u5ba1\u8ba1 \u2192 \u53d1\u7248\uff09\u3002Claude Code / Codex / Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iDWong",
+    "repoName": "dev-skills",
+    "repoBranch": "main"
+  },
+  "polar-bear-org/claude-skills": {
+    "name": "polar-bear-org/claude-skills",
+    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-bear-org/claude-skills. Packs: workshops that end in decisions, and a full annual performance revi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "polar-bear-org",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "belousov-petr/strata": {
+    "name": "belousov-petr/strata",
+    "description": "Keeps a project's documentation in step with what it actually does. Decisions, specs, issues, runbooks, and layered memory as plain Markdown under .strata/, shared by Claude Code and Codex and brought current on one /...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "belousov-petr",
+    "repoName": "strata",
+    "repoBranch": "main"
+  },
+  "oddurs/subway-seat": {
+    "name": "oddurs/subway-seat",
+    "description": "A walnut-brown 1970s subway-car color scheme for 92 apps: Ghostty, VS Code, Neovim, Zed, Claude Code and more. Three flavors. Sit back.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oddurs",
+    "repoName": "subway-seat",
+    "repoBranch": "main"
+  },
+  "SeKondBrainAILabs/claude-kemory": {
+    "name": "SeKondBrainAILabs/claude-kemory",
+    "description": "Persistent, cross-session memory for Claude Code \u2014 powered by Kemory. Injects your context at session start, keeps recall quality improving, and stores durable facts before they are lost.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SeKondBrainAILabs",
+    "repoName": "claude-kemory",
+    "repoBranch": "main"
+  },
+  "josefernandez-vensure/vensure-marketplace": {
+    "name": "josefernandez-vensure/vensure-marketplace",
+    "description": "Claude Code plugins from Vensure Engineering: coding assistants, engineering governance, and development tooling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "josefernandez-vensure",
+    "repoName": "vensure-marketplace",
+    "repoBranch": "main"
   }
 }

@@ -33951,5 +33951,143 @@
         "name": "smartmaya-linkedin-article-publisher",
         "branch": "main",
         "enabled": true
+    },
+    "zenstory-ai/drama-skills": {
+        "owner": "zenstory-ai",
+        "name": "drama-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eternityspring/reelbench-skills": {
+        "owner": "eternityspring",
+        "name": "reelbench-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OuFinx/mistok-chytalnia": {
+        "owner": "OuFinx",
+        "name": "mistok-chytalnia",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kbelasheuski/ios-architecture-skills": {
+        "owner": "kbelasheuski",
+        "name": "ios-architecture-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "genAIal/tldraw-diagram-skill": {
+        "owner": "genAIal",
+        "name": "tldraw-diagram-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "iDWong/pm-skills": {
+        "owner": "iDWong",
+        "name": "pm-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "iDWong/dev-skills": {
+        "owner": "iDWong",
+        "name": "dev-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "imtiazrayhan/agentscamp-library": {
+        "owner": "imtiazrayhan",
+        "name": "agentscamp-library",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "polar-bear-org/claude-skills": {
+        "owner": "polar-bear-org",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Shivani26Singh/skill-library": {
+        "owner": "Shivani26Singh",
+        "name": "skill-library",
+        "branch": "main",
+        "enabled": true
+    },
+    "developer239/michals-opencode-cookbook": {
+        "owner": "developer239",
+        "name": "michals-opencode-cookbook",
+        "branch": "main",
+        "enabled": true
+    },
+    "KreshBack/vibecoded-audit": {
+        "owner": "KreshBack",
+        "name": "vibecoded-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hraness/soulscrape": {
+        "owner": "hraness",
+        "name": "soulscrape",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aashutosh396/mindpalace-skill": {
+        "owner": "aashutosh396",
+        "name": "mindpalace-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Yashraj00700/claude-skills": {
+        "owner": "Yashraj00700",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "belousov-petr/strata": {
+        "owner": "belousov-petr",
+        "name": "strata",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yo61/claude-plugin-reportlab-pdf": {
+        "owner": "yo61",
+        "name": "claude-plugin-reportlab-pdf",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yo61/claude-plugin-contributory-factors": {
+        "owner": "yo61",
+        "name": "claude-plugin-contributory-factors",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oddurs/subway-seat": {
+        "owner": "oddurs",
+        "name": "subway-seat",
+        "branch": "main",
+        "enabled": true
+    },
+    "SeKondBrainAILabs/claude-kemory": {
+        "owner": "SeKondBrainAILabs",
+        "name": "claude-kemory",
+        "branch": "main",
+        "enabled": true
+    },
+    "josefernandez-vensure/vensure-marketplace": {
+        "owner": "josefernandez-vensure",
+        "name": "vensure-marketplace",
+        "branch": "main",
+        "enabled": true
     }
 }
