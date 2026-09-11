@@ -34089,5 +34089,99 @@
         "name": "vensure-marketplace",
         "branch": "main",
         "enabled": true
+    },
+    "mostafa-drz/claude-skills": {
+        "owner": "mostafa-drz",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "JadeYingWah/gpt-series-reasoning-style": {
+        "owner": "JadeYingWah",
+        "name": "gpt-series-reasoning-style",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tahodev/kurashi-skill": {
+        "owner": "tahodev",
+        "name": "kurashi-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "SurefireStudios/tldr": {
+        "owner": "SurefireStudios",
+        "name": "tldr",
+        "branch": "main",
+        "enabled": true
+    },
+    "ice-lfernandes/claude-spring-architect": {
+        "owner": "ice-lfernandes",
+        "name": "claude-spring-architect",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "javirub/claude-manual-todos-plugin": {
+        "owner": "javirub",
+        "name": "claude-manual-todos-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jianga0801-ui/music-stem-separation": {
+        "owner": "jianga0801-ui",
+        "name": "music-stem-separation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Aniruddha-Sainkar/relay-voice-ops": {
+        "owner": "Aniruddha-Sainkar",
+        "name": "relay-voice-ops",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lucas-saldanha-werneck/Claude-1Password": {
+        "owner": "lucas-saldanha-werneck",
+        "name": "Claude-1Password",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rdilruba/codebase-map": {
+        "owner": "rdilruba",
+        "name": "codebase-map",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kumospace/talent": {
+        "owner": "kumospace",
+        "name": "talent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Flux-Point-Studios/fluxpoint-plugins": {
+        "owner": "Flux-Point-Studios",
+        "name": "fluxpoint-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "WorkflowtechAI/job-hunt": {
+        "owner": "WorkflowtechAI",
+        "name": "job-hunt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pratie/youtube-transcript-skill": {
+        "owner": "pratie",
+        "name": "youtube-transcript-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

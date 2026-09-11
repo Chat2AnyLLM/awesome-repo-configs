@@ -26875,5 +26875,50 @@
     "repoOwner": "josefernandez-vensure",
     "repoName": "vensure-marketplace",
     "repoBranch": "main"
+  },
+  "JadeYingWah/gpt-series-reasoning-style": {
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d: pre-implementation gate, one backbone + two collaboration forms, evidence-based review, real-env...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JadeYingWah",
+    "repoName": "gpt-series-reasoning-style",
+    "repoBranch": "main"
+  },
+  "SurefireStudios/tldr": {
+    "name": "SurefireStudios/tldr",
+    "description": "Too long; didn't read \u2014 for AI coding agents. A skill that makes Claude Code, Cursor, Codex, Gemini CLI and 13 more lead with a 3-line TL;DR and fold the detail instead of burying the answer. Cuts subagent and tool-ou...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SurefireStudios",
+    "repoName": "tldr",
+    "repoBranch": "main"
+  },
+  "javirub/claude-manual-todos-plugin": {
+    "name": "javirub/claude-manual-todos-plugin",
+    "description": "Claude records the manual steps only you can do \u2014 a form in some console, a secret to seed, a review to answer \u2014 in local SQLite, and you work through them on a board that looks different for every project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "javirub",
+    "repoName": "claude-manual-todos-plugin",
+    "repoBranch": "main"
+  },
+  "lucas-saldanha-werneck/Claude-1Password": {
+    "name": "lucas-saldanha-werneck/Claude-1Password",
+    "description": "1Password for Claude Code: secrets never enter the chat. A hook erases pasted keys before Claude sees them; op-store opens a native 1Password dialog with an eye toggle; op-env launches Claude with secrets injected. ma...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucas-saldanha-werneck",
+    "repoName": "Claude-1Password",
+    "repoBranch": "main"
+  },
+  "Flux-Point-Studios/fluxpoint-plugins": {
+    "name": "Flux-Point-Studios/fluxpoint-plugins",
+    "description": "Claude/Codex plugins from Flux Point Studios. fluxpoint: a deterministic Definition-of-Done gate on every session, plus a compiler that turns a WORK.md graph into verified multi-agent campaigns. substrate: a multi-rep...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Flux-Point-Studios",
+    "repoName": "fluxpoint-plugins",
+    "repoBranch": "main"
   }
 }

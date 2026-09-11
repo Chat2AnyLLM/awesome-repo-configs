@@ -4783,5 +4783,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ice-lfernandes/claude-spring-architect": {
+    "owner": "ice-lfernandes",
+    "name": "claude-spring-architect",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
