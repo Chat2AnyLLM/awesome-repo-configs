@@ -33833,5 +33833,123 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Lykhoyda/ask-llm": {
+        "owner": "Lykhoyda",
+        "name": "ask-llm",
+        "branch": "main",
+        "enabled": true
+    },
+    "janbrus/pxwebapi-skills": {
+        "owner": "janbrus",
+        "name": "pxwebapi-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jovesun-lab/whetstone": {
+        "owner": "jovesun-lab",
+        "name": "whetstone",
+        "branch": "main",
+        "enabled": true
+    },
+    "transitive-bullshit/skills": {
+        "owner": "transitive-bullshit",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "massimodeluisa/nerdfonts-skill": {
+        "owner": "massimodeluisa",
+        "name": "nerdfonts-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hungduong-projects/code-map": {
+        "owner": "hungduong-projects",
+        "name": "code-map",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TYLDA-Solutions/diffquiz": {
+        "owner": "TYLDA-Solutions",
+        "name": "diffquiz",
+        "branch": "main",
+        "enabled": true
+    },
+    "ip930/patentmax-patent-search": {
+        "owner": "ip930",
+        "name": "patentmax-patent-search",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "valasubramanian-kr/wallet-web-developer": {
+        "owner": "valasubramanian-kr",
+        "name": "wallet-web-developer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "627-hub/duanxianxia-skill": {
+        "owner": "627-hub",
+        "name": "duanxianxia-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "YKUNAKORN/power-app-yaml": {
+        "owner": "YKUNAKORN",
+        "name": "power-app-yaml",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chenhz01/zhengming-openai-plugins": {
+        "owner": "chenhz01",
+        "name": "zhengming-openai-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "why20261/video-ai-analyzer": {
+        "owner": "why20261",
+        "name": "video-ai-analyzer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Teknesyum/Teknesyum-UI": {
+        "owner": "Teknesyum",
+        "name": "Teknesyum-UI",
+        "branch": "main",
+        "enabled": true
+    },
+    "pithpusher/claude-code-fable-orchestrator": {
+        "owner": "pithpusher",
+        "name": "claude-code-fable-orchestrator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/papers-skill": {
+        "owner": "rokokol",
+        "name": "papers-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "WiselyWise/smartmaya-x-article-publisher": {
+        "owner": "WiselyWise",
+        "name": "smartmaya-x-article-publisher",
+        "branch": "main",
+        "enabled": true
+    },
+    "WiselyWise/smartmaya-linkedin-article-publisher": {
+        "owner": "WiselyWise",
+        "name": "smartmaya-linkedin-article-publisher",
+        "branch": "main",
+        "enabled": true
     }
 }

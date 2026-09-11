@@ -26695,5 +26695,104 @@
     "repoOwner": "CodyWhatleyMD",
     "repoName": "riverbed-compact",
     "repoBranch": "main"
+  },
+  "Lykhoyda/ask-llm": {
+    "name": "Lykhoyda/ask-llm",
+    "description": "MCP server for AI-to-AI collaboration \u2014 bridge Claude with Gemini, Codex, and other LLMs for code review, second opinions, and plan debate",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lykhoyda",
+    "repoName": "ask-llm",
+    "repoBranch": "main"
+  },
+  "jovesun-lab/whetstone": {
+    "name": "jovesun-lab/whetstone",
+    "description": "Small, sharp, agent-agnostic skills that keep an AI agent's work honest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jovesun-lab",
+    "repoName": "whetstone",
+    "repoBranch": "main"
+  },
+  "massimodeluisa/nerdfonts-skill": {
+    "name": "massimodeluisa/nerdfonts-skill",
+    "description": "Agent skill for Nerd Fonts: use Nerd Fonts glyphs for any icon, pick and install patched fonts, look up icons via nerdfonts.com cheat-sheet and font-downloads.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "massimodeluisa",
+    "repoName": "nerdfonts-skill",
+    "repoBranch": "main"
+  },
+  "hungduong-projects/code-map": {
+    "name": "hungduong-projects/code-map",
+    "description": "Coding agents re-discover your repo every session and miss what they must not break. code-map hands each agent, subagent and file edit the right zone from one checked-in, validated map. No index or infra.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hungduong-projects",
+    "repoName": "code-map",
+    "repoBranch": "main"
+  },
+  "TYLDA-Solutions/diffquiz": {
+    "name": "TYLDA-Solutions/diffquiz",
+    "description": "A 60-second quiz on your own diff before you open the PR. Non-blocking, human-focused, runs on the LLM CLI you already use.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TYLDA-Solutions",
+    "repoName": "diffquiz",
+    "repoBranch": "main"
+  },
+  "valasubramanian-kr/wallet-web-developer": {
+    "name": "valasubramanian-kr/wallet-web-developer",
+    "description": "Claude plugin orchestrating spec-to-code automation workflow, enabling developers to leverage Claude Skills for productivity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "valasubramanian-kr",
+    "repoName": "wallet-web-developer",
+    "repoBranch": "main"
+  },
+  "YKUNAKORN/power-app-yaml": {
+    "name": "YKUNAKORN/power-app-yaml",
+    "description": "Claude skill that converts HTML/CSS mockups, Figma exports, and UI screenshots into paste-ready Power Apps Canvas YAML (.pa.yaml v3.0).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YKUNAKORN",
+    "repoName": "power-app-yaml",
+    "repoBranch": "main"
+  },
+  "astrofoundry/agent-skills": {
+    "name": "astrofoundry/agent-skills",
+    "description": "Astro Foundry plugin marketplace for Claude Code. Registers as 'astrofoundry'.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "astrofoundry",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "Teknesyum/Teknesyum-UI": {
+    "name": "Teknesyum/Teknesyum-UI",
+    "description": "Neon interface standard for Claude Code. Companion to Teknesyum Core.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Teknesyum",
+    "repoName": "Teknesyum-UI",
+    "repoBranch": "main"
+  },
+  "pithpusher/claude-code-fable-orchestrator": {
+    "name": "pithpusher/claude-code-fable-orchestrator",
+    "description": "Claude Code plugin: Opus session with a Fable advisor by default, or Fable as a lean orchestrator. Five subagents with pinned models (Haiku, Sonnet, Opus), a Fable-only guard hook, and /handoff.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pithpusher",
+    "repoName": "claude-code-fable-orchestrator",
+    "repoBranch": "main"
+  },
+  "yumiaura/TaskTracker": {
+    "name": "yumiaura/TaskTracker",
+    "description": "A task board Claude fills in for itself: a Claude Code plugin that mirrors Claude's task list onto a per-project board, with MCP tools and a local web panel.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yumiaura",
+    "repoName": "TaskTracker",
+    "repoBranch": "main"
   }
 }

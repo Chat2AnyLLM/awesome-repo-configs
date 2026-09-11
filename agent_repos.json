@@ -4769,5 +4769,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "pithpusher/claude-code-fable-orchestrator": {
+    "owner": "pithpusher",
+    "name": "claude-code-fable-orchestrator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
