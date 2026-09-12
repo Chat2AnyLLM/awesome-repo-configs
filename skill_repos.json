@@ -34315,7 +34315,7 @@
     "ilyautov/consilium-principis": {
         "owner": "ilyautov",
         "name": "consilium-principis",
-        "branch": "main",
+        "branch": "master",
         "skillsPath": "skills",
         "enabled": true
     },

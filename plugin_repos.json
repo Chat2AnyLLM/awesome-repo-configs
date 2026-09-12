@@ -27045,7 +27045,7 @@
     "type": "marketplace",
     "repoOwner": "ilyautov",
     "repoName": "consilium-principis",
-    "repoBranch": "main"
+    "repoBranch": "master"
   },
   "ilyautov/cordon": {
     "name": "ilyautov/cordon",
