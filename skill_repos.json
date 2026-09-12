@@ -33556,7 +33556,7 @@
         "owner": "ilyautov",
         "name": "humanizer-it",
         "branch": "main",
-        "skillsPath": "./",
+        "skillsPath": "skills",
         "enabled": true
     },
     "savasturkoglu1/promptpilot-plugin": {
