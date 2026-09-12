@@ -4825,5 +4825,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "addsumtech/job-hunt": {
+    "owner": "addsumtech",
+    "name": "job-hunt",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Haruki1090/slide-studio": {
+    "owner": "Haruki1090",
+    "name": "slide-studio",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

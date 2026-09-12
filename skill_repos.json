@@ -34453,5 +34453,127 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "mcpware/cross-code-organizer": {
+        "owner": "mcpware",
+        "name": "cross-code-organizer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "magic5644/Graph-It-Live": {
+        "owner": "magic5644",
+        "name": "Graph-It-Live",
+        "branch": "main",
+        "enabled": true
+    },
+    "MustBeSimo/web-design-studio": {
+        "owner": "MustBeSimo",
+        "name": "web-design-studio",
+        "branch": "main",
+        "enabled": true
+    },
+    "Open-Dev-Society/kitbash": {
+        "owner": "Open-Dev-Society",
+        "name": "kitbash",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WhatIfWeDigDeeper/agent-skills": {
+        "owner": "WhatIfWeDigDeeper",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "addsumtech/job-hunt": {
+        "owner": "addsumtech",
+        "name": "job-hunt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nerdstalker/ui-ux-fixer": {
+        "owner": "nerdstalker",
+        "name": "ui-ux-fixer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "j912835225-prog/whetstone": {
+        "owner": "j912835225-prog",
+        "name": "whetstone",
+        "branch": "main",
+        "enabled": true
+    },
+    "kwoekel/woekel-works": {
+        "owner": "kwoekel",
+        "name": "woekel-works",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dhzyw/long-task-runner": {
+        "owner": "dhzyw",
+        "name": "long-task-runner",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "competlab/competlab-ci-skills": {
+        "owner": "competlab",
+        "name": "competlab-ci-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "borx3a/halka-arz-skills": {
+        "owner": "borx3a",
+        "name": "halka-arz-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Yurakonoplya/unmark-checker": {
+        "owner": "Yurakonoplya",
+        "name": "unmark-checker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Haruki1090/slide-studio": {
+        "owner": "Haruki1090",
+        "name": "slide-studio",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucasenatm/marketing-workspace": {
+        "owner": "lucasenatm",
+        "name": "marketing-workspace",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KENAN-LABS/stochastic-consensus": {
+        "owner": "KENAN-LABS",
+        "name": "stochastic-consensus",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Goutham-Eda/reproducible-lit-review": {
+        "owner": "Goutham-Eda",
+        "name": "reproducible-lit-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ramonvdo/folder-colors": {
+        "owner": "Ramonvdo",
+        "name": "folder-colors",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

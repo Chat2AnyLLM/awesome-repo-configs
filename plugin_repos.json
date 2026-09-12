@@ -27145,5 +27145,86 @@
     "repoOwner": "supervoidproxima",
     "repoName": "solai",
     "repoBranch": "main"
+  },
+  "magic5644/Graph-It-Live": {
+    "name": "magic5644/Graph-It-Live",
+    "description": "Graph-It-Live VS Code Extension",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "magic5644",
+    "repoName": "Graph-It-Live",
+    "repoBranch": "main"
+  },
+  "MustBeSimo/web-design-studio": {
+    "name": "MustBeSimo/web-design-studio",
+    "description": "Web Design Studio: free agent skill for distinctive websites, interactive 3D and motion. 28 live examples, art direction and accessible fallbacks. Formerly Cinematic Scroll.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MustBeSimo",
+    "repoName": "web-design-studio",
+    "repoBranch": "main"
+  },
+  "Open-Dev-Society/kitbash": {
+    "name": "Open-Dev-Society/kitbash",
+    "description": "Tells your AI agent which parts of your idea already exist on GitHub, which to adapt, and which to just write \u2014 every repo verified live. MCP server, Claude Code plugin, and agent skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Open-Dev-Society",
+    "repoName": "kitbash",
+    "repoBranch": "main"
+  },
+  "addsumtech/job-hunt": {
+    "name": "addsumtech/job-hunt",
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba\u7ecf\u7406\u89c6\u89d2\u5206\u522b\u72ec\u7acb\u8bc4\u5ba1\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "addsumtech",
+    "repoName": "job-hunt",
+    "repoBranch": "main"
+  },
+  "competlab/competlab-ci-skills": {
+    "name": "competlab/competlab-ci-skills",
+    "description": "Competitive intelligence skills for AI agents \u2014 landscape analysis, competitor dossiers, AI visibility reports, weekly briefings, and battlecards. Powered by CompetLab. Works with Claude Code, Cursor, Codex, Gemini CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "competlab",
+    "repoName": "competlab-ci-skills",
+    "repoBranch": "main"
+  },
+  "Yurakonoplya/unmark-checker": {
+    "name": "Yurakonoplya/unmark-checker",
+    "description": "Open checker for Claude watermark removers: plant a SynthID-class text watermark with your own key, run any tool, measure what it did (mark, meaning, facts, verbatim runs, length).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Yurakonoplya",
+    "repoName": "unmark-checker",
+    "repoBranch": "main"
+  },
+  "lucasenatm/marketing-workspace": {
+    "name": "lucasenatm/marketing-workspace",
+    "description": "Workspace de marketing para Claude Code. Configura o ambiente, organiza os processos do dia a dia e cria skills personalizadas pro seu neg\u00f3cio.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucasenatm",
+    "repoName": "marketing-workspace",
+    "repoBranch": "master"
+  },
+  "KENAN-LABS/stochastic-consensus": {
+    "name": "KENAN-LABS/stochastic-consensus",
+    "description": "Stochastic multi-agent consensus for Claude Code \u2014 fan out independent subagents, merge the pool, rank ideas by how often they recurred independently.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KENAN-LABS",
+    "repoName": "stochastic-consensus",
+    "repoBranch": "main"
+  },
+  "Ramonvdo/folder-colors": {
+    "name": "Ramonvdo/folder-colors",
+    "description": "Colour-code and tag Windows 11 folders by category from the right-click menu, and let Claude Code organise the whole PC into numbered, documented areas.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ramonvdo",
+    "repoName": "folder-colors",
+    "repoBranch": "main"
   }
 }
