@@ -34190,5 +34190,119 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "MichaelPGifford/claude-read-aloud": {
+        "owner": "MichaelPGifford",
+        "name": "claude-read-aloud",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ViGi-P/skillshilp": {
+        "owner": "ViGi-P",
+        "name": "skillshilp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neuman/atompipe": {
+        "owner": "neuman",
+        "name": "atompipe",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mdedit-ai/mdedit-agent-plugin": {
+        "owner": "mdedit-ai",
+        "name": "mdedit-agent-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kevanwee/chronology": {
+        "owner": "kevanwee",
+        "name": "chronology",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kevanwee/oblig-register": {
+        "owner": "kevanwee",
+        "name": "oblig-register",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kevanwee/playbook-as-code": {
+        "owner": "kevanwee",
+        "name": "playbook-as-code",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kevanwee/citecheck": {
+        "owner": "kevanwee",
+        "name": "citecheck",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "RubyEyedReaper/Odin-Skills": {
+        "owner": "RubyEyedReaper",
+        "name": "Odin-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saranya-sallagundla/resume-builder-skill": {
+        "owner": "saranya-sallagundla",
+        "name": "resume-builder-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "danmackenz/ghostspend": {
+        "owner": "danmackenz",
+        "name": "ghostspend",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cliffmeyers/cliff-code": {
+        "owner": "cliffmeyers",
+        "name": "cliff-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "alonsorobots/claude-code-supervised": {
+        "owner": "alonsorobots",
+        "name": "claude-code-supervised",
+        "branch": "main",
+        "enabled": true
+    },
+    "open-science-pillars/core": {
+        "owner": "open-science-pillars",
+        "name": "core",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "open-science-pillars/build-kit": {
+        "owner": "open-science-pillars",
+        "name": "build-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "open-science-pillars/plugin-template": {
+        "owner": "open-science-pillars",
+        "name": "plugin-template",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hishamkaram/claude-codex-duo": {
+        "owner": "hishamkaram",
+        "name": "claude-codex-duo",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -26929,5 +26929,95 @@
     "repoOwner": "Flux-Point-Studios",
     "repoName": "fluxpoint-plugins",
     "repoBranch": "main"
+  },
+  "MichaelPGifford/claude-read-aloud": {
+    "name": "MichaelPGifford/claude-read-aloud",
+    "description": "Read Claude Code's replies aloud \u2014 free local voices to premium APIs. Plugin + VS Code extension with in-chat speaker button.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MichaelPGifford",
+    "repoName": "claude-read-aloud",
+    "repoBranch": "main"
+  },
+  "neuman/atompipe": {
+    "name": "neuman/atompipe",
+    "description": "Take a sketch to a validated physical thing. Claims \u2192 gates \u2192 packs \u2192 an honest readiness report. A Claude Code plugin + zero-dependency Python spine for designing real hardware, CAD, boats, thermal and chemical syste...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "neuman",
+    "repoName": "atompipe",
+    "repoBranch": "main"
+  },
+  "mdedit-ai/mdedit-agent-plugin": {
+    "name": "mdedit-ai/mdedit-agent-plugin",
+    "description": "Markdown by mdedit.ai for portable AI agent plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mdedit-ai",
+    "repoName": "mdedit-agent-plugin",
+    "repoBranch": "main"
+  },
+  "RubyEyedReaper/Odin-Skills": {
+    "name": "RubyEyedReaper/Odin-Skills",
+    "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate hardening, interface polish.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RubyEyedReaper",
+    "repoName": "Odin-Skills",
+    "repoBranch": "main"
+  },
+  "danmackenz/ghostspend": {
+    "name": "danmackenz/ghostspend",
+    "description": "Find hidden AI CLI spend before it surprises you. GhostSpend audits Claude Code, Codex CLI, Gemini CLI and more against a one-time baseline of tools you actually use \u2014 flagging spend from anything unexpected, not just...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danmackenz",
+    "repoName": "ghostspend",
+    "repoBranch": "main"
+  },
+  "cliffmeyers/cliff-code": {
+    "name": "cliffmeyers/cliff-code",
+    "description": "Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cliffmeyers",
+    "repoName": "cliff-code",
+    "repoBranch": "main"
+  },
+  "alonsorobots/claude-code-supervised": {
+    "name": "alonsorobots/claude-code-supervised",
+    "description": "Two models instead of one: one writes the code, a different one checks it. Tests have to fail before they pass, and it keeps score on the reviewer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alonsorobots",
+    "repoName": "claude-code-supervised",
+    "repoBranch": "main"
+  },
+  "open-science-pillars/core": {
+    "name": "open-science-pillars/core",
+    "description": "Foundation plugin for Open Science Pillars: earth science data formats, statistics, uncertainty quantification, cartography, quality control, reproducibility, analysis review, and the start / discover-data / report wo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "open-science-pillars",
+    "repoName": "core",
+    "repoBranch": "main"
+  },
+  "open-science-pillars/marketplace": {
+    "name": "open-science-pillars/marketplace",
+    "description": "Plugin catalog and canonical documentation for Open Science Pillars: AI-assisted open science for earth, planetary, and applied science across Claude Code, Claude Cowork, and Claude Science. Start here.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "open-science-pillars",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "hishamkaram/claude-codex-duo": {
+    "name": "hishamkaram/claude-codex-duo",
+    "description": "Claude Code + OpenAI Codex as an adversarial pair: blind two-model PR review and structured debate, with evidence on disk.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hishamkaram",
+    "repoName": "claude-codex-duo",
+    "repoBranch": "main"
   }
 }

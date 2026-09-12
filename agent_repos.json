@@ -4790,5 +4790,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "danmackenz/ghostspend": {
+    "owner": "danmackenz",
+    "name": "ghostspend",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "open-science-pillars/core": {
+    "owner": "open-science-pillars",
+    "name": "core",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "open-science-pillars/plugin-template": {
+    "owner": "open-science-pillars",
+    "name": "plugin-template",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
