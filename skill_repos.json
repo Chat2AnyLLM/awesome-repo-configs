@@ -34304,5 +34304,47 @@
         "name": "claude-codex-duo",
         "branch": "main",
         "enabled": true
+    },
+    "ilyautov/marketplaces-mcp-ru": {
+        "owner": "ilyautov",
+        "name": "marketplaces-mcp-ru",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilyautov/consilium-principis": {
+        "owner": "ilyautov",
+        "name": "consilium-principis",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilyautov/cordon": {
+        "owner": "ilyautov",
+        "name": "cordon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilyautov/doc2md": {
+        "owner": "ilyautov",
+        "name": "doc2md",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilyautov/hh-mcp-ru": {
+        "owner": "ilyautov",
+        "name": "hh-mcp-ru",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilyautov/rusvoice": {
+        "owner": "ilyautov",
+        "name": "rusvoice",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
