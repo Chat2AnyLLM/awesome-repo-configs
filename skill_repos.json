@@ -1,4 +1,11 @@
 {
+    "cohesivity-org/cohesivity-plugin": {
+        "owner": "cohesivity-org",
+        "name": "cohesivity-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "beepboop2025/market-brief": {
         "owner": "beepboop2025",
         "name": "market-brief",
