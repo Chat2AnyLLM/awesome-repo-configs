@@ -1,4 +1,13 @@
 {
+  "cohesivity-org/cohesivity-plugin": {
+    "name": "cohesivity",
+    "description": "cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cohesivity-org",
+    "repoName": "cohesivity-plugin",
+    "repoBranch": "main"
+  },
   "beepboop2025/market-brief": {
     "name": "market-brief",
     "description": "Free funding, capital-market and liquidity briefs with source dates, explicit data gaps, and local change comparison. Includes a Claude Code skill and browser companion; no broker connection or API key is required.",
