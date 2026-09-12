@@ -27064,5 +27064,86 @@
     "repoOwner": "ilyautov",
     "repoName": "doc2md",
     "repoBranch": "main"
+  },
+  "conorluddy/xclaude-plugin": {
+    "name": "conorluddy/xclaude-plugin",
+    "description": "iOS development ClaudeCode plugin for mindful token and context usage. Contains modular MCPs that group various Xcode/IDB tools based on your current workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "conorluddy",
+    "repoName": "xclaude-plugin",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/little-canary": {
+    "name": "hermes-labs-ai/little-canary",
+    "description": "Detects prompt injection by its effect on a sacrificial canary model, not just pattern matching: untrusted input hits a powerless model first, a behavioral check reads the residue, and it returns block, flag, or pass...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "little-canary",
+    "repoBranch": "main"
+  },
+  "xeonvs/xeonvs-engineering": {
+    "name": "xeonvs/xeonvs-engineering",
+    "description": "My software engineering practice, distilled into reusable skills and workflows for Codex, Claude Code, and AI coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xeonvs",
+    "repoName": "xeonvs-engineering",
+    "repoBranch": "main"
+  },
+  "xeonvs/codex-engineering-workflow": {
+    "name": "xeonvs/codex-engineering-workflow",
+    "description": "Codex and Claude Code skill for effective engineering workflow scaffolding",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xeonvs",
+    "repoName": "codex-engineering-workflow",
+    "repoBranch": "main"
+  },
+  "AhmedTmorgan/crew": {
+    "name": "AhmedTmorgan/crew",
+    "description": "A multi-model engineering team for Claude Code: one grilling conversation, then an autonomous multi-session run - Codex + Opus in parallel worktrees, cross-model review, PR/CI, owner-approved deploys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AhmedTmorgan",
+    "repoName": "crew",
+    "repoBranch": "main"
+  },
+  "rokokol/create-readme-skill": {
+    "name": "rokokol/create-readme-skill",
+    "description": "Write a project's README to a fixed set of structure, tone and formatting rules",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rokokol",
+    "repoName": "create-readme-skill",
+    "repoBranch": "master"
+  },
+  "hermes-labs-ai/claude-plugins": {
+    "name": "hermes-labs-ai/claude-plugins",
+    "description": "Claude Code plugin marketplace for Hermes Labs \u2014 prompt auditing, safety hooks, session recovery, and agent guardrails",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "JapanMarketing-Dev/hitocall-plugin": {
+    "name": "JapanMarketing-Dev/hitocall-plugin",
+    "description": "\u30d2\u30c8\u30b3\u30fc\u30eb\u306eAI\u63a5\u7d9a\u30d7\u30e9\u30b0\u30a4\u30f3\u3002Claude Code\u30fbGemini CLI\u30fbMCP\u5bfe\u5fdc\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JapanMarketing-Dev",
+    "repoName": "hitocall-plugin",
+    "repoBranch": "main"
+  },
+  "supervoidproxima/solai": {
+    "name": "supervoidproxima/solai",
+    "description": "Set up, audit and adopt Obsidian vaults from one command. Card classes are declared once in TOML and projected into the data dictionary, CLAUDE.md, a working skill, an Obsidian view and the validator.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "supervoidproxima",
+    "repoName": "solai",
+    "repoBranch": "main"
   }
 }

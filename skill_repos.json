@@ -34346,5 +34346,112 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "conorluddy/xclaude-plugin": {
+        "owner": "conorluddy",
+        "name": "xclaude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "C-myu/research-repo-construction-skill": {
+        "owner": "C-myu",
+        "name": "research-repo-construction-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "garvit-joshi/jskim": {
+        "owner": "garvit-joshi",
+        "name": "jskim",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "xeonvs/xeonvs-engineering": {
+        "owner": "xeonvs",
+        "name": "xeonvs-engineering",
+        "branch": "main",
+        "enabled": true
+    },
+    "xeonvs/codex-engineering-workflow": {
+        "owner": "xeonvs",
+        "name": "codex-engineering-workflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "x0c/image-skills": {
+        "owner": "x0c",
+        "name": "image-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ravindu997/multibrand-design-system-figma": {
+        "owner": "Ravindu997",
+        "name": "multibrand-design-system-figma",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AhmedTmorgan/crew": {
+        "owner": "AhmedTmorgan",
+        "name": "crew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/create-readme-skill": {
+        "owner": "rokokol",
+        "name": "create-readme-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "xxdeye/red-ocean-scanner": {
+        "owner": "xxdeye",
+        "name": "red-ocean-scanner",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JapanMarketing-Dev/hitocall-plugin": {
+        "owner": "JapanMarketing-Dev",
+        "name": "hitocall-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "supervoidproxima/solai": {
+        "owner": "supervoidproxima",
+        "name": "solai",
+        "branch": "main",
+        "enabled": true
+    },
+    "ptreezh/agentmarket": {
+        "owner": "ptreezh",
+        "name": "agentmarket",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AboutRSS/rsshub-route-authoring-skill": {
+        "owner": "AboutRSS",
+        "name": "rsshub-route-authoring-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "petehottelet/yautja": {
+        "owner": "petehottelet",
+        "name": "yautja",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PeerawitDeesamer/skr-cram-night": {
+        "owner": "PeerawitDeesamer",
+        "name": "skr-cram-night",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

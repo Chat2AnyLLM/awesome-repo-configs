@@ -4811,5 +4811,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AhmedTmorgan/crew": {
+    "owner": "AhmedTmorgan",
+    "name": "crew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ptreezh/agentmarket": {
+    "owner": "ptreezh",
+    "name": "agentmarket",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
