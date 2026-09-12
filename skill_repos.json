@@ -34575,5 +34575,67 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "alexgreensh/eval-genius": {
+        "owner": "alexgreensh",
+        "name": "eval-genius",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "grzmol/vibe-force": {
+        "owner": "grzmol",
+        "name": "vibe-force",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "josefheld/claude-plugins": {
+        "owner": "josefheld",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "dariovr1/sixth-sense": {
+        "owner": "dariovr1",
+        "name": "sixth-sense",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joonlim-official/muse-memory": {
+        "owner": "joonlim-official",
+        "name": "muse-memory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Jawahars07/ballast": {
+        "owner": "Jawahars07",
+        "name": "ballast",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Allan-Nava/qrspi": {
+        "owner": "Allan-Nava",
+        "name": "qrspi",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mouadja02/arkitect": {
+        "owner": "mouadja02",
+        "name": "arkitect",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "boriskuncer/complicheck-skill": {
+        "owner": "boriskuncer",
+        "name": "complicheck-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

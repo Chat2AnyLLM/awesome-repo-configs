@@ -4839,5 +4839,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "grzmol/vibe-force": {
+    "owner": "grzmol",
+    "name": "vibe-force",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "dariovr1/sixth-sense": {
+    "owner": "dariovr1",
+    "name": "sixth-sense",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -27226,5 +27226,68 @@
     "repoOwner": "Ramonvdo",
     "repoName": "folder-colors",
     "repoBranch": "main"
+  },
+  "alexgreensh/eval-genius": {
+    "name": "alexgreensh/eval-genius",
+    "description": "Give your AI agent the judgment most eval advice skips: when you actually need an eval or benchmark, how to build one that holds up, and how to read what it tells you, in plain language. Deterministic-first, tool-agno...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexgreensh",
+    "repoName": "eval-genius",
+    "repoBranch": "main"
+  },
+  "grzmol/vibe-force": {
+    "name": "grzmol/vibe-force",
+    "description": "Salesforce delivery harness for Claude Code: parallel Apex, LWC and metadata agents, documentation-grounded Salesforce and fflib skills, deterministic hooks, local and post-deploy check gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "grzmol",
+    "repoName": "vibe-force",
+    "repoBranch": "main"
+  },
+  "josefheld/claude-plugins": {
+    "name": "josefheld/claude-plugins",
+    "description": "Claude Code plugin marketplace: cc-changelog, fal-image-generator, llm-council and update-plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "josefheld",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "dariovr1/sixth-sense": {
+    "name": "dariovr1/sixth-sense",
+    "description": "A fork of obra/superpowers with model/effort routing, stack-aware conventions, and a two-pass adversarial reviewer (Dylan Dog).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dariovr1",
+    "repoName": "sixth-sense",
+    "repoBranch": "main"
+  },
+  "Jawahars07/ballast": {
+    "name": "Jawahars07/ballast",
+    "description": "Ballast doesn't make the ship faster. It stops it going over. Agent skills that encode when NOT to do something. Claude Code, Codex, Cursor, Gemini CLI + 40 more. Zero executable surface.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jawahars07",
+    "repoName": "ballast",
+    "repoBranch": "main"
+  },
+  "Allan-Nava/qrspi": {
+    "name": "Allan-Nava/qrspi",
+    "description": "Questions \u2192 Research \u2192 Spec \u2192 Plan \u2192 Implement: a phase-gated Claude Code plugin that keeps a coding agent under 40% context by writing one artifact to disk per phase.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Allan-Nava",
+    "repoName": "qrspi",
+    "repoBranch": "main"
+  },
+  "mouadja02/arkitect": {
+    "name": "mouadja02/arkitect",
+    "description": "Your agent draws the architecture. Editable Draw.io and Excalidraw diagrams - cloud architectures, system designs, data pipelines and flows - for Claude Code, Codex, Cursor, OpenCode, Copilot, Antigravity and Pi.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mouadja02",
+    "repoName": "arkitect",
+    "repoBranch": "main"
   }
 }
