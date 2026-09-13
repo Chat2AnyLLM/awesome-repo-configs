@@ -27478,5 +27478,68 @@
     "repoOwner": "Navifra-Sally",
     "repoName": "vda5050-skill",
     "repoBranch": "main"
+  },
+  "Nyquest-ai/nyquest-claude-mcp": {
+    "name": "Nyquest-ai/nyquest-claude-mcp",
+    "description": "Nyquest Context Manager for Claude Code: keeps large tool results out of Claude's context with exact-line digests and on-demand recall",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nyquest-ai",
+    "repoName": "nyquest-claude-mcp",
+    "repoBranch": "main"
+  },
+  "mbfinotti/advertising-skills": {
+    "name": "mbfinotti/advertising-skills",
+    "description": "Agent Skills for paid media: channel selection, budgets, audiences, creative, and measurement.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mbfinotti",
+    "repoName": "advertising-skills",
+    "repoBranch": "main"
+  },
+  "MaksymStoianov/skills": {
+    "name": "MaksymStoianov/skills",
+    "description": "Public Agent Skills collection by Maksym Stoianov \u2013 Claude Code, Gemini CLI, Cursor, and npx skills compatible.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MaksymStoianov",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Nyquest-ai/nyquest-claude-marketplace": {
+    "name": "Nyquest-ai/nyquest-claude-marketplace",
+    "description": "Nyquest plugin marketplace for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nyquest-ai",
+    "repoName": "nyquest-claude-marketplace",
+    "repoBranch": "main"
+  },
+  "mattzimak/matts-claude-code-setup": {
+    "name": "mattzimak/matts-claude-code-setup",
+    "description": "Matt's Claude Code setup as an installable onboarding: one plugin, one command, a short interview, and a blank Claude Code becomes the setup I run across three companies. Every hook self-tested.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mattzimak",
+    "repoName": "matts-claude-code-setup",
+    "repoBranch": "main"
+  },
+  "IsthisLee/korean-writing": {
+    "name": "IsthisLee/korean-writing",
+    "description": "Claude Code\uac00 \ubc88\uc5ed\ud22c\uc640 AI \ud2f0 \uc5c6\ub294 \ud55c\uad6d\uc5b4\ub97c \uc4f0\uac8c \ud558\ub294 \ud50c\ub7ec\uadf8\uc778 \u00b7 Makes Claude Code write Korean without translationese or AI tells",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IsthisLee",
+    "repoName": "korean-writing",
+    "repoBranch": "main"
+  },
+  "CarsonEngineeringDesign/asae": {
+    "name": "CarsonEngineeringDesign/asae",
+    "description": "Agentic Solution Architecture Engineering. End-to-end software delivery under a fixed house standard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CarsonEngineeringDesign",
+    "repoName": "asae",
+    "repoBranch": "prod"
   }
 }

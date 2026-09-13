@@ -4888,5 +4888,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "CarsonEngineeringDesign/asae": {
+    "owner": "CarsonEngineeringDesign",
+    "name": "asae",
+    "branch": "prod",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

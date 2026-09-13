@@ -34880,5 +34880,72 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "pivoshenko/kasetto": {
+        "owner": "pivoshenko",
+        "name": "kasetto",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Nyquest-ai/nyquest-claude-mcp": {
+        "owner": "Nyquest-ai",
+        "name": "nyquest-claude-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mbfinotti/advertising-skills": {
+        "owner": "mbfinotti",
+        "name": "advertising-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chenqg618/compliance-skills": {
+        "owner": "chenqg618",
+        "name": "compliance-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ChrisAdkin8/newsletter-ai-skill": {
+        "owner": "ChrisAdkin8",
+        "name": "newsletter-ai-skill",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "dkaleganov/personal-ai-systems": {
+        "owner": "dkaleganov",
+        "name": "personal-ai-systems",
+        "branch": "main",
+        "enabled": true
+    },
+    "MaksymStoianov/skills": {
+        "owner": "MaksymStoianov",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mattzimak/matts-claude-code-setup": {
+        "owner": "mattzimak",
+        "name": "matts-claude-code-setup",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IsthisLee/korean-writing": {
+        "owner": "IsthisLee",
+        "name": "korean-writing",
+        "branch": "main",
+        "enabled": true
+    },
+    "CarsonEngineeringDesign/asae": {
+        "owner": "CarsonEngineeringDesign",
+        "name": "asae",
+        "branch": "prod",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
