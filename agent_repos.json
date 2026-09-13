@@ -4853,5 +4853,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "DefaultPerson/skills": {
+    "owner": "DefaultPerson",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ZeeshanSultan/DocGov": {
+    "owner": "ZeeshanSultan",
+    "name": "DocGov",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "devergehq/locus": {
+    "owner": "devergehq",
+    "name": "locus",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

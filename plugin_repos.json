@@ -27325,5 +27325,77 @@
     "repoOwner": "auditfellow",
     "repoName": "auditfellow-plugins",
     "repoBranch": "main"
+  },
+  "LukasNiessen/kubernetes-skill": {
+    "name": "LukasNiessen/kubernetes-skill",
+    "description": "Kubernetes Skill for Claude Code and Codex. LLMs hallucinate a lot with K8s - KubeShark fixes this. It eliminates hallucinations and grounds your Kubernetes, Helm etc official best practices.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LukasNiessen",
+    "repoName": "kubernetes-skill",
+    "repoBranch": "main"
+  },
+  "keli-wen/agy-staff": {
+    "name": "keli-wen/agy-staff",
+    "description": "Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "keli-wen",
+    "repoName": "agy-staff",
+    "repoBranch": "master"
+  },
+  "ilang-ai/autocode": {
+    "name": "ilang-ai/autocode",
+    "description": "You say it. AutoCode ships it. 48 skills. Code to deployment in one session. I-Lang v5.0 judgment + secret-safe deploys. Free forever.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilang-ai",
+    "repoName": "autocode",
+    "repoBranch": "main"
+  },
+  "Dexxter182/humanizer-hu": {
+    "name": "Dexxter182/humanizer-hu",
+    "description": "Magyar \u00edr\u00e1sst\u00edlus-skill agenteknek: a kimenet ne hangozzon AI-nak. \u00cdr\u00e1s k\u00f6zben ad szab\u00e1lyokat, nem a k\u00e9sz sz\u00f6veget jav\u00edtja ut\u00f3lag. Csak azt \u00e1ll\u00edtja, amit a forr\u00e1s tartalmaz. 26 minta, dokumentumszint\u0171 d\u00f6nt\u00e9sek \u00e9s LLM...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dexxter182",
+    "repoName": "humanizer-hu",
+    "repoBranch": "main"
+  },
+  "DefaultPerson/skills": {
+    "name": "DefaultPerson/skills",
+    "description": "Battle-tested skills for AI coding agents in Claude Code and Codex CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DefaultPerson",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "ZeeshanSultan/DocGov": {
+    "name": "ZeeshanSultan/DocGov",
+    "description": "Your AI writes docs faster than anyone can check them. DocGov checks them \u2014 catches stale docs, duplicate files, and docs that contradict your code. Claude Code plugin + CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ZeeshanSultan",
+    "repoName": "DocGov",
+    "repoBranch": "main"
+  },
+  "devergehq/locus": {
+    "name": "devergehq/locus",
+    "description": "Claude Code plugin that makes an agent plan before it codes \u2014 seven-phase decomposition with verifiable criteria, injected per-turn and enforced by hooks rather than requested in prose.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devergehq",
+    "repoName": "locus",
+    "repoBranch": "master"
+  },
+  "AhmadShayan/claude-code-guardrails": {
+    "name": "AhmadShayan/claude-code-guardrails",
+    "description": "Claude Code plugin with safety hooks for founders building apps with AI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AhmadShayan",
+    "repoName": "claude-code-guardrails",
+    "repoBranch": "main"
   }
 }

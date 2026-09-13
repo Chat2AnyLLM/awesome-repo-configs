@@ -34703,5 +34703,79 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "LukasNiessen/kubernetes-skill": {
+        "owner": "LukasNiessen",
+        "name": "kubernetes-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "keli-wen/agy-staff": {
+        "owner": "keli-wen",
+        "name": "agy-staff",
+        "branch": "master",
+        "enabled": true
+    },
+    "ilang-ai/autocode": {
+        "owner": "ilang-ai",
+        "name": "autocode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shzshzshz123/article-to-knowledge-cards": {
+        "owner": "shzshzshz123",
+        "name": "article-to-knowledge-cards",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dexxter182/humanizer-hu": {
+        "owner": "Dexxter182",
+        "name": "humanizer-hu",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "malaysherasia-ai/claude-never-again": {
+        "owner": "malaysherasia-ai",
+        "name": "claude-never-again",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DefaultPerson/skills": {
+        "owner": "DefaultPerson",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ZeeshanSultan/DocGov": {
+        "owner": "ZeeshanSultan",
+        "name": "DocGov",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devergehq/locus": {
+        "owner": "devergehq",
+        "name": "locus",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "calmsprite2001/ai-trip-guide-skills": {
+        "owner": "calmsprite2001",
+        "name": "ai-trip-guide-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ZeroDDL/gonghangbei-fintech-2026": {
+        "owner": "ZeroDDL",
+        "name": "gonghangbei-fintech-2026",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
