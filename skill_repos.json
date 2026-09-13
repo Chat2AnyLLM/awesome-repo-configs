@@ -34777,5 +34777,108 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "feder-cr/AIHawk": {
+        "owner": "feder-cr",
+        "name": "AIHawk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hraness/wordcell": {
+        "owner": "hraness",
+        "name": "wordcell",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kitao/pyxel-skill": {
+        "owner": "kitao",
+        "name": "pyxel-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Kaos599/professional-skills": {
+        "owner": "Kaos599",
+        "name": "professional-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "humbleteam/ascii-wireframes": {
+        "owner": "humbleteam",
+        "name": "ascii-wireframes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Idov31/ai-marketplace": {
+        "owner": "Idov31",
+        "name": "ai-marketplace",
+        "branch": "master",
+        "enabled": true
+    },
+    "bootgs/skills": {
+        "owner": "bootgs",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pliablepixels/slop-mop": {
+        "owner": "pliablepixels",
+        "name": "slop-mop",
+        "branch": "main",
+        "enabled": true
+    },
+    "apparna88/nibble": {
+        "owner": "apparna88",
+        "name": "nibble",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vidit19sharma/neogents": {
+        "owner": "vidit19sharma",
+        "name": "neogents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sdsrss/moa-skill": {
+        "owner": "sdsrss",
+        "name": "moa-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tydm2/code-forge-skill": {
+        "owner": "tydm2",
+        "name": "code-forge-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LevKorm/product-landing-skill": {
+        "owner": "LevKorm",
+        "name": "product-landing-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "charleshugo819/gonggao-tuiwen-skill": {
+        "owner": "charleshugo819",
+        "name": "gonggao-tuiwen-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Navifra-Sally/vda5050-skill": {
+        "owner": "Navifra-Sally",
+        "name": "vda5050-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

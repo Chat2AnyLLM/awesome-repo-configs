@@ -27397,5 +27397,86 @@
     "repoOwner": "AhmadShayan",
     "repoName": "claude-code-guardrails",
     "repoBranch": "main"
+  },
+  "kitao/pyxel-skill": {
+    "name": "kitao/pyxel-skill",
+    "description": "Claude Code skill for retro game development with Pyxel",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kitao",
+    "repoName": "pyxel-skill",
+    "repoBranch": "main"
+  },
+  "Kaos599/professional-skills": {
+    "name": "Kaos599/professional-skills",
+    "description": "Professional writing skills for AI coding agents: anti-slop editing and technical content writing. Claude Code + Codex plugin, installable via skills.sh. Install: npx skills add Kaos599/professional-skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kaos599",
+    "repoName": "professional-skills",
+    "repoBranch": "main"
+  },
+  "Idov31/ai-marketplace": {
+    "name": "Idov31/ai-marketplace",
+    "description": "Cross tools (Codex, Claude, Github Copilot, Cursor) AI Marketplace to install skills, agents, MCPs, hooks, commands, and rules.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Idov31",
+    "repoName": "ai-marketplace",
+    "repoBranch": "master"
+  },
+  "bootgs/skills": {
+    "name": "bootgs/skills",
+    "description": "Agent Skills for the boot.gs Google Apps Script framework and plain Google Apps Script \u2014 Claude Code, Gemini CLI, Cursor, and npx skills compatible.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bootgs",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "apparna88/nibble": {
+    "name": "apparna88/nibble",
+    "description": "apparna88/nibble \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "apparna88",
+    "repoName": "nibble",
+    "repoBranch": "main"
+  },
+  "vidit19sharma/neogents": {
+    "name": "vidit19sharma/neogents",
+    "description": "NEO \u2014 Claude Code plugin: Matrix-themed 11-agent orchestrator with a second brain that never forgets",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vidit19sharma",
+    "repoName": "neogents",
+    "repoBranch": "main"
+  },
+  "sdsrss/moa-skill": {
+    "name": "sdsrss/moa-skill",
+    "description": "Multi-model committee (Mixture-of-Agents) for Claude Code \u2014 your agent chairs up to 4 heterogeneous LLMs to blind-review, decide & brainstorm in parallel, with evidence-driven convergence for more reliable conclusions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdsrss",
+    "repoName": "moa-skill",
+    "repoBranch": "main"
+  },
+  "LevKorm/product-landing-skill": {
+    "name": "LevKorm/product-landing-skill",
+    "description": "Claude Code skill: product landing pages that take the shape of the product, not a template. Facts \u2192 visitor questions \u2192 signature moment \u2192 template check \u2192 build \u2192 Vercel.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LevKorm",
+    "repoName": "product-landing-skill",
+    "repoBranch": "main"
+  },
+  "Navifra-Sally/vda5050-skill": {
+    "name": "Navifra-Sally/vda5050-skill",
+    "description": "VDA 5050 reference skill for Claude Code: spec facts, JSON schemas, message validator",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Navifra-Sally",
+    "repoName": "vda5050-skill",
+    "repoBranch": "main"
   }
 }

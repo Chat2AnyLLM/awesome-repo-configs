@@ -4874,5 +4874,19 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "vidit19sharma/neogents": {
+    "owner": "vidit19sharma",
+    "name": "neogents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tydm2/code-forge-skill": {
+    "owner": "tydm2",
+    "name": "code-forge-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
