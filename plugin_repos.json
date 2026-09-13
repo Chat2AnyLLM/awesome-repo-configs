@@ -1,4 +1,49 @@
 {
+  "ViderStar/nb-run": {
+    "name": "nb-run",
+    "description": "Run Jupyter notebooks headless on a remote machine with named profiles of env flags: pre-flight checks that catch a misspelled flag or a missing kernel before a three-hour run, execution detached from ssh with nohup, notification on completion (macOS, webhook, Telegram), failure triage that points at the failing cell, and run-to-run comparison. Python standard library only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ViderStar",
+    "repoName": "nb-run",
+    "repoBranch": "main"
+  },
+  "ViderStar/clickhouse-kit": {
+    "name": "clickhouse-kit",
+    "description": "ClickHouse for coding agents: MCP wiring driven entirely by environment variables, a query-hygiene skill (ReplacingMergeTree deduplication, partition pruning with PREWHERE, column pruning, join order), a PreToolUse guard hook that asks before a query returns an inflated count or scans the whole history, and a PostToolUse warning when a result looks like personal data.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ViderStar",
+    "repoName": "clickhouse-kit",
+    "repoBranch": "main"
+  },
+  "ViderStar/secrets-guard": {
+    "name": "secrets-guard",
+    "description": "Deterministic secret protection: a PreToolUse hook that denies a commit or push whose diff contains a credential (private keys, AWS/GitHub/Slack/Stripe/OpenAI/Anthropic tokens, credentials in URLs, real values as os.getenv defaults), plus a repository scanner for the secrets already committed, with masked findings and a rotation checklist. No dependencies; also usable in CI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ViderStar",
+    "repoName": "secrets-guard",
+    "repoBranch": "main"
+  },
+  "ViderStar/atlassian-kit": {
+    "name": "atlassian-kit",
+    "description": "Jira Cloud and Confluence Cloud from the command line, Python standard library only: create and manage issues with custom fields addressed by their human names, Markdown descriptions converted to ADF, and Confluence pages read and edited as Markdown. Every write is a dry run by default, so the payload or diff is shown before anything is sent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ViderStar",
+    "repoName": "atlassian-kit",
+    "repoBranch": "main"
+  },
+  "ViderStar/ml-experiments": {
+    "name": "ml-experiments",
+    "description": "Three skills for the non-modelling half of ML work: A/B test design and reading (MDE before the start, sample-ratio mismatch, ratio metrics, multiple comparisons), an experiment write-up skeleton that keeps the failures, with a notebook fact extractor so numbers are quoted rather than invented, and an Airflow DAG review checklist ordered by what actually corrupts data.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ViderStar",
+    "repoName": "ml-experiments",
+    "repoBranch": "main"
+  },
   "cohesivity-org/cohesivity-plugin": {
     "name": "cohesivity",
     "description": "cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.",
