@@ -34637,5 +34637,71 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "HimanshuJ16/frank": {
+        "owner": "HimanshuJ16",
+        "name": "frank",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jacjackai/dsh-control": {
+        "owner": "jacjackai",
+        "name": "dsh-control",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "meshcode-ai/skills": {
+        "owner": "meshcode-ai",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "meshcode-ai/skills-seo": {
+        "owner": "meshcode-ai",
+        "name": "skills-seo",
+        "branch": "main",
+        "enabled": true
+    },
+    "afonsoajrodrigues/newsroom-agents": {
+        "owner": "afonsoajrodrigues",
+        "name": "newsroom-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "krwhynot/toque": {
+        "owner": "krwhynot",
+        "name": "toque",
+        "branch": "main",
+        "enabled": true
+    },
+    "auditfellow/auditfellow-plugins": {
+        "owner": "auditfellow",
+        "name": "auditfellow-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "guishiru/structured-writing": {
+        "owner": "guishiru",
+        "name": "structured-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neimaciel/compliance-pro-lgpd": {
+        "owner": "neimaciel",
+        "name": "compliance-pro-lgpd",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NTBooks/slopscore": {
+        "owner": "NTBooks",
+        "name": "slopscore",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

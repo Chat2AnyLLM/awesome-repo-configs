@@ -27289,5 +27289,41 @@
     "repoOwner": "mouadja02",
     "repoName": "arkitect",
     "repoBranch": "main"
+  },
+  "HimanshuJ16/frank": {
+    "name": "HimanshuJ16/frank",
+    "description": "Makes your AI coding agent tell you the truth. No \"You're absolutely right!\", no caving when you push back on correct code, and no \"done\" without a command that proves it. Works with 20 agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HimanshuJ16",
+    "repoName": "frank",
+    "repoBranch": "main"
+  },
+  "afonsoajrodrigues/newsroom-agents": {
+    "name": "afonsoajrodrigues/newsroom-agents",
+    "description": "Claude Code plugins for investigative journalism: Portuguese public records, OSINT, fact-checking, corporate research, document tools, charts and maps. Free sources, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "afonsoajrodrigues",
+    "repoName": "newsroom-agents",
+    "repoBranch": "main"
+  },
+  "krwhynot/toque": {
+    "name": "krwhynot/toque",
+    "description": "Toque: AI-powered codebase grading, planning, auditing, and operational readiness. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "krwhynot",
+    "repoName": "toque",
+    "repoBranch": "main"
+  },
+  "auditfellow/auditfellow-plugins": {
+    "name": "auditfellow/auditfellow-plugins",
+    "description": "AuditFellow: your internal audit methodology as a Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "auditfellow",
+    "repoName": "auditfellow-plugins",
+    "repoBranch": "main"
   }
 }
