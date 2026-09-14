@@ -4916,5 +4916,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "andreymudri/fleetmates": {
+    "owner": "andreymudri",
+    "name": "fleetmates",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "underpass-ai/kmp": {
+    "owner": "underpass-ai",
+    "name": "kmp",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

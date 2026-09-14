@@ -35208,5 +35208,119 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "Ark0N/Codeman": {
+        "owner": "Ark0N",
+        "name": "Codeman",
+        "branch": "master",
+        "enabled": true
+    },
+    "roman-rr/trading-skills": {
+        "owner": "roman-rr",
+        "name": "trading-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "OrcaQubits/agentic-commerce-skills-plugins": {
+        "owner": "OrcaQubits",
+        "name": "agentic-commerce-skills-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ontology-of-everything/concept-skills": {
+        "owner": "ontology-of-everything",
+        "name": "concept-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "0xMassi/webclaw-skill": {
+        "owner": "0xMassi",
+        "name": "webclaw-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andreymudri/fleetmates": {
+        "owner": "andreymudri",
+        "name": "fleetmates",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Amir-Abushanab/modern-frontend-architecture": {
+        "owner": "Amir-Abushanab",
+        "name": "modern-frontend-architecture",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "brockamer/jared": {
+        "owner": "brockamer",
+        "name": "jared",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "underpass-ai/kmp": {
+        "owner": "underpass-ai",
+        "name": "kmp",
+        "branch": "main",
+        "enabled": true
+    },
+    "concept-git/cloud-concept-skills": {
+        "owner": "concept-git",
+        "name": "cloud-concept-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/contributing-skill": {
+        "owner": "rokokol",
+        "name": "contributing-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rokokol/close-session-skill": {
+        "owner": "rokokol",
+        "name": "close-session-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rokokol/maintainer-docs-skill": {
+        "owner": "rokokol",
+        "name": "maintainer-docs-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "geanruca/ctrl-clip": {
+        "owner": "geanruca",
+        "name": "ctrl-clip",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "puffergo/puffergo-wordpress-ai-agent": {
+        "owner": "puffergo",
+        "name": "puffergo-wordpress-ai-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BYZANTINE26/claude-log": {
+        "owner": "BYZANTINE26",
+        "name": "claude-log",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "hsb3/dotfiles-agents": {
+        "owner": "hsb3",
+        "name": "dotfiles-agents",
+        "branch": "main",
+        "enabled": true
     }
 }

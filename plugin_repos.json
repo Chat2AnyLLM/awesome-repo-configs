@@ -27694,5 +27694,104 @@
     "repoOwner": "Kwon-Bum-Kyu",
     "repoName": "claude-control-plane",
     "repoBranch": "main"
+  },
+  "Ark0N/Codeman": {
+    "name": "Ark0N/Codeman",
+    "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/7, from any device, watch every subagent live",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ark0N",
+    "repoName": "Codeman",
+    "repoBranch": "master"
+  },
+  "OrcaQubits/agentic-commerce-skills-plugins": {
+    "name": "OrcaQubits/agentic-commerce-skills-plugins",
+    "description": "Skills & plugins for agentic commerce : UCP, ACP, AP2, A2A, WebMCP, Magento 2, BigCommerce, WooCommerce",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OrcaQubits",
+    "repoName": "agentic-commerce-skills-plugins",
+    "repoBranch": "main"
+  },
+  "ontology-of-everything/concept-skills": {
+    "name": "ontology-of-everything/concept-skills",
+    "description": "Ontology, semantic-layer, concept-design, and presentation Agent Skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ontology-of-everything",
+    "repoName": "concept-skills",
+    "repoBranch": "main"
+  },
+  "andreymudri/fleetmates": {
+    "name": "andreymudri/fleetmates",
+    "description": "Fleet orchestration for Claude Code: worktree-isolated parallel execution, automated phase gates, and supervision.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andreymudri",
+    "repoName": "fleetmates",
+    "repoBranch": "master"
+  },
+  "Amir-Abushanab/modern-frontend-architecture": {
+    "name": "Amir-Abushanab/modern-frontend-architecture",
+    "description": "Agent skill: an opinionated, type-safe, agent-first house standard for modern web frontends \u2014 stack, data, state, styling, security, logging, i18n, deploy \ud83d\udcd0",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Amir-Abushanab",
+    "repoName": "modern-frontend-architecture",
+    "repoBranch": "main"
+  },
+  "brockamer/jared": {
+    "name": "brockamer/jared",
+    "description": "Claude Code plugin that makes a GitHub Projects v2 board the single source of truth for what's being worked on.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brockamer",
+    "repoName": "jared",
+    "repoBranch": "main"
+  },
+  "underpass-ai/kmp": {
+    "name": "underpass-ai/kmp",
+    "description": "KMP (Kernel Memory Protocol) \u2014 temporal, multidimensional, auditable AI agent memory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "underpass-ai",
+    "repoName": "kmp",
+    "repoBranch": "main"
+  },
+  "rokokol/contributing-skill": {
+    "name": "rokokol/contributing-skill",
+    "description": "Everything published under your GitHub identity, approved card by card, and the homework before contributing upstream",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rokokol",
+    "repoName": "contributing-skill",
+    "repoBranch": "master"
+  },
+  "geanruca/ctrl-clip": {
+    "name": "geanruca/ctrl-clip",
+    "description": "\u29c9 Ctrl+click to copy Claude Code drafts to the clipboard without \u2502 pipes, > markers or commentary. Skill + plugin for Linux desktops.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "geanruca",
+    "repoName": "ctrl-clip",
+    "repoBranch": "main"
+  },
+  "BYZANTINE26/claude-log": {
+    "name": "BYZANTINE26/claude-log",
+    "description": "Append-only, token-efficient session logging plugin for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BYZANTINE26",
+    "repoName": "claude-log",
+    "repoBranch": "main"
+  },
+  "hsb3/dotfiles-agents": {
+    "name": "hsb3/dotfiles-agents",
+    "description": "A Claude Code plugin marketplace: installable extenders \u2014 delegation agents, session-discipline hooks, and skills for research, diagrams, decks, and repo standards.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hsb3",
+    "repoName": "dotfiles-agents",
+    "repoBranch": "main"
   }
 }
