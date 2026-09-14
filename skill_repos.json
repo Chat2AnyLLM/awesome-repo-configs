@@ -34947,5 +34947,139 @@
         "branch": "prod",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "JayPokale/Chisle": {
+        "owner": "JayPokale",
+        "name": "Chisle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nexscope-ai/nexscope-ecommerce-skills": {
+        "owner": "nexscope-ai",
+        "name": "nexscope-ecommerce-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "moiz-za/etsy-seller-seo-system": {
+        "owner": "moiz-za",
+        "name": "etsy-seller-seo-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "Shellishack/infinite-pokemon": {
+        "owner": "Shellishack",
+        "name": "infinite-pokemon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "axisrobo/ea-harness": {
+        "owner": "axisrobo",
+        "name": "ea-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "wenboxia/liangyi": {
+        "owner": "wenboxia",
+        "name": "liangyi",
+        "branch": "main",
+        "enabled": true
+    },
+    "foundry-studio-lab/nzshrimper-senior-dev": {
+        "owner": "foundry-studio-lab",
+        "name": "nzshrimper-senior-dev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ooooooooooooooooooop/personal-ai": {
+        "owner": "ooooooooooooooooooop",
+        "name": "personal-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "malav2110/explain-diff-html": {
+        "owner": "malav2110",
+        "name": "explain-diff-html",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DevN-gr/multi-tenant-fullstack-crud-skill": {
+        "owner": "DevN-gr",
+        "name": "multi-tenant-fullstack-crud-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hikataya01-netizen/pubmed-reference-resolver": {
+        "owner": "hikataya01-netizen",
+        "name": "pubmed-reference-resolver",
+        "branch": "main",
+        "enabled": true
+    },
+    "suqo-ai/suqo-claude-plugins": {
+        "owner": "suqo-ai",
+        "name": "suqo-claude-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nathanaday/claude-atlas": {
+        "owner": "nathanaday",
+        "name": "claude-atlas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "catgrandfa/trade-review-skills": {
+        "owner": "catgrandfa",
+        "name": "trade-review-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "marioluciofjr/prompt-link": {
+        "owner": "marioluciofjr",
+        "name": "prompt-link",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-datas-insight": {
+        "owner": "why20261",
+        "name": "douyin-datas-insight",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tonydzi/claude-mac-patrol": {
+        "owner": "tonydzi",
+        "name": "claude-mac-patrol",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jastfan/adhd": {
+        "owner": "jastfan",
+        "name": "adhd",
+        "branch": "main",
+        "enabled": true
+    },
+    "allierays/agentic-architecture-review": {
+        "owner": "allierays",
+        "name": "agentic-architecture-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dragonforse/claude-skill-orquestador": {
+        "owner": "dragonforse",
+        "name": "claude-skill-orquestador",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

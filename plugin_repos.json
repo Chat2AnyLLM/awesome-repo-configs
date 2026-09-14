@@ -27541,5 +27541,77 @@
     "repoOwner": "CarsonEngineeringDesign",
     "repoName": "asae",
     "repoBranch": "prod"
+  },
+  "JayPokale/Chisle": {
+    "name": "JayPokale/Chisle",
+    "description": "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude Code, Pi, Cursor, Codex, Gemini + 4 more. Zero deps, published benchmarks including the runs it l...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JayPokale",
+    "repoName": "Chisle",
+    "repoBranch": "main"
+  },
+  "nexscope-ai/nexscope-ecommerce-skills": {
+    "name": "nexscope-ai/nexscope-ecommerce-skills",
+    "description": "127 portable ecommerce skills for marketplace research, product discovery, keyword analysis, trends, sourcing, patent screening, multimodal tasks, and GEO workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nexscope-ai",
+    "repoName": "nexscope-ecommerce-skills",
+    "repoBranch": "main"
+  },
+  "axisrobo/ea-harness": {
+    "name": "axisrobo/ea-harness",
+    "description": "Enterprise architecture design & validation skills and CLI for AI coding assistants (Claude Code, OpenCode, Codex, GitHub Copilot, Cursor). Requirements, design, diagram validation, enforce gate and workflow gatekeepe...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "axisrobo",
+    "repoName": "ea-harness",
+    "repoBranch": "main"
+  },
+  "foundry-studio-lab/nzshrimper-senior-dev": {
+    "name": "foundry-studio-lab/nzshrimper-senior-dev",
+    "description": "senior-dev: a Claude Code session orchestrator \u2014 skill routing, hard gates, dual-model (Claude + Codex) review, a docs gate, and a zero-leftovers hygiene sweep. A Foundry Studio build.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "foundry-studio-lab",
+    "repoName": "nzshrimper-senior-dev",
+    "repoBranch": "main"
+  },
+  "suqo-ai/suqo-claude-plugins": {
+    "name": "suqo-ai/suqo-claude-plugins",
+    "description": "Claude Code plugin that ships skills for building apps on top of the SUQO SDKs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "suqo-ai",
+    "repoName": "suqo-claude-plugins",
+    "repoBranch": "main"
+  },
+  "nathanaday/claude-atlas": {
+    "name": "nathanaday/claude-atlas",
+    "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and make sure nothing slips through the cracks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nathanaday",
+    "repoName": "claude-atlas",
+    "repoBranch": "main"
+  },
+  "marioluciofjr/prompt-link": {
+    "name": "marioluciofjr/prompt-link",
+    "description": "Transforma qualquer texto em um link de prompt pronto para Claude, ChatGPT, Perplexity ou Grok, confere o limite de 7500 caracteres, encurta pelo zip1.io e entrega o link aprovado.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marioluciofjr",
+    "repoName": "prompt-link",
+    "repoBranch": "main"
+  },
+  "jastfan/adhd": {
+    "name": "jastfan/adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jastfan",
+    "repoName": "adhd",
+    "repoBranch": "main"
   }
 }

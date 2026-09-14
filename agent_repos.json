@@ -4895,5 +4895,19 @@
     "branch": "prod",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "nathanaday/claude-atlas": {
+    "owner": "nathanaday",
+    "name": "claude-atlas",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "marioluciofjr/prompt-link": {
+    "owner": "marioluciofjr",
+    "name": "prompt-link",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
