@@ -1,4 +1,11 @@
 {
+  "vaibhavarora14/job-application-agent": {
+    "owner": "vaibhavarora14",
+    "name": "job-application-agent",
+    "branch": "main",
+    "skillsPath": "skills",
+    "enabled": true
+  },
     "cohesivity-org/cohesivity-plugin": {
         "owner": "cohesivity-org",
         "name": "cohesivity-plugin",
