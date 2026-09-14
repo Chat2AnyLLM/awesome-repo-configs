@@ -27613,5 +27613,86 @@
     "repoOwner": "jastfan",
     "repoName": "adhd",
     "repoBranch": "main"
+  },
+  "orassayag/super-status": {
+    "name": "orassayag/super-status",
+    "description": "A Bash statusline for Claude Code: model, git state, context window, 5-hour and weekly plan limits, subscription cycle, cost, tokens, cache ratio, LOC, plus live tool, subagent and todo activity in compact labeled lin...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "orassayag",
+    "repoName": "super-status",
+    "repoBranch": "main"
+  },
+  "nktznl/skillwise": {
+    "name": "nktznl/skillwise",
+    "description": "Finds the Agent Skills your project is missing, and audits them before you trust them \u2014 npx skillwise",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nktznl",
+    "repoName": "skillwise",
+    "repoBranch": "main"
+  },
+  "jiawood2006/hermes-skills": {
+    "name": "jiawood2006/hermes-skills",
+    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jiawood2006",
+    "repoName": "hermes-skills",
+    "repoBranch": "main"
+  },
+  "ridelink0/ultimate-frontend-skills": {
+    "name": "ridelink0/ultimate-frontend-skills",
+    "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winning sites to decide against, WebGL gradients, real parallax, procedural and Blender-modelled three....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ridelink0",
+    "repoName": "ultimate-frontend-skills",
+    "repoBranch": "master"
+  },
+  "Skillkeel/skillkeel-starter": {
+    "name": "Skillkeel/skillkeel-starter",
+    "description": "Guard hooks and repo skills for Claude Code. Tested, with evals.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Skillkeel",
+    "repoName": "skillkeel-starter",
+    "repoBranch": "main"
+  },
+  "stefanahman/claude-status": {
+    "name": "stefanahman/claude-status",
+    "description": "Claude Code state (working / blocked / done) in your tmux status bar",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stefanahman",
+    "repoName": "claude-status",
+    "repoBranch": "main"
+  },
+  "ktakemaru/yamabiyori": {
+    "name": "ktakemaru/yamabiyori",
+    "description": "\u30e4\u30de\u30d3\u30e8\u30ea: \u5c71\u9802\u6a19\u9ad8\u306e\u7a7a\u6c17\u3067\u8aad\u3080\u767b\u5c71\u7279\u5316\u578b\u5929\u6c17\u4e88\u5831\u3002\u6c17\u8c61\u5e81MSM+ECMWF\u3092\u81ea\u52d5\u30de\u30fc\u30b8\u3057\u300176\u5ea7\u309214\u65e5\u5148\u307e\u3067\u63a1\u70b9\u3002Claude Code\u30d7\u30e9\u30b0\u30a4\u30f3\u5bfe\u5fdc",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ktakemaru",
+    "repoName": "yamabiyori",
+    "repoBranch": "main"
+  },
+  "no1013kota/claude-docdd-dev-kit": {
+    "name": "no1013kota/claude-docdd-dev-kit",
+    "description": "\u975e\u30a8\u30f3\u30b8\u30cb\u30a2\u304c Claude Code \u3067 Web \u30a2\u30d7\u30ea\u3084\u30b2\u30fc\u30e0\u306a\u3069\u3092\u4f5c\u308a\u7d9a\u3051\u308b\u305f\u3081\u306e\u958b\u767a\u30ad\u30c3\u30c8\uff08Claude Code \u30d7\u30e9\u30b0\u30a4\u30f3 docdd\uff09",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "no1013kota",
+    "repoName": "claude-docdd-dev-kit",
+    "repoBranch": "main"
+  },
+  "Kwon-Bum-Kyu/claude-control-plane": {
+    "name": "Kwon-Bum-Kyu/claude-control-plane",
+    "description": "The Claude Plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kwon-Bum-Kyu",
+    "repoName": "claude-control-plane",
+    "repoBranch": "main"
   }
 }

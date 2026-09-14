@@ -1,11 +1,11 @@
 {
-  "vaibhavarora14/job-application-agent": {
-    "owner": "vaibhavarora14",
-    "name": "job-application-agent",
-    "branch": "main",
-    "skillsPath": "skills",
-    "enabled": true
-  },
+    "vaibhavarora14/job-application-agent": {
+        "owner": "vaibhavarora14",
+        "name": "job-application-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "cohesivity-org/cohesivity-plugin": {
         "owner": "cohesivity-org",
         "name": "cohesivity-plugin",
@@ -35087,6 +35087,126 @@
         "name": "claude-skill-orquestador",
         "branch": "main",
         "skillsPath": "skills",
+        "enabled": true
+    },
+    "RMAzrim/opencode-artes": {
+        "owner": "RMAzrim",
+        "name": "opencode-artes",
+        "branch": "main",
+        "enabled": true
+    },
+    "yushiran/My-Literature-Review-Skills": {
+        "owner": "yushiran",
+        "name": "My-Literature-Review-Skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Abdallah-Abdelazim/mobile-pr-review-skill": {
+        "owner": "Abdallah-Abdelazim",
+        "name": "mobile-pr-review-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jay94ks/claude-native-workflow": {
+        "owner": "jay94ks",
+        "name": "claude-native-workflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "php-opcua/ai-skills": {
+        "owner": "php-opcua",
+        "name": "ai-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wlkerwong-boop/china-network-diagnostics": {
+        "owner": "wlkerwong-boop",
+        "name": "china-network-diagnostics",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JLugagne/claude-skills": {
+        "owner": "JLugagne",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Dovyski/speaker": {
+        "owner": "Dovyski",
+        "name": "speaker",
+        "branch": "main",
+        "enabled": true
+    },
+    "BUTFL/claude-skills": {
+        "owner": "BUTFL",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nktznl/skillwise": {
+        "owner": "nktznl",
+        "name": "skillwise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jiawood2006/hermes-skills": {
+        "owner": "jiawood2006",
+        "name": "hermes-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ridelink0/ultimate-frontend-skills": {
+        "owner": "ridelink0",
+        "name": "ultimate-frontend-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Skillkeel/skillkeel-starter": {
+        "owner": "Skillkeel",
+        "name": "skillkeel-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "korcanatabay-Aruna/architecture-guide": {
+        "owner": "korcanatabay-Aruna",
+        "name": "architecture-guide",
+        "branch": "main",
+        "enabled": true
+    },
+    "why20261/douyin-traffics-monitor": {
+        "owner": "why20261",
+        "name": "douyin-traffics-monitor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ktakemaru/yamabiyori": {
+        "owner": "ktakemaru",
+        "name": "yamabiyori",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "no1013kota/claude-docdd-dev-kit": {
+        "owner": "no1013kota",
+        "name": "claude-docdd-dev-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kwon-Bum-Kyu/claude-control-plane": {
+        "owner": "Kwon-Bum-Kyu",
+        "name": "claude-control-plane",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
         "enabled": true
     }
 }

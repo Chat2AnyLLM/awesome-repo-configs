@@ -4909,5 +4909,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "yushiran/My-Literature-Review-Skills": {
+    "owner": "yushiran",
+    "name": "My-Literature-Review-Skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
