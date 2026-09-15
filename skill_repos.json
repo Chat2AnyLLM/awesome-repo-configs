@@ -35450,5 +35450,130 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "liustack/modsearch": {
+        "owner": "liustack",
+        "name": "modsearch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pliablepixels/gap-trap": {
+        "owner": "pliablepixels",
+        "name": "gap-trap",
+        "branch": "main",
+        "enabled": true
+    },
+    "rohingosling/claude-skills": {
+        "owner": "rohingosling",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Haruhiyuki/vision-mcp": {
+        "owner": "Haruhiyuki",
+        "name": "vision-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zeikar/leetcode": {
+        "owner": "zeikar",
+        "name": "leetcode",
+        "branch": "master",
+        "enabled": true
+    },
+    "thdelmas/playtime": {
+        "owner": "thdelmas",
+        "name": "playtime",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "specailm5/anti-aranjiya-skill": {
+        "owner": "specailm5",
+        "name": "anti-aranjiya-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "Chase-Chen1999/chinese-writing-skill": {
+        "owner": "Chase-Chen1999",
+        "name": "chinese-writing-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ArnauFerma/falsifiable-tests": {
+        "owner": "ArnauFerma",
+        "name": "falsifiable-tests",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ai-theories/wealth-skills": {
+        "owner": "ai-theories",
+        "name": "wealth-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thomasdseao/exorails-skills": {
+        "owner": "thomasdseao",
+        "name": "exorails-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "senzelden/claude-setup-audit": {
+        "owner": "senzelden",
+        "name": "claude-setup-audit",
+        "branch": "main",
+        "enabled": true
+    },
+    "funcpn/volens": {
+        "owner": "funcpn",
+        "name": "volens",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "codestripes-dev/clooks-marketplace": {
+        "owner": "codestripes-dev",
+        "name": "clooks-marketplace",
+        "branch": "master",
+        "enabled": true
+    },
+    "aminurislamarnob/burnTracker": {
+        "owner": "aminurislamarnob",
+        "name": "burnTracker",
+        "branch": "develop",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "buildproven/agent-kit": {
+        "owner": "buildproven",
+        "name": "agent-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "avaxML/agent-relay": {
+        "owner": "avaxML",
+        "name": "agent-relay",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "694410194/hanyu-skill": {
+        "owner": "694410194",
+        "name": "hanyu-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "hireamino/amino-skills": {
+        "owner": "hireamino",
+        "name": "amino-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

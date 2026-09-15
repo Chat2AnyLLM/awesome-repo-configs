@@ -27883,5 +27883,95 @@
     "repoOwner": "b33kman",
     "repoName": "special-education-due-process-complaint",
     "repoBranch": "main"
+  },
+  "rohingosling/claude-skills": {
+    "name": "rohingosling/claude-skills",
+    "description": "Claude Code plugin marketplace. Curated collection of publicly-shared agent skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rohingosling",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Haruhiyuki/vision-mcp": {
+    "name": "Haruhiyuki/vision-mcp",
+    "description": "A high-performance desktop app interaction framework for AI agents \u2014 faster, cheaper, more accurate. / \u8ba9 Agent \u64cd\u4f5c\u684c\u9762\u8f6f\u4ef6\u66f4\u5feb\u3001\u66f4\u51c6\u3001\u66f4\u7701\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Haruhiyuki",
+    "repoName": "vision-mcp",
+    "repoBranch": "main"
+  },
+  "zeikar/leetcode": {
+    "name": "zeikar/leetcode",
+    "description": "A LeetCode study log, and leetcode-study \u2014 the Claude Code plugin that works through a problem with you instead of solving it for you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zeikar",
+    "repoName": "leetcode",
+    "repoBranch": "master"
+  },
+  "ArnauFerma/falsifiable-tests": {
+    "name": "ArnauFerma/falsifiable-tests",
+    "description": "Claude Code skill: prove a test can fail before trusting it \u2014 break the subject, confirm red for the right reason, restore. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArnauFerma",
+    "repoName": "falsifiable-tests",
+    "repoBranch": "main"
+  },
+  "senzelden/claude-setup-audit": {
+    "name": "senzelden/claude-setup-audit",
+    "description": "A Claude Code plugin that audits your whole setup \u2014 settings, permissions, hooks, MCP servers, skills, CLAUDE.md, memory \u2014 against the current docs and your own transcripts, and returns a ranked list of security, cost...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "senzelden",
+    "repoName": "claude-setup-audit",
+    "repoBranch": "main"
+  },
+  "funcpn/volens": {
+    "name": "funcpn/volens",
+    "description": "Keeps a project's design doc in step with its decisions instead of letting it drift: an append-only decision log, a design snapshot derived from it, and a hook that refreshes it automatically. ADR-style docs that stay...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "funcpn",
+    "repoName": "volens",
+    "repoBranch": "main"
+  },
+  "codestripes-dev/clooks-marketplace": {
+    "name": "codestripes-dev/clooks-marketplace",
+    "description": "Plugin marketplace for clooks \u2014 curated hook packs for AI coding agents. Runtime plugin + core, project, and example hook packs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codestripes-dev",
+    "repoName": "clooks-marketplace",
+    "repoBranch": "master"
+  },
+  "buildproven/agent-kit": {
+    "name": "buildproven/agent-kit",
+    "description": "Open-source Claude Code toolkit with risk-adaptive quality gates, autonomous loops, 32 commands, 33 skills, and 14 agents. MIT with one Apache-2.0 skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "buildproven",
+    "repoName": "agent-kit",
+    "repoBranch": "main"
+  },
+  "avaxML/agent-relay": {
+    "name": "avaxML/agent-relay",
+    "description": "Delegate bounded coding work to OpenCode, Antigravity, and extensible agent CLIs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avaxML",
+    "repoName": "agent-relay",
+    "repoBranch": "main"
+  },
+  "hireamino/amino-skills": {
+    "name": "hireamino/amino-skills",
+    "description": "Free tools to assess and benchmark email sending domains, from Amino (hireamino.com).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hireamino",
+    "repoName": "amino-skills",
+    "repoBranch": "main"
   }
 }

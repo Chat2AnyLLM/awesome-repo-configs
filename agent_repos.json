@@ -4937,5 +4937,12 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "buildproven/agent-kit": {
+    "owner": "buildproven",
+    "name": "agent-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
