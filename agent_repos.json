@@ -4930,5 +4930,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "TuckerBrady/ai-overmind": {
+    "owner": "TuckerBrady",
+    "name": "ai-overmind",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

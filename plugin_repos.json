@@ -27793,5 +27793,95 @@
     "repoOwner": "hsb3",
     "repoName": "dotfiles-agents",
     "repoBranch": "main"
+  },
+  "stellarfeline/delvewright": {
+    "name": "stellarfeline/delvewright",
+    "description": "Automated production line for self-contained Minecraft adventure delves",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stellarfeline",
+    "repoName": "delvewright",
+    "repoBranch": "main"
+  },
+  "xtieume/testcase": {
+    "name": "xtieume/testcase",
+    "description": "A collection of Claude Code skills, with QA skills that end in a mandatory independent-subagent review pass.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xtieume",
+    "repoName": "testcase",
+    "repoBranch": "main"
+  },
+  "lxie-leo/meshify": {
+    "name": "lxie-leo/meshify",
+    "description": "3D model optimization toolkit for AI agents + CLI: mesh simplification, part splitting, texturing, format conversion, LOD, web delivery compression. Reads glb/gltf/obj/stl/ply + STEP CAD (Tier1). Every command emits m...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lxie-leo",
+    "repoName": "meshify",
+    "repoBranch": "main"
+  },
+  "mrieck/demoday-claude-plugin": {
+    "name": "mrieck/demoday-claude-plugin",
+    "description": "Claude Code plugin that creates demo videos for your projects.  Claude is given tools to drive the browser/cli, make recordings, and uses FAL.ai, ElevenLabs, and remotion to build a demo video with scene transitions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mrieck",
+    "repoName": "demoday-claude-plugin",
+    "repoBranch": "main"
+  },
+  "jukkablomberg/northpoint": {
+    "name": "jukkablomberg/northpoint",
+    "description": "Exchange-grade crypto marketing playbooks from NorthPoint. Install with npx skills add jukkablomberg/northpoint.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jukkablomberg",
+    "repoName": "northpoint",
+    "repoBranch": "main"
+  },
+  "WrenchAI/wrench-plugins": {
+    "name": "WrenchAI/wrench-plugins",
+    "description": "Official Wrench.ai Claude Code plugin marketplace \u2014 B2B intelligence, lead scoring, outreach, feature specs, bug audits, SEO, and data engineering review",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WrenchAI",
+    "repoName": "wrench-plugins",
+    "repoBranch": "main"
+  },
+  "TuckerBrady/ai-overmind": {
+    "name": "TuckerBrady/ai-overmind",
+    "description": "Build and run a personal AI team in Claude Code: an Overmind that designs your specialists, dispatches missions, and keeps every session in sync.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TuckerBrady",
+    "repoName": "ai-overmind",
+    "repoBranch": "master"
+  },
+  "inho-team/oh-my-teams": {
+    "name": "inho-team/oh-my-teams",
+    "description": "PM/PL/Senior/Junior/Worker \uc5d0\uc774\uc804\ud2b8 \uc870\uc9c1\uc744 Orca \uc704\uc5d0\uc11c \uc2e4\ud589\ud558\ub294 Claude Code\u00b7Codex \ud50c\ub7ec\uadf8\uc778",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inho-team",
+    "repoName": "oh-my-teams",
+    "repoBranch": "main"
+  },
+  "saigonbaddielover/overseer": {
+    "name": "saigonbaddielover/overseer",
+    "description": "One agent that oversees others: drive & read other live agent sessions (Claude Code, Codex) and shells \u2014 turn-based, from outside \u2014 in Linux tmux panes and in native Windows consoles over SSH. Claude Code plugin. Linu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saigonbaddielover",
+    "repoName": "overseer",
+    "repoBranch": "main"
+  },
+  "b33kman/special-education-due-process-complaint": {
+    "name": "b33kman/special-education-due-process-complaint",
+    "description": "Due Process Complaint Drafter: a Claude plugin (Chat, Cowork, Claude Code) that drafts an IDEA special education due process complaint from school documents for any US state, checks every fact against them, and delive...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "b33kman",
+    "repoName": "special-education-due-process-complaint",
+    "repoBranch": "main"
   }
 }

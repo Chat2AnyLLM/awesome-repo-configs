@@ -35322,5 +35322,133 @@
         "name": "dotfiles-agents",
         "branch": "main",
         "enabled": true
+    },
+    "aahl/skills": {
+        "owner": "aahl",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "feature-sliced/skills": {
+        "owner": "feature-sliced",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "thePlannerIvan/planners-quali-box": {
+        "owner": "thePlannerIvan",
+        "name": "planners-quali-box",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "stellarfeline/delvewright": {
+        "owner": "stellarfeline",
+        "name": "delvewright",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "xtieume/testcase": {
+        "owner": "xtieume",
+        "name": "testcase",
+        "branch": "main",
+        "enabled": true
+    },
+    "lxie-leo/meshify": {
+        "owner": "lxie-leo",
+        "name": "meshify",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mrieck/demoday-claude-plugin": {
+        "owner": "mrieck",
+        "name": "demoday-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Wattson-Law/avoid-over-ai-writing-skill": {
+        "owner": "Wattson-Law",
+        "name": "avoid-over-ai-writing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shand001/geometry-dsl": {
+        "owner": "shand001",
+        "name": "geometry-dsl",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jukkablomberg/northpoint": {
+        "owner": "jukkablomberg",
+        "name": "northpoint",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WrenchAI/wrench-plugins": {
+        "owner": "WrenchAI",
+        "name": "wrench-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "TuckerBrady/ai-overmind": {
+        "owner": "TuckerBrady",
+        "name": "ai-overmind",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "inho-team/oh-my-teams": {
+        "owner": "inho-team",
+        "name": "oh-my-teams",
+        "branch": "main",
+        "enabled": true
+    },
+    "saigonbaddielover/overseer": {
+        "owner": "saigonbaddielover",
+        "name": "overseer",
+        "branch": "main",
+        "enabled": true
+    },
+    "b33kman/special-education-due-process-complaint": {
+        "owner": "b33kman",
+        "name": "special-education-due-process-complaint",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "totwo2/reskill": {
+        "owner": "totwo2",
+        "name": "reskill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Findy/team-plus-skills": {
+        "owner": "Findy",
+        "name": "team-plus-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-content-engineer": {
+        "owner": "why20261",
+        "name": "douyin-content-engineer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-content-insights": {
+        "owner": "why20261",
+        "name": "douyin-content-insights",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
