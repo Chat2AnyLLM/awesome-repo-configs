@@ -4944,5 +4944,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "comet-ml/opik-claude-code-plugin": {
+    "owner": "comet-ml",
+    "name": "opik-claude-code-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "TonasMo/petshop-amigo": {
+    "owner": "TonasMo",
+    "name": "petshop-amigo",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "nabolom/geo-mql-auditor": {
+    "owner": "nabolom",
+    "name": "geo-mql-auditor",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

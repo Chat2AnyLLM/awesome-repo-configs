@@ -28054,5 +28054,95 @@
     "repoOwner": "GabrielKqw",
     "repoName": "weave",
     "repoBranch": "main"
+  },
+  "danjdewhurst/story-skills": {
+    "name": "danjdewhurst/story-skills",
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danjdewhurst",
+    "repoName": "story-skills",
+    "repoBranch": "main"
+  },
+  "guaardvark/guaardvark": {
+    "name": "guaardvark/guaardvark",
+    "description": "The self-hosted AI studio: local video, image, music, voice, LoRA training, coding swarms, RAG and screen agents on one GPU, driven from the Studio or by your coding agent (Claude Code, Cursor, Codex, OpenClaw) throug...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guaardvark",
+    "repoName": "guaardvark",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/lintlang": {
+    "name": "hermes-labs-ai/lintlang",
+    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, deterministic checks, built...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "lintlang",
+    "repoBranch": "main"
+  },
+  "comet-ml/opik-claude-code-plugin": {
+    "name": "comet-ml/opik-claude-code-plugin",
+    "description": "Log Claude Code sessions to Opik, the open-source LLM observability and evaluation platform, built by Comet. Tracing, evaluation, and skills for observable AI applications.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "comet-ml",
+    "repoName": "opik-claude-code-plugin",
+    "repoBranch": "main"
+  },
+  "gabriel-tutor/seams": {
+    "name": "gabriel-tutor/seams",
+    "description": "Design at the seams, build in slices. A Claude Code plugin that makes Matt Pocock's engineering skills lead every session: routing bootstrap, one-question-at-a-time design grill with a 10-axis design lens, gated spec...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gabriel-tutor",
+    "repoName": "seams",
+    "repoBranch": "main"
+  },
+  "atazifor/engineering-memlog": {
+    "name": "atazifor/engineering-memlog",
+    "description": "Your AI coding agent keeps re-deriving the same fix every session. Give it a memory \u2014 a shared, searchable log of lessons it writes after work and auto-recalls before. Claude Code plugin + tiny CLI; works with Cursor...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atazifor",
+    "repoName": "engineering-memlog",
+    "repoBranch": "main"
+  },
+  "JasonHolderness-bl/ledgerline": {
+    "name": "JasonHolderness-bl/ledgerline",
+    "description": "Ledgerline \u2014 decision provenance for the whole product lifecycle that carries your team's context through every phase and every AI session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JasonHolderness-bl",
+    "repoName": "ledgerline",
+    "repoBranch": "main"
+  },
+  "aliradid/citation-needed": {
+    "name": "aliradid/citation-needed",
+    "description": "No claim without a receipt. Agent skill that fact-checks any draft against live sources and returns an evidence ledger. Claude Code, Codex, Cursor, Gemini CLI, OpenCode and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aliradid",
+    "repoName": "citation-needed",
+    "repoBranch": "main"
+  },
+  "jmanuelrosa/kura": {
+    "name": "jmanuelrosa/kura",
+    "description": "Manage coding-agent skills, agents, and plugins from one catalog. Supports Claude Code installs and Pi-compatible skill and agent views.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jmanuelrosa",
+    "repoName": "kura",
+    "repoBranch": "main"
+  },
+  "glisom/skills": {
+    "name": "glisom/skills",
+    "description": "Grant Isom's Claude Code plugins. One plugin per skill: skill-thief, ux-deep-dive. Add with /plugin marketplace add glisom/skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "glisom",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }

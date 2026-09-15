@@ -35716,5 +35716,122 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "danjdewhurst/story-skills": {
+        "owner": "danjdewhurst",
+        "name": "story-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guaardvark/guaardvark": {
+        "owner": "guaardvark",
+        "name": "guaardvark",
+        "branch": "main",
+        "enabled": true
+    },
+    "hermes-labs-ai/lintlang": {
+        "owner": "hermes-labs-ai",
+        "name": "lintlang",
+        "branch": "main",
+        "enabled": true
+    },
+    "comet-ml/opik-claude-code-plugin": {
+        "owner": "comet-ml",
+        "name": "opik-claude-code-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hermes-labs-ai/hermeneutic": {
+        "owner": "hermes-labs-ai",
+        "name": "hermeneutic",
+        "branch": "main",
+        "enabled": true
+    },
+    "Jasper0122/agent-seo-kit": {
+        "owner": "Jasper0122",
+        "name": "agent-seo-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yjhqwer/yjh-discipline": {
+        "owner": "yjhqwer",
+        "name": "yjh-discipline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gabriel-tutor/seams": {
+        "owner": "gabriel-tutor",
+        "name": "seams",
+        "branch": "main",
+        "enabled": true
+    },
+    "atazifor/engineering-memlog": {
+        "owner": "atazifor",
+        "name": "engineering-memlog",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zaytsevand/problem-brief": {
+        "owner": "zaytsevand",
+        "name": "problem-brief",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JasonHolderness-bl/ledgerline": {
+        "owner": "JasonHolderness-bl",
+        "name": "ledgerline",
+        "branch": "main",
+        "enabled": true
+    },
+    "Parmasanandgarlic/farmdash-openclaw-skills": {
+        "owner": "Parmasanandgarlic",
+        "name": "farmdash-openclaw-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "TonasMo/petshop-amigo": {
+        "owner": "TonasMo",
+        "name": "petshop-amigo",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "aliradid/citation-needed": {
+        "owner": "aliradid",
+        "name": "citation-needed",
+        "branch": "main",
+        "enabled": true
+    },
+    "ararai1991/wp-plugin-skill": {
+        "owner": "ararai1991",
+        "name": "wp-plugin-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jmanuelrosa/kura": {
+        "owner": "jmanuelrosa",
+        "name": "kura",
+        "branch": "main",
+        "enabled": true
+    },
+    "nabolom/geo-mql-auditor": {
+        "owner": "nabolom",
+        "name": "geo-mql-auditor",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "glisom/skills": {
+        "owner": "glisom",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
     }
 }
