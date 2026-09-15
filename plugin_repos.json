@@ -27973,5 +27973,86 @@
     "repoOwner": "hireamino",
     "repoName": "amino-skills",
     "repoBranch": "main"
+  },
+  "georgeguimaraes/ghost-agent-tools": {
+    "name": "georgeguimaraes/ghost-agent-tools",
+    "description": "Claude Code plugin for managing Ghost blogs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "georgeguimaraes",
+    "repoName": "ghost-agent-tools",
+    "repoBranch": "main"
+  },
+  "dewanshparashar/dekh-bhai": {
+    "name": "dewanshparashar/dekh-bhai",
+    "description": "Explain complex code/concepts like the BRO who made you study entire syllabus the night before the exam. Hinglish. Extremely Effective.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dewanshparashar",
+    "repoName": "dekh-bhai",
+    "repoBranch": "main"
+  },
+  "hasuwini77/3d-logo-skill": {
+    "name": "hasuwini77/3d-logo-skill",
+    "description": "Agent skill: turn any flat logo into a premium 3D spinning coin (React Three Fiber). One command, try it live in your browser.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hasuwini77",
+    "repoName": "3d-logo-skill",
+    "repoBranch": "main"
+  },
+  "error9098x/latchmoth": {
+    "name": "error9098x/latchmoth",
+    "description": "Find the leak. Keep the receipt. A portable AI skill for credential discovery and evidence-based triage.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "error9098x",
+    "repoName": "latchmoth",
+    "repoBranch": "main"
+  },
+  "RijksICTGilde/zad-actions": {
+    "name": "RijksICTGilde/zad-actions",
+    "description": "Reusable GitHub Actions for deploying to ZAD (Zelfservice voor Applicatie Deployment)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RijksICTGilde",
+    "repoName": "zad-actions",
+    "repoBranch": "main"
+  },
+  "kugamon/gsc-mcp": {
+    "name": "kugamon/gsc-mcp",
+    "description": "Google Search Console for Claude \u2014 bundled MCP server (21 tools), four SEO skills, six commands, and branded print-ready reports.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kugamon",
+    "repoName": "gsc-mcp",
+    "repoBranch": "main"
+  },
+  "abxn4r/archon-skills": {
+    "name": "abxn4r/archon-skills",
+    "description": "Universal Expert Skill Suite & Dual-Scope Memory Engine for AI Coding Agents (Cursor, Claude Code, Windsurf, Copilot, Antigravity)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abxn4r",
+    "repoName": "archon-skills",
+    "repoBranch": "main"
+  },
+  "quadseven/brother-claudius": {
+    "name": "quadseven/brother-claudius",
+    "description": "\ud83e\udd80 A Trappist vow of silence for Claude Code \u2014 he answers only in tool calls, diffs, and stage directions. [bows] /plugin marketplace add quadseven/brother-claudius \u2192 /plugin install vow-of-silence [nods]",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "quadseven",
+    "repoName": "brother-claudius",
+    "repoBranch": "main"
+  },
+  "GabrielKqw/weave": {
+    "name": "GabrielKqw/weave",
+    "description": "Dependency-free engineering layer for AI coding agents: terminal-output intelligence, context continuity, and verification for Claude Code and Codex",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GabrielKqw",
+    "repoName": "weave",
+    "repoBranch": "main"
   }
 }

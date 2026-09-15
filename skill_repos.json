@@ -35575,5 +35575,146 @@
         "name": "amino-skills",
         "branch": "main",
         "enabled": true
+    },
+    "georgeguimaraes/ghost-agent-tools": {
+        "owner": "georgeguimaraes",
+        "name": "ghost-agent-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "cooler333/awesome-claude-code": {
+        "owner": "cooler333",
+        "name": "awesome-claude-code",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "MuscleOtter/rowan-fitness-skill": {
+        "owner": "MuscleOtter",
+        "name": "rowan-fitness-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dewanshparashar/dekh-bhai": {
+        "owner": "dewanshparashar",
+        "name": "dekh-bhai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hasuwini77/3d-logo-skill": {
+        "owner": "hasuwini77",
+        "name": "3d-logo-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "error9098x/latchmoth": {
+        "owner": "error9098x",
+        "name": "latchmoth",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RijksICTGilde/zad-actions": {
+        "owner": "RijksICTGilde",
+        "name": "zad-actions",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Getgodmode/godmode-lite": {
+        "owner": "Getgodmode",
+        "name": "godmode-lite",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rokokol/bash-best-practices-skill": {
+        "owner": "rokokol",
+        "name": "bash-best-practices-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rokokol/skill-authoring-skill": {
+        "owner": "rokokol",
+        "name": "skill-authoring-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "millerlai/threat-modeling-master": {
+        "owner": "millerlai",
+        "name": "threat-modeling-master",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ferronicardoso/harness-setup": {
+        "owner": "ferronicardoso",
+        "name": "harness-setup",
+        "branch": "main",
+        "enabled": true
+    },
+    "kugamon/gsc-mcp": {
+        "owner": "kugamon",
+        "name": "gsc-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "kaichen/agent-skillset": {
+        "owner": "kaichen",
+        "name": "agent-skillset",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "abxn4r/archon-skills": {
+        "owner": "abxn4r",
+        "name": "archon-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "quadseven/brother-claudius": {
+        "owner": "quadseven",
+        "name": "brother-claudius",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "GabrielKqw/weave": {
+        "owner": "GabrielKqw",
+        "name": "weave",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "millerlai/auto-package-migration": {
+        "owner": "millerlai",
+        "name": "auto-package-migration",
+        "branch": "master",
+        "enabled": true
+    },
+    "kordp888/career-docs-skill": {
+        "owner": "kordp888",
+        "name": "career-docs-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "akshayrao14/git-practices": {
+        "owner": "akshayrao14",
+        "name": "git-practices",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gsulamanidzebdoge/1c-developer": {
+        "owner": "gsulamanidzebdoge",
+        "name": "1c-developer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
