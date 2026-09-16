@@ -28333,5 +28333,113 @@
     "repoOwner": "nchuguevskiy",
     "repoName": "tattoo",
     "repoBranch": "main"
+  },
+  "BeckhamLabsLLC/kicad-jlcpcb": {
+    "name": "BeckhamLabsLLC/kicad-jlcpcb",
+    "description": "Claude Code plugin that turns a PCB idea into a wired .kicad_pcb ready for EasyEDA auto-routing and one-click JLCPCB ordering \u2014 LCSC part sourcing, EasyEDA pin-map auto-fetch, and session-persisted workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BeckhamLabsLLC",
+    "repoName": "kicad-jlcpcb",
+    "repoBranch": "main"
+  },
+  "phmatray/tagout": {
+    "name": "phmatray/tagout",
+    "description": "Tagout \u2014 the gate-verified issue \u2192 PR lifecycle for coding agents (create-issue, implement-issue, merge-pr, auto-dev), with a .NET migration add-on powered by RoselineMCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phmatray",
+    "repoName": "tagout",
+    "repoBranch": "main"
+  },
+  "samalyarov/learning-assistant": {
+    "name": "samalyarov/learning-assistant",
+    "description": "Agent Skills for studying: turn course material into a walkthrough you can work through by hand, then proofcheck the prose for AI slop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "samalyarov",
+    "repoName": "learning-assistant",
+    "repoBranch": "main"
+  },
+  "vincenzo345/skills": {
+    "name": "vincenzo345/skills",
+    "description": "A meeting becomes a scope tree a build can run against. Agent skills for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vincenzo345",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "mohamed-amine-ben-mallessa/iris-screenshots": {
+    "name": "mohamed-amine-ben-mallessa/iris-screenshots",
+    "description": "\ud83d\udc41\ufe0f /screenshot \u2014 real Chrome screenshots for your coding agent. A Claude Code plugin: 3 skills, a visual-reviewer agent and a bundled MCP camera.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mohamed-amine-ben-mallessa",
+    "repoName": "iris-screenshots",
+    "repoBranch": "main"
+  },
+  "naklab-org/naklab-sf-plugins": {
+    "name": "naklab-org/naklab-sf-plugins",
+    "description": "Unofficial Claude Code plugin marketplace for Salesforce development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "naklab-org",
+    "repoName": "naklab-sf-plugins",
+    "repoBranch": "main"
+  },
+  "artwisdom/roofing-os-skills": {
+    "name": "artwisdom/roofing-os-skills",
+    "description": "Free Claude skill for roofing contractors: summarize-inspection-notes turns field notes into a homeowner summary and an internal inspection record. From The Roofing OS.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "artwisdom",
+    "repoName": "roofing-os-skills",
+    "repoBranch": "main"
+  },
+  "seanGSISG/ediscovery-export": {
+    "name": "seanGSISG/ediscovery-export",
+    "description": "Claude Code plugin + PowerShell engine: Microsoft Purview eDiscovery keyword search across mailboxes -> PST/MSG export over the unified Graph API (app-only, async).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seanGSISG",
+    "repoName": "ediscovery-export",
+    "repoBranch": "main"
+  },
+  "yo61/claude-skills": {
+    "name": "yo61/claude-skills",
+    "description": "yo61/claude-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yo61",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "dani-aisystems/ai-offer-builder": {
+    "name": "dani-aisystems/ai-offer-builder",
+    "description": "Claude skill that turns a prospect's context into three tiered packages and a single-file HTML sales deck, with sourced research, the agency's own brand and the client's language and currency. Includes a multi-turn ev...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dani-aisystems",
+    "repoName": "ai-offer-builder",
+    "repoBranch": "main"
+  },
+  "xnyzer/coding-kit": {
+    "name": "xnyzer/coding-kit",
+    "description": "Claude Code plugin + marketplace with generic workflow skills, a project-detecting stop hook, and a shareable Renovate preset",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xnyzer",
+    "repoName": "coding-kit",
+    "repoBranch": "main"
+  },
+  "PursuitOfDataScience/cloudfit-plugin": {
+    "name": "PursuitOfDataScience/cloudfit-plugin",
+    "description": "Fits Slurm jobs to what they actually used",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PursuitOfDataScience",
+    "repoName": "cloudfit-plugin",
+    "repoBranch": "main"
   }
 }

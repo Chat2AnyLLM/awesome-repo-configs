@@ -5000,5 +5000,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "BeckhamLabsLLC/kicad-jlcpcb": {
+    "owner": "BeckhamLabsLLC",
+    "name": "kicad-jlcpcb",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "PursuitOfDataScience/cloudfit-plugin": {
+    "owner": "PursuitOfDataScience",
+    "name": "cloudfit-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

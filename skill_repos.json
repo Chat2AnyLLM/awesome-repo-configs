@@ -36069,5 +36069,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "BeckhamLabsLLC/kicad-jlcpcb": {
+        "owner": "BeckhamLabsLLC",
+        "name": "kicad-jlcpcb",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yushiran/Academic-Figure-Figma-CC-Skills": {
+        "owner": "yushiran",
+        "name": "Academic-Figure-Figma-CC-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "phmatray/tagout": {
+        "owner": "phmatray",
+        "name": "tagout",
+        "branch": "main",
+        "enabled": true
+    },
+    "samalyarov/learning-assistant": {
+        "owner": "samalyarov",
+        "name": "learning-assistant",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mimaowang/paper-to-podium": {
+        "owner": "mimaowang",
+        "name": "paper-to-podium",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vincenzo345/skills": {
+        "owner": "vincenzo345",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "innovationengines/skills-repo": {
+        "owner": "innovationengines",
+        "name": "skills-repo",
+        "branch": "main",
+        "enabled": true
+    },
+    "mohamed-amine-ben-mallessa/iris-screenshots": {
+        "owner": "mohamed-amine-ben-mallessa",
+        "name": "iris-screenshots",
+        "branch": "main",
+        "enabled": true
+    },
+    "hyperdargo/ClaudeSkillAndPluginsWithMasterPrompt": {
+        "owner": "hyperdargo",
+        "name": "ClaudeSkillAndPluginsWithMasterPrompt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "artwisdom/roofing-os-skills": {
+        "owner": "artwisdom",
+        "name": "roofing-os-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seanGSISG/ediscovery-export": {
+        "owner": "seanGSISG",
+        "name": "ediscovery-export",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dani-aisystems/ai-offer-builder": {
+        "owner": "dani-aisystems",
+        "name": "ai-offer-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xnyzer/coding-kit": {
+        "owner": "xnyzer",
+        "name": "coding-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "PursuitOfDataScience/cloudfit-plugin": {
+        "owner": "PursuitOfDataScience",
+        "name": "cloudfit-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lester8-l/ig-post-generator": {
+        "owner": "Lester8-l",
+        "name": "ig-post-generator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bryankwandou/rangka": {
+        "owner": "bryankwandou",
+        "name": "rangka",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
