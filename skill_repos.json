@@ -35833,5 +35833,126 @@
         "name": "skills",
         "branch": "main",
         "enabled": true
+    },
+    "mblode/agent-skills": {
+        "owner": "mblode",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "greenpolo/cc-multi-cli-plugin": {
+        "owner": "greenpolo",
+        "name": "cc-multi-cli-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "0xDarkMatter/claude-mods": {
+        "owner": "0xDarkMatter",
+        "name": "claude-mods",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jfleagl12/claw-agent-protocol": {
+        "owner": "jfleagl12",
+        "name": "claw-agent-protocol",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sunilgentyala/OmniRed": {
+        "owner": "sunilgentyala",
+        "name": "OmniRed",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "juanquijandria/prisma-harness": {
+        "owner": "juanquijandria",
+        "name": "prisma-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NeetuAggarwal-AI/BA-AI-Skills": {
+        "owner": "NeetuAggarwal-AI",
+        "name": "BA-AI-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "haiggoh/free-agents": {
+        "owner": "haiggoh",
+        "name": "free-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xiangzhouEcho/Echo-wechat-skill": {
+        "owner": "xiangzhouEcho",
+        "name": "Echo-wechat-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tohnee/weaveboard": {
+        "owner": "tohnee",
+        "name": "weaveboard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "navinramharak-rgb/perfect-project-builder": {
+        "owner": "navinramharak-rgb",
+        "name": "perfect-project-builder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SkotAlexsander/skills": {
+        "owner": "SkotAlexsander",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "terrasnail/pipeshape-claude-plugins": {
+        "owner": "terrasnail",
+        "name": "pipeshape-claude-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tomtommyyuan/automated-sde-skill": {
+        "owner": "tomtommyyuan",
+        "name": "automated-sde-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Rivendell-investment/edgepilot-live-claude": {
+        "owner": "Rivendell-investment",
+        "name": "edgepilot-live-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gosuda/potly": {
+        "owner": "gosuda",
+        "name": "potly",
+        "branch": "main",
+        "enabled": true
+    },
+    "rhdqngusanr/contextops": {
+        "owner": "rhdqngusanr",
+        "name": "contextops",
+        "branch": "main",
+        "enabled": true
+    },
+    "Avinash147-1193/thedeployer-plugins": {
+        "owner": "Avinash147-1193",
+        "name": "thedeployer-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

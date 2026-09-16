@@ -4965,5 +4965,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "0xDarkMatter/claude-mods": {
+    "owner": "0xDarkMatter",
+    "name": "claude-mods",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

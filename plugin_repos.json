@@ -28144,5 +28144,104 @@
     "repoOwner": "glisom",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "mblode/agent-skills": {
+    "name": "mblode/agent-skills",
+    "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mblode",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "greenpolo/cc-multi-cli-plugin": {
+    "name": "greenpolo/cc-multi-cli-plugin",
+    "description": "Claude Code plugin: delegate to Codex, Gemini, Cursor, GitHub Copilot, and Qwen CLIs via their native protocols (ACP, ASP). Use /gemini:research, /cursor:debug, /codex:execute, /copilot:review and more \u2014 Claude can al...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "greenpolo",
+    "repoName": "cc-multi-cli-plugin",
+    "repoBranch": "main"
+  },
+  "0xDarkMatter/claude-mods": {
+    "name": "0xDarkMatter/claude-mods",
+    "description": "Expert skills, agents, commands, rules, hooks & output styles for Claude Code \u2014 session continuity + modern CLI tooling for real-world dev workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0xDarkMatter",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "sunilgentyala/OmniRed": {
+    "name": "sunilgentyala/OmniRed",
+    "description": "OmniRed: Multi-AI offensive security skills library for Claude, ChatGPT, Gemini & Microsoft Copilot \u2014 with unique MCP, LLM-pipeline, and AI-native attack categories. By Sunil Gentyala, Independent Researcher.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sunilgentyala",
+    "repoName": "OmniRed",
+    "repoBranch": "master"
+  },
+  "juanquijandria/prisma-harness": {
+    "name": "juanquijandria/prisma-harness",
+    "description": "PRISMA, a verification method for agent-written work, as a Claude Code plugin. Five lanes, five steps, five gates, single-model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "juanquijandria",
+    "repoName": "prisma-harness",
+    "repoBranch": "main"
+  },
+  "haiggoh/free-agents": {
+    "name": "haiggoh/free-agents",
+    "description": "Run Claude Code on free inference \u2014 two equal lanes: local Apple-Silicon MLX models, and free-tier cloud APIs (Gemini, NVIDIA, Groq +12). Dispatch sub-tasks off your paid session, or run a whole session free. Additive...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "haiggoh",
+    "repoName": "free-agents",
+    "repoBranch": "main"
+  },
+  "navinramharak-rgb/perfect-project-builder": {
+    "name": "navinramharak-rgb/perfect-project-builder",
+    "description": "Interview a first-time builder and walk them all the way to a working Claude Project: questions, real files, setup, and a tested first output.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "navinramharak-rgb",
+    "repoName": "perfect-project-builder",
+    "repoBranch": "main"
+  },
+  "terrasnail/pipeshape-claude-plugins": {
+    "name": "terrasnail/pipeshape-claude-plugins",
+    "description": "Claude Code plugin that builds deterministic multi-agent dev pipelines \u2014 define the graph in YAML, scaffold agents into your repo, run with spec gates, feedback loops, and resume.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "terrasnail",
+    "repoName": "pipeshape-claude-plugins",
+    "repoBranch": "main"
+  },
+  "gosuda/potly": {
+    "name": "gosuda/potly",
+    "description": "A self-deployable, agent-friendly URL shortener",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gosuda",
+    "repoName": "potly",
+    "repoBranch": "main"
+  },
+  "rhdqngusanr/contextops": {
+    "name": "rhdqngusanr/contextops",
+    "description": "\ud300\uc758 \uae30\uc5b5\uacfc AI\uc758 \uae30\uc5b5\uc744 \ud55c \ubc29\ud5a5\uc73c\ub85c \u2014 \uac19\uc740 \uc9c8\ubb38\uc5d0 \ud300\uc6d0\ub9c8\ub2e4 AI \ub2f5\uc774 \ub2e4\ub97c \ub54c, \uc5b4\uae0b\ub09c \uaddc\uce59\uc744 AI\uac00 \ucc3e\uace0 \ud300\uc7a5\uc774 \uc815\ud55c \ub2f5 \ud558\ub098\ub85c \ub9de\ucda5\ub2c8\ub2e4. \ud300\uc7a5\uc740 \uc6f9\uc5d0\uc11c, \uac1c\ubc1c\uc790\ub294 Claude Code \ud50c\ub7ec\uadf8\uc778\uc73c\ub85c \u00b7 Wanted AI Championship 2026 \ucd9c\ud488\uc791",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rhdqngusanr",
+    "repoName": "contextops",
+    "repoBranch": "main"
+  },
+  "Avinash147-1193/thedeployer-plugins": {
+    "name": "Avinash147-1193/thedeployer-plugins",
+    "description": "Skills, a Claude Code plugin, a Cursor plugin and an MCP server that check, deploy and migrate apps into your own cloud.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Avinash147-1193",
+    "repoName": "thedeployer-plugins",
+    "repoBranch": "main"
   }
 }
