@@ -28243,5 +28243,95 @@
     "repoOwner": "Avinash147-1193",
     "repoName": "thedeployer-plugins",
     "repoBranch": "main"
+  },
+  "redtear1115/docgrad": {
+    "name": "redtear1115/docgrad",
+    "description": "Grade and converge a repo's documentation as an AI-agent context source \u2014 six-dimension star rating (completeness, correctness, freshness, linkage, consistency, economy) including entry-file token cost, plus a loop th...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "redtear1115",
+    "repoName": "docgrad",
+    "repoBranch": "main"
+  },
+  "rankcontrol/rankcontrol": {
+    "name": "rankcontrol/rankcontrol",
+    "description": "RankControl (rctrl.com) - Your Agentic SEO suite. Seven AI agents discover the questions buyers ask ChatGPT, Perplexity, Claude, Gemini, Grok, and Google, write brand-matched guides, and publish them as native posts....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rankcontrol",
+    "repoName": "rankcontrol",
+    "repoBranch": "main"
+  },
+  "waseemnasir2k26/skynetlabs-all-claude-code": {
+    "name": "waseemnasir2k26/skynetlabs-all-claude-code",
+    "description": "44 production-grade Claude Code skills from a real one-person AI agency - reels and video, SEO/AEO content engines, client delivery, code review, n8n automation, proposals, token efficiency. Battle-tested on paid work...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "waseemnasir2k26",
+    "repoName": "skynetlabs-all-claude-code",
+    "repoBranch": "main"
+  },
+  "goagrawal-genai/wrap-up": {
+    "name": "goagrawal-genai/wrap-up",
+    "description": "Make every agent session start smarter than the last. A Claude Code skill for end-of-session knowledge maintenance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "goagrawal-genai",
+    "repoName": "wrap-up",
+    "repoBranch": "main"
+  },
+  "danielfarnose/claude-code-dev-loop": {
+    "name": "danielfarnose/claude-code-dev-loop",
+    "description": "A multi-agent development loop for Claude Code: five specialized subagents plan, implement, verify and merge \u2014 with a QA gate that cannot edit the code it judges.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danielfarnose",
+    "repoName": "claude-code-dev-loop",
+    "repoBranch": "main"
+  },
+  "biggora/stitch-skills": {
+    "name": "biggora/stitch-skills",
+    "description": "Claude Code and Codex skills for Google Stitch \u2014 generate UI screens, manage design systems, export design tokens, slice components, and build Storybook from Stitch designs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "biggora",
+    "repoName": "stitch-skills",
+    "repoBranch": "main"
+  },
+  "mejbaurbahar/fagun": {
+    "name": "mejbaurbahar/fagun",
+    "description": "Fagun \u2014 a QA/testing Skill that gives any AI agent a real browser to click, crawl, and find real bugs \u2014 functional, security, performance, accessibility, SEO. Every finding is backed by evidence. Nothing is faked; if...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mejbaurbahar",
+    "repoName": "fagun",
+    "repoBranch": "main"
+  },
+  "tzerecords/business-analyst-agent": {
+    "name": "tzerecords/business-analyst-agent",
+    "description": "Skills for coding agents that do business analysis work. First skill: bpmn.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tzerecords",
+    "repoName": "business-analyst-agent",
+    "repoBranch": "main"
+  },
+  "takuyaabe11/switchyard": {
+    "name": "takuyaabe11/switchyard",
+    "description": "Traffic control for heavy runs across Claude Code sessions on one machine \u2014 CPU shares and exclusive locks, shipped as a plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "takuyaabe11",
+    "repoName": "switchyard",
+    "repoBranch": "main"
+  },
+  "nchuguevskiy/tattoo": {
+    "name": "nchuguevskiy/tattoo",
+    "description": "Claude forgets on every /compact. Tattoo what matters first: a Claude Code plugin that snapshots the session before compaction and restores it verbatim after.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nchuguevskiy",
+    "repoName": "tattoo",
+    "repoBranch": "main"
   }
 }

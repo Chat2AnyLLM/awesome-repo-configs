@@ -35954,5 +35954,120 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "waseemnasir2k26/reelforge": {
+        "owner": "waseemnasir2k26",
+        "name": "reelforge",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "redtear1115/docgrad": {
+        "owner": "redtear1115",
+        "name": "docgrad",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "waseemnasir2k26/reborn-forge": {
+        "owner": "waseemnasir2k26",
+        "name": "reborn-forge",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rankcontrol/rankcontrol": {
+        "owner": "rankcontrol",
+        "name": "rankcontrol",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "waseemnasir2k26/skynetlabs-all-claude-code": {
+        "owner": "waseemnasir2k26",
+        "name": "skynetlabs-all-claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "goagrawal-genai/wrap-up": {
+        "owner": "goagrawal-genai",
+        "name": "wrap-up",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "danielfarnose/claude-code-dev-loop": {
+        "owner": "danielfarnose",
+        "name": "claude-code-dev-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "biggora/stitch-skills": {
+        "owner": "biggora",
+        "name": "stitch-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mejbaurbahar/fagun": {
+        "owner": "mejbaurbahar",
+        "name": "fagun",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "riffkit/skills": {
+        "owner": "riffkit",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "eighthoursleep/unity-game-codebase-walkthrough-skill": {
+        "owner": "eighthoursleep",
+        "name": "unity-game-codebase-walkthrough-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "waseemnasir2k26/launch-chain-skill": {
+        "owner": "waseemnasir2k26",
+        "name": "launch-chain-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "waseemnasir2k26/reel-studio": {
+        "owner": "waseemnasir2k26",
+        "name": "reel-studio",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tzerecords/business-analyst-agent": {
+        "owner": "tzerecords",
+        "name": "business-analyst-agent",
+        "branch": "main",
+        "enabled": true
+    },
+    "takuyaabe11/switchyard": {
+        "owner": "takuyaabe11",
+        "name": "switchyard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nchuguevskiy/tattoo": {
+        "owner": "nchuguevskiy",
+        "name": "tattoo",
+        "branch": "main",
+        "enabled": true
+    },
+    "adiready/geo-auto-export": {
+        "owner": "adiready",
+        "name": "geo-auto-export",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -4972,5 +4972,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "waseemnasir2k26/reborn-forge": {
+    "owner": "waseemnasir2k26",
+    "name": "reborn-forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "danielfarnose/claude-code-dev-loop": {
+    "owner": "danielfarnose",
+    "name": "claude-code-dev-loop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "biggora/stitch-skills": {
+    "owner": "biggora",
+    "name": "stitch-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "adiready/geo-auto-export": {
+    "owner": "adiready",
+    "name": "geo-auto-export",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
