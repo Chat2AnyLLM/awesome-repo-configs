@@ -28441,5 +28441,50 @@
     "repoOwner": "PursuitOfDataScience",
     "repoName": "cloudfit-plugin",
     "repoBranch": "main"
+  },
+  "gaia-research/gaia-skill-heaven": {
+    "name": "gaia-research/gaia-skill-heaven",
+    "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills when you want, and let yourself stay in the loop (Heaven) or your agent to freely code (Hell). Ski...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gaia-research",
+    "repoName": "gaia-skill-heaven",
+    "repoBranch": "main"
+  },
+  "AndersonAdelino/skills": {
+    "name": "AndersonAdelino/skills",
+    "description": "Claude Code skills for content creators. Cut silence from video, normalize audio, remove filler words.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AndersonAdelino",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "urban233/Canon": {
+    "name": "urban233/Canon",
+    "description": "A Claude Code/Codex plugin that keeps agentic development on track without a stored state machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "urban233",
+    "repoName": "Canon",
+    "repoBranch": "main"
+  },
+  "vaazh-studios/vocabloot-deck-kit": {
+    "name": "vaazh-studios/vocabloot-deck-kit",
+    "description": "Make Vocabloot decks from a conversation: skills for Claude Code and Codex that write app-ready cards, stickers and a .vlbackup. No API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vaazh-studios",
+    "repoName": "vocabloot-deck-kit",
+    "repoBranch": "main"
+  },
+  "TrackIQ-HQ/amazon-seller-skills": {
+    "name": "TrackIQ-HQ/amazon-seller-skills",
+    "description": "Agent Skills for Amazon sellers running the TrackIQ MCP. Install the whole catalog with one command in Claude Code, or upload any skill as a zip to Claude or ChatGPT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TrackIQ-HQ",
+    "repoName": "amazon-seller-skills",
+    "repoBranch": "main"
   }
 }

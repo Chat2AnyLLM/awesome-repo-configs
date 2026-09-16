@@ -36175,5 +36175,69 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "gaia-research/gaia-skill-heaven": {
+        "owner": "gaia-research",
+        "name": "gaia-skill-heaven",
+        "branch": "main",
+        "enabled": true
+    },
+    "AndersonAdelino/skills": {
+        "owner": "AndersonAdelino",
+        "name": "skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brackendev/clojurescript-skills": {
+        "owner": "brackendev",
+        "name": "clojurescript-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "urban233/Canon": {
+        "owner": "urban233",
+        "name": "Canon",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tony224x/skills-for-all": {
+        "owner": "Tony224x",
+        "name": "skills-for-all",
+        "branch": "main",
+        "enabled": true
+    },
+    "maateusx/claude-kanban": {
+        "owner": "maateusx",
+        "name": "claude-kanban",
+        "branch": "main",
+        "enabled": true
+    },
+    "vaazh-studios/vocabloot-deck-kit": {
+        "owner": "vaazh-studios",
+        "name": "vocabloot-deck-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrackIQ-HQ/amazon-seller-skills": {
+        "owner": "TrackIQ-HQ",
+        "name": "amazon-seller-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "TrackIQ-HQ/trackiq-amazon-weekly-executive-report": {
+        "owner": "TrackIQ-HQ",
+        "name": "trackiq-amazon-weekly-executive-report",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrackIQ-HQ/trackiq-amazon-daily-snacks-email": {
+        "owner": "TrackIQ-HQ",
+        "name": "trackiq-amazon-daily-snacks-email",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
