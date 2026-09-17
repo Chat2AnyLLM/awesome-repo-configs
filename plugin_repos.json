@@ -1,4 +1,13 @@
 {
+  "skillkeel/skillkeel-starter": {
+    "name": "skillkeel-starter",
+    "description": "Guard hooks that block destructive shell commands and secret writes before Claude Code runs them, plus eight tested repo skills (changelog, commit message, PR description, README refresh, CLAUDE.md init, dependency audit, secret audit, test gaps). 64 hook unit tests; evals rerun on every Claude Code release with results per version in docs/compat.md. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skillkeel",
+    "repoName": "skillkeel-starter",
+    "repoBranch": "main"
+  },
   "cohesivity-org/cohesivity-plugin": {
     "name": "cohesivity",
     "description": "cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.",
