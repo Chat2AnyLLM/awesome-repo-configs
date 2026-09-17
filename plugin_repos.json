@@ -28576,5 +28576,14 @@
     "repoOwner": "seonhwakei",
     "repoName": "screenshot-annotator",
     "repoBranch": "main"
+  },
+  "h-3303/claude-music": {
+    "name": "claude-music",
+    "description": "Claude Code plugin and marketplace: import a streaming playlist export, resolve it against MusicBrainz, diff it against your local library, fetch the missing tracks through your own Nicotine+ (Soulseek) client with your approval, write an M3U, then tidy the library (tags, duplicates, Artist/Album/NN - Title).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "h-3303",
+    "repoName": "claude-music",
+    "repoBranch": "main"
   }
 }
