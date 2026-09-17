@@ -28693,5 +28693,14 @@
     "repoOwner": "just-done",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "Curviate/curviate-plugin": {
+    "name": "curviate",
+    "description": "Claude Code plugin marketplace with 9 skills for driving LinkedIn work through the Curviate CLI: profiles, search, inbox, engagement, network, jobs, and the Sales Navigator and Recruiter surfaces. Ask for an outcome and the matching skill loads on its own.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Curviate",
+    "repoName": "curviate-plugin",
+    "repoBranch": "main"
   }
 }
