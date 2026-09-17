@@ -36239,5 +36239,126 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Li-Evan/Bloom": {
+        "owner": "Li-Evan",
+        "name": "Bloom",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GodModeAI2025/LoopCreatorSkill": {
+        "owner": "GodModeAI2025",
+        "name": "LoopCreatorSkill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "navinramharak-rgb/local-seo": {
+        "owner": "navinramharak-rgb",
+        "name": "local-seo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "navinramharak-rgb/website-audit": {
+        "owner": "navinramharak-rgb",
+        "name": "website-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devrudals/master-of": {
+        "owner": "devrudals",
+        "name": "master-of",
+        "branch": "main",
+        "enabled": true
+    },
+    "why20261/kuaishou-yunying-zhushou": {
+        "owner": "why20261",
+        "name": "kuaishou-yunying-zhushou",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fame-healthscreening/ZD-claude-plugin": {
+        "owner": "fame-healthscreening",
+        "name": "ZD-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "Agulhas-Labs/claude-plugins": {
+        "owner": "Agulhas-Labs",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "junioorosa/claude-sessions": {
+        "owner": "junioorosa",
+        "name": "claude-sessions",
+        "branch": "main",
+        "enabled": true
+    },
+    "shsunmoonlee/transcribe-agent": {
+        "owner": "shsunmoonlee",
+        "name": "transcribe-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RiAnBee/renhua": {
+        "owner": "RiAnBee",
+        "name": "renhua",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MJorgin/preflight-decks": {
+        "owner": "MJorgin",
+        "name": "preflight-decks",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ZhiqingHeyi/asu-resume-forge": {
+        "owner": "ZhiqingHeyi",
+        "name": "asu-resume-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tamianchutkina-gif/sourceplease-skill": {
+        "owner": "tamianchutkina-gif",
+        "name": "sourceplease-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bin19860307-cpu/tester_skill": {
+        "owner": "bin19860307-cpu",
+        "name": "tester_skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "seonhwakei/screenshot-annotator": {
+        "owner": "seonhwakei",
+        "name": "screenshot-annotator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "terry12260201/pumpkin-ink-gold": {
+        "owner": "terry12260201",
+        "name": "pumpkin-ink-gold",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Falahs/site-evaluation": {
+        "owner": "Falahs",
+        "name": "site-evaluation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

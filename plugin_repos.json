@@ -28486,5 +28486,95 @@
     "repoOwner": "TrackIQ-HQ",
     "repoName": "amazon-seller-skills",
     "repoBranch": "main"
+  },
+  "Li-Evan/Bloom": {
+    "name": "Li-Evan/Bloom",
+    "description": "Hire a private AI tutor for anything \u2014 it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude Code skill + self-hostable web app \u00b7 \u4e2d\u6587\u4f18\u5148 \u82cf\u683c\u62c9\u5e95\u5f0f AI \u5bb6\u6559",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Li-Evan",
+    "repoName": "Bloom",
+    "repoBranch": "main"
+  },
+  "navinramharak-rgb/local-seo": {
+    "name": "navinramharak-rgb/local-seo",
+    "description": "Get a local business found in its own city. Tears down the three businesses actually in the map pack field by field, scores you out of 100, takes a dated baseline, and returns an HTML plan: the one thing to fix first,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "navinramharak-rgb",
+    "repoName": "local-seo",
+    "repoBranch": "main"
+  },
+  "navinramharak-rgb/website-audit": {
+    "name": "navinramharak-rgb/website-audit",
+    "description": "Audit any website the way a good agency would. Opens the real site on desktop and phone, scores it out of 100 across seven lenses, and hands back a designed HTML report: the three fixes that matter, every finding quot...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "navinramharak-rgb",
+    "repoName": "website-audit",
+    "repoBranch": "main"
+  },
+  "devrudals/master-of": {
+    "name": "devrudals/master-of",
+    "description": "Universal AI skill & context gateway: keeps rarely-used skills dormant behind domain gates across Claude Code, Antigravity (AGY), Cursor, and any MCP-compatible agent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devrudals",
+    "repoName": "master-of",
+    "repoBranch": "main"
+  },
+  "fame-healthscreening/ZD-claude-plugin": {
+    "name": "fame-healthscreening/ZD-claude-plugin",
+    "description": "Streamline agricultural geospatial engineering with Claude Code agents, skills, and guardrails.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fame-healthscreening",
+    "repoName": "ZD-claude-plugin",
+    "repoBranch": "main"
+  },
+  "Agulhas-Labs/claude-plugins": {
+    "name": "Agulhas-Labs/claude-plugins",
+    "description": "Claude Code plugins from Agulhas Labs: agent orchestration that measures its own cost.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Agulhas-Labs",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "junioorosa/claude-sessions": {
+    "name": "junioorosa/claude-sessions",
+    "description": "Sidebar for your Claude Code sessions: pin, group, search transcripts and reopen any session in a terminal with one click. Zero-token /sessions command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "junioorosa",
+    "repoName": "claude-sessions",
+    "repoBranch": "main"
+  },
+  "shsunmoonlee/transcribe-agent": {
+    "name": "shsunmoonlee/transcribe-agent",
+    "description": "Claude Code / Cowork plugin for transcribe.so \u2014 remote MCP, transcription skills, /transcribe command",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shsunmoonlee",
+    "repoName": "transcribe-agent",
+    "repoBranch": "main"
+  },
+  "tamianchutkina-gif/sourceplease-skill": {
+    "name": "tamianchutkina-gif/sourceplease-skill",
+    "description": "Claude Code skill: a credibility ruler. Rates who says it (A\u2013F) and what is said (1\u20136) separately, so numbers get a weight before they go into a report.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tamianchutkina-gif",
+    "repoName": "sourceplease-skill",
+    "repoBranch": "main"
+  },
+  "seonhwakei/screenshot-annotator": {
+    "name": "seonhwakei/screenshot-annotator",
+    "description": "Annotate screenshots for documentation: region outlines, leader lines and numbered callout badges. Coordinates measured from pixels, leader lines routed without overlap, verified before drawing. PNG output or Figma.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seonhwakei",
+    "repoName": "screenshot-annotator",
+    "repoBranch": "main"
   }
 }
