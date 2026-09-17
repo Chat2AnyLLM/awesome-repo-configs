@@ -23,5 +23,13 @@
     "enabled": true,
     "serverName": "io.github.n3wth/r3",
     "note": "Local Redis memory MCP for AI apps. Official registry: io.github.n3wth/r3. Site: https://r3.n3wth.com. Install: npx @n3wth/r3"
+  },
+  "Curviate/curviate-mcp": {
+    "owner": "Curviate",
+    "name": "curviate-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.curviate/mcp",
+    "note": "Official MCP server for the Curviate API: LinkedIn search, messaging, connections, posts, Sales Navigator, and Recruiter for any MCP client. Thin stdio bridge to a hosted endpoint. Install: npx @curviate/mcp"
   }
 }
