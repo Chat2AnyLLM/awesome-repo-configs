@@ -28585,5 +28585,113 @@
     "repoOwner": "h-3303",
     "repoName": "claude-music",
     "repoBranch": "main"
+  },
+  "hermes-labs-ai/hermes-blind": {
+    "name": "hermes-labs-ai/hermes-blind",
+    "description": "Recovers the original goal of a long Claude Code or Codex session from its first user turn, so you can restate it before continuing \u2014 plus a prompt wrapper that adds evidence and hedging constraints to evaluation prom...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "hermes-blind",
+    "repoBranch": "main"
+  },
+  "TruVerifAI/claude-plugins": {
+    "name": "TruVerifAI/claude-plugins",
+    "description": "Panel Review: a guardian agent for AI coding decisions. Four frontier models review an agent's riskiest diffs and commits, with local review gates it cannot silently skip. Install: npx @truverifai/init",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TruVerifAI",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "manankapoor23/typed-decision": {
+    "name": "manankapoor23/typed-decision",
+    "description": "Give Claude structured decisions: one label from your allowed set with explicit confidence, first-class abstention, and auditable evidence, plus a policy gate that decides when automation is allowed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "manankapoor23",
+    "repoName": "typed-decision",
+    "repoBranch": "main"
+  },
+  "blauwtje/exo": {
+    "name": "blauwtje/exo",
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blauwtje",
+    "repoName": "exo",
+    "repoBranch": "main"
+  },
+  "INGEOTEC/issue-pilot": {
+    "name": "INGEOTEC/issue-pilot",
+    "description": "Turn a list of GitHub issues into one reviewed pull request, unattended: a Claude Code plugin with a deterministic context-clearing plan, on-disk run state, and a usage-window guard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "INGEOTEC",
+    "repoName": "issue-pilot",
+    "repoBranch": "main"
+  },
+  "Bauhaus-InfAU/infau-skill-base": {
+    "name": "Bauhaus-InfAU/infau-skill-base",
+    "description": "Bauhaus-InfAU/infau-skill-base \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Bauhaus-InfAU",
+    "repoName": "infau-skill-base",
+    "repoBranch": "main"
+  },
+  "swaroopsm/skills": {
+    "name": "swaroopsm/skills",
+    "description": "A set of personal Claude Code skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "swaroopsm",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Ebi-lock/work-regulations-check": {
+    "name": "Ebi-lock/work-regulations-check",
+    "description": "\u65e5\u672c\u306e\u5c31\u696d\u898f\u5247\u3092\u52b4\u50cd\u57fa\u6e96\u6cd5\u306a\u3069\u306e\u6cd5\u4ee4\u306b\u7167\u3089\u3057\u3066\u70b9\u691c\u3059\u308b Claude Code \u30d7\u30e9\u30b0\u30a4\u30f3\u3002e-Gov\u6cd5\u4ee4\u691c\u7d22\u3068\u539a\u751f\u52b4\u50cd\u7701\u306e\u8cc7\u6599\u304b\u3089\u6839\u62e0\u3092\u53d6\u5f97\u3057\u307e\u3059\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ebi-lock",
+    "repoName": "work-regulations-check",
+    "repoBranch": "main"
+  },
+  "agencekoeki/Claude-marketing-for-real-estate": {
+    "name": "agencekoeki/Claude-marketing-for-real-estate",
+    "description": "Mallette IA pour agents immobiliers : 5 skills pour Claude qui installent le profil de l'agent, creusent ses clients types, \u00e9crivent ses annonces, pr\u00e9parent ses r\u00e9seaux sociaux et trient ce qui est su de ce qui est su...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agencekoeki",
+    "repoName": "Claude-marketing-for-real-estate",
+    "repoBranch": "main"
+  },
+  "TychynaVova/claude-skills": {
+    "name": "TychynaVova/claude-skills",
+    "description": "Skills for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TychynaVova",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "ryu111/telltale": {
+    "name": "ryu111/telltale",
+    "description": "A live status band for Claude Code \u2014 multiple workflows at a glance, built on function hooks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryu111",
+    "repoName": "telltale",
+    "repoBranch": "main"
+  },
+  "just-done/skills": {
+    "name": "just-done/skills",
+    "description": "Claude Code and Cowork plugin from Just: find a name and a domain for the business you are building, and register it on justdomain.ai",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "just-done",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }

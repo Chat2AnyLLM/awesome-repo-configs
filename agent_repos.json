@@ -5014,5 +5014,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "HABUBUSS/everything-claude-code": {
+    "owner": "HABUBUSS",
+    "name": "everything-claude-code",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

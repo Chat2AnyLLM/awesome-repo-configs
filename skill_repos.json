@@ -36360,5 +36360,121 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "hermes-labs-ai/hermes-blind": {
+        "owner": "hermes-labs-ai",
+        "name": "hermes-blind",
+        "branch": "main",
+        "enabled": true
+    },
+    "TruVerifAI/claude-plugins": {
+        "owner": "TruVerifAI",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "manankapoor23/typed-decision": {
+        "owner": "manankapoor23",
+        "name": "typed-decision",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blauwtje/exo": {
+        "owner": "blauwtje",
+        "name": "exo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "3351666087/wechat-key-macos": {
+        "owner": "3351666087",
+        "name": "wechat-key-macos",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sayam/thai-docx-skill": {
+        "owner": "sayam",
+        "name": "thai-docx-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "manabout-town/cinematic-onepager-skill": {
+        "owner": "manabout-town",
+        "name": "cinematic-onepager-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "manabout-town/naver-blog-skill": {
+        "owner": "manabout-town",
+        "name": "naver-blog-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "xingtu1996/xingtu-skills": {
+        "owner": "xingtu1996",
+        "name": "xingtu-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Bauhaus-InfAU/infau-skill-base": {
+        "owner": "Bauhaus-InfAU",
+        "name": "infau-skill-base",
+        "branch": "main",
+        "enabled": true
+    },
+    "manabout-town/insta-reel-skill": {
+        "owner": "manabout-town",
+        "name": "insta-reel-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "HABUBUSS/everything-claude-code": {
+        "owner": "HABUBUSS",
+        "name": "everything-claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "swaroopsm/skills": {
+        "owner": "swaroopsm",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ebi-lock/work-regulations-check": {
+        "owner": "Ebi-lock",
+        "name": "work-regulations-check",
+        "branch": "main",
+        "enabled": true
+    },
+    "agencekoeki/Claude-marketing-for-real-estate": {
+        "owner": "agencekoeki",
+        "name": "Claude-marketing-for-real-estate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TychynaVova/claude-skills": {
+        "owner": "TychynaVova",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ryu111/telltale": {
+        "owner": "ryu111",
+        "name": "telltale",
+        "branch": "main",
+        "enabled": true
+    },
+    "just-done/skills": {
+        "owner": "just-done",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
