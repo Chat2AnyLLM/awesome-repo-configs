@@ -1,4 +1,11 @@
 {
+    "skillkeel/skillkeel-starter": {
+        "owner": "skillkeel",
+        "name": "skillkeel-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "vaibhavarora14/job-application-agent": {
         "owner": "vaibhavarora14",
         "name": "job-application-agent",
