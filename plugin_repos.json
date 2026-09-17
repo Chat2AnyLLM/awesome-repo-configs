@@ -28765,5 +28765,86 @@
     "repoOwner": "keyvnchristian",
     "repoName": "pixelproof",
     "repoBranch": "main"
+  },
+  "dbhq-uk/trello-skill": {
+    "name": "dbhq-uk/trello-skill",
+    "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool by DBHQ.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dbhq-uk",
+    "repoName": "trello-skill",
+    "repoBranch": "main"
+  },
+  "threadgill-dev/dvd-autorip-skill": {
+    "name": "threadgill-dev/dvd-autorip-skill",
+    "description": "A Claude Code plugin that rips DVDs via MakeMKV, independently identifies content, and corrects Jellyfin metadata.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "threadgill-dev",
+    "repoName": "dvd-autorip-skill",
+    "repoBranch": "main"
+  },
+  "ptshih/fsd": {
+    "name": "ptshih/fsd",
+    "description": "Agent skill that coordinates coding agents from implementation through review and integration \u2014 Herdr tabs, Git worktrees and filesystem handoffs, for Claude Code, Pi and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ptshih",
+    "repoName": "fsd",
+    "repoBranch": "main"
+  },
+  "zeluizr/commente-design-system": {
+    "name": "zeluizr/commente-design-system",
+    "description": "O sistema de marca da fam\u00edlia commente.me: nove marcas, um universo. Plugin do Claude Code com tokens, tipografia Barlow e regras de aplica\u00e7\u00e3o.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zeluizr",
+    "repoName": "commente-design-system",
+    "repoBranch": "main"
+  },
+  "QuintinBotes/review-voice": {
+    "name": "QuintinBotes/review-voice",
+    "description": "A concise, precedent-aware code reviewer for Claude Code. Every finding names a concrete failure mode in 40 words or fewer, ordered worst-first, evidence required \u2014 silence when nothing qualifies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QuintinBotes",
+    "repoName": "review-voice",
+    "repoBranch": "main"
+  },
+  "jburchel/jarvis": {
+    "name": "jburchel/jarvis",
+    "description": "Claude Code adapter for Jarvis (omarchy-jarvis): spoken task summaries, permission alerts, tool narration, /jarvis control",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jburchel",
+    "repoName": "jarvis",
+    "repoBranch": "main"
+  },
+  "Fabian-Galvez/DensePack": {
+    "name": "Fabian-Galvez/DensePack",
+    "description": "Packs text files into small images that an AI model reads for about half the input tokens. Includes a Claude Code plugin, a right-click tool and an HTML app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fabian-Galvez",
+    "repoName": "DensePack",
+    "repoBranch": "main"
+  },
+  "Din0saur5/ocrdeskew-claude-plugin": {
+    "name": "Din0saur5/ocrdeskew-claude-plugin",
+    "description": "Official Claude Code plugin for OCRDeskew \u2014 repair OCR text layers, produce searchable PDFs, clear PDF restrictions, and batch-process in parallel. Runs fully locally.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Din0saur5",
+    "repoName": "ocrdeskew-claude-plugin",
+    "repoBranch": "main"
+  },
+  "damanoreshkan-beep/dream-skill": {
+    "name": "damanoreshkan-beep/dream-skill",
+    "description": "A one-breath awareness primer skill for Claude Code and other agents \u2014 DreamStudio style.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "damanoreshkan-beep",
+    "repoName": "dream-skill",
+    "repoBranch": "main"
   }
 }

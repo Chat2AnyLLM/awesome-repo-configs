@@ -5042,5 +5042,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ptshih/fsd": {
+    "owner": "ptshih",
+    "name": "fsd",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

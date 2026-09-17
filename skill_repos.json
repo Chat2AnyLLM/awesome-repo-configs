@@ -36551,5 +36551,140 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "dbhq-uk/trello-skill": {
+        "owner": "dbhq-uk",
+        "name": "trello-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/outlook-skill": {
+        "owner": "dbhq-uk",
+        "name": "outlook-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fmslutions/harness-audit": {
+        "owner": "fmslutions",
+        "name": "harness-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "threadgill-dev/dvd-autorip-skill": {
+        "owner": "threadgill-dev",
+        "name": "dvd-autorip-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ptshih/fsd": {
+        "owner": "ptshih",
+        "name": "fsd",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dbhq-uk/groupwork-skill": {
+        "owner": "dbhq-uk",
+        "name": "groupwork-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/deskwork-skill": {
+        "owner": "dbhq-uk",
+        "name": "deskwork-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/pennyblack-skill": {
+        "owner": "dbhq-uk",
+        "name": "pennyblack-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/buildwork-skill": {
+        "owner": "dbhq-uk",
+        "name": "buildwork-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/gitview-skill": {
+        "owner": "dbhq-uk",
+        "name": "gitview-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/imager-skill": {
+        "owner": "dbhq-uk",
+        "name": "imager-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/garmin-skill": {
+        "owner": "dbhq-uk",
+        "name": "garmin-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zeluizr/commente-design-system": {
+        "owner": "zeluizr",
+        "name": "commente-design-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "QuintinBotes/review-voice": {
+        "owner": "QuintinBotes",
+        "name": "review-voice",
+        "branch": "main",
+        "enabled": true
+    },
+    "jburchel/jarvis": {
+        "owner": "jburchel",
+        "name": "jarvis",
+        "branch": "main",
+        "enabled": true
+    },
+    "Fabian-Galvez/DensePack": {
+        "owner": "Fabian-Galvez",
+        "name": "DensePack",
+        "branch": "main",
+        "enabled": true
+    },
+    "Din0saur5/ocrdeskew-claude-plugin": {
+        "owner": "Din0saur5",
+        "name": "ocrdeskew-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "damanoreshkan-beep/dream-skill": {
+        "owner": "damanoreshkan-beep",
+        "name": "dream-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EERamos/drive-shared-projects": {
+        "owner": "EERamos",
+        "name": "drive-shared-projects",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DeFroe/craft-timesheet-numbering-correction": {
+        "owner": "DeFroe",
+        "name": "craft-timesheet-numbering-correction",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
