@@ -28702,5 +28702,68 @@
     "repoOwner": "Curviate",
     "repoName": "curviate-plugin",
     "repoBranch": "main"
+  },
+  "AshishKumar4/better-compact": {
+    "name": "AshishKumar4/better-compact",
+    "description": "Staged context pruning for OpenCode, Oh My Pi, pi, and Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AshishKumar4",
+    "repoName": "better-compact",
+    "repoBranch": "main"
+  },
+  "dsatpm/factory-skills": {
+    "name": "dsatpm/factory-skills",
+    "description": "A specialized list of agentic skills that are designed to be mostly harness agnostic. Compatible with Claude Code, Codex, and Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dsatpm",
+    "repoName": "factory-skills",
+    "repoBranch": "main"
+  },
+  "laurentlouk/grimoire": {
+    "name": "laurentlouk/grimoire",
+    "description": "\ud83d\udd2e A spellbook for coding agents: portable Agent Skills, an agent roster, curated memory and a build loop that learns. Claude Code plugin, stack-agnostic.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "laurentlouk",
+    "repoName": "grimoire",
+    "repoBranch": "main"
+  },
+  "SilentMalachite/Soujo": {
+    "name": "SilentMalachite/Soujo",
+    "description": "Interruptible Development and Resumable AI Coding,Low-context development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SilentMalachite",
+    "repoName": "Soujo",
+    "repoBranch": "main"
+  },
+  "explain-like-im-stoned/explain-like-im-stoned": {
+    "name": "explain-like-im-stoned/explain-like-im-stoned",
+    "description": "A free AI plugin for when you're high: one text file for ChatGPT, Claude and Claude Code. One idea at a time, build that one, write the others down, leave a note for the morning.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "explain-like-im-stoned",
+    "repoName": "explain-like-im-stoned",
+    "repoBranch": "master"
+  },
+  "croqui-dev/croqui-mcp": {
+    "name": "croqui-dev/croqui-mcp",
+    "description": "Croqui.dev \u2014 a collaborative design canvas where AI agents write real React screens over MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "croqui-dev",
+    "repoName": "croqui-mcp",
+    "repoBranch": "main"
+  },
+  "keyvnchristian/pixelproof": {
+    "name": "keyvnchristian/pixelproof",
+    "description": "Pixel-exact UI from design references, plus design audits and roasts. An agent skill for Claude Code, Codex and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "keyvnchristian",
+    "repoName": "pixelproof",
+    "repoBranch": "main"
   }
 }

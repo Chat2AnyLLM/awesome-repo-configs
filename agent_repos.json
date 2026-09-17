@@ -5021,5 +5021,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "AlexisBalayre/claude-code-power-config": {
+    "owner": "AlexisBalayre",
+    "name": "claude-code-power-config",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "laurentlouk/grimoire": {
+    "owner": "laurentlouk",
+    "name": "grimoire",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "SilentMalachite/Soujo": {
+    "owner": "SilentMalachite",
+    "name": "Soujo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

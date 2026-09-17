@@ -36476,5 +36476,80 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ymd38/dev-skills": {
+        "owner": "ymd38",
+        "name": "dev-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AlexisBalayre/claude-code-power-config": {
+        "owner": "AlexisBalayre",
+        "name": "claude-code-power-config",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "pro-vibe-coding/pvc-git-commit-message-local": {
+        "owner": "pro-vibe-coding",
+        "name": "pvc-git-commit-message-local",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ferdelamad/book-to-plan": {
+        "owner": "ferdelamad",
+        "name": "book-to-plan",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dsatpm/factory-skills": {
+        "owner": "dsatpm",
+        "name": "factory-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "laurentlouk/grimoire": {
+        "owner": "laurentlouk",
+        "name": "grimoire",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SilentMalachite/Soujo": {
+        "owner": "SilentMalachite",
+        "name": "Soujo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "croqui-dev/croqui-mcp": {
+        "owner": "croqui-dev",
+        "name": "croqui-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "keyvnchristian/pixelproof": {
+        "owner": "keyvnchristian",
+        "name": "pixelproof",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "albegosu/second-brain": {
+        "owner": "albegosu",
+        "name": "second-brain",
+        "branch": "main",
+        "enabled": true
+    },
+    "aariz51/promo-video-skill": {
+        "owner": "aariz51",
+        "name": "promo-video-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
