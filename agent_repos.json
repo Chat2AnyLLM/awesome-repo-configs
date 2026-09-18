@@ -5070,5 +5070,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "codecube01/qa-cube": {
+    "owner": "codecube01",
+    "name": "qa-cube",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "spectomat/spectomat": {
+    "owner": "spectomat",
+    "name": "spectomat",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

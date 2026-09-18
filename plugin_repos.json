@@ -28972,5 +28972,86 @@
     "repoOwner": "Popeye46",
     "repoName": "pwp-plugin",
     "repoBranch": "main"
+  },
+  "tashian/tsm": {
+    "name": "tashian/tsm",
+    "description": "\ud83e\udd2b Tiny Secrets Manager \u2014 lightweight agent secrets vault for macOS with Touch ID",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tashian",
+    "repoName": "tsm",
+    "repoBranch": "main"
+  },
+  "padosoft/skills": {
+    "name": "padosoft/skills",
+    "description": "A collection of agents skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "padosoft",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "automindz-solutions/hyreflow-plugins": {
+    "name": "automindz-solutions/hyreflow-plugins",
+    "description": "Recruitment automation skills and MCP server for Claude, Codex, Cursor and other agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "automindz-solutions",
+    "repoName": "hyreflow-plugins",
+    "repoBranch": "main"
+  },
+  "codecube01/qa-cube": {
+    "name": "codecube01/qa-cube",
+    "description": "QA (Web, API & AQA) Agents Team Claude Harness Plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codecube01",
+    "repoName": "qa-cube",
+    "repoBranch": "main"
+  },
+  "getexcited/claude-plugins": {
+    "name": "getexcited/claude-plugins",
+    "description": "Claude Code plugins by Stefan Trockel: agent verification, control and observability.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getexcited",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "umitsu-tech/claude-code-discord-bot": {
+    "name": "umitsu-tech/claude-code-discord-bot",
+    "description": "Unofficial Claude Code Discord plugin with context tracking, session clearing, bot status, server management, and custom slash commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "umitsu-tech",
+    "repoName": "claude-code-discord-bot",
+    "repoBranch": "main"
+  },
+  "duqaXxX/sidepad": {
+    "name": "duqaXxX/sidepad",
+    "description": "A read-only side pane for Claude Code in the terminal: file tree, code and Markdown viewer, and ask-about-a-selection.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "duqaXxX",
+    "repoName": "sidepad",
+    "repoBranch": "main"
+  },
+  "spectomat/spectomat": {
+    "name": "spectomat/spectomat",
+    "description": "Spec-driven autonomous development plugin for Claude Code: drop a wish, run one command, get spec \u2192 plan \u2192 tested, committed code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spectomat",
+    "repoName": "spectomat",
+    "repoBranch": "main"
+  },
+  "jchen622/sourced-writing": {
+    "name": "jchen622/sourced-writing",
+    "description": "Provenance recorded at write time, never reconstructed. Catches values rounded out of their source, quotes matched on digits alone, claims that assert more than their quote supports, and author-entered values never so...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jchen622",
+    "repoName": "sourced-writing",
+    "repoBranch": "main"
   }
 }

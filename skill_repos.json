@@ -36889,5 +36889,134 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "roedyrustam/vibes-plug": {
+        "owner": "roedyrustam",
+        "name": "vibes-plug",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tashian/tsm": {
+        "owner": "tashian",
+        "name": "tsm",
+        "branch": "main",
+        "enabled": true
+    },
+    "modem-dev/ossrules": {
+        "owner": "modem-dev",
+        "name": "ossrules",
+        "branch": "main",
+        "enabled": true
+    },
+    "AdilShamim8/claude-research-excellence": {
+        "owner": "AdilShamim8",
+        "name": "claude-research-excellence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "padosoft/skills": {
+        "owner": "padosoft",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vicfromthegtmclub/gtmskills": {
+        "owner": "vicfromthegtmclub",
+        "name": "gtmskills",
+        "branch": "main",
+        "enabled": true
+    },
+    "coldteadotai/abide": {
+        "owner": "coldteadotai",
+        "name": "abide",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "automindz-solutions/hyreflow-plugins": {
+        "owner": "automindz-solutions",
+        "name": "hyreflow-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "codecube01/qa-cube": {
+        "owner": "codecube01",
+        "name": "qa-cube",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MD-Stellr/website-reel": {
+        "owner": "MD-Stellr",
+        "name": "website-reel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/headwork-skill": {
+        "owner": "dbhq-uk",
+        "name": "headwork-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Leksgg/claude-skills": {
+        "owner": "Leksgg",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FridayKoi/lessons-md": {
+        "owner": "FridayKoi",
+        "name": "lessons-md",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fortun8te/next-feature": {
+        "owner": "fortun8te",
+        "name": "next-feature",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "umitsu-tech/claude-code-discord-bot": {
+        "owner": "umitsu-tech",
+        "name": "claude-code-discord-bot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "spectomat/spectomat": {
+        "owner": "spectomat",
+        "name": "spectomat",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bunlongheng/repo-audit": {
+        "owner": "bunlongheng",
+        "name": "repo-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jchen622/sourced-writing": {
+        "owner": "jchen622",
+        "name": "sourced-writing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrackIQ-HQ/trackiq-amazon-listing-monitor": {
+        "owner": "TrackIQ-HQ",
+        "name": "trackiq-amazon-listing-monitor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
