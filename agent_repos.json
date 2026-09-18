@@ -5049,5 +5049,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mnguyenht/bld-package": {
+    "owner": "mnguyenht",
+    "name": "bld-package",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

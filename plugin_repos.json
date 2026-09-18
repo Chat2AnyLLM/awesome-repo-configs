@@ -28855,5 +28855,86 @@
     "repoOwner": "damanoreshkan-beep",
     "repoName": "dream-skill",
     "repoBranch": "main"
+  },
+  "thrixel/build-world": {
+    "name": "thrixel/build-world",
+    "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thrixel",
+    "repoName": "build-world",
+    "repoBranch": "main"
+  },
+  "GhalebDweikat/winnow": {
+    "name": "GhalebDweikat/winnow",
+    "description": "A calibrated context sieve for Claude Code: every tool result is judged by a System One model before it enters context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GhalebDweikat",
+    "repoName": "winnow",
+    "repoBranch": "main"
+  },
+  "cilidinezy-commits/doc-harness": {
+    "name": "cilidinezy-commits/doc-harness",
+    "description": "Document-based project control for AI-human collaboration: an append-only event log plus a generated status projection, so any agent can take over a long-running project from files alone. Optional deterministic guard...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cilidinezy-commits",
+    "repoName": "doc-harness",
+    "repoBranch": "master"
+  },
+  "zyonlab/TestPilot": {
+    "name": "zyonlab/TestPilot",
+    "description": "Turn requirement docs or explorations of a web app into human-reviewed end-to-end UI tests (Midscene) whose verdicts are read from the screen. Planned by Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zyonlab",
+    "repoName": "TestPilot",
+    "repoBranch": "main"
+  },
+  "mkebiclioglu/formlabs-claude-skills": {
+    "name": "mkebiclioglu/formlabs-claude-skills",
+    "description": "Print on your Formlabs printer from Claude Code. Plugin marketplace: MCP server + print-prep skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mkebiclioglu",
+    "repoName": "formlabs-claude-skills",
+    "repoBranch": "main"
+  },
+  "myiam-io/myiam-cli-plugin": {
+    "name": "myiam-io/myiam-cli-plugin",
+    "description": "AI coding agent plugin for myiam-cli \u2014 MyIAM service administration from Claude Code, Codex CLI, and Gemini CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "myiam-io",
+    "repoName": "myiam-cli-plugin",
+    "repoBranch": "main"
+  },
+  "stack-wuh/shadow-dev-workflow": {
+    "name": "stack-wuh/shadow-dev-workflow",
+    "description": "\u81ea\u5305\u542b\u7684 Knowledge \u9a71\u52a8\u5f00\u53d1\u5de5\u4f5c\u6d41\uff08ZCode \u63d2\u4ef6\uff09\uff1apropose \u2192 apply \u2192 review \u2192 release \u2192 archive \u4e94\u9636\u6bb5\u95ed\u73af\uff0c\u914d\u5957\u8de8\u9879\u76ee\u89c4\u8303\u3001\u77e5\u8bc6\u5361\u7247\u8def\u7531\u4e0e\u786e\u5b9a\u6027 CLI\uff0c\u4e00\u4e2a\u53d8\u66f4\u4e00\u4e2a brief\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stack-wuh",
+    "repoName": "shadow-dev-workflow",
+    "repoBranch": "main"
+  },
+  "starry-cpu/aar-harness": {
+    "name": "starry-cpu/aar-harness",
+    "description": "Automated research harness skill: K parallel AI researchers, pre-registration, held-out generalization checks, cheating audit",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "starry-cpu",
+    "repoName": "aar-harness",
+    "repoBranch": "main"
+  },
+  "millerlai/claude-all-in-one": {
+    "name": "millerlai/claude-all-in-one",
+    "description": "A Claude Code plugin that carries one feature through six gated SDLC stages (intake, discover, design, build, verify, ship) with zero-token preflight checks, cost-tiered subagents, a four-lens diff review, an append-o...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "millerlai",
+    "repoName": "claude-all-in-one",
+    "repoBranch": "main"
   }
 }

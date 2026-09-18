@@ -36693,5 +36693,138 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "thrixel/build-world": {
+        "owner": "thrixel",
+        "name": "build-world",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GhalebDweikat/winnow": {
+        "owner": "GhalebDweikat",
+        "name": "winnow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cilidinezy-commits/doc-harness": {
+        "owner": "cilidinezy-commits",
+        "name": "doc-harness",
+        "branch": "master",
+        "enabled": true
+    },
+    "getedgehq/skills": {
+        "owner": "getedgehq",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Huanyu-Hibiki/Huanyu-Skills": {
+        "owner": "Huanyu-Hibiki",
+        "name": "Huanyu-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Xindaan/claude-skills": {
+        "owner": "Xindaan",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mnguyenht/bld-package": {
+        "owner": "mnguyenht",
+        "name": "bld-package",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zyonlab/TestPilot": {
+        "owner": "zyonlab",
+        "name": "TestPilot",
+        "branch": "main",
+        "enabled": true
+    },
+    "lvk901/chaoxing-pan-download": {
+        "owner": "lvk901",
+        "name": "chaoxing-pan-download",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SheldonZhuang/housing-sentinel-ai": {
+        "owner": "SheldonZhuang",
+        "name": "housing-sentinel-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Xelanidog/claude-post": {
+        "owner": "Xelanidog",
+        "name": "claude-post",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "YiweiCreates/claude-skills": {
+        "owner": "YiweiCreates",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mkebiclioglu/formlabs-claude-skills": {
+        "owner": "mkebiclioglu",
+        "name": "formlabs-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "why20261/tiktok-yunying-zhushou": {
+        "owner": "why20261",
+        "name": "tiktok-yunying-zhushou",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/tiktok-skill": {
+        "owner": "why20261",
+        "name": "tiktok-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "riseshinee/superclaude-springboot": {
+        "owner": "riseshinee",
+        "name": "superclaude-springboot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "myiam-io/myiam-cli-plugin": {
+        "owner": "myiam-io",
+        "name": "myiam-cli-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stack-wuh/shadow-dev-workflow": {
+        "owner": "stack-wuh",
+        "name": "shadow-dev-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "starry-cpu/aar-harness": {
+        "owner": "starry-cpu",
+        "name": "aar-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "millerlai/claude-all-in-one": {
+        "owner": "millerlai",
+        "name": "claude-all-in-one",
+        "branch": "main",
+        "enabled": true
     }
 }
