@@ -36826,5 +36826,68 @@
         "name": "claude-all-in-one",
         "branch": "main",
         "enabled": true
+    },
+    "radekamirko/C.R.I.S.P": {
+        "owner": "radekamirko",
+        "name": "C.R.I.S.P",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "AlexisBalayre/claude-code-config": {
+        "owner": "AlexisBalayre",
+        "name": "claude-code-config",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "husiyi2018-lang/skill-agg-creative-report": {
+        "owner": "husiyi2018-lang",
+        "name": "skill-agg-creative-report",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/xiaohongshu-market-insight": {
+        "owner": "why20261",
+        "name": "xiaohongshu-market-insight",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/kuaishou-market-insight": {
+        "owner": "why20261",
+        "name": "kuaishou-market-insight",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CodePulseHQ/babysit-prs-plugin": {
+        "owner": "CodePulseHQ",
+        "name": "babysit-prs-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Popeye46/pwp-plugin": {
+        "owner": "Popeye46",
+        "name": "pwp-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "L01nki1/extend-slides": {
+        "owner": "L01nki1",
+        "name": "extend-slides",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lukeliu95/ra2-commander": {
+        "owner": "lukeliu95",
+        "name": "ra2-commander",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

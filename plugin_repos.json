@@ -28936,5 +28936,41 @@
     "repoOwner": "millerlai",
     "repoName": "claude-all-in-one",
     "repoBranch": "main"
+  },
+  "radekamirko/C.R.I.S.P": {
+    "name": "radekamirko/C.R.I.S.P",
+    "description": "CRISP \u2014 The missing layer between vibe coding and building something people actually want.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "radekamirko",
+    "repoName": "C.R.I.S.P",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/plugins": {
+    "name": "hermes-labs-ai/plugins",
+    "description": "Canonical generated plugin catalog for Claude Code, Codex, GitHub Copilot, and portable Agent Plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "CodePulseHQ/babysit-prs-plugin": {
+    "name": "CodePulseHQ/babysit-prs-plugin",
+    "description": "Claude Code plugin: babysit PRs for review comments/CI failures, with session auto-naming",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CodePulseHQ",
+    "repoName": "babysit-prs-plugin",
+    "repoBranch": "main"
+  },
+  "Popeye46/pwp-plugin": {
+    "name": "Popeye46/pwp-plugin",
+    "description": "Automate disciplined software workflows with 11 triggered skills for debugging, reviewing, auditing, refactoring, and testing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Popeye46",
+    "repoName": "pwp-plugin",
+    "repoBranch": "main"
   }
 }
