@@ -37018,5 +37018,113 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "karozi/awesome-product-management-skills": {
+        "owner": "karozi",
+        "name": "awesome-product-management-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "letsloose501/skill-quality-suite": {
+        "owner": "letsloose501",
+        "name": "skill-quality-suite",
+        "branch": "main",
+        "enabled": true
+    },
+    "mypropper/skills": {
+        "owner": "mypropper",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bitranox/lsdsk": {
+        "owner": "bitranox",
+        "name": "lsdsk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brianschroeder/simple-agent-memory": {
+        "owner": "brianschroeder",
+        "name": "simple-agent-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sipemu/pyfda": {
+        "owner": "sipemu",
+        "name": "pyfda",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "asaf-shitrit/ai-native-sdlc-skills": {
+        "owner": "asaf-shitrit",
+        "name": "ai-native-sdlc-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "lin113311221/savault-skills": {
+        "owner": "lin113311221",
+        "name": "savault-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ctxrs/agentpostage": {
+        "owner": "ctxrs",
+        "name": "agentpostage",
+        "branch": "main",
+        "enabled": true
+    },
+    "moneymikeMD/night-watchman": {
+        "owner": "moneymikeMD",
+        "name": "night-watchman",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "reif-y/Maxx": {
+        "owner": "reif-y",
+        "name": "Maxx",
+        "branch": "main",
+        "enabled": true
+    },
+    "atarico/fix-cv-find-job-skill": {
+        "owner": "atarico",
+        "name": "fix-cv-find-job-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Brawl345/browser-tools": {
+        "owner": "Brawl345",
+        "name": "browser-tools",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TheRealF/niente-sbobba": {
+        "owner": "TheRealF",
+        "name": "niente-sbobba",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AviOfLagos/ava": {
+        "owner": "AviOfLagos",
+        "name": "ava",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TomRaudys/no-sandwich": {
+        "owner": "TomRaudys",
+        "name": "no-sandwich",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -5084,5 +5084,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "moneymikeMD/night-watchman": {
+    "owner": "moneymikeMD",
+    "name": "night-watchman",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "AviOfLagos/ava": {
+    "owner": "AviOfLagos",
+    "name": "ava",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

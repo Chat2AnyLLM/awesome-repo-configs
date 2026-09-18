@@ -29053,5 +29053,113 @@
     "repoOwner": "jchen622",
     "repoName": "sourced-writing",
     "repoBranch": "main"
+  },
+  "kunchenguid/compact-adviser": {
+    "name": "kunchenguid/compact-adviser",
+    "description": "\"Work appears completed or recorded. Run /compact to save tokens.\"",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kunchenguid",
+    "repoName": "compact-adviser",
+    "repoBranch": "main"
+  },
+  "letsloose501/skill-quality-suite": {
+    "name": "letsloose501/skill-quality-suite",
+    "description": "Quality, security, compatibility and publishing toolkit for AI Agent Skills - lint and validate SKILL.md, scan for secrets and prompt injection, check portability across Claude Code, Codex, Cursor and Gemini CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "letsloose501",
+    "repoName": "skill-quality-suite",
+    "repoBranch": "main"
+  },
+  "mypropper/skills": {
+    "name": "mypropper/skills",
+    "description": "Propper shared agent skills for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mypropper",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "bitranox/lsdsk": {
+    "name": "bitranox/lsdsk",
+    "description": "Groups disks by the controller they hang off, grades every link against what both ends could do, reads SMART wear and error counters, and reports what is worth acting on. Linux and Windows, no subprocesses, no network.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitranox",
+    "repoName": "lsdsk",
+    "repoBranch": "main"
+  },
+  "brianschroeder/simple-agent-memory": {
+    "name": "brianschroeder/simple-agent-memory",
+    "description": "Repo-level agent memory for Claude Code and AGENTS.md-compatible tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brianschroeder",
+    "repoName": "simple-agent-memory",
+    "repoBranch": "main"
+  },
+  "sipemu/pyfda": {
+    "name": "sipemu/pyfda",
+    "description": "Python bindings for fdars-core \u2013 Functional Data Analysis in Rust",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sipemu",
+    "repoName": "pyfda",
+    "repoBranch": "main"
+  },
+  "asaf-shitrit/ai-native-sdlc-skills": {
+    "name": "asaf-shitrit/ai-native-sdlc-skills",
+    "description": "Unofficial Claude Code skills adapted from Anthropic's The AI-Native SDLC playbook \u2014 the committed-artifact chain from intent.md through spec, plan, self-verifying build, agentic review, and a closed maintenance loop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asaf-shitrit",
+    "repoName": "ai-native-sdlc-skills",
+    "repoBranch": "main"
+  },
+  "ctxrs/agentpostage": {
+    "name": "ctxrs/agentpostage",
+    "description": "Let your agents send physical mail. Skills, CLI, MCP and API setup for AgentPostage.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ctxrs",
+    "repoName": "agentpostage",
+    "repoBranch": "main"
+  },
+  "moneymikeMD/night-watchman": {
+    "name": "moneymikeMD/night-watchman",
+    "description": "Claude Code plugin for unattended operations: tickets as dispatch contracts, self-starting sessions, and cheap models doing the reading while the expensive one decides.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moneymikeMD",
+    "repoName": "night-watchman",
+    "repoBranch": "main"
+  },
+  "reif-y/Maxx": {
+    "name": "reif-y/Maxx",
+    "description": "All your Claude accounts in one place. A statusline that says how long the week lasts at the rate you're burning it, plus /fenix to carry a thread across the /clear that empties it. Local by default \u2014 no account, no s...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "reif-y",
+    "repoName": "Maxx",
+    "repoBranch": "main"
+  },
+  "atarico/fix-cv-find-job-skill": {
+    "name": "atarico/fix-cv-find-job-skill",
+    "description": "Fixes your CV and finds you a job. A Claude skill that audits your resume like a recruiter, rewrites it ATS-ready, searches job boards, applies for you and triages your inbox. Any industry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atarico",
+    "repoName": "fix-cv-find-job-skill",
+    "repoBranch": "main"
+  },
+  "AviOfLagos/ava": {
+    "name": "AviOfLagos/ava",
+    "description": "One command that runs a software project \u2014 triages issues, reviews PRs, recovers CI, watches Slack, and gates production releases. Product-agnostic Claude Code skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AviOfLagos",
+    "repoName": "ava",
+    "repoBranch": "main"
   }
 }
