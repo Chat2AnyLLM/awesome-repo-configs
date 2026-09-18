@@ -28586,13 +28586,13 @@
     "repoName": "screenshot-annotator",
     "repoBranch": "main"
   },
-  "h-3303/claude-music": {
-    "name": "claude-music",
-    "description": "Claude Code plugin and marketplace: import a streaming playlist export, resolve it against MusicBrainz, diff it against your local library, fetch the missing tracks through your own Nicotine+ (Soulseek) client with your approval, write an M3U, then tidy the library (tags, duplicates, Artist/Album/NN - Title).",
+  "h-3303/flacli": {
+    "name": "flacli",
+    "description": "Claude Code plugin and marketplace over the flacli command (CLI + MCP): name songs and albums or import a playlist from TIDAL, Deezer, YouTube Music or an export file, resolve it against MusicBrainz, diff it against your local library, fetch the missing tracks through your own Nicotine+ (Soulseek) client, file and tag them, write an M3U, tidy the library, and fill artist bios, pictures and album covers. Successor to h-3303/claude-music, which is frozen.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "h-3303",
-    "repoName": "claude-music",
+    "repoName": "flacli",
     "repoBranch": "main"
   },
   "hermes-labs-ai/hermes-blind": {
