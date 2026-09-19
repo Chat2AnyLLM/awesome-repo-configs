@@ -37336,5 +37336,86 @@
         "name": "oss-discovery",
         "branch": "main",
         "enabled": true
+    },
+    "heyixuan2/bambu-studio-ai": {
+        "owner": "heyixuan2",
+        "name": "bambu-studio-ai",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "northraystudio/maruda": {
+        "owner": "northraystudio",
+        "name": "maruda",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilyautov/inn-check-ru": {
+        "owner": "ilyautov",
+        "name": "inn-check-ru",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Cunzhang0703/req-interview-skill": {
+        "owner": "Cunzhang0703",
+        "name": "req-interview-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yutna/gherkin-specification-skills": {
+        "owner": "yutna",
+        "name": "gherkin-specification-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "IonDen/skills": {
+        "owner": "IonDen",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kolezka/self-improvement-loop": {
+        "owner": "kolezka",
+        "name": "self-improvement-loop",
+        "branch": "main",
+        "enabled": true
+    },
+    "agentleFS/plugins": {
+        "owner": "agentleFS",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "yuekaiii001-create/reverse-search": {
+        "owner": "yuekaiii001-create",
+        "name": "reverse-search",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lolu1032/taperun": {
+        "owner": "lolu1032",
+        "name": "taperun",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "corteshvictor/vhc-inversiones-acciones": {
+        "owner": "corteshvictor",
+        "name": "vhc-inversiones-acciones",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gbechtold/sprich-skill": {
+        "owner": "gbechtold",
+        "name": "sprich-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

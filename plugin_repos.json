@@ -29359,5 +29359,59 @@
     "repoOwner": "shoei03",
     "repoName": "oss-discovery",
     "repoBranch": "main"
+  },
+  "northraystudio/maruda": {
+    "name": "northraystudio/maruda",
+    "description": "Claude Code skills & full project harness for AI-assisted development \u2014 continuous improvement cycle (evaluate \u2192 issue \u2192 plan \u2192 resolve \u2192 verify), strict CI + security gates (gitleaks/semgrep/trivy), guard hooks, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "northraystudio",
+    "repoName": "maruda",
+    "repoBranch": "main"
+  },
+  "ilyautov/inn-check-ru": {
+    "name": "ilyautov/inn-check-ru",
+    "description": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u043e\u043d\u0442\u0440\u0430\u0433\u0435\u043d\u0442\u0430 \u043f\u043e \u0418\u041d\u041d \u0432 AI-\u0430\u0433\u0435\u043d\u0442\u0435: \u0441\u0432\u0435\u0442\u043e\u0444\u043e\u0440 \u0440\u0438\u0441\u043a\u0430 \u043f\u043e \u0440\u0435\u0435\u0441\u0442\u0440\u0430\u043c \u0415\u0413\u0420\u042e\u041b/\u0424\u0421\u0421\u041f/\u0441\u0443\u0434\u043e\u0432/\u0431\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432, \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u0430\u044f \u043f\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u044f \u043a\u043e\u0434\u043e\u043c, \u0433\u0440\u0430\u0444 \u0441\u0432\u044f\u0437\u0435\u0439 \u0438 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0438 \u0434\u0440\u043e\u0431\u043b\u0435\u043d\u0438\u044f, \u0441\u0430\u043d\u043a\u0446\u0438\u0438 \u0420\u0424\u041c/OFAC/EU \u043e\u0444\u043b\u0430\u0439\u043d | Counterparty due-diligence by...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilyautov",
+    "repoName": "inn-check-ru",
+    "repoBranch": "main"
+  },
+  "yutna/gherkin-specification-skills": {
+    "name": "yutna/gherkin-specification-skills",
+    "description": "Agent Skills that turn requirements into readable Gherkin and keep the suite trustworthy. For Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yutna",
+    "repoName": "gherkin-specification-skills",
+    "repoBranch": "main"
+  },
+  "IonDen/skills": {
+    "name": "IonDen/skills",
+    "description": "Agent skills (SKILL.md) for Claude Code and OpenAI Codex. agent-optimiser audits Claude Code subagents: tool allowlists, prompt bloat and launch token cost.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IonDen",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "agentleFS/plugins": {
+    "name": "agentleFS/plugins",
+    "description": "agentleFS plugins for Claude Code and Codex: connect your agent to permissioned context over MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agentleFS",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "yuekaiii001-create/reverse-search": {
+    "name": "yuekaiii001-create/reverse-search",
+    "description": "\u628a\u300c\u5e2e\u6211\u627e X\u300d\u53cd\u8f6c\u6210\u300c\u8c01\u624b\u4e0a\u5df2\u7ecf\u6709 X\u3001\u800c\u4e14\u6b63\u5728\u4e3a\u5b83\u53d1\u6101\u300d\uff0c\u4ece\u800c\u7ed5\u5f00\u4e2d\u4ecb\u3001\u5e7f\u544a\u548c\u540c\u8d28\u5316\u7ade\u4e89\u3002\u4e00\u4e2a Claude Code \u6280\u80fd\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yuekaiii001-create",
+    "repoName": "reverse-search",
+    "repoBranch": "main"
   }
 }
