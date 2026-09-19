@@ -29413,5 +29413,77 @@
     "repoOwner": "yuekaiii001-create",
     "repoName": "reverse-search",
     "repoBranch": "main"
+  },
+  "coupler-io/skills": {
+    "name": "coupler-io/skills",
+    "description": "AI agent skills for marketing, sales, finance, ecommerce, PPC, and reporting analysis with live Coupler.io data.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coupler-io",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "24601/Augustus": {
+    "name": "24601/Augustus",
+    "description": "Agent skill: design judgment-assisted systems with TypeSafe Jev (System One). Maps Choice/Score/Noul onto decision theory, reranking, and routing. Composition algebra, question design, validation gates. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "24601",
+    "repoName": "Augustus",
+    "repoBranch": "main"
+  },
+  "AL-JANEF/janef-forge": {
+    "name": "AL-JANEF/janef-forge",
+    "description": "JANEF Forge \u2014 engineering discipline, deterministic capability routing, verification, security, and context efficiency for AI coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AL-JANEF",
+    "repoName": "janef-forge",
+    "repoBranch": "main"
+  },
+  "Ed3Design/ed3design-skill-bundles": {
+    "name": "Ed3Design/ed3design-skill-bundles",
+    "description": "Claude Code skill bundles for software engineering: 56 skills + 5 Python tools + 6 hooks + 4 sub-agents across 6 thematic plugins (token-savers, code-quality, planning-disciplines, async-forensik, schema-discipline, s...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ed3Design",
+    "repoName": "ed3design-skill-bundles",
+    "repoBranch": "main"
+  },
+  "kywrl/cc-plugins": {
+    "name": "kywrl/cc-plugins",
+    "description": "Claude Code \u5b9e\u7528\u63d2\u4ef6\u96c6\u5408 \u2014\u2014 tps-watch: \u5b9e\u65f6\u76d1\u63a7\u8f93\u51fa\u901f\u5ea6 (tok/s)\u3002\u96f6\u4f9d\u8d56\u3001\u7eaf\u672c\u5730\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kywrl",
+    "repoName": "cc-plugins",
+    "repoBranch": "main"
+  },
+  "alsoleg89/jev-guard": {
+    "name": "alsoleg89/jev-guard",
+    "description": "Claude Code plugin: a 3-cent bouncer for your agent's shell. Jev typed probabilities auto-allow routine commands, deny destructive ones, and flag prompt injection in tool results.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alsoleg89",
+    "repoName": "jev-guard",
+    "repoBranch": "main"
+  },
+  "jessebldr/clear-claude": {
+    "name": "jessebldr/clear-claude",
+    "description": "Clear Claude \u2014 a Claude Code plugin marketplace. Answer-first output style, honest evals, zero config surgery.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jessebldr",
+    "repoName": "clear-claude",
+    "repoBranch": "main"
+  },
+  "tzzs/apple-design-skill": {
+    "name": "tzzs/apple-design-skill",
+    "description": "Agent Skill for Apple's Human Interface Guidelines \u2014 design reference for iOS/iPadOS/macOS/watchOS/visionOS. Works with Claude Code, Codex, Cursor & more via skills.sh.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tzzs",
+    "repoName": "apple-design-skill",
+    "repoBranch": "main"
   }
 }

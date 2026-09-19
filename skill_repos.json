@@ -37424,5 +37424,75 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "coupler-io/skills": {
+        "owner": "coupler-io",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "24601/Augustus": {
+        "owner": "24601",
+        "name": "Augustus",
+        "branch": "main",
+        "enabled": true
+    },
+    "jay-nair-builds/foundry": {
+        "owner": "jay-nair-builds",
+        "name": "foundry",
+        "branch": "main",
+        "enabled": true
+    },
+    "AL-JANEF/janef-forge": {
+        "owner": "AL-JANEF",
+        "name": "janef-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gricyk/claude-skill-eu-web-compliance": {
+        "owner": "gricyk",
+        "name": "claude-skill-eu-web-compliance",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "blur3hq/codebase-vault-docs": {
+        "owner": "blur3hq",
+        "name": "codebase-vault-docs",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ed3Design/ed3design-skill-bundles": {
+        "owner": "Ed3Design",
+        "name": "ed3design-skill-bundles",
+        "branch": "main",
+        "enabled": true
+    },
+    "quanpersie2001/pulse": {
+        "owner": "quanpersie2001",
+        "name": "pulse",
+        "branch": "main",
+        "enabled": true
+    },
+    "sdvsignal/kit-claude-code-starter": {
+        "owner": "sdvsignal",
+        "name": "kit-claude-code-starter",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "jessebldr/clear-claude": {
+        "owner": "jessebldr",
+        "name": "clear-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "tzzs/apple-design-skill": {
+        "owner": "tzzs",
+        "name": "apple-design-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
