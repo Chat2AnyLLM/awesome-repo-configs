@@ -1,4 +1,11 @@
 {
+    "louis030195/hyperconsciousness": {
+        "owner": "louis030195",
+        "name": "hyperconsciousness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "skillkeel/skillkeel-starter": {
         "owner": "skillkeel",
         "name": "skillkeel-starter",
