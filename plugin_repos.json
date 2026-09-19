@@ -29161,5 +29161,113 @@
     "repoOwner": "AviOfLagos",
     "repoName": "ava",
     "repoBranch": "main"
+  },
+  "tronghieu/agent-skills": {
+    "name": "tronghieu/agent-skills",
+    "description": "Method-driven agent skills for knowledge work: strategy, research, critical thinking, data analysis, docs, slides. Works with Claude Code, Codex, Cursor and any agentskills.io-compatible agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tronghieu",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "tykisgod/quick-question": {
+    "name": "tykisgod/quick-question",
+    "description": "The control plane for game-dev agents \u2014 close the loop with verified compile, test, and cross-model review across Unity, Godot, Unreal, and S&box. Lifecycle-aware /qq:go routing, 26 /qq:* slash commands. Claude Code-f...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tykisgod",
+    "repoName": "quick-question",
+    "repoBranch": "main"
+  },
+  "costajohnt/oss-scout": {
+    "name": "costajohnt/oss-scout",
+    "description": "Find open source issues personalized to your contribution history. Three-strategy search, deep vetting, and viability scoring.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "costajohnt",
+    "repoName": "oss-scout",
+    "repoBranch": "main"
+  },
+  "JaimeJunr/keyless-studio": {
+    "name": "JaimeJunr/keyless-studio",
+    "description": "Keyless visual generation for Claude Code \u2014 images, pixel-art sprites & sheets, PPTX decks, social creatives, site visuals. No OPENAI_API_KEY: routes through your existing Codex or Grok subscription via MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JaimeJunr",
+    "repoName": "keyless-studio",
+    "repoBranch": "main"
+  },
+  "humeicw/dirty-work": {
+    "name": "humeicw/dirty-work",
+    "description": "Stop context rot. Your main agent hands off the digging - searches, logs, whole files - and gets back only the conclusions its current task needs. Each job goes to the smallest model tier that can do it well, so you b...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "humeicw",
+    "repoName": "dirty-work",
+    "repoBranch": "main"
+  },
+  "dbhq-uk/atlassian-skill": {
+    "name": "dbhq-uk/atlassian-skill",
+    "description": "Jira and Confluence skill for Claude Code and Codex - raise and read issues after checking the project key, issue type and required fields, and search, read, create and update pages. REST API and an API token, no MCP...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dbhq-uk",
+    "repoName": "atlassian-skill",
+    "repoBranch": "main"
+  },
+  "minner-fun/ipure-skills": {
+    "name": "minner-fun/ipure-skills",
+    "description": "Agent Skills for checking IP purity & proxy quality \u2014 score, residential vs datacenter, proxy/VPN/Tor, blocklists, suitability for ChatGPT, X sign-up, streaming, gaming, e-commerce. Free IPure API, no key. | IP \u7eaf\u51c0\u5ea6\u68c0\u6d4b\u6280\u80fd",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "minner-fun",
+    "repoName": "ipure-skills",
+    "repoBranch": "main"
+  },
+  "FOR-CAST/ai_workflows": {
+    "name": "FOR-CAST/ai_workflows",
+    "description": "Claude Code plugins for R research projects: guardrails, skills and review agents for targets pipelines, SpaDES, LANDIS-II, geospatial work and Quarto reporting.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FOR-CAST",
+    "repoName": "ai_workflows",
+    "repoBranch": "main"
+  },
+  "Tileward-com/tileward-claude-marketplace": {
+    "name": "Tileward-com/tileward-claude-marketplace",
+    "description": "Claude Code plugin marketplace for Tileward: a hook that refuses off-policy prompts before the model sees them, and a hosted MCP server that recalls only the relevant slice of a long conversation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tileward-com",
+    "repoName": "tileward-claude-marketplace",
+    "repoBranch": "main"
+  },
+  "Metamorfiles/plugin": {
+    "name": "Metamorfiles/plugin",
+    "description": "Metamorfiles Studio plugin for Claude, Codex, Cursor, Gemini and Grok: on-brand social posts, ads and variants, rendered on your computer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Metamorfiles",
+    "repoName": "plugin",
+    "repoBranch": "dev"
+  },
+  "mkritter3/codex-paired-superpowers": {
+    "name": "mkritter3/codex-paired-superpowers",
+    "description": "Claude Code plugin for multi-agent, cross-model software engineering: Claude pairs with Codex (and optionally Gemini) to brainstorm, plan, implement and review, and nothing ships until every reviewer approves the same...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mkritter3",
+    "repoName": "codex-paired-superpowers",
+    "repoBranch": "main"
+  },
+  "rafaelrabel0/claude-session-init": {
+    "name": "rafaelrabel0/claude-session-init",
+    "description": "Skill de protocolo permanente de sessao para Claude Code: roteamento de skill/modelo, Diretrizes Karpathy e Registro de Conhecimento no Obsidian",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rafaelrabel0",
+    "repoName": "claude-session-init",
+    "repoBranch": "main"
   }
 }

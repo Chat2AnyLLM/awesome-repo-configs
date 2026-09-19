@@ -5098,5 +5098,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "costajohnt/oss-scout": {
+    "owner": "costajohnt",
+    "name": "oss-scout",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "humeicw/dirty-work": {
+    "owner": "humeicw",
+    "name": "dirty-work",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mkritter3/codex-paired-superpowers": {
+    "owner": "mkritter3",
+    "name": "codex-paired-superpowers",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

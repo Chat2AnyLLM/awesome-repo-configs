@@ -37126,5 +37126,100 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "tronghieu/agent-skills": {
+        "owner": "tronghieu",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tykisgod/quick-question": {
+        "owner": "tykisgod",
+        "name": "quick-question",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/dovetail-skill": {
+        "owner": "dbhq-uk",
+        "name": "dovetail-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "costajohnt/oss-scout": {
+        "owner": "costajohnt",
+        "name": "oss-scout",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JaimeJunr/keyless-studio": {
+        "owner": "JaimeJunr",
+        "name": "keyless-studio",
+        "branch": "main",
+        "enabled": true
+    },
+    "humeicw/dirty-work": {
+        "owner": "humeicw",
+        "name": "dirty-work",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dbhq-uk/atlassian-skill": {
+        "owner": "dbhq-uk",
+        "name": "atlassian-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "minner-fun/ipure-skills": {
+        "owner": "minner-fun",
+        "name": "ipure-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/tiktok-market-insight": {
+        "owner": "why20261",
+        "name": "tiktok-market-insight",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "FOR-CAST/ai_workflows": {
+        "owner": "FOR-CAST",
+        "name": "ai_workflows",
+        "branch": "main",
+        "enabled": true
+    },
+    "Metamorfiles/plugin": {
+        "owner": "Metamorfiles",
+        "name": "plugin",
+        "branch": "dev",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mkritter3/codex-paired-superpowers": {
+        "owner": "mkritter3",
+        "name": "codex-paired-superpowers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rafaelrabel0/claude-session-init": {
+        "owner": "rafaelrabel0",
+        "name": "claude-session-init",
+        "branch": "main",
+        "enabled": true
+    },
+    "Z1Code/google-oauth-cli": {
+        "owner": "Z1Code",
+        "name": "google-oauth-cli",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
