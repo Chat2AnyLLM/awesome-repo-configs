@@ -5119,5 +5119,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Yuno15-bb/GreyMatter-engine": {
+    "owner": "Yuno15-bb",
+    "name": "GreyMatter-engine",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "S1lverElixir/honey-for-claude": {
+    "owner": "S1lverElixir",
+    "name": "honey-for-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "uta-a/claude-code-ensemble": {
+    "owner": "uta-a",
+    "name": "claude-code-ensemble",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

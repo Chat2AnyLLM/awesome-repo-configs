@@ -29269,5 +29269,95 @@
     "repoOwner": "rafaelrabel0",
     "repoName": "claude-session-init",
     "repoBranch": "main"
+  },
+  "imshaikot/app-preview-craft-skill": {
+    "name": "imshaikot/app-preview-craft-skill",
+    "description": "Agent Skill that turns app screenshots and screen recordings into App Store & Play Store screenshots, social cards, 3D device mockups and promo videos. Local headless Chrome, three.js and ffmpeg. Works in Claude Code,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "imshaikot",
+    "repoName": "app-preview-craft-skill",
+    "repoBranch": "main"
+  },
+  "Yuno15-bb/GreyMatter-engine": {
+    "name": "Yuno15-bb/GreyMatter-engine",
+    "description": "GreyMatter \u2014 persistent memory and a growing knowledge tree for CLI agents: an installable engine, kept separate from your notes, that updates itself",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Yuno15-bb",
+    "repoName": "GreyMatter-engine",
+    "repoBranch": "main"
+  },
+  "CometWeb-io/agent-skills": {
+    "name": "CometWeb-io/agent-skills",
+    "description": "Production-grade agent skills for Claude Code, Cursor and Codex: evidence research, product ops, QA, release gates and decision workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CometWeb-io",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "S1lverElixir/honey-for-claude": {
+    "name": "S1lverElixir/honey-for-claude",
+    "description": "Official Claude app plugin marketplace for Honey (I Shrunk the AI). 14 skills & subagents for Web, Desktop, Mobile & Cowork. Cuts coding tokens up to 50% via YAGNI & terse prose.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "S1lverElixir",
+    "repoName": "honey-for-claude",
+    "repoBranch": "main"
+  },
+  "Carlosdalv669/formify-skills": {
+    "name": "Carlosdalv669/formify-skills",
+    "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Carlosdalv669",
+    "repoName": "formify-skills",
+    "repoBranch": "main"
+  },
+  "uta-a/claude-code-ensemble": {
+    "name": "uta-a/claude-code-ensemble",
+    "description": "Claude Code \u7528\u306e adaptive specialist ensemble \u30d7\u30e9\u30b0\u30a4\u30f3\u3002\u56fa\u5b9a\u30d5\u30ed\u30fc\u3092\u6301\u305f\u305a\u3001\u5fc5\u8981\u306a specialist \u3060\u3051\u3092\u305d\u306e\u5834\u3067\u547c\u3076\u3002format \u3068 lint \u306e\u8efd\u91cf\u306a hook \u3092\u5099\u3048\u308b\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uta-a",
+    "repoName": "claude-code-ensemble",
+    "repoBranch": "main"
+  },
+  "rashedInt32/jev-lens": {
+    "name": "rashedInt32/jev-lens",
+    "description": "Do I need to look at what Claude Code just did? A calibrated verdict per stop, judged by TypeSafe Jev. Pairs with jev-lens.nvim",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rashedInt32",
+    "repoName": "jev-lens",
+    "repoBranch": "main"
+  },
+  "mohamedyameen/tiniest-cloud-plugin": {
+    "name": "mohamedyameen/tiniest-cloud-plugin",
+    "description": "Tiniest Cloud plugin for Cursor and Claude Code: deploy web apps with sign-in, storage and AI built in.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mohamedyameen",
+    "repoName": "tiniest-cloud-plugin",
+    "repoBranch": "master"
+  },
+  "do-gongil/manimgl-skill": {
+    "name": "do-gongil/manimgl-skill",
+    "description": "Agent skill for ManimGL (3Blue1Brown's Manim) \u2014 not Manim Community Edition",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "do-gongil",
+    "repoName": "manimgl-skill",
+    "repoBranch": "main"
+  },
+  "shoei03/oss-discovery": {
+    "name": "shoei03/oss-discovery",
+    "description": "A measured workflow for finding OSS on GitHub and deciding whether to adopt it, shipped as a Claude Code skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shoei03",
+    "repoName": "oss-discovery",
+    "repoBranch": "main"
   }
 }

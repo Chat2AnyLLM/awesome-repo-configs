@@ -37221,5 +37221,120 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "aakashdhar/vibe-skill": {
+        "owner": "aakashdhar",
+        "name": "vibe-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "imshaikot/app-preview-craft-skill": {
+        "owner": "imshaikot",
+        "name": "app-preview-craft-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LeonardLeroy/i-dont-believe-you": {
+        "owner": "LeonardLeroy",
+        "name": "i-dont-believe-you",
+        "branch": "main",
+        "enabled": true
+    },
+    "Yuno15-bb/GreyMatter-engine": {
+        "owner": "Yuno15-bb",
+        "name": "GreyMatter-engine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "markfulton/ai-employees": {
+        "owner": "markfulton",
+        "name": "ai-employees",
+        "branch": "main",
+        "enabled": true
+    },
+    "CometWeb-io/agent-skills": {
+        "owner": "CometWeb-io",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CODES233/huein-lightfield-ui-style": {
+        "owner": "CODES233",
+        "name": "huein-lightfield-ui-style",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "S1lverElixir/honey-for-claude": {
+        "owner": "S1lverElixir",
+        "name": "honey-for-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Syogo-Suganoya/kensetsu-trouble-agent": {
+        "owner": "Syogo-Suganoya",
+        "name": "kensetsu-trouble-agent",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Carlosdalv669/formify-skills": {
+        "owner": "Carlosdalv669",
+        "name": "formify-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete": {
+        "owner": "fortnitenordarnaf-cloud",
+        "name": "diet-workout-plan-as-if-you-were-an-athlete",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "uta-a/claude-code-ensemble": {
+        "owner": "uta-a",
+        "name": "claude-code-ensemble",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mohamedyameen/tiniest-cloud-plugin": {
+        "owner": "mohamedyameen",
+        "name": "tiniest-cloud-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "do-gongil/manimgl-skill": {
+        "owner": "do-gongil",
+        "name": "manimgl-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "artsunique/slopwaechter": {
+        "owner": "artsunique",
+        "name": "slopwaechter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "liveedevteam/audit-software-project": {
+        "owner": "liveedevteam",
+        "name": "audit-software-project",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shoei03/oss-discovery": {
+        "owner": "shoei03",
+        "name": "oss-discovery",
+        "branch": "main",
+        "enabled": true
     }
 }
