@@ -5154,5 +5154,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jysvai/CHA": {
+    "owner": "jysvai",
+    "name": "CHA",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

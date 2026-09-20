@@ -29584,5 +29584,95 @@
     "repoOwner": "hermes-labs-ai",
     "repoName": "quick-gate-python",
     "repoBranch": "main"
+  },
+  "using-system/otelyssey": {
+    "name": "using-system/otelyssey",
+    "description": "OpenTelemetry plugins for Claude Code and GitHub Copilot CLI \u2014 a marketplace that runs itself: open an issue, the repository validates, reviews, lists and follows your plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "using-system",
+    "repoName": "otelyssey",
+    "repoBranch": "main"
+  },
+  "jysvai/CHA": {
+    "name": "jysvai/CHA",
+    "description": "CHA (Cyclic Hostile Adversarial Harnessing) \u2014 Cross-checking LLM pipeline for deep code debugging",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jysvai",
+    "repoName": "CHA",
+    "repoBranch": "main"
+  },
+  "bglglzd/bugkit": {
+    "name": "bglglzd/bugkit",
+    "description": "Context-rich bug reports for AI-assisted development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bglglzd",
+    "repoName": "bugkit",
+    "repoBranch": "main"
+  },
+  "alexkohinor/verbatim-compaction": {
+    "name": "alexkohinor/verbatim-compaction",
+    "description": "Rule-based verbatim context compaction for Claude Code: deletes stale tool output instead of summarising it. No model, no network, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexkohinor",
+    "repoName": "verbatim-compaction",
+    "repoBranch": "main"
+  },
+  "saloprj/dialogbrain-claude-plugin": {
+    "name": "saloprj/dialogbrain-claude-plugin",
+    "description": "Claude Code plugin for DialogBrain: connect WhatsApp, Telegram, email and a website chat, and build agents that answer customers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saloprj",
+    "repoName": "dialogbrain-claude-plugin",
+    "repoBranch": "main"
+  },
+  "nattapatpsw-Game/antigravity-plugin-cc": {
+    "name": "nattapatpsw-Game/antigravity-plugin-cc",
+    "description": "Run Google Antigravity (agy) tasks from inside Claude Code: generate images, build offline HTML charts, edit code, or just ask. Typed presets, follow-up conversations, filesystem-verified output.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nattapatpsw-Game",
+    "repoName": "antigravity-plugin-cc",
+    "repoBranch": "master"
+  },
+  "GrillerGeek/guildhall": {
+    "name": "GrillerGeek/guildhall",
+    "description": "TDD-ordered coding agent harness for Claude Code. /quest (Mordain the Guildmaster) plans, then dispatches 17 tiered specialist adventurers through enforced red-green-refactor, gated parallel reviews, and a closing PR...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GrillerGeek",
+    "repoName": "guildhall",
+    "repoBranch": "main"
+  },
+  "kgevans3rd/claude-mage-skill": {
+    "name": "kgevans3rd/claude-mage-skill",
+    "description": "Mage: The Ascension 2nd Edition as a Claude Code Storyteller skill, built on byo-rulebook. Ships the structure of the game and cites its tables by page; the values come from your own copy of the book and never enter v...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kgevans3rd",
+    "repoName": "claude-mage-skill",
+    "repoBranch": "master"
+  },
+  "sowadalmughni/vibe-debt-scanner": {
+    "name": "sowadalmughni/vibe-debt-scanner",
+    "description": "Scans any module for the technical debt AI coding tools generate invisibly. Assigns a Debt Severity Score (1-10), outputs a PR Gate verdict (PASS / WARN / BLOCK), and provides the exact rewritten function for every fi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sowadalmughni",
+    "repoName": "vibe-debt-scanner",
+    "repoBranch": "main"
+  },
+  "sowadalmughni/ai-codebase-audit": {
+    "name": "sowadalmughni/ai-codebase-audit",
+    "description": "Audits AI-generated codebases for the six failure modes that cause production collapse: disconnected schema, missing RLS, exposed secrets, broken auth, unwired integrations, and N+1 queries. Outputs a severity-ranked...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sowadalmughni",
+    "repoName": "ai-codebase-audit",
+    "repoBranch": "main"
   }
 }

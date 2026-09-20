@@ -37604,5 +37604,117 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "illusionaireal/oh-my-patent": {
+        "owner": "illusionaireal",
+        "name": "oh-my-patent",
+        "branch": "master",
+        "enabled": true
+    },
+    "wrysmil/Code-Harness-Kit": {
+        "owner": "wrysmil",
+        "name": "Code-Harness-Kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "using-system/otelyssey": {
+        "owner": "using-system",
+        "name": "otelyssey",
+        "branch": "main",
+        "enabled": true
+    },
+    "jysvai/CHA": {
+        "owner": "jysvai",
+        "name": "CHA",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bglglzd/bugkit": {
+        "owner": "bglglzd",
+        "name": "bugkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Raja0sama/vibex": {
+        "owner": "Raja0sama",
+        "name": "vibex",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Leelaloo/skill-doctor": {
+        "owner": "Leelaloo",
+        "name": "skill-doctor",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "njh20030605-code/claude-skills": {
+        "owner": "njh20030605-code",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "A2194008525/av-to-transcript-and-minutes": {
+        "owner": "A2194008525",
+        "name": "av-to-transcript-and-minutes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/kuaishou-research": {
+        "owner": "why20261",
+        "name": "kuaishou-research",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "saloprj/dialogbrain-claude-plugin": {
+        "owner": "saloprj",
+        "name": "dialogbrain-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nattapatpsw-Game/antigravity-plugin-cc": {
+        "owner": "nattapatpsw-Game",
+        "name": "antigravity-plugin-cc",
+        "branch": "master",
+        "enabled": true
+    },
+    "GrillerGeek/guildhall": {
+        "owner": "GrillerGeek",
+        "name": "guildhall",
+        "branch": "main",
+        "enabled": true
+    },
+    "kgevans3rd/claude-mage-skill": {
+        "owner": "kgevans3rd",
+        "name": "claude-mage-skill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EminSgl/fieldghost": {
+        "owner": "EminSgl",
+        "name": "fieldghost",
+        "branch": "master",
+        "enabled": true
+    },
+    "sowadalmughni/vibe-debt-scanner": {
+        "owner": "sowadalmughni",
+        "name": "vibe-debt-scanner",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sowadalmughni/ai-codebase-audit": {
+        "owner": "sowadalmughni",
+        "name": "ai-codebase-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
