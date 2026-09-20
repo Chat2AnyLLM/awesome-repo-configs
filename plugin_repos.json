@@ -29755,5 +29755,113 @@
     "repoOwner": "beemann",
     "repoName": "claudeguard-integrity",
     "repoBranch": "main"
+  },
+  "billy-enrizky/openbrowser-ai": {
+    "name": "billy-enrizky/openbrowser-ai",
+    "description": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, inte...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "billy-enrizky",
+    "repoName": "openbrowser-ai",
+    "repoBranch": "main"
+  },
+  "Softtor/nestjs-hexagonal": {
+    "name": "Softtor/nestjs-hexagonal",
+    "description": "Claude Code plugin for building NestJS bounded contexts with Hexagonal Architecture, DDD, CQRS, and event-driven patterns. 10 skills, 8 agents (Opus + Sonnet), TDD workflow, GSD compatible.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Softtor",
+    "repoName": "nestjs-hexagonal",
+    "repoBranch": "main"
+  },
+  "MAX-786/claude-3d-harness": {
+    "name": "MAX-786/claude-3d-harness",
+    "description": "One entry point for Claude Code over pinned open-source Blender skill libraries: registry, workflows, profiles, single Blender MCP server",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MAX-786",
+    "repoName": "claude-3d-harness",
+    "repoBranch": "main"
+  },
+  "nathanaday/atlas-obsidian": {
+    "name": "nathanaday/atlas-obsidian",
+    "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and make sure nothing slips through the cracks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nathanaday",
+    "repoName": "atlas-obsidian",
+    "repoBranch": "main"
+  },
+  "rcptrkr/qa-skills": {
+    "name": "rcptrkr/qa-skills",
+    "description": "rcptrkr/qa-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rcptrkr",
+    "repoName": "qa-skills",
+    "repoBranch": "main"
+  },
+  "thinkyou0714/claude-lab-skills": {
+    "name": "thinkyou0714/claude-lab-skills",
+    "description": "THINK YOU LAB thinking-OS skills for Claude Code \u2014 reusable judgment/design/automation/communication skill packs (tech-agnostic, MIT)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thinkyou0714",
+    "repoName": "claude-lab-skills",
+    "repoBranch": "main"
+  },
+  "mailows/aim-plugin": {
+    "name": "mailows/aim-plugin",
+    "description": "AIM channel plugin for Claude Code - messages between AI coding sessions across tools, accounts and companies",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mailows",
+    "repoName": "aim-plugin",
+    "repoBranch": "main"
+  },
+  "vibecodedapps-official/repo-docs": {
+    "name": "vibecodedapps-official/repo-docs",
+    "description": "Portable agent skill and checker that keeps AGENTS.md, CLAUDE.md, and docs/ correct and progressively disclosed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vibecodedapps-official",
+    "repoName": "repo-docs",
+    "repoBranch": "main"
+  },
+  "gbi-solutions-ltd/keel": {
+    "name": "gbi-solutions-ltd/keel",
+    "description": "A standard operating procedure for AI-assisted software delivery, packaged as a Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gbi-solutions-ltd",
+    "repoName": "keel",
+    "repoBranch": "main"
+  },
+  "Baune8D/claude-code-macos": {
+    "name": "Baune8D/claude-code-macos",
+    "description": "Bash 5 and GNU coreutils for Claude Code's Bash tool on macOS, via a settings.json env block and a SessionStart hook.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Baune8D",
+    "repoName": "claude-code-macos",
+    "repoBranch": "main"
+  },
+  "kvitapp/kvit-plugins": {
+    "name": "kvitapp/kvit-plugins",
+    "description": "Claude Code plugins by kvit \u2014 including What's Next, which ends a working turn with a short report and a card of next steps you pick with one key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kvitapp",
+    "repoName": "kvit-plugins",
+    "repoBranch": "main"
+  },
+  "domain-centric-development/dca-marketplace": {
+    "name": "domain-centric-development/dca-marketplace",
+    "description": "A Claude Code plugin marketplace that packages Domain-Driven Design, Hexagonal Architecture, and Clean Architecture as ready-to-use skills and agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "domain-centric-development",
+    "repoName": "dca-marketplace",
+    "repoBranch": "main"
   }
 }

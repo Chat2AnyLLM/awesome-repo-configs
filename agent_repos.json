@@ -5175,5 +5175,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Softtor/nestjs-hexagonal": {
+    "owner": "Softtor",
+    "name": "nestjs-hexagonal",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "nathanaday/atlas-obsidian": {
+    "owner": "nathanaday",
+    "name": "atlas-obsidian",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gbi-solutions-ltd/keel": {
+    "owner": "gbi-solutions-ltd",
+    "name": "keel",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

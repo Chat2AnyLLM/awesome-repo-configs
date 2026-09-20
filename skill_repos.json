@@ -37835,5 +37835,103 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "billy-enrizky/openbrowser-ai": {
+        "owner": "billy-enrizky",
+        "name": "openbrowser-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "Softtor/nestjs-hexagonal": {
+        "owner": "Softtor",
+        "name": "nestjs-hexagonal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MAX-786/claude-3d-harness": {
+        "owner": "MAX-786",
+        "name": "claude-3d-harness",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "andreworia/claude-pptx-skills": {
+        "owner": "andreworia",
+        "name": "claude-pptx-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Erebuzzz/pixasso": {
+        "owner": "Erebuzzz",
+        "name": "pixasso",
+        "branch": "main",
+        "enabled": true
+    },
+    "zurfyx/jev-browser-skill": {
+        "owner": "zurfyx",
+        "name": "jev-browser-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nathanaday/atlas-obsidian": {
+        "owner": "nathanaday",
+        "name": "atlas-obsidian",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KarpelesPublishing/the-art-and-science-of-forecasting": {
+        "owner": "KarpelesPublishing",
+        "name": "the-art-and-science-of-forecasting",
+        "branch": "main",
+        "enabled": true
+    },
+    "rcptrkr/qa-skills": {
+        "owner": "rcptrkr",
+        "name": "qa-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "thinkyou0714/claude-lab-skills": {
+        "owner": "thinkyou0714",
+        "name": "claude-lab-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kadihx/jev-x-kit": {
+        "owner": "Kadihx",
+        "name": "jev-x-kit",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vibecodedapps-official/repo-docs": {
+        "owner": "vibecodedapps-official",
+        "name": "repo-docs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gbi-solutions-ltd/keel": {
+        "owner": "gbi-solutions-ltd",
+        "name": "keel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kvitapp/kvit-plugins": {
+        "owner": "kvitapp",
+        "name": "kvit-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "domain-centric-development/dca-marketplace": {
+        "owner": "domain-centric-development",
+        "name": "dca-marketplace",
+        "branch": "main",
+        "enabled": true
     }
 }
