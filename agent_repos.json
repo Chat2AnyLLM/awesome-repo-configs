@@ -5161,5 +5161,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "evisoft/scio.md": {
+    "owner": "evisoft",
+    "name": "scio.md",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "emtcmca/guildproof": {
+    "owner": "emtcmca",
+    "name": "guildproof",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

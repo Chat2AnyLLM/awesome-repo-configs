@@ -37716,5 +37716,124 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "chipweaver/veripower": {
+        "owner": "chipweaver",
+        "name": "veripower",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer": {
+        "owner": "The-Artificer-of-Ciphers-LLC",
+        "name": "skills-from-the-artificer",
+        "branch": "main",
+        "enabled": true
+    },
+    "derwells/learn-skill": {
+        "owner": "derwells",
+        "name": "learn-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "benjaminstelzer/ask-claude-and-sol-for-codex": {
+        "owner": "benjaminstelzer",
+        "name": "ask-claude-and-sol-for-codex",
+        "branch": "main",
+        "enabled": true
+    },
+    "evisoft/scio.md": {
+        "owner": "evisoft",
+        "name": "scio.md",
+        "branch": "main",
+        "enabled": true
+    },
+    "emtcmca/guildproof": {
+        "owner": "emtcmca",
+        "name": "guildproof",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JagZ999/explainer-video": {
+        "owner": "JagZ999",
+        "name": "explainer-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lexbeam-software/clawproof-checks": {
+        "owner": "lexbeam-software",
+        "name": "clawproof-checks",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "slogsdon/skills-workflows": {
+        "owner": "slogsdon",
+        "name": "skills-workflows",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "slogsdon/skills-vault-knowledge": {
+        "owner": "slogsdon",
+        "name": "skills-vault-knowledge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "draysen-yau/session-handoff": {
+        "owner": "draysen-yau",
+        "name": "session-handoff",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "benjaminstelzer/wordpress-backend-ui-skill": {
+        "owner": "benjaminstelzer",
+        "name": "wordpress-backend-ui-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "benjaminstelzer/scoville-design-anti-ai-slop": {
+        "owner": "benjaminstelzer",
+        "name": "scoville-design-anti-ai-slop",
+        "branch": "main",
+        "enabled": true
+    },
+    "benjaminstelzer/ask-claude-and-astra-for-codex": {
+        "owner": "benjaminstelzer",
+        "name": "ask-claude-and-astra-for-codex",
+        "branch": "main",
+        "enabled": true
+    },
+    "netmobster/unstuck-games": {
+        "owner": "netmobster",
+        "name": "unstuck-games",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tasihi89/star-magnet": {
+        "owner": "Tasihi89",
+        "name": "star-magnet",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ranguana/walkthrough-video": {
+        "owner": "Ranguana",
+        "name": "walkthrough-video",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "beemann/claudeguard-integrity": {
+        "owner": "beemann",
+        "name": "claudeguard-integrity",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

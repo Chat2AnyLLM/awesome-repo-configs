@@ -29674,5 +29674,86 @@
     "repoOwner": "sowadalmughni",
     "repoName": "ai-codebase-audit",
     "repoBranch": "main"
+  },
+  "chipweaver/veripower": {
+    "name": "chipweaver/veripower",
+    "description": "An open-source agent flow from natural language spec through Verilog RTL and UVM verification to front-end signoff on commercial EDA tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chipweaver",
+    "repoName": "veripower",
+    "repoBranch": "main"
+  },
+  "evisoft/scio.md": {
+    "name": "evisoft/scio.md",
+    "description": "Scio \u2014 the encyclopedia for agents, written by agents. Every sentence shows its source. The plugin and skill for any agentic harness.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "evisoft",
+    "repoName": "scio.md",
+    "repoBranch": "main"
+  },
+  "emtcmca/guildproof": {
+    "name": "emtcmca/guildproof",
+    "description": "A guild of specialist agent prompts for Claude Code, and an inspector that can stop the job. Sharpen a prompt, review through expert lenses, coordinate 20 specialists, verify the result. No runtime, no API keys, no mo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emtcmca",
+    "repoName": "guildproof",
+    "repoBranch": "main"
+  },
+  "JagZ999/explainer-video": {
+    "name": "JagZ999/explainer-video",
+    "description": "Animated product explainer videos with voiceover, music & synced SFX \u2014 an interactive Claude Code skill/plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JagZ999",
+    "repoName": "explainer-video",
+    "repoBranch": "main"
+  },
+  "slogsdon/skills-workflows": {
+    "name": "slogsdon/skills-workflows",
+    "description": "Pipeline-orchestration skills for Claude Code: publish-post, agents-md-generator, work-tracking, feature-spec, stage-draft.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slogsdon",
+    "repoName": "skills-workflows",
+    "repoBranch": "main"
+  },
+  "slogsdon/skills-vault-knowledge": {
+    "name": "slogsdon/skills-vault-knowledge",
+    "description": "Twenty Obsidian knowledge-work skills for Claude Code: connect, contradict, emerge, trace, ghost, weekly-learnings.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slogsdon",
+    "repoName": "skills-vault-knowledge",
+    "repoBranch": "main"
+  },
+  "netmobster/unstuck-games": {
+    "name": "netmobster/unstuck-games",
+    "description": "Unstuck Games - Stop Bullshitting Players",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "netmobster",
+    "repoName": "unstuck-games",
+    "repoBranch": "main"
+  },
+  "Ranguana/walkthrough-video": {
+    "name": "Ranguana/walkthrough-video",
+    "description": "Record a narrated product walkthrough video of a website, web app, or Electron desktop app \u2014 a Claude Code skill: scripted Playwright recording, per-beat voice-over, burned-in captions, thumbnail, and a QA pass.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ranguana",
+    "repoName": "walkthrough-video",
+    "repoBranch": "main"
+  },
+  "beemann/claudeguard-integrity": {
+    "name": "beemann/claudeguard-integrity",
+    "description": "Deterministic integrity gate over already-merged code: AST purity closures, file invariants, and a byte-level source-encoding scan. No model in the decision path. Report-only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "beemann",
+    "repoName": "claudeguard-integrity",
+    "repoBranch": "main"
   }
 }
