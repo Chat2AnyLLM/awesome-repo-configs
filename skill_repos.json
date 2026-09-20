@@ -37494,5 +37494,115 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "LinklyAI/best-skills": {
+        "owner": "LinklyAI",
+        "name": "best-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "markifact/markifact-mcp": {
+        "owner": "markifact",
+        "name": "markifact-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "itsryanlenk/humanist": {
+        "owner": "itsryanlenk",
+        "name": "humanist",
+        "branch": "main",
+        "enabled": true
+    },
+    "saitarrun/Sdlc-ai-workflow": {
+        "owner": "saitarrun",
+        "name": "Sdlc-ai-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hermes-labs-ai/quick-gate-js": {
+        "owner": "hermes-labs-ai",
+        "name": "quick-gate-js",
+        "branch": "main",
+        "enabled": true
+    },
+    "Gu-ZT/skills": {
+        "owner": "Gu-ZT",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "raghuramsirigiri/raghuram-skills": {
+        "owner": "raghuramsirigiri",
+        "name": "raghuram-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "takimdigital/deckhand": {
+        "owner": "takimdigital",
+        "name": "deckhand",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OR13/skills": {
+        "owner": "OR13",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sebin-gg/article-sweeper": {
+        "owner": "sebin-gg",
+        "name": "article-sweeper",
+        "branch": "main",
+        "enabled": true
+    },
+    "ryusui-hiro/document-svg": {
+        "owner": "ryusui-hiro",
+        "name": "document-svg",
+        "branch": "main",
+        "enabled": true
+    },
+    "bitranox/soundtouch-decloud": {
+        "owner": "bitranox",
+        "name": "soundtouch-decloud",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tahodev/baodao-skill": {
+        "owner": "tahodev",
+        "name": "baodao-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "TheaWu7/interview-review-skill": {
+        "owner": "TheaWu7",
+        "name": "interview-review-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "sdvsignal/kit-plugins": {
+        "owner": "sdvsignal",
+        "name": "kit-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "hermes-labs-ai/quick-gate-python": {
+        "owner": "hermes-labs-ai",
+        "name": "quick-gate-python",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xiaogege6697/butler-skill": {
+        "owner": "xiaogege6697",
+        "name": "butler-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

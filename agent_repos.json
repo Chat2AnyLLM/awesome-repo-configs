@@ -5140,5 +5140,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "markifact/markifact-mcp": {
+    "owner": "markifact",
+    "name": "markifact-mcp",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "saitarrun/Sdlc-ai-workflow": {
+    "owner": "saitarrun",
+    "name": "Sdlc-ai-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

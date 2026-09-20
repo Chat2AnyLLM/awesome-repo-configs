@@ -29485,5 +29485,104 @@
     "repoOwner": "tzzs",
     "repoName": "apple-design-skill",
     "repoBranch": "main"
+  },
+  "markifact/markifact-mcp": {
+    "name": "markifact/markifact-mcp",
+    "description": "MCP server for Google Ads, Meta Ads, GA4, TikTok Ads, and LinkedIn Ads. Manage 300+ ad operations from Claude, ChatGPT, Gemini, Cursor, or any AI client. Human-in-the-loop on every write.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "markifact",
+    "repoName": "markifact-mcp",
+    "repoBranch": "main"
+  },
+  "itsryanlenk/humanist": {
+    "name": "itsryanlenk/humanist",
+    "description": "A prose checker and an offline sanitizer for AI-assisted writing, with the blind studies behind both.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itsryanlenk",
+    "repoName": "humanist",
+    "repoBranch": "main"
+  },
+  "saitarrun/Sdlc-ai-workflow": {
+    "name": "saitarrun/Sdlc-ai-workflow",
+    "description": "Claude Code plugin for end-to-end SDLC automation with role-specific agents, reusable skills, and production workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saitarrun",
+    "repoName": "Sdlc-ai-workflow",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/quick-gate-js": {
+    "name": "hermes-labs-ai/quick-gate-js",
+    "description": "quick-gate-js (npm: quick-gate) is a deterministic JS/TS CI quality gate that unifies ESLint, TypeScript, build, and Lighthouse checks into one fail-fast result, with bounded auto-repair and structured escalation evid...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "quick-gate-js",
+    "repoBranch": "main"
+  },
+  "raghuramsirigiri/raghuram-skills": {
+    "name": "raghuramsirigiri/raghuram-skills",
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero dependencies, works offline. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raghuramsirigiri",
+    "repoName": "raghuram-skills",
+    "repoBranch": "main"
+  },
+  "OR13/skills": {
+    "name": "OR13/skills",
+    "description": "Orie Steele's agent skills. one-shot: choose how to attack a problem, take one approval, then run to the end.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OR13",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "ryusui-hiro/document-svg": {
+    "name": "ryusui-hiro/document-svg",
+    "description": "docsvg converts PDF and Office documents into editable, deterministic SVG pages\u2014and packages SVGs back into Office files.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryusui-hiro",
+    "repoName": "document-svg",
+    "repoBranch": "main"
+  },
+  "bitranox/soundtouch-decloud": {
+    "name": "bitranox/soundtouch-decloud",
+    "description": "Claude Code skill: bring Bose SoundTouch speakers back after the SoundTouch cloud shutdown - self-hosted replacement service, recovering each station's direct stream, and proving every preset plays.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitranox",
+    "repoName": "soundtouch-decloud",
+    "repoBranch": "main"
+  },
+  "sdvsignal/kit-plugins": {
+    "name": "sdvsignal/kit-plugins",
+    "description": "Four small Claude Code plugins: ship check, plain-English diff review, plan-first features, StoreKit pre-flight check. Add as a marketplace in one line.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdvsignal",
+    "repoName": "kit-plugins",
+    "repoBranch": "main"
+  },
+  "alsoleg89/jev-bouncer": {
+    "name": "alsoleg89/jev-bouncer",
+    "description": "Claude Code plugin: a 3-cent bouncer for your agent's shell. Jev typed probabilities auto-allow routine commands, deny destructive ones, and flag prompt injection in tool results.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alsoleg89",
+    "repoName": "jev-bouncer",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/quick-gate-python": {
+    "name": "hermes-labs-ai/quick-gate-python",
+    "description": "quick-gate-python (PyPI: pygate-ci) is a deterministic Python CI quality gate that normalizes Ruff, Pyright, and pytest results into one fail-fast decision, attempts bounded auto-repair, and escalates with machine-rea...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "quick-gate-python",
+    "repoBranch": "main"
   }
 }
