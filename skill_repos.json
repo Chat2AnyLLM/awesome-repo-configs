@@ -1,4 +1,11 @@
 {
+    "agent-contracts/skill-preflight": {
+        "owner": "agent-contracts",
+        "name": "skill-preflight",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "louis030195/hyperconsciousness": {
         "owner": "louis030195",
         "name": "hyperconsciousness",
