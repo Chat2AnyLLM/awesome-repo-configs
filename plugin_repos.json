@@ -670,7 +670,7 @@
   },
   "archcore-plugins": {
     "name": "archcore-plugins",
-    "description": "Archcore plugins for AI coding agents \u2014 make your AI code with your project's architecture, rules, and decisions. Git-native context engineering across Claude Code, Cursor, and Codex.",
+    "description": "Archcore plugins for spec-driven development and context engineering with AI coding agents.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "archcore-ai",
