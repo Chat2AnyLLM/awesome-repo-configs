@@ -29953,5 +29953,95 @@
     "repoOwner": "maenjh",
     "repoName": "pptx-math",
     "repoBranch": "main"
+  },
+  "gwittebolle/claude-carbon": {
+    "name": "gwittebolle/claude-carbon",
+    "description": "claude-carbon: track the carbon footprint of your Claude Code sessions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gwittebolle",
+    "repoName": "claude-carbon",
+    "repoBranch": "main"
+  },
+  "shear559/fabius": {
+    "name": "shear559/fabius",
+    "description": "One set of rules above every model. Fifteen skills for Claude Code, Codex and Grok Build that make your model plan first, use the smallest machinery that holds, prove the result and remember the project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shear559",
+    "repoName": "fabius",
+    "repoBranch": "main"
+  },
+  "hokupod/utsuri": {
+    "name": "hokupod/utsuri",
+    "description": "Utsuri transforms code changes into evidence-based, human-readable visual reviews. It connects Git hunks, intent, real-browser rendering, structural evidence, coverage, and human review state in one local report.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hokupod",
+    "repoName": "utsuri",
+    "repoBranch": "main"
+  },
+  "thanospapage/thanos": {
+    "name": "thanospapage/thanos",
+    "description": "A prompt architect for Claude: any raw prompt in, an optimized prompt with the right agent loop, skills, and model out. Works in Claude Code, claude.ai, and Cowork.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thanospapage",
+    "repoName": "thanos",
+    "repoBranch": "main"
+  },
+  "murilomn58/Claude-Spec-Driven-Fase-Zero": {
+    "name": "murilomn58/Claude-Spec-Driven-Fase-Zero",
+    "description": "ADP Fase Zero: entrevista de escopo e documenta\u00e7\u00e3o de requisitos para projetos de software com agentes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "murilomn58",
+    "repoName": "Claude-Spec-Driven-Fase-Zero",
+    "repoBranch": "main"
+  },
+  "lohyeulam-stack/show-me-the-receipts": {
+    "name": "lohyeulam-stack/show-me-the-receipts",
+    "description": "Receipts, not vibes. MIT-licensed agent skill enforcing evidence-first AI output: conclusion first, facts vs unknowns, actions with owner/deadline/deliverable, no AI-slop, ADHD-friendly. Claude Code \u00b7 Codex \u00b7 Cursor....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lohyeulam-stack",
+    "repoName": "show-me-the-receipts",
+    "repoBranch": "main"
+  },
+  "dimitritholen/1337-claude": {
+    "name": "dimitritholen/1337-claude",
+    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dimitritholen",
+    "repoName": "1337-claude",
+    "repoBranch": "main"
+  },
+  "Athyrr/aikit": {
+    "name": "Athyrr/aikit",
+    "description": "aiKit \u2014 an agentic method for Claude Code: understand, specify, plan, split, execute, verify, without the orchestrating session ever filling up.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Athyrr",
+    "repoName": "aikit",
+    "repoBranch": "main"
+  },
+  "wojciechczarnecki/agentic-pipeline": {
+    "name": "wojciechczarnecki/agentic-pipeline",
+    "description": "Claude Code plugin for spec-driven agentic development: idea \u2192 plan \u2192 review \u2192 implementation \u2192 PR, with human approval gates and a code-enforced command guard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wojciechczarnecki",
+    "repoName": "agentic-pipeline",
+    "repoBranch": "main"
+  },
+  "ttncode/kiln": {
+    "name": "ttncode/kiln",
+    "description": "Let an AI coding agent work a whole ticket without watching every command it runs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ttncode",
+    "repoName": "kiln",
+    "repoBranch": "main"
   }
 }

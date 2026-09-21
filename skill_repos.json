@@ -38062,5 +38062,119 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "gwittebolle/claude-carbon": {
+        "owner": "gwittebolle",
+        "name": "claude-carbon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fabricioctelles/skills": {
+        "owner": "fabricioctelles",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "heal-dev/heal-playwright-tracer": {
+        "owner": "heal-dev",
+        "name": "heal-playwright-tracer",
+        "branch": "main",
+        "enabled": true
+    },
+    "shear559/fabius": {
+        "owner": "shear559",
+        "name": "fabius",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hokupod/utsuri": {
+        "owner": "hokupod",
+        "name": "utsuri",
+        "branch": "main",
+        "enabled": true
+    },
+    "thanospapage/thanos": {
+        "owner": "thanospapage",
+        "name": "thanos",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "murilomn58/Claude-Spec-Driven-Fase-Zero": {
+        "owner": "murilomn58",
+        "name": "Claude-Spec-Driven-Fase-Zero",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lohyeulam-stack/show-me-the-receipts": {
+        "owner": "lohyeulam-stack",
+        "name": "show-me-the-receipts",
+        "branch": "main",
+        "enabled": true
+    },
+    "auto-subtitles/cli": {
+        "owner": "auto-subtitles",
+        "name": "cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jbordoe/claude-skills": {
+        "owner": "jbordoe",
+        "name": "claude-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dimitritholen/1337-claude": {
+        "owner": "dimitritholen",
+        "name": "1337-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Athyrr/aikit": {
+        "owner": "Athyrr",
+        "name": "aikit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wojciechczarnecki/agentic-pipeline": {
+        "owner": "wojciechczarnecki",
+        "name": "agentic-pipeline",
+        "branch": "main",
+        "enabled": true
+    },
+    "ttncode/kiln": {
+        "owner": "ttncode",
+        "name": "kiln",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AlexeyGOblov/visual-attention-audit": {
+        "owner": "AlexeyGOblov",
+        "name": "visual-attention-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "koi-lee/ai-id-photo-studio": {
+        "owner": "koi-lee",
+        "name": "ai-id-photo-studio",
+        "branch": "main",
+        "enabled": true
+    },
+    "houchi-unyo/unattended-job-audit": {
+        "owner": "houchi-unyo",
+        "name": "unattended-job-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

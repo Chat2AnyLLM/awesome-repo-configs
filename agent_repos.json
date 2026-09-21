@@ -5203,5 +5203,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "dimitritholen/1337-claude": {
+    "owner": "dimitritholen",
+    "name": "1337-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Athyrr/aikit": {
+    "owner": "Athyrr",
+    "name": "aikit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
