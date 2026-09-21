@@ -5196,5 +5196,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "YixuAn-13/we-need-ds": {
+    "owner": "YixuAn-13",
+    "name": "we-need-ds",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

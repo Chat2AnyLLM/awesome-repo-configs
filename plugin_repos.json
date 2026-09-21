@@ -29863,5 +29863,95 @@
     "repoOwner": "domain-centric-development",
     "repoName": "dca-marketplace",
     "repoBranch": "main"
+  },
+  "vkroz/taskman": {
+    "name": "vkroz/taskman",
+    "description": "Claude Code plugin that enables AI agents to own full SDLC phases",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vkroz",
+    "repoName": "taskman",
+    "repoBranch": "main"
+  },
+  "Novence-ai/mcp": {
+    "name": "Novence-ai/mcp",
+    "description": "Hosted MCP for creating, checking, deploying, and hosting static sites for AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Novence-ai",
+    "repoName": "mcp",
+    "repoBranch": "main"
+  },
+  "PavelSozonov/hintdeck": {
+    "name": "PavelSozonov/hintdeck",
+    "description": "Tip of the day for Claude Code: a deck of doc-verified tips, one per call, never repeated. Plugin with /tip and /tip-slides. English + Russian.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PavelSozonov",
+    "repoName": "hintdeck",
+    "repoBranch": "main"
+  },
+  "SuresoftTechnologies/dvera-plugin": {
+    "name": "SuresoftTechnologies/dvera-plugin",
+    "description": "DVERA agent skills for CT C/C++ verification workflows: project setup, analysis, test generation, coverage, reporting, and regression.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SuresoftTechnologies",
+    "repoName": "dvera-plugin",
+    "repoBranch": "main"
+  },
+  "vannt-dev/junto": {
+    "name": "vannt-dev/junto",
+    "description": "Durable workflow orchestration for AI coding agents with human approval, quality gates and verifiable evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vannt-dev",
+    "repoName": "junto",
+    "repoBranch": "main"
+  },
+  "fercreek/focus-adhd": {
+    "name": "fercreek/focus-adhd",
+    "description": "ADHD-friendly responses for Claude Code: length scales with your decisions, not the agent's effort.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fercreek",
+    "repoName": "focus-adhd",
+    "repoBranch": "main"
+  },
+  "YixuAn-13/we-need-ds": {
+    "name": "YixuAn-13/we-need-ds",
+    "description": "Claude Code plugin that unlocks full-power We need reasoning chains in DeepSeek Pro models: turn-aware DSH minimal simulation (official one-line persona + Bash/Edit pair on decision turns, full MCP tools + DSH persona...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YixuAn-13",
+    "repoName": "we-need-ds",
+    "repoBranch": "main"
+  },
+  "AIops-tools/marketplace": {
+    "name": "AIops-tools/marketplace",
+    "description": "Claude Code plugin marketplace for AIops-tools \u2014 24 governed infrastructure-ops plugins, each bundling a skill and its MCP server",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AIops-tools",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "soseinai/sosein-plugins": {
+    "name": "soseinai/sosein-plugins",
+    "description": "Official Sosein plugins for Codex and Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soseinai",
+    "repoName": "sosein-plugins",
+    "repoBranch": "main"
+  },
+  "maenjh/pptx-math": {
+    "name": "maenjh/pptx-math",
+    "description": "Native PowerPoint equations from LaTeX. Converts LaTeX to OMML and injects it into .pptx \u2014 editable, vector equations instead of images or Unicode text. A companion to the pptx skill / python-pptx.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maenjh",
+    "repoName": "pptx-math",
+    "repoBranch": "main"
   }
 }

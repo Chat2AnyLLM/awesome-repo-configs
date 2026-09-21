@@ -37933,5 +37933,127 @@
         "name": "dca-marketplace",
         "branch": "main",
         "enabled": true
+    },
+    "vkroz/taskman": {
+        "owner": "vkroz",
+        "name": "taskman",
+        "branch": "main",
+        "enabled": true
+    },
+    "Novence-ai/mcp": {
+        "owner": "Novence-ai",
+        "name": "mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IronHuang/personal-vpn-deployer": {
+        "owner": "IronHuang",
+        "name": "personal-vpn-deployer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "xiangzhouEcho/Echo-md2wechat-skill": {
+        "owner": "xiangzhouEcho",
+        "name": "Echo-md2wechat-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cuongducle/viet-humanize": {
+        "owner": "cuongducle",
+        "name": "viet-humanize",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dzivkovi/claude-skills": {
+        "owner": "dzivkovi",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ZephyrDeng/ego-jev": {
+        "owner": "ZephyrDeng",
+        "name": "ego-jev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "3378925604-a11y/modelspy": {
+        "owner": "3378925604-a11y",
+        "name": "modelspy",
+        "branch": "main",
+        "enabled": true
+    },
+    "shuji-bonji/houki-research-skill": {
+        "owner": "shuji-bonji",
+        "name": "houki-research-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-creator-match": {
+        "owner": "why20261",
+        "name": "douyin-creator-match",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PavelSozonov/hintdeck": {
+        "owner": "PavelSozonov",
+        "name": "hintdeck",
+        "branch": "main",
+        "enabled": true
+    },
+    "SuresoftTechnologies/dvera-plugin": {
+        "owner": "SuresoftTechnologies",
+        "name": "dvera-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fercreek/focus-adhd": {
+        "owner": "fercreek",
+        "name": "focus-adhd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YixuAn-13/we-need-ds": {
+        "owner": "YixuAn-13",
+        "name": "we-need-ds",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "soseinai/sosein-plugins": {
+        "owner": "soseinai",
+        "name": "sosein-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "heronbo111/HeronBo-AIGC-Prompt": {
+        "owner": "heronbo111",
+        "name": "HeronBo-AIGC-Prompt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maenjh/pptx-math": {
+        "owner": "maenjh",
+        "name": "pptx-math",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "robinshen84/reading-quest-agent": {
+        "owner": "robinshen84",
+        "name": "reading-quest-agent",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
