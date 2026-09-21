@@ -38176,5 +38176,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "axelfreeman/marketing-mindset": {
+        "owner": "axelfreeman",
+        "name": "marketing-mindset",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
