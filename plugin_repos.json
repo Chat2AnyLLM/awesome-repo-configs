@@ -30043,5 +30043,104 @@
     "repoOwner": "ttncode",
     "repoName": "kiln",
     "repoBranch": "main"
+  },
+  "langchain-ai/langsmith-claude-code-plugins": {
+    "name": "langchain-ai/langsmith-claude-code-plugins",
+    "description": "LangSmith plugins for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "langchain-ai",
+    "repoName": "langsmith-claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "TechNickAI/ai-coding-config": {
+    "name": "TechNickAI/ai-coding-config",
+    "description": "Claude Code plugin marketplace with 18 commands, 24 agents, and 33 coding rules",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TechNickAI",
+    "repoName": "ai-coding-config",
+    "repoBranch": "main"
+  },
+  "SYMBEYOND/SYMB-Mem": {
+    "name": "SYMBEYOND/SYMB-Mem",
+    "description": "SYMB Session Intelligence | SYMB-Mem | context compression for Claude Code. All Data Is Important.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SYMBEYOND",
+    "repoName": "SYMB-Mem",
+    "repoBranch": "main"
+  },
+  "rickbauer327-cell/solo-stack-starter": {
+    "name": "rickbauer327-cell/solo-stack-starter",
+    "description": "5 free Claude Code skills for the business side of freelancing: business context, meeting notes to actions, invoices, weekly review, LinkedIn posts. One business.md every skill reads first.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rickbauer327-cell",
+    "repoName": "solo-stack-starter",
+    "repoBranch": "main"
+  },
+  "autosubtitles/skills": {
+    "name": "autosubtitles/skills",
+    "description": "Add styled, burned-in captions to a video from the command line or an AI agent. Renders locally in your own Chrome.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "autosubtitles",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/agent-trash-guard": {
+    "name": "hermes-labs-ai/agent-trash-guard",
+    "description": "Recoverable deletion guard and trash workflow for Claude Code, Codex, and Gemini CLI agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "agent-trash-guard",
+    "repoBranch": "main"
+  },
+  "moneymikeMD/moneymike-plugins": {
+    "name": "moneymikeMD/moneymike-plugins",
+    "description": "Claude Code plugin marketplace: work-order, work-order-jira, night-watchman",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moneymikeMD",
+    "repoName": "moneymike-plugins",
+    "repoBranch": "main"
+  },
+  "getadaa/plugins": {
+    "name": "getadaa/plugins",
+    "description": "Claude Code and Codex plugin marketplace for adaa",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getadaa",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "jisundr/cairn-2.0": {
+    "name": "jisundr/cairn-2.0",
+    "description": "A lean, on-demand, non-invasive development workflow for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jisundr",
+    "repoName": "cairn-2.0",
+    "repoBranch": "main"
+  },
+  "0x7067/claude-jev": {
+    "name": "0x7067/claude-jev",
+    "description": "Claude Code plugin: Jev for rule checks, verbatim compaction, and prompt routing",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0x7067",
+    "repoName": "claude-jev",
+    "repoBranch": "main"
+  },
+  "NourEldinShobier/web-search": {
+    "name": "NourEldinShobier/web-search",
+    "description": "Fast, token-efficient web research for AI agents: a Bun CLI for search and page/PDF reading, plus a Claude Code plugin (Jina Search, Reader, Reranker)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NourEldinShobier",
+    "repoName": "web-search",
+    "repoBranch": "main"
   }
 }

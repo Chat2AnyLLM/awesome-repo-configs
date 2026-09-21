@@ -38182,5 +38182,114 @@
         "name": "marketing-mindset",
         "branch": "master",
         "enabled": true
+    },
+    "TechNickAI/ai-coding-config": {
+        "owner": "TechNickAI",
+        "name": "ai-coding-config",
+        "branch": "main",
+        "enabled": true
+    },
+    "SYMBEYOND/SYMB-Mem": {
+        "owner": "SYMBEYOND",
+        "name": "SYMB-Mem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rickbauer327-cell/solo-stack-starter": {
+        "owner": "rickbauer327-cell",
+        "name": "solo-stack-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Tess600/VveloxLabs": {
+        "owner": "Tess600",
+        "name": "VveloxLabs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "autosubtitles/skills": {
+        "owner": "autosubtitles",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hermes-labs-ai/agent-trash-guard": {
+        "owner": "hermes-labs-ai",
+        "name": "agent-trash-guard",
+        "branch": "main",
+        "enabled": true
+    },
+    "getadaa/plugins": {
+        "owner": "getadaa",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "jisundr/cairn-2.0": {
+        "owner": "jisundr",
+        "name": "cairn-2.0",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "0x7067/claude-jev": {
+        "owner": "0x7067",
+        "name": "claude-jev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NourEldinShobier/web-search": {
+        "owner": "NourEldinShobier",
+        "name": "web-search",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IG1816/codice-amaldicoado": {
+        "owner": "IG1816",
+        "name": "codice-amaldicoado",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TrackIQ-HQ/trackiq-amazon-wasted-spend": {
+        "owner": "TrackIQ-HQ",
+        "name": "trackiq-amazon-wasted-spend",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrackIQ-HQ/trackiq-amazon-search-term-harvester": {
+        "owner": "TrackIQ-HQ",
+        "name": "trackiq-amazon-search-term-harvester",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrackIQ-HQ/trackiq-amazon-budget-pacing": {
+        "owner": "TrackIQ-HQ",
+        "name": "trackiq-amazon-budget-pacing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrackIQ-HQ/trackiq-amazon-dsp-performance": {
+        "owner": "TrackIQ-HQ",
+        "name": "trackiq-amazon-dsp-performance",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrackIQ-HQ/trackiq-amazon-amc-media-mix": {
+        "owner": "TrackIQ-HQ",
+        "name": "trackiq-amazon-amc-media-mix",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

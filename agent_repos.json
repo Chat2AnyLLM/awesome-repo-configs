@@ -5217,5 +5217,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "SYMBEYOND/SYMB-Mem": {
+    "owner": "SYMBEYOND",
+    "name": "SYMB-Mem",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jisundr/cairn-2.0": {
+    "owner": "jisundr",
+    "name": "cairn-2.0",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "NourEldinShobier/web-search": {
+    "owner": "NourEldinShobier",
+    "name": "web-search",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
