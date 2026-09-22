@@ -5238,5 +5238,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Laith0003/ux-skill": {
+    "owner": "Laith0003",
+    "name": "ux-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

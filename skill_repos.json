@@ -38433,5 +38433,73 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "ibrohimislam/zoom-out": {
+        "owner": "ibrohimislam",
+        "name": "zoom-out",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wildcat430524/Steps2Great-skill": {
+        "owner": "wildcat430524",
+        "name": "Steps2Great-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "selfishprimate/scout": {
+        "owner": "selfishprimate",
+        "name": "scout",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "benjaminstelzer/scoville-wordpress-ui-backend-anti-ai-slop": {
+        "owner": "benjaminstelzer",
+        "name": "scoville-wordpress-ui-backend-anti-ai-slop",
+        "branch": "main",
+        "enabled": true
+    },
+    "Exotica0122/ae-video-studio": {
+        "owner": "Exotica0122",
+        "name": "ae-video-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ujconsulting/claudex-loop": {
+        "owner": "ujconsulting",
+        "name": "claudex-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DMonkey0908/ui-design-ecosystem": {
+        "owner": "DMonkey0908",
+        "name": "ui-design-ecosystem",
+        "branch": "main",
+        "enabled": true
+    },
+    "kamalhsd/claude-keyword-research": {
+        "owner": "kamalhsd",
+        "name": "claude-keyword-research",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "danil-lashin/product-walkthrough-video": {
+        "owner": "danil-lashin",
+        "name": "product-walkthrough-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "monsterget-com/skills": {
+        "owner": "monsterget-com",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

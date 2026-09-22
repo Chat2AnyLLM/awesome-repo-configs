@@ -30214,5 +30214,59 @@
     "repoOwner": "ruslan-rv-ua",
     "repoName": "axygen-checklist-tools",
     "repoBranch": "develop"
+  },
+  "Laith0003/ux-skill": {
+    "name": "Laith0003/ux-skill",
+    "description": "Design intelligence engine for AI coding tools (Claude Code, Cursor, Windsurf). Deterministic anti-AI-slop linter with 152 rules, 160 brand specs, a 7-axis synthesizer, an MCP server (18 tools), 25 commands, 17 IDEs....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Laith0003",
+    "repoName": "ux-skill",
+    "repoBranch": "main"
+  },
+  "ibrohimislam/zoom-out": {
+    "name": "ibrohimislam/zoom-out",
+    "description": "Claude Code skill: is this the whole thing, or one expression of something bigger? Blocks narrow fixes before you call them done.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ibrohimislam",
+    "repoName": "zoom-out",
+    "repoBranch": "main"
+  },
+  "Exotica0122/ae-video-studio": {
+    "name": "Exotica0122/ae-video-studio",
+    "description": "Claude Code plugin that turns footage, voice and a short brief into a motion-designed 4K video in Adobe After Effects, with a preview you approve at every step.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Exotica0122",
+    "repoName": "ae-video-studio",
+    "repoBranch": "main"
+  },
+  "ujconsulting/claudex-loop": {
+    "name": "ujconsulting/claudex-loop",
+    "description": "Claude Code plugin: two AI models harden a plan, then swap jobs to build and grade it. Ships a read-only Codex wrapper, a PreToolUse guard against chained commands, role gates so the builder never grades its own work,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ujconsulting",
+    "repoName": "claudex-loop",
+    "repoBranch": "main"
+  },
+  "kru3ish/tally": {
+    "name": "kru3ish/tally",
+    "description": "A receipt for every Claude Code task, and a coach that runs on its own. Criteria frozen at intake, what shipped, what it cost, whether it held up.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kru3ish",
+    "repoName": "tally",
+    "repoBranch": "main"
+  },
+  "danil-lashin/product-walkthrough-video": {
+    "name": "danil-lashin/product-walkthrough-video",
+    "description": "Claude Code skill: turn a web app into a narrated 4K60 walkthrough video \u2014 scripted Playwright recording, TTS voiceover, overlays, composited cursor, ducked music.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danil-lashin",
+    "repoName": "product-walkthrough-video",
+    "repoBranch": "main"
   }
 }
