@@ -38501,5 +38501,138 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "feder-cr/invisible_playwright_mcp": {
+        "owner": "feder-cr",
+        "name": "invisible_playwright_mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "acoz-labs/quickstop": {
+        "owner": "acoz-labs",
+        "name": "quickstop",
+        "branch": "main",
+        "enabled": true
+    },
+    "eduair94/cambio-uruguay": {
+        "owner": "eduair94",
+        "name": "cambio-uruguay",
+        "branch": "main",
+        "enabled": true
+    },
+    "baagad-ai/content-wand": {
+        "owner": "baagad-ai",
+        "name": "content-wand",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "plutosecurity/plutonium-skill": {
+        "owner": "plutosecurity",
+        "name": "plutonium-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SDuarteCorredor/vertical-video-kit": {
+        "owner": "SDuarteCorredor",
+        "name": "vertical-video-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matteobaccan/cv-review": {
+        "owner": "matteobaccan",
+        "name": "cv-review",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "linellazatin/nanomneme": {
+        "owner": "linellazatin",
+        "name": "nanomneme",
+        "branch": "main",
+        "enabled": true
+    },
+    "GovindMalviya/macos-cleanup": {
+        "owner": "GovindMalviya",
+        "name": "macos-cleanup",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OstrichHermit/audio-transcribe": {
+        "owner": "OstrichHermit",
+        "name": "audio-transcribe",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Karlderkarl/prd-to-governance": {
+        "owner": "Karlderkarl",
+        "name": "prd-to-governance",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "m1amgn/agents-collab-cli": {
+        "owner": "m1amgn",
+        "name": "agents-collab-cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "Alisson-P/ysat": {
+        "owner": "Alisson-P",
+        "name": "ysat",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "time2map/claude-brief-interview": {
+        "owner": "time2map",
+        "name": "claude-brief-interview",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dBlueSk/claude-chat-navigator": {
+        "owner": "dBlueSk",
+        "name": "claude-chat-navigator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tommasomazieri/plugin-rnd-lab": {
+        "owner": "tommasomazieri",
+        "name": "plugin-rnd-lab",
+        "branch": "master",
+        "enabled": true
+    },
+    "pro-vibe-coding/pvc-img-gen-codex": {
+        "owner": "pro-vibe-coding",
+        "name": "pvc-img-gen-codex",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Full-Stack-Assets/agentic-ai-role-library": {
+        "owner": "Full-Stack-Assets",
+        "name": "agentic-ai-role-library",
+        "branch": "main",
+        "enabled": true
+    },
+    "kenjione/mr-brief": {
+        "owner": "kenjione",
+        "name": "mr-brief",
+        "branch": "main",
+        "enabled": true
+    },
+    "livingghost/series-continuity-director": {
+        "owner": "livingghost",
+        "name": "series-continuity-director",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

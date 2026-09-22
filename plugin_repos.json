@@ -30268,5 +30268,104 @@
     "repoOwner": "danil-lashin",
     "repoName": "product-walkthrough-video",
     "repoBranch": "main"
+  },
+  "feder-cr/invisible_playwright_mcp": {
+    "name": "feder-cr/invisible_playwright_mcp",
+    "description": "Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "feder-cr",
+    "repoName": "invisible_playwright_mcp",
+    "repoBranch": "main"
+  },
+  "acoz-labs/quickstop": {
+    "name": "acoz-labs/quickstop",
+    "description": "The acoz-labs unified marketplace for agentic plugins. Explicit support for Claude Code, Codex and Pi; no per-plugin parity requirement.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "acoz-labs",
+    "repoName": "quickstop",
+    "repoBranch": "main"
+  },
+  "SDuarteCorredor/vertical-video-kit": {
+    "name": "SDuarteCorredor/vertical-video-kit",
+    "description": "Make TikToks, Reels and Shorts in code: natural AI narration, word-by-word captions, and real 1080x1920 Remotion renders.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SDuarteCorredor",
+    "repoName": "vertical-video-kit",
+    "repoBranch": "main"
+  },
+  "linellazatin/nanomneme": {
+    "name": "linellazatin/nanomneme",
+    "description": "nanomneme is a small, deterministic SQLite core for coding-agent memory: useful context survives a session without becoming an opaque service",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "linellazatin",
+    "repoName": "nanomneme",
+    "repoBranch": "main"
+  },
+  "GovindMalviya/macos-cleanup": {
+    "name": "GovindMalviya/macos-cleanup",
+    "description": "Free disk space on macOS without breaking anything. A Claude Code skill with a native GUI picker that finds leftovers Homebrew and npm can't see \u2014 .pkg installers, curl installers, bundle-ID orphans, Xcode caches and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GovindMalviya",
+    "repoName": "macos-cleanup",
+    "repoBranch": "main"
+  },
+  "tommasomazieri/plugin-rnd-lab": {
+    "name": "tommasomazieri/plugin-rnd-lab",
+    "description": "Claude Code plugin R&D: Prospector finds out whether a plugin is worth building, Optimizer A/B tests whether it actually helps, in paired live sessions with you in the loop. Windows, macOS, Linux.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tommasomazieri",
+    "repoName": "plugin-rnd-lab",
+    "repoBranch": "master"
+  },
+  "Full-Stack-Assets/agentic-ai-role-library": {
+    "name": "Full-Stack-Assets/agentic-ai-role-library",
+    "description": "Agentic AI Role Library \u2014 196 role, capability & integration skills as Claude Code plugins (20 domain packs). MIT licensed; commercial support available.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Full-Stack-Assets",
+    "repoName": "agentic-ai-role-library",
+    "repoBranch": "main"
+  },
+  "rokokol/skills": {
+    "name": "rokokol/skills",
+    "description": "My agent skills for good, deterministic solutions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rokokol",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "kenjione/mr-brief": {
+    "name": "kenjione/mr-brief",
+    "description": "Merge request descriptions a reviewer actually reads. A Claude Code skill: 15 lines, 3 key changes, 3 verified places to look, 1 risk.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kenjione",
+    "repoName": "mr-brief",
+    "repoBranch": "main"
+  },
+  "albertosca/vim-ai-follower": {
+    "name": "albertosca/vim-ai-follower",
+    "description": "Watch Claude Code edit files live in a tmux+Vim pane or a running Neovim",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "albertosca",
+    "repoName": "vim-ai-follower",
+    "repoBranch": "main"
+  },
+  "livingghost/series-continuity-director": {
+    "name": "livingghost/series-continuity-director",
+    "description": "Agent skill that directs a recurring-character series so story, identity, state, wardrobe, prop ownership, camera geography and accepted history survive from scene to scene, for screen, comics or prose.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "livingghost",
+    "repoName": "series-continuity-director",
+    "repoBranch": "main"
   }
 }
