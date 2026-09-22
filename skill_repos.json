@@ -38634,5 +38634,120 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "swingerman/engineer": {
+        "owner": "swingerman",
+        "name": "engineer",
+        "branch": "master",
+        "enabled": true
+    },
+    "kishormorol/cli-faq-shortcuts": {
+        "owner": "kishormorol",
+        "name": "cli-faq-shortcuts",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "romankurnovskii/etemaro": {
+        "owner": "romankurnovskii",
+        "name": "etemaro",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yeisonrestrepo/code-conductor": {
+        "owner": "yeisonrestrepo",
+        "name": "code-conductor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ProjectAJ14/eklavya": {
+        "owner": "ProjectAJ14",
+        "name": "eklavya",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brian-a-au/bau-claude-skills": {
+        "owner": "brian-a-au",
+        "name": "bau-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "spunt/intake-form": {
+        "owner": "spunt",
+        "name": "intake-form",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zurara/minimap": {
+        "owner": "zurara",
+        "name": "minimap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rokokol/nix-best-practices-skill": {
+        "owner": "rokokol",
+        "name": "nix-best-practices-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "finalize/skills": {
+        "owner": "finalize",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lutfitek/2026-job-hunt": {
+        "owner": "lutfitek",
+        "name": "2026-job-hunt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MauricioQuezadaHaintech/karvey": {
+        "owner": "MauricioQuezadaHaintech",
+        "name": "karvey",
+        "branch": "main",
+        "enabled": true
+    },
+    "mridulthareja/dashboard-skill": {
+        "owner": "mridulthareja",
+        "name": "dashboard-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "inbrace-tech/claude-skills": {
+        "owner": "inbrace-tech",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "justin-gpt/signal-to-sequence": {
+        "owner": "justin-gpt",
+        "name": "signal-to-sequence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tsurutanmen/claude-plugins": {
+        "owner": "tsurutanmen",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "endless-galaxy-studios/neuroloom-sdlc-plugin": {
+        "owner": "endless-galaxy-studios",
+        "name": "neuroloom-sdlc-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

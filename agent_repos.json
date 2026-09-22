@@ -5245,5 +5245,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "swingerman/engineer": {
+    "owner": "swingerman",
+    "name": "engineer",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ProjectAJ14/eklavya": {
+    "owner": "ProjectAJ14",
+    "name": "eklavya",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "endless-galaxy-studios/neuroloom-sdlc-plugin": {
+    "owner": "endless-galaxy-studios",
+    "name": "neuroloom-sdlc-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -30367,5 +30367,104 @@
     "repoOwner": "livingghost",
     "repoName": "series-continuity-director",
     "repoBranch": "main"
+  },
+  "swingerman/engineer": {
+    "name": "swingerman/engineer",
+    "description": "Disciplined Agentic Engineering \u2014 a methodology kit for Claude Code: acceptance-test-first specs, explicit checkpoints, and autonomy you can actually leave running. The engineer, atdd and crap-analyzer plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "swingerman",
+    "repoName": "engineer",
+    "repoBranch": "master"
+  },
+  "kishormorol/cli-faq-shortcuts": {
+    "name": "kishormorol/cli-faq-shortcuts",
+    "description": "An Agent Skill that turns the asks you keep typing into short commands, mined from your own Claude Code and Codex history. Works in Claude Code, Codex and Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kishormorol",
+    "repoName": "cli-faq-shortcuts",
+    "repoBranch": "main"
+  },
+  "ProjectAJ14/eklavya": {
+    "name": "ProjectAJ14/eklavya",
+    "description": "Learn while your agent works. A Claude Code plugin that quizzes you on the concepts behind the code it just wrote \u2014 local knowledge graph, spaced repetition, optional commit gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ProjectAJ14",
+    "repoName": "eklavya",
+    "repoBranch": "main"
+  },
+  "brian-a-au/bau-claude-skills": {
+    "name": "brian-a-au/bau-claude-skills",
+    "description": "Claude Code skills for Adobe Analytics and Customer Journey Analytics: concepts, API setup, and SDR tooling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brian-a-au",
+    "repoName": "bau-claude-skills",
+    "repoBranch": "main"
+  },
+  "spunt/intake-form": {
+    "name": "spunt/intake-form",
+    "description": "Generate a standalone HTML intake/clarification form from a JSON spec \u2014 and get back an agent-ready export.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spunt",
+    "repoName": "intake-form",
+    "repoBranch": "main"
+  },
+  "zurara/minimap": {
+    "name": "zurara/minimap",
+    "description": "A super mini mindmap tool. One HTML file \u2014 no account, no server, no network.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zurara",
+    "repoName": "minimap",
+    "repoBranch": "main"
+  },
+  "lutfitek/2026-job-hunt": {
+    "name": "lutfitek/2026-job-hunt",
+    "description": "Claude Code skill: structured job search with tailored resumes and cover letters, final-click form filling, and a tracker dashboard",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lutfitek",
+    "repoName": "2026-job-hunt",
+    "repoBranch": "main"
+  },
+  "MauricioQuezadaHaintech/karvey": {
+    "name": "MauricioQuezadaHaintech/karvey",
+    "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MauricioQuezadaHaintech",
+    "repoName": "karvey",
+    "repoBranch": "main"
+  },
+  "mridulthareja/dashboard-skill": {
+    "name": "mridulthareja/dashboard-skill",
+    "description": "Anti-slop agent skill for SaaS dashboard UI: admin panels, analytics, CRM, data tables, app shells. Install: npx skills add mridulthareja/dashboard-skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mridulthareja",
+    "repoName": "dashboard-skill",
+    "repoBranch": "main"
+  },
+  "inbrace-tech/claude-skills": {
+    "name": "inbrace-tech/claude-skills",
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inbrace-tech",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "tsurutanmen/claude-plugins": {
+    "name": "tsurutanmen/claude-plugins",
+    "description": "Claude Code plugins that build the control before the comparison: verifygate, strictnull, searchdiff, sameness",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tsurutanmen",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }
