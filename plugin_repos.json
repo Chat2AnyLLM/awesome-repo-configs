@@ -30142,5 +30142,77 @@
     "repoOwner": "NourEldinShobier",
     "repoName": "web-search",
     "repoBranch": "main"
+  },
+  "feder-cr/aihawk_mcp_server": {
+    "name": "feder-cr/aihawk_mcp_server",
+    "description": "Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "feder-cr",
+    "repoName": "aihawk_mcp_server",
+    "repoBranch": "main"
+  },
+  "JakeSelby/agent-harness": {
+    "name": "JakeSelby/agent-harness",
+    "description": "Your way of working, across AI agents. An agentic coding harness for Claude Code and Codex: one checkout of rules, skills, subagents, slash commands, hooks and output styles, projected into AGENTS.md and ~/.claude, wi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JakeSelby",
+    "repoName": "agent-harness",
+    "repoBranch": "main"
+  },
+  "BradleyDB/gs-admin-cli-docs": {
+    "name": "BradleyDB/gs-admin-cli-docs",
+    "description": "Unofficial community docs, knowledge base, and Claude Code plugin for the Gainsight Admin CLI (gs-admin). Not affiliated with or endorsed by Gainsight, Inc.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BradleyDB",
+    "repoName": "gs-admin-cli-docs",
+    "repoBranch": "main"
+  },
+  "Londopy/git-attribution": {
+    "name": "Londopy/git-attribution",
+    "description": "Find and remove AI co-author attribution from your git history - is Claude Code, Codex or Copilot still adding it, which commits carry it, scrub them, and block it from coming back.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Londopy",
+    "repoName": "git-attribution",
+    "repoBranch": "main"
+  },
+  "vannt-dev/ai-engineering-skills": {
+    "name": "vannt-dev/ai-engineering-skills",
+    "description": "Portable software engineering skills for Claude Code, Codex, OpenCode and other AI coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vannt-dev",
+    "repoName": "ai-engineering-skills",
+    "repoBranch": "main"
+  },
+  "m1nga/sidecourt-plugin": {
+    "name": "m1nga/sidecourt-plugin",
+    "description": "SideCourt for Claude Code and Codex \u2014 save a work or a request from where you build it, keep the draft current, read replies and help offers. It never publishes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "m1nga",
+    "repoName": "sidecourt-plugin",
+    "repoBranch": "main"
+  },
+  "antoniowolkk/junior-agent": {
+    "name": "antoniowolkk/junior-agent",
+    "description": "Depth before speed. AGENTS.md starter pack + 9 Claude Code skills for rigorous, verifiable agent work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "antoniowolkk",
+    "repoName": "junior-agent",
+    "repoBranch": "main"
+  },
+  "ruslan-rv-ua/axygen-checklist-tools": {
+    "name": "ruslan-rv-ua/axygen-checklist-tools",
+    "description": "Claude Code plugin for writing checklists for the Axygen Checklist NVDA add-on",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ruslan-rv-ua",
+    "repoName": "axygen-checklist-tools",
+    "repoBranch": "develop"
   }
 }

@@ -38291,5 +38291,147 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "feder-cr/aihawk_mcp_server": {
+        "owner": "feder-cr",
+        "name": "aihawk_mcp_server",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rjxshr1/idea-to-print": {
+        "owner": "Rjxshr1",
+        "name": "idea-to-print",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JakeSelby/agent-harness": {
+        "owner": "JakeSelby",
+        "name": "agent-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "BradleyDB/gs-admin-cli-docs": {
+        "owner": "BradleyDB",
+        "name": "gs-admin-cli-docs",
+        "branch": "main",
+        "enabled": true
+    },
+    "poiuyjie/jev_project_context": {
+        "owner": "poiuyjie",
+        "name": "jev_project_context",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DEOWL-kan/how-they-built-it": {
+        "owner": "DEOWL-kan",
+        "name": "how-they-built-it",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "takimdigital/deckhand-skill": {
+        "owner": "takimdigital",
+        "name": "deckhand-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Londopy/git-attribution": {
+        "owner": "Londopy",
+        "name": "git-attribution",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chad-nethery/karaoke-maker": {
+        "owner": "chad-nethery",
+        "name": "karaoke-maker",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wanghie/nqh-skills": {
+        "owner": "wanghie",
+        "name": "nqh-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bitpunklabs/ticker-universe-builder": {
+        "owner": "bitpunklabs",
+        "name": "ticker-universe-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nonstopmatt/agent-toolbox": {
+        "owner": "nonstopmatt",
+        "name": "agent-toolbox",
+        "branch": "main",
+        "enabled": true
+    },
+    "why20261/tiktok-creator-match": {
+        "owner": "why20261",
+        "name": "tiktok-creator-match",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vannt-dev/ai-engineering-skills": {
+        "owner": "vannt-dev",
+        "name": "ai-engineering-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "m1nga/sidecourt-plugin": {
+        "owner": "m1nga",
+        "name": "sidecourt-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "antoniowolkk/junior-agent": {
+        "owner": "antoniowolkk",
+        "name": "junior-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ruslan-rv-ua/axygen-checklist-tools": {
+        "owner": "ruslan-rv-ua",
+        "name": "axygen-checklist-tools",
+        "branch": "develop",
+        "enabled": true
+    },
+    "ei06125/omg-claude-plugin": {
+        "owner": "ei06125",
+        "name": "omg-claude-plugin",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "rhino-ty/obsidian-write": {
+        "owner": "rhino-ty",
+        "name": "obsidian-write",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DMonkey0908/erp-ui-design-system": {
+        "owner": "DMonkey0908",
+        "name": "erp-ui-design-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "gyujeongion/youtube-caption-translator": {
+        "owner": "gyujeongion",
+        "name": "youtube-caption-translator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
