@@ -5287,5 +5287,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "MustafaMese/subagent-loop": {
+    "owner": "MustafaMese",
+    "name": "subagent-loop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Prometheus-AGS/prometheus-skill-system": {
+    "owner": "Prometheus-AGS",
+    "name": "prometheus-skill-system",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Prometheus-AGS/prometheus-skills-mini": {
+    "owner": "Prometheus-AGS",
+    "name": "prometheus-skills-mini",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

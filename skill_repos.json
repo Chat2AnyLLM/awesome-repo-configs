@@ -38842,5 +38842,117 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "OneMoh/html-explainer": {
+        "owner": "OneMoh",
+        "name": "html-explainer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "stasiiakondratiuk/humanizer": {
+        "owner": "stasiiakondratiuk",
+        "name": "humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "leancodepl/ai-plugins": {
+        "owner": "leancodepl",
+        "name": "ai-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "sshah03/use-citations": {
+        "owner": "sshah03",
+        "name": "use-citations",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "benabbate-sales/basho-outreach-skill": {
+        "owner": "benabbate-sales",
+        "name": "basho-outreach-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cjber/skills": {
+        "owner": "cjber",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "MustafaMese/subagent-loop": {
+        "owner": "MustafaMese",
+        "name": "subagent-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rusharlabs/house-party-protocol": {
+        "owner": "rusharlabs",
+        "name": "house-party-protocol",
+        "branch": "main",
+        "enabled": true
+    },
+    "auYeCoding/radish-plugins": {
+        "owner": "auYeCoding",
+        "name": "radish-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "bytesbrains/cruise-claude-plugin": {
+        "owner": "bytesbrains",
+        "name": "cruise-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "ali-rajabpour/MonkeyArmy": {
+        "owner": "ali-rajabpour",
+        "name": "MonkeyArmy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Prometheus-AGS/prometheus-skill-system": {
+        "owner": "Prometheus-AGS",
+        "name": "prometheus-skill-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "Prometheus-AGS/prometheus-skills-mini": {
+        "owner": "Prometheus-AGS",
+        "name": "prometheus-skills-mini",
+        "branch": "main",
+        "enabled": true
+    },
+    "chacesclaw/pdf-to-markdown": {
+        "owner": "chacesclaw",
+        "name": "pdf-to-markdown",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NexFabric/lean-startup-skill": {
+        "owner": "NexFabric",
+        "name": "lean-startup-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ericforge/localized-translation": {
+        "owner": "ericforge",
+        "name": "localized-translation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chengwesley/decision-pulse": {
+        "owner": "chengwesley",
+        "name": "decision-pulse",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

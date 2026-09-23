@@ -30556,5 +30556,77 @@
     "repoOwner": "hugojsfranca",
     "repoName": "higgsfield-seedance",
     "repoBranch": "main"
+  },
+  "leancodepl/ai-plugins": {
+    "name": "leancodepl/ai-plugins",
+    "description": "Claude Code plugins for Flutter: LeanCode's conventions, plus tools that can drive your app live.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leancodepl",
+    "repoName": "ai-plugins",
+    "repoBranch": "main"
+  },
+  "devohmycode/claude-plugins": {
+    "name": "devohmycode/claude-plugins",
+    "description": "Claude Code plugin marketplace by DevOhMyCode \u2014 scanner: local, profile-driven repository scans",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devohmycode",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "rusharlabs/house-party-protocol": {
+    "name": "rusharlabs/house-party-protocol",
+    "description": "Evidence-first harness for coding agents across Claude Code and Codex CLI: cross-model review, governed loops, isolated lanes, deterministic evaluation, verified delivery.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rusharlabs",
+    "repoName": "house-party-protocol",
+    "repoBranch": "main"
+  },
+  "auYeCoding/radish-plugins": {
+    "name": "auYeCoding/radish-plugins",
+    "description": "Practical plugins for Claude Code, maintained by auYeCoding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "auYeCoding",
+    "repoName": "radish-plugins",
+    "repoBranch": "main"
+  },
+  "bytesbrains/cruise-claude-plugin": {
+    "name": "bytesbrains/cruise-claude-plugin",
+    "description": "BytesBrains Cruise for Claude Code: models, budget and spend over MCP, a spend status line, and guided setup. On npm as @bytesbrains/claude-code-cruise.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bytesbrains",
+    "repoName": "cruise-claude-plugin",
+    "repoBranch": "main"
+  },
+  "ali-rajabpour/MonkeyArmy": {
+    "name": "ali-rajabpour/MonkeyArmy",
+    "description": "Claude Code plugin: the Opus supervisor plans, specifies and reviews; cheap workers (DeepSeek & co. via 9Router) write the code in isolated git worktrees. Server-side verification, a review gate, and merge-back as one...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ali-rajabpour",
+    "repoName": "MonkeyArmy",
+    "repoBranch": "main"
+  },
+  "Prometheus-AGS/prometheus-skill-system": {
+    "name": "Prometheus-AGS/prometheus-skill-system",
+    "description": "KnowMe-aligned AI skills, P2P sync, and the Feynman learning engine: the full Prometheus skill system for AI coding assistants.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Prometheus-AGS",
+    "repoName": "prometheus-skill-system",
+    "repoBranch": "main"
+  },
+  "Prometheus-AGS/prometheus-skills-mini": {
+    "name": "Prometheus-AGS/prometheus-skills-mini",
+    "description": "Windows-native Node.js port of the Prometheus skill system: KBD lifecycle, adversarial review, and plugin distribution for AI coding assistants.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Prometheus-AGS",
+    "repoName": "prometheus-skills-mini",
+    "repoBranch": "main"
   }
 }
