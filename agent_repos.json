@@ -5315,5 +5315,12 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "jellologic/claude-code-muse": {
+    "owner": "jellologic",
+    "name": "claude-code-muse",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

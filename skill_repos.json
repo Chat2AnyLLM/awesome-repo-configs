@@ -39054,5 +39054,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ellehelvig/hr-ai-transformation-playbook": {
+        "owner": "ellehelvig",
+        "name": "hr-ai-transformation-playbook",
+        "branch": "main",
+        "enabled": true
+    },
+    "i-afaqrashid/claude-animation-studio": {
+        "owner": "i-afaqrashid",
+        "name": "claude-animation-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Bexruz-cell/agent-skills": {
+        "owner": "Bexruz-cell",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hussainnasser1996-stack/print-studio": {
+        "owner": "hussainnasser1996-stack",
+        "name": "print-studio",
+        "branch": "main",
+        "enabled": true
+    },
+    "ckryptickunal/OpenDesigner": {
+        "owner": "ckryptickunal",
+        "name": "OpenDesigner",
+        "branch": "main",
+        "enabled": true
+    },
+    "grabreu/cram-kit": {
+        "owner": "grabreu",
+        "name": "cram-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "sulhadin/agentbase": {
+        "owner": "sulhadin",
+        "name": "agentbase",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jellologic/claude-code-muse": {
+        "owner": "jellologic",
+        "name": "claude-code-muse",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TheOnlyFusionCube/devin-plugin-cc": {
+        "owner": "TheOnlyFusionCube",
+        "name": "devin-plugin-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "nyarenari/project-feed-plugins": {
+        "owner": "nyarenari",
+        "name": "project-feed-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jiusi-pys/agent-plugins": {
+        "owner": "Jiusi-pys",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "dgaidula/claude-config-tune": {
+        "owner": "dgaidula",
+        "name": "claude-config-tune",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "karankumar24/skill-triage": {
+        "owner": "karankumar24",
+        "name": "skill-triage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "reemalfadly/alive-claude": {
+        "owner": "reemalfadly",
+        "name": "alive-claude",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NicoSKOOL/ai-ranking-scroll-seo": {
+        "owner": "NicoSKOOL",
+        "name": "ai-ranking-scroll-seo",
+        "branch": "main",
+        "enabled": true
+    },
+    "yushiran/cc-academic-figtab-skill": {
+        "owner": "yushiran",
+        "name": "cc-academic-figtab-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tonyprots/transcriber-skill": {
+        "owner": "tonyprots",
+        "name": "transcriber-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -30754,5 +30754,113 @@
     "repoOwner": "iHatePostingOrg",
     "repoName": "agent-skill",
     "repoBranch": "main"
+  },
+  "i-afaqrashid/claude-animation-studio": {
+    "name": "i-afaqrashid/claude-animation-studio",
+    "description": "Claude Code plugin: animated short films where every frame is drawn in code and the music is synthesized in code, perfectly synced.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "i-afaqrashid",
+    "repoName": "claude-animation-studio",
+    "repoBranch": "main"
+  },
+  "hussainnasser1996-stack/print-studio": {
+    "name": "hussainnasser1996-stack/print-studio",
+    "description": "Print-grade document skills for Claude: investor teasers, annual reports and magazines as PDFs whose numbers you can audit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hussainnasser1996-stack",
+    "repoName": "print-studio",
+    "repoBranch": "main"
+  },
+  "ckryptickunal/OpenDesigner": {
+    "name": "ckryptickunal/OpenDesigner",
+    "description": "Open-source AI design system builder. Load it into Claude, ChatGPT, Codex or Cursor: it interviews you, recommends sourced defaults and writes DTCG design tokens, CSS, Tailwind, Figma variables, DESIGN.md and a decisi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ckryptickunal",
+    "repoName": "OpenDesigner",
+    "repoBranch": "main"
+  },
+  "sulhadin/agentbase": {
+    "name": "sulhadin/agentbase",
+    "description": "Write your AI agent skills once; every repo gets them as a PR. Shared skills for Claude Code, Codex, Cursor, Copilot and more, versioned from conventional commits and rolled out automatically.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sulhadin",
+    "repoName": "agentbase",
+    "repoBranch": "main"
+  },
+  "jellologic/claude-code-muse": {
+    "name": "jellologic/claude-code-muse",
+    "description": "Claude Code plugin that delegates bulk coding work (tests, migrations, refactors, lint fixes) to cheap Muse Code workers in isolated git worktrees. A supervisor agent runs your acceptance check itself and re-prompts u...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jellologic",
+    "repoName": "claude-code-muse",
+    "repoBranch": "main"
+  },
+  "tstanmay13/claude-skills": {
+    "name": "tstanmay13/claude-skills",
+    "description": "Tanmay Singh's Claude Code skills \u2014 add one marketplace, get them all (debrief, product-view).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tstanmay13",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "TheOnlyFusionCube/devin-plugin-cc": {
+    "name": "TheOnlyFusionCube/devin-plugin-cc",
+    "description": "Devin plugin for Claude Code and Codex: AI code reviews, delegated coding tasks, Fusion sidekick workflows, and cloud handoffs to app.devin.ai.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TheOnlyFusionCube",
+    "repoName": "devin-plugin-cc",
+    "repoBranch": "main"
+  },
+  "nyarenari/project-feed-plugins": {
+    "name": "nyarenari/project-feed-plugins",
+    "description": "Official Project Feed plugins for Cursor, Codex, Claude Code, and Gemini CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nyarenari",
+    "repoName": "project-feed-plugins",
+    "repoBranch": "main"
+  },
+  "Jiusi-pys/agent-plugins": {
+    "name": "Jiusi-pys/agent-plugins",
+    "description": "claude code plugins marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jiusi-pys",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "dgaidula/claude-config-tune": {
+    "name": "dgaidula/claude-config-tune",
+    "description": "Claude Code config hygiene: a deterministic permission allow-list linter (with a sensitive-server guard) plus a measured, verified method for trimming CLAUDE.md context cost.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dgaidula",
+    "repoName": "claude-config-tune",
+    "repoBranch": "main"
+  },
+  "NicoSKOOL/ai-ranking-scroll-seo": {
+    "name": "NicoSKOOL/ai-ranking-scroll-seo",
+    "description": "Claude Code skill: premium scroll-driven websites that also rank. WebP budgets, schema, keyword-matched H1, Lighthouse 95+, agentic browsing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NicoSKOOL",
+    "repoName": "ai-ranking-scroll-seo",
+    "repoBranch": "main"
+  },
+  "tonyprots/transcriber-skill": {
+    "name": "tonyprots/transcriber-skill",
+    "description": "\u0420\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u043a\u0430 \u0430\u0443\u0434\u0438\u043e \u0438 \u0432\u0438\u0434\u0435\u043e \u0432 \u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code \u0438 Codex: \u0444\u0430\u0439\u043b\u044b, YouTube, \u0412\u041a \u0412\u0438\u0434\u0435\u043e, \u0420\u0443\u0442\u0443\u0431, \u042f\u043d\u0434\u0435\u043a\u0441 \u041c\u0443\u0437\u044b\u043a\u0430. \u0414\u0432\u0435 \u043c\u043e\u0434\u0435\u043b\u0438 \u0438 \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u0441\u043f\u043e\u0440\u043d\u044b\u0445 \u043c\u0435\u0441\u0442, \u0441\u043b\u043e\u0432\u0430\u0440\u044c \u0442\u0435\u0440\u043c\u0438\u043d\u043e\u0432, \u0441\u043f\u0438\u043a\u0435\u0440\u044b, \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonyprots",
+    "repoName": "transcriber-skill",
+    "repoBranch": "main"
   }
 }
