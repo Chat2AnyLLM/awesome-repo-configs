@@ -30628,5 +30628,131 @@
     "repoOwner": "Prometheus-AGS",
     "repoName": "prometheus-skills-mini",
     "repoBranch": "main"
+  },
+  "wasd96040501/taskcut": {
+    "name": "wasd96040501/taskcut",
+    "description": "Claude Code plugin that compacts the conversation at sub-task boundaries instead of at the context limit",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wasd96040501",
+    "repoName": "taskcut",
+    "repoBranch": "main"
+  },
+  "drnachio/postext": {
+    "name": "drnachio/postext",
+    "description": "A programmable typesetter for the web",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drnachio",
+    "repoName": "postext",
+    "repoBranch": "main"
+  },
+  "yegor256/courier": {
+    "name": "yegor256/courier",
+    "description": "A skill for an AI agent to help it create well documented and clean pull requests",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yegor256",
+    "repoName": "courier",
+    "repoBranch": "master"
+  },
+  "Mach-Five-Group/machvive-webmcp-ai": {
+    "name": "Mach-Five-Group/machvive-webmcp-ai",
+    "description": "Mach Five Tech Chicago Machvive AI WebMCP Components",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mach-Five-Group",
+    "repoName": "machvive-webmcp-ai",
+    "repoBranch": "main"
+  },
+  "ilien-dev/quiron": {
+    "name": "ilien-dev/quiron",
+    "description": "AI humanizer skill for Claude Code, Codex and Cursor. Removes AI slop and the signs of AI writing, then measures the rewrite against human baselines.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilien-dev",
+    "repoName": "quiron",
+    "repoBranch": "main"
+  },
+  "zhuhrymhd/testcase-artisan": {
+    "name": "zhuhrymhd/testcase-artisan",
+    "description": "zhuhrymhd/testcase-artisan \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zhuhrymhd",
+    "repoName": "testcase-artisan",
+    "repoBranch": "master"
+  },
+  "ormeilu/avoid-ai-writing-russian": {
+    "name": "ormeilu/avoid-ai-writing-russian",
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 \u0434\u0435\u0442\u0435\u043a\u0442\u043e\u0440 \u043d\u0430 TypeScript/Bun: \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0418\u0418-\u0441\u0442\u0438\u043b\u044c \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u0442\u0435\u043a\u0441\u0442\u043e\u0432 (\u043a\u0430\u043d\u0446\u0435\u043b\u044f\u0440\u0438\u0442, \u043a\u0430\u043b\u044c\u043a\u0438, \u0448\u0442\u0430\u043c\u043f\u044b) \u0438 \u0433\u043e\u0442\u043e\u0432\u0438\u0442 \u043a \u00ab\u0410\u043d\u0442\u0438\u043f\u043b\u0430\u0433\u0438\u0430\u0442\u0443\u00bb. \u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0438\u044f avoid-ai-writing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ormeilu",
+    "repoName": "avoid-ai-writing-russian",
+    "repoBranch": "master"
+  },
+  "lyngon/devkit": {
+    "name": "lyngon/devkit",
+    "description": "The shared foundation for software development at Lyngon: Claude Code plugin marketplace, shared devenv module and engineering conventions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lyngon",
+    "repoName": "devkit",
+    "repoBranch": "main"
+  },
+  "lunartec/lunar-skills": {
+    "name": "lunartec/lunar-skills",
+    "description": "Lean, script-backed agent skills for Claude Code and Codex: chaos-storm, signal-noise, devils-advocate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lunartec",
+    "repoName": "lunar-skills",
+    "repoBranch": "main"
+  },
+  "anykolaiszyn/claude-codex-sdlc-kit": {
+    "name": "anykolaiszyn/claude-codex-sdlc-kit",
+    "description": "Claude orchestrates, Codex reviews: a spec-first, test-first, PR-looped development process for Claude Code, installable as a plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anykolaiszyn",
+    "repoName": "claude-codex-sdlc-kit",
+    "repoBranch": "main"
+  },
+  "EthanY33/atelier": {
+    "name": "EthanY33/atelier",
+    "description": "Design automation for Claude Code. One brand.json drives tokens, social cards, icons, responsive images, video, and accessibility plus runtime-UX audits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EthanY33",
+    "repoName": "atelier",
+    "repoBranch": "main"
+  },
+  "ironmoose/prove-it": {
+    "name": "ironmoose/prove-it",
+    "description": "A standalone code review + verification harness for Claude Code. A finding is not real until a script reproduces it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ironmoose",
+    "repoName": "prove-it",
+    "repoBranch": "main"
+  },
+  "ironmoose/adze-bonch": {
+    "name": "ironmoose/adze-bonch",
+    "description": "Claude Code plugin for adze project discipline: synchronous decision capture, a per-project resume pulse, and task-review findings proven by reproduction before they are fixed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ironmoose",
+    "repoName": "adze-bonch",
+    "repoBranch": "main"
+  },
+  "iHatePostingOrg/agent-skill": {
+    "name": "iHatePostingOrg/agent-skill",
+    "description": "Let Claude Code, Cursor, Gemini CLI and Grok Build draft, validate, schedule and publish posts on 14 social networks \u2014 X, LinkedIn, Instagram, TikTok, YouTube, Threads, Bluesky, Pinterest and more \u2014 through the hosted...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iHatePostingOrg",
+    "repoName": "agent-skill",
+    "repoBranch": "main"
   }
 }

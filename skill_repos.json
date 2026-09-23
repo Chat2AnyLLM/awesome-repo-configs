@@ -38954,5 +38954,105 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "TurboKach/claude-code-setup": {
+        "owner": "TurboKach",
+        "name": "claude-code-setup",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "drnachio/postext": {
+        "owner": "drnachio",
+        "name": "postext",
+        "branch": "main",
+        "enabled": true
+    },
+    "fabianmartinelli-fm/harness-audit": {
+        "owner": "fabianmartinelli-fm",
+        "name": "harness-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yegor256/courier": {
+        "owner": "yegor256",
+        "name": "courier",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mach-Five-Group/machvive-webmcp-ai": {
+        "owner": "Mach-Five-Group",
+        "name": "machvive-webmcp-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "ilien-dev/quiron": {
+        "owner": "ilien-dev",
+        "name": "quiron",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zhuhrymhd/testcase-artisan": {
+        "owner": "zhuhrymhd",
+        "name": "testcase-artisan",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "docsor1212/paper-rewriter": {
+        "owner": "docsor1212",
+        "name": "paper-rewriter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ormeilu/avoid-ai-writing-russian": {
+        "owner": "ormeilu",
+        "name": "avoid-ai-writing-russian",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lyngon/devkit": {
+        "owner": "lyngon",
+        "name": "devkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "lunartec/lunar-skills": {
+        "owner": "lunartec",
+        "name": "lunar-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anykolaiszyn/claude-codex-sdlc-kit": {
+        "owner": "anykolaiszyn",
+        "name": "claude-codex-sdlc-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EthanY33/atelier": {
+        "owner": "EthanY33",
+        "name": "atelier",
+        "branch": "main",
+        "enabled": true
+    },
+    "ironmoose/adze-bonch": {
+        "owner": "ironmoose",
+        "name": "adze-bonch",
+        "branch": "main",
+        "enabled": true
+    },
+    "iHatePostingOrg/agent-skill": {
+        "owner": "iHatePostingOrg",
+        "name": "agent-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

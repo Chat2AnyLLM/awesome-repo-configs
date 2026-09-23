@@ -5308,5 +5308,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "TurboKach/claude-code-setup": {
+    "owner": "TurboKach",
+    "name": "claude-code-setup",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
