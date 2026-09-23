@@ -674,7 +674,7 @@
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "archcore-ai",
-    "repoName": "plugin",
+    "repoName": "archcore",
     "repoBranch": "main"
   },
   "claude-link": {
