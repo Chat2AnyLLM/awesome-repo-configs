@@ -38749,5 +38749,98 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ThinkFlowLab/system1-agents": {
+        "owner": "ThinkFlowLab",
+        "name": "system1-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "ficilcom/otame4-work-skills": {
+        "owner": "ficilcom",
+        "name": "otame4-work-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smixs/code-quality": {
+        "owner": "smixs",
+        "name": "code-quality",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "davekruse/phaser": {
+        "owner": "davekruse",
+        "name": "phaser",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "x0c/agent-doc-skills": {
+        "owner": "x0c",
+        "name": "agent-doc-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mdtealvl/guide-sdd": {
+        "owner": "mdtealvl",
+        "name": "guide-sdd",
+        "branch": "main",
+        "enabled": true
+    },
+    "burakCokyildirim/clawde-plugin": {
+        "owner": "burakCokyildirim",
+        "name": "clawde-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "Xxx91n/6F": {
+        "owner": "Xxx91n",
+        "name": "6F",
+        "branch": "main",
+        "enabled": true
+    },
+    "sethatwood/belay": {
+        "owner": "sethatwood",
+        "name": "belay",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tms-minhtang1/cc-pageindex": {
+        "owner": "tms-minhtang1",
+        "name": "cc-pageindex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Verso-Lab/big-if-true-plugin": {
+        "owner": "Verso-Lab",
+        "name": "big-if-true-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mikael-lovrin/fb-ad-library-spy": {
+        "owner": "mikael-lovrin",
+        "name": "fb-ad-library-spy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "justrhoto/polymarket-us-docs": {
+        "owner": "justrhoto",
+        "name": "polymarket-us-docs",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hugojsfranca/higgsfield-seedance": {
+        "owner": "hugojsfranca",
+        "name": "higgsfield-seedance",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

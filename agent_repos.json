@@ -5266,5 +5266,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ThinkFlowLab/system1-agents": {
+    "owner": "ThinkFlowLab",
+    "name": "system1-agents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "davekruse/phaser": {
+    "owner": "davekruse",
+    "name": "phaser",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sethatwood/belay": {
+    "owner": "sethatwood",
+    "name": "belay",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
