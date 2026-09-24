@@ -39429,5 +39429,105 @@
         "name": "markaestro-agents",
         "branch": "main",
         "enabled": true
+    },
+    "cq27-dev/rag-rat": {
+        "owner": "cq27-dev",
+        "name": "rag-rat",
+        "branch": "main",
+        "enabled": true
+    },
+    "haoming-luo/agentfem": {
+        "owner": "haoming-luo",
+        "name": "agentfem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NYTC69/review-loop": {
+        "owner": "NYTC69",
+        "name": "review-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ihudak/ai-workflows": {
+        "owner": "ihudak",
+        "name": "ai-workflows",
+        "branch": "main",
+        "enabled": true
+    },
+    "xtrair/figma-to-roblox-ui": {
+        "owner": "xtrair",
+        "name": "figma-to-roblox-ui",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "boweiww/behavior-first-testing": {
+        "owner": "boweiww",
+        "name": "behavior-first-testing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexlivre/pagespeed-optimizer-alexlivre": {
+        "owner": "alexlivre",
+        "name": "pagespeed-optimizer-alexlivre",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "apu242007/power-automate-sharepoint-skills": {
+        "owner": "apu242007",
+        "name": "power-automate-sharepoint-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "opascope/skills": {
+        "owner": "opascope",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrBogomips/claude-code": {
+        "owner": "MrBogomips",
+        "name": "claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "itsaspacestation/natural-intelligence": {
+        "owner": "itsaspacestation",
+        "name": "natural-intelligence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "verifyax/verifyax-plugins-claude": {
+        "owner": "verifyax",
+        "name": "verifyax-plugins-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "iAlias/ClaudeAutopilot": {
+        "owner": "iAlias",
+        "name": "ClaudeAutopilot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Svelez97/claude-model-selection": {
+        "owner": "Svelez97",
+        "name": "claude-model-selection",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iroha924/gleanery": {
+        "owner": "iroha924",
+        "name": "gleanery",
+        "branch": "main",
+        "enabled": true
     }
 }

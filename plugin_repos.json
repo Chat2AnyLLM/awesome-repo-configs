@@ -31060,5 +31060,113 @@
     "repoOwner": "markaestro",
     "repoName": "markaestro-agents",
     "repoBranch": "main"
+  },
+  "cq27-dev/rag-rat": {
+    "name": "cq27-dev/rag-rat",
+    "description": "Local repo-intelligence index + MCP server: semantic search, symbol/graph navigation, impact-surface preflight, git + GitHub papertrail, and a source-anchored memory graph.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cq27-dev",
+    "repoName": "rag-rat",
+    "repoBranch": "main"
+  },
+  "NYTC69/review-loop": {
+    "name": "NYTC69/review-loop",
+    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NYTC69",
+    "repoName": "review-loop",
+    "repoBranch": "main"
+  },
+  "ihudak/ai-workflows": {
+    "name": "ihudak/ai-workflows",
+    "description": "Claude Code plugins for the full feature lifecycle: idea \u2192 Value Increment \u2192 ARD \u2192 spec \u2192 design \u2192 Epics \u2192 implementation \u2192 docs \u2192 release notes, each gated by an Opus review. Tracks what every feature costs in $ by p...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ihudak",
+    "repoName": "ai-workflows",
+    "repoBranch": "main"
+  },
+  "boweiww/behavior-first-testing": {
+    "name": "boweiww/behavior-first-testing",
+    "description": "Claude Code skill + plugin: behavior-first testing for business apps. Approved Given/When/Then scenarios before code, no mocks, E2E by default, explained coverage gaps, enforced by a linter.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "boweiww",
+    "repoName": "behavior-first-testing",
+    "repoBranch": "main"
+  },
+  "apu242007/power-automate-sharepoint-skills": {
+    "name": "apu242007/power-automate-sharepoint-skills",
+    "description": "Agent skill: SPA -> Power Automate HTTP trigger -> SharePoint (limits, trigger auth, resilience, flows-as-code, error catalog)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "apu242007",
+    "repoName": "power-automate-sharepoint-skills",
+    "repoBranch": "main"
+  },
+  "MrBogomips/claude-code": {
+    "name": "MrBogomips/claude-code",
+    "description": "Claude Code plugin marketplace \u2014 SOW writing, PERT estimation, devcontainers, and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MrBogomips",
+    "repoName": "claude-code",
+    "repoBranch": "main"
+  },
+  "itsaspacestation/natural-intelligence": {
+    "name": "itsaspacestation/natural-intelligence",
+    "description": "Claude skills plugin for quiet senior dev",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itsaspacestation",
+    "repoName": "natural-intelligence",
+    "repoBranch": "main"
+  },
+  "NickkkLian/nickkk-skills": {
+    "name": "NickkkLian/nickkk-skills",
+    "description": "Agent skills for Claude Code, tested in OpenAI Codex too: six that make something new \u2014 a novel plan, a data tool, a data story from a spreadsheet, a booking page, a deck, a three-statement financial model \u2014 and ones...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NickkkLian",
+    "repoName": "nickkk-skills",
+    "repoBranch": "main"
+  },
+  "verifyax/verifyax-plugins-claude": {
+    "name": "verifyax/verifyax-plugins-claude",
+    "description": "Claude Code plugin marketplace for VerifyAX \u2014 agent evaluation, functional and non-functional verification from Conscium",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "verifyax",
+    "repoName": "verifyax-plugins-claude",
+    "repoBranch": "main"
+  },
+  "iAlias/ClaudeAutopilot": {
+    "name": "iAlias/ClaudeAutopilot",
+    "description": "\ud83e\udded Claude Code plugin: recommends the right model (Haiku/Sonnet/Opus/Fable) and effort for every message, delegates automatically, tracks Pro/Max usage limits and replaces permission prompts with plain-language questions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iAlias",
+    "repoName": "ClaudeAutopilot",
+    "repoBranch": "main"
+  },
+  "Svelez97/claude-model-selection": {
+    "name": "Svelez97/claude-model-selection",
+    "description": "Claude Code plugin: recommends the cheapest Claude model (Haiku, Sonnet, Opus, Fable) and effort for each chat, shows 5-hour/weekly/context usage, and guards subagent model cost.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Svelez97",
+    "repoName": "claude-model-selection",
+    "repoBranch": "main"
+  },
+  "iroha924/gleanery": {
+    "name": "iroha924/gleanery",
+    "description": "Local memory of past decisions for Claude Code and Codex. Records sessions and decisions in a local SQLite file and recalls them over MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iroha924",
+    "repoName": "gleanery",
+    "repoBranch": "main"
   }
 }

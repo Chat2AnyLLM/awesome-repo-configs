@@ -5343,5 +5343,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "NYTC69/review-loop": {
+    "owner": "NYTC69",
+    "name": "review-loop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "itsaspacestation/natural-intelligence": {
+    "owner": "itsaspacestation",
+    "name": "natural-intelligence",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iAlias/ClaudeAutopilot": {
+    "owner": "iAlias",
+    "name": "ClaudeAutopilot",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iroha924/gleanery": {
+    "owner": "iroha924",
+    "name": "gleanery",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
