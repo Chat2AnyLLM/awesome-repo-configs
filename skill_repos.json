@@ -39174,5 +39174,147 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "heathdutton/claude-d2-diagrams": {
+        "owner": "heathdutton",
+        "name": "claude-d2-diagrams",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "asauntung/claude-skill-cave": {
+        "owner": "asauntung",
+        "name": "claude-skill-cave",
+        "branch": "main",
+        "enabled": true
+    },
+    "entwoh/srilanka-business-law-skills": {
+        "owner": "entwoh",
+        "name": "srilanka-business-law-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "h1994st/rllvm": {
+        "owner": "h1994st",
+        "name": "rllvm",
+        "branch": "main",
+        "enabled": true
+    },
+    "voidvec/drogon-claude-plugin": {
+        "owner": "voidvec",
+        "name": "drogon-claude-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "carlosphyll/phyll": {
+        "owner": "carlosphyll",
+        "name": "phyll",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "QuickS3-com/skill": {
+        "owner": "QuickS3-com",
+        "name": "skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "feverZHONG/liya-subtraction-skill": {
+        "owner": "feverZHONG",
+        "name": "liya-subtraction-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "feverZHONG/liya-sillytavern-cards": {
+        "owner": "feverZHONG",
+        "name": "liya-sillytavern-cards",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "feverZHONG/liya-vision-recognition-traps": {
+        "owner": "feverZHONG",
+        "name": "liya-vision-recognition-traps",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "feverZHONG/liya-sea-turtle-soup": {
+        "owner": "feverZHONG",
+        "name": "liya-sea-turtle-soup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "feverZHONG/liya-spy-game": {
+        "owner": "feverZHONG",
+        "name": "liya-spy-game",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "feverZHONG/liya-chat-game-referee": {
+        "owner": "feverZHONG",
+        "name": "liya-chat-game-referee",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "feverZHONG/liya-persona-authoring": {
+        "owner": "feverZHONG",
+        "name": "liya-persona-authoring",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "OrcaCl/suplemento-estrella": {
+        "owner": "OrcaCl",
+        "name": "suplemento-estrella",
+        "branch": "main",
+        "enabled": true
+    },
+    "docsor1212/doc-holmes": {
+        "owner": "docsor1212",
+        "name": "doc-holmes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lancewc/sales-claude-skills": {
+        "owner": "lancewc",
+        "name": "sales-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "niansia/taiwan-exam": {
+        "owner": "niansia",
+        "name": "taiwan-exam",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gobstech/Claude_AI_Intensive_Hashtag": {
+        "owner": "gobstech",
+        "name": "Claude_AI_Intensive_Hashtag",
+        "branch": "main",
+        "enabled": true
+    },
+    "UncleOlu/deck-studio": {
+        "owner": "UncleOlu",
+        "name": "deck-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "svyatov/supermatt": {
+        "owner": "svyatov",
+        "name": "supermatt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

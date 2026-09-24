@@ -30862,5 +30862,77 @@
     "repoOwner": "tonyprots",
     "repoName": "transcriber-skill",
     "repoBranch": "main"
+  },
+  "heathdutton/claude-d2-diagrams": {
+    "name": "heathdutton/claude-d2-diagrams",
+    "description": "A Claude Code plugin that generates infrastructure and architecture diagrams (and documentation) from your codebase using D2",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heathdutton",
+    "repoName": "claude-d2-diagrams",
+    "repoBranch": "main"
+  },
+  "h1994st/rllvm": {
+    "name": "h1994st/rllvm",
+    "description": "Compiler wrappers for building whole-program LLVM bitcode files",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "h1994st",
+    "repoName": "rllvm",
+    "repoBranch": "main"
+  },
+  "voidvec/drogon-claude-plugin": {
+    "name": "voidvec/drogon-claude-plugin",
+    "description": "Drogon C++ backend Claude Code plugin: async discipline rules, 17 code-generation skills, and ESLint-style API-violation hooks. Installable via npm, PyPI, or Claude Code marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "voidvec",
+    "repoName": "drogon-claude-plugin",
+    "repoBranch": "master"
+  },
+  "carlosphyll/phyll": {
+    "name": "carlosphyll/phyll",
+    "description": "UX review for apps built with AI, inside the agent you already use. Keeps your design, cuts the overcoding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "carlosphyll",
+    "repoName": "phyll",
+    "repoBranch": "main"
+  },
+  "QuickS3-com/skill": {
+    "name": "QuickS3-com/skill",
+    "description": "Claude Code and Codex plugin for quickS3. Connects the hosted quickS3 MCP server and adds a skill so agents can browse, download, upload, and share files in S3, R2, B2, Wasabi, Spaces, MinIO, and Azure buckets with de...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QuickS3-com",
+    "repoName": "skill",
+    "repoBranch": "main"
+  },
+  "OrcaCl/suplemento-estrella": {
+    "name": "OrcaCl/suplemento-estrella",
+    "description": "Una br\u00fajula necesaria para perderle el miedo a trabajar \"junto\" a Claude Code (u otros agentes) y desarrollar con confianza, control y buenas pr\u00e1cticas.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OrcaCl",
+    "repoName": "suplemento-estrella",
+    "repoBranch": "main"
+  },
+  "UncleOlu/deck-studio": {
+    "name": "UncleOlu/deck-studio",
+    "description": "premium-decks: consulting-, banking-, and keynote-grade decks for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UncleOlu",
+    "repoName": "deck-studio",
+    "repoBranch": "main"
+  },
+  "svyatov/supermatt": {
+    "name": "svyatov/supermatt",
+    "description": "SuperMatt turns Matt Pocock's agent skills into one self-checking flow for Claude Code and Codex, from idea to reviewed code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "svyatov",
+    "repoName": "supermatt",
+    "repoBranch": "main"
   }
 }

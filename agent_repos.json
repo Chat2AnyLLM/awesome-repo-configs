@@ -5322,5 +5322,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "heathdutton/claude-d2-diagrams": {
+    "owner": "heathdutton",
+    "name": "claude-d2-diagrams",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "carlosphyll/phyll": {
+    "owner": "carlosphyll",
+    "name": "phyll",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
