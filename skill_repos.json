@@ -39167,5 +39167,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "socai-io/jev-social": {
+        "owner": "socai-io",
+        "name": "jev-social",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
