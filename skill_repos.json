@@ -39316,5 +39316,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "vostride/agent-qa": {
+        "owner": "vostride",
+        "name": "agent-qa",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
