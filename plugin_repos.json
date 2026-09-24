@@ -31168,5 +31168,68 @@
     "repoOwner": "iroha924",
     "repoName": "gleanery",
     "repoBranch": "main"
+  },
+  "victorserpa/objection": {
+    "name": "victorserpa/objection",
+    "description": "OBJECTION! A skill and plugin for AI coding agents (Claude Code, Codex, Cursor, Gemini): accusers, a defender and a judge review the PR, and a gate blocks it until APPROVED.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "victorserpa",
+    "repoName": "objection",
+    "repoBranch": "main"
+  },
+  "devantler-tech/agent-plugins": {
+    "name": "devantler-tech/agent-plugins",
+    "description": "Tool-neutral agent-plugin marketplace \u2014 bundles curated skills, MCP servers and agents from devantler-tech/agent-skills into category plugins for VS Code, GitHub Copilot CLI, and Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devantler-tech",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "lxhelili/dsgvo-audit": {
+    "name": "lxhelili/dsgvo-audit",
+    "description": "Claude skill + plugin: DSGVO/TDDDG/DDG compliance audit for websites and web apps under German law",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lxhelili",
+    "repoName": "dsgvo-audit",
+    "repoBranch": "main"
+  },
+  "satovarb16/runway": {
+    "name": "satovarb16/runway",
+    "description": "A memory for your job hunt: which jobs you applied to, what state each is in, and which resume version you sent \u2014 plus a live work-authorization warning.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "satovarb16",
+    "repoName": "runway",
+    "repoBranch": "master"
+  },
+  "NotTahaAli/sessclone": {
+    "name": "NotTahaAli/sessclone",
+    "description": "Claude Code usage and cost for a whole team: laptops, cloud sessions and CI in one priced ledger. Open source, free to self-host.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NotTahaAli",
+    "repoName": "sessclone",
+    "repoBranch": "main"
+  },
+  "btenner84/vlada-mcp": {
+    "name": "btenner84/vlada-mcp",
+    "description": "US healthcare data for AI agents on one MCP + REST endpoint: hospital and payer negotiated prices, Medicare Advantage benefits, Stars and enrollment, Medicaid, providers, drugs. Every answer carries its source file, v...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "btenner84",
+    "repoName": "vlada-mcp",
+    "repoBranch": "main"
+  },
+  "jesmarcelo/gera-pdf-premium": {
+    "name": "jesmarcelo/gera-pdf-premium",
+    "description": "Skill do Claude Code que transforma qualquer texto em um ebook PDF premium",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jesmarcelo",
+    "repoName": "gera-pdf-premium",
+    "repoBranch": "main"
   }
 }

@@ -39529,5 +39529,86 @@
         "name": "gleanery",
         "branch": "main",
         "enabled": true
+    },
+    "sevenevesai/riso-windowseat": {
+        "owner": "sevenevesai",
+        "name": "riso-windowseat",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "victorserpa/objection": {
+        "owner": "victorserpa",
+        "name": "objection",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devantler-tech/agent-skills": {
+        "owner": "devantler-tech",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "devantler-tech/agent-plugins": {
+        "owner": "devantler-tech",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "lxhelili/dsgvo-audit": {
+        "owner": "lxhelili",
+        "name": "dsgvo-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "illodev/drawn-by-code": {
+        "owner": "illodev",
+        "name": "drawn-by-code",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "sulhadin/agentspread": {
+        "owner": "sulhadin",
+        "name": "agentspread",
+        "branch": "main",
+        "enabled": true
+    },
+    "Shehabov/ai-dev-crew": {
+        "owner": "Shehabov",
+        "name": "ai-dev-crew",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "nazir99/drawing-t-accounts": {
+        "owner": "nazir99",
+        "name": "drawing-t-accounts",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "blonderoofrat/pet-freedom": {
+        "owner": "blonderoofrat",
+        "name": "pet-freedom",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jesmarcelo/gera-pdf-premium": {
+        "owner": "jesmarcelo",
+        "name": "gera-pdf-premium",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mateo-khalil/inked-explainer": {
+        "owner": "mateo-khalil",
+        "name": "inked-explainer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
