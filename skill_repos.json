@@ -39323,5 +39323,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "schudarin/chudarin-design-skills": {
+        "owner": "schudarin",
+        "name": "chudarin-design-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tndvnn/vingo": {
+        "owner": "tndvnn",
+        "name": "vingo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "klsoen/opus-js-animations": {
+        "owner": "klsoen",
+        "name": "opus-js-animations",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "uHappyLogic/cairn": {
+        "owner": "uHappyLogic",
+        "name": "cairn",
+        "branch": "main",
+        "enabled": true
+    },
+    "F-e-u-e-r/skills": {
+        "owner": "F-e-u-e-r",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "NovusEdge/curt": {
+        "owner": "NovusEdge",
+        "name": "curt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DesarrolloAntonio/qa-campaign": {
+        "owner": "DesarrolloAntonio",
+        "name": "qa-campaign",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "e-xode/deadweight": {
+        "owner": "e-xode",
+        "name": "deadweight",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Winterrks/telepathy": {
+        "owner": "Winterrks",
+        "name": "telepathy",
+        "branch": "main",
+        "enabled": true
+    },
+    "IamBiswajitSahoo/ClaudeSkills": {
+        "owner": "IamBiswajitSahoo",
+        "name": "ClaudeSkills",
+        "branch": "main",
+        "enabled": true
+    },
+    "steven-pribilinskiy/tabby-claude-status": {
+        "owner": "steven-pribilinskiy",
+        "name": "tabby-claude-status",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ldphuong-vn/validate-suite": {
+        "owner": "ldphuong-vn",
+        "name": "validate-suite",
+        "branch": "main",
+        "enabled": true
+    },
+    "Amaan-creates/agentic-gtm": {
+        "owner": "Amaan-creates",
+        "name": "agentic-gtm",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "redmouthcrow/itinerary-doctor": {
+        "owner": "redmouthcrow",
+        "name": "itinerary-doctor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ramialdine/unclaudey": {
+        "owner": "ramialdine",
+        "name": "unclaudey",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "markaestro/markaestro-agents": {
+        "owner": "markaestro",
+        "name": "markaestro-agents",
+        "branch": "main",
+        "enabled": true
     }
 }

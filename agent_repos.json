@@ -5336,5 +5336,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "SchotjeChrisman/agentic-workflow": {
+    "owner": "SchotjeChrisman",
+    "name": "agentic-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

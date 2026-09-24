@@ -30934,5 +30934,131 @@
     "repoOwner": "svyatov",
     "repoName": "supermatt",
     "repoBranch": "main"
+  },
+  "schudarin/chudarin-design-skills": {
+    "name": "schudarin/chudarin-design-skills",
+    "description": "A design agent for Figma. A plugin for Claude Code: seven skills so the agent works in your file from your components and variables, makes presentations, and writes text that doesn't read as generated.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "schudarin",
+    "repoName": "chudarin-design-skills",
+    "repoBranch": "main"
+  },
+  "klsoen/opus-js-animations": {
+    "name": "klsoen/opus-js-animations",
+    "description": "Claude Opus 5.5 directs and renders films in JavaScript: brief \u2192 sound (file, YouTube, generated, or AI voiceover) \u2192 director's treatment \u2192 frame-exact MP4. A Claude Code skill + plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "klsoen",
+    "repoName": "opus-js-animations",
+    "repoBranch": "main"
+  },
+  "cwakim/claude-plugins": {
+    "name": "cwakim/claude-plugins",
+    "description": "Claude Code plugins built around one idea \u2014 work that outlives the session: portable handoffs, memory that stays healthy and backed up, repos that stay clean.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cwakim",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "uHappyLogic/cairn": {
+    "name": "uHappyLogic/cairn",
+    "description": "Milestone-driven development workflow for Claude Code and Google Antigravity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uHappyLogic",
+    "repoName": "cairn",
+    "repoBranch": "main"
+  },
+  "F-e-u-e-r/skills": {
+    "name": "F-e-u-e-r/skills",
+    "description": "Claude Code plugin marketplace for agent discipline, reusable skills, executable gates and evaluation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "F-e-u-e-r",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "NovusEdge/curt": {
+    "name": "NovusEdge/curt",
+    "description": "Enforce clear technical prose. Remove AI slop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NovusEdge",
+    "repoName": "curt",
+    "repoBranch": "main"
+  },
+  "e-xode/deadweight": {
+    "name": "e-xode/deadweight",
+    "description": "Audit the Claude Code configuration of a project or a plugin: CLAUDE.md, skills, sub-agents, rules, hooks, settings, permissions, MCP, and the context it all costs. One Python script, no dependencies, no network.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "e-xode",
+    "repoName": "deadweight",
+    "repoBranch": "main"
+  },
+  "Winterrks/telepathy": {
+    "name": "Winterrks/telepathy",
+    "description": "Telepathy for your coding agents: Claude Code, Codex, OpenCode, Gemini CLI, Copilot CLI, Cursor, Grok, Devin, Antigravity, Kimi, Qwen and Kilo sessions on one machine message each other.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Winterrks",
+    "repoName": "telepathy",
+    "repoBranch": "main"
+  },
+  "IamBiswajitSahoo/ClaudeSkills": {
+    "name": "IamBiswajitSahoo/ClaudeSkills",
+    "description": "bix \u2014 A Claude Code plugin marketplace with useful skills for everyday productivity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IamBiswajitSahoo",
+    "repoName": "ClaudeSkills",
+    "repoBranch": "main"
+  },
+  "tadazly/s-plugins": {
+    "name": "tadazly/s-plugins",
+    "description": "\u9762\u5411 Agents \u7684\u63d2\u4ef6\u96c6\u5408\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tadazly",
+    "repoName": "s-plugins",
+    "repoBranch": "main"
+  },
+  "Akramovic1/jev-pilot": {
+    "name": "Akramovic1/jev-pilot",
+    "description": "Let Jev steer Claude Code: the right reasoning effort, subagent model and skill for every prompt. A Claude Code plugin powered by TypeSafe's Jev (OpenRouter / TypeSafe).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Akramovic1",
+    "repoName": "jev-pilot",
+    "repoBranch": "main"
+  },
+  "Amaan-creates/agentic-gtm": {
+    "name": "Amaan-creates/agentic-gtm",
+    "description": "A Claude skill that teaches founders how to find customers, and an agent that keeps finding them on a schedule you set.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Amaan-creates",
+    "repoName": "agentic-gtm",
+    "repoBranch": "main"
+  },
+  "ramialdine/unclaudey": {
+    "name": "ramialdine/unclaudey",
+    "description": "Stop Claude-built sites from looking Claude-built: a Claude Code skill for distinctive frontend design with real, semantically searched, art-directed photography.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ramialdine",
+    "repoName": "unclaudey",
+    "repoBranch": "main"
+  },
+  "markaestro/markaestro-agents": {
+    "name": "markaestro/markaestro-agents",
+    "description": "Official Markaestro plugin, Agent Skill, and MCP server for AI agents (Claude, ChatGPT, Cursor, and more)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "markaestro",
+    "repoName": "markaestro-agents",
+    "repoBranch": "main"
   }
 }
