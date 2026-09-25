@@ -39610,5 +39610,11 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "VectleAgent/vectle-skill": {
+        "owner": "VectleAgent",
+        "name": "vectle-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
