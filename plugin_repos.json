@@ -31546,5 +31546,122 @@
     "repoOwner": "tonone-ai",
     "repoName": "elephant",
     "repoBranch": "main"
+  },
+  "millw14/merrymen": {
+    "name": "millw14/merrymen",
+    "description": "Autonomous trading agents for Robinhood Chain, inside hard on-chain limits. Use it from Claude: tell Claude \"set up merrymen mcp\", or add it in one click at merrymen.dev/claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "millw14",
+    "repoName": "merrymen",
+    "repoBranch": "main"
+  },
+  "2389-research/binary-re": {
+    "name": "2389-research/binary-re",
+    "description": "Agentic binary reverse engineering for ELF binaries on ARM64, ARMv7, x86_64 - hypothesis-driven analysis with radare2, Ghidra, GDB, QEMU",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "binary-re",
+    "repoBranch": "main"
+  },
+  "2389-research/deliberation": {
+    "name": "2389-research/deliberation",
+    "description": "Decision-making through deliberation - seeking unity through discernment rather than consensus through debate",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "deliberation",
+    "repoBranch": "main"
+  },
+  "tomascupr/reelql": {
+    "name": "tomascupr/reelql",
+    "description": "Give your agent eyes: any video link in, one typed JSON out. A Claude skill + API.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomascupr",
+    "repoName": "reelql",
+    "repoBranch": "main"
+  },
+  "2389-research/test-kitchen": {
+    "name": "2389-research/test-kitchen",
+    "description": "Parallel exploration of implementation approaches - implements multiple variants simultaneously and lets tests determine the winner",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "test-kitchen",
+    "repoBranch": "main"
+  },
+  "2389-research/git-repo-prep": {
+    "name": "2389-research/git-repo-prep",
+    "description": "Prepare codebases for public/open-source release and audit them for openness - full lifecycle prep or standalone review",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "git-repo-prep",
+    "repoBranch": "main"
+  },
+  "2389-research/firebase-development": {
+    "name": "2389-research/firebase-development",
+    "description": "Firebase project workflows including setup, features, debugging, and validation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "firebase-development",
+    "repoBranch": "main"
+  },
+  "kreek/consult": {
+    "name": "kreek/consult",
+    "description": "Engineering quality focused skills for AI coding agents that keep humans in the loop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kreek",
+    "repoName": "consult",
+    "repoBranch": "main"
+  },
+  "2389-research/css-development": {
+    "name": "2389-research/css-development",
+    "description": "CSS development workflows with Tailwind composition, semantic naming, and dark mode by default",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "css-development",
+    "repoBranch": "main"
+  },
+  "joetawil7/first-pass": {
+    "name": "joetawil7/first-pass",
+    "description": "Rules and checks that make Claude Code look around a change, not just at the lines it writes: ten questions before code, a reviewer that didn't write it, proof before done, bugs fixed as a class.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joetawil7",
+    "repoName": "first-pass",
+    "repoBranch": "main"
+  },
+  "2389-research/prbuddy": {
+    "name": "2389-research/prbuddy",
+    "description": "PR health assistant - monitors CI, triages review comments, fixes issues with systematic prevention. Uses gh CLI and gh-pr-review extension.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "prbuddy",
+    "repoBranch": "main"
+  },
+  "2389-research/speed-run": {
+    "name": "2389-research/speed-run",
+    "description": "Token-efficient code generation pipeline - parallel implementation with hosted LLM (Cerebras) for ~60% token savings. Includes MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "speed-run",
+    "repoBranch": "main"
+  },
+  "KubeRocketCI/skills": {
+    "name": "KubeRocketCI/skills",
+    "description": "Agent Skills for delivering software on KubeRocketCI, from ticket to production: trace a story to its version in each environment, diagnose failed builds and unhealthy environments, check quality gates. For BA, PO, PM...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KubeRocketCI",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }

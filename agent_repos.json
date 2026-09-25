@@ -5434,5 +5434,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kreek/consult": {
+    "owner": "kreek",
+    "name": "consult",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -39961,5 +39961,118 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "millw14/merrymen": {
+        "owner": "millw14",
+        "name": "merrymen",
+        "branch": "main",
+        "enabled": true
+    },
+    "2389-research/binary-re": {
+        "owner": "2389-research",
+        "name": "binary-re",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/deliberation": {
+        "owner": "2389-research",
+        "name": "deliberation",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tomascupr/reelql": {
+        "owner": "tomascupr",
+        "name": "reelql",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/test-kitchen": {
+        "owner": "2389-research",
+        "name": "test-kitchen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Biraj2004/huashu-skills-english": {
+        "owner": "Biraj2004",
+        "name": "huashu-skills-english",
+        "branch": "main",
+        "enabled": true
+    },
+    "2389-research/git-repo-prep": {
+        "owner": "2389-research",
+        "name": "git-repo-prep",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/firebase-development": {
+        "owner": "2389-research",
+        "name": "firebase-development",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kreek/consult": {
+        "owner": "kreek",
+        "name": "consult",
+        "branch": "main",
+        "enabled": true
+    },
+    "FarzamMohammadi/dev-toolbox": {
+        "owner": "FarzamMohammadi",
+        "name": "dev-toolbox",
+        "branch": "main",
+        "enabled": true
+    },
+    "fabianoallex/pascal-skills-faa": {
+        "owner": "fabianoallex",
+        "name": "pascal-skills-faa",
+        "branch": "main",
+        "enabled": true
+    },
+    "cabaynes/charles-claude-skills": {
+        "owner": "cabaynes",
+        "name": "charles-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/css-development": {
+        "owner": "2389-research",
+        "name": "css-development",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joetawil7/first-pass": {
+        "owner": "joetawil7",
+        "name": "first-pass",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/prbuddy": {
+        "owner": "2389-research",
+        "name": "prbuddy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/speed-run": {
+        "owner": "2389-research",
+        "name": "speed-run",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KubeRocketCI/skills": {
+        "owner": "KubeRocketCI",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
     }
 }
