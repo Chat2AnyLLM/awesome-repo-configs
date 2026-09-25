@@ -39730,5 +39730,124 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "isheng-eqi/media-crawler-easy": {
+        "owner": "isheng-eqi",
+        "name": "media-crawler-easy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hex/claude-image-generation": {
+        "owner": "hex",
+        "name": "claude-image-generation",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jtapes/claude-bus": {
+        "owner": "jtapes",
+        "name": "claude-bus",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rementum/rementum": {
+        "owner": "rementum",
+        "name": "rementum",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lesleybs2/powerbi-custom-visual-skill": {
+        "owner": "Lesleybs2",
+        "name": "powerbi-custom-visual-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "gorock007/superset-jarvis": {
+        "owner": "gorock007",
+        "name": "superset-jarvis",
+        "branch": "main",
+        "enabled": true
+    },
+    "humbleteam/extract-design-tokens": {
+        "owner": "humbleteam",
+        "name": "extract-design-tokens",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "humbleteam/html-mockup": {
+        "owner": "humbleteam",
+        "name": "html-mockup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Anormallylee/claude-orchestrator-brain": {
+        "owner": "Anormallylee",
+        "name": "claude-orchestrator-brain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "haiggoh/audit-loose-ends": {
+        "owner": "haiggoh",
+        "name": "audit-loose-ends",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hoshiyomiX/stellar-trail": {
+        "owner": "hoshiyomiX",
+        "name": "stellar-trail",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nikolajhh2008-svg/aba-setup": {
+        "owner": "nikolajhh2008-svg",
+        "name": "aba-setup",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "izam-mohammed/decisionsmith": {
+        "owner": "izam-mohammed",
+        "name": "decisionsmith",
+        "branch": "main",
+        "enabled": true
+    },
+    "64x-lunicorn/skills": {
+        "owner": "64x-lunicorn",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "AI4Outcomes/thinqos-plugins": {
+        "owner": "AI4Outcomes",
+        "name": "thinqos-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "dibyajyoti92/goodnight-alchemist": {
+        "owner": "dibyajyoti92",
+        "name": "goodnight-alchemist",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jalmulla2/claude-skill-appointment-calendar-assistant": {
+        "owner": "jalmulla2",
+        "name": "claude-skill-appointment-calendar-assistant",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jalmulla2/claude-skill-arabic-letter": {
+        "owner": "jalmulla2",
+        "name": "claude-skill-arabic-letter",
+        "branch": "main",
+        "enabled": true
     }
 }

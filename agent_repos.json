@@ -5413,5 +5413,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "hex/claude-image-generation": {
+    "owner": "hex",
+    "name": "claude-image-generation",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

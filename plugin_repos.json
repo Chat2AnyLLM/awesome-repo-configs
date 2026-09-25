@@ -31321,5 +31321,104 @@
     "repoOwner": "ARYN26",
     "repoName": "you-are-here",
     "repoBranch": "main"
+  },
+  "isheng-eqi/media-crawler-easy": {
+    "name": "isheng-eqi/media-crawler-easy",
+    "description": "Claude Code Skill\uff1aB\u7ad9/\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5feb\u624b/\u5fae\u535a/\u8d34\u5427/\u77e5\u4e4e \u591a\u5e73\u53f0\u793e\u5a92\u8bc4\u8bba\u91c7\u96c6\u722c\u866b\u3002\u626b\u7801\u767b\u5f55\uff0c\u81ea\u52a8\u751f\u6210 HTML   \u62a5\u544a+CSV\uff0c\u652f\u6301\u5173\u952e\u8bcd\u641c\u7d22/\u6307\u5b9a\u94fe\u63a5/\u521b\u4f5c\u8005\u4e3b\u9875\u4e09\u79cd\u6a21\u5f0f",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "isheng-eqi",
+    "repoName": "media-crawler-easy",
+    "repoBranch": "main"
+  },
+  "rementum/rementum": {
+    "name": "rementum/rementum",
+    "description": "Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rementum",
+    "repoName": "rementum",
+    "repoBranch": "main"
+  },
+  "Lesleybs2/powerbi-custom-visual-skill": {
+    "name": "Lesleybs2/powerbi-custom-visual-skill",
+    "description": "Claude Code skill for building Power BI custom visuals that behave like native ones: cross-filtering, theme colours, on-object formatting, format pane, DirectQuery at scale",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lesleybs2",
+    "repoName": "powerbi-custom-visual-skill",
+    "repoBranch": "main"
+  },
+  "gorock007/superset-jarvis": {
+    "name": "gorock007/superset-jarvis",
+    "description": "Jarvis: one lead agent you talk to, a fleet of workers that builds. A Superset plugin with usage-aware model routing across Claude Code, Codex and OpenCode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gorock007",
+    "repoName": "superset-jarvis",
+    "repoBranch": "main"
+  },
+  "Anormallylee/claude-orchestrator-brain": {
+    "name": "Anormallylee/claude-orchestrator-brain",
+    "description": "\u8ba9\u4e00\u4e2a Claude Code \u4f1a\u8bdd\u5f53\u4e3b\u8111\uff1a\u6d3e\u6d3b\u3001\u72ec\u7acb\u9a8c\u6536\u3001\u5408\u5165\u3001\u8bb0\u8d26\uff0c\u8c03\u5ea6\u591a\u4e2a\u5e76\u884c\u5f00\u53d1\u4f1a\u8bdd\uff08\u975e\u5b98\u65b9\uff09",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Anormallylee",
+    "repoName": "claude-orchestrator-brain",
+    "repoBranch": "main"
+  },
+  "lperezmo/topic-filter-mod": {
+    "name": "lperezmo/topic-filter-mod",
+    "description": "Keep chosen topics, repos and names out of Claude Code's context. Nothing on disk changes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lperezmo",
+    "repoName": "topic-filter-mod",
+    "repoBranch": "main"
+  },
+  "izam-mohammed/decisionsmith": {
+    "name": "izam-mohammed/decisionsmith",
+    "description": "Use and fine-tune System One models (Jev, Laya) on your data, with an LLM as the teacher.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "izam-mohammed",
+    "repoName": "decisionsmith",
+    "repoBranch": "main"
+  },
+  "64x-lunicorn/skills": {
+    "name": "64x-lunicorn/skills",
+    "description": "Claude Code plugin with agent skills harvested from real corrections, not invented \u2014 every SKILL.md passes a deterministic validator before it lands. Built in TypeScript.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "64x-lunicorn",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "chrisns/spare10-mod": {
+    "name": "chrisns/spare10-mod",
+    "description": "spare10 as a Claude Code mod: keeps the last part of your 5-hour quota for you. At the reserve it holds all work and asks whether to continue.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chrisns",
+    "repoName": "spare10-mod",
+    "repoBranch": "main"
+  },
+  "AI4Outcomes/thinqos-plugins": {
+    "name": "AI4Outcomes/thinqos-plugins",
+    "description": "Official AI4Outcomes plugin marketplace for Claude Code: thinqOS Mind integration",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AI4Outcomes",
+    "repoName": "thinqos-plugins",
+    "repoBranch": "main"
+  },
+  "dibyajyoti92/goodnight-alchemist": {
+    "name": "dibyajyoti92/goodnight-alchemist",
+    "description": "Your Claude subscription resets whether you use it or not. This Claude Code skill turns the hours you're asleep into shipped work: multi-agent batches, pacing that resumes itself across usage-limit resets, and a hard...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dibyajyoti92",
+    "repoName": "goodnight-alchemist",
+    "repoBranch": "main"
   }
 }
