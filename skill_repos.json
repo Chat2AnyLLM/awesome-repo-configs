@@ -40074,5 +40074,12 @@
         "name": "skills",
         "branch": "main",
         "enabled": true
+    },
+    "yylo-dev/yylo-skills": {
+        "owner": "yylo-dev",
+        "name": "yylo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
