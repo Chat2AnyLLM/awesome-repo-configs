@@ -39849,5 +39849,117 @@
         "name": "claude-skill-arabic-letter",
         "branch": "main",
         "enabled": true
+    },
+    "prekuter/dryforge": {
+        "owner": "prekuter",
+        "name": "dryforge",
+        "branch": "main",
+        "enabled": true
+    },
+    "felixrieseberg/claude-coach": {
+        "owner": "felixrieseberg",
+        "name": "claude-coach",
+        "branch": "main",
+        "enabled": true
+    },
+    "Agentic-Assets/corbis-literature-starter-kit": {
+        "owner": "Agentic-Assets",
+        "name": "corbis-literature-starter-kit",
+        "branch": "master",
+        "enabled": true
+    },
+    "ash1794/vibe-engineering": {
+        "owner": "ash1794",
+        "name": "vibe-engineering",
+        "branch": "master",
+        "enabled": true
+    },
+    "kiselas/every-frame-is-code": {
+        "owner": "kiselas",
+        "name": "every-frame-is-code",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bensig/knowledge-panel-playbook": {
+        "owner": "bensig",
+        "name": "knowledge-panel-playbook",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "syntaxixr/receipts": {
+        "owner": "syntaxixr",
+        "name": "receipts",
+        "branch": "main",
+        "enabled": true
+    },
+    "adamczhang/CLI-MODE": {
+        "owner": "adamczhang",
+        "name": "CLI-MODE",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lixiuxiu559/AgentForge": {
+        "owner": "Lixiuxiu559",
+        "name": "AgentForge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "benjatestaferri7/motion-reel": {
+        "owner": "benjatestaferri7",
+        "name": "motion-reel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kiselas/every-slide-is-code": {
+        "owner": "kiselas",
+        "name": "every-slide-is-code",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "inhabitants/fired-cv": {
+        "owner": "inhabitants",
+        "name": "fired-cv",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rohitabrahamgeorge/seo-content-team": {
+        "owner": "rohitabrahamgeorge",
+        "name": "seo-content-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rockfish-Data/rockfish-skills": {
+        "owner": "Rockfish-Data",
+        "name": "rockfish-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jgsystemsconsulting/jgs-goal-spec": {
+        "owner": "jgsystemsconsulting",
+        "name": "jgs-goal-spec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devohmycode/agent-bridges-cc": {
+        "owner": "devohmycode",
+        "name": "agent-bridges-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "Matt-Isotope/Academic-Council": {
+        "owner": "Matt-Isotope",
+        "name": "Academic-Council",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
