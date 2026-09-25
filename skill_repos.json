@@ -39730,5 +39730,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "mex-memory/mex": {
+        "owner": "mex-memory",
+        "name": "mex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
