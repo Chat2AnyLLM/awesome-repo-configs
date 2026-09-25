@@ -31528,5 +31528,23 @@
     "repoOwner": "devohmycode",
     "repoName": "agent-bridges-cc",
     "repoBranch": "main"
+  },
+  "tonone-ai/tonone": {
+    "name": "tonone-ai/tonone",
+    "description": "100 specialist agents and 429 skills across engineering, product, design, security, legal, and ops, with an engineering lead agent that scopes and routes work. Install: claude plugin marketplace add tonone-ai/tonone, then claude plugin install tonone@tonone-ai. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonone-ai",
+    "repoName": "tonone",
+    "repoBranch": "main"
+  },
+  "tonone-ai/elephant": {
+    "name": "tonone-ai/elephant",
+    "description": "Persistent per-repo memory for Claude Code via a committed ELEPHANT.md, plus global cross-repo memory, cold-start bootstrap from git history, and automated changelog and README generation. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonone-ai",
+    "repoName": "elephant",
+    "repoBranch": "main"
   }
 }
