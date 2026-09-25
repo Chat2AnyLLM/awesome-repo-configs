@@ -39616,5 +39616,119 @@
         "name": "vectle-skill",
         "branch": "main",
         "enabled": true
+    },
+    "k8adev/aiwkf": {
+        "owner": "k8adev",
+        "name": "aiwkf",
+        "branch": "main",
+        "enabled": true
+    },
+    "TeamSPWK/nova": {
+        "owner": "TeamSPWK",
+        "name": "nova",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ramus-dev/android-use": {
+        "owner": "ramus-dev",
+        "name": "android-use",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mark-Hine/ai-toolkit": {
+        "owner": "Mark-Hine",
+        "name": "ai-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "anginduke-code/transactional-email-skill": {
+        "owner": "anginduke-code",
+        "name": "transactional-email-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "danh121097/squad-skills": {
+        "owner": "danh121097",
+        "name": "squad-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hraness/lifecharts": {
+        "owner": "hraness",
+        "name": "lifecharts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alysonp5/procedural-film": {
+        "owner": "alysonp5",
+        "name": "procedural-film",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wmxscott/ai-toolkit": {
+        "owner": "wmxscott",
+        "name": "ai-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "hamza-aziz-ai/codex-claude-council": {
+        "owner": "hamza-aziz-ai",
+        "name": "codex-claude-council",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rasatpetabit/ai-skills": {
+        "owner": "rasatpetabit",
+        "name": "ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ARYN26/you-are-here": {
+        "owner": "ARYN26",
+        "name": "you-are-here",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neckarshore-skills/imap-mailbox-cleanup": {
+        "owner": "neckarshore-skills",
+        "name": "imap-mailbox-cleanup",
+        "branch": "main",
+        "enabled": true
+    },
+    "m4nueldeleon/diapositivas-pizarron-ia": {
+        "owner": "m4nueldeleon",
+        "name": "diapositivas-pizarron-ia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "quangdangle/architecture-diagrams-skill": {
+        "owner": "quangdangle",
+        "name": "architecture-diagrams-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "imsebeom/hwpx": {
+        "owner": "imsebeom",
+        "name": "hwpx",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CyderesInc/MeridianCS": {
+        "owner": "CyderesInc",
+        "name": "MeridianCS",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

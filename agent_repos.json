@@ -5392,5 +5392,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "TeamSPWK/nova": {
+    "owner": "TeamSPWK",
+    "name": "nova",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "danh121097/squad-skills": {
+    "owner": "danh121097",
+    "name": "squad-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ARYN26/you-are-here": {
+    "owner": "ARYN26",
+    "name": "you-are-here",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

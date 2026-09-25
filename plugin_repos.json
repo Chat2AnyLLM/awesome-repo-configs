@@ -31231,5 +31231,95 @@
     "repoOwner": "jesmarcelo",
     "repoName": "gera-pdf-premium",
     "repoBranch": "main"
+  },
+  "k8adev/aiwkf": {
+    "name": "k8adev/aiwkf",
+    "description": "Agents, skills and plugins I use daily to code with AI. A living Claude Code marketplace, also compatible with Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "k8adev",
+    "repoName": "aiwkf",
+    "repoBranch": "main"
+  },
+  "TeamSPWK/nova": {
+    "name": "TeamSPWK/nova",
+    "description": "AI Agent Ops framework for Claude Code \u2014 independent evaluator, adversarial review, and pre-commit quality gate for AI-generated code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TeamSPWK",
+    "repoName": "nova",
+    "repoBranch": "main"
+  },
+  "ramus-dev/android-use": {
+    "name": "ramus-dev/android-use",
+    "description": "Android-use for coding agents: give Claude Code, Codex, Cursor or any MCP client a disposable Android device it can see, tap, type on and screenshot. Powered by Ramus.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ramus-dev",
+    "repoName": "android-use",
+    "repoBranch": "main"
+  },
+  "automateintelligence/marketplace": {
+    "name": "automateintelligence/marketplace",
+    "description": "AutomateIntelligence plugin marketplace for Claude Code and OpenAI Codex \u2014 conductor, spec-craft, bubo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "automateintelligence",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "Mark-Hine/ai-toolkit": {
+    "name": "Mark-Hine/ai-toolkit",
+    "description": "Portable setup for AI coding agents. Claude Code & Codex plugins for Android work (feature, bugfix and dependency-uplift playbooks, standards index, read-only reviewer and researcher agents, guard hooks), a cross-plat...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mark-Hine",
+    "repoName": "ai-toolkit",
+    "repoBranch": "main"
+  },
+  "danh121097/squad-skills": {
+    "name": "danh121097/squad-skills",
+    "description": "Role-specialized engineering squad skills for AI coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danh121097",
+    "repoName": "squad-skills",
+    "repoBranch": "main"
+  },
+  "wmxscott/ai-toolkit": {
+    "name": "wmxscott/ai-toolkit",
+    "description": "Plugins for AI coding agents: skills, hooks and a statusline for Claude Code, with Codex, Pi and OpenCode support where it fits",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wmxscott",
+    "repoName": "ai-toolkit",
+    "repoBranch": "main"
+  },
+  "hamza-aziz-ai/codex-claude-council": {
+    "name": "hamza-aziz-ai/codex-claude-council",
+    "description": "Ask ChatGPT (Codex) and Claude the same question through your own signed-in CLIs: each answers, critiques the other, replies, and they agree on one answer. Both can read your project (never change it) and search the w...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hamza-aziz-ai",
+    "repoName": "codex-claude-council",
+    "repoBranch": "main"
+  },
+  "rasatpetabit/ai-skills": {
+    "name": "rasatpetabit/ai-skills",
+    "description": "Agent skills for Pi and Claude Code: intent (INTENT.md interviews, audits, change judgments), docs-rebuild, md-refactor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rasatpetabit",
+    "repoName": "ai-skills",
+    "repoBranch": "main"
+  },
+  "ARYN26/you-are-here": {
+    "name": "ARYN26/you-are-here",
+    "description": "You are here: project state, wrap-then-/clear, a tiny per-repo brain, and hands-free runs until the PR is green. For Claude Code. Stdlib Python; macOS, Linux, Windows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ARYN26",
+    "repoName": "you-are-here",
+    "repoBranch": "main"
   }
 }
