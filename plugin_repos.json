@@ -127,7 +127,7 @@
   },
   "smartin-compass": {
     "name": "smartin-compass",
-    "description": "Catch raw ideas as they come, see which ones are worth checking, and get one clean weekly Finding worth forwarding. Local-first and free. Built on the Smartin Compass 6-tile method.",
+    "description": "Check whether a new business idea holds before you bet on it. Catch raw ideas as they come, see which assumption to check first, and get one weekly Finding worth forwarding. Six-pillar Smartin Compass method. Free and local-first.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "Smartin-Martin",
