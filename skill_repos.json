@@ -40228,5 +40228,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "amflimited/threadfox-lite": {
+        "owner": "amflimited",
+        "name": "threadfox-lite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
