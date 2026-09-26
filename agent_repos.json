@@ -5441,5 +5441,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "KrishP147/skills": {
+    "owner": "KrishP147",
+    "name": "skills",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

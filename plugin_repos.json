@@ -31663,5 +31663,68 @@
     "repoOwner": "KubeRocketCI",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "jezweb/claude-skills": {
+    "name": "jezweb/claude-skills",
+    "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jezweb",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "JakeSelby/model-citizen": {
+    "name": "JakeSelby/model-citizen",
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stances, projected into Claude Code and Codex with your own primitives: hook-enforced guardrails, usa...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JakeSelby",
+    "repoName": "model-citizen",
+    "repoBranch": "main"
+  },
+  "jerrydboonstra/neckbeard": {
+    "name": "jerrydboonstra/neckbeard",
+    "description": "Reads a Claude Code plugin before you install it: what it injects, what it costs, which rules clash with yours.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jerrydboonstra",
+    "repoName": "neckbeard",
+    "repoBranch": "main"
+  },
+  "matheusPavaneli/workbench": {
+    "name": "matheusPavaneli/workbench",
+    "description": "Claude Code plugin: ticket-to-PR workflow for AI coding agents. Plans cite file:line and a script verifies every citation; hooks block edits outside the plan. Jira, Azure DevOps, GitHub Issues, or no tracker. Zero dep...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matheusPavaneli",
+    "repoName": "workbench",
+    "repoBranch": "main"
+  },
+  "SuhaasNv/whole-team": {
+    "name": "SuhaasNv/whole-team",
+    "description": "Claude Skill that turns your AI coding agent into a disciplined agile team: scoping and pushback, user stories, sprints, reviews, retros, and a gate on every push. Claude Code plugin + Agent Skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SuhaasNv",
+    "repoName": "whole-team",
+    "repoBranch": "main"
+  },
+  "digitalgym/aipathway-standards": {
+    "name": "digitalgym/aipathway-standards",
+    "description": "Open build standards for back-office workflows, as installable Agent Skills. Ordered checks, object schemas, a conformance checklist and a pass test. CC BY 4.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "digitalgym",
+    "repoName": "aipathway-standards",
+    "repoBranch": "main"
+  },
+  "aaddrick/building-with-typesafe-jev": {
+    "name": "aaddrick/building-with-typesafe-jev",
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaddrick",
+    "repoName": "building-with-typesafe-jev",
+    "repoBranch": "main"
   }
 }

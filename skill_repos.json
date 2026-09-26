@@ -40081,5 +40081,152 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jezweb/claude-skills": {
+        "owner": "jezweb",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "JakeSelby/model-citizen": {
+        "owner": "JakeSelby",
+        "name": "model-citizen",
+        "branch": "main",
+        "enabled": true
+    },
+    "jerrydboonstra/neckbeard": {
+        "owner": "jerrydboonstra",
+        "name": "neckbeard",
+        "branch": "main",
+        "enabled": true
+    },
+    "habibtalib/claude-motion-promo-skill": {
+        "owner": "habibtalib",
+        "name": "claude-motion-promo-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "NFTYoginis/book-ghostwriting-skill": {
+        "owner": "NFTYoginis",
+        "name": "book-ghostwriting-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "semlith/semlith": {
+        "owner": "semlith",
+        "name": "semlith",
+        "branch": "develop",
+        "enabled": true
+    },
+    "matheusPavaneli/workbench": {
+        "owner": "matheusPavaneli",
+        "name": "workbench",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Wonggeff/drawing-review-cn": {
+        "owner": "Wonggeff",
+        "name": "drawing-review-cn",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tuzhechen2005/painted-animation": {
+        "owner": "tuzhechen2005",
+        "name": "painted-animation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "KrishP147/skills": {
+        "owner": "KrishP147",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "NFTYoginis/book-launch-funnel-strategy-skill": {
+        "owner": "NFTYoginis",
+        "name": "book-launch-funnel-strategy-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NFTYoginis/fact-claim-verification-skill": {
+        "owner": "NFTYoginis",
+        "name": "fact-claim-verification-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NFTYoginis/book-to-content-repurposing-skill": {
+        "owner": "NFTYoginis",
+        "name": "book-to-content-repurposing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NFTYoginis/title-and-positioning-skill": {
+        "owner": "NFTYoginis",
+        "name": "title-and-positioning-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NFTYoginis/publishing-preparation-skill": {
+        "owner": "NFTYoginis",
+        "name": "publishing-preparation-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "docsor1212/cite-holmes": {
+        "owner": "docsor1212",
+        "name": "cite-holmes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "docsor1212/paper-polisher-pro": {
+        "owner": "docsor1212",
+        "name": "paper-polisher-pro",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SuhaasNv/whole-team": {
+        "owner": "SuhaasNv",
+        "name": "whole-team",
+        "branch": "main",
+        "enabled": true
+    },
+    "digitalgym/aipathway-standards": {
+        "owner": "digitalgym",
+        "name": "aipathway-standards",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cloveric/claude-drawing-skill": {
+        "owner": "cloveric",
+        "name": "claude-drawing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aaddrick/building-with-typesafe-jev": {
+        "owner": "aaddrick",
+        "name": "building-with-typesafe-jev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/xiaohongshu-user-insight": {
+        "owner": "why20261",
+        "name": "xiaohongshu-user-insight",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
