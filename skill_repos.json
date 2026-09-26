@@ -40448,5 +40448,129 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "assafelovic/skyll": {
+        "owner": "assafelovic",
+        "name": "skyll",
+        "branch": "main",
+        "enabled": true
+    },
+    "walidboulanouar/Ay-Skills": {
+        "owner": "walidboulanouar",
+        "name": "Ay-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ayubjon/yandex-games-skill": {
+        "owner": "Ayubjon",
+        "name": "yandex-games-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "brunoflma/jusmanizer": {
+        "owner": "brunoflma",
+        "name": "jusmanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hraness/textbutler": {
+        "owner": "hraness",
+        "name": "textbutler",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "agent-ecosystem/agent-skill-implementation": {
+        "owner": "agent-ecosystem",
+        "name": "agent-skill-implementation",
+        "branch": "main",
+        "enabled": true
+    },
+    "nx01-600/claudeTalk": {
+        "owner": "nx01-600",
+        "name": "claudeTalk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hraness/oh": {
+        "owner": "hraness",
+        "name": "oh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joaoguirunas/team-os": {
+        "owner": "joaoguirunas",
+        "name": "team-os",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "kaankiziltug/logo-design-skill": {
+        "owner": "kaankiziltug",
+        "name": "logo-design-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LarryLiZimo/pp-papers": {
+        "owner": "LarryLiZimo",
+        "name": "pp-papers",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mtangoz/grill": {
+        "owner": "mtangoz",
+        "name": "grill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Reality-Ventures/lockwire": {
+        "owner": "Reality-Ventures",
+        "name": "lockwire",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PavelKurochka/chess-verdict": {
+        "owner": "PavelKurochka",
+        "name": "chess-verdict",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "opum-ai/test-skills": {
+        "owner": "opum-ai",
+        "name": "test-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xsyetopz/dotclaude": {
+        "owner": "xsyetopz",
+        "name": "dotclaude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "WiredBuilder/espn-fantasy-hockey-draft-assistant": {
+        "owner": "WiredBuilder",
+        "name": "espn-fantasy-hockey-draft-assistant",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ForeignerfromJupiter/design-founder": {
+        "owner": "ForeignerfromJupiter",
+        "name": "design-founder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

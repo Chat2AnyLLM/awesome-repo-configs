@@ -5455,5 +5455,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "joaoguirunas/team-os": {
+    "owner": "joaoguirunas",
+    "name": "team-os",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "xsyetopz/dotclaude": {
+    "owner": "xsyetopz",
+    "name": "dotclaude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ForeignerfromJupiter/design-founder": {
+    "owner": "ForeignerfromJupiter",
+    "name": "design-founder",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

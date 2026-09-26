@@ -31978,5 +31978,95 @@
     "repoOwner": "ArthurZakirov",
     "repoName": "SystemSmith",
     "repoBranch": "main"
+  },
+  "brunoflma/jusmanizer": {
+    "name": "brunoflma/jusmanizer",
+    "description": "Legal Tech \u00b7 Revis\u00e3o de estilo jur\u00eddico em portugu\u00eas. Skill com 32 padr\u00f5es, exemplos pr\u00e1ticos e prompts para a rotina da advocacia.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brunoflma",
+    "repoName": "jusmanizer",
+    "repoBranch": "main"
+  },
+  "nx01-600/claudeTalk": {
+    "name": "nx01-600/claudeTalk",
+    "description": "Voice for Claude Code on Windows, native Rust: Claude talks back (a voice per session), local Whisper dictation on any GPU, and a hands-free wake phrase (\"Oye Claude\" or your own) that types into your last Claude sess...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nx01-600",
+    "repoName": "claudeTalk",
+    "repoBranch": "main"
+  },
+  "kaankiziltug/logo-design-skill": {
+    "name": "kaankiziltug/logo-design-skill",
+    "description": "A comprehensive logo-design skill for Claude: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kaankiziltug",
+    "repoName": "logo-design-skill",
+    "repoBranch": "main"
+  },
+  "LarryLiZimo/pp-papers": {
+    "name": "LarryLiZimo/pp-papers",
+    "description": "A paper library in plain text: one Markdown file per paper, a Unix CLI, an editable lineage graph, made for AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LarryLiZimo",
+    "repoName": "pp-papers",
+    "repoBranch": "main"
+  },
+  "mtangoz/grill": {
+    "name": "mtangoz/grill",
+    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mtangoz",
+    "repoName": "grill",
+    "repoBranch": "main"
+  },
+  "Reality-Ventures/lockwire": {
+    "name": "Reality-Ventures/lockwire",
+    "description": "Bind documentation claims to tiered code fingerprints. Catch stale CLAUDE.md, AGENTS.md and docs at write time inside Claude Code and Codex, with a tamper-evident history.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Reality-Ventures",
+    "repoName": "lockwire",
+    "repoBranch": "main"
+  },
+  "opum-ai/test-skills": {
+    "name": "opum-ai/test-skills",
+    "description": "Sustainable test suites for agentic engineering: test constitution with rigor profiles, lean test planning, mutation-kill-matrix audits, certified test-suite reduction, CI gates, provable coverage. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "opum-ai",
+    "repoName": "test-skills",
+    "repoBranch": "main"
+  },
+  "xsyetopz/dotclaude": {
+    "name": "xsyetopz/dotclaude",
+    "description": "A plugin for Claude Code that also uses Codex a bit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xsyetopz",
+    "repoName": "dotclaude",
+    "repoBranch": "main"
+  },
+  "WiredBuilder/espn-fantasy-hockey-draft-assistant": {
+    "name": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
+    "description": "Free ESPN fantasy hockey draft assistant that rescores projections for your league, models how each rival owner drafts, and names your next pick during the live draft.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WiredBuilder",
+    "repoName": "espn-fantasy-hockey-draft-assistant",
+    "repoBranch": "main"
+  },
+  "ForeignerfromJupiter/design-founder": {
+    "name": "ForeignerfromJupiter/design-founder",
+    "description": "A stage-aware designer-founder partner for Claude Code: reframe, dissect, define good, converge, stress test, pre-flight, retro, with a project brain that remembers killed ideas.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ForeignerfromJupiter",
+    "repoName": "design-founder",
+    "repoBranch": "main"
   }
 }
