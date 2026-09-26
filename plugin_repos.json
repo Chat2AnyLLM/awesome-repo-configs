@@ -31870,5 +31870,113 @@
     "repoOwner": "xelth-com",
     "repoName": "claude-codex-consult",
     "repoBranch": "main"
+  },
+  "rlaope/ultraprompt": {
+    "name": "rlaope/ultraprompt",
+    "description": "Fable 5.1 solution tracing. Prompting skills so Opus, Sonnet, Haiku, Grok, Gemini and open-weight models work like Fable 5.1",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rlaope",
+    "repoName": "ultraprompt",
+    "repoBranch": "main"
+  },
+  "fmschulz/omics-skills": {
+    "name": "fmschulz/omics-skills",
+    "description": "fmschulz/omics-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fmschulz",
+    "repoName": "omics-skills",
+    "repoBranch": "main"
+  },
+  "c-c0rtex/web-qa": {
+    "name": "c-c0rtex/web-qa",
+    "description": "Autonomous web-app QA skill for Claude Code: Playwright E2E, visual regression, axe-core a11y. LLM-generated self-healing specs, zero-token test runs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "c-c0rtex",
+    "repoName": "web-qa",
+    "repoBranch": "main"
+  },
+  "genfeedai/skills": {
+    "name": "genfeedai/skills",
+    "description": "AI skills for content creation, SEO, advertising, image prompting, and strategy. Works standalone with Claude Code \u2014 works better with Genfeed.ai. Install: bunx skills add genfeedai/skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "genfeedai",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "ridelink0/atlias": {
+    "name": "ridelink0/atlias",
+    "description": "Agent harness for Claude Code, Codex, Antigravity, Gemini CLI: shared memory, guards, two-pass verification gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ridelink0",
+    "repoName": "atlias",
+    "repoBranch": "main"
+  },
+  "sweatshop-ai/cc-agent-names": {
+    "name": "sweatshop-ai/cc-agent-names",
+    "description": "Gives each Claude Code session a human first name, so parallel sessions become people you can talk with and about.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sweatshop-ai",
+    "repoName": "cc-agent-names",
+    "repoBranch": "main"
+  },
+  "dris1153/pixel-anims": {
+    "name": "dris1153/pixel-anims",
+    "description": "An Agent Skill that turns one sentence into a looping 16-bit pixel-art sprite animation: one self-contained HTML file, vanilla JS and Canvas 2D, no assets. Works with Claude Code, Codex, OpenCode and 70+ agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dris1153",
+    "repoName": "pixel-anims",
+    "repoBranch": "main"
+  },
+  "byensitmagnus/agent-mission-control": {
+    "name": "byensitmagnus/agent-mission-control",
+    "description": "Portable agent orchestration skill for Claude Code, Codex, Cursor, Grok and Kimi: route coding tasks, scope subagents, resume work and report checks and limits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "byensitmagnus",
+    "repoName": "agent-mission-control",
+    "repoBranch": "main"
+  },
+  "mds-main/novelist-agent-skill": {
+    "name": "mds-main/novelist-agent-skill",
+    "description": "Agent skill for Novelist: AI agents commission complete original novels, audiobooks and printed books, paying with x402 USDC or prepaid credits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mds-main",
+    "repoName": "novelist-agent-skill",
+    "repoBranch": "main"
+  },
+  "v-kravchenko/claude-handoff": {
+    "name": "v-kravchenko/claude-handoff",
+    "description": "Save a Claude Code session as a handoff and resume it later with /pickup. Multiple named tasks per project, git-aware staleness checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "v-kravchenko",
+    "repoName": "claude-handoff",
+    "repoBranch": "main"
+  },
+  "atoslins/metodo": {
+    "name": "atoslins/metodo",
+    "description": "Protocolos de resolu\u00e7\u00e3o sistem\u00e1tica para o Claude Code: destravar impasses, explorar op\u00e7\u00f5es sem fechar cedo, executar sem deixar pela metade",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atoslins",
+    "repoName": "metodo",
+    "repoBranch": "main"
+  },
+  "ArthurZakirov/SystemSmith": {
+    "name": "ArthurZakirov/SystemSmith",
+    "description": "Engineering methods for code, agents, and architecture.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ArthurZakirov",
+    "repoName": "SystemSmith",
+    "repoBranch": "main"
   }
 }

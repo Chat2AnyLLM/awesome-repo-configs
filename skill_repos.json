@@ -40334,5 +40334,119 @@
         "name": "claude-codex-consult",
         "branch": "main",
         "enabled": true
+    },
+    "eatmoreduck/boss-zhipin-scraper": {
+        "owner": "eatmoreduck",
+        "name": "boss-zhipin-scraper",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jjmartres/ai-coding-agents": {
+        "owner": "jjmartres",
+        "name": "ai-coding-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "rlaope/ultraprompt": {
+        "owner": "rlaope",
+        "name": "ultraprompt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fmschulz/omics-skills": {
+        "owner": "fmschulz",
+        "name": "omics-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "c-c0rtex/web-qa": {
+        "owner": "c-c0rtex",
+        "name": "web-qa",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "3378925604-a11y/douyin-video-distiller": {
+        "owner": "3378925604-a11y",
+        "name": "douyin-video-distiller",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "genfeedai/skills": {
+        "owner": "genfeedai",
+        "name": "skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "ridelink0/atlias": {
+        "owner": "ridelink0",
+        "name": "atlias",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sweatshop-ai/cc-agent-names": {
+        "owner": "sweatshop-ai",
+        "name": "cc-agent-names",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pamelaaaaa1218/webpage-to-image": {
+        "owner": "pamelaaaaa1218",
+        "name": "webpage-to-image",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dris1153/pixel-anims": {
+        "owner": "dris1153",
+        "name": "pixel-anims",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "byensitmagnus/agent-mission-control": {
+        "owner": "byensitmagnus",
+        "name": "agent-mission-control",
+        "branch": "main",
+        "enabled": true
+    },
+    "mds-main/novelist-agent-skill": {
+        "owner": "mds-main",
+        "name": "novelist-agent-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "sageri/agent-skills": {
+        "owner": "sageri",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "v-kravchenko/claude-handoff": {
+        "owner": "v-kravchenko",
+        "name": "claude-handoff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "atoslins/metodo": {
+        "owner": "atoslins",
+        "name": "metodo",
+        "branch": "main",
+        "enabled": true
+    },
+    "ArthurZakirov/SystemSmith": {
+        "owner": "ArthurZakirov",
+        "name": "SystemSmith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

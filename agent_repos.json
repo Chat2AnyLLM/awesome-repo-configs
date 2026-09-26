@@ -5448,5 +5448,12 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "fmschulz/omics-skills": {
+    "owner": "fmschulz",
+    "name": "omics-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
