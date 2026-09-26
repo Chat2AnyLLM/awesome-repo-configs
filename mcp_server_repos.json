@@ -31,5 +31,13 @@
     "enabled": true,
     "serverName": "com.curviate/mcp",
     "note": "Official MCP server for the Curviate API: LinkedIn search, messaging, connections, posts, Sales Navigator, and Recruiter for any MCP client. Thin stdio bridge to a hosted endpoint. Install: npx @curviate/mcp"
+  },
+  "amflimited/threadfox-lite": {
+    "owner": "amflimited",
+    "name": "threadfox-lite",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "threadfox-lite",
+    "note": "Read-only Reddit research over stdio (uvx threadfox-lite): subreddit rules, communities for a topic, account standing, post status, through the user's own signed-in Chrome. MIT."
   }
 }

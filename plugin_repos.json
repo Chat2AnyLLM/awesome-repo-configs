@@ -31726,5 +31726,14 @@
     "repoOwner": "aaddrick",
     "repoName": "building-with-typesafe-jev",
     "repoBranch": "main"
+  },
+  "amflimited/threadfox-lite": {
+    "name": "threadfox-lite",
+    "description": "Free, read-only Reddit research tools and the reddit-rules-first skill: find communities where you may post, read a subreddit's rules with self-promotion rules flagged, check an account's standing and whether a post stayed up, through your own signed-in Chrome. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amflimited",
+    "repoName": "threadfox-lite",
+    "repoBranch": "main"
   }
 }
