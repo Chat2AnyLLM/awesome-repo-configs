@@ -40235,5 +40235,104 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "benjaminstelzer/scoville-code": {
+        "owner": "benjaminstelzer",
+        "name": "scoville-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "dogum/procedural-art": {
+        "owner": "dogum",
+        "name": "procedural-art",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "asidko/reverse-grill-skill": {
+        "owner": "asidko",
+        "name": "reverse-grill-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RevolutionLA/adversarial-review": {
+        "owner": "RevolutionLA",
+        "name": "adversarial-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JaimeJunr/claude-code-frontend-skills": {
+        "owner": "JaimeJunr",
+        "name": "claude-code-frontend-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "StanimirTenev/baton": {
+        "owner": "StanimirTenev",
+        "name": "baton",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "faultkit/skills": {
+        "owner": "faultkit",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tomerhayundev/skills": {
+        "owner": "tomerhayundev",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TechTripAi/TechTrip-AI-plugins": {
+        "owner": "TechTripAi",
+        "name": "TechTrip-AI-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "boundlessend/yougile-tracking": {
+        "owner": "boundlessend",
+        "name": "yougile-tracking",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "John-Rood/memoryrouter-claude-plugin": {
+        "owner": "John-Rood",
+        "name": "memoryrouter-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "rennerdo30/claude-usage-plugin": {
+        "owner": "rennerdo30",
+        "name": "claude-usage-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "ckorhonen/hone-skills": {
+        "owner": "ckorhonen",
+        "name": "hone-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arpanmukherjee1/skills": {
+        "owner": "arpanmukherjee1",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xelth-com/claude-codex-consult": {
+        "owner": "xelth-com",
+        "name": "claude-codex-consult",
+        "branch": "main",
+        "enabled": true
     }
 }

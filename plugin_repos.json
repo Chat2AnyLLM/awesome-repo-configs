@@ -31735,5 +31735,140 @@
     "repoOwner": "amflimited",
     "repoName": "threadfox-lite",
     "repoBranch": "main"
+  },
+  "oikon48/prompt-rail": {
+    "name": "oikon48/prompt-rail",
+    "description": "A rail of your Claude Code session's prompts: hover to read, click to jump (function hooks / Mods)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oikon48",
+    "repoName": "prompt-rail",
+    "repoBranch": "main"
+  },
+  "dogum/procedural-art": {
+    "name": "dogum/procedural-art",
+    "description": "Real mountains, glass and paintings made with code and real elevation data. No image model. Two Claude skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dogum",
+    "repoName": "procedural-art",
+    "repoBranch": "main"
+  },
+  "asidko/reverse-grill-skill": {
+    "name": "asidko/reverse-grill-skill",
+    "description": "Explain the design decisions behind existing code well enough that even a PM can judge them without code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asidko",
+    "repoName": "reverse-grill-skill",
+    "repoBranch": "main"
+  },
+  "JaimeJunr/claude-code-frontend-skills": {
+    "name": "JaimeJunr/claude-code-frontend-skills",
+    "description": "Frontend design stack for Claude Code: Anthropic frontend-design, Impeccable, UI UX Pro Max, Taste & Emil Kowalski skills in one plugin marketplace. Curated, de-conflicted, synced weekly.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JaimeJunr",
+    "repoName": "claude-code-frontend-skills",
+    "repoBranch": "main"
+  },
+  "Jovan1666/claude-code-command-code-usage": {
+    "name": "Jovan1666/claude-code-command-code-usage",
+    "description": "Command Code plan usage in the Claude Code status line \u2014 5-hour, weekly and monthly windows with reset times. Runs locally, costs no tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jovan1666",
+    "repoName": "claude-code-command-code-usage",
+    "repoBranch": "main"
+  },
+  "faultkit/skills": {
+    "name": "faultkit/skills",
+    "description": "AI Resilience skill: find silent failures in AI workflows from business invariants and prove them with faultkit",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "faultkit",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "tomerhayundev/skills": {
+    "name": "tomerhayundev/skills",
+    "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch UI, Wix apps",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomerhayundev",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "BonhaengLee/claude-omp-delegate": {
+    "name": "BonhaengLee/claude-omp-delegate",
+    "description": "Claude Code plugin: delegate implementation to OMP (oh-my-pi) from Claude, with durable background jobs, resume, cancel, and evidence-first result cards.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BonhaengLee",
+    "repoName": "claude-omp-delegate",
+    "repoBranch": "main"
+  },
+  "TechTripAi/TechTrip-AI-plugins": {
+    "name": "TechTripAi/TechTrip-AI-plugins",
+    "description": "TechTrip AI's Claude Code plugin marketplace. One catalog for everything TechTrip releases: session finder and other small Claude Code tools hosted here, plus the techtrip-secondbrain LLM Wiki bootstrapper and the mai...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TechTripAi",
+    "repoName": "TechTrip-AI-plugins",
+    "repoBranch": "main"
+  },
+  "boundlessend/yougile-tracking": {
+    "name": "boundlessend/yougile-tracking",
+    "description": "\u041f\u043b\u0430\u0433\u0438\u043d Claude Code \u0434\u043b\u044f \u0442\u0440\u0435\u043a\u0435\u0440\u0430 YouGile (REST API v2, 70 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432) \u0438 \u043c\u0430\u0440\u043a\u0435\u0442\u043f\u043b\u0435\u0439\u0441 senya-plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "boundlessend",
+    "repoName": "yougile-tracking",
+    "repoBranch": "main"
+  },
+  "John-Rood/memoryrouter-claude-plugin": {
+    "name": "John-Rood/memoryrouter-claude-plugin",
+    "description": "Persistent memory for Claude Code, Cowork, and claude.ai. Claude plugin marketplace for the MemoryRouter MCP connector.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "John-Rood",
+    "repoName": "memoryrouter-claude-plugin",
+    "repoBranch": "main"
+  },
+  "rennerdo30/claude-usage-plugin": {
+    "name": "rennerdo30/claude-usage-plugin",
+    "description": "Claude Code plugin that lets Claude check how much subscription usage is left",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rennerdo30",
+    "repoName": "claude-usage-plugin",
+    "repoBranch": "main"
+  },
+  "ckorhonen/hone-skills": {
+    "name": "ckorhonen/hone-skills",
+    "description": "Claude Code skills that run on a cadence to fight code entropy \u2014 method brevity, naming clarity, duplication, broken windows. Published at cdd.dev/skills/hone.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ckorhonen",
+    "repoName": "hone-skills",
+    "repoBranch": "main"
+  },
+  "arpanmukherjee1/skills": {
+    "name": "arpanmukherjee1/skills",
+    "description": "Arpan's Claude skills as a Claude Code plugin marketplace (arpan-skills). Install only the plugins you need, starting with nanogpt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arpanmukherjee1",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "xelth-com/claude-codex-consult": {
+    "name": "xelth-com/claude-codex-consult",
+    "description": "Claude Code skill + PowerShell bridge that lets Claude consult OpenAI Codex (any model) mid-task over your ChatGPT subscription: fork/resume threads, read-only sandbox, file ledger of every consultation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xelth-com",
+    "repoName": "claude-codex-consult",
+    "repoBranch": "main"
   }
 }
