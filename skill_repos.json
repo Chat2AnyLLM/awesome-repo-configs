@@ -40924,5 +40924,131 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "samber/developer-platform-skills": {
+        "owner": "samber",
+        "name": "developer-platform-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "samber/dev-event-organizer-skills": {
+        "owner": "samber",
+        "name": "dev-event-organizer-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "samber/developer-relations-skills": {
+        "owner": "samber",
+        "name": "developer-relations-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dversoza/claude-skills": {
+        "owner": "dversoza",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "julienbrg/hug": {
+        "owner": "julienbrg",
+        "name": "hug",
+        "branch": "main",
+        "enabled": true
+    },
+    "using-system/vllm-on-tap": {
+        "owner": "using-system",
+        "name": "vllm-on-tap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hrkdas/nir-eyal-hooked": {
+        "owner": "hrkdas",
+        "name": "nir-eyal-hooked",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LucasSantana-Dev/repaint": {
+        "owner": "LucasSantana-Dev",
+        "name": "repaint",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "crizex/art-director": {
+        "owner": "crizex",
+        "name": "art-director",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "legifx/orch": {
+        "owner": "legifx",
+        "name": "orch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zacha0dev/ai-at-home": {
+        "owner": "zacha0dev",
+        "name": "ai-at-home",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ragnarwestad/aide": {
+        "owner": "ragnarwestad",
+        "name": "aide",
+        "branch": "main",
+        "enabled": true
+    },
+    "icntswm/skillcheck": {
+        "owner": "icntswm",
+        "name": "skillcheck",
+        "branch": "main",
+        "enabled": true
+    },
+    "moustafarhat/arabic-critic-essay-writer": {
+        "owner": "moustafarhat",
+        "name": "arabic-critic-essay-writer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ryanlewis/claude-plugins": {
+        "owner": "ryanlewis",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "exasyncai/claude-plugins": {
+        "owner": "exasyncai",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "crsmithdev/aleph": {
+        "owner": "crsmithdev",
+        "name": "aleph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stratisd-labs/cloud-agent-skills": {
+        "owner": "stratisd-labs",
+        "name": "cloud-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "thkennedy/tk-studio": {
+        "owner": "thkennedy",
+        "name": "tk-studio",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

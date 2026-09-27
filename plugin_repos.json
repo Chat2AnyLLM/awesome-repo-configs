@@ -32374,5 +32374,104 @@
     "repoOwner": "nyjin",
     "repoName": "herdr-skills",
     "repoBranch": "main"
+  },
+  "samber/developer-platform-skills": {
+    "name": "samber/developer-platform-skills",
+    "description": "\ud83d\udd01 Agent Skills for platform and SDK developer experience: API design, integrations, marketplace strategy, and onboarding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "samber",
+    "repoName": "developer-platform-skills",
+    "repoBranch": "main"
+  },
+  "samber/dev-event-organizer-skills": {
+    "name": "samber/dev-event-organizer-skills",
+    "description": "\ud83e\udead Agent Skills for technical event organizers: conferences, meetups, hackathons, speakers, and sponsorships.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "samber",
+    "repoName": "dev-event-organizer-skills",
+    "repoBranch": "main"
+  },
+  "samber/developer-relations-skills": {
+    "name": "samber/developer-relations-skills",
+    "description": "\ud83c\udf99\ufe0f Agent Skills for DevRels: open source strategy, community programs, technical content, and developer GTM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "samber",
+    "repoName": "developer-relations-skills",
+    "repoBranch": "main"
+  },
+  "julienbrg/hug": {
+    "name": "julienbrg/hug",
+    "description": "Human-Gated Flow",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "julienbrg",
+    "repoName": "hug",
+    "repoBranch": "main"
+  },
+  "crizex/art-director": {
+    "name": "crizex/art-director",
+    "description": "A personal art director for Claude Code: asks up front, researches for real, shows directions as images, remembers your taste.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "crizex",
+    "repoName": "art-director",
+    "repoBranch": "main"
+  },
+  "moustafarhat/arabic-critic-essay-writer": {
+    "name": "moustafarhat/arabic-critic-essay-writer",
+    "description": "A reflective Arabic critic's voice as a Claude skill: long-form reviews and essays in formal MSA that read a work as an argument and end on an open question. Built with PersonaWriter.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moustafarhat",
+    "repoName": "arabic-critic-essay-writer",
+    "repoBranch": "main"
+  },
+  "ryanlewis/claude-plugins": {
+    "name": "ryanlewis/claude-plugins",
+    "description": "Personal Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryanlewis",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "exasyncai/claude-plugins": {
+    "name": "exasyncai/claude-plugins",
+    "description": "Claude Code plugin marketplace from Exasync: mail format guard, decision precedents, usage guard. Tested in our own autonomous operation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "exasyncai",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "crsmithdev/aleph": {
+    "name": "crsmithdev/aleph",
+    "description": "A personal AI for software development on Claude Code, with observability built in: every turn traced to Langfuse, a gate that judges what was verified, and an Obsidian vault as memory",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "crsmithdev",
+    "repoName": "aleph",
+    "repoBranch": "main"
+  },
+  "stratisd-labs/cloud-agent-skills": {
+    "name": "stratisd-labs/cloud-agent-skills",
+    "description": "Azure agent skills for architecture and DevOps agents. Installable as a Claude Code plugin. Propose-only: agents plan az CLI steps, you run them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stratisd-labs",
+    "repoName": "cloud-agent-skills",
+    "repoBranch": "main"
+  },
+  "thkennedy/tk-studio": {
+    "name": "thkennedy/tk-studio",
+    "description": "AI dev-studio layer over a pinned BMad base for Claude Code: lockstep installs, data taxonomy, planning adapter, role-aware orchestration, a measured execution pipeline, and unattended operations.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thkennedy",
+    "repoName": "tk-studio",
+    "repoBranch": "main"
   }
 }
