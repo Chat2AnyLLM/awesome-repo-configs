@@ -5504,5 +5504,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "winterbim/wincreator": {
+    "owner": "winterbim",
+    "name": "wincreator",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Upload-Post/upload-post-plugin": {
+    "owner": "Upload-Post",
+    "name": "upload-post-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

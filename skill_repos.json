@@ -40811,5 +40811,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Rylaispirit/cinematic-video-prompt-skill": {
+        "owner": "Rylaispirit",
+        "name": "cinematic-video-prompt-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "winterbim/wincreator": {
+        "owner": "winterbim",
+        "name": "wincreator",
+        "branch": "master",
+        "enabled": true
+    },
+    "WXK-AI/jev-opus": {
+        "owner": "WXK-AI",
+        "name": "jev-opus",
+        "branch": "main",
+        "enabled": true
+    },
+    "devbaj-stastny-jakub/better-grill": {
+        "owner": "devbaj-stastny-jakub",
+        "name": "better-grill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ajitta/Game-Engagement-Retention-Skills": {
+        "owner": "ajitta",
+        "name": "Game-Engagement-Retention-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Upload-Post/upload-post-plugin": {
+        "owner": "Upload-Post",
+        "name": "upload-post-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sloprail/sloprail": {
+        "owner": "sloprail",
+        "name": "sloprail",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Black-Axis/axis-hub": {
+        "owner": "Black-Axis",
+        "name": "axis-hub",
+        "branch": "main",
+        "enabled": true
+    },
+    "Amir-Hackett/notchmeter": {
+        "owner": "Amir-Hackett",
+        "name": "notchmeter",
+        "branch": "main",
+        "enabled": true
+    },
+    "angellane/stackfit": {
+        "owner": "angellane",
+        "name": "stackfit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lilian-barty/skill-refacto": {
+        "owner": "lilian-barty",
+        "name": "skill-refacto",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bislink360/styled-markdown": {
+        "owner": "bislink360",
+        "name": "styled-markdown",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sryo/avis": {
+        "owner": "sryo",
+        "name": "avis",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "FynePool/fanta-carbonara": {
+        "owner": "FynePool",
+        "name": "fanta-carbonara",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "culfin/claude-skills-public": {
+        "owner": "culfin",
+        "name": "claude-skills-public",
+        "branch": "main",
+        "enabled": true
+    },
+    "ducdg88/ducpt-skills": {
+        "owner": "ducdg88",
+        "name": "ducpt-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nyjin/herdr-skills": {
+        "owner": "nyjin",
+        "name": "herdr-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

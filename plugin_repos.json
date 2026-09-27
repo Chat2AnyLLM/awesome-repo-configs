@@ -32275,5 +32275,104 @@
     "repoOwner": "selan-ai",
     "repoName": "selan-practices",
     "repoBranch": "main"
+  },
+  "WXK-AI/jev-opus": {
+    "name": "WXK-AI/jev-opus",
+    "description": "Claude Opus 5.5 with the effort level re-decided every step by the TypeSafe Jev reflex \u2014 without breaking the prompt cache. CLI + Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WXK-AI",
+    "repoName": "jev-opus",
+    "repoBranch": "main"
+  },
+  "devbaj-stastny-jakub/better-grill": {
+    "name": "devbaj-stastny-jakub/better-grill",
+    "description": "Grill sessions for Claude Code, in your browser instead of the terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devbaj-stastny-jakub",
+    "repoName": "better-grill",
+    "repoBranch": "main"
+  },
+  "ajitta/Game-Engagement-Retention-Skills": {
+    "name": "ajitta/Game-Engagement-Retention-Skills",
+    "description": "A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer interactive apps \u2014 the scene, the cohort, and the link between them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ajitta",
+    "repoName": "Game-Engagement-Retention-Skills",
+    "repoBranch": "main"
+  },
+  "ajitta/claude-plugins": {
+    "name": "ajitta/claude-plugins",
+    "description": "ajitta's Claude Code plugin marketplace \u2014 a catalog; each plugin lives in its own repository",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ajitta",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Upload-Post/upload-post-plugin": {
+    "name": "Upload-Post/upload-post-plugin",
+    "description": "Claude Code plugin for Upload-Post \u2014 schedule posts, repurpose videos into viral shorts, build Instagram comment-to-DM funnels, and track analytics across 11 social platforms via the Upload-Post MCP. Free plan, no cre...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Upload-Post",
+    "repoName": "upload-post-plugin",
+    "repoBranch": "main"
+  },
+  "sloprail/sloprail": {
+    "name": "sloprail/sloprail",
+    "description": "Deterministic project rules for your coding agent. They kick in when it touches a file or runs a command, and hold until met: files only where you allow, right skills loaded first, work proven by diff or logs. Not a s...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sloprail",
+    "repoName": "sloprail",
+    "repoBranch": "main"
+  },
+  "Black-Axis/axis-hub": {
+    "name": "Black-Axis/axis-hub",
+    "description": "A developer-focused hub for coding agents, plugins, skills, and AI-powered development workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Black-Axis",
+    "repoName": "axis-hub",
+    "repoBranch": "main"
+  },
+  "Amir-Hackett/notchmeter": {
+    "name": "Amir-Hackett/notchmeter",
+    "description": "Usage meters for Claude Code, Codex, Cursor, Gemini CLI, Antigravity, Copilot, Kimi Code and OpenCode in the MacBook notch, plus your agent sessions: approve, answer and jump to the terminal from the panel. Pace, proj...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Amir-Hackett",
+    "repoName": "notchmeter",
+    "repoBranch": "main"
+  },
+  "lilian-barty/skill-refacto": {
+    "name": "lilian-barty/skill-refacto",
+    "description": "Refactoriser avec Claude Code sans rien casser : une photo de la page avant et apr\u00e8s chaque changement, compar\u00e9e au pixel pr\u00e8s. Skill en fran\u00e7ais.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lilian-barty",
+    "repoName": "skill-refacto",
+    "repoBranch": "main"
+  },
+  "ducdg88/ducpt-skills": {
+    "name": "ducdg88/ducpt-skills",
+    "description": "13 open source Agent Skills (SKILL.md) for one-person companies run with AI: Vietnamese transcripts, copy and voice dictation fixes, Pinterest pins, YouTube titles, mind maps, duplicate cleanup, content originality ch...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ducdg88",
+    "repoName": "ducpt-skills",
+    "repoBranch": "main"
+  },
+  "nyjin/herdr-skills": {
+    "name": "nyjin/herdr-skills",
+    "description": "Claude Code skills for herdr \u2014 run parallel coding agents in git worktrees and watch each Claude Code worker in the herdr sidebar",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nyjin",
+    "repoName": "herdr-skills",
+    "repoBranch": "main"
   }
 }
