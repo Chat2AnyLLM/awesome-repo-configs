@@ -40691,5 +40691,125 @@
         "name": "brewreel",
         "branch": "main",
         "enabled": true
+    },
+    "aerovato/operator-memory": {
+        "owner": "aerovato",
+        "name": "operator-memory",
+        "branch": "main",
+        "enabled": true
+    },
+    "CatCatUncle/ruanzhu-kit": {
+        "owner": "CatCatUncle",
+        "name": "ruanzhu-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "haroldo-ok/sega-master-system-skill-for-claude": {
+        "owner": "haroldo-ok",
+        "name": "sega-master-system-skill-for-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Harmitx7/tribunal-kit": {
+        "owner": "Harmitx7",
+        "name": "tribunal-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "laguagu/jev-skills": {
+        "owner": "laguagu",
+        "name": "jev-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lacerbi/dotclaude": {
+        "owner": "lacerbi",
+        "name": "dotclaude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dfadify-web/lizard-bits": {
+        "owner": "dfadify-web",
+        "name": "lizard-bits",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "quisbaum-prog/occam": {
+        "owner": "quisbaum-prog",
+        "name": "occam",
+        "branch": "main",
+        "enabled": true
+    },
+    "Transgenia/MCP-Odoo-Tools-CE-EE-and-online": {
+        "owner": "Transgenia",
+        "name": "MCP-Odoo-Tools-CE-EE-and-online",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "prtvbiz-design/prtv-skills": {
+        "owner": "prtvbiz-design",
+        "name": "prtv-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "radishlee/beijing-house-hunter": {
+        "owner": "radishlee",
+        "name": "beijing-house-hunter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arn-development/claude-code-skills": {
+        "owner": "arn-development",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adhibuchori/agent-config-kit": {
+        "owner": "adhibuchori",
+        "name": "agent-config-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "DevAbas/design-system": {
+        "owner": "DevAbas",
+        "name": "design-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "avivalushai/clipped": {
+        "owner": "avivalushai",
+        "name": "clipped",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wpsoul/motionfast-ui": {
+        "owner": "wpsoul",
+        "name": "motionfast-ui",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ravikovind/snap-x": {
+        "owner": "ravikovind",
+        "name": "snap-x",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "selan-ai/selan-practices": {
+        "owner": "selan-ai",
+        "name": "selan-practices",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

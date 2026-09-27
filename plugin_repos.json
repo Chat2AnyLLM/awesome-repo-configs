@@ -32176,5 +32176,104 @@
     "repoOwner": "tonone-ai",
     "repoName": "tonone-core",
     "repoBranch": "main"
+  },
+  "laguagu/jev-skills": {
+    "name": "laguagu/jev-skills",
+    "description": "Practical agent skills and examples for building with Jev. API setup, routing, ranking, and evidence checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "laguagu",
+    "repoName": "jev-skills",
+    "repoBranch": "main"
+  },
+  "dfadify-web/lizard-bits": {
+    "name": "dfadify-web/lizard-bits",
+    "description": "\ud83e\udd8e Skill de Claude Code: landings premium para negocios locales con React Bits + Emil Kowalski, optimizadas para m\u00f3vil y desplegadas en Vercel",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dfadify-web",
+    "repoName": "lizard-bits",
+    "repoBranch": "main"
+  },
+  "quisbaum-prog/occam": {
+    "name": "quisbaum-prog/occam",
+    "description": "Occam's razor for Claude Code: a 30-line rule set that halved the cost per task on Opus 5.5 with all tests passing. Benchmark and raw data included.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "quisbaum-prog",
+    "repoName": "occam",
+    "repoBranch": "main"
+  },
+  "Transgenia/MCP-Odoo-Tools-CE-EE-and-online": {
+    "name": "Transgenia/MCP-Odoo-Tools-CE-EE-and-online",
+    "description": "MCP server for connecting odoo in versions 19 < 10.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Transgenia",
+    "repoName": "MCP-Odoo-Tools-CE-EE-and-online",
+    "repoBranch": "main"
+  },
+  "prtvbiz-design/prtv-skills": {
+    "name": "prtvbiz-design/prtv-skills",
+    "description": "Open Agent Skills (EN+RU) for digital signage: menu boards for caf\u00e9s and restaurants, TV slideshows, screen design, widgets, loop video, TV setup, plus the PRTV (prtv.pro) editor. For Claude, Cursor, Codex, Gemini CLI...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "prtvbiz-design",
+    "repoName": "prtv-skills",
+    "repoBranch": "main"
+  },
+  "adhibuchori/agent-config-kit": {
+    "name": "adhibuchori/agent-config-kit",
+    "description": "Claude Code plugins with guardrails that actually exit non-zero: hooks, rules, commands, checks and pull-request-only CI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adhibuchori",
+    "repoName": "agent-config-kit",
+    "repoBranch": "main"
+  },
+  "DevAbas/design-system": {
+    "name": "DevAbas/design-system",
+    "description": "Agent-Ready Design System: set up, audit, fix and gate a web project's design system so AI coding agents stay on it. W3C design tokens (DTCG), a value-free DESIGN.md, and hooks, pre-commit and CI checks. Claude Code p...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DevAbas",
+    "repoName": "design-system",
+    "repoBranch": "main"
+  },
+  "avivalushai/clipped": {
+    "name": "avivalushai/clipped",
+    "description": "A feature board Claude keeps for you while you build \u2014 per project, updated automatically, with everything you left halfway front and center. Local-first: boards live in your repo and never leave your machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avivalushai",
+    "repoName": "clipped",
+    "repoBranch": "main"
+  },
+  "wpsoul/motionfast-ui": {
+    "name": "wpsoul/motionfast-ui",
+    "description": "Agent skill + Claude Code plugin: turn a brief into a finished motion film made of 270+ animated UI elements. Render engine (MP4, WebM alpha, ProRes), Video Editor and After Effects exports. By WPSoul.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wpsoul",
+    "repoName": "motionfast-ui",
+    "repoBranch": "main"
+  },
+  "ravikovind/snap-x": {
+    "name": "ravikovind/snap-x",
+    "description": "Render self-contained Satori .mjs design files to PNG \u2014 any size, no browser. Claude Code skill + CLI + MCP server for OG cards, README cards, banners and covers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ravikovind",
+    "repoName": "snap-x",
+    "repoBranch": "main"
+  },
+  "selan-ai/selan-practices": {
+    "name": "selan-ai/selan-practices",
+    "description": "Find out what Claude Code spends in a repository, and cut it. A Claude Code plugin that audits CLAUDE.md and session habits from the repository's own transcripts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "selan-ai",
+    "repoName": "selan-practices",
+    "repoBranch": "main"
   }
 }

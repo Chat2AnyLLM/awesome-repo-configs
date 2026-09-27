@@ -5497,5 +5497,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Transgenia/MCP-Odoo-Tools-CE-EE-and-online": {
+    "owner": "Transgenia",
+    "name": "MCP-Odoo-Tools-CE-EE-and-online",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
