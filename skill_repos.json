@@ -40685,5 +40685,11 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Finderchangchang/brewreel": {
+        "owner": "Finderchangchang",
+        "name": "brewreel",
+        "branch": "main",
+        "enabled": true
     }
 }
