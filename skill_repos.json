@@ -40572,5 +40572,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "adityasugandhi/skillsync-mcp": {
+        "owner": "adityasugandhi",
+        "name": "skillsync-mcp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "petehottelet/pdf-fax-optimizer": {
+        "owner": "petehottelet",
+        "name": "pdf-fax-optimizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "timmyjoe917/machine-forensics-loop": {
+        "owner": "timmyjoe917",
+        "name": "machine-forensics-loop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "IrvinngB/keel": {
+        "owner": "IrvinngB",
+        "name": "keel",
+        "branch": "main",
+        "enabled": true
+    },
+    "alanvaa06/forge-master": {
+        "owner": "alanvaa06",
+        "name": "forge-master",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "petehottelet/pdf-email-optimizer": {
+        "owner": "petehottelet",
+        "name": "pdf-email-optimizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HighBridgeDragon/jp-law-skill": {
+        "owner": "HighBridgeDragon",
+        "name": "jp-law-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "kamenkurtev/ui-consistency": {
+        "owner": "kamenkurtev",
+        "name": "ui-consistency",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nicuk/llm-silent-failure-audit": {
+        "owner": "nicuk",
+        "name": "llm-silent-failure-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nicuk/claude-md-memory-architecture": {
+        "owner": "nicuk",
+        "name": "claude-md-memory-architecture",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "leosimini/keelokit": {
+        "owner": "leosimini",
+        "name": "keelokit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/tiktok-kol-discovery": {
+        "owner": "why20261",
+        "name": "tiktok-kol-discovery",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fartsupreme/dream-rsi-cc": {
+        "owner": "fartsupreme",
+        "name": "dream-rsi-cc",
+        "branch": "master",
+        "enabled": true
+    },
+    "DenisHumen/skills": {
+        "owner": "DenisHumen",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "aldogor/aldogor-claude-plugins": {
+        "owner": "aldogor",
+        "name": "aldogor-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "sebstaq/opencode-subagent-mcp": {
+        "owner": "sebstaq",
+        "name": "opencode-subagent-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonone-ai/tonone-core": {
+        "owner": "tonone-ai",
+        "name": "tonone-core",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

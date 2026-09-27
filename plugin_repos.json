@@ -32068,5 +32068,113 @@
     "repoOwner": "ForeignerfromJupiter",
     "repoName": "design-founder",
     "repoBranch": "main"
+  },
+  "IrvinngB/keel": {
+    "name": "IrvinngB/keel",
+    "description": "Stack-agnostic Spec-Driven Development plugin for Claude Code: clarify gate, drift detection, steering docs, stack detection, security review, estimates, commit guard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IrvinngB",
+    "repoName": "keel",
+    "repoBranch": "main"
+  },
+  "alanvaa06/forge-master": {
+    "name": "alanvaa06/forge-master",
+    "description": "Claude Code plugin for agentic loop-engineering: PRD design/import, tagged phase planning, and an autonomous TDD execution loop with deterministic escalation and disk-backed state.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alanvaa06",
+    "repoName": "forge-master",
+    "repoBranch": "main"
+  },
+  "kamenkurtev/ui-consistency": {
+    "name": "kamenkurtev/ui-consistency",
+    "description": "Keeps AI-generated UI consistent with your project's own component vocabulary and prop conventions, while the code is being written",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kamenkurtev",
+    "repoName": "ui-consistency",
+    "repoBranch": "main"
+  },
+  "nicuk/llm-silent-failure-audit": {
+    "name": "nicuk/llm-silent-failure-audit",
+    "description": "Cairn Signals: a Claude Code skill that checks whether an AI product's numbers are real: confidence scores, cost meters, evals and fallbacks traced to what writes them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nicuk",
+    "repoName": "llm-silent-failure-audit",
+    "repoBranch": "main"
+  },
+  "nicuk/claude-md-memory-architecture": {
+    "name": "nicuk/claude-md-memory-architecture",
+    "description": "Cairn Memory: a Claude Code skill that keeps CLAUDE.md and agent memory cheap and true. Stops Claude forgetting, re-reading and redoing research.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nicuk",
+    "repoName": "claude-md-memory-architecture",
+    "repoBranch": "main"
+  },
+  "leosimini/keelokit": {
+    "name": "leosimini/keelokit",
+    "description": "My personal Claude Code harness for building apps in TypeScript monorepos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leosimini",
+    "repoName": "keelokit",
+    "repoBranch": "main"
+  },
+  "rezzminator/buddy": {
+    "name": "rezzminator/buddy",
+    "description": "Claude Code buddy plugin: Quack the ASCII duck waddles above your prompt and talks back \u2014 or bring back your /buddy",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rezzminator",
+    "repoName": "buddy",
+    "repoBranch": "main"
+  },
+  "fartsupreme/dream-rsi-cc": {
+    "name": "fartsupreme/dream-rsi-cc",
+    "description": "Claude Code plugin for research campaigns that keep retrying the same approach.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fartsupreme",
+    "repoName": "dream-rsi-cc",
+    "repoBranch": "master"
+  },
+  "DenisHumen/skills": {
+    "name": "DenisHumen/skills",
+    "description": "\ud83e\udde0 My growing collection of Claude Agent Skills, grouped into plugins \u2014 one Claude Code plugin marketplace. First plugin: \ud83c\udfac cinema (script \u2192 directed, graded, voiced mini-series in one style). EN/RU.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DenisHumen",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "aldogor/aldogor-claude-plugins": {
+    "name": "aldogor/aldogor-claude-plugins",
+    "description": "Claude plugins for public health research: grounded research and citation checks, structure and prose review, session handoff, project setup and sharing",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aldogor",
+    "repoName": "aldogor-claude-plugins",
+    "repoBranch": "main"
+  },
+  "sebstaq/opencode-subagent-mcp": {
+    "name": "sebstaq/opencode-subagent-mcp",
+    "description": "Run Claude Code subagents on cheaper opencode models (DeepSeek, opencode Go) via an MCP server, with native subagent parity and no proxy in front of Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sebstaq",
+    "repoName": "opencode-subagent-mcp",
+    "repoBranch": "main"
+  },
+  "tonone-ai/tonone-core": {
+    "name": "tonone-ai/tonone-core",
+    "description": "Engineering team for Claude Code: Apex plus 14 specialist agents and 80 skills. Core of tonone.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonone-ai",
+    "repoName": "tonone-core",
+    "repoBranch": "main"
   }
 }
