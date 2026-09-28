@@ -1,4 +1,11 @@
 {
+    "Continuum-AI-Corp/OrcaReplay": {
+        "owner": "Continuum-AI-Corp",
+        "name": "OrcaReplay",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "bhaveyx/codebase-explainer": {
         "owner": "bhaveyx",
         "name": "codebase-explainer",
@@ -30378,6 +30385,7 @@
         "owner": "mex-memory",
         "name": "mex",
         "branch": "main",
+        "skillsPath": "skills",
         "enabled": true
     },
     "seo-skills/seo-audit-skill": {
