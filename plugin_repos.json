@@ -1,4 +1,13 @@
 {
+  "bhaveyx/codebase-explainer": {
+    "name": "codebase-explainer",
+    "description": "Turns any codebase into a narrated, animated video that explains how it works and why it was built that way. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bhaveyx",
+    "repoName": "codebase-explainer",
+    "repoBranch": "main"
+  },
   "skillkeel/skillkeel-starter": {
     "name": "skillkeel-starter",
     "description": "Guard hooks that block destructive shell commands and secret writes before Claude Code runs them, plus eight tested repo skills (changelog, commit message, PR description, README refresh, CLAUDE.md init, dependency audit, secret audit, test gaps). 64 hook unit tests; evals rerun on every Claude Code release with results per version in docs/compat.md. MIT.",
