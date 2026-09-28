@@ -41274,5 +41274,116 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "tomwong001/qingsheng-skill": {
+        "owner": "tomwong001",
+        "name": "qingsheng-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "solanabr/ai-kit": {
+        "owner": "solanabr",
+        "name": "ai-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "gabelul/pixeltamer-gpt-image-skill": {
+        "owner": "gabelul",
+        "name": "pixeltamer-gpt-image-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Linaqruf/kana-code-plugins": {
+        "owner": "Linaqruf",
+        "name": "kana-code-plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "xyrlan/mnemo": {
+        "owner": "xyrlan",
+        "name": "mnemo",
+        "branch": "master",
+        "enabled": true
+    },
+    "jeanreisv4/growth-enginner": {
+        "owner": "jeanreisv4",
+        "name": "growth-enginner",
+        "branch": "main",
+        "enabled": true
+    },
+    "rafiimanggala/paper-collage-skill": {
+        "owner": "rafiimanggala",
+        "name": "paper-collage-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arjitj2/open-pstack": {
+        "owner": "arjitj2",
+        "name": "open-pstack",
+        "branch": "main",
+        "enabled": true
+    },
+    "havanafrog/agentsemble": {
+        "owner": "havanafrog",
+        "name": "agentsemble",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bowenlabs/claude-plugins": {
+        "owner": "bowenlabs",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "symbioza/claude-plugin": {
+        "owner": "symbioza",
+        "name": "claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "deankarn/serenity-valley": {
+        "owner": "deankarn",
+        "name": "serenity-valley",
+        "branch": "main",
+        "enabled": true
+    },
+    "tasqrai/tasqr-claude-code-plugin": {
+        "owner": "tasqrai",
+        "name": "tasqr-claude-code-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SimonKreis-Richard/oracle-fusion-agentic-toolkit": {
+        "owner": "SimonKreis-Richard",
+        "name": "oracle-fusion-agentic-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beepboop2025/financial-evidence-skills": {
+        "owner": "beepboop2025",
+        "name": "financial-evidence-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "speedwarnsf/web-typography": {
+        "owner": "speedwarnsf",
+        "name": "web-typography",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chendahe666/academic-taste-skill": {
+        "owner": "chendahe666",
+        "name": "academic-taste-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

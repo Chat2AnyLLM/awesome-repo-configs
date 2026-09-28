@@ -32761,5 +32761,113 @@
     "repoOwner": "kjagsadvisors",
     "repoName": "jev-bookkeeper",
     "repoBranch": "main"
+  },
+  "solanabr/ai-kit": {
+    "name": "solanabr/ai-kit",
+    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "solanabr",
+    "repoName": "ai-kit",
+    "repoBranch": "main"
+  },
+  "Linaqruf/kana-code-plugins": {
+    "name": "Linaqruf/kana-code-plugins",
+    "description": "Claude Code plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Linaqruf",
+    "repoName": "kana-code-plugins",
+    "repoBranch": "master"
+  },
+  "xyrlan/mnemo": {
+    "name": "xyrlan/mnemo",
+    "description": "mnemo \u2014 memory for Claude Code. It learns from your corrections and injects the right rule into the next prompt (+31 pp follow rate, measured). Background sessions inherit it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xyrlan",
+    "repoName": "mnemo",
+    "repoBranch": "master"
+  },
+  "rafiimanggala/paper-collage-skill": {
+    "name": "rafiimanggala/paper-collage-skill",
+    "description": "Claude Code skill for DIY paper collage videos (HyperFrames)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rafiimanggala",
+    "repoName": "paper-collage-skill",
+    "repoBranch": "main"
+  },
+  "arjitj2/open-pstack": {
+    "name": "arjitj2/open-pstack",
+    "description": "Pstack for Codex and Claude Code, with cross-provider routing. Devin, Cursor, Antigravity, OpenCode, and Grok subagents available. All using your own subscriptions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arjitj2",
+    "repoName": "open-pstack",
+    "repoBranch": "main"
+  },
+  "havanafrog/agentsemble": {
+    "name": "havanafrog/agentsemble",
+    "description": "Read your repo, assemble a team of Claude Code sessions, and watch them work from one local dashboard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "havanafrog",
+    "repoName": "agentsemble",
+    "repoBranch": "main"
+  },
+  "bowenlabs/claude-plugins": {
+    "name": "bowenlabs/claude-plugins",
+    "description": "Claude Code plugin marketplace for the Louise / Astroid stack",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bowenlabs",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "symbioza/claude-plugin": {
+    "name": "symbioza/claude-plugin",
+    "description": "Cloud GPU jobs from Claude Code under a hard spending limit: fine-tuning, evals, batch inference. Plugin + MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "symbioza",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
+  "deankarn/serenity-valley": {
+    "name": "deankarn/serenity-valley",
+    "description": "Claude Code plugin marketplace \u2014 design and development skills (box design, retry contracts, clean code)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deankarn",
+    "repoName": "serenity-valley",
+    "repoBranch": "main"
+  },
+  "tasqrai/tasqr-claude-code-plugin": {
+    "name": "tasqrai/tasqr-claude-code-plugin",
+    "description": "Official Tasqr plugin for Claude Code: task state management for AI agents. tasqr.ai",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tasqrai",
+    "repoName": "tasqr-claude-code-plugin",
+    "repoBranch": "main"
+  },
+  "SimonKreis-Richard/oracle-fusion-agentic-toolkit": {
+    "name": "SimonKreis-Richard/oracle-fusion-agentic-toolkit",
+    "description": "Claude Code plugin for Oracle Fusion Cloud HCM functional consultants. Nine skills over one product knowledge base (triage, configuration, architecture, testing), bundled documentation MCP server, read-only Jira. Froz...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SimonKreis-Richard",
+    "repoName": "oracle-fusion-agentic-toolkit",
+    "repoBranch": "main"
+  },
+  "beepboop2025/financial-evidence-skills": {
+    "name": "beepboop2025/financial-evidence-skills",
+    "description": "Open Agent Skill routing money-market, capital-market, bank-risk, market-liquidity and China-economy research to bounded public evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "beepboop2025",
+    "repoName": "financial-evidence-skills",
+    "repoBranch": "main"
   }
 }

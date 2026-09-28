@@ -5560,5 +5560,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "solanabr/ai-kit": {
+    "owner": "solanabr",
+    "name": "ai-kit",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
