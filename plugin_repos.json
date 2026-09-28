@@ -1,4 +1,13 @@
 {
+  "liza-studio/skillmem": {
+    "name": "skillmem",
+    "description": "Self-improving skill memory for Claude Code and Codex: agents learn how they solved a task, recall it next time, reinforce what works and forget the rest. Local SQLite + FTS5, 9 MCP tools, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "liza-studio",
+    "repoName": "skillmem",
+    "repoBranch": "main"
+  },
   "ViderStar/nb-run": {
     "name": "nb-run",
     "description": "Run Jupyter notebooks headless on a remote machine with named profiles of env flags: pre-flight checks that catch a misspelled flag or a missing kernel before a three-hour run, execution detached from ssh with nohup, notification on completion (macOS, webhook, Telegram), failure triage that points at the failing cell, and run-to-run comparison. Python standard library only.",
