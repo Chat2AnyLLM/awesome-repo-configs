@@ -1,4 +1,11 @@
 {
+    "bhaveyx/codebase-explainer": {
+        "owner": "bhaveyx",
+        "name": "codebase-explainer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "agent-contracts/skill-preflight": {
         "owner": "agent-contracts",
         "name": "skill-preflight",
