@@ -5518,5 +5518,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "NullSpace-BitCradle/ats-resume-agent": {
+    "owner": "NullSpace-BitCradle",
+    "name": "ats-resume-agent",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "fjerbi/claude-code-arsenal": {
+    "owner": "fjerbi",
+    "name": "claude-code-arsenal",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rezzminator/agent-effort": {
+    "owner": "rezzminator",
+    "name": "agent-effort",
+    "branch": "develop",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rioX432/ai-dev-templates": {
+    "owner": "rioX432",
+    "name": "ai-dev-templates",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

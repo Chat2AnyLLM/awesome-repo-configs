@@ -41050,5 +41050,108 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "revfactory/harness": {
+        "owner": "revfactory",
+        "name": "harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gal-a/qikly": {
+        "owner": "gal-a",
+        "name": "qikly",
+        "branch": "main",
+        "enabled": true
+    },
+    "Parth1811/JevFlow": {
+        "owner": "Parth1811",
+        "name": "JevFlow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aunysillyme/website-build-skill": {
+        "owner": "aunysillyme",
+        "name": "website-build-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "4riel/docko": {
+        "owner": "4riel",
+        "name": "docko",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "tracetify/skills": {
+        "owner": "tracetify",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ramillax/claude-code-control-room": {
+        "owner": "Ramillax",
+        "name": "claude-code-control-room",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maiconlara/session-start": {
+        "owner": "maiconlara",
+        "name": "session-start",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rioX432/ai-dev-templates": {
+        "owner": "rioX432",
+        "name": "ai-dev-templates",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JakeB-5/motion-graphic-skill": {
+        "owner": "JakeB-5",
+        "name": "motion-graphic-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NasonZ/riff": {
+        "owner": "NasonZ",
+        "name": "riff",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dsp-dr/guile-skills": {
+        "owner": "dsp-dr",
+        "name": "guile-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xnjiang/qumg-skill": {
+        "owner": "xnjiang",
+        "name": "qumg-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "EponymousBearer/shipwright": {
+        "owner": "EponymousBearer",
+        "name": "shipwright",
+        "branch": "main",
+        "enabled": true
+    },
+    "hwwwaan/steal-these-skills": {
+        "owner": "hwwwaan",
+        "name": "steal-these-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

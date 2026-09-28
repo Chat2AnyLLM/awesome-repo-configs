@@ -32473,5 +32473,113 @@
     "repoOwner": "thkennedy",
     "repoName": "tk-studio",
     "repoBranch": "main"
+  },
+  "revfactory/harness": {
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "revfactory",
+    "repoName": "harness",
+    "repoBranch": "main"
+  },
+  "NullSpace-BitCradle/ats-resume-agent": {
+    "name": "NullSpace-BitCradle/ats-resume-agent",
+    "description": "Claude Code agents that tailor ATS-friendly LaTeX resumes and cover letters to a job description, using only your career document. A validator checks numbers, dates, titles, certs, and skills against it; CI builds eve...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NullSpace-BitCradle",
+    "repoName": "ats-resume-agent",
+    "repoBranch": "master"
+  },
+  "Parth1811/JevFlow": {
+    "name": "Parth1811/JevFlow",
+    "description": "A Claude Code plugin that keeps your AI agents honest. Claude plans tasks as phases with checks, and when it tries to stop, Jevflow runs them and asks Jev if the work is really done. Many agents, one plan, with a live...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Parth1811",
+    "repoName": "JevFlow",
+    "repoBranch": "main"
+  },
+  "aunysillyme/website-build-skill": {
+    "name": "aunysillyme/website-build-skill",
+    "description": "A skill pack that turns your AI into an expert website builder: current research, design, code, accessibility, speed, SEO and security, alone or as a team.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aunysillyme",
+    "repoName": "website-build-skill",
+    "repoBranch": "main"
+  },
+  "4riel/docko": {
+    "name": "4riel/docko",
+    "description": "Local-first workspace and session protocol for AI coding agents \u2014 slot claims, session ownership, delegation, stale recovery. CLI + Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "4riel",
+    "repoName": "docko",
+    "repoBranch": "main"
+  },
+  "rezzminator/agent-effort": {
+    "name": "rezzminator/agent-effort",
+    "description": "Set each Claude Code sub-agent's reasoning effort per spawn: start the Agent prompt with [effort: low|medium|high|xhigh|max].",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rezzminator",
+    "repoName": "agent-effort",
+    "repoBranch": "develop"
+  },
+  "rioX432/ai-dev-templates": {
+    "name": "rioX432/ai-dev-templates",
+    "description": "Claude Code plugin for AI-driven development \u2014 harness engineering, multi-agent review, autonomous issue resolution. Language-agnostic.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rioX432",
+    "repoName": "ai-dev-templates",
+    "repoBranch": "main"
+  },
+  "CosmosDever/AvengersClaudeCode": {
+    "name": "CosmosDever/AvengersClaudeCode",
+    "description": "Claude Code plugin: design-then-build multi-agent workflow with deterministic, tested orchestration, cost-aware model routing, and a token gate for tool output",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CosmosDever",
+    "repoName": "AvengersClaudeCode",
+    "repoBranch": "main"
+  },
+  "JakeB-5/motion-graphic-skill": {
+    "name": "JakeB-5/motion-graphic-skill",
+    "description": "Claude Code skill: brief + references \u2192 beat-synced single-file canvas motion graphic (HTML) with synthesized sound, mobile player and automated verification.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JakeB-5",
+    "repoName": "motion-graphic-skill",
+    "repoBranch": "main"
+  },
+  "dsp-dr/guile-skills": {
+    "name": "dsp-dr/guile-skills",
+    "description": "Agent skills and a logged REPL surface for Guile Scheme: guile3 --debug --listen plus a transcript-logging proxy on PORT+1",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dsp-dr",
+    "repoName": "guile-skills",
+    "repoBranch": "main"
+  },
+  "EponymousBearer/shipwright": {
+    "name": "EponymousBearer/shipwright",
+    "description": "Claude skills that make your AI ship production-grade Next.js/React/TS code, not demos. Catches leaked secrets, missing error states, unvalidated input, and 'use client' sprawl.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EponymousBearer",
+    "repoName": "shipwright",
+    "repoBranch": "main"
+  },
+  "hwwwaan/steal-these-skills": {
+    "name": "hwwwaan/steal-these-skills",
+    "description": "4 AI skills for college students \u2014 STAR experience cards, exam cram planner, lunch picker, polite message rewriter. Works with Notion AI, ChatGPT, Claude. \uc2a4\ud0ac, \uc2a4\ud2f8\ud558\uc288 \ud83e\udd77",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hwwwaan",
+    "repoName": "steal-these-skills",
+    "repoBranch": "main"
   }
 }
