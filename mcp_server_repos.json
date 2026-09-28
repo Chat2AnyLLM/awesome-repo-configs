@@ -1,4 +1,125 @@
 {
+  "contextstream/mcp-server": {
+    "owner": "contextstream",
+    "name": "mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.contextstream/mcp-server",
+    "note": "Project memory, semantic code search and shared agent context. Hosted MCP: https://mcp.contextstream.io/mcp. Local stdio package: @contextstream/mcp-server; requires CONTEXTSTREAM_API_KEY. Canonical metadata is in server.json."
+  },
+  "veriton-dev/veriton-micro-dev": {
+    "owner": "veriton-dev",
+    "name": "veriton-micro-dev",
+    "branch": "master",
+    "enabled": true,
+    "serverName": "veriton-html-json-mcp",
+    "note": "Source and documentation submitted for hosted HTML-to-JSON extraction at https://veriton-html-json-api.netlify.app/mcp. Free demo tools and paid Base USDC x402 routes; paid calls can incur charges. Documentation: https://veriton-dev.github.io/veriton-micro-dev/api/. Endpoint runtime behavior has not been verified as part of this source registration."
+  },
+  "theluckystrike/mcp-bank-statement": {
+    "owner": "theluckystrike",
+    "name": "mcp-bank-statement",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "bank-statement",
+    "note": "Bank CSV import, categorization, recurring-charge detection and expense reconciliation. Local source deployment and a separate hosted service are available; hosted processing is not local-only. Hosted endpoint: https://mcp.zovo.one/mcp/bank-statement. Obtain a token at https://mcp.zovo.one/mcp/connect."
+  },
+  "theluckystrike/mcp-currency": {
+    "owner": "theluckystrike",
+    "name": "mcp-currency",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "currency",
+    "note": "Currency conversion and historical exchange rates. Local source deployment and a separate hosted service are available; hosted requests require network access. Hosted endpoint: https://mcp.zovo.one/mcp/currency. Obtain a token at https://mcp.zovo.one/mcp/connect."
+  },
+  "theluckystrike/mcp-expense-tracker": {
+    "owner": "theluckystrike",
+    "name": "mcp-expense-tracker",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "expense-tracker",
+    "note": "Expenses, receipts, mileage, VAT and expense exports. Local source deployment and a separate hosted service are available; hosted processing is not local-only. Hosted endpoint: https://mcp.zovo.one/mcp/expense-tracker. Obtain a token at https://mcp.zovo.one/mcp/connect."
+  },
+  "theluckystrike/mcp-invoice-generator": {
+    "owner": "theluckystrike",
+    "name": "mcp-invoice-generator",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "invoice",
+    "note": "PDF invoices, client records, VAT, discounts and overdue reports. Canonical repository formerly linked as theluckystrike/mcp-invoice. Local source deployment and a separate hosted service are available; hosted processing is not local-only. Hosted endpoint: https://mcp.zovo.one/mcp/invoice. Obtain a token at https://mcp.zovo.one/mcp/connect."
+  },
+  "theluckystrike/mcp-pdf": {
+    "owner": "theluckystrike",
+    "name": "mcp-pdf",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "pdf",
+    "note": "Merge, split, extract, rotate and stamp PDFs. Local source deployment and a separate hosted service are available; hosted processing is not local-only. Hosted endpoint: https://mcp.zovo.one/mcp/pdf. Obtain a token at https://mcp.zovo.one/mcp/connect. Use documented source or desktop-bundle installation rather than assuming an npm package exists."
+  },
+  "theluckystrike/mcp-quotes": {
+    "owner": "theluckystrike",
+    "name": "mcp-quotes",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "quotes",
+    "note": "Client quotes, VAT line items, PDF export and conversion to invoices. Local source deployment and a separate hosted service are available; hosted processing is not local-only. Hosted endpoint: https://mcp.zovo.one/mcp/quotes. Obtain a token at https://mcp.zovo.one/mcp/connect."
+  },
+  "theluckystrike/mcp-spreadsheet": {
+    "owner": "theluckystrike",
+    "name": "mcp-spreadsheet",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "spreadsheet",
+    "note": "Inspect, query, edit and convert spreadsheets and CSV files. Local source deployment and a separate hosted service are available; hosted processing is not local-only. Hosted endpoint: https://mcp.zovo.one/mcp/spreadsheet. Obtain a token at https://mcp.zovo.one/mcp/connect."
+  },
+  "theluckystrike/mcp-time-tracker": {
+    "owner": "theluckystrike",
+    "name": "mcp-time-tracker",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "time-tracker",
+    "note": "Billable timers, time entries, reports, CSV export and invoice line items. Local source deployment and a separate hosted service are available; hosted processing is not local-only. Hosted endpoint: https://mcp.zovo.one/mcp/time-tracker. Obtain a token at https://mcp.zovo.one/mcp/connect."
+  },
+  "stonianua/neither-mcp": {
+    "owner": "stonianua",
+    "name": "neither-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "neither",
+    "note": "MCP access to selected notes and documents with retrieval evidence. Submitted stdio installation: npx -y @neitherai/mcp-server; requires NEITHER_API_KEY. Consult the repository for current setup and deployment requirements."
+  },
+  "usenetstate/statsnet-mcp": {
+    "owner": "usenetstate",
+    "name": "statsnet-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.usenetstate/statsnet",
+    "note": "Hosted company background checks covering registration, executives, courts and finances worldwide. Streamable HTTP endpoint: https://statsnet.co/mcp. Repository contains integration metadata and documentation; canonical metadata is in server.json."
+  },
+  "screenpipe/screenpipe": {
+    "owner": "screenpipe",
+    "name": "screenpipe",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.screenpipe/screenpipe-mcp",
+    "subPath": "packages/screenpipe-mcp",
+    "note": "Search captured screen text and audio transcripts. Requires a running Screenpipe recorder and SCREENPIPE_LOCAL_API_KEY; desktop Settings > Connections is the recommended setup. Package: screenpipe-mcp. Source-available under the Screenpipe Commercial License, not OSI open source. Configured cloud AI, transcription, sync and integrations can transmit context off-device."
+  },
+  "Noveum/api-market-agent-integrations": {
+    "owner": "Noveum",
+    "name": "api-market-agent-integrations",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.Noveum/api-market-gateway",
+    "note": "Client configuration and documentation for the proprietary API.market hosted MCP gateway, not its server implementation. Streamable HTTP endpoint: https://api.market/api/mcp/gateway. Requires an account and OAuth (recommended) or an API key. API calls and subscription changes may incur charges; pricing and limits vary by API. Setup: https://api.market/mcp."
+  },
+  "louis030195/hyperconsciousness": {
+    "owner": "louis030195",
+    "name": "hyperconsciousness",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "hyperconsciousness",
+    "note": "Developer-alpha Rust knowledge store with encrypted append-only records, sync and grant-scoped MCP retrieval. MIT. The submitted stdio setup requires building hc, initializing a store and creating a grant, then running hc mcp --as <grant-id> --dir /absolute/path/to/store. Grants constrain server responses, not owner-level OS processes; hosted models can see returned plaintext. No independent security audit is claimed."
+  },
   "cohesivity-org/cohesivity-plugin": {
     "owner": "cohesivity-org",
     "name": "cohesivity-plugin",
