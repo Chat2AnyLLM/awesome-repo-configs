@@ -41168,5 +41168,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "erfnzdeh/arvancloud-agent-skill": {
+        "owner": "erfnzdeh",
+        "name": "arvancloud-agent-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "markphelps/skills": {
+        "owner": "markphelps",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "deepread-tech/skills": {
+        "owner": "deepread-tech",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lopes061/skill-recruiter": {
+        "owner": "lopes061",
+        "name": "skill-recruiter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NAME0x0/CLAUDE_SETUP": {
+        "owner": "NAME0x0",
+        "name": "CLAUDE_SETUP",
+        "branch": "main",
+        "enabled": true
+    },
+    "brackendev/jsp-skills": {
+        "owner": "brackendev",
+        "name": "jsp-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "ARTHONG1/vsstudiovibecoding": {
+        "owner": "ARTHONG1",
+        "name": "vsstudiovibecoding",
+        "branch": "main",
+        "enabled": true
+    },
+    "Warshoow/agent-setup": {
+        "owner": "Warshoow",
+        "name": "agent-setup",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qikairo7/tencent-oss-suite": {
+        "owner": "qikairo7",
+        "name": "tencent-oss-suite",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "miguelrisero/ultraship": {
+        "owner": "miguelrisero",
+        "name": "ultraship",
+        "branch": "main",
+        "enabled": true
+    },
+    "ForeignerfromJupiter/foreigners-pov": {
+        "owner": "ForeignerfromJupiter",
+        "name": "foreigners-pov",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ivantss/token-saver": {
+        "owner": "ivantss",
+        "name": "token-saver",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jetformat/jetformat-agent": {
+        "owner": "jetformat",
+        "name": "jetformat-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "utopiabelmont/xiezhen-shoot-pipeline": {
+        "owner": "utopiabelmont",
+        "name": "xiezhen-shoot-pipeline",
+        "branch": "main",
+        "enabled": true
+    },
+    "gavincao6313-jpg/shijian-tuiyan": {
+        "owner": "gavincao6313-jpg",
+        "name": "shijian-tuiyan",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kjagsadvisors/jev-bookkeeper": {
+        "owner": "kjagsadvisors",
+        "name": "jev-bookkeeper",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -5546,5 +5546,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Warshoow/agent-setup": {
+    "owner": "Warshoow",
+    "name": "agent-setup",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ForeignerfromJupiter/foreigners-pov": {
+    "owner": "ForeignerfromJupiter",
+    "name": "foreigners-pov",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -32635,5 +32635,122 @@
     "repoOwner": "hwwwaan",
     "repoName": "steal-these-skills",
     "repoBranch": "main"
+  },
+  "erfnzdeh/arvancloud-agent-skill": {
+    "name": "erfnzdeh/arvancloud-agent-skill",
+    "description": "Unofficial Agent Skill for Claude Code and other SKILL.md-compatible agents, driving ArvanCloud's APIs (CDN, DNS, IaaS, Object Storage, Edge, CaaS, VOD/Live/Video Ads) and Let's Encrypt DNS-01 certs via acme.sh.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erfnzdeh",
+    "repoName": "arvancloud-agent-skill",
+    "repoBranch": "main"
+  },
+  "Avinash-jetwani/jevmem": {
+    "name": "Avinash-jetwani/jevmem",
+    "description": "Automatic project memory for Claude Code. Also works with Cursor and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Avinash-jetwani",
+    "repoName": "jevmem",
+    "repoBranch": "main"
+  },
+  "deepread-tech/skills": {
+    "name": "deepread-tech/skills",
+    "description": "Teach any AI agent how to use the DeepRead OCR, Form Fill, PII Redaction, and BYOK APIs. Claude Code, Codex, ChatGPT skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deepread-tech",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "lopes061/skill-recruiter": {
+    "name": "lopes061/skill-recruiter",
+    "description": "HR for your agent's skills: sources them on GitHub, screens them end to end, interviews rivals blind on a bench, and staffs the right one for each task.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lopes061",
+    "repoName": "skill-recruiter",
+    "repoBranch": "main"
+  },
+  "miguelrisero/ultraship": {
+    "name": "miguelrisero/ultraship",
+    "description": "How to ship with Claude Code: model-pinned ship pipeline and chief coordinator plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "miguelrisero",
+    "repoName": "ultraship",
+    "repoBranch": "main"
+  },
+  "ForeignerfromJupiter/foreigners-pov": {
+    "name": "ForeignerfromJupiter/foreigners-pov",
+    "description": "Foreigner's POV: a stage-aware designer-founder partner for Claude Code and Claude.ai. Reframes, researches, stress tests, and remembers what you killed and why.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ForeignerfromJupiter",
+    "repoName": "foreigners-pov",
+    "repoBranch": "main"
+  },
+  "seanforge/claude-code-lsp-bridge": {
+    "name": "seanforge/claude-code-lsp-bridge",
+    "description": "Claude Code plugin for TypeScript 7 (tsc --lsp / typescript-go): LSP navigation and post-edit diagnostics via a pull-to-push bridge",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seanforge",
+    "repoName": "claude-code-lsp-bridge",
+    "repoBranch": "main"
+  },
+  "agent-sh/zig-lsp": {
+    "name": "agent-sh/zig-lsp",
+    "description": "Zig LSP plugin for Claude Code (via ZLS) \u2014 agent-sh marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agent-sh",
+    "repoName": "zig-lsp",
+    "repoBranch": "main"
+  },
+  "FindAgent/plugins": {
+    "name": "FindAgent/plugins",
+    "description": "FindAgent agents as plugins for Claude, GitHub Copilot, VS Code, Codex and Cursor \u2014 a generated mirror of the reviewed FindAgent catalog.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FindAgent",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "rashedInt32/jev-gates": {
+    "name": "rashedInt32/jev-gates",
+    "description": "Six calibrated gates for Claude Code, judged by TypeSafe Jev: rules, scope, intent, done, claims, and commit honesty. Each one escalates, none ever approves.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rashedInt32",
+    "repoName": "jev-gates",
+    "repoBranch": "main"
+  },
+  "ivantss/token-saver": {
+    "name": "ivantss/token-saver",
+    "description": "Claude Code plugin: stop paying to rebuild the prompt cache after a break (/pause, /savings)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ivantss",
+    "repoName": "token-saver",
+    "repoBranch": "master"
+  },
+  "jetformat/jetformat-agent": {
+    "name": "jetformat/jetformat-agent",
+    "description": "Jetformat skill for Claude, ChatGPT, and Codex: Office to PDF, PDF to Word, PDF tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jetformat",
+    "repoName": "jetformat-agent",
+    "repoBranch": "main"
+  },
+  "kjagsadvisors/jev-bookkeeper": {
+    "name": "kjagsadvisors/jev-bookkeeper",
+    "description": "Audit or categorize a year of bank / QuickBooks transactions in seconds with TypeSafe's Jev. CLI tool + Claude Code skill. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kjagsadvisors",
+    "repoName": "jev-bookkeeper",
+    "repoBranch": "main"
   }
 }
