@@ -33085,5 +33085,14 @@
     "repoOwner": "reynolds-uk",
     "repoName": "ai-playbook",
     "repoBranch": "main"
+  },
+  "federicodon/growthcab-gtm-skills": {
+    "name": "growthcab-gtm-skills",
+    "description": "Four diagnostic skills for B2B outbound: a sending domain check (MX, SPF with the 10-lookup limit, DKIM, DMARC, domain age, Spamhaus DBL) scored out of 100, a cold email grader with ten checks, a lead list CSV QA, and a meeting show rate benchmark built on an open dataset of 1,380 booked B2B meetings. Python standard library only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "federicodon",
+    "repoName": "growthcab-gtm-skills",
+    "repoBranch": "main"
   }
 }
