@@ -32977,5 +32977,14 @@
     "repoOwner": "SatanshuMishra",
     "repoName": "interphase",
     "repoBranch": "main"
+  },
+  "lumian2015/claudeimagine-mcp": {
+    "name": "lumian2015/claudeimagine-mcp",
+    "description": "Claude Code plugin that connects the hosted Claude Imagine MCP server (OAuth, no API key) for generating and editing images and videos with Nano Banana 2, GPT Image 2.5, Seedream 4.5, Flux 2 Pro and Veo 3.1 Fast. Independent paid service with free signup credits; not affiliated with Anthropic.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lumian2015",
+    "repoName": "claudeimagine-mcp",
+    "repoBranch": "main"
   }
 }
