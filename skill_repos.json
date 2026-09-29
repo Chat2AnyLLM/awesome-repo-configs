@@ -41632,5 +41632,12 @@
         "branch": "main",
         "skillsPath": "plugins/ai-playbook/skills",
         "enabled": true
+    },
+    "federicodon/growthcab-gtm-skills": {
+        "owner": "federicodon",
+        "name": "growthcab-gtm-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
