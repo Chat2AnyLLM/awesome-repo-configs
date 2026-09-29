@@ -41489,5 +41489,141 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "kitfunso/hippo-memory": {
+        "owner": "kitfunso",
+        "name": "hippo-memory",
+        "branch": "master",
+        "enabled": true
+    },
+    "selfishprimate/seekter": {
+        "owner": "selfishprimate",
+        "name": "seekter",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "hermes-labs-ai/hermes-jailbench": {
+        "owner": "hermes-labs-ai",
+        "name": "hermes-jailbench",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "seo-skills/geo-audit-skill": {
+        "owner": "seo-skills",
+        "name": "geo-audit-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sleetcrash/MacMD": {
+        "owner": "sleetcrash",
+        "name": "MacMD",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Tekkiiiii/the-agency": {
+        "owner": "Tekkiiiii",
+        "name": "the-agency",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "crocsarecool/plumber": {
+        "owner": "crocsarecool",
+        "name": "plumber",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dauletbekalim/motion-ui-videos": {
+        "owner": "dauletbekalim",
+        "name": "motion-ui-videos",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JesseRaber/multi-agent-folder-cleanup": {
+        "owner": "JesseRaber",
+        "name": "multi-agent-folder-cleanup",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hermes-labs-ai/csv-quality-gate": {
+        "owner": "hermes-labs-ai",
+        "name": "csv-quality-gate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hermes-labs-ai/intent-verify": {
+        "owner": "hermes-labs-ai",
+        "name": "intent-verify",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OnePathToFreedom/n8n-publish-check": {
+        "owner": "OnePathToFreedom",
+        "name": "n8n-publish-check",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "devara1983ntr/blackheart-security-framework": {
+        "owner": "devara1983ntr",
+        "name": "blackheart-security-framework",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AholicK/zh-book-skills": {
+        "owner": "AholicK",
+        "name": "zh-book-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sachin-uvera/dpdp-by-uvera": {
+        "owner": "sachin-uvera",
+        "name": "dpdp-by-uvera",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sriinnu/tokmeter": {
+        "owner": "sriinnu",
+        "name": "tokmeter",
+        "branch": "main",
+        "enabled": true
+    },
+    "Coflazo/neilization": {
+        "owner": "Coflazo",
+        "name": "neilization",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "giovicordova/skills-gc": {
+        "owner": "giovicordova",
+        "name": "skills-gc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "entelekheia-ai/skills": {
+        "owner": "entelekheia-ai",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "vibecodedapps-official/claude-codex-loop": {
+        "owner": "vibecodedapps-official",
+        "name": "claude-codex-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -32986,5 +32986,95 @@
     "repoOwner": "lumian2015",
     "repoName": "claudeimagine-mcp",
     "repoBranch": "main"
+  },
+  "kitfunso/hippo-memory": {
+    "name": "kitfunso/hippo-memory",
+    "description": "Memory for AI agents that learns what is wrong and stops repeating it. Mark a memory wrong and it stops coming back; newer facts replace old ones. Local SQLite store and MCP server, persistent across sessions; hippo i...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kitfunso",
+    "repoName": "hippo-memory",
+    "repoBranch": "master"
+  },
+  "hermes-labs-ai/hermes-jailbench": {
+    "name": "hermes-labs-ai/hermes-jailbench",
+    "description": "Zero-LLM deterministic jailbreak regression benchmark: runs a repeatable battery of known-pattern attacks against an LLM endpoint and scores refusal/partial/compliance across runs. Catch when a model or prompt update...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "hermes-jailbench",
+    "repoBranch": "main"
+  },
+  "seo-skills/geo-audit-skill": {
+    "name": "seo-skills/geo-audit-skill",
+    "description": "Deterministic GEO audits for AI search: a Python CLI and Claude Code skills that score how well AI engines can read, quote and cite a site.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seo-skills",
+    "repoName": "geo-audit-skill",
+    "repoBranch": "main"
+  },
+  "dauletbekalim/motion-ui-videos": {
+    "name": "dauletbekalim/motion-ui-videos",
+    "description": "A Claude Code skill that makes product videos from your app's repo: reels, launch films, loops and covers, with the UI rebuilt in code and sound timed to the frame.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dauletbekalim",
+    "repoName": "motion-ui-videos",
+    "repoBranch": "main"
+  },
+  "JesseRaber/multi-agent-folder-cleanup": {
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "description": "Canonical Agent Skill for auditing and safely reorganizing shared project folders used by multiple AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JesseRaber",
+    "repoName": "multi-agent-folder-cleanup",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/csv-quality-gate": {
+    "name": "hermes-labs-ai/csv-quality-gate",
+    "description": "csv-quality-gate is a command-line data quality gate that runs CSV preflight validation, failing fast before an ML or LLM pipeline ingests broken, incomplete, duplicated, or junk input. It checks missing columns, empt...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "csv-quality-gate",
+    "repoBranch": "main"
+  },
+  "hermes-labs-ai/intent-verify": {
+    "name": "hermes-labs-ai/intent-verify",
+    "description": "intent-verify is a deterministic, zero-LLM CLI that checks whether a repo's source still lexically covers the acceptance items in a markdown spec, INTENT.md, or handoff doc, returning verified, partial, or missing. A...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hermes-labs-ai",
+    "repoName": "intent-verify",
+    "repoBranch": "main"
+  },
+  "devara1983ntr/blackheart-security-framework": {
+    "name": "devara1983ntr/blackheart-security-framework",
+    "description": "Governed security-supply-chain framework for AI agents: 388 pinned skills, 39 commands and 33 personas, each behind a reviewed adapter and a CI-enforced authorization gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devara1983ntr",
+    "repoName": "blackheart-security-framework",
+    "repoBranch": "main"
+  },
+  "entelekheia-ai/skills": {
+    "name": "entelekheia-ai/skills",
+    "description": "Claude Code plugins and Agent Skills: delegation routing, unattended plan runs, publishing your own skills, npm release channels, machine upkeep",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "entelekheia-ai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "vibecodedapps-official/claude-codex-loop": {
+    "name": "vibecodedapps-official/claude-codex-loop",
+    "description": "Claude Code plugin: a tiered plan, review, implement, review, publish loop. Claude orchestrates, Codex reviews, Sonnet implements.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vibecodedapps-official",
+    "repoName": "claude-codex-loop",
+    "repoBranch": "main"
   }
 }

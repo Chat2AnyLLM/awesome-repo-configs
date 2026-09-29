@@ -5602,5 +5602,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Tekkiiiii/the-agency": {
+    "owner": "Tekkiiiii",
+    "name": "the-agency",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
