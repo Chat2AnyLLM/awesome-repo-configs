@@ -41639,5 +41639,120 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "raulpetruta/voice-calibration-plugin": {
+        "owner": "raulpetruta",
+        "name": "voice-calibration-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SebastienDegodez/skraft-plugin": {
+        "owner": "SebastienDegodez",
+        "name": "skraft-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "slilbudget/knowledge-delta-skills": {
+        "owner": "slilbudget",
+        "name": "knowledge-delta-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GeiserX/agent-skills": {
+        "owner": "GeiserX",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yannelli/be-concise": {
+        "owner": "yannelli",
+        "name": "be-concise",
+        "branch": "main",
+        "enabled": true
+    },
+    "bekservice/Famulor-Skill": {
+        "owner": "bekservice",
+        "name": "Famulor-Skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "WillyAR68/no-false-flags": {
+        "owner": "WillyAR68",
+        "name": "no-false-flags",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guilhermedworakowski/design-skill": {
+        "owner": "guilhermedworakowski",
+        "name": "design-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "qikairo7/penguin-oss-suite": {
+        "owner": "qikairo7",
+        "name": "penguin-oss-suite",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "asrms/enterprise-agents-claude-copilot": {
+        "owner": "asrms",
+        "name": "enterprise-agents-claude-copilot",
+        "branch": "main",
+        "enabled": true
+    },
+    "bwfnx/agent-skills": {
+        "owner": "bwfnx",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zigzag968/claude-code-lgtmgate": {
+        "owner": "Zigzag968",
+        "name": "claude-code-lgtmgate",
+        "branch": "main",
+        "enabled": true
+    },
+    "witcharon/claude-reel-skills": {
+        "owner": "witcharon",
+        "name": "claude-reel-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HehewCrew/claude-skills": {
+        "owner": "HehewCrew",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "LienDeadline/skills": {
+        "owner": "LienDeadline",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DRMCT/bazi-writing": {
+        "owner": "DRMCT",
+        "name": "bazi-writing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AyeJK/phase-runner": {
+        "owner": "AyeJK",
+        "name": "phase-runner",
+        "branch": "main",
+        "enabled": true
+    },
+    "SvyatoSllav/claude-plugins": {
+        "owner": "SvyatoSllav",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

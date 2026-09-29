@@ -33094,5 +33094,104 @@
     "repoOwner": "federicodon",
     "repoName": "growthcab-gtm-skills",
     "repoBranch": "main"
+  },
+  "raulpetruta/voice-calibration-plugin": {
+    "name": "raulpetruta/voice-calibration-plugin",
+    "description": "AI voice calibration plugin that learns your writing style through guided prompts and generates a reusable voice profile so agents can write more like you across tools and workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raulpetruta",
+    "repoName": "voice-calibration-plugin",
+    "repoBranch": "main"
+  },
+  "SebastienDegodez/skraft-plugin": {
+    "name": "SebastienDegodez/skraft-plugin",
+    "description": "Specialized agents, adversarial reviewers, discipline skills (Outside-In TDD, Clean Architecture) and mechanical guardrails (hooks) for Claude Code and GitHub Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SebastienDegodez",
+    "repoName": "skraft-plugin",
+    "repoBranch": "main"
+  },
+  "yannelli/be-concise": {
+    "name": "yannelli/be-concise",
+    "description": "Be concise catches the agent's own verbosity and makes it corrects in real-time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yannelli",
+    "repoName": "be-concise",
+    "repoBranch": "main"
+  },
+  "WillyAR68/no-false-flags": {
+    "name": "WillyAR68/no-false-flags",
+    "description": "Stay on the top Claude model. Claude Code plugin for fewer false-positive safety stops on legitimate work: clean-conversation recovery, read-by-section hook, fallback hook. Eval-tested.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WillyAR68",
+    "repoName": "no-false-flags",
+    "repoBranch": "main"
+  },
+  "qikairo7/penguin-oss-suite": {
+    "name": "qikairo7/penguin-oss-suite",
+    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qikairo7",
+    "repoName": "penguin-oss-suite",
+    "repoBranch": "master"
+  },
+  "bwfnx/agent-skills": {
+    "name": "bwfnx/agent-skills",
+    "description": "Skill Repo",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bwfnx",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "Zigzag968/claude-code-lgtmgate": {
+    "name": "Zigzag968/claude-code-lgtmgate",
+    "description": "An LGTM you can trust: run several issues at once, each in its own git worktree, moved by a scripted five-agent pipeline that pauses for your go-ahead to a mergeable PR.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zigzag968",
+    "repoName": "claude-code-lgtmgate",
+    "repoBranch": "main"
+  },
+  "HehewCrew/claude-skills": {
+    "name": "HehewCrew/claude-skills",
+    "description": "Workflow skills for Claude Code: skill-harvest turns sessions into skills, pots keeps todos that scan your files (solo or shared with a team), session-open starts every session with the same checks, stack-it-right pic...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HehewCrew",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "LienDeadline/skills": {
+    "name": "LienDeadline/skills",
+    "description": "Agent skill and plugins for US mechanics lien and preliminary notice deadlines (LienDeadline). Works with Claude Code, Codex, Cursor, Gemini CLI and Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LienDeadline",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "AyeJK/phase-runner": {
+    "name": "AyeJK/phase-runner",
+    "description": "Your whole product team, not just a coding agent. Plan \u2192 design \u2192 build \u2192 QA, with you as the PM who signs off.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AyeJK",
+    "repoName": "phase-runner",
+    "repoBranch": "main"
+  },
+  "SvyatoSllav/claude-plugins": {
+    "name": "SvyatoSllav/claude-plugins",
+    "description": "Free assistants for Claude, Cowork and Claude Code: writing, career, languages, prompts",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SvyatoSllav",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }
