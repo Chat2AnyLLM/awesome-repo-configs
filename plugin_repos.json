@@ -33084,7 +33084,6 @@
     "type": "marketplace",
     "repoOwner": "reynolds-uk",
     "repoName": "ai-playbook",
-    "repoBranch": "main",
-    "pluginPath": "plugins/ai-playbook"
+    "repoBranch": "main"
   }
 }
