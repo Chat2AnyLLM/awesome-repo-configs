@@ -41625,5 +41625,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "reynolds-uk/ai-playbook": {
+        "owner": "reynolds-uk",
+        "name": "ai-playbook",
+        "branch": "main",
+        "skillsPath": "plugins/ai-playbook/skills",
+        "enabled": true
     }
 }
