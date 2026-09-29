@@ -33076,5 +33076,14 @@
     "repoOwner": "vibecodedapps-official",
     "repoName": "claude-codex-loop",
     "repoBranch": "main"
+  },
+  "reynolds-uk/ai-playbook": {
+    "name": "ai-playbook",
+    "description": "Nine interview-style skills for running AI in a business: a five-minute leader check, an agent register with a named owner per tool, test sets from your own cases, gate reviews for earned autonomy, claimed-vs-banked savings, and more. Ships with its own claude plugin eval suite. CC BY 4.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "reynolds-uk",
+    "repoName": "ai-playbook",
+    "repoBranch": "main"
   }
 }
