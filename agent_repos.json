@@ -5567,5 +5567,40 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "ZachArticulateV/designer-pro-and-seo": {
+    "owner": "ZachArticulateV",
+    "name": "designer-pro-and-seo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Drix10/agent-flow": {
+    "owner": "Drix10",
+    "name": "agent-flow",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "talayash/spring-fleet": {
+    "owner": "talayash",
+    "name": "spring-fleet",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lsy041015/orchestra": {
+    "owner": "lsy041015",
+    "name": "orchestra",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "SatanshuMishra/interphase": {
+    "owner": "SatanshuMishra",
+    "name": "interphase",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

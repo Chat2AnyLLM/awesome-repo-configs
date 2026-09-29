@@ -32869,5 +32869,113 @@
     "repoOwner": "beepboop2025",
     "repoName": "financial-evidence-skills",
     "repoBranch": "main"
+  },
+  "Junhan2/oh-my-fable": {
+    "name": "Junhan2/oh-my-fable",
+    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Junhan2",
+    "repoName": "oh-my-fable",
+    "repoBranch": "main"
+  },
+  "artemnovichkov/xcode-skills": {
+    "name": "artemnovichkov/xcode-skills",
+    "description": "Agent skills from Xcode 27, packaged as a Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "artemnovichkov",
+    "repoName": "xcode-skills",
+    "repoBranch": "main"
+  },
+  "ZachArticulateV/designer-pro-and-seo": {
+    "name": "ZachArticulateV/designer-pro-and-seo",
+    "description": "Free MIT Claude Code plugin for the web-design + SEO workflow: design systems, on-brand page rendering, tokens, build briefs, pre-delivery QA, portable-HTML porting for any CMS, and a full SEO suite. 45 tool-aware ski...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ZachArticulateV",
+    "repoName": "designer-pro-and-seo",
+    "repoBranch": "main"
+  },
+  "Drix10/agent-flow": {
+    "name": "Drix10/agent-flow",
+    "description": "A self-bootstrapping, self-healing agent engineering skill for any repository.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Drix10",
+    "repoName": "agent-flow",
+    "repoBranch": "main"
+  },
+  "talayash/spring-fleet": {
+    "name": "talayash/spring-fleet",
+    "description": "Claude Code plugin to navigate, trace, and debug a fleet of multi-repo Spring Boot microservices",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "talayash",
+    "repoName": "spring-fleet",
+    "repoBranch": "main"
+  },
+  "juscribe/jus-skills": {
+    "name": "juscribe/jus-skills",
+    "description": "Ticket-workflow skills and guardrail hooks for Claude Code and other coding agents: start the ticket, test first, commit, and deliver for a person to accept, on a Juscribe board.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "juscribe",
+    "repoName": "jus-skills",
+    "repoBranch": "main"
+  },
+  "adamjali/research-poster-skill": {
+    "name": "adamjali/research-poster-skill",
+    "description": "Claude Code skill/plugin that turns a PDF abstract into a polished, fully-editable scientific conference poster: native PowerPoint charts, verified citations, honest data-viz, and a render-and-QA loop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adamjali",
+    "repoName": "research-poster-skill",
+    "repoBranch": "main"
+  },
+  "lsy041015/orchestra": {
+    "name": "lsy041015/orchestra",
+    "description": "\uc624\ucf00\uc2a4\ud2b8\ub77c: Claude Code \uba54\uc778 \uc138\uc158\uc774 \uc9c0\ud718\ud558\uace0, \ub09c\uc774\ub3c4\ubcc4\ub85c \uace0\ub978 Claude\u00b7Codex \uc6cc\ucee4\uac00 \uad6c\ud604\ud558\ub294 \uc2a4\ud0ac \ud50c\ub7ec\uadf8\uc778",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lsy041015",
+    "repoName": "orchestra",
+    "repoBranch": "main"
+  },
+  "AugentaAI/augenta-plugin": {
+    "name": "AugentaAI/augenta-plugin",
+    "description": "Neuroplasticity for Agents, a living memory that focuses on relevant context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AugentaAI",
+    "repoName": "augenta-plugin",
+    "repoBranch": "main"
+  },
+  "Natchannnn/repository-engineering-skills": {
+    "name": "Natchannnn/repository-engineering-skills",
+    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes installation instructions, evaluation harnesses, and archived examples.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Natchannnn",
+    "repoName": "repository-engineering-skills",
+    "repoBranch": "main"
+  },
+  "iniyan/gsc-quick-wins": {
+    "name": "iniyan/gsc-quick-wins",
+    "description": "No new articles. More traffic. An Agent Skill that finds your Google Search Console keywords stuck in positions 4\u201320 and writes the exact fixes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iniyan",
+    "repoName": "gsc-quick-wins",
+    "repoBranch": "main"
+  },
+  "SatanshuMishra/interphase": {
+    "name": "SatanshuMishra/interphase",
+    "description": "A Claude Code plugin that turns a rough request into a clear spec.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SatanshuMishra",
+    "repoName": "interphase",
+    "repoBranch": "main"
   }
 }

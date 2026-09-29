@@ -41385,5 +41385,109 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Junhan2/oh-my-fable": {
+        "owner": "Junhan2",
+        "name": "oh-my-fable",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "artemnovichkov/xcode-skills": {
+        "owner": "artemnovichkov",
+        "name": "xcode-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tndvnn/tncn": {
+        "owner": "tndvnn",
+        "name": "tncn",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ZachArticulateV/designer-pro-and-seo": {
+        "owner": "ZachArticulateV",
+        "name": "designer-pro-and-seo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Drix10/agent-flow": {
+        "owner": "Drix10",
+        "name": "agent-flow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "talki-io/prompt-optimizer": {
+        "owner": "talki-io",
+        "name": "prompt-optimizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "talayash/spring-fleet": {
+        "owner": "talayash",
+        "name": "spring-fleet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "juscribe/jus-skills": {
+        "owner": "juscribe",
+        "name": "jus-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adamjali/research-poster-skill": {
+        "owner": "adamjali",
+        "name": "research-poster-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "didrod205/brain-master": {
+        "owner": "didrod205",
+        "name": "brain-master",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lsy041015/orchestra": {
+        "owner": "lsy041015",
+        "name": "orchestra",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AugentaAI/augenta-plugin": {
+        "owner": "AugentaAI",
+        "name": "augenta-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Natchannnn/repository-engineering-skills": {
+        "owner": "Natchannnn",
+        "name": "repository-engineering-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "iniyan/gsc-quick-wins": {
+        "owner": "iniyan",
+        "name": "gsc-quick-wins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SatanshuMishra/interphase": {
+        "owner": "SatanshuMishra",
+        "name": "interphase",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
