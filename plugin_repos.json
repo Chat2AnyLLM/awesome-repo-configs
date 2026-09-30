@@ -33193,5 +33193,113 @@
     "repoOwner": "SvyatoSllav",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "Farenhytee/database-sentinel": {
+    "name": "Farenhytee/database-sentinel",
+    "description": "Claude Skill that audits your projects for RLS misconfigurations, exposed keys, auth bypasses, and storage vulnerabilities. 27 anti-patterns sourced from CVE-2025-48757 and 10 security studies. Safe for production.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Farenhytee",
+    "repoName": "database-sentinel",
+    "repoBranch": "main"
+  },
+  "FavioVazquez/showtime": {
+    "name": "FavioVazquez/showtime",
+    "description": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FavioVazquez",
+    "repoName": "showtime",
+    "repoBranch": "main"
+  },
+  "IvMisticos/misticos.Claude": {
+    "name": "IvMisticos/misticos.Claude",
+    "description": "IvMisticos/misticos.Claude \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IvMisticos",
+    "repoName": "misticos.Claude",
+    "repoBranch": "main"
+  },
+  "hopp1395/cc-outline": {
+    "name": "hopp1395/cc-outline",
+    "description": "Split-pane viewer for Claude Code in Windows Terminal and tmux: the session as rendered Markdown with subagents, live git diffs, plan-mode plans and a session browser",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hopp1395",
+    "repoName": "cc-outline",
+    "repoBranch": "main"
+  },
+  "postoncehq/plugins": {
+    "name": "postoncehq/plugins",
+    "description": "Claude Code plugin marketplace for PostOnce: MCP servers and skills for LinkedIn, Instagram, TikTok, YouTube, Facebook, X (Twitter), Threads, Bluesky and Pinterest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "vancsj/bootgear": {
+    "name": "vancsj/bootgear",
+    "description": "Agent harness framework - the gear between LLM motors and user skills/tools/configs/docs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vancsj",
+    "repoName": "bootgear",
+    "repoBranch": "main"
+  },
+  "matuskalis/autoskill": {
+    "name": "matuskalis/autoskill",
+    "description": "Finds the right Claude Code skill for each prompt in a rated, weekly-updated catalog of 22k public skills, and installs it pinned to a commit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matuskalis",
+    "repoName": "autoskill",
+    "repoBranch": "main"
+  },
+  "powersoftware-app/powersoftware-agent-skills": {
+    "name": "powersoftware-app/powersoftware-agent-skills",
+    "description": "Agent Skills for PowerSoftware (powersoftware.app): publish license-enabled software products end-to-end. \u5e42\u6808\u7f51\u6388\u6743\u4ea7\u54c1\u4e0a\u67b6\u81ea\u52a8\u5316 Skill\uff1a\u6ce8\u518c > \u5408\u4f5c\u4f19\u4f34\u4eba\u5de5\u5ba1\u6838 > \u7d20\u6750\u4e0a\u4f20 > \u63d0\u4ea4\u4ea7\u54c1\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "powersoftware-app",
+    "repoName": "powersoftware-agent-skills",
+    "repoBranch": "main"
+  },
+  "hubeiqiao/how-i-make-videos-with-ai": {
+    "name": "hubeiqiao/how-i-make-videos-with-ai",
+    "description": "The five steps from How I Make Videos With AI as a Skill for your assistant (make-a-video), every prompt, and six example Skills. Make videos from your own files with Claude Code and Remotion.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hubeiqiao",
+    "repoName": "how-i-make-videos-with-ai",
+    "repoBranch": "main"
+  },
+  "MarvelCollin/agent-skills": {
+    "name": "MarvelCollin/agent-skills",
+    "description": "A growing set of Claude Code skills. Starts with /uiux, which builds UI under strict UX rules and reviews it, or audits a live site as a real user.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MarvelCollin",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "pasrom/km": {
+    "name": "pasrom/km",
+    "description": "Knowledge management for markdown knowledge bases: Claude Code skill, validator and team-brain CI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pasrom",
+    "repoName": "km",
+    "repoBranch": "main"
+  },
+  "sskirby/ai-tooling": {
+    "name": "sskirby/ai-tooling",
+    "description": "Claude Code plugins with a replay-based eval harness that measures multi-turn skill performance on Opus, Sonnet and Haiku.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sskirby",
+    "repoName": "ai-tooling",
+    "repoBranch": "main"
   }
 }

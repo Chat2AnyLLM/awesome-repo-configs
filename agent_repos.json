@@ -5623,5 +5623,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "FavioVazquez/showtime": {
+    "owner": "FavioVazquez",
+    "name": "showtime",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -41754,5 +41754,126 @@
         "name": "claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "Farenhytee/database-sentinel": {
+        "owner": "Farenhytee",
+        "name": "database-sentinel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "FavioVazquez/showtime": {
+        "owner": "FavioVazquez",
+        "name": "showtime",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hopp1395/cc-outline": {
+        "owner": "hopp1395",
+        "name": "cc-outline",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "vancsj/bootgear": {
+        "owner": "vancsj",
+        "name": "bootgear",
+        "branch": "main",
+        "enabled": true
+    },
+    "jaden7856/resume-builder": {
+        "owner": "jaden7856",
+        "name": "resume-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bolongpa/repopedia": {
+        "owner": "bolongpa",
+        "name": "repopedia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mnttnm/claude-skills": {
+        "owner": "mnttnm",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "EthanusJS/bot-free-meeting-minutes": {
+        "owner": "EthanusJS",
+        "name": "bot-free-meeting-minutes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matuskalis/autoskill": {
+        "owner": "matuskalis",
+        "name": "autoskill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "powersoftware-app/powersoftware-agent-skills": {
+        "owner": "powersoftware-app",
+        "name": "powersoftware-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "flashfrogluo/second-take": {
+        "owner": "flashfrogluo",
+        "name": "second-take",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LucasOsorio1/check-loop": {
+        "owner": "LucasOsorio1",
+        "name": "check-loop",
+        "branch": "main",
+        "enabled": true
+    },
+    "thebpandey/session-detail": {
+        "owner": "thebpandey",
+        "name": "session-detail",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hubeiqiao/how-i-make-videos-with-ai": {
+        "owner": "hubeiqiao",
+        "name": "how-i-make-videos-with-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MarvelCollin/agent-skills": {
+        "owner": "MarvelCollin",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/kuaishou-opportunity-research": {
+        "owner": "why20261",
+        "name": "kuaishou-opportunity-research",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pasrom/km": {
+        "owner": "pasrom",
+        "name": "km",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sskirby/ai-tooling": {
+        "owner": "sskirby",
+        "name": "ai-tooling",
+        "branch": "main",
+        "enabled": true
     }
 }
