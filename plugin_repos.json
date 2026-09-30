@@ -33301,5 +33301,113 @@
     "repoOwner": "sskirby",
     "repoName": "ai-tooling",
     "repoBranch": "main"
+  },
+  "scenario-labs/skills": {
+    "name": "scenario-labs/skills",
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scenario-labs",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "vanshyadav1408/Omentir": {
+    "name": "vanshyadav1408/Omentir",
+    "description": "Open Source HeyReach & Gojiberry alternative",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vanshyadav1408",
+    "repoName": "Omentir",
+    "repoBranch": "main"
+  },
+  "serkankorkut/mask2ai": {
+    "name": "serkankorkut/mask2ai",
+    "description": "PII redaction for ChatGPT, claude.ai and Claude Code. Masks names, emails, phone numbers, cards, IBANs and IDs before they leave your machine and restores them on screen. Chrome extension and Claude Code plugin, no se...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serkankorkut",
+    "repoName": "mask2ai",
+    "repoBranch": "main"
+  },
+  "iart-ai/javascript-animation-skills": {
+    "name": "iart-ai/javascript-animation-skills",
+    "description": "Every frame drawn in JavaScript \u2014 the Opus 5.5-style animation technique as agent skills: hand-drawn canvas animation, zero image assets, code-synthesized soundtrack, A/V sync check.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iart-ai",
+    "repoName": "javascript-animation-skills",
+    "repoBranch": "main"
+  },
+  "Willem-Jaap/cssclamp": {
+    "name": "Willem-Jaap/cssclamp",
+    "description": "Create easy clamping for margins, paddings and fonts with CSS & Tailwind output",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Willem-Jaap",
+    "repoName": "cssclamp",
+    "repoBranch": "master"
+  },
+  "leinardi/adversarial-review-loop": {
+    "name": "leinardi/adversarial-review-loop",
+    "description": "Claude Code plugin that gates every phase commit on an external adversarial review: a fresh, isolated reviewer process must pass the exact tree before the commit is allowed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leinardi",
+    "repoName": "adversarial-review-loop",
+    "repoBranch": "main"
+  },
+  "TokiDEV/team-skills": {
+    "name": "TokiDEV/team-skills",
+    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser CEO gate where the human decides.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TokiDEV",
+    "repoName": "team-skills",
+    "repoBranch": "main"
+  },
+  "aantenore/agentic-sdlc": {
+    "name": "aantenore/agentic-sdlc",
+    "description": "Plugin for Claude Code and Codex that turns requests, decisions, contracts, changes and verification into an auditable workflow and visual project timeline.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aantenore",
+    "repoName": "agentic-sdlc",
+    "repoBranch": "main"
+  },
+  "Spicrawl/agent-plugins": {
+    "name": "Spicrawl/agent-plugins",
+    "description": "Spicrawl plugins for AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Copilot CLI, Factory Droid, Devin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Spicrawl",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "dylanbr/nvim-agent-skill": {
+    "name": "dylanbr/nvim-agent-skill",
+    "description": "A Neovim agent skill for Claude Code and other AI coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dylanbr",
+    "repoName": "nvim-agent-skill",
+    "repoBranch": "master"
+  },
+  "jsobolewski1/fondue": {
+    "name": "jsobolewski1/fondue",
+    "description": "\ud83e\uded5 One pot, everyone brings a fork, no double-dipping. A team of AI agents that plan, build and review each other's work, with you as the team lead. Spec-driven development and bug hunting for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jsobolewski1",
+    "repoName": "fondue",
+    "repoBranch": "main"
+  },
+  "ai4science-skills/skills": {
+    "name": "ai4science-skills/skills",
+    "description": "Community index of Claude skills for scientific work. Pinned, checked, one-line import.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ai4science-skills",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }

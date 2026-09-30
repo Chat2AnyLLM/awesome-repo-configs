@@ -41875,5 +41875,112 @@
         "name": "ai-tooling",
         "branch": "main",
         "enabled": true
+    },
+    "scenario-labs/skills": {
+        "owner": "scenario-labs",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vanshyadav1408/Omentir": {
+        "owner": "vanshyadav1408",
+        "name": "Omentir",
+        "branch": "main",
+        "enabled": true
+    },
+    "charlie947/motion-graphics-skills": {
+        "owner": "charlie947",
+        "name": "motion-graphics-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Likenttt/garmin-connect-plugin-for-dsh": {
+        "owner": "Likenttt",
+        "name": "garmin-connect-plugin-for-dsh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iart-ai/javascript-animation-skills": {
+        "owner": "iart-ai",
+        "name": "javascript-animation-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Willem-Jaap/cssclamp": {
+        "owner": "Willem-Jaap",
+        "name": "cssclamp",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "leinardi/adversarial-review-loop": {
+        "owner": "leinardi",
+        "name": "adversarial-review-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TokiDEV/team-skills": {
+        "owner": "TokiDEV",
+        "name": "team-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "runapi-ai/grok": {
+        "owner": "runapi-ai",
+        "name": "grok",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "repotify/repotify": {
+        "owner": "repotify",
+        "name": "repotify",
+        "branch": "main",
+        "enabled": true
+    },
+    "jassics/aisecscan": {
+        "owner": "jassics",
+        "name": "aisecscan",
+        "branch": "main",
+        "enabled": true
+    },
+    "aantenore/agentic-sdlc": {
+        "owner": "aantenore",
+        "name": "agentic-sdlc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Spicrawl/agent-plugins": {
+        "owner": "Spicrawl",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "dylanbr/nvim-agent-skill": {
+        "owner": "dylanbr",
+        "name": "nvim-agent-skill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jsobolewski1/fondue": {
+        "owner": "jsobolewski1",
+        "name": "fondue",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ai4science-skills/skills": {
+        "owner": "ai4science-skills",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
     }
 }
