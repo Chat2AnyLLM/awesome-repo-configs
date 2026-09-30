@@ -5651,5 +5651,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "HermeticOrmus/LibreUIUX-Claude-Code": {
+    "owner": "HermeticOrmus",
+    "name": "LibreUIUX-Claude-Code",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "HermeticOrmus/design-mastery-claude-code": {
+    "owner": "HermeticOrmus",
+    "name": "design-mastery-claude-code",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "HermeticOrmus/LibreGEO-Claude-Code": {
+    "owner": "HermeticOrmus",
+    "name": "LibreGEO-Claude-Code",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

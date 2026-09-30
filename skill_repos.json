@@ -41982,5 +41982,111 @@
         "name": "skills",
         "branch": "main",
         "enabled": true
+    },
+    "HermeticOrmus/LibreUIUX-Claude-Code": {
+        "owner": "HermeticOrmus",
+        "name": "LibreUIUX-Claude-Code",
+        "branch": "main",
+        "enabled": true
+    },
+    "HermeticOrmus/claude-code-game-development": {
+        "owner": "HermeticOrmus",
+        "name": "claude-code-game-development",
+        "branch": "main",
+        "enabled": true
+    },
+    "HermeticOrmus/LibreEmbed-Claude-Code": {
+        "owner": "HermeticOrmus",
+        "name": "LibreEmbed-Claude-Code",
+        "branch": "main",
+        "enabled": true
+    },
+    "HermeticOrmus/design-mastery-claude-code": {
+        "owner": "HermeticOrmus",
+        "name": "design-mastery-claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HermeticOrmus/claude-code-guide": {
+        "owner": "HermeticOrmus",
+        "name": "claude-code-guide",
+        "branch": "master",
+        "enabled": true
+    },
+    "risukisu/marketing-skills": {
+        "owner": "risukisu",
+        "name": "marketing-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ecomyseo/prestashop_skills": {
+        "owner": "ecomyseo",
+        "name": "prestashop_skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "HermeticOrmus/LibreSecOps-Claude-Code": {
+        "owner": "HermeticOrmus",
+        "name": "LibreSecOps-Claude-Code",
+        "branch": "main",
+        "enabled": true
+    },
+    "kjgarza/marketplace-claude": {
+        "owner": "kjgarza",
+        "name": "marketplace-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "Maxbase91/procurement-skills": {
+        "owner": "Maxbase91",
+        "name": "procurement-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "dubbl-a/house-rules": {
+        "owner": "dubbl-a",
+        "name": "house-rules",
+        "branch": "main",
+        "enabled": true
+    },
+    "gaurvedant25/stock-history": {
+        "owner": "gaurvedant25",
+        "name": "stock-history",
+        "branch": "main",
+        "enabled": true
+    },
+    "CGWebDev2003/cg-web-skills": {
+        "owner": "CGWebDev2003",
+        "name": "cg-web-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "evnm/claude-skills": {
+        "owner": "evnm",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ogxo-io/plugins": {
+        "owner": "ogxo-io",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "kodaas/agent-bridge": {
+        "owner": "kodaas",
+        "name": "agent-bridge",
+        "branch": "main",
+        "enabled": true
+    },
+    "HermeticOrmus/LibreGEO-Claude-Code": {
+        "owner": "HermeticOrmus",
+        "name": "LibreGEO-Claude-Code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

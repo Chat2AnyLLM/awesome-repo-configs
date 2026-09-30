@@ -33409,5 +33409,113 @@
     "repoOwner": "ai4science-skills",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "HermeticOrmus/LibreUIUX-Claude-Code": {
+    "name": "HermeticOrmus/LibreUIUX-Claude-Code",
+    "description": "UI/UX system for Claude Code: 71 plugins, 93 agents, 74 skills. Design mastery, archetypal design, accessibility, and frontend workflows in one validated plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HermeticOrmus",
+    "repoName": "LibreUIUX-Claude-Code",
+    "repoBranch": "main"
+  },
+  "HermeticOrmus/claude-code-game-development": {
+    "name": "HermeticOrmus/claude-code-game-development",
+    "description": "Game development for Claude Code: 22 game plugins (Godot, Unity, Unreal, multiplayer, audio, shaders) plus 65 general dev plugins, an 81-page game dev manual, and a validated plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HermeticOrmus",
+    "repoName": "claude-code-game-development",
+    "repoBranch": "main"
+  },
+  "HermeticOrmus/LibreEmbed-Claude-Code": {
+    "name": "HermeticOrmus/LibreEmbed-Claude-Code",
+    "description": "15 Claude Code plugins for embedded systems, firmware, and IoT development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HermeticOrmus",
+    "repoName": "LibreEmbed-Claude-Code",
+    "repoBranch": "main"
+  },
+  "HermeticOrmus/design-mastery-claude-code": {
+    "name": "HermeticOrmus/design-mastery-claude-code",
+    "description": "Design Mastery plugin for Claude Code - Learn from Saul Bass, Dieter Rams, and other masters. Build professional brand identities with systematic workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HermeticOrmus",
+    "repoName": "design-mastery-claude-code",
+    "repoBranch": "main"
+  },
+  "HermeticOrmus/claude-code-guide": {
+    "name": "HermeticOrmus/claude-code-guide",
+    "description": "Complete guide to Claude Code as a system-wide assistant \u2014 setup, workflows, advanced patterns",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HermeticOrmus",
+    "repoName": "claude-code-guide",
+    "repoBranch": "master"
+  },
+  "HermeticOrmus/LibreSecOps-Claude-Code": {
+    "name": "HermeticOrmus/LibreSecOps-Claude-Code",
+    "description": "Security operations plugins, agents, commands, and skills for Claude Code. Sister project to LibreUIUX.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HermeticOrmus",
+    "repoName": "LibreSecOps-Claude-Code",
+    "repoBranch": "main"
+  },
+  "kjgarza/marketplace-claude": {
+    "name": "kjgarza/marketplace-claude",
+    "description": "Claude Code plugins for research, dev workflows and personal productivity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kjgarza",
+    "repoName": "marketplace-claude",
+    "repoBranch": "main"
+  },
+  "dubbl-a/house-rules": {
+    "name": "dubbl-a/house-rules",
+    "description": "Persistent repository conventions for Claude Code: rule files vendored into your repo, a drift and tamper checker, a branch guard hook, and skills to bootstrap, sync, and revise them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dubbl-a",
+    "repoName": "house-rules",
+    "repoBranch": "main"
+  },
+  "CGWebDev2003/cg-web-skills": {
+    "name": "CGWebDev2003/cg-web-skills",
+    "description": "A professional Claude skillset for designing, building, and optimizing high-quality websites \u2014 from UX and visual design to frontend development, performance, and conversion.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CGWebDev2003",
+    "repoName": "cg-web-skills",
+    "repoBranch": "main"
+  },
+  "ogxo-io/plugins": {
+    "name": "ogxo-io/plugins",
+    "description": "Claude Code plugin marketplace from ogxo: cost-aware agent routing with a live board, multi-agent code review, git and PR workflows, browser debugging, guard hooks, a status line, and ThryX. The same plugins install i...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ogxo-io",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "kodaas/agent-bridge": {
+    "name": "kodaas/agent-bridge",
+    "description": "Claude Code + Codex plugin: lets agent sessions on the same project see each other and exchange signed, end-to-end encrypted messages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kodaas",
+    "repoName": "agent-bridge",
+    "repoBranch": "main"
+  },
+  "HermeticOrmus/LibreGEO-Claude-Code": {
+    "name": "HermeticOrmus/LibreGEO-Claude-Code",
+    "description": "GEO-first SEO for Claude Code \u2014 optimize websites for AI search engines (ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews). 12 specialized skills for citability scoring, llms.txt, schema markup, technical SEO,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HermeticOrmus",
+    "repoName": "LibreGEO-Claude-Code",
+    "repoBranch": "main"
   }
 }
