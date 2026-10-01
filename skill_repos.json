@@ -42339,5 +42339,93 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "spences10/claude-code-toolkit": {
+        "owner": "spences10",
+        "name": "claude-code-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Dodera-Software/claude-plugins": {
+        "owner": "Dodera-Software",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "seandavi/scriptorium": {
+        "owner": "seandavi",
+        "name": "scriptorium",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SKalinin909/tradingcalc-mcp": {
+        "owner": "SKalinin909",
+        "name": "tradingcalc-mcp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sananthanarayan/skilldrop": {
+        "owner": "sananthanarayan",
+        "name": "skilldrop",
+        "branch": "main",
+        "enabled": true
+    },
+    "noru-tech/noru-grc-engineering": {
+        "owner": "noru-tech",
+        "name": "noru-grc-engineering",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lunamos/paper-video": {
+        "owner": "Lunamos",
+        "name": "paper-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Joe-Simo/a0": {
+        "owner": "Joe-Simo",
+        "name": "a0",
+        "branch": "main",
+        "enabled": true
+    },
+    "l4ci/hv-skills": {
+        "owner": "l4ci",
+        "name": "hv-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "bitranox/btx-skill-jev-judge": {
+        "owner": "bitranox",
+        "name": "btx-skill-jev-judge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KenseiTheOne/kensei-claude-plugins": {
+        "owner": "KenseiTheOne",
+        "name": "kensei-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "StefanGreve/claude-plugins": {
+        "owner": "StefanGreve",
+        "name": "claude-plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "JonasDoebertin/skills": {
+        "owner": "JonasDoebertin",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hasegos/keelkit": {
+        "owner": "Hasegos",
+        "name": "keelkit",
+        "branch": "master",
+        "enabled": true
     }
 }

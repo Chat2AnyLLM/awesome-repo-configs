@@ -5693,5 +5693,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sananthanarayan/skilldrop": {
+    "owner": "sananthanarayan",
+    "name": "skilldrop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

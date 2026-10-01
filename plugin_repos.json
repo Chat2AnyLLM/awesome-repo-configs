@@ -33715,5 +33715,140 @@
     "repoOwner": "better-designs",
     "repoName": "better-design-plugin",
     "repoBranch": "main"
+  },
+  "spences10/claude-code-toolkit": {
+    "name": "spences10/claude-code-toolkit",
+    "description": "\ud83e\udd80 Claude Code toolkit for self improving skills, performance and mcp-essentials",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "spences10",
+    "repoName": "claude-code-toolkit",
+    "repoBranch": "main"
+  },
+  "Dodera-Software/claude-plugins": {
+    "name": "Dodera-Software/claude-plugins",
+    "description": "Claude Code plugins by Dodera Software: Video Kit makes product videos from your code, a website or just an idea; PR Podcast turns pull requests into two-voice audio episodes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dodera-Software",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "seandavi/scriptorium": {
+    "name": "seandavi/scriptorium",
+    "description": "An agentic scriptorium for scholarly writing \u2014 coordinated AI capabilities for manuscripts, grants, and reviews.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seandavi",
+    "repoName": "scriptorium",
+    "repoBranch": "main"
+  },
+  "carrick-tools/carrick": {
+    "name": "carrick-tools/carrick",
+    "description": "Carrick maps your entire TypeScript codebase across services and repositories, giving AI agents full context on existing types, routes, and function behaviours over MCP before they write duplicate or breaking code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "carrick-tools",
+    "repoName": "carrick",
+    "repoBranch": "main"
+  },
+  "sananthanarayan/skilldrop": {
+    "name": "sananthanarayan/skilldrop",
+    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbacks, threat models, decks, SQL reviews, DPIAs, Terraform plan reviews - in role packs with loops and review gates. Agent Skills standard; o...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sananthanarayan",
+    "repoName": "skilldrop",
+    "repoBranch": "main"
+  },
+  "Cadasto/plugin-marketplace": {
+    "name": "Cadasto/plugin-marketplace",
+    "description": "Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Cadasto",
+    "repoName": "plugin-marketplace",
+    "repoBranch": "main"
+  },
+  "noru-tech/noru-grc-engineering": {
+    "name": "noru-tech/noru-grc-engineering",
+    "description": "Last-mile GRC engineering plugins for Claude Code and Codex: AI inventory, privacy data maps, infrastructure checks and change control, recorded in Noru.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "noru-tech",
+    "repoName": "noru-grc-engineering",
+    "repoBranch": "main"
+  },
+  "Joe-Simo/a0": {
+    "name": "Joe-Simo/a0",
+    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm, JVM, .NET, Metal, and SystemVerilog.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Joe-Simo",
+    "repoName": "a0",
+    "repoBranch": "main"
+  },
+  "l4ci/hv-skills": {
+    "name": "l4ci/hv-skills",
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "l4ci",
+    "repoName": "hv-skills",
+    "repoBranch": "main"
+  },
+  "bitranox/btx-skill-jev-judge": {
+    "name": "bitranox/btx-skill-jev-judge",
+    "description": "Claude Code plugin and Python CLI: hand a judgment repeated over many items to TypeSafe's Jev, with redaction, rate limiting, a pilot and a flat-question check.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitranox",
+    "repoName": "btx-skill-jev-judge",
+    "repoBranch": "main"
+  },
+  "aycandv/claude-usage-meter": {
+    "name": "aycandv/claude-usage-meter",
+    "description": "A usage board for Claude Code: a weekly pace gauge and an LED crawl of today's spend per model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aycandv",
+    "repoName": "claude-usage-meter",
+    "repoBranch": "main"
+  },
+  "KenseiTheOne/kensei-claude-plugins": {
+    "name": "KenseiTheOne/kensei-claude-plugins",
+    "description": "Claude Code plugin marketplace \u2014 a multi-line statusline and a skill toolkit: tracker task runner, diff tour, Unity code review, brainstorm.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KenseiTheOne",
+    "repoName": "kensei-claude-plugins",
+    "repoBranch": "main"
+  },
+  "StefanGreve/claude-plugins": {
+    "name": "StefanGreve/claude-plugins",
+    "description": "My Claude Code plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "StefanGreve",
+    "repoName": "claude-plugins",
+    "repoBranch": "master"
+  },
+  "JonasDoebertin/skills": {
+    "name": "JonasDoebertin/skills",
+    "description": "Claude Code skills by Jonas D\u00f6bertin, installable as one plugin. Includes human-writing, which cuts text to length and removes AI writing patterns.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JonasDoebertin",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Hasegos/keelkit": {
+    "name": "Hasegos/keelkit",
+    "description": "Claude Code \ud50c\ub7ec\uadf8\uc778. /keelkit:init \ud55c \uc904\ub85c CLAUDE.md, .claude/, docs/ \ubf08\ub300\ub97c \uc124\uce58\ud558\uace0 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ub9de\uac8c \ucc44\uc6b4\ub2e4. \uae30\uc874 \ud30c\uc77c\uc740 \uc9c0\uc6b0\uc9c0 \uc54a\uace0 \ud569\uce5c\ub2e4.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hasegos",
+    "repoName": "keelkit",
+    "repoBranch": "master"
   }
 }
