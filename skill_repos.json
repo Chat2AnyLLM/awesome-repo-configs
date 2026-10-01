@@ -42194,5 +42194,143 @@
         "name": "narens-claude-skills",
         "branch": "main",
         "enabled": true
+    },
+    "justxor/claude-code-pro-course": {
+        "owner": "justxor",
+        "name": "claude-code-pro-course",
+        "branch": "main",
+        "enabled": true
+    },
+    "dotoricode/korean-humanizer": {
+        "owner": "dotoricode",
+        "name": "korean-humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "osrim/niksi": {
+        "owner": "osrim",
+        "name": "niksi",
+        "branch": "main",
+        "enabled": true
+    },
+    "Yarosl4v-Grigoriev/claude-study-kit": {
+        "owner": "Yarosl4v-Grigoriev",
+        "name": "claude-study-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Qualflare/qualflare-claude-code": {
+        "owner": "Qualflare",
+        "name": "qualflare-claude-code",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mimmo-the-root/UEFN-dream-bot-team": {
+        "owner": "mimmo-the-root",
+        "name": "UEFN-dream-bot-team",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tyr9102/project-map": {
+        "owner": "Tyr9102",
+        "name": "project-map",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emilwagman/amber-notes": {
+        "owner": "emilwagman",
+        "name": "amber-notes",
+        "branch": "main",
+        "enabled": true
+    },
+    "wxmb01/Claude-Detection": {
+        "owner": "wxmb01",
+        "name": "Claude-Detection",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FlyAIBox/design-diagrams": {
+        "owner": "FlyAIBox",
+        "name": "design-diagrams",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "creatorcrawl/creatorcrawl-skill": {
+        "owner": "creatorcrawl",
+        "name": "creatorcrawl-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Digital-Darts/profit-leak-scan": {
+        "owner": "Digital-Darts",
+        "name": "profit-leak-scan",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bridgemekong/shopee-skill": {
+        "owner": "bridgemekong",
+        "name": "shopee-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "koenvdheide/codex-skill": {
+        "owner": "koenvdheide",
+        "name": "codex-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "baberarjumand/agentic_markdown_memory_agent-skill": {
+        "owner": "baberarjumand",
+        "name": "agentic_markdown_memory_agent-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "swarmhq-skills/agent-skills": {
+        "owner": "swarmhq-skills",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "warrendeanlangeveldt/code-kit": {
+        "owner": "warrendeanlangeveldt",
+        "name": "code-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shmulikdav/adlc-skills": {
+        "owner": "shmulikdav",
+        "name": "adlc-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "JamesJ2993/construction-pm": {
+        "owner": "JamesJ2993",
+        "name": "construction-pm",
+        "branch": "main",
+        "enabled": true
+    },
+    "mikamika06/idea-evaluator": {
+        "owner": "mikamika06",
+        "name": "idea-evaluator",
+        "branch": "main",
+        "enabled": true
+    },
+    "1AyaNabil1/emsk-pr": {
+        "owner": "1AyaNabil1",
+        "name": "emsk-pr",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

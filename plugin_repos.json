@@ -33616,5 +33616,95 @@
     "repoOwner": "NarenDawar",
     "repoName": "narens-claude-skills",
     "repoBranch": "main"
+  },
+  "justxor/claude-code-pro-course": {
+    "name": "justxor/claude-code-pro-course",
+    "description": "Claude Code PRO \u2014 \u043f\u043e\u043b\u043d\u044b\u0439 \u043a\u0443\u0440\u0441 \u0438 \u0433\u0430\u0439\u0434 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c: CLAUDE.md, settings, skills, subagents, hooks, MCP, \u043f\u043b\u0430\u0433\u0438\u043d\u044b, CI. 8 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0445, \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u043f\u0440\u043e\u043c\u043f\u0442\u043e\u0432 \u0438 \u0433\u043e\u0442\u043e\u0432\u044b\u0439 starter-kit. \u0417\u0434\u0435\u0441\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u043a\u0443\u0440\u0441\u044b  \u043f\u043e chatgpt -",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justxor",
+    "repoName": "claude-code-pro-course",
+    "repoBranch": "main"
+  },
+  "Qualflare/qualflare-claude-code": {
+    "name": "Qualflare/qualflare-claude-code",
+    "description": "Qualflare Claude Code Plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Qualflare",
+    "repoName": "qualflare-claude-code",
+    "repoBranch": "main"
+  },
+  "Tyr9102/project-map": {
+    "name": "Tyr9102/project-map",
+    "description": "See your whole project at a glance - without reading code. Leave notes on the map, click Send, and Claude Code replies. A plugin for Claude Code, runs locally.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tyr9102",
+    "repoName": "project-map",
+    "repoBranch": "main"
+  },
+  "emilwagman/amber-notes": {
+    "name": "emilwagman/amber-notes",
+    "description": "Amber Notes: the free, open-source notes app for iPhone and Mac that ChatGPT and Claude can use (MCP).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emilwagman",
+    "repoName": "amber-notes",
+    "repoBranch": "main"
+  },
+  "warrendeanlangeveldt/code-kit": {
+    "name": "warrendeanlangeveldt/code-kit",
+    "description": "Claude Code plugin: per-project lanes, layer rules, protected paths and proof-before-finish, enforced by hooks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "warrendeanlangeveldt",
+    "repoName": "code-kit",
+    "repoBranch": "main"
+  },
+  "shmulikdav/adlc-skills": {
+    "name": "shmulikdav/adlc-skills",
+    "description": "The operating model for agentic development: 40 Claude Code skills for ADLC readiness, agent-ready specs, governance, and operations. With evals.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shmulikdav",
+    "repoName": "adlc-skills",
+    "repoBranch": "main"
+  },
+  "JamesJ2993/construction-pm": {
+    "name": "JamesJ2993/construction-pm",
+    "description": "Claude Code plugin: a project manager agent for construction and fit-out projects. Tracks drawing issues, clarifications registers, documentation health, programme and cost; runs a local dashboard and takes each stage...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JamesJ2993",
+    "repoName": "construction-pm",
+    "repoBranch": "main"
+  },
+  "mikamika06/idea-evaluator": {
+    "name": "mikamika06/idea-evaluator",
+    "description": "Open-source startup idea validator for Claude Code. Tells you if your idea is DEAD, ALIVE or INSUFFICIENT_DATA: research agents with verified quotes, a kill-cause scout for dead competitors and free substitutes, an in...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mikamika06",
+    "repoName": "idea-evaluator",
+    "repoBranch": "main"
+  },
+  "thomas-schenkelberg/marketplace": {
+    "name": "thomas-schenkelberg/marketplace",
+    "description": "Claude Code plugin marketplace by Thomas Schenkelberg \u2014 fractional CFO tooling and session housekeeping.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thomas-schenkelberg",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "1AyaNabil1/emsk-pr": {
+    "name": "1AyaNabil1/emsk-pr",
+    "description": "Claude Code plugin: know what your teammates changed before you edit, open and just-merged PR digest, plus a warning before editing a file another PR touches.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "1AyaNabil1",
+    "repoName": "emsk-pr",
+    "repoBranch": "main"
   }
 }
