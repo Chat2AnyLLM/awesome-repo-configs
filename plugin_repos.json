@@ -33706,5 +33706,14 @@
     "repoOwner": "1AyaNabil1",
     "repoName": "emsk-pr",
     "repoBranch": "main"
+  },
+  "better-designs/better-design-plugin": {
+    "name": "better-design",
+    "description": "A design harness for AI coding agents: design systems, UI and UX principles, icons and UI review from the Better Design MCP server, with two skills for building and reviewing interfaces.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "better-designs",
+    "repoName": "better-design-plugin",
+    "repoBranch": "main"
   }
 }
