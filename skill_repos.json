@@ -42088,5 +42088,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "kensaurus/skills": {
+        "owner": "kensaurus",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "virajrungta/pcb-claude-plugin": {
+        "owner": "virajrungta",
+        "name": "pcb-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ysys143/xsm": {
+        "owner": "ysys143",
+        "name": "xsm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "farming-labs/product-film-skill": {
+        "owner": "farming-labs",
+        "name": "product-film-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "phreakocious/symbion": {
+        "owner": "phreakocious",
+        "name": "symbion",
+        "branch": "main",
+        "enabled": true
+    },
+    "SkYn3t-Lab/skinflint": {
+        "owner": "SkYn3t-Lab",
+        "name": "skinflint",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zaoxu001/tianzhi-skill": {
+        "owner": "zaoxu001",
+        "name": "tianzhi-skill",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "churin1116/html-chameleon": {
+        "owner": "churin1116",
+        "name": "html-chameleon",
+        "branch": "main",
+        "enabled": true
+    },
+    "fdtaljaard/claude-skills": {
+        "owner": "fdtaljaard",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HermeticOrmus/LibreFinTech-Claude-Code": {
+        "owner": "HermeticOrmus",
+        "name": "LibreFinTech-Claude-Code",
+        "branch": "main",
+        "enabled": true
+    },
+    "ellavox-ai/elladex-claude-plugins": {
+        "owner": "ellavox-ai",
+        "name": "elladex-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "tomtom87/Portage": {
+        "owner": "tomtom87",
+        "name": "Portage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LeadMagic/leadmagic-claude-plugin": {
+        "owner": "LeadMagic",
+        "name": "leadmagic-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sryo/figma-cdp": {
+        "owner": "sryo",
+        "name": "figma-cdp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Brads777/stratos-external-analysis": {
+        "owner": "Brads777",
+        "name": "stratos-external-analysis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NarenDawar/narens-claude-skills": {
+        "owner": "NarenDawar",
+        "name": "narens-claude-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

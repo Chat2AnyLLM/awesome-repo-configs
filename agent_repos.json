@@ -5672,5 +5672,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kensaurus/skills": {
+    "owner": "kensaurus",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "virajrungta/pcb-claude-plugin": {
+    "owner": "virajrungta",
+    "name": "pcb-claude-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "LeadMagic/leadmagic-claude-plugin": {
+    "owner": "LeadMagic",
+    "name": "leadmagic-claude-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

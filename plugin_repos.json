@@ -33517,5 +33517,104 @@
     "repoOwner": "HermeticOrmus",
     "repoName": "LibreGEO-Claude-Code",
     "repoBranch": "main"
+  },
+  "kensaurus/skills": {
+    "name": "kensaurus/skills",
+    "description": "You say the job; the playbook runs. 158 agent skills + 63 slash commands for Claude Code, Cursor, Codex, and Gemini CLI. Tuned for React / Next.js / Supabase.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kensaurus",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "virajrungta/pcb-claude-plugin": {
+    "name": "virajrungta/pcb-claude-plugin",
+    "description": "Claude Code plugin: from a circuit idea to a manufacturable KiCad PCB",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "virajrungta",
+    "repoName": "pcb-claude-plugin",
+    "repoBranch": "main"
+  },
+  "ysys143/xsm": {
+    "name": "ysys143/xsm",
+    "description": "xsm (Cross-Session Messaging): let running Claude Code and Codex sessions find each other and exchange messages",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ysys143",
+    "repoName": "xsm",
+    "repoBranch": "main"
+  },
+  "farming-labs/product-film-skill": {
+    "name": "farming-labs/product-film-skill",
+    "description": "Claude skill for making product launch videos as one HTML file, exported to MP4",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "farming-labs",
+    "repoName": "product-film-skill",
+    "repoBranch": "main"
+  },
+  "SkYn3t-Lab/skinflint": {
+    "name": "SkYn3t-Lab/skinflint",
+    "description": "skinflint: shorter answers, leaner code and trimmed tool output for Claude Code. Zero dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SkYn3t-Lab",
+    "repoName": "skinflint",
+    "repoBranch": "main"
+  },
+  "fdtaljaard/claude-skills": {
+    "name": "fdtaljaard/claude-skills",
+    "description": "Agent Skills for Claude - incl. a Sage 300 (Accpac) assistant: verified T-SQL, upgrades & release notes, .NET (ACCPAC.Advantage)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fdtaljaard",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "HermeticOrmus/LibreFinTech-Claude-Code": {
+    "name": "HermeticOrmus/LibreFinTech-Claude-Code",
+    "description": "20 Claude Code plugins for financial technology development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HermeticOrmus",
+    "repoName": "LibreFinTech-Claude-Code",
+    "repoBranch": "main"
+  },
+  "ellavox-ai/elladex-claude-plugins": {
+    "name": "ellavox-ai/elladex-claude-plugins",
+    "description": "Claude plugins by Ellaworks: find agents on Elladex and let Claude Code talk to other companies' agents. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ellavox-ai",
+    "repoName": "elladex-claude-plugins",
+    "repoBranch": "main"
+  },
+  "tomtom87/Portage": {
+    "name": "tomtom87/Portage",
+    "description": "Let your agent go to the store (chill, you approve every payment \ud83d\ude03). CLI, Claude Code plugin and Ruby gems for MCP/UCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomtom87",
+    "repoName": "Portage",
+    "repoBranch": "main"
+  },
+  "LeadMagic/leadmagic-claude-plugin": {
+    "name": "LeadMagic/leadmagic-claude-plugin",
+    "description": "LeadMagic Claude Code plugin for B2B research, contact enrichment, company search, and credit-aware workflows through hosted MCP with OAuth.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LeadMagic",
+    "repoName": "leadmagic-claude-plugin",
+    "repoBranch": "main"
+  },
+  "NarenDawar/narens-claude-skills": {
+    "name": "NarenDawar/narens-claude-skills",
+    "description": "Naren's Claude skills: unique, installable Agent Skills & Claude Code plugins for developers. One-command install via plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NarenDawar",
+    "repoName": "narens-claude-skills",
+    "repoBranch": "main"
   }
 }
