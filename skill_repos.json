@@ -42332,5 +42332,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "better-designs/better-design-plugin": {
+        "owner": "better-designs",
+        "name": "better-design-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

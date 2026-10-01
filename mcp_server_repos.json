@@ -160,5 +160,14 @@
     "enabled": true,
     "serverName": "threadfox-lite",
     "note": "Read-only Reddit research over stdio (uvx threadfox-lite): subreddit rules, communities for a topic, account standing, post status, through the user's own signed-in Chrome. MIT."
+  },
+  "marvkr/better-design": {
+    "owner": "marvkr",
+    "name": "better-design",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.marvkr/better-design",
+    "subPath": "packages/mcp",
+    "note": "Design systems, UI and UX principles, icons and UI review for AI coding agents. Hosted MCP: https://better-design.com/api/mcp (Streamable HTTP, OAuth 2.1 or a Better Design API key). Local stdio package: npm better-design; requires BETTER_DESIGN_API_KEY. Free account; custom design systems use credits."
   }
 }
