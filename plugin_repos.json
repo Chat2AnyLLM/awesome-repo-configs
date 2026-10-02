@@ -28658,6 +28658,15 @@
     "repoName": "flacli",
     "repoBranch": "main"
   },
+  "h-3303/phone-sms": {
+    "name": "phone-sms",
+    "description": "Claude Code plugin and marketplace for an MCP server that reads and sends SMS through your own Android phone and number over KDE Connect on the local network (Linux, no cloud relay): list_threads, read_thread, find_contact and send_sms, which sends only after you approve recipient and text.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "h-3303",
+    "repoName": "phone-sms",
+    "repoBranch": "main"
+  },
   "hermes-labs-ai/hermes-blind": {
     "name": "hermes-labs-ai/hermes-blind",
     "description": "Recovers the original goal of a long Claude Code or Codex session from its first user turn, so you can restate it before continuing \u2014 plus a prompt wrapper that adds evidence and hedging constraints to evaluation prom...",
