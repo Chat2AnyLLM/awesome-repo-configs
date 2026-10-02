@@ -42633,5 +42633,113 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "gtapps/hermitd": {
+        "owner": "gtapps",
+        "name": "hermitd",
+        "branch": "main",
+        "enabled": true
+    },
+    "MykytaStel/repopilot": {
+        "owner": "MykytaStel",
+        "name": "repopilot",
+        "branch": "main",
+        "enabled": true
+    },
+    "willy92wins/DayZ-Modding-Knowledge-Pack": {
+        "owner": "willy92wins",
+        "name": "DayZ-Modding-Knowledge-Pack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "furkantokkan/agent-foundry": {
+        "owner": "furkantokkan",
+        "name": "agent-foundry",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShiftinBits/constellation-claude": {
+        "owner": "ShiftinBits",
+        "name": "constellation-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "talas9/anti-hall": {
+        "owner": "talas9",
+        "name": "anti-hall",
+        "branch": "main",
+        "enabled": true
+    },
+    "sectapunterx/cpp-mentor": {
+        "owner": "sectapunterx",
+        "name": "cpp-mentor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qbeka/applywithjev": {
+        "owner": "qbeka",
+        "name": "applywithjev",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "docsor1212/academic-figures": {
+        "owner": "docsor1212",
+        "name": "academic-figures",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SergVina/Handoff-pack-skill": {
+        "owner": "SergVina",
+        "name": "Handoff-pack-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blueaisecurity/claude-skills": {
+        "owner": "blueaisecurity",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "robertoDon/bag-of-holding": {
+        "owner": "robertoDon",
+        "name": "bag-of-holding",
+        "branch": "main",
+        "enabled": true
+    },
+    "whatsnew-fyi/skills": {
+        "owner": "whatsnew-fyi",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Fuminides/literature-wiki-skill": {
+        "owner": "Fuminides",
+        "name": "literature-wiki-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "ph3on1x/agent-plugins-skills": {
+        "owner": "ph3on1x",
+        "name": "agent-plugins-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ratava/videoexpress-scripting-skill": {
+        "owner": "ratava",
+        "name": "videoexpress-scripting-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "pcingola/wowbagger": {
+        "owner": "pcingola",
+        "name": "wowbagger",
+        "branch": "main",
+        "enabled": true
     }
 }

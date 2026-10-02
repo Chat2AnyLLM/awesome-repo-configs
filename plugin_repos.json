@@ -34102,5 +34102,122 @@
     "repoOwner": "sbuerk",
     "repoName": "claude-fly-the-upgrade",
     "repoBranch": "main"
+  },
+  "gtapps/hermitd": {
+    "name": "gtapps/hermitd",
+    "description": "Turn Claude Code into a 24/7 Agent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gtapps",
+    "repoName": "hermitd",
+    "repoBranch": "main"
+  },
+  "MykytaStel/repopilot": {
+    "name": "MykytaStel/repopilot",
+    "description": "Local, deterministic review of Git changes: weakened tests and CI gates, security boundaries, blast radius. CLI, GitHub Action, MCP server, and coding-agent plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MykytaStel",
+    "repoName": "repopilot",
+    "repoBranch": "main"
+  },
+  "furkantokkan/agent-foundry": {
+    "name": "furkantokkan/agent-foundry",
+    "description": "100+ reusable skills for Codex and Claude Code. Build Unity games with workflows for planning, coding, testing, UI polish, Blender assets, and AI 3D.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "furkantokkan",
+    "repoName": "agent-foundry",
+    "repoBranch": "main"
+  },
+  "ShiftinBits/constellation-claude": {
+    "name": "ShiftinBits/constellation-claude",
+    "description": "Codebase Understanding for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShiftinBits",
+    "repoName": "constellation-claude",
+    "repoBranch": "main"
+  },
+  "arasovic/claude-code-mods": {
+    "name": "arasovic/claude-code-mods",
+    "description": "Mods for Claude Code: function-hook plugins that add live panes and behaviour to the terminal UI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arasovic",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "talas9/anti-hall": {
+    "name": "talas9/anti-hall",
+    "description": "Anti-hallucination guardrails for Claude Code and Codex: verify-first hooks that block unverified claims, risky git/shell commands, and scope drift.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "talas9",
+    "repoName": "anti-hall",
+    "repoBranch": "main"
+  },
+  "sectapunterx/cpp-mentor": {
+    "name": "sectapunterx/cpp-mentor",
+    "description": "A general, self-adapting C++ mentor for any project \u2014 Claude Code plugin/skill. Onboarding audit, LEAD/WRITE modes, C++20, Google style, CMake.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sectapunterx",
+    "repoName": "cpp-mentor",
+    "repoBranch": "main"
+  },
+  "SergVina/Handoff-pack-skill": {
+    "name": "SergVina/Handoff-pack-skill",
+    "description": "Agent Skill that interviews you until every detail is settled, then writes a validated Markdown handoff pack so Claude Code, GitHub Copilot or Cursor can build your idea without losing context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SergVina",
+    "repoName": "Handoff-pack-skill",
+    "repoBranch": "main"
+  },
+  "robertoDon/bag-of-holding": {
+    "name": "robertoDon/bag-of-holding",
+    "description": "Claude Code plugins: agent-costs (tokens and dollars per agent), md-tighten",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robertoDon",
+    "repoName": "bag-of-holding",
+    "repoBranch": "main"
+  },
+  "whatsnew-fyi/skills": {
+    "name": "whatsnew-fyi/skills",
+    "description": "Agent skills that read the release notes before you upgrade: review dependency bumps against breaking-change notes, and audit what an outdated project is missing. Claude Code plugin + MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "whatsnew-fyi",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Zaho92/claude-arcade": {
+    "name": "Zaho92/claude-arcade",
+    "description": "Retro games in a Claude Code pane that run while Claude works and freeze the moment it needs you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zaho92",
+    "repoName": "claude-arcade",
+    "repoBranch": "main"
+  },
+  "ph3on1x/agent-plugins-skills": {
+    "name": "ph3on1x/agent-plugins-skills",
+    "description": "Agent skills and plugins for AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity. One plugin marketplace + npx skills catalog.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ph3on1x",
+    "repoName": "agent-plugins-skills",
+    "repoBranch": "main"
+  },
+  "pcingola/wowbagger": {
+    "name": "pcingola/wowbagger",
+    "description": "Useless skills for insulting the universe, one petty annoyance at a time. A Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pcingola",
+    "repoName": "wowbagger",
+    "repoBranch": "main"
   }
 }
