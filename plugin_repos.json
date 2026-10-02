@@ -33850,5 +33850,14 @@
     "repoOwner": "Hasegos",
     "repoName": "keelkit",
     "repoBranch": "master"
+  },
+  "NovaCode37/claude-security-skills": {
+    "name": "claude-security-skills",
+    "description": "Eight security skills with no dependencies: secret scanning, Python SAST, dependency CVEs, and Dockerfile, JWT, CORS and prompt-injection checks. Also runs in CI as a GitHub Action with SARIF output.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NovaCode37",
+    "repoName": "claude-security-skills",
+    "repoBranch": "main"
   }
 }

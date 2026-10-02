@@ -42427,5 +42427,12 @@
         "name": "keelkit",
         "branch": "master",
         "enabled": true
+    },
+    "NovaCode37/claude-security-skills": {
+        "owner": "NovaCode37",
+        "name": "claude-security-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
