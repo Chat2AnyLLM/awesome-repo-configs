@@ -42434,5 +42434,107 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "karanb192/claude-code-mods": {
+        "owner": "karanb192",
+        "name": "claude-code-mods",
+        "branch": "main",
+        "enabled": true
+    },
+    "victorrentea/human-review": {
+        "owner": "victorrentea",
+        "name": "human-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2021291696/high-confidence-mingli-skill": {
+        "owner": "2021291696",
+        "name": "high-confidence-mingli-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "VoxTechnologies/transmute-framework": {
+        "owner": "VoxTechnologies",
+        "name": "transmute-framework",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hyemin-ht-kang/better-korean": {
+        "owner": "hyemin-ht-kang",
+        "name": "better-korean",
+        "branch": "main",
+        "enabled": true
+    },
+    "Arin117Kaushik/substack-skills": {
+        "owner": "Arin117Kaushik",
+        "name": "substack-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "frankxai/awesome-motion-design-agent-skills": {
+        "owner": "frankxai",
+        "name": "awesome-motion-design-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joey114132/fable-workflow-skill": {
+        "owner": "joey114132",
+        "name": "fable-workflow-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jonjoncheese/claude-image-gen": {
+        "owner": "jonjoncheese",
+        "name": "claude-image-gen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cyberinecore/cc-dev-guard": {
+        "owner": "cyberinecore",
+        "name": "cc-dev-guard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Arthur031221/cliffhanger": {
+        "owner": "Arthur031221",
+        "name": "cliffhanger",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HaiNNT/c-hottag": {
+        "owner": "HaiNNT",
+        "name": "c-hottag",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lunamos/paper2video": {
+        "owner": "Lunamos",
+        "name": "paper2video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KarpelesPublishing/math-ai-agents": {
+        "owner": "KarpelesPublishing",
+        "name": "math-ai-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Bruninhuco69/power-platform-skills": {
+        "owner": "Bruninhuco69",
+        "name": "power-platform-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

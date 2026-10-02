@@ -33859,5 +33859,122 @@
     "repoOwner": "NovaCode37",
     "repoName": "claude-security-skills",
     "repoBranch": "main"
+  },
+  "karanb192/claude-code-mods": {
+    "name": "karanb192/claude-code-mods",
+    "description": "Claude Mods and the tools to build them: a builder skill, then mods",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karanb192",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "victorrentea/human-review": {
+    "name": "victorrentea/human-review",
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, Code City, a feature video, complexity delta, and deep-linked snippets.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "victorrentea",
+    "repoName": "human-review",
+    "repoBranch": "main"
+  },
+  "VoxTechnologies/transmute-framework": {
+    "name": "VoxTechnologies/transmute-framework",
+    "description": "A Claude Code plugin that transforms business plans into production-ready products through Plan Casting \u2014 a 25-stage AI agent pipeline. Try the Transmuter app at transmuter.3mergen.com",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VoxTechnologies",
+    "repoName": "transmute-framework",
+    "repoBranch": "main"
+  },
+  "hyemin-ht-kang/better-korean": {
+    "name": "hyemin-ht-kang/better-korean",
+    "description": "Make AI-written Korean actually Korean.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hyemin-ht-kang",
+    "repoName": "better-korean",
+    "repoBranch": "main"
+  },
+  "Arin117Kaushik/substack-skills": {
+    "name": "Arin117Kaushik/substack-skills",
+    "description": "11 Claude Code skills for Substack: Notes, posts with SEO packaging, humanizer, interviewer, segment campaigns, analytics, planning, and an approval-gated publisher.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Arin117Kaushik",
+    "repoName": "substack-skills",
+    "repoBranch": "main"
+  },
+  "frankxai/awesome-motion-design-agent-skills": {
+    "name": "frankxai/awesome-motion-design-agent-skills",
+    "description": "Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and motion QA. Installable in Claude Code, Codex, Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "frankxai",
+    "repoName": "awesome-motion-design-agent-skills",
+    "repoBranch": "main"
+  },
+  "Ahmad8864/cc-side": {
+    "name": "Ahmad8864/cc-side",
+    "description": "Temporary side chats for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ahmad8864",
+    "repoName": "cc-side",
+    "repoBranch": "main"
+  },
+  "joey114132/fable-workflow-skill": {
+    "name": "joey114132/fable-workflow-skill",
+    "description": "Fable Workflow \u2014 a portable Claude Code / Cursor agent skill that makes any model (Opus, Sonnet, Haiku, Fable) find the unknowns before building, not after.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joey114132",
+    "repoName": "fable-workflow-skill",
+    "repoBranch": "main"
+  },
+  "jonjoncheese/claude-image-gen": {
+    "name": "jonjoncheese/claude-image-gen",
+    "description": "Free AI images and videos in Claude Code, from your own Google Flow account. Nano Banana, Veo and Omni Flash. Headless, one file, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jonjoncheese",
+    "repoName": "claude-image-gen",
+    "repoBranch": "main"
+  },
+  "cyberinecore/cc-dev-guard": {
+    "name": "cyberinecore/cc-dev-guard",
+    "description": "Claude Code plugin that asks before Write, Edit or NotebookEdit touch another git repository the session was not given.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cyberinecore",
+    "repoName": "cc-dev-guard",
+    "repoBranch": "main"
+  },
+  "Arthur031221/cliffhanger": {
+    "name": "Arthur031221/cliffhanger",
+    "description": "Stop hook and skill that keeps Claude Code from ending the turn with work still owed, and counts every early stop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Arthur031221",
+    "repoName": "cliffhanger",
+    "repoBranch": "main"
+  },
+  "HaiNNT/c-hottag": {
+    "name": "HaiNNT/c-hottag",
+    "description": "Keep several of your own Claude accounts logged in and switch the one Claude Code uses, per request, without logging out. Unofficial: not affiliated with Anthropic.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HaiNNT",
+    "repoName": "c-hottag",
+    "repoBranch": "main"
+  },
+  "Bruninhuco69/power-platform-skills": {
+    "name": "Bruninhuco69/power-platform-skills",
+    "description": "Plugin do Claude Code: da ideia em uma linha ao app Power Apps Canvas + Power Automate publicado, um comando /pp:* guiado por etapa. SQL Server ou Dataverse, subagentes especialistas, componentes prontos para colar e...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Bruninhuco69",
+    "repoName": "power-platform-skills",
+    "repoBranch": "main"
   }
 }

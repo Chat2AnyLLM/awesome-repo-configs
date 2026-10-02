@@ -5700,5 +5700,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "VoxTechnologies/transmute-framework": {
+    "owner": "VoxTechnologies",
+    "name": "transmute-framework",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Bruninhuco69/power-platform-skills": {
+    "owner": "Bruninhuco69",
+    "name": "power-platform-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
