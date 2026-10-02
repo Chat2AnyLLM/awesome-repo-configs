@@ -1,4 +1,11 @@
 {
+    "rebelytics/one-skill-to-rule-them-all": {
+        "owner": "rebelytics",
+        "name": "one-skill-to-rule-them-all",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
     "Continuum-AI-Corp/OrcaReplay": {
         "owner": "Continuum-AI-Corp",
         "name": "OrcaReplay",
