@@ -42543,5 +42543,95 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "voygr-tech/placecall": {
+        "owner": "voygr-tech",
+        "name": "placecall",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "amber-notes/amber-notes": {
+        "owner": "amber-notes",
+        "name": "amber-notes",
+        "branch": "main",
+        "enabled": true
+    },
+    "gjoranv/claude-plan-skills": {
+        "owner": "gjoranv",
+        "name": "claude-plan-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "5hyuns/ad-copy-agency-skill": {
+        "owner": "5hyuns",
+        "name": "ad-copy-agency-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "stijnvanhulle/agents": {
+        "owner": "stijnvanhulle",
+        "name": "agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "rennerdo30/agent-bridge": {
+        "owner": "rennerdo30",
+        "name": "agent-bridge",
+        "branch": "main",
+        "enabled": true
+    },
+    "23ag1/ink-wash-painting-skill": {
+        "owner": "23ag1",
+        "name": "ink-wash-painting-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "janosszaboaipm-design/goethecoach-claude-skill": {
+        "owner": "janosszaboaipm-design",
+        "name": "goethecoach-claude-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "bosmdavid-gif/dropthehassle-skill": {
+        "owner": "bosmdavid-gif",
+        "name": "dropthehassle-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "r-y-ren/fn-ladder": {
+        "owner": "r-y-ren",
+        "name": "fn-ladder",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bunderlog/claude-plugins": {
+        "owner": "bunderlog",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "meoghetanca/aris": {
+        "owner": "meoghetanca",
+        "name": "aris",
+        "branch": "main",
+        "enabled": true
+    },
+    "attorneynate/legal-skills": {
+        "owner": "attorneynate",
+        "name": "legal-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sbuerk/claude-fly-the-upgrade": {
+        "owner": "sbuerk",
+        "name": "claude-fly-the-upgrade",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

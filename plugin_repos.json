@@ -33976,5 +33976,122 @@
     "repoOwner": "Bruninhuco69",
     "repoName": "power-platform-skills",
     "repoBranch": "main"
+  },
+  "voygr-tech/placecall": {
+    "name": "voygr-tech/placecall",
+    "description": "The phone is your last API. Give your agent a voice to call any US business - reservations, inquiries, quotes. Verified outcome + transcript. First 250 calls free.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "voygr-tech",
+    "repoName": "placecall",
+    "repoBranch": "main"
+  },
+  "amber-notes/amber-notes": {
+    "name": "amber-notes/amber-notes",
+    "description": "Amber Notes: the free, open-source notes app for iPhone and Mac that ChatGPT and Claude can use (MCP).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amber-notes",
+    "repoName": "amber-notes",
+    "repoBranch": "main"
+  },
+  "stijnvanhulle/agents": {
+    "name": "stijnvanhulle/agents",
+    "description": "Shared skills, rules, commands, subagents, and output styles for Claude Code, Cursor, and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stijnvanhulle",
+    "repoName": "agents",
+    "repoBranch": "main"
+  },
+  "rennerdo30/agent-bridge": {
+    "name": "rennerdo30/agent-bridge",
+    "description": "Let Claude Code and OpenAI Codex talk to each other: live peer messaging over a local pipe plus headless delegation. Plugins for both CLIs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rennerdo30",
+    "repoName": "agent-bridge",
+    "repoBranch": "main"
+  },
+  "bosmdavid-gif/dropthehassle-skill": {
+    "name": "bosmdavid-gif/dropthehassle-skill",
+    "description": "Agent skill for Claude Code, Cursor, Codex and Windsurf: put a finished static site online with DropTheHassle (free HTTPS link, own domain, no DNS). The agent never spends money.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bosmdavid-gif",
+    "repoName": "dropthehassle-skill",
+    "repoBranch": "main"
+  },
+  "lenadweb/claude-code-plugins": {
+    "name": "lenadweb/claude-code-plugins",
+    "description": "Claude Code plugin marketplace with small terminal HUD mods: usage meter and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lenadweb",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "OneWave-AI/claude-code-mods": {
+    "name": "OneWave-AI/claude-code-mods",
+    "description": "Ten open-source mods for Claude Code: live panes, bands, status lines and tool-call guards. Burn meter, launch codes, session wrapped, boss fight, code pet and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OneWave-AI",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "halilneed/plugins": {
+    "name": "halilneed/plugins",
+    "description": "Marketplace manifest for hailneed plugins: agent-blackbox, painradar, devpersona. /plugin marketplace add hailneed/plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "halilneed",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "bunderlog/claude-plugins": {
+    "name": "bunderlog/claude-plugins",
+    "description": "Claude Code plugin marketplace with baloo: skills, an agent that verifies changes against the project's decisions, guidelines, checks, an output style and a status line.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bunderlog",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "jonpojonpo/cc-crayon": {
+    "name": "jonpojonpo/cc-crayon",
+    "description": "Colorful, themed Claude Code replies: themed Markdown plus inline color/style tags the model can write, drawn with real Ink Text styling",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jonpojonpo",
+    "repoName": "cc-crayon",
+    "repoBranch": "main"
+  },
+  "meoghetanca/aris": {
+    "name": "meoghetanca/aris",
+    "description": "A marketing research team for Claude Code, with the evidence built in. Describe your product; aris mines the public record, derives positioning from it, writes every launch asset against a traceable claim, verifies by...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "meoghetanca",
+    "repoName": "aris",
+    "repoBranch": "main"
+  },
+  "attorneynate/legal-skills": {
+    "name": "attorneynate/legal-skills",
+    "description": "Agent Skills for legal research and legal work: works in Claude, ChatGPT/Codex, Gemini CLI, Copilot, Cursor, and other agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "attorneynate",
+    "repoName": "legal-skills",
+    "repoBranch": "main"
+  },
+  "sbuerk/claude-fly-the-upgrade": {
+    "name": "sbuerk/claude-fly-the-upgrade",
+    "description": "Claude Code plugin: fly a TYPO3 major upgrade in three gated phases, with a flight log, instrument tests and Rector/Fractor one rule per commit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sbuerk",
+    "repoName": "claude-fly-the-upgrade",
+    "repoBranch": "main"
   }
 }

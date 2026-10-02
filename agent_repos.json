@@ -5714,5 +5714,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Paul-Engelhardt/claude-code-engineering-toolkit": {
+    "owner": "Paul-Engelhardt",
+    "name": "claude-code-engineering-toolkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "combobulating/claude-code-file-of-the-day": {
+    "owner": "combobulating",
+    "name": "claude-code-file-of-the-day",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sbuerk/claude-fly-the-upgrade": {
+    "owner": "sbuerk",
+    "name": "claude-fly-the-upgrade",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
