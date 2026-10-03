@@ -1,4 +1,11 @@
 {
+    "cloudishai/skills": {
+        "owner": "cloudishai",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "xiehuan123/browser-extension-launch": {
         "owner": "xiehuan123",
         "name": "browser-extension-launch",
