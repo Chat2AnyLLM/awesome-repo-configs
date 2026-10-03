@@ -1,4 +1,11 @@
 {
+    "xiehuan123/browser-extension-launch": {
+        "owner": "xiehuan123",
+        "name": "browser-extension-launch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
     "rebelytics/one-skill-to-rule-them-all": {
         "owner": "rebelytics",
         "name": "one-skill-to-rule-them-all",
