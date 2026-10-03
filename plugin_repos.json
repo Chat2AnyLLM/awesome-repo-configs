@@ -34219,5 +34219,14 @@
     "repoOwner": "pcingola",
     "repoName": "wowbagger",
     "repoBranch": "main"
+  },
+  "shimo4228/harness-scope": {
+    "name": "shimo4228/harness-scope",
+    "description": "Claude Code Mod: turns global skills, agents, rules files and tools on or off per repo with named profiles kept in ~/.claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "harness-scope",
+    "repoBranch": "main"
   }
 }
