@@ -34345,5 +34345,149 @@
     "repoOwner": "brain898",
     "repoName": "college-compass",
     "repoBranch": "main"
+  },
+  "hamzafer/claude-code-mods": {
+    "name": "hamzafer/claude-code-mods",
+    "description": "Live view of what your Claude Code agent reads and writes, plus more mods.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hamzafer",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "batrapulkit/squidbrake": {
+    "name": "batrapulkit/squidbrake",
+    "description": "Brakes for your AI agents: every tool call is checked against your rules, held for human approval when risky, and recorded in a tamper-evident audit trail. Works with Claude Code and any MCP app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "batrapulkit",
+    "repoName": "squidbrake",
+    "repoBranch": "main"
+  },
+  "Jarryd-W-Hoffman/agents": {
+    "name": "Jarryd-W-Hoffman/agents",
+    "description": "Claude Code plugins for reviewing changes: a four-pass code review, migration safety, regression hunting from git history, change-impact maps, tests from findings, and an orchestrator that runs what a change needs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jarryd-W-Hoffman",
+    "repoName": "agents",
+    "repoBranch": "main"
+  },
+  "charimsma/dopa-mode": {
+    "name": "charimsma/dopa-mode",
+    "description": "Fireworks for Claude Code: every keystroke, tool call, commit and green test goes up in braille fireworks above the prompt. A Claude Code mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "charimsma",
+    "repoName": "dopa-mode",
+    "repoBranch": "main"
+  },
+  "pawandeepdhall/claude-mods": {
+    "name": "pawandeepdhall/claude-mods",
+    "description": "Claude Code mods: always-visible 5-hour & weekly usage limits with reset countdown, one-click next-step suggestions, and new chat / push buttons. Works in Claude Desktop and the terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pawandeepdhall",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "kiril6/vibeaudio": {
+    "name": "kiril6/vibeaudio",
+    "description": "Procedural focus music that follows your AI coding agent: it plays while the agent works, pauses when it needs you, and chimes when it's done. Zero dependencies, no audio files.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kiril6",
+    "repoName": "vibeaudio",
+    "repoBranch": "main"
+  },
+  "helenkwok/gsd-status-mod": {
+    "name": "helenkwok/gsd-status-mod",
+    "description": "Claude Code mod: resume hints for GSD projects (stopped-at line, handoff next action, Tab suggestion, STATE.md drift warning)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "helenkwok",
+    "repoName": "gsd-status-mod",
+    "repoBranch": "main"
+  },
+  "bajzaa975/claude-alapcsomag": {
+    "name": "bajzaa975/claude-alapcsomag",
+    "description": "Claude code token saviour and coding orchestration package by Bajzi",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bajzaa975",
+    "repoName": "claude-alapcsomag",
+    "repoBranch": "main"
+  },
+  "petersonsenadevs/senzu": {
+    "name": "petersonsenadevs/senzu",
+    "description": "petersonsenadevs/senzu \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "petersonsenadevs",
+    "repoName": "senzu",
+    "repoBranch": "main"
+  },
+  "MohammadMD1383/claude-plugins": {
+    "name": "MohammadMD1383/claude-plugins",
+    "description": "Claude Code plugins marketplace by MohammadMD1383",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MohammadMD1383",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "aaddrick/scripting-blender-scenes": {
+    "name": "aaddrick/scripting-blender-scenes",
+    "description": "Skill for coding agents that build, rig, animate, light, and review Blender scenes through bpy and headless Blender, without seeing the viewport.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaddrick",
+    "repoName": "scripting-blender-scenes",
+    "repoBranch": "main"
+  },
+  "QuintinBotes/claude-plugins": {
+    "name": "QuintinBotes/claude-plugins",
+    "description": "Claude Code plugin marketplace by Quintin Botes: review-voice, circuit-breaker, swarm, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QuintinBotes",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "aksh1618/claude-mods": {
+    "name": "aksh1618/claude-mods",
+    "description": "Claude Code mods: chameleon (session colours on /rename and /branch) and skill-session-mods (name and colour a session from a skill's SKILL.md)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aksh1618",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "YuvalSarel1/claude-plugins": {
+    "name": "YuvalSarel1/claude-plugins",
+    "description": "Claude Code plugins by Yuval Sarel",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YuvalSarel1",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "skysf/skylu-mods": {
+    "name": "skysf/skylu-mods",
+    "description": "Mods and plugins for Claude Code by skylu",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skysf",
+    "repoName": "skylu-mods",
+    "repoBranch": "main"
+  },
+  "smian1/claude-plugins": {
+    "name": "smian1/claude-plugins",
+    "description": "Claude Code plugin marketplace. Includes imessage-history: search, export and analyze your iMessage history on macOS. Add with /plugin marketplace add smian1/claude-plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smian1",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }

@@ -42864,5 +42864,96 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "batrapulkit/squidbrake": {
+        "owner": "batrapulkit",
+        "name": "squidbrake",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jarryd-W-Hoffman/agents": {
+        "owner": "Jarryd-W-Hoffman",
+        "name": "agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "VibeEngineering-LLC/agent-ops-doctrine": {
+        "owner": "VibeEngineering-LLC",
+        "name": "agent-ops-doctrine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AN0099/toothpaste-kit": {
+        "owner": "AN0099",
+        "name": "toothpaste-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kiril6/vibeaudio": {
+        "owner": "kiril6",
+        "name": "vibeaudio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "markjprice/claude-vb": {
+        "owner": "markjprice",
+        "name": "claude-vb",
+        "branch": "main",
+        "enabled": true
+    },
+    "oshuhrat/drm-reliability-toolkit": {
+        "owner": "oshuhrat",
+        "name": "drm-reliability-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "getquaiint/quaiint": {
+        "owner": "getquaiint",
+        "name": "quaiint",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bajzaa975/claude-alapcsomag": {
+        "owner": "bajzaa975",
+        "name": "claude-alapcsomag",
+        "branch": "main",
+        "enabled": true
+    },
+    "petersonsenadevs/senzu": {
+        "owner": "petersonsenadevs",
+        "name": "senzu",
+        "branch": "main",
+        "enabled": true
+    },
+    "MohammadMD1383/claude-plugins": {
+        "owner": "MohammadMD1383",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "aaddrick/scripting-blender-scenes": {
+        "owner": "aaddrick",
+        "name": "scripting-blender-scenes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LarsLaskowski/Squad-Spec-Repository-Template": {
+        "owner": "LarsLaskowski",
+        "name": "Squad-Spec-Repository-Template",
+        "branch": "main",
+        "enabled": true
+    },
+    "smian1/claude-plugins": {
+        "owner": "smian1",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }
