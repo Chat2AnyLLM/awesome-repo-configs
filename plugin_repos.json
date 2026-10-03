@@ -34489,5 +34489,14 @@
     "repoOwner": "smian1",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "robinfaraj/postel-mcp": {
+    "name": "postel",
+    "description": "Draft, schedule and publish X (Twitter) and LinkedIn posts in your own voice from Claude, Cursor and other MCP clients.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robinfaraj",
+    "repoName": "postel-mcp",
+    "repoBranch": "main"
   }
 }
