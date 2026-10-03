@@ -34498,5 +34498,158 @@
     "repoOwner": "robinfaraj",
     "repoName": "postel-mcp",
     "repoBranch": "main"
+  },
+  "natsukium/claude-code-figures-plugin": {
+    "name": "natsukium/claude-code-figures-plugin",
+    "description": "Draw diagrams, LaTeX math, and tool-result images inline in kitty-graphics terminals \u2014 a Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "natsukium",
+    "repoName": "claude-code-figures-plugin",
+    "repoBranch": "main"
+  },
+  "purposewalks9/claude-code-discord-presence": {
+    "name": "purposewalks9/claude-code-discord-presence",
+    "description": "Unofficial Discord Rich Presence for Claude Code: live session state and active model, synced to Discord",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "purposewalks9",
+    "repoName": "claude-code-discord-presence",
+    "repoBranch": "main"
+  },
+  "mishgoldenberg/claude-mods": {
+    "name": "mishgoldenberg/claude-mods",
+    "description": "Panels, guardrails and quality-of-life mods for Claude Code: context, usage, live activity, notifications, safety rules, prompt coach, command hub.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mishgoldenberg",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "lemomo-ai/lemo-mod": {
+    "name": "lemomo-ai/lemo-mod",
+    "description": "Claude Code mods: 21 styles and a full set of features you turn on when you need them, for the terminal and the desktop app. \u4e00\u952e\u4e3a Claude \u6362\u4e0a\u65b0\u98ce\u683c\uff0c\u5e76\u63d0\u4f9b\u4e00\u6574\u5957\u6309\u9700\u5f00\u542f\u7684\u529f\u80fd\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lemomo-ai",
+    "repoName": "lemo-mod",
+    "repoBranch": "main"
+  },
+  "Rmasood1122/eval-conductor": {
+    "name": "Rmasood1122/eval-conductor",
+    "description": "Claude Code plugin: fail-closed eval release gates + an evidence-gated 27-step build ledger. NaN and stale baselines BLOCK; placeholder evidence is refused. /eval-init installs it into any repo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rmasood1122",
+    "repoName": "eval-conductor",
+    "repoBranch": "main"
+  },
+  "Rmasood1122/titan-gate-plugin": {
+    "name": "Rmasood1122/titan-gate-plugin",
+    "description": "Claude Code plugin: tamper-evident receipts for AI-assisted commits \u2014 hash-chained, HMAC-signed, verifiable offline. Auto-receipts every commit via hook.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rmasood1122",
+    "repoName": "titan-gate-plugin",
+    "repoBranch": "main"
+  },
+  "drexthealpha/Knos": {
+    "name": "drexthealpha/Knos",
+    "description": "Bounties that pay when the pull request is merged with the checks you named passing. Attested by a GitHub-signed workflow run, verified on Solana.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drexthealpha",
+    "repoName": "Knos",
+    "repoBranch": "main"
+  },
+  "agentic-workbench/agent-quick-menu": {
+    "name": "agentic-workbench/agent-quick-menu",
+    "description": "Quick menu for Claude Code: every plugin's commands and settings, and Claude Code's own, in one pane and a band above the prompt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agentic-workbench",
+    "repoName": "agent-quick-menu",
+    "repoBranch": "main"
+  },
+  "taoq-ai/wuwei": {
+    "name": "taoq-ai/wuwei",
+    "description": "\u65e0\u4e3a WUWEI: a Claude Code plugin that runs a chartered agent team through your day, with guards that make the safe path the default one.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "taoq-ai",
+    "repoName": "wuwei",
+    "repoBranch": "main"
+  },
+  "thirdsai/skills": {
+    "name": "thirdsai/skills",
+    "description": "Agent skills for branded PDFs and images with thirds.ai MCP",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thirdsai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "oshnilia/claude-plugins": {
+    "name": "oshnilia/claude-plugins",
+    "description": "Claude Code plugins and mods for understanding what Claude does: legible answer formats and a live session board (marketplace: oshn)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oshnilia",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Certicore/ClaudeMOD": {
+    "name": "Certicore/ClaudeMOD",
+    "description": "Claude Code mods by NyxStudio \u2014 an animated progress band with plan limits that pause the work. Also a plugin marketplace (nyxstudio-mods).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Certicore",
+    "repoName": "ClaudeMOD",
+    "repoBranch": "main"
+  },
+  "cassc/claude-skills": {
+    "name": "cassc/claude-skills",
+    "description": "Claude Code skills and agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cassc",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "dusk-state/GhostSpend": {
+    "name": "dusk-state/GhostSpend",
+    "description": "Find hidden AI CLI spend before it surprises you. GhostSpend audits Claude Code, Codex CLI, Gemini CLI and more against a one-time baseline of tools you actually use \u2014 flagging spend from anything unexpected, not just...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dusk-state",
+    "repoName": "GhostSpend",
+    "repoBranch": "main"
+  },
+  "estruyf/claude-agent-watch-mod": {
+    "name": "estruyf/claude-agent-watch-mod",
+    "description": "Claude Code mod that tracks how many agents you run and which ones you forgot",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "estruyf",
+    "repoName": "claude-agent-watch-mod",
+    "repoBranch": "main"
+  },
+  "ThePrimeLayer/claude-code-plugins": {
+    "name": "ThePrimeLayer/claude-code-plugins",
+    "description": "Claude Code plugins and mods, each used day to day before release",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ThePrimeLayer",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "kennetvn/nextcore-skills": {
+    "name": "kennetvn/nextcore-skills",
+    "description": "Skills from a real product, not a demo: Claude Code plugin marketplace with nextcore-design (UI), nextcore-dev (frontend \u2194 backend contract) and nextcore-workflow (running AI agents) \u2014 every rule backed by a measured...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kennetvn",
+    "repoName": "nextcore-skills",
+    "repoBranch": "main"
   }
 }

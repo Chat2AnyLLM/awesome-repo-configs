@@ -42955,5 +42955,79 @@
         "name": "claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "Zulut30/premium-telegram-emoji": {
+        "owner": "Zulut30",
+        "name": "premium-telegram-emoji",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "natsukium/claude-code-figures-plugin": {
+        "owner": "natsukium",
+        "name": "claude-code-figures-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rmasood1122/eval-conductor": {
+        "owner": "Rmasood1122",
+        "name": "eval-conductor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rmasood1122/titan-gate-plugin": {
+        "owner": "Rmasood1122",
+        "name": "titan-gate-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "taoq-ai/wuwei": {
+        "owner": "taoq-ai",
+        "name": "wuwei",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thirdsai/skills": {
+        "owner": "thirdsai",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maugarciasa/insta-nallon": {
+        "owner": "maugarciasa",
+        "name": "insta-nallon",
+        "branch": "main",
+        "enabled": true
+    },
+    "oshnilia/claude-plugins": {
+        "owner": "oshnilia",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "cassc/claude-skills": {
+        "owner": "cassc",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dusk-state/GhostSpend": {
+        "owner": "dusk-state",
+        "name": "GhostSpend",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kennetvn/nextcore-skills": {
+        "owner": "kennetvn",
+        "name": "nextcore-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

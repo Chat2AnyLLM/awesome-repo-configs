@@ -5749,5 +5749,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "taoq-ai/wuwei": {
+    "owner": "taoq-ai",
+    "name": "wuwei",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "cassc/claude-skills": {
+    "owner": "cassc",
+    "name": "claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "dusk-state/GhostSpend": {
+    "owner": "dusk-state",
+    "name": "GhostSpend",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
