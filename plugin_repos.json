@@ -34651,5 +34651,122 @@
     "repoOwner": "kennetvn",
     "repoName": "nextcore-skills",
     "repoBranch": "main"
+  },
+  "DojoCodingLabs/remotion-superpowers": {
+    "name": "DojoCodingLabs/remotion-superpowers",
+    "description": "\ud83c\udfac Claude Code plugin \u2014 full video production studio for Remotion. AI voiceovers, music, stock footage, image/video generation, TikTok captions, 3D, transitions & AI review loop. 5 MCP servers, 13 commands. Free & open...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DojoCodingLabs",
+    "repoName": "remotion-superpowers",
+    "repoBranch": "main"
+  },
+  "DojoCodingLabs/code-sensei": {
+    "name": "DojoCodingLabs/code-sensei",
+    "description": "\ud83e\udd4b Claude Code plugin that teaches programming while you vibecode \u2014 contextual explanations, micro-quizzes, and belt progression. Free & open source by Dojo Coding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DojoCodingLabs",
+    "repoName": "code-sensei",
+    "repoBranch": "main"
+  },
+  "hasuwini77/agentille": {
+    "name": "hasuwini77/agentille",
+    "description": "Orchestration plugin for Claude Code. Seven skills, smart model routing, parallel git worktrees, code + design review built in.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hasuwini77",
+    "repoName": "agentille",
+    "repoBranch": "main"
+  },
+  "wellbrained/usage-meter-mod": {
+    "name": "wellbrained/usage-meter-mod",
+    "description": "Pill-style usage band for the Claude Code desktop app: plan limits, context window, git branch",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wellbrained",
+    "repoName": "usage-meter-mod",
+    "repoBranch": "main"
+  },
+  "PramodTKodag/claude-code-skills": {
+    "name": "PramodTKodag/claude-code-skills",
+    "description": "Personal open-source collection of Claude Code plugins & skills \u2014 starting with dev-flow, a resumable multi-phase / multi-PR engineering flow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PramodTKodag",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
+  },
+  "tzafrir/human-in-the-loop": {
+    "name": "tzafrir/human-in-the-loop",
+    "description": "A Claude Code mod: Claude assigns you the tasks only you can do. They wait in a pane until you answer, and your answer goes back to Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tzafrir",
+    "repoName": "human-in-the-loop",
+    "repoBranch": "main"
+  },
+  "FutureAtoms/karpathy-ladder": {
+    "name": "FutureAtoms/karpathy-ladder",
+    "description": "The Karpathy Ladder for Claude Code: explain anything as ASD-STE100 prose, a diagram, an engineering-drawing spec sheet or a narrated 3Blue1Brown-style video.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FutureAtoms",
+    "repoName": "karpathy-ladder",
+    "repoBranch": "main"
+  },
+  "cumabozkurt/god-of-design": {
+    "name": "cumabozkurt/god-of-design",
+    "description": "Design intelligence for AI coding agents: 19 skills, 109 world design styles (Bauhaus \u2192 \u0130znik \u2192 Y2K), every medium (UI/UX, social, print, branding, slides, motion). Claude Code, Codex, OpenCode, Antigravity, Cursor, G...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cumabozkurt",
+    "repoName": "god-of-design",
+    "repoBranch": "main"
+  },
+  "0xR4vens/clawd-mods": {
+    "name": "0xR4vens/clawd-mods",
+    "description": "A pixel Clawd that lives under the Claude Code spinner. Zero tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0xR4vens",
+    "repoName": "clawd-mods",
+    "repoBranch": "main"
+  },
+  "slopstore/claude-plugin": {
+    "name": "slopstore/claude-plugin",
+    "description": "Claude Code plugin: publish the app you built to Slop Store (slopapp.store) with one command, so anyone can play it in the browser.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slopstore",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
+  "MarkMerk/markmerk-mods": {
+    "name": "MarkMerk/markmerk-mods",
+    "description": "Small mods for Claude Code: runner-avatar, a little avatar that runs above your prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MarkMerk",
+    "repoName": "markmerk-mods",
+    "repoBranch": "main"
+  },
+  "moaazhomaid/claude-plugins": {
+    "name": "moaazhomaid/claude-plugins",
+    "description": "Claude Code plugins by Moaaz Homaid \u00b7 TokenScope: live token & USD observatory",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moaazhomaid",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "kylechoi101/slopstore-claude-plugin": {
+    "name": "kylechoi101/slopstore-claude-plugin",
+    "description": "Claude Code plugin: publish the app you built to Slop Store (slopapp.store) with one command, so anyone can play it in the browser.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kylechoi101",
+    "repoName": "slopstore-claude-plugin",
+    "repoBranch": "main"
   }
 }

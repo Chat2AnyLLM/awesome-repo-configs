@@ -43036,5 +43036,104 @@
         "name": "nextcore-skills",
         "branch": "main",
         "enabled": true
+    },
+    "DojoCodingLabs/remotion-superpowers": {
+        "owner": "DojoCodingLabs",
+        "name": "remotion-superpowers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DojoCodingLabs/code-sensei": {
+        "owner": "DojoCodingLabs",
+        "name": "code-sensei",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AlexanderAbramovPav/scriba": {
+        "owner": "AlexanderAbramovPav",
+        "name": "scriba",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tubeagentkit/youtube-transcript-skills": {
+        "owner": "tubeagentkit",
+        "name": "youtube-transcript-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zning1994/brainharness-docs": {
+        "owner": "zning1994",
+        "name": "brainharness-docs",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TsukiNi22/skills": {
+        "owner": "TsukiNi22",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "hasuwini77/agentille": {
+        "owner": "hasuwini77",
+        "name": "agentille",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PramodTKodag/claude-code-skills": {
+        "owner": "PramodTKodag",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "intikhab49/diff-gate": {
+        "owner": "intikhab49",
+        "name": "diff-gate",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cha1latte/campaign-writer": {
+        "owner": "cha1latte",
+        "name": "campaign-writer",
+        "branch": "main",
+        "enabled": true
+    },
+    "mrudulgole/go-live-plan-skill": {
+        "owner": "mrudulgole",
+        "name": "go-live-plan-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "FutureAtoms/karpathy-ladder": {
+        "owner": "FutureAtoms",
+        "name": "karpathy-ladder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cumabozkurt/god-of-design": {
+        "owner": "cumabozkurt",
+        "name": "god-of-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "slopstore/claude-plugin": {
+        "owner": "slopstore",
+        "name": "claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "kylechoi101/slopstore-claude-plugin": {
+        "owner": "kylechoi101",
+        "name": "slopstore-claude-plugin",
+        "branch": "main",
+        "enabled": true
     }
 }

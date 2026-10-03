@@ -5770,5 +5770,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "DojoCodingLabs/remotion-superpowers": {
+    "owner": "DojoCodingLabs",
+    "name": "remotion-superpowers",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DojoCodingLabs/code-sensei": {
+    "owner": "DojoCodingLabs",
+    "name": "code-sensei",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "hasuwini77/agentille": {
+    "owner": "hasuwini77",
+    "name": "agentille",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
