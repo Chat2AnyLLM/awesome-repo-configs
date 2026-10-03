@@ -5742,5 +5742,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "itw-creative-works/workkit": {
+    "owner": "itw-creative-works",
+    "name": "workkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

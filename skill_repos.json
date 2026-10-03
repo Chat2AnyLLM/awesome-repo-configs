@@ -42741,5 +42741,121 @@
         "name": "wowbagger",
         "branch": "main",
         "enabled": true
+    },
+    "EricTechPro/super-board": {
+        "owner": "EricTechPro",
+        "name": "super-board",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Getty/briefing": {
+        "owner": "Getty",
+        "name": "briefing",
+        "branch": "main",
+        "enabled": true
+    },
+    "harsh51191/evolvable-software": {
+        "owner": "harsh51191",
+        "name": "evolvable-software",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "artheras/skills": {
+        "owner": "artheras",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "itw-creative-works/workkit": {
+        "owner": "itw-creative-works",
+        "name": "workkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "marcosmodly/marketing-skill": {
+        "owner": "marcosmodly",
+        "name": "marketing-skill",
+        "branch": "claude/marketing-skill-builder-uzp891",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sijav/Sijav-Skills": {
+        "owner": "sijav",
+        "name": "Sijav-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "NourEldinShobier/claude-tuning": {
+        "owner": "NourEldinShobier",
+        "name": "claude-tuning",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KyoMio/zcode-executor": {
+        "owner": "KyoMio",
+        "name": "zcode-executor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mesutbsdgn/turkce-ai-durulac": {
+        "owner": "mesutbsdgn",
+        "name": "turkce-ai-durulac",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DotanVG/video-director-skill": {
+        "owner": "DotanVG",
+        "name": "video-director-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "HelloWorldU/skill-collection": {
+        "owner": "HelloWorldU",
+        "name": "skill-collection",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fightingforsidewalk/claude-code-discipline": {
+        "owner": "fightingforsidewalk",
+        "name": "claude-code-discipline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fightingforsidewalk/skill-canonical-tracker": {
+        "owner": "fightingforsidewalk",
+        "name": "skill-canonical-tracker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fightingforsidewalk/skill-claude-relay": {
+        "owner": "fightingforsidewalk",
+        "name": "skill-claude-relay",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brain898/write-competition-research-reports": {
+        "owner": "brain898",
+        "name": "write-competition-research-reports",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "brain898/college-compass": {
+        "owner": "brain898",
+        "name": "college-compass",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -34228,5 +34228,122 @@
     "repoOwner": "shimo4228",
     "repoName": "harness-scope",
     "repoBranch": "main"
+  },
+  "EricTechPro/super-board": {
+    "name": "EricTechPro/super-board",
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EricTechPro",
+    "repoName": "super-board",
+    "repoBranch": "main"
+  },
+  "Getty/briefing": {
+    "name": "Getty/briefing",
+    "description": "Claude Code plugin: pre-load declared skills into a subagent's context at spawn time. Programmatic briefing beats prompt stuffing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Getty",
+    "repoName": "briefing",
+    "repoBranch": "main"
+  },
+  "amigoer/ccprogress": {
+    "name": "amigoer/ccprogress",
+    "description": "Live step-by-step progress bar for long Claude Code sessions, in the terminal and the Desktop app",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amigoer",
+    "repoName": "ccprogress",
+    "repoBranch": "main"
+  },
+  "harsh51191/evolvable-software": {
+    "name": "harsh51191/evolvable-software",
+    "description": "How ready is your software to evolve itself safely, and how much does AI drive? Autonomy levels with file-level evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "harsh51191",
+    "repoName": "evolvable-software",
+    "repoBranch": "main"
+  },
+  "artheras/skills": {
+    "name": "artheras/skills",
+    "description": "Reusable Agent Skills for quantitative finance research, extracted from the Aria toolchain.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "artheras",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "itw-creative-works/workkit": {
+    "name": "itw-creative-works/workkit",
+    "description": "The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline, guard hooks, a manager crew, and the skills from build to ship.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itw-creative-works",
+    "repoName": "workkit",
+    "repoBranch": "main"
+  },
+  "marcosmodly/marketing-skill": {
+    "name": "marcosmodly/marketing-skill",
+    "description": "Claude Code plugin with 12 composable marketing skills: competitor research, content calendars, SEO briefs, ad copy, cold outreach, short-form video packages, and rules-aware community posting, plus a pipeline to publ...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marcosmodly",
+    "repoName": "marketing-skill",
+    "repoBranch": "claude/marketing-skill-builder-uzp891"
+  },
+  "sijav/Sijav-Skills": {
+    "name": "sijav/Sijav-Skills",
+    "description": "Six Claude Code skills that work in any project: rule sets that load only when called, a dev round, codex sessions, roasts judged by jev, a loop and a to-do board.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sijav",
+    "repoName": "Sijav-Skills",
+    "repoBranch": "main"
+  },
+  "augiefra/claude-mods": {
+    "name": "augiefra/claude-mods",
+    "description": "Claude Code mod: your 5-hour and weekly limits vs. the clock, context weather and per-prompt token bars, one line above the prompt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "augiefra",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "NourEldinShobier/claude-tuning": {
+    "name": "NourEldinShobier/claude-tuning",
+    "description": "One-command setup that makes Claude Code use fewer tokens: rtk shell compression, stash search index, web-search, codebase-memory, fast-jev-compaction, ponytail, plus Jev skill suggestions and model routing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NourEldinShobier",
+    "repoName": "claude-tuning",
+    "repoBranch": "main"
+  },
+  "KyoMio/zcode-executor": {
+    "name": "KyoMio/zcode-executor",
+    "description": "Claude plans, ZCode codes, git verifies. Hand a development task to the local ZCode (GLM) agent in an isolated worktree, with a hard-rule + model-review permission gate. \u628a\u5f00\u53d1\u4efb\u52a1\u6d3e\u7ed9\u672c\u673a ZCode \u6267\u884c\uff0cworktree \u9694\u79bb\uff0c\u7ea2\u7ebf\u52a0\u6a21\u578b\u5ba1\u6279\uff0cgit diff \u9a8c\u6536",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KyoMio",
+    "repoName": "zcode-executor",
+    "repoBranch": "main"
+  },
+  "brain898/write-competition-research-reports": {
+    "name": "brain898/write-competition-research-reports",
+    "description": "\u4e2d\u6587\u7ade\u8d5b\u8c03\u7814\u62a5\u544a\u5199\u4f5c Agent Skill\uff1a\u7ed3\u8bba\u5f3a\u5ea6\u4e0d\u8d85\u8fc7\u8bc1\u636e\u5f3a\u5ea6\uff0c\u628a\u6750\u6599\u8303\u56f4\u3001\u5b9e\u540d\u6388\u6743\u3001\u5b57\u6570\u51c0\u53d8\u5316\u548c\u94fe\u63a5\u6838\u9a8c\u7ed3\u679c\u4e00\u5e76\u4ea4\u51fa",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brain898",
+    "repoName": "write-competition-research-reports",
+    "repoBranch": "main"
+  },
+  "brain898/college-compass": {
+    "name": "brain898/college-compass",
+    "description": "\u4e2d\u56fd\u5927\u5b66\u751f\u7684\u89c4\u5212\u7f57\u76d8 Agent Skill\uff1a\u6309\u516d\u6761\u6bd5\u4e1a\u8def\u7ebf\u7684\u8003\u5bdf\u7ef4\u5ea6\u6743\u91cd\uff0c\u5224\u65ad\u4f60\u624b\u4e0a\u7684\u7ecf\u5386\u503c\u7b2c\u51e0\u4f4d\uff0c\u6bcf\u4e2a\u5224\u65ad\u90fd\u5199\u660e\u4f9d\u636e",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brain898",
+    "repoName": "college-compass",
+    "repoBranch": "main"
   }
 }
