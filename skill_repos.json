@@ -43221,5 +43221,104 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "appshapes/brigade": {
+        "owner": "appshapes",
+        "name": "brigade",
+        "branch": "master",
+        "enabled": true
+    },
+    "nadirali1350/vetted": {
+        "owner": "nadirali1350",
+        "name": "vetted",
+        "branch": "main",
+        "enabled": true
+    },
+    "lifrary/agent-tree": {
+        "owner": "lifrary",
+        "name": "agent-tree",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yu381792/superlcm": {
+        "owner": "yu381792",
+        "name": "superlcm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Minerva67/video-boost": {
+        "owner": "Minerva67",
+        "name": "video-boost",
+        "branch": "main",
+        "enabled": true
+    },
+    "DrunkenDealer/claude-code-qa-cycle": {
+        "owner": "DrunkenDealer",
+        "name": "claude-code-qa-cycle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tbsrgt/claude-ovh-dns": {
+        "owner": "tbsrgt",
+        "name": "claude-ovh-dns",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IAmAStealer/Claudou": {
+        "owner": "IAmAStealer",
+        "name": "Claudou",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "syntaxixr/goalpost": {
+        "owner": "syntaxixr",
+        "name": "goalpost",
+        "branch": "main",
+        "enabled": true
+    },
+    "EGSECDA/vocaloid-style-mv-pipeline": {
+        "owner": "EGSECDA",
+        "name": "vocaloid-style-mv-pipeline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OstrichHermit/audio-transcribe-cli-mcp": {
+        "owner": "OstrichHermit",
+        "name": "audio-transcribe-cli-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MicTx/gentle-introduction-skill": {
+        "owner": "MicTx",
+        "name": "gentle-introduction-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Anri-Lombard/sleeptrain": {
+        "owner": "Anri-Lombard",
+        "name": "sleeptrain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nu0ma/explain": {
+        "owner": "nu0ma",
+        "name": "explain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Liviaaaaa33333/Weekly-Planner-Skill": {
+        "owner": "Liviaaaaa33333",
+        "name": "Weekly-Planner-Skill",
+        "branch": "main",
+        "enabled": true
     }
 }

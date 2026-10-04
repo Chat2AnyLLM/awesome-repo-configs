@@ -5805,5 +5805,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "appshapes/brigade": {
+    "owner": "appshapes",
+    "name": "brigade",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "DrunkenDealer/claude-code-qa-cycle": {
+    "owner": "DrunkenDealer",
+    "name": "claude-code-qa-cycle",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "IAmAStealer/Claudou": {
+    "owner": "IAmAStealer",
+    "name": "Claudou",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
