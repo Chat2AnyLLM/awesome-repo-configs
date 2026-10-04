@@ -35020,5 +35020,14 @@
     "repoOwner": "nu0ma",
     "repoName": "explain",
     "repoBranch": "main"
+  },
+  "ASCIT31/darkmoon-mcp-server": {
+    "name": "darkmoon",
+    "description": "Claude Code plugin and MCP server to drive a self-hosted Darkmoon Pro instance (autonomous AI pentest, GPL-3.0): start a run against an authorized target, poll status, list campaigns and read findings. Requires Darkmoon Pro; run_pentest is not read-only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ASCIT31",
+    "repoName": "darkmoon-mcp-server",
+    "repoBranch": "main"
   }
 }
