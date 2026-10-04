@@ -34903,5 +34903,14 @@
     "repoOwner": "potto007",
     "repoName": "ottomation",
     "repoBranch": "main"
+  },
+  "Eigenwise/eigenwise-toolshed": {
+    "name": "Eigenwise Toolshed",
+    "description": "Six independently installable Claude Code plugins for repository maps, scoped rules, saved tasks, model access, local usage monitoring and workspace setup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Eigenwise",
+    "repoName": "eigenwise-toolshed",
+    "repoBranch": "main"
   }
 }
