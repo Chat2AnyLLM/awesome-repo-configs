@@ -35029,5 +35029,122 @@
     "repoOwner": "ASCIT31",
     "repoName": "darkmoon-mcp-server",
     "repoBranch": "main"
+  },
+  "heymegabyte/agent-skills": {
+    "name": "heymegabyte/agent-skills",
+    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 149 reference docs \u00b7 37 platform variants. One-line prompts \u2192 deployed products on Cloudflare Work...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heymegabyte",
+    "repoName": "agent-skills",
+    "repoBranch": "master"
+  },
+  "ubranch/uzbekistan-payment-skills": {
+    "name": "ubranch/uzbekistan-payment-skills",
+    "description": "agent skills for payme and click payments in uzbekistan: merchant, subscribe and shop APIs, fiscalization and testing. for codex, cursor, claude code and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ubranch",
+    "repoName": "uzbekistan-payment-skills",
+    "repoBranch": "unknown"
+  },
+  "ting-hong-shieh/polish-open-source-prose": {
+    "name": "ting-hong-shieh/polish-open-source-prose",
+    "description": "Agent Skill for Claude Code + Codex that edits open-source prose without losing facts or voice. Includes zh-Hant-TW.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ting-hong-shieh",
+    "repoName": "polish-open-source-prose",
+    "repoBranch": "main"
+  },
+  "Amorfx/claude-paste-view": {
+    "name": "Amorfx/claude-paste-view",
+    "description": "Claude Code mod: preview pasted images and long pasted text above the prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Amorfx",
+    "repoName": "claude-paste-view",
+    "repoBranch": "main"
+  },
+  "michalstrnadel/source-to-skill": {
+    "name": "michalstrnadel/source-to-skill",
+    "description": "Turn YouTube videos, playlists & channels, podcasts, papers, books, articles and GitHub repos into AI agent skills for Claude Code, Copilot CLI & Amp. Local Whisper, timestamp deep links, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "michalstrnadel",
+    "repoName": "source-to-skill",
+    "repoBranch": "main"
+  },
+  "mutlumehmet/claude-plugins": {
+    "name": "mutlumehmet/claude-plugins",
+    "description": "Claude Code plugins I use every day: skills and mods, cleaned up so they work on anyone's machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mutlumehmet",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "GeiserX/cc-aws-keepalive": {
+    "name": "GeiserX/cc-aws-keepalive",
+    "description": "Keep Claude Code sessions alive through AWS credential expiry",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GeiserX",
+    "repoName": "cc-aws-keepalive",
+    "repoBranch": "main"
+  },
+  "ilya-kozyrev/claude-agent-hub": {
+    "name": "ilya-kozyrev/claude-agent-hub",
+    "description": "Claude Code plugin: one hub session, many headless agents \u2014 briefs, journal, inbox, owner questions, locks, and an agent-top console",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilya-kozyrev",
+    "repoName": "claude-agent-hub",
+    "repoBranch": "main"
+  },
+  "dongnguyenvie/bashcut-agent-kit": {
+    "name": "dongnguyenvie/bashcut-agent-kit",
+    "description": "BashCut's agent kit: editing skills (footage survey, beat cuts, audio mix, captions, colour, voiceover\u2026) and the BashCut MCP server for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dongnguyenvie",
+    "repoName": "bashcut-agent-kit",
+    "repoBranch": "main"
+  },
+  "Brxerq/claude-cockpit": {
+    "name": "Brxerq/claude-cockpit",
+    "description": "Zero-token progress bars and a cache-aware model and effort router for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Brxerq",
+    "repoName": "claude-cockpit",
+    "repoBranch": "main"
+  },
+  "pairbrowse/pairbrowse": {
+    "name": "pairbrowse/pairbrowse",
+    "description": "Multiplayer browser sessions for developers and AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pairbrowse",
+    "repoName": "pairbrowse",
+    "repoBranch": "main"
+  },
+  "hazeliscoding/sdl3-porter": {
+    "name": "hazeliscoding/sdl3-porter",
+    "description": "Port SDL2 code to SDL3 without the bugs that still compile. An agent skill that runs SDL's rename scripts, fixes the build and catches runtime traps, each proven by fixtures in CI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hazeliscoding",
+    "repoName": "sdl3-porter",
+    "repoBranch": "main"
+  },
+  "dmitriy-iliyov/java-agent-skills": {
+    "name": "dmitriy-iliyov/java-agent-skills",
+    "description": "Skills for Claude Code that carry a house style for Java projects",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dmitriy-iliyov",
+    "repoName": "java-agent-skills",
+    "repoBranch": "main"
   }
 }

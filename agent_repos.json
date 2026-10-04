@@ -5826,5 +5826,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "heymegabyte/agent-skills": {
+    "owner": "heymegabyte",
+    "name": "agent-skills",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ilya-kozyrev/claude-agent-hub": {
+    "owner": "ilya-kozyrev",
+    "name": "claude-agent-hub",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
