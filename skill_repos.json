@@ -43327,5 +43327,17 @@
     "branch": "master",
     "skillsPath": "skills",
     "enabled": true
+  },
+  "stas4000/what-could-break": {
+    "owner": "stas4000",
+    "name": "what-could-break",
+    "branch": "main",
+    "enabled": true
+  },
+  "stas4000/tastegate": {
+    "owner": "stas4000",
+    "name": "tastegate",
+    "branch": "main",
+    "enabled": true
   }
 }
