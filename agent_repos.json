@@ -5791,5 +5791,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "emeraldleaf/okl": {
+    "owner": "emeraldleaf",
+    "name": "okl",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ccrouse-mvc/build-skill": {
+    "owner": "ccrouse-mvc",
+    "name": "build-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -43135,5 +43135,91 @@
         "name": "slopstore-claude-plugin",
         "branch": "main",
         "enabled": true
+    },
+    "dariorapisardi/parlor.sh": {
+        "owner": "dariorapisardi",
+        "name": "parlor.sh",
+        "branch": "main",
+        "enabled": true
+    },
+    "wolfqing/QadvisorSkills": {
+        "owner": "wolfqing",
+        "name": "QadvisorSkills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yigityildiz0/universal-ai-skill-library": {
+        "owner": "yigityildiz0",
+        "name": "universal-ai-skill-library",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emeraldleaf/okl": {
+        "owner": "emeraldleaf",
+        "name": "okl",
+        "branch": "main",
+        "enabled": true
+    },
+    "MicTx/patent-disclosure-distiller": {
+        "owner": "MicTx",
+        "name": "patent-disclosure-distiller",
+        "branch": "main",
+        "enabled": true
+    },
+    "why20261/kuaishou-videos-search": {
+        "owner": "why20261",
+        "name": "kuaishou-videos-search",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ccrouse-mvc/build-skill": {
+        "owner": "ccrouse-mvc",
+        "name": "build-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zicula/skills": {
+        "owner": "zicula",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ceejbot/ceej-skills": {
+        "owner": "ceejbot",
+        "name": "ceej-skills",
+        "branch": "latest",
+        "enabled": true
+    },
+    "ajinkyalahade/iOS-Dev-ClaudeCode-Skills": {
+        "owner": "ajinkyalahade",
+        "name": "iOS-Dev-ClaudeCode-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nrzz/claude-code-handover": {
+        "owner": "nrzz",
+        "name": "claude-code-handover",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "varunmoka7/layman": {
+        "owner": "varunmoka7",
+        "name": "layman",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "proskillpacks/shopify-store-skills": {
+        "owner": "proskillpacks",
+        "name": "shopify-store-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

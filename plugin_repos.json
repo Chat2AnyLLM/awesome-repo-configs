@@ -34768,5 +34768,140 @@
     "repoOwner": "kylechoi101",
     "repoName": "slopstore-claude-plugin",
     "repoBranch": "main"
+  },
+  "dariorapisardi/parlor.sh": {
+    "name": "dariorapisardi/parlor.sh",
+    "description": "Rooms where agents talk to each other. A room is a URL: no accounts, nothing to install, plain HTTP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dariorapisardi",
+    "repoName": "parlor.sh",
+    "repoBranch": "main"
+  },
+  "wolfqing/QadvisorSkills": {
+    "name": "wolfqing/QadvisorSkills",
+    "description": "An AI advisory board for Claude: 17 documented thinking frameworks (Munger, Buffett, Jobs, Sun Tzu, Paul Graham, Karpathy\u2026) reframe your question, debate, and return a verdict report. Claude Code plugin + Agent Skills...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wolfqing",
+    "repoName": "QadvisorSkills",
+    "repoBranch": "main"
+  },
+  "Lunik/gmz-claude-marketplace": {
+    "name": "Lunik/gmz-claude-marketplace",
+    "description": "Claude Code plugin marketplace: status bands for usage limits, context/cache, LLM speed, rtk savings and model/effort switching",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lunik",
+    "repoName": "gmz-claude-marketplace",
+    "repoBranch": "master"
+  },
+  "desuqcafe/cc-mascot": {
+    "name": "desuqcafe/cc-mascot",
+    "description": "Anime desktop mascots for Claude Code. Hatsune Miku or Yunseul react live as Claude thinks, runs tools, waits on you and finishes. Windows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "desuqcafe",
+    "repoName": "cc-mascot",
+    "repoBranch": "main"
+  },
+  "ugglr/claude-token-monster": {
+    "name": "ugglr/claude-token-monster",
+    "description": "A pixel-art Tamagotchi for your Claude Code context window: a mod that eats tokens and shows context, limits and activity at a glance",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ugglr",
+    "repoName": "claude-token-monster",
+    "repoBranch": "main"
+  },
+  "emeraldleaf/okl": {
+    "name": "emeraldleaf/okl",
+    "description": "Lessons your coding agent can trust: briefed before every task, proven by checks, and flagged when the code they cover changes. Works with Claude Code and any MCP agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emeraldleaf",
+    "repoName": "okl",
+    "repoBranch": "main"
+  },
+  "ceejbot/ceej-skills": {
+    "name": "ceejbot/ceej-skills",
+    "description": "some skillz",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ceejbot",
+    "repoName": "ceej-skills",
+    "repoBranch": "latest"
+  },
+  "ajinkyalahade/iOS-Dev-ClaudeCode-Skills": {
+    "name": "ajinkyalahade/iOS-Dev-ClaudeCode-Skills",
+    "description": "174 iOS 27-ready Claude Code skills: build, test, and ship iPhone apps by describing them",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ajinkyalahade",
+    "repoName": "iOS-Dev-ClaudeCode-Skills",
+    "repoBranch": "main"
+  },
+  "nrzz/claude-code-toolkit": {
+    "name": "nrzz/claude-code-toolkit",
+    "description": "Nine small, dependency-free tools that make Claude Code cheaper, safer and easier to share: one plugin marketplace, tested together on Windows, macOS and Linux.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nrzz",
+    "repoName": "claude-code-toolkit",
+    "repoBranch": "main"
+  },
+  "jakec-dev/jakec-dev-marketplace": {
+    "name": "jakec-dev/jakec-dev-marketplace",
+    "description": "Claude Code plugins. agent-setup keeps a repository's Claude Code setup current as Claude Code changes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jakec-dev",
+    "repoName": "jakec-dev-marketplace",
+    "repoBranch": "master"
+  },
+  "LorcanChinnock/claude-desk-neighbours": {
+    "name": "LorcanChinnock/claude-desk-neighbours",
+    "description": "Seven small Claude Code mods that sit under your prompt: remember corrections, flag unanswered questions, check \"fixed!\" claims, trim noisy output, catch you up, show your work, and close out PRs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LorcanChinnock",
+    "repoName": "claude-desk-neighbours",
+    "repoBranch": "main"
+  },
+  "varunmoka7/layman": {
+    "name": "varunmoka7/layman",
+    "description": "Claude Code plugin: plain-language replies when you ask for them. Say layman, I'm lost or explain again.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "varunmoka7",
+    "repoName": "layman",
+    "repoBranch": "main"
+  },
+  "mako-code/gobworks": {
+    "name": "mako-code/gobworks",
+    "description": "Unofficial mods for Claude Code: 118 mods, presets and a terminal manager, run by Gob the goblin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mako-code",
+    "repoName": "gobworks",
+    "repoBranch": "main"
+  },
+  "proskillpacks/shopify-store-skills": {
+    "name": "proskillpacks/shopify-store-skills",
+    "description": "Free, tested Agent Skills for Shopify store owners: image alt text, policy audit, title cleanup, review replies and an AI-agent readiness check.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "proskillpacks",
+    "repoName": "shopify-store-skills",
+    "repoBranch": "main"
+  },
+  "potto007/ottomation": {
+    "name": "potto007/ottomation",
+    "description": "ottomation: a Claude Code plugin marketplace (live-vibe: full-duplex voice and director mode)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "potto007",
+    "repoName": "ottomation",
+    "repoBranch": "main"
   }
 }
