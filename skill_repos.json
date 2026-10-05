@@ -43328,6 +43328,13 @@
         "skillsPath": "skills",
         "enabled": true
     },
+    "alapha888/session-handoff-kit": {
+        "owner": "alapha888",
+        "name": "session-handoff-kit",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
     "stas4000/what-could-break": {
         "owner": "stas4000",
         "name": "what-could-break",
