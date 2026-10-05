@@ -35263,5 +35263,131 @@
     "repoOwner": "CommonElements",
     "repoName": "tsg-claude-plugins",
     "repoBranch": "main"
+  },
+  "dev-toolings/superpowers-symfony": {
+    "name": "dev-toolings/superpowers-symfony",
+    "description": "Claude Code plugin for Symfony 7.4 LTS & 8.x \u2014 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dev-toolings",
+    "repoName": "superpowers-symfony",
+    "repoBranch": "main"
+  },
+  "Raven-Scout/Scout": {
+    "name": "Raven-Scout/Scout",
+    "description": "Autonomous daily briefing for Claude Code that cross-checks Slack, Gmail, Calendar, Linear & GitHub \u2014 so nothing falls through the cracks, and you can trust what it surfaces.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Raven-Scout",
+    "repoName": "Scout",
+    "repoBranch": "main"
+  },
+  "xianyu110/ecommerce-video-skills": {
+    "name": "xianyu110/ecommerce-video-skills",
+    "description": "12 \u4e2a\u7535\u5546\u77ed\u89c6\u9891 Agent Skills\uff1a3\u79d2\u94a9\u5b50\u3001\u5356\u70b9\u5206\u955c\u3001\u56fe\u751f\u89c6\u9891\u63d0\u793a\u8bcd\u3001edge-tts \u914d\u97f3\u3001\u5b57\u5e55\u82b1\u5b57\u3001ffmpeg \u81ea\u52a8\u6210\u7247\u3001\u6296\u97f3/TikTok Shop/\u89c6\u9891\u53f7\u5bfc\u51fa\u3001\u76f4\u64ad\u5207\u7247\u3001\u591a\u8bed\u8a00\u914d\u97f3\u3001\u5c01\u9762A/B \u00b7 Claude Code / Codex / Cursor",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xianyu110",
+    "repoName": "ecommerce-video-skills",
+    "repoBranch": "main"
+  },
+  "ysskrishna/ai-agent-skills": {
+    "name": "ysskrishna/ai-agent-skills",
+    "description": "Structured thinking skills for AI agents: brainstorming, decision support, systems thinking, and strategy. Built for Claude Code & Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ysskrishna",
+    "repoName": "ai-agent-skills",
+    "repoBranch": "main"
+  },
+  "harshadmadaye/OPM": {
+    "name": "harshadmadaye/OPM",
+    "description": "Claude Code plugin: brainstorm \u2192 plan \u2192 TDD with subagents \u2192 verified done. Fewer tokens, no fake 'tests pass'.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "harshadmadaye",
+    "repoName": "OPM",
+    "repoBranch": "main"
+  },
+  "toppynl/ecom-copycat-takedown": {
+    "name": "toppynl/ecom-copycat-takedown",
+    "description": "Merk-neutraal takedown-draaiboek (Claude-skill) voor namaak-/phishingwebshops: recon, bewijs, dossier en meldingen voor registrar/host/Cloudflare/Safe Browsing",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "toppynl",
+    "repoName": "ecom-copycat-takedown",
+    "repoBranch": "main"
+  },
+  "ismaildasci/claude-referee": {
+    "name": "ismaildasci/claude-referee",
+    "description": "Evidence over eloquence. Unofficial Claude Code plugin that checks \"done\" claims and small judgement calls with TypeSafe Jev, and keeps receipts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ismaildasci",
+    "repoName": "claude-referee",
+    "repoBranch": "main"
+  },
+  "mariomile/builder-os": {
+    "name": "mariomile/builder-os",
+    "description": "BuilderOS: the operating system for product builders. Eight gated phases from an idea to a product in production, with source-tagged evidence and zero prerequisites.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mariomile",
+    "repoName": "builder-os",
+    "repoBranch": "main"
+  },
+  "manson341349-beep/claude-desktop-mods": {
+    "name": "manson341349-beep/claude-desktop-mods",
+    "description": "Unofficial mods for the Code tab of Claude Desktop \u2014 usage-pet: a usage band with Clawd, an animated pixel pet. Light & dark, English & \u4e2d\u6587.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "manson341349-beep",
+    "repoName": "claude-desktop-mods",
+    "repoBranch": "main"
+  },
+  "effectustasi/agent-receipts": {
+    "name": "effectustasi/agent-receipts",
+    "description": "Claude Code skills & plugin that make AI coding agents (Codex, Cursor, Copilot) prove 'done' with real test output. No hallucinated APIs, no blind bug fixes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "effectustasi",
+    "repoName": "agent-receipts",
+    "repoBranch": "main"
+  },
+  "omarcevi/claudemods": {
+    "name": "omarcevi/claudemods",
+    "description": "Community Claude mods, plugins & skills, installable from one marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "omarcevi",
+    "repoName": "claudemods",
+    "repoBranch": "main"
+  },
+  "sagaga144/claude-harness-bootstrap": {
+    "name": "sagaga144/claude-harness-bootstrap",
+    "description": "Generate a project-specific Claude Code harness (CLAUDE.md, hooks, subagents, commands) from one paragraph. Any stack. Eval-tested.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sagaga144",
+    "repoName": "claude-harness-bootstrap",
+    "repoBranch": "main"
+  },
+  "jeremehancock/cinemetric": {
+    "name": "jeremehancock/cinemetric",
+    "description": "Claude skills for your Plex server: read-only reports on your media library. (WIP)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jeremehancock",
+    "repoName": "cinemetric",
+    "repoBranch": "main"
+  },
+  "Ahorns/BBilingual": {
+    "name": "Ahorns/BBilingual",
+    "description": "Claude Code plugin: prompt in English, read the answer in your language. Shows a display-only translation under every reply. Local models, any OpenAI-compatible API, DeepL or your own command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ahorns",
+    "repoName": "BBilingual",
+    "repoBranch": "main"
   }
 }

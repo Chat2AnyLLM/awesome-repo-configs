@@ -5847,5 +5847,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "harshadmadaye/OPM": {
+    "owner": "harshadmadaye",
+    "name": "OPM",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mariomile/builder-os": {
+    "owner": "mariomile",
+    "name": "builder-os",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

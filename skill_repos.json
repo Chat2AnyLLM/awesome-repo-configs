@@ -43556,5 +43556,97 @@
         "name": "tsg-claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "dev-toolings/superpowers-symfony": {
+        "owner": "dev-toolings",
+        "name": "superpowers-symfony",
+        "branch": "main",
+        "enabled": true
+    },
+    "Raven-Scout/Scout": {
+        "owner": "Raven-Scout",
+        "name": "Scout",
+        "branch": "main",
+        "enabled": true
+    },
+    "xianyu110/ecommerce-video-skills": {
+        "owner": "xianyu110",
+        "name": "ecommerce-video-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ysskrishna/ai-agent-skills": {
+        "owner": "ysskrishna",
+        "name": "ai-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "amirtaherkhani/nestjs-skills": {
+        "owner": "amirtaherkhani",
+        "name": "nestjs-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "harshadmadaye/OPM": {
+        "owner": "harshadmadaye",
+        "name": "OPM",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "toppynl/ecom-copycat-takedown": {
+        "owner": "toppynl",
+        "name": "ecom-copycat-takedown",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ismaildasci/claude-referee": {
+        "owner": "ismaildasci",
+        "name": "claude-referee",
+        "branch": "main",
+        "enabled": true
+    },
+    "mariomile/builder-os": {
+        "owner": "mariomile",
+        "name": "builder-os",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "effectustasi/agent-receipts": {
+        "owner": "effectustasi",
+        "name": "agent-receipts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "display-dev/product-film": {
+        "owner": "display-dev",
+        "name": "product-film",
+        "branch": "main",
+        "enabled": true
+    },
+    "sagaga144/claude-harness-bootstrap": {
+        "owner": "sagaga144",
+        "name": "claude-harness-bootstrap",
+        "branch": "main",
+        "enabled": true
+    },
+    "jeremehancock/cinemetric": {
+        "owner": "jeremehancock",
+        "name": "cinemetric",
+        "branch": "main",
+        "enabled": true
+    },
+    "noenoenoenoenoe/m2-n8n": {
+        "owner": "noenoenoenoenoe",
+        "name": "m2-n8n",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
