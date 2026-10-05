@@ -43445,5 +43445,116 @@
         "name": "java-agent-skills",
         "branch": "main",
         "enabled": true
+    },
+    "SyncSo-Inc/syncso": {
+        "owner": "SyncSo-Inc",
+        "name": "syncso",
+        "branch": "main",
+        "enabled": true
+    },
+    "brettdavies/crawl4ai-skill": {
+        "owner": "brettdavies",
+        "name": "crawl4ai-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dleerdefi/claude-code-construction": {
+        "owner": "dleerdefi",
+        "name": "claude-code-construction",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ShrugYu/game-client-to-server-reverse": {
+        "owner": "ShrugYu",
+        "name": "game-client-to-server-reverse",
+        "branch": "main",
+        "enabled": true
+    },
+    "SkillMedev/skills": {
+        "owner": "SkillMedev",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fraylabs/possible": {
+        "owner": "fraylabs",
+        "name": "possible",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NarenDawar/narens-claude-toolkit": {
+        "owner": "NarenDawar",
+        "name": "narens-claude-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "tdlyons/reel-factory": {
+        "owner": "tdlyons",
+        "name": "reel-factory",
+        "branch": "main",
+        "enabled": true
+    },
+    "keithmackay/scanskillsafety-skill": {
+        "owner": "keithmackay",
+        "name": "scanskillsafety-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "keithmackay/tokentamer": {
+        "owner": "keithmackay",
+        "name": "tokentamer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "keithmackay/plsfix": {
+        "owner": "keithmackay",
+        "name": "plsfix",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Rurimpa/caas": {
+        "owner": "Rurimpa",
+        "name": "caas",
+        "branch": "main",
+        "enabled": true
+    },
+    "pahlevikun/levistack": {
+        "owner": "pahlevikun",
+        "name": "levistack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "basitalisandhu/claude-skills": {
+        "owner": "basitalisandhu",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Rurimpa/cross-session-messaging": {
+        "owner": "Rurimpa",
+        "name": "cross-session-messaging",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "paureis/pau-skills": {
+        "owner": "paureis",
+        "name": "pau-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "CommonElements/tsg-claude-plugins": {
+        "owner": "CommonElements",
+        "name": "tsg-claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

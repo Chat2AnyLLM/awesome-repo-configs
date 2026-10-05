@@ -5840,5 +5840,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "pahlevikun/levistack": {
+    "owner": "pahlevikun",
+    "name": "levistack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

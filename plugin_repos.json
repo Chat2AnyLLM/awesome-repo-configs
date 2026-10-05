@@ -35155,5 +35155,113 @@
     "repoOwner": "yylo-dev",
     "repoName": "yylo-skills",
     "repoBranch": "main"
+  },
+  "SyncSo-Inc/syncso": {
+    "name": "SyncSo-Inc/syncso",
+    "description": "Let your agents understand what's happening locally, in real time \u2014 every experience across a city, with times, prices, booking links and images",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SyncSo-Inc",
+    "repoName": "syncso",
+    "repoBranch": "main"
+  },
+  "dleerdefi/claude-code-construction": {
+    "name": "dleerdefi/claude-code-construction",
+    "description": "Claude Code skills for construction professionals.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dleerdefi",
+    "repoName": "claude-code-construction",
+    "repoBranch": "main"
+  },
+  "NarenDawar/narens-claude-toolkit": {
+    "name": "NarenDawar/narens-claude-toolkit",
+    "description": "Naren's Claude toolkit: skills, mods and MCP servers for Claude Code. One-command install via plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NarenDawar",
+    "repoName": "narens-claude-toolkit",
+    "repoBranch": "main"
+  },
+  "KyongSik-Yoon/claude-mods": {
+    "name": "KyongSik-Yoon/claude-mods",
+    "description": "Claude Code mods (plugin marketplace)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KyongSik-Yoon",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "Rurimpa/caas": {
+    "name": "Rurimpa/caas",
+    "description": "CAAS (Chat\u2013Agent Auto Session): talk only to your everyday Claude.ai conversation; running Claude Code sessions do the work and wake the same conversation with the result. Includes a tool-limiting MCP gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rurimpa",
+    "repoName": "caas",
+    "repoBranch": "main"
+  },
+  "pahlevikun/levistack": {
+    "name": "pahlevikun/levistack",
+    "description": "Agent skills for people tired of AI slop. 35 skills, 11 subagents, 41 rules and 5 hooks for Claude Code, Cursor and Codex. Verifies before it says done.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pahlevikun",
+    "repoName": "levistack",
+    "repoBranch": "main"
+  },
+  "basitalisandhu/claude-skills": {
+    "name": "basitalisandhu/claude-skills",
+    "description": "Claude Code skills, every skill I maintain in one repository: 87 skills in 13 plugins for AWS and Microsoft 365 security, agent security, compliance evidence, repository engineering, debugging, DevOps, docs and data,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "basitalisandhu",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Rurimpa/cross-session-messaging": {
+    "name": "Rurimpa/cross-session-messaging",
+    "description": "A Claude Code skill for talking between AI sessions on the same PC (Claude Code and OpenAI Codex): who answers back, how to carry a human's approval, and why 'sent' is not 'read'. Install in 2 lines.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rurimpa",
+    "repoName": "cross-session-messaging",
+    "repoBranch": "main"
+  },
+  "simplecore-inc/claude-mods": {
+    "name": "simplecore-inc/claude-mods",
+    "description": "Claude Code plugins (mods): switch between several Claude accounts, watch usage limits in a status band, and manage agents, worktrees, checkpoints and diffs in a terminal pane",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "simplecore-inc",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "paureis/pau-skills": {
+    "name": "paureis/pau-skills",
+    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paureis",
+    "repoName": "pau-skills",
+    "repoBranch": "main"
+  },
+  "varunmoka7/side-chat": {
+    "name": "varunmoka7/side-chat",
+    "description": "Ask Claude a side question in a pane next to your work. The main conversation never sees it. Works like the desktop app's /btw.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "varunmoka7",
+    "repoName": "side-chat",
+    "repoBranch": "main"
+  },
+  "CommonElements/tsg-claude-plugins": {
+    "name": "CommonElements/tsg-claude-plugins",
+    "description": "Claude Code plugins for The Schoeller Group's products: SourceFinch and Voydar",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CommonElements",
+    "repoName": "tsg-claude-plugins",
+    "repoBranch": "main"
   }
 }
