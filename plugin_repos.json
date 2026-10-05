@@ -35151,7 +35151,7 @@
     "name": "yylo-skills",
     "description": "Reusable agent skills maintained by YYLO. The canonical, independently versioned source for skills used by YYLO CLI and YYLO Ledger: ledger task management, wiki, workflow and artifact records, project understanding, planning, benchmark studies, and the Ralph execution loop.",
     "enabled": true,
-    "type": "marketplace",
+    "type": "plugin",
     "repoOwner": "yylo-dev",
     "repoName": "yylo-skills",
     "repoBranch": "main"
