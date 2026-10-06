@@ -1,4 +1,13 @@
 {
+  "petrovicistefan/claude-code-plugins": {
+    "name": "claude-code-plugins",
+    "description": "Marketplace of 30 MIT-licensed plugins for everyday development work: secrets scanning, API drift, OpenAPI docs, DB schema, accessibility, CI and Docker checks, bundle size and more. Skills use the Agent Skills format.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "petrovicistefan",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
   "liza-studio/skillmem": {
     "name": "skillmem",
     "description": "Self-improving skill memory for Claude Code and Codex: agents learn how they solved a task, recall it next time, reinforce what works and forget the rest. Local SQLite + FTS5, 9 MCP tools, no API key.",
