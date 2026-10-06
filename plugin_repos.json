@@ -35821,5 +35821,14 @@
     "repoOwner": "Remporte-dev",
     "repoName": "remporte-appels-offres",
     "repoBranch": "main"
+  },
+  "negm17111995/mcp-server": {
+    "name": "maqami-travel",
+    "description": "Hotel and flight search and booking through MAQAMI's remote MCP server (https://mcp.maqami.co/, Streamable HTTP, no API key): search hotels (3M+) and flights, read hotel details, then prebook and book after the user confirms.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "negm17111995",
+    "repoName": "mcp-server",
+    "repoBranch": "main"
   }
 }
