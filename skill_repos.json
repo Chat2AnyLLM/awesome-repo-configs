@@ -43831,5 +43831,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "asrplv/ailibri-skill": {
+        "owner": "asrplv",
+        "name": "ailibri-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
