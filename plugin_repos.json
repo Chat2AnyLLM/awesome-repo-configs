@@ -35668,5 +35668,14 @@
     "repoOwner": "Paradigm-Study",
     "repoName": "claude-share",
     "repoBranch": "main"
+  },
+  "asrplv/ailibri-skill": {
+    "name": "ailibri",
+    "description": "Find the right AI tool for a task in the ailibri.com catalog (3000+ AI services, Russian-language): pricing, free tier limits, availability from Russia, alternatives. No API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asrplv",
+    "repoName": "ailibri-skill",
+    "repoBranch": "main"
   }
 }
