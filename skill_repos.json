@@ -43937,5 +43937,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "negm17111995/mcp-server": {
+        "owner": "negm17111995",
+        "name": "mcp-server",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
