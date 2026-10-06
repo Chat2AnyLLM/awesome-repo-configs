@@ -35686,5 +35686,140 @@
     "repoOwner": "asrplv",
     "repoName": "ailibri-skill",
     "repoBranch": "main"
+  },
+  "QingYunA/answer-me-with-html": {
+    "name": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QingYunA",
+    "repoName": "answer-me-with-html",
+    "repoBranch": "main"
+  },
+  "chengmarc/wechat-to-ai": {
+    "name": "chengmarc/wechat-to-ai",
+    "description": "\u5fae\u4fe1.skill\uff1a\u8ba9 AI \u8bfb\u61c2\u4f60\u7684\u5fae\u4fe1\uff0c\u4e24\u53e5\u8bdd\u5b89\u88c5\uff0c\u6570\u636e\u5168\u7a0b\u4e0d\u4e0a\u4f20\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chengmarc",
+    "repoName": "wechat-to-ai",
+    "repoBranch": "main"
+  },
+  "markneonin/paneline": {
+    "name": "markneonin/paneline",
+    "description": "Claude Code mod (plugin) that adds a side pane with Activity, Files, Agents, Context and MCP tabs, a status line above the prompt, a restyled chat, Mermaid diagrams in the terminal, tables, and code and diff panels. C...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "markneonin",
+    "repoName": "paneline",
+    "repoBranch": "main"
+  },
+  "zzoretich/AgenticOS-Workbench": {
+    "name": "zzoretich/AgenticOS-Workbench",
+    "description": "A second brain and supervised Chief of Staff for Claude Code and Codex CLI: persistent memory, recall and session capture, plus proposals you approve before anything changes. Lives in a plain-Markdown vault, with Agen...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zzoretich",
+    "repoName": "AgenticOS-Workbench",
+    "repoBranch": "main"
+  },
+  "123ccw/anime-collection-book": {
+    "name": "123ccw/anime-collection-book",
+    "description": "Turn a list of anime names (or a local video library) into a magazine-style PDF collection book \u2014 official posters, synopses, cast & staff, watch order, per-season spoiler guides, bookmarks\uff5c\u628a\u756a\u5267\u6e05\u5355\u505a\u6210\u6742\u5fd7\u98ce\u6536\u85cf\u518c PDF \u7684 Agent S...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "123ccw",
+    "repoName": "anime-collection-book",
+    "repoBranch": "main"
+  },
+  "sriinnu/omit": {
+    "name": "sriinnu/omit",
+    "description": "Omit needless code. Editorial discipline for AI coding agents: draft less, cite everything, cut last.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sriinnu",
+    "repoName": "omit",
+    "repoBranch": "main"
+  },
+  "shabash-dev/shabash-plugins": {
+    "name": "shabash-dev/shabash-plugins",
+    "description": "Claude Code and Codex plugin: daily standup, brag doc, session search, chat export and lost-session recovery from your own history. Free, from Shabash.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shabash-dev",
+    "repoName": "shabash-plugins",
+    "repoBranch": "main"
+  },
+  "Singh-AP/awesome-claude-mods": {
+    "name": "Singh-AP/awesome-claude-mods",
+    "description": "\ud83e\udde9 Tested, one-command-install Claude Code mods: guardrails for YOLO mode, live cost & context, panes, pets and more. Plus a curated list of the best community mods.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Singh-AP",
+    "repoName": "awesome-claude-mods",
+    "repoBranch": "main"
+  },
+  "PiSchool/pischool-marketplace": {
+    "name": "PiSchool/pischool-marketplace",
+    "description": "Pi School's Claude Code plugin marketplace: skills, hooks and subagents for teams working with coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PiSchool",
+    "repoName": "pischool-marketplace",
+    "repoBranch": "main"
+  },
+  "achapla/cc-mods": {
+    "name": "achapla/cc-mods",
+    "description": "Small mods for Claude Code: a usage line, safety checks before risky commands, prompt snippets, and sounds.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "achapla",
+    "repoName": "cc-mods",
+    "repoBranch": "main"
+  },
+  "gauravlahoti/claude-mods": {
+    "name": "gauravlahoti/claude-mods",
+    "description": "Claude Code mods by Gaurav Lahoti: token-weather, cache-meter, gauravs-panel",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gauravlahoti",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "Salish-Studios/quotacove": {
+    "name": "Salish-Studios/quotacove",
+    "description": "Get more out of the AI plan you already pay for. Scores each Claude Code prompt locally and routes it to the cheapest capable model: per-prompt suggestions, cheap-model subagent routing, an enforced model ceiling, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Salish-Studios",
+    "repoName": "quotacove",
+    "repoBranch": "main"
+  },
+  "nexika/nexika": {
+    "name": "nexika/nexika",
+    "description": "The next wisdom for Claude Code: plugins that make Claude work smarter and help people learn deeper. First plugin: prof, a personal programming professor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nexika",
+    "repoName": "nexika",
+    "repoBranch": "main"
+  },
+  "jackburrus/topology-index": {
+    "name": "jackburrus/topology-index",
+    "description": "Multi-agent topology patterns for AI agents: orchestrator-worker, planner-executor, evaluator-optimizer, map-reduce, router, debate, swarm. Mirror of topologyindex.com + Agent Skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jackburrus",
+    "repoName": "topology-index",
+    "repoBranch": "main"
+  },
+  "Remporte-dev/remporte-appels-offres": {
+    "name": "Remporte-dev/remporte-appels-offres",
+    "description": "CLI et plugin Claude Code open source pour r\u00e9pondre aux appels d'offres publics (DCE, m\u00e9moire technique, DC1/DC2/DC4) avec votre agent IA.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Remporte-dev",
+    "repoName": "remporte-appels-offres",
+    "repoBranch": "main"
   }
 }

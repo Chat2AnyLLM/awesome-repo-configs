@@ -5882,5 +5882,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "alexsmedile/pricing-skills": {
+    "owner": "alexsmedile",
+    "name": "pricing-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Remporte-dev/remporte-appels-offres": {
+    "owner": "Remporte-dev",
+    "name": "remporte-appels-offres",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

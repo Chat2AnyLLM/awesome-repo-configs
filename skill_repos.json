@@ -43838,5 +43838,104 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "QingYunA/answer-me-with-html": {
+        "owner": "QingYunA",
+        "name": "answer-me-with-html",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chengmarc/wechat-to-ai": {
+        "owner": "chengmarc",
+        "name": "wechat-to-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "markneonin/paneline": {
+        "owner": "markneonin",
+        "name": "paneline",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "zzoretich/AgenticOS-Workbench": {
+        "owner": "zzoretich",
+        "name": "AgenticOS-Workbench",
+        "branch": "main",
+        "enabled": true
+    },
+    "alexsmedile/pricing-skills": {
+        "owner": "alexsmedile",
+        "name": "pricing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "123ccw/anime-collection-book": {
+        "owner": "123ccw",
+        "name": "anime-collection-book",
+        "branch": "main",
+        "enabled": true
+    },
+    "sriinnu/omit": {
+        "owner": "sriinnu",
+        "name": "omit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thomasguillot/typography-skills": {
+        "owner": "thomasguillot",
+        "name": "typography-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "PawanSirsat/Laika": {
+        "owner": "PawanSirsat",
+        "name": "Laika",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "shabash-dev/shabash-plugins": {
+        "owner": "shabash-dev",
+        "name": "shabash-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PiSchool/pischool-marketplace": {
+        "owner": "PiSchool",
+        "name": "pischool-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "Salish-Studios/quotacove": {
+        "owner": "Salish-Studios",
+        "name": "quotacove",
+        "branch": "main",
+        "enabled": true
+    },
+    "nexika/nexika": {
+        "owner": "nexika",
+        "name": "nexika",
+        "branch": "main",
+        "enabled": true
+    },
+    "jackburrus/topology-index": {
+        "owner": "jackburrus",
+        "name": "topology-index",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Remporte-dev/remporte-appels-offres": {
+        "owner": "Remporte-dev",
+        "name": "remporte-appels-offres",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
