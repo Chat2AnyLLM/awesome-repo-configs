@@ -35839,5 +35839,131 @@
     "repoOwner": "stefanautomateed",
     "repoName": "shipvela-codex",
     "repoBranch": "main"
+  },
+  "CrossRead/scholion": {
+    "name": "CrossRead/scholion",
+    "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. This reads them against each other, with the source behind every answer \u2014 one local engine behind a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CrossRead",
+    "repoName": "scholion",
+    "repoBranch": "main"
+  },
+  "jongos/Dazzler": {
+    "name": "jongos/Dazzler",
+    "description": "Dazzler: frontend design skill for AI with expressive typography, vibrant color theory, and purposeful interfaces.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jongos",
+    "repoName": "Dazzler",
+    "repoBranch": "main"
+  },
+  "FynnXland/fynn-mods": {
+    "name": "FynnXland/fynn-mods",
+    "description": "Six mods for Claude Code: animated Clawd mascot, usage-limit and prompt-cache bars, a pre-send message checker, quick replies, a to-do queue and a cost ledger. Terminal and desktop app, English/German.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FynnXland",
+    "repoName": "fynn-mods",
+    "repoBranch": "main"
+  },
+  "lianmatsuo/remcycle": {
+    "name": "lianmatsuo/remcycle",
+    "description": "Garbage collection for Claude Code's memory. A mod that rereads your sessions every day, keeps what you decided, and questions the notes that have gone stale.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lianmatsuo",
+    "repoName": "remcycle",
+    "repoBranch": "main"
+  },
+  "kangraemin/ralph-x": {
+    "name": "kangraemin/ralph-x",
+    "description": "Interactive AI development loop with mode selection \u2014 choose your pipeline before you start",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kangraemin",
+    "repoName": "ralph-x",
+    "repoBranch": "main"
+  },
+  "MikeHeid/console-kit": {
+    "name": "MikeHeid/console-kit",
+    "description": "Answer your AI agents' questions from a web page behind Cloudflare Access: lock answers as rulings, render Mermaid visuals inline, star what matters, settle stale rulings, review your dashboard and PRs, and run roar/r...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MikeHeid",
+    "repoName": "console-kit",
+    "repoBranch": "main"
+  },
+  "SeongGwangJu/k-mods": {
+    "name": "SeongGwangJu/k-mods",
+    "description": "\ud55c\uad6d\uc5b4\ub85c \uace0\ub974\uace0 \ud55c \uc904\ub85c \uc124\uce58\ud558\ub294 Claude Code mods \ubaa8\uc74c \u00b7 Korean-curated, commit-pinned Claude Code mods",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SeongGwangJu",
+    "repoName": "k-mods",
+    "repoBranch": "main"
+  },
+  "mano7onam/puenteo": {
+    "name": "mano7onam/puenteo",
+    "description": "Let your coding agents talk to each other: search every Claude Code / Codex / Gemini / Cursor session and message live sessions. CLI \u00b7 MCP \u00b7 hooks \u00b7 HTTP/SSE \u00b7 A2A.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mano7onam",
+    "repoName": "puenteo",
+    "repoBranch": "main"
+  },
+  "somesh-ghaturle/agentic-boundary-terraform-skills": {
+    "name": "somesh-ghaturle/agentic-boundary-terraform-skills",
+    "description": "Human-in-the-loop deployment of Agentic-AI-Systems agents on AWS, Azure, GCP or Snowflake, with security review and regulated-environment evidence. Only a human applies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "somesh-ghaturle",
+    "repoName": "agentic-boundary-terraform-skills",
+    "repoBranch": "main"
+  },
+  "PickleBoxer/pstack": {
+    "name": "PickleBoxer/pstack",
+    "description": "pstack for Claude Code: poteto's rigorous engineering skills (poteto-mode, how/why, architect, verification), ported from Cursor and kept in sync with upstream",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PickleBoxer",
+    "repoName": "pstack",
+    "repoBranch": "main"
+  },
+  "PickleBoxer/claude-plugins": {
+    "name": "PickleBoxer/claude-plugins",
+    "description": "Claude Code mods by PickleBoxer: burn, drift and peek in one marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PickleBoxer",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "MarioAer/claude-plugins": {
+    "name": "MarioAer/claude-plugins",
+    "description": "Claude Code plugin marketplace. backlog: capture deferred tasks mid-session without interrupting the current task.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MarioAer",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "arcadeJHS/claude-code-mods": {
+    "name": "arcadeJHS/claude-code-mods",
+    "description": "Mods for the Claude Code terminal: bookmarks and more. Installable as a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arcadeJHS",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "shabash-dev/skill-check": {
+    "name": "shabash-dev/skill-check",
+    "description": "Security scanner for Claude Code and Codex skills, plugins, hooks and MCP servers: hidden instructions, prompt injection, data sent out. Free plugin from Shabash.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shabash-dev",
+    "repoName": "skill-check",
+    "repoBranch": "main"
   }
 }

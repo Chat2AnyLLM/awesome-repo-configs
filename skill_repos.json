@@ -43944,5 +43944,103 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "CrossRead/scholion": {
+        "owner": "CrossRead",
+        "name": "scholion",
+        "branch": "main",
+        "enabled": true
+    },
+    "jongos/Dazzler": {
+        "owner": "jongos",
+        "name": "Dazzler",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FynnXland/fynn-mods": {
+        "owner": "FynnXland",
+        "name": "fynn-mods",
+        "branch": "main",
+        "enabled": true
+    },
+    "kangraemin/ralph-x": {
+        "owner": "kangraemin",
+        "name": "ralph-x",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MikeHeid/console-kit": {
+        "owner": "MikeHeid",
+        "name": "console-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "SeongGwangJu/k-mods": {
+        "owner": "SeongGwangJu",
+        "name": "k-mods",
+        "branch": "main",
+        "enabled": true
+    },
+    "mano7onam/puenteo": {
+        "owner": "mano7onam",
+        "name": "puenteo",
+        "branch": "main",
+        "enabled": true
+    },
+    "wq2581/scholar-tracing": {
+        "owner": "wq2581",
+        "name": "scholar-tracing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CompleteTech-LLC/org-time-tracking-skill": {
+        "owner": "CompleteTech-LLC",
+        "name": "org-time-tracking-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "0xSelenicDove/auv-computer-control-skill": {
+        "owner": "0xSelenicDove",
+        "name": "auv-computer-control-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "somesh-ghaturle/agentic-boundary-terraform-skills": {
+        "owner": "somesh-ghaturle",
+        "name": "agentic-boundary-terraform-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PickleBoxer/pstack": {
+        "owner": "PickleBoxer",
+        "name": "pstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tperkowitz-tech/ballot-guide": {
+        "owner": "tperkowitz-tech",
+        "name": "ballot-guide",
+        "branch": "main",
+        "enabled": true
+    },
+    "MarioAer/claude-plugins": {
+        "owner": "MarioAer",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "shabash-dev/skill-check": {
+        "owner": "shabash-dev",
+        "name": "skill-check",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

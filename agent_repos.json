@@ -5896,5 +5896,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "PickleBoxer/pstack": {
+    "owner": "PickleBoxer",
+    "name": "pstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
