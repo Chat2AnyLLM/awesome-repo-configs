@@ -43655,5 +43655,102 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "thiagoxikota/figma-maxxing": {
+        "owner": "thiagoxikota",
+        "name": "figma-maxxing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nerviz-ai/nerviz": {
+        "owner": "nerviz-ai",
+        "name": "nerviz",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "MehranQadirian/skills": {
+        "owner": "MehranQadirian",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Bencal18/Custom-AMS-Skills": {
+        "owner": "Bencal18",
+        "name": "Custom-AMS-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jokesflow/mind-palace": {
+        "owner": "Jokesflow",
+        "name": "mind-palace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johantor/crew": {
+        "owner": "johantor",
+        "name": "crew",
+        "branch": "main",
+        "enabled": true
+    },
+    "chrisamz/crypto-skills": {
+        "owner": "chrisamz",
+        "name": "crypto-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "AJ888/promptbrake-skills": {
+        "owner": "AJ888",
+        "name": "promptbrake-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "AraneaDev/aranea-marketplace": {
+        "owner": "AraneaDev",
+        "name": "aranea-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hula-Hoop-AI/supermods": {
+        "owner": "Hula-Hoop-AI",
+        "name": "supermods",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "drdickgraysonjr/chalkery": {
+        "owner": "drdickgraysonjr",
+        "name": "chalkery",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tulgs61/claude-plugins": {
+        "owner": "Tulgs61",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "miyanko-dev/wow-addon-dev": {
+        "owner": "miyanko-dev",
+        "name": "wow-addon-dev",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "martin-cousseau/pstack-claude": {
+        "owner": "martin-cousseau",
+        "name": "pstack-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "testy-cool/claude-agent-portraits": {
+        "owner": "testy-cool",
+        "name": "claude-agent-portraits",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

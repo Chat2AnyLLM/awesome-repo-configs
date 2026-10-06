@@ -35389,5 +35389,140 @@
     "repoOwner": "Ahorns",
     "repoName": "BBilingual",
     "repoBranch": "main"
+  },
+  "thiagoxikota/figma-maxxing": {
+    "name": "thiagoxikota/figma-maxxing",
+    "description": "8 agent skills for real Figma files, for Claude Code, Codex, Copilot CLI and Gemini CLI: 90 Plugin API gotchas, checks before and after every write, a handoff gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thiagoxikota",
+    "repoName": "figma-maxxing",
+    "repoBranch": "main"
+  },
+  "Jokesflow/mind-palace": {
+    "name": "Jokesflow/mind-palace",
+    "description": "\ud83e\udde0 Persistent project memory for Claude Code. Decisions, conventions and open tasks auto-load into every session and survive /clear and compaction. Blind A/B: 10/10 vs 8.3/10 when continuing work. Zero-dependency hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jokesflow",
+    "repoName": "mind-palace",
+    "repoBranch": "main"
+  },
+  "johantor/crew": {
+    "name": "johantor/crew",
+    "description": "Claude Code plugin: an orchestrated crew of agents that ships .NET and Optimizely features (CMS, Graph, Commerce, Opal) behind a review gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johantor",
+    "repoName": "crew",
+    "repoBranch": "main"
+  },
+  "chrisamz/crypto-skills": {
+    "name": "chrisamz/crypto-skills",
+    "description": "Claude skills for crypto research: audit backtests, copy-trading results and wallet claims for the statistical traps that fake an edge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chrisamz",
+    "repoName": "crypto-skills",
+    "repoBranch": "main"
+  },
+  "AJ888/promptbrake-skills": {
+    "name": "AJ888/promptbrake-skills",
+    "description": "AI assistant skill for PromptBrake free tools: prompt-injection inputs, OWASP LLM risk guidance, release planning, and CI response test packs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AJ888",
+    "repoName": "promptbrake-skills",
+    "repoBranch": "main"
+  },
+  "AraneaDev/aranea-marketplace": {
+    "name": "AraneaDev/aranea-marketplace",
+    "description": "Claude Code marketplace for every Aranea Development plugin and skill. One catalog produces the install manifest, the site's install blocks and each plugin README's install block, and pins follow releases.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AraneaDev",
+    "repoName": "aranea-marketplace",
+    "repoBranch": "main"
+  },
+  "Hula-Hoop-AI/supermods": {
+    "name": "Hula-Hoop-AI/supermods",
+    "description": "A marketplace of mods for Claude Code: a step debugger for the agent loop, git account hints, a worktree status line, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hula-Hoop-AI",
+    "repoName": "supermods",
+    "repoBranch": "main"
+  },
+  "testy-cool/awesome-claude-code-mods": {
+    "name": "testy-cool/awesome-claude-code-mods",
+    "description": "A curated list of Claude Code mods, installable as a plugin marketplace: themes, panes, status lines, portraits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "testy-cool",
+    "repoName": "awesome-claude-code-mods",
+    "repoBranch": "main"
+  },
+  "ofekbetzalel/claude-code-cli-rtl": {
+    "name": "ofekbetzalel/claude-code-cli-rtl",
+    "description": "Right-to-left Hebrew, Arabic and Persian for the Claude Code terminal (a Claude Code mod)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ofekbetzalel",
+    "repoName": "claude-code-cli-rtl",
+    "repoBranch": "main"
+  },
+  "drdickgraysonjr/chalkery": {
+    "name": "drdickgraysonjr/chalkery",
+    "description": "Claude Code mods above the prompt: Handoff, prompt cache status, What next?. Install them one by one or as a pack. English and Ukrainian.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drdickgraysonjr",
+    "repoName": "chalkery",
+    "repoBranch": "main"
+  },
+  "Tulgs61/claude-plugins": {
+    "name": "Tulgs61/claude-plugins",
+    "description": "Claude Code plugin marketplace: handover (session continuity), tasks-ledger (delegated, reviewed task runs), mockup-loop (pick UI variants by clicking)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tulgs61",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "miyanko-dev/wow-addon-dev": {
+    "name": "miyanko-dev/wow-addon-dev",
+    "description": "Claude Code plugin and Agent Skill for World of Warcraft addon and WeakAura development, verified against Blizzard's UI source per game flavor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "miyanko-dev",
+    "repoName": "wow-addon-dev",
+    "repoBranch": "main"
+  },
+  "pradyb/claude-mods": {
+    "name": "pradyb/claude-mods",
+    "description": "Mods for Claude Code: safety-guard blocks destructive commands and secret-file access; notify-router sends rule-based alerts (chime, macOS, ntfy)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pradyb",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "martin-cousseau/pstack-claude": {
+    "name": "martin-cousseau/pstack-claude",
+    "description": "poteto's pstack for Claude Code and the Claude app: rigorous agent workflows, playbooks, and principles ported from Cursor. Kept in sync daily by Claude agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "martin-cousseau",
+    "repoName": "pstack-claude",
+    "repoBranch": "main"
+  },
+  "testy-cool/claude-agent-portraits": {
+    "name": "testy-cool/claude-agent-portraits",
+    "description": "Animated pixel-art portrait above the Claude Code prompt. It reacts to thinking, talking, tools, failures and idle time, and draws a custom character for each agent from a one-line brief or a photo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "testy-cool",
+    "repoName": "claude-agent-portraits",
+    "repoBranch": "main"
   }
 }

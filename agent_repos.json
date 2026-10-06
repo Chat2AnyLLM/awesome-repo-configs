@@ -5861,5 +5861,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "nerviz-ai/nerviz": {
+    "owner": "nerviz-ai",
+    "name": "nerviz",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
