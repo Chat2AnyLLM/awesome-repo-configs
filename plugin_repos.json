@@ -35524,5 +35524,149 @@
     "repoOwner": "testy-cool",
     "repoName": "claude-agent-portraits",
     "repoBranch": "main"
+  },
+  "imboard-ai/ai-dossier": {
+    "name": "imboard-ai/ai-dossier",
+    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhere, verify who wrote it. CLI, registry, MCP, VS Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "imboard-ai",
+    "repoName": "ai-dossier",
+    "repoBranch": "main"
+  },
+  "boburxd/broom-design": {
+    "name": "boburxd/broom-design",
+    "description": "Broom Design: the design skill for AI coding agents. The most popular design skills in one, with a checker and a design system generator. Removes AI slop from UI in Claude Code, Codex, Cursor, Copilot and Gemini CLI,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "boburxd",
+    "repoName": "broom-design",
+    "repoBranch": "main"
+  },
+  "rampstackco/claude-skills-pm": {
+    "name": "rampstackco/claude-skills-pm",
+    "description": "PM-focused 12-skill curated subset of claude-skills. For product managers using Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rampstackco",
+    "repoName": "claude-skills-pm",
+    "repoBranch": "main"
+  },
+  "yejianqin61-cell/easy-college": {
+    "name": "yejianqin61-cell/easy-college",
+    "description": "Agent skills that turn university courseware into study notes and revision notes: a per-page triage ledger, a vector knowledge map, every item cited to its page, and the lecture's own questions either in place or in a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yejianqin61-cell",
+    "repoName": "easy-college",
+    "repoBranch": "main"
+  },
+  "Linchi1997yeh/craftsman-suite": {
+    "name": "Linchi1997yeh/craftsman-suite",
+    "description": "Spec-driven development skills for AI coding agents: 10 human-gated steps from idea to docs. Claude Code plugin + SKILL.md for Codex, Cursor, Gemini CLI, OpenCode",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Linchi1997yeh",
+    "repoName": "craftsman-suite",
+    "repoBranch": "main"
+  },
+  "Sculptor815/scrna-seq-workbench": {
+    "name": "Sculptor815/scrna-seq-workbench",
+    "description": "One plugin, six agent skills for guided single-cell RNA-seq analysis in Codex, Claude Code, and DeepSeek Harness. And one benchmark for evaluating agent performance on scRNA-seq data analysis .",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sculptor815",
+    "repoName": "scrna-seq-workbench",
+    "repoBranch": "main"
+  },
+  "ryx2/slopshopper": {
+    "name": "ryx2/slopshopper",
+    "description": "The mod shop for Claude Code: scrapes GitHub for mods, previews them, hosts a marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryx2",
+    "repoName": "slopshopper",
+    "repoBranch": "main"
+  },
+  "bqnhat/claude-local-plugins": {
+    "name": "bqnhat/claude-local-plugins",
+    "description": "Claude Code function-hooks plugins: session-hub, plan-progress, next-steps-desktop, cache-timer",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bqnhat",
+    "repoName": "claude-local-plugins",
+    "repoBranch": "main"
+  },
+  "juninmd/cc-litellm": {
+    "name": "juninmd/cc-litellm",
+    "description": "Claude Code plugin that shows your LiteLLM virtual key's budget, limits and fallbacks, with admin commands to create keys and grant extra budget.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "juninmd",
+    "repoName": "cc-litellm",
+    "repoBranch": "main"
+  },
+  "nodej-ai/nodej": {
+    "name": "nodej-ai/nodej",
+    "description": "NodeJ plugins for Claude. Browse at nodej.ai/foundry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nodej-ai",
+    "repoName": "nodej",
+    "repoBranch": "main"
+  },
+  "LucasAntunesdeAlmeida/laa-claude": {
+    "name": "LucasAntunesdeAlmeida/laa-claude",
+    "description": "Claude Code plugin marketplace for backend developers, tech leads, and architects: fan-out agents, workflows, and self-improving skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LucasAntunesdeAlmeida",
+    "repoName": "laa-claude",
+    "repoBranch": "main"
+  },
+  "agent37-platform/claude-code-subagents": {
+    "name": "agent37-platform/claude-code-subagents",
+    "description": "Claude Code subagents: 11 tested, least-privilege agents with explicit report contracts, installable as a plugin. Code review, security audit, test writing, debugging, migration review, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agent37-platform",
+    "repoName": "claude-code-subagents",
+    "repoBranch": "main"
+  },
+  "yottayoshida/lossless-compaction": {
+    "name": "yottayoshida/lossless-compaction",
+    "description": "Lossless compaction for Claude Code: move old context to local files and recall it exactly when needed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yottayoshida",
+    "repoName": "lossless-compaction",
+    "repoBranch": "main"
+  },
+  "QuintinBotes/orbit": {
+    "name": "QuintinBotes/orbit",
+    "description": "Set the goal. Challenge the assumptions. Keep working until the evidence holds. An autonomous, evidence-driven engineering loop for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QuintinBotes",
+    "repoName": "orbit",
+    "repoBranch": "main"
+  },
+  "QuintinBotes/unknot": {
+    "name": "QuintinBotes/unknot",
+    "description": "Architecture-aware, incremental codebase simplification for Claude Code: maps code, data and infrastructure, finds accidental complexity, picks decomposition patterns from evidence, and changes code only in small appr...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QuintinBotes",
+    "repoName": "unknot",
+    "repoBranch": "main"
+  },
+  "Paradigm-Study/claude-share": {
+    "name": "Paradigm-Study/claude-share",
+    "description": "Shared Claude Code sessions: share a session with a link, teammates join from their own Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Paradigm-Study",
+    "repoName": "claude-share",
+    "repoBranch": "main"
   }
 }

@@ -43752,5 +43752,84 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "boburxd/broom-design": {
+        "owner": "boburxd",
+        "name": "broom-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rampstackco/claude-skills-pm": {
+        "owner": "rampstackco",
+        "name": "claude-skills-pm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "geastham/snapwright": {
+        "owner": "geastham",
+        "name": "snapwright",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tranminhmanh/wp-stack-skill": {
+        "owner": "tranminhmanh",
+        "name": "wp-stack-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yejianqin61-cell/easy-college": {
+        "owner": "yejianqin61-cell",
+        "name": "easy-college",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Linchi1997yeh/craftsman-suite": {
+        "owner": "Linchi1997yeh",
+        "name": "craftsman-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sculptor815/scrna-seq-workbench": {
+        "owner": "Sculptor815",
+        "name": "scrna-seq-workbench",
+        "branch": "main",
+        "enabled": true
+    },
+    "jojaden/jobhunt": {
+        "owner": "jojaden",
+        "name": "jobhunt",
+        "branch": "main",
+        "enabled": true
+    },
+    "bqnhat/claude-local-plugins": {
+        "owner": "bqnhat",
+        "name": "claude-local-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "LucasAntunesdeAlmeida/laa-claude": {
+        "owner": "LucasAntunesdeAlmeida",
+        "name": "laa-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "QuintinBotes/orbit": {
+        "owner": "QuintinBotes",
+        "name": "orbit",
+        "branch": "main",
+        "enabled": true
+    },
+    "QuintinBotes/unknot": {
+        "owner": "QuintinBotes",
+        "name": "unknot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
