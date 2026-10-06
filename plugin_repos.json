@@ -35830,5 +35830,14 @@
     "repoOwner": "negm17111995",
     "repoName": "mcp-server",
     "repoBranch": "main"
+  },
+  "stefanautomateed/shipvela-codex": {
+    "name": "shipvela-beta",
+    "description": "MIT client marketplace with a publishing skill and remote OAuth MCP connection for supported websites, owner confirmation, build logs and deployment status. Requires a Shipvela account; hosted backend is proprietary.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stefanautomateed",
+    "repoName": "shipvela-codex",
+    "repoBranch": "main"
   }
 }
