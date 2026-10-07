@@ -44146,5 +44146,97 @@
         "name": "webly-plugin",
         "branch": "main",
         "enabled": true
+    },
+    "rossoctl/context-guru": {
+        "owner": "rossoctl",
+        "name": "context-guru",
+        "branch": "main",
+        "enabled": true
+    },
+    "NahumLitvin/prismantis": {
+        "owner": "NahumLitvin",
+        "name": "prismantis",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "p2p2sp/p2p2.claude": {
+        "owner": "p2p2sp",
+        "name": "p2p2.claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "cahenesy/throughline": {
+        "owner": "cahenesy",
+        "name": "throughline",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PeterKalmstrom/claude-powerpoint-skill": {
+        "owner": "PeterKalmstrom",
+        "name": "claude-powerpoint-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DrishtantKaushal/AwesomeClaudeCodeMods": {
+        "owner": "DrishtantKaushal",
+        "name": "AwesomeClaudeCodeMods",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sertac0708/feature-scout": {
+        "owner": "Sertac0708",
+        "name": "feature-scout",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "orenluxy/fable-method": {
+        "owner": "orenluxy",
+        "name": "fable-method",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sertac0708/github-repo-pruefer": {
+        "owner": "Sertac0708",
+        "name": "github-repo-pruefer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sighlars/vibe-to-ship": {
+        "owner": "sighlars",
+        "name": "vibe-to-ship",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mooserini/claude-openwhispr": {
+        "owner": "mooserini",
+        "name": "claude-openwhispr",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maximlukyanovich/agent-tools": {
+        "owner": "maximlukyanovich",
+        "name": "agent-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "ExaDev/claude-marketplace-template": {
+        "owner": "ExaDev",
+        "name": "claude-marketplace-template",
+        "branch": "main",
+        "enabled": true
+    },
+    "freeride-dev/freeride": {
+        "owner": "freeride-dev",
+        "name": "freeride",
+        "branch": "main",
+        "enabled": true
     }
 }

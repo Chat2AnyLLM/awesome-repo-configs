@@ -5917,5 +5917,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "cahenesy/throughline": {
+    "owner": "cahenesy",
+    "name": "throughline",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "orenluxy/fable-method": {
+    "owner": "orenluxy",
+    "name": "fable-method",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

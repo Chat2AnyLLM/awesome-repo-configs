@@ -36073,5 +36073,140 @@
     "repoOwner": "Webly-AI",
     "repoName": "webly-plugin",
     "repoBranch": "main"
+  },
+  "rossoctl/context-guru": {
+    "name": "rossoctl/context-guru",
+    "description": "Context optimization for AI coding agents \u2014 lower token cost and latency without sacrificing accuracy.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rossoctl",
+    "repoName": "context-guru",
+    "repoBranch": "main"
+  },
+  "NahumLitvin/prismantis": {
+    "name": "NahumLitvin/prismantis",
+    "description": "Colorful, themeable Claude Code replies: tables, code, diagrams, charts and tool rows in 15 themes, with copy buttons. A Claude Code mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NahumLitvin",
+    "repoName": "prismantis",
+    "repoBranch": "main"
+  },
+  "p2p2sp/p2p2.claude": {
+    "name": "p2p2sp/p2p2.claude",
+    "description": "Small marketplace of Claude Code plugins. Add it once, then install the plugins you want.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "p2p2sp",
+    "repoName": "p2p2.claude",
+    "repoBranch": "main"
+  },
+  "cahenesy/throughline": {
+    "name": "cahenesy/throughline",
+    "description": "Claude Code plugin: a PRD/TDD/ADR design-doc pipeline with phase-gate PRs, an independent design-critique gate, toolchain bootstrap, and gated unattended implementation (failing-test-first + verify + cross-model revie...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cahenesy",
+    "repoName": "throughline",
+    "repoBranch": "master"
+  },
+  "PeterKalmstrom/claude-powerpoint-skill": {
+    "name": "PeterKalmstrom/claude-powerpoint-skill",
+    "description": "Claude Code skill for building production-quality PowerPoint decks on Windows via MCP + COM automation",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PeterKalmstrom",
+    "repoName": "claude-powerpoint-skill",
+    "repoBranch": "main"
+  },
+  "DrishtantKaushal/AwesomeClaudeCodeMods": {
+    "name": "DrishtantKaushal/AwesomeClaudeCodeMods",
+    "description": "Discover Claude Code mods, plugins and extensions with animated demos, category lists and direct source links. Powered by FindMods.dev.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DrishtantKaushal",
+    "repoName": "AwesomeClaudeCodeMods",
+    "repoBranch": "main"
+  },
+  "Sertac0708/feature-scout": {
+    "name": "Sertac0708/feature-scout",
+    "description": "Claude skill/plugin for competitor analysis and idea scouting: explores logged-in dashboards and websites read-only, maps every feature, compares with your own plan and builds a prioritized roadmap. EN/DE. Made by Net...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sertac0708",
+    "repoName": "feature-scout",
+    "repoBranch": "main"
+  },
+  "orenluxy/fable-method": {
+    "name": "orenluxy/fable-method",
+    "description": "discovery \u2014 blindspot scanning, model routing, fix-loop detection",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "orenluxy",
+    "repoName": "fable-method",
+    "repoBranch": "master"
+  },
+  "chrisluo5311/squad-chat": {
+    "name": "chrisluo5311/squad-chat",
+    "description": "Friends' presence and group chat in a Claude Code side pane (mod)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chrisluo5311",
+    "repoName": "squad-chat",
+    "repoBranch": "main"
+  },
+  "alaturqua/tower-mods": {
+    "name": "alaturqua/tower-mods",
+    "description": "Claude Code mods for running many sessions across many repos from one control tower",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alaturqua",
+    "repoName": "tower-mods",
+    "repoBranch": "main"
+  },
+  "Sertac0708/github-repo-pruefer": {
+    "name": "Sertac0708/github-repo-pruefer",
+    "description": "Claude-Skill: pr\u00fcft fremde GitHub-Repos, Plugins, Skills und MCP-Server auf Sicherheit, bevor du sie installierst \u2013 und zieht brauchbare Teile sauber heraus. Erstellt von Sertac.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sertac0708",
+    "repoName": "github-repo-pruefer",
+    "repoBranch": "main"
+  },
+  "mooserini/claude-openwhispr": {
+    "name": "mooserini/claude-openwhispr",
+    "description": "OpenWhispr voice history and notes for Claude Code. One skill, no code. Local by default.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mooserini",
+    "repoName": "claude-openwhispr",
+    "repoBranch": "main"
+  },
+  "maximlukyanovich/agent-tools": {
+    "name": "maximlukyanovich/agent-tools",
+    "description": "Claude Code plugins: repository harness setup, git workflow, React/Next.js conventions, deployment, safe server access, business Russian copy",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maximlukyanovich",
+    "repoName": "agent-tools",
+    "repoBranch": "main"
+  },
+  "ExaDev/claude-marketplace-template": {
+    "name": "ExaDev/claude-marketplace-template",
+    "description": "Template for a Claude Code plugin marketplace repository, with an example plugin for every component type",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ExaDev",
+    "repoName": "claude-marketplace-template",
+    "repoBranch": "main"
+  },
+  "freeride-dev/freeride": {
+    "name": "freeride-dev/freeride",
+    "description": "FreeRide plugin for Claude, Claude Code, ChatGPT, Codex and Cursor. Your projects, in every AI you build with.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "freeride-dev",
+    "repoName": "freeride",
+    "repoBranch": "main"
   }
 }
