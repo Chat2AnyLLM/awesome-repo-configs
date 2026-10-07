@@ -36208,5 +36208,113 @@
     "repoOwner": "freeride-dev",
     "repoName": "freeride",
     "repoBranch": "main"
+  },
+  "Kasempiternal/K-stack": {
+    "name": "Kasempiternal/K-stack",
+    "description": "Claude-only engineering stack for Claude Code: a rigorous mode, per-role Sonnet/Opus effort routing, focused skills, and daily-driver hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kasempiternal",
+    "repoName": "K-stack",
+    "repoBranch": "main"
+  },
+  "rlx/uplevel": {
+    "name": "rlx/uplevel",
+    "description": "A Claude Code skill that finds the engineering controls your repository does not have \u2014 CI that never runs on pull requests, a check target that quietly rewrites files, a migration with nothing in front of it \u2014 and ha...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rlx",
+    "repoName": "uplevel",
+    "repoBranch": "main"
+  },
+  "chillerno1/kskills": {
+    "name": "chillerno1/kskills",
+    "description": "Agent skills: vid (narrated explainer, tutorial and marketing videos) and pstack",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chillerno1",
+    "repoName": "kskills",
+    "repoBranch": "main"
+  },
+  "Plagemes/claude-mods": {
+    "name": "Plagemes/claude-mods",
+    "description": "200+ open-source mods for Claude Code: guardrails, status lines, panes and slash commands, plus an in-terminal mod store",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Plagemes",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "febradc-github/tenonry": {
+    "name": "febradc-github/tenonry",
+    "description": "Claude Code plugin for multi-agent coding: specialist subagents plan, write tests first, build, review, and commit your change. JEV, a decision model on OpenRouter, routes every task to Haiku, Sonnet, or Opus to cut t...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "febradc-github",
+    "repoName": "tenonry",
+    "repoBranch": "main"
+  },
+  "HeyCubit/effortless": {
+    "name": "HeyCubit/effortless",
+    "description": "Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compacts in one click",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HeyCubit",
+    "repoName": "effortless",
+    "repoBranch": "main"
+  },
+  "kOlapsis/speckit-guard": {
+    "name": "kOlapsis/speckit-guard",
+    "description": "Claude Code plugin for GitHub Spec Kit: acceptance tests written from the spec before implementation, locked during /speckit-implement, then a fresh-context review against the spec.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kOlapsis",
+    "repoName": "speckit-guard",
+    "repoBranch": "main"
+  },
+  "Rctt27/graceful-stop": {
+    "name": "Rctt27/graceful-stop",
+    "description": "Claude Code mod: winds agents down cleanly before your subscription credit runs out and writes a resume memo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rctt27",
+    "repoName": "graceful-stop",
+    "repoBranch": "main"
+  },
+  "santiquiroz/copilot-plugin-cc": {
+    "name": "santiquiroz/copilot-plugin-cc",
+    "description": "Delegate mechanical coding tasks from Claude Code to GitHub Copilot CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "santiquiroz",
+    "repoName": "copilot-plugin-cc",
+    "repoBranch": "master"
+  },
+  "openairlabs/flyweel-mcp-skills": {
+    "name": "openairlabs/flyweel-mcp-skills",
+    "description": "Agent skills for Flyweel: ad analysis, card funding checks, scaling decisions and cash payback. Works with Claude Code, Cursor, Codex and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "openairlabs",
+    "repoName": "flyweel-mcp-skills",
+    "repoBranch": "main"
+  },
+  "publishfun/agent-kit": {
+    "name": "publishfun/agent-kit",
+    "description": "Connect AI agents to Publish.fun, the AI-reviewed research journal: Claude Code plugin, agent skill, MCP configs, examples",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "publishfun",
+    "repoName": "agent-kit",
+    "repoBranch": "main"
+  },
+  "nathanaday/almagest": {
+    "name": "nathanaday/almagest",
+    "description": "Multi-tasking upgrade! Store durable knowledge in all your projects and connect them together. Let agents work using the full context of everything you are working on at once.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nathanaday",
+    "repoName": "almagest",
+    "repoBranch": "main"
   }
 }

@@ -5931,5 +5931,19 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "santiquiroz/copilot-plugin-cc": {
+    "owner": "santiquiroz",
+    "name": "copilot-plugin-cc",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "nathanaday/almagest": {
+    "owner": "nathanaday",
+    "name": "almagest",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

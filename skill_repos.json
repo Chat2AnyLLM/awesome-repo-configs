@@ -44245,5 +44245,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Kasempiternal/K-stack": {
+        "owner": "Kasempiternal",
+        "name": "K-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "oathdriven/rymac-4r-icm-audit": {
+        "owner": "oathdriven",
+        "name": "rymac-4r-icm-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rlx/uplevel": {
+        "owner": "rlx",
+        "name": "uplevel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AraneaDev/knossos": {
+        "owner": "AraneaDev",
+        "name": "knossos",
+        "branch": "main",
+        "enabled": true
+    },
+    "chillerno1/kskills": {
+        "owner": "chillerno1",
+        "name": "kskills",
+        "branch": "main",
+        "enabled": true
+    },
+    "RealBombi/suno-songsmith": {
+        "owner": "RealBombi",
+        "name": "suno-songsmith",
+        "branch": "main",
+        "enabled": true
+    },
+    "AlpaZZ/office-agent-skills": {
+        "owner": "AlpaZZ",
+        "name": "office-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "grundmanise/agentx": {
+        "owner": "grundmanise",
+        "name": "agentx",
+        "branch": "main",
+        "enabled": true
+    },
+    "febradc-github/tenonry": {
+        "owner": "febradc-github",
+        "name": "tenonry",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "santiquiroz/copilot-plugin-cc": {
+        "owner": "santiquiroz",
+        "name": "copilot-plugin-cc",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zyziyun/reelfold": {
+        "owner": "zyziyun",
+        "name": "reelfold",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "openairlabs/flyweel-mcp-skills": {
+        "owner": "openairlabs",
+        "name": "flyweel-mcp-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TobiB1505/faber-cut": {
+        "owner": "TobiB1505",
+        "name": "faber-cut",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Igor-lx/claudeHarness": {
+        "owner": "Igor-lx",
+        "name": "claudeHarness",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "publishfun/agent-kit": {
+        "owner": "publishfun",
+        "name": "agent-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "nathanaday/almagest": {
+        "owner": "nathanaday",
+        "name": "almagest",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
