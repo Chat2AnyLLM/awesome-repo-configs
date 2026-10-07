@@ -44238,5 +44238,12 @@
         "name": "freeride",
         "branch": "main",
         "enabled": true
+    },
+    "callforme-tel/callforme": {
+        "owner": "callforme-tel",
+        "name": "callforme",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
