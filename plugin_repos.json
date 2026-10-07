@@ -35965,5 +35965,113 @@
     "repoOwner": "shabash-dev",
     "repoName": "skill-check",
     "repoBranch": "main"
+  },
+  "aaddrick/contrarian": {
+    "name": "aaddrick/contrarian",
+    "description": "Devil's advocate for coding agents. Stress-tests plans, architecture and decisions with a steel-man, an assumption audit and a pre-mortem, then gives severity-rated findings and a verdict. Works in Claude Code, Codex,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaddrick",
+    "repoName": "contrarian",
+    "repoBranch": "main"
+  },
+  "rampstackco/claude-skills-seo": {
+    "name": "rampstackco/claude-skills-seo",
+    "description": "SEO-focused 12-skill curated subset of claude-skills. For SEO consultants and freelancers using Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rampstackco",
+    "repoName": "claude-skills-seo",
+    "repoBranch": "main"
+  },
+  "nvr0x5/claude-deck": {
+    "name": "nvr0x5/claude-deck",
+    "description": "A cockpit for Claude Code: live plan bars, subagent strips, usage limits with reset countdowns, model routing and a tiny pet, right above your prompt. CLI and Desktop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nvr0x5",
+    "repoName": "claude-deck",
+    "repoBranch": "main"
+  },
+  "rampstackco/claude-skills-starter": {
+    "name": "rampstackco/claude-skills-starter",
+    "description": "Curated 14-skill starter set from claude-skills. Performance-optimized for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rampstackco",
+    "repoName": "claude-skills-starter",
+    "repoBranch": "main"
+  },
+  "bountyoperator/bounty-operator": {
+    "name": "bountyoperator/bounty-operator",
+    "description": "Find the hole in your bug bounty report before the triager does. Pre-submission review for bounty reports and smart-contract findings, on your own model key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bountyoperator",
+    "repoName": "bounty-operator",
+    "repoBranch": "main"
+  },
+  "ethbak/claude-code-minis": {
+    "name": "ethbak/claude-code-minis",
+    "description": "Small, focused Claude Code plugins: resume any session, run interactive shell commands and switch to any permission mode from the Claude app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ethbak",
+    "repoName": "claude-code-minis",
+    "repoBranch": "main"
+  },
+  "azrianobr/dramazing": {
+    "name": "azrianobr/dramazing",
+    "description": "An AI-assistant skill that turns a short story (Chinese, English or Korean) into an episodic AI drama: script, storyboard, first frames, video, subtitles. Image and video tools are pluggable.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "azrianobr",
+    "repoName": "dramazing",
+    "repoBranch": "main"
+  },
+  "LuCheremisina/marketing-skills": {
+    "name": "LuCheremisina/marketing-skills",
+    "description": "AI marketing skills for research, SEO/GEO, Yandex advertising analytics and expert content. 27 marketing workflows + 14 optional engineering skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LuCheremisina",
+    "repoName": "marketing-skills",
+    "repoBranch": "main"
+  },
+  "StanislavKozachenko/claude-mods": {
+    "name": "StanislavKozachenko/claude-mods",
+    "description": "A collection of Claude Code mods: TypeScript function hooks, shipped as a plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "StanislavKozachenko",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "littlestjames82-sys/agent-seatbelt": {
+    "name": "littlestjames82-sys/agent-seatbelt",
+    "description": "Deterministic guardrails for AI coding agents \u2014 Seatbelt gates what your agent does before it does it. 206/206 on the open Seatbelt Bench.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "littlestjames82-sys",
+    "repoName": "agent-seatbelt",
+    "repoBranch": "main"
+  },
+  "unpaged/plugins": {
+    "name": "unpaged/plugins",
+    "description": "Claude Code plugins by Unpaged \u2014 /unpaged:visual-plan renders your plan as a whiteboard, pushes @agent comments back to the session, and stamps the canvas EXECUTING on approval",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "unpaged",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "Webly-AI/webly-plugin": {
+    "name": "Webly-AI/webly-plugin",
+    "description": "Webly skill and Claude Code plugin: let AI agents publish a folder or HTML file to a live URL in seconds, then claim, edit and publish it over MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Webly-AI",
+    "repoName": "webly-plugin",
+    "repoBranch": "main"
   }
 }

@@ -44042,5 +44042,109 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "aaddrick/contrarian": {
+        "owner": "aaddrick",
+        "name": "contrarian",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AnxForever/stylekit-skill": {
+        "owner": "AnxForever",
+        "name": "stylekit-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rampstackco/claude-skills-seo": {
+        "owner": "rampstackco",
+        "name": "claude-skills-seo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "srinivasa-vasu/agent-skills": {
+        "owner": "srinivasa-vasu",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "rampstackco/claude-skills-starter": {
+        "owner": "rampstackco",
+        "name": "claude-skills-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bountyoperator/bounty-operator": {
+        "owner": "bountyoperator",
+        "name": "bounty-operator",
+        "branch": "main",
+        "enabled": true
+    },
+    "AlehHaiko/UX-directives-skill": {
+        "owner": "AlehHaiko",
+        "name": "UX-directives-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "ethbak/claude-code-minis": {
+        "owner": "ethbak",
+        "name": "claude-code-minis",
+        "branch": "main",
+        "enabled": true
+    },
+    "Apsion9231/writing-prompts": {
+        "owner": "Apsion9231",
+        "name": "writing-prompts",
+        "branch": "main",
+        "enabled": true
+    },
+    "azrianobr/dramazing": {
+        "owner": "azrianobr",
+        "name": "dramazing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hhhmike240-maker/lecture-ppt-workflow": {
+        "owner": "hhhmike240-maker",
+        "name": "lecture-ppt-workflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "LuCheremisina/marketing-skills": {
+        "owner": "LuCheremisina",
+        "name": "marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "amberlburch/flowsmith": {
+        "owner": "amberlburch",
+        "name": "flowsmith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "littlestjames82-sys/agent-seatbelt": {
+        "owner": "littlestjames82-sys",
+        "name": "agent-seatbelt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "unpaged/plugins": {
+        "owner": "unpaged",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Webly-AI/webly-plugin": {
+        "owner": "Webly-AI",
+        "name": "webly-plugin",
+        "branch": "main",
+        "enabled": true
     }
 }
