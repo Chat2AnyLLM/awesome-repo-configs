@@ -44351,5 +44351,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "loootai/looot-skills": {
+        "owner": "loootai",
+        "name": "looot-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

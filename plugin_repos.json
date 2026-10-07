@@ -36316,5 +36316,14 @@
     "repoOwner": "nathanaday",
     "repoName": "almagest",
     "repoBranch": "main"
+  },
+  "loootai/looot-plugin": {
+    "name": "loootai/looot-plugin",
+    "description": "looot plugin for Claude Code, Codex and Cursor: search, price and run 2,500+ data API endpoints with one prepaid balance",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "loootai",
+    "repoName": "looot-plugin",
+    "repoBranch": "main"
   }
 }
