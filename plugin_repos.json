@@ -36586,5 +36586,140 @@
     "repoOwner": "mozex",
     "repoName": "iminify-plugin",
     "repoBranch": "main"
+  },
+  "ashafizullah/claude-code-muslim-mods": {
+    "name": "ashafizullah/claude-code-muslim-mods",
+    "description": "Prayer times, Hijri date, adhkar, daily ayah, sunnah fasting, Ramadan, Jumu'ah and tasbih inside Claude Code, switched on or off from one /muslim dashboard.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ashafizullah",
+    "repoName": "claude-code-muslim-mods",
+    "repoBranch": "main"
+  },
+  "nmoinvaz/speedy-gonzales": {
+    "name": "nmoinvaz/speedy-gonzales",
+    "description": "Claude commands that speed up everyday dev workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nmoinvaz",
+    "repoName": "speedy-gonzales",
+    "repoBranch": "main"
+  },
+  "felipesauer/mnema": {
+    "name": "felipesauer/mnema",
+    "description": "Your decisions, handed to your agents' sessions and held at the edits they govern - append-only and signed in the repository, and checkable by anyone. Tamper-evident, not tamper-proof. CLI and MCP server for Claude Co...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "felipesauer",
+    "repoName": "mnema",
+    "repoBranch": "main"
+  },
+  "MikeHeid/overture": {
+    "name": "MikeHeid/overture",
+    "description": "Answer your AI agents' questions from a web page behind Cloudflare Access: lock answers as rulings, render Mermaid visuals inline, star what matters, settle stale rulings, review your dashboard and PRs, and run roar/r...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MikeHeid",
+    "repoName": "overture",
+    "repoBranch": "main"
+  },
+  "Antreas-Strb/glanceflow": {
+    "name": "Antreas-Strb/glanceflow",
+    "description": "GlanceFlow for Claude Code: a calm checklist above the prompt showing the plan, progress and when Claude needs you. Simple view for everyone, Details for engineers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Antreas-Strb",
+    "repoName": "glanceflow",
+    "repoBranch": "master"
+  },
+  "fivebarn/studio": {
+    "name": "fivebarn/studio",
+    "description": "Free Claude skills for everyday life admin: inbox, shopping, travel, scheduling",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fivebarn",
+    "repoName": "studio",
+    "repoBranch": "main"
+  },
+  "pmrjge/blackcat": {
+    "name": "pmrjge/blackcat",
+    "description": "Achieved by claude itself, this is a Claude Code configuration installer aliased blackcat for multi-agent orchestration. Uses Opper and OpenRouter for image generation and graphic vectorial design. Features coding; Mo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pmrjge",
+    "repoName": "blackcat",
+    "repoBranch": "main"
+  },
+  "claude-code-mods/best-claude-code-mods": {
+    "name": "claude-code-mods/best-claude-code-mods",
+    "description": "Best Claude Code Mods: hand-picked, validated, pinned. One /plugin marketplace add, 43 mods.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "claude-code-mods",
+    "repoName": "best-claude-code-mods",
+    "repoBranch": "main"
+  },
+  "muctebadikmen/claude-code-araclari": {
+    "name": "muctebadikmen/claude-code-araclari",
+    "description": "Claude Code modlar\u0131: otomatik devir ve ilerleme \u00e7ubu\u011fu. T\u00fcrk\u00e7e, birka\u00e7 komutla kurulur.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "muctebadikmen",
+    "repoName": "claude-code-araclari",
+    "repoBranch": "main"
+  },
+  "shironigun/ai-marketplace": {
+    "name": "shironigun/ai-marketplace",
+    "description": "A Claude Code plugin marketplace \u2014 QA & release-engineering plugins (skills, agents, MCP servers). Flagship: qa-engineering, one AI orchestrator for the whole QA loop (story \u2192 test cases \u2192 publish \u2192 automate \u2192 bug), h...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shironigun",
+    "repoName": "ai-marketplace",
+    "repoBranch": "main"
+  },
+  "xinhuagu/oh-my-claude-mods": {
+    "name": "xinhuagu/oh-my-claude-mods",
+    "description": "Mods for Claude Code. agent-crew: watch your subagents work as a live pixel crew, with role, model, current tool, progress, tokens and time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xinhuagu",
+    "repoName": "oh-my-claude-mods",
+    "repoBranch": "main"
+  },
+  "Grumsen-Development-ApS/captino-claude-plugin": {
+    "name": "Grumsen-Development-ApS/captino-claude-plugin",
+    "description": "Claude Code plugin for Captino: connects to the Captino MCP server and adds skills for funnel performance, drop-off, leads, lead follow-up, account reports, building funnel pages and building forms.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Grumsen-Development-ApS",
+    "repoName": "captino-claude-plugin",
+    "repoBranch": "master"
+  },
+  "Comp0te/claude-plugins": {
+    "name": "Comp0te/claude-plugins",
+    "description": "Claude Code plugins for spec-driven development: plan writing and execution, PR and branch review, Figma-to-spec extraction, and UI verification in the running app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Comp0te",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "VizzleTF/claude-skills": {
+    "name": "VizzleTF/claude-skills",
+    "description": "Claude Code plugin marketplace: tidemark (status band mod with context, cache and quota widgets) and technical-writing skills (EN/RU)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VizzleTF",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "koopycat/claude-code-plugins": {
+    "name": "koopycat/claude-code-plugins",
+    "description": "Plugins for Claude Code, starting with context-meter: model, context fill and session cost above your prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "koopycat",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
   }
 }

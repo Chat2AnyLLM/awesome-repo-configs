@@ -5966,5 +5966,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "NeedSomeFoodMr/claude-mods": {
+    "owner": "NeedSomeFoodMr",
+    "name": "claude-mods",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

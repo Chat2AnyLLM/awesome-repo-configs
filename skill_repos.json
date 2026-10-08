@@ -44547,5 +44547,97 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "sno-ai/sno-station-skills": {
+        "owner": "sno-ai",
+        "name": "sno-station-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nmoinvaz/speedy-gonzales": {
+        "owner": "nmoinvaz",
+        "name": "speedy-gonzales",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "felipesauer/mnema": {
+        "owner": "felipesauer",
+        "name": "mnema",
+        "branch": "main",
+        "enabled": true
+    },
+    "ericpardee/agent-files": {
+        "owner": "ericpardee",
+        "name": "agent-files",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MikeHeid/overture": {
+        "owner": "MikeHeid",
+        "name": "overture",
+        "branch": "main",
+        "enabled": true
+    },
+    "sooperD00/sprinter-kit": {
+        "owner": "sooperD00",
+        "name": "sprinter-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MithunSidhaarth/rapid-skill-sprint": {
+        "owner": "MithunSidhaarth",
+        "name": "rapid-skill-sprint",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "FromSi/godot-csharp-modular-template": {
+        "owner": "FromSi",
+        "name": "godot-csharp-modular-template",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "fivebarn/studio": {
+        "owner": "fivebarn",
+        "name": "studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pmrjge/blackcat": {
+        "owner": "pmrjge",
+        "name": "blackcat",
+        "branch": "main",
+        "enabled": true
+    },
+    "shironigun/ai-marketplace": {
+        "owner": "shironigun",
+        "name": "ai-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "Grumsen-Development-ApS/captino-claude-plugin": {
+        "owner": "Grumsen-Development-ApS",
+        "name": "captino-claude-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Comp0te/claude-plugins": {
+        "owner": "Comp0te",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "VizzleTF/claude-skills": {
+        "owner": "VizzleTF",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
     }
 }
