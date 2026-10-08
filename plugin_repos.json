@@ -36451,5 +36451,140 @@
     "repoOwner": "feizaodemon",
     "repoName": "claude-mods",
     "repoBranch": "main"
+  },
+  "Ar9av/obsidian-wiki": {
+    "name": "Ar9av/obsidian-wiki",
+    "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ar9av",
+    "repoName": "obsidian-wiki",
+    "repoBranch": "main"
+  },
+  "manifestack/manifestack": {
+    "name": "manifestack/manifestack",
+    "description": "Agent skills for Claude Code, Cursor, Codex and other coding agents: pick, audit and guard your SaaS stack against plan limits, bills, overlaps and data rules, using vendors' live pricing pages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "manifestack",
+    "repoName": "manifestack",
+    "repoBranch": "main"
+  },
+  "mhmtsrfglu/superwiki": {
+    "name": "mhmtsrfglu/superwiki",
+    "description": "Agent skills that turn docs/ into an LLM-maintained wiki and task tracker. Obsidian-friendly. Works with Claude Code, Codex and Copilot CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mhmtsrfglu",
+    "repoName": "superwiki",
+    "repoBranch": "main"
+  },
+  "giladbarnea/soft-skills": {
+    "name": "giladbarnea/soft-skills",
+    "description": "Communication toolkit for burnt-out humans and collaborative AI's",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "giladbarnea",
+    "repoName": "soft-skills",
+    "repoBranch": "main"
+  },
+  "openEHR/ai-plugins": {
+    "name": "openEHR/ai-plugins",
+    "description": "AI plugins for openEHR - specification authoring, review and governance skills. Claude Code marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "openEHR",
+    "repoName": "ai-plugins",
+    "repoBranch": "main"
+  },
+  "chteau/tokenforge": {
+    "name": "chteau/tokenforge",
+    "description": "A Claude Code plugin that trims what every request re-sends. Same work, same quality, about half the tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chteau",
+    "repoName": "tokenforge",
+    "repoBranch": "master"
+  },
+  "komoai2026/claude-plugin": {
+    "name": "komoai2026/claude-plugin",
+    "description": "Official KolmoPDF integrations for Claude Code, Codex, Cursor, and MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "komoai2026",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
+  "ruslanshchuchkin/claude-techno-mod": {
+    "name": "ruslanshchuchkin/claude-techno-mod",
+    "description": "\ud83d\ude08 We are making some TECHNO babyyyy \ud83d\ude08",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ruslanshchuchkin",
+    "repoName": "claude-techno-mod",
+    "repoBranch": "main"
+  },
+  "tedix-hq/tedix": {
+    "name": "tedix-hq/tedix",
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they did.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tedix-hq",
+    "repoName": "tedix",
+    "repoBranch": "main"
+  },
+  "JiramedFirst/TVideo": {
+    "name": "JiramedFirst/TVideo",
+    "description": "Claude Code plugin: turn a real web app into step-by-step tutorial videos with captions, zoom and click highlights (Playwright + Hyperframes)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JiramedFirst",
+    "repoName": "TVideo",
+    "repoBranch": "main"
+  },
+  "shimo4228/akc-cycle": {
+    "name": "shimo4228/akc-cycle",
+    "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upkeep skills plus an optional always-loaded rules file, the installable form of the Agent Knowledge...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "akc-cycle",
+    "repoBranch": "main"
+  },
+  "platform-engineering-labs/formae-marketplace": {
+    "name": "platform-engineering-labs/formae-marketplace",
+    "description": "Claude Code plugin marketplace for formae Infrastructure As Code: /plugin marketplace add platform-engineering-labs/formae-marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "platform-engineering-labs",
+    "repoName": "formae-marketplace",
+    "repoBranch": "main"
+  },
+  "pazimor/marketplace": {
+    "name": "pazimor/marketplace",
+    "description": "Claude Code plugin marketplace: orchestration that picks the cheapest model and effort per task, a markdown canon + roadmap in your repo, a live agents-info pane, and 3D level-design taste.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pazimor",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "Chamete/claude-stats": {
+    "name": "Chamete/claude-stats",
+    "description": "Mod para Claude Code: panel de consumo de tu suscripci\u00f3n (ventanas de 5 h y semanal, predicci\u00f3n, tokens y precio), modo ahorro autom\u00e1tico y la mascota NeuroSigma",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Chamete",
+    "repoName": "claude-stats",
+    "repoBranch": "main"
+  },
+  "mozex/iminify-plugin": {
+    "name": "mozex/iminify-plugin",
+    "description": "Iminify for Claude (Chat and Cowork), Claude Code and Cursor: compress, convert and resize images, scan pages, and optimize a project's images in place.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mozex",
+    "repoName": "iminify-plugin",
+    "repoBranch": "main"
   }
 }

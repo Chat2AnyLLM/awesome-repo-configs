@@ -44449,5 +44449,103 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Ar9av/obsidian-wiki": {
+        "owner": "Ar9av",
+        "name": "obsidian-wiki",
+        "branch": "main",
+        "enabled": true
+    },
+    "manifestack/manifestack": {
+        "owner": "manifestack",
+        "name": "manifestack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mhmtsrfglu/superwiki": {
+        "owner": "mhmtsrfglu",
+        "name": "superwiki",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "giladbarnea/soft-skills": {
+        "owner": "giladbarnea",
+        "name": "soft-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "openEHR/ai-plugins": {
+        "owner": "openEHR",
+        "name": "ai-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "chteau/tokenforge": {
+        "owner": "chteau",
+        "name": "tokenforge",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "komoai2026/claude-plugin": {
+        "owner": "komoai2026",
+        "name": "claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "tedix-hq/tedix": {
+        "owner": "tedix-hq",
+        "name": "tedix",
+        "branch": "main",
+        "enabled": true
+    },
+    "HoneyMeta/geng-skills": {
+        "owner": "HoneyMeta",
+        "name": "geng-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "JiramedFirst/TVideo": {
+        "owner": "JiramedFirst",
+        "name": "TVideo",
+        "branch": "main",
+        "enabled": true
+    },
+    "shimo4228/akc-cycle": {
+        "owner": "shimo4228",
+        "name": "akc-cycle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dimokol/agent-workbench": {
+        "owner": "dimokol",
+        "name": "agent-workbench",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pazimor/marketplace": {
+        "owner": "pazimor",
+        "name": "marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "full-aigc-plugins/photocraft-plugin": {
+        "owner": "full-aigc-plugins",
+        "name": "photocraft-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mozex/iminify-plugin": {
+        "owner": "mozex",
+        "name": "iminify-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
