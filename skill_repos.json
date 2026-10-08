@@ -44358,5 +44358,96 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "rjmurillo/ai-agents": {
+        "owner": "rjmurillo",
+        "name": "ai-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "coffeecoproject/layermap": {
+        "owner": "coffeecoproject",
+        "name": "layermap",
+        "branch": "main",
+        "enabled": true
+    },
+    "oyekamal/harness-evolve": {
+        "owner": "oyekamal",
+        "name": "harness-evolve",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Gutiz/win-c-cleaner": {
+        "owner": "Gutiz",
+        "name": "win-c-cleaner",
+        "branch": "release",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Baraakhaldi/website-benchmark": {
+        "owner": "Baraakhaldi",
+        "name": "website-benchmark",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "furkansarikaya/proof-review": {
+        "owner": "furkansarikaya",
+        "name": "proof-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wireflowINC/skills": {
+        "owner": "wireflowINC",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kaid0x/prompt-to-motion": {
+        "owner": "kaid0x",
+        "name": "prompt-to-motion",
+        "branch": "main",
+        "enabled": true
+    },
+    "InsightfulAnalytics/ship": {
+        "owner": "InsightfulAnalytics",
+        "name": "ship",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mqa8668/claude-skills": {
+        "owner": "mqa8668",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "niksavis/handily": {
+        "owner": "niksavis",
+        "name": "handily",
+        "branch": "main",
+        "enabled": true
+    },
+    "evolvix-labs/evolvix-skills": {
+        "owner": "evolvix-labs",
+        "name": "evolvix-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "walangstudio/marketplace": {
+        "owner": "walangstudio",
+        "name": "marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "christian-oudard/claude-usage": {
+        "owner": "christian-oudard",
+        "name": "claude-usage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

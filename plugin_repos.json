@@ -36325,5 +36325,131 @@
     "repoOwner": "loootai",
     "repoName": "looot-plugin",
     "repoBranch": "main"
+  },
+  "rjmurillo/ai-agents": {
+    "name": "rjmurillo/ai-agents",
+    "description": "Open-source multi-agent toolkit for Claude Code and GitHub Copilot CLI: 22 agents, plan-to-ship workflows, review and security gates, plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rjmurillo",
+    "repoName": "ai-agents",
+    "repoBranch": "main"
+  },
+  "coffeecoproject/layermap": {
+    "name": "coffeecoproject/layermap",
+    "description": "LayerMap MCP: a layered map of your codebase for coding agents: callers, callees and the impact of a change, for TypeScript, JavaScript, Go, Python and Java. MCP server, CLI, and plugins for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coffeecoproject",
+    "repoName": "layermap",
+    "repoBranch": "main"
+  },
+  "colibird-ai/local-mcp-claude-plugin": {
+    "name": "colibird-ai/local-mcp-claude-plugin",
+    "description": "LMCP for Claude Code \u2014 192+ tools for Mail, Calendar, Teams, Slack, WhatsApp, OneDrive, Outlook, Excel & more on macOS and Windows. Tools run on your computer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "colibird-ai",
+    "repoName": "local-mcp-claude-plugin",
+    "repoBranch": "main"
+  },
+  "proagent-ai/claude-hangul": {
+    "name": "proagent-ai/claude-hangul",
+    "description": "Claude Code mod: \ud55c/\uc601 \uc804\ud658 \uc5c6\uc774 \ub450\ubc8c\uc2dd\u00b7\uc138\ubc8c\uc2dd 390\u00b7\uc138\ubc8c\uc2dd \ucd5c\uc885\uc73c\ub85c \ud55c\uae00 \uc785\ub825 (\ubaa8\ubc14\uc77c SSH \ud3ec\ud568)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "proagent-ai",
+    "repoName": "claude-hangul",
+    "repoBranch": "main"
+  },
+  "wireflowINC/skills": {
+    "name": "wireflowINC/skills",
+    "description": "Claude Code skills for AI image generation, AI video generation and product photography. Powered by Wireflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wireflowINC",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "mqa8668/claude-skills": {
+    "name": "mqa8668/claude-skills",
+    "description": "Claude Code skills for technical writing, Figma architecture diagrams and Vietnamese/bilingual engineering docs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mqa8668",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "niksavis/handily": {
+    "name": "niksavis/handily",
+    "description": "Claude Code mods that show your work items, tasks and sessions, for any tracker. Mods show and ask; they never enforce.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "niksavis",
+    "repoName": "handily",
+    "repoBranch": "main"
+  },
+  "Showrin/claude-mods": {
+    "name": "Showrin/claude-mods",
+    "description": "Showrin's Claude Code mods for a more productive daily hustle.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Showrin",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "evolvix-labs/evolvix-skills": {
+    "name": "evolvix-labs/evolvix-skills",
+    "description": "Claude plugins and skills for Evolvix coaches and clients: check-in reviews, nutrition by training day, programs, automations, and logging a day from one sentence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "evolvix-labs",
+    "repoName": "evolvix-skills",
+    "repoBranch": "main"
+  },
+  "walangstudio/marketplace": {
+    "name": "walangstudio/marketplace",
+    "description": "Claude Code plugin marketplace for Walang Studio.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "walangstudio",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "christian-oudard/claude-usage": {
+    "name": "christian-oudard/claude-usage",
+    "description": "Skill to allow Claude Code agents to check their own token usage",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "christian-oudard",
+    "repoName": "claude-usage",
+    "repoBranch": "main"
+  },
+  "ejklock/claude-mermaid-render": {
+    "name": "ejklock/claude-mermaid-render",
+    "description": "Claude Code plugin that renders Mermaid diagrams beautifully in the transcript: colored Unicode cards in any terminal, native SVG on desktop. Flowchart, sequence, state, class and ER diagrams.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ejklock",
+    "repoName": "claude-mermaid-render",
+    "repoBranch": "main"
+  },
+  "jpo-oss/claude-games": {
+    "name": "jpo-oss/claude-games",
+    "description": "Multiplayer games to play inside Claude Code while it works",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jpo-oss",
+    "repoName": "claude-games",
+    "repoBranch": "main"
+  },
+  "feizaodemon/claude-mods": {
+    "name": "feizaodemon/claude-mods",
+    "description": "Claude Code mods (function-hook plugins): session-meter and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "feizaodemon",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
   }
 }

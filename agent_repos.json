@@ -5945,5 +5945,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "rjmurillo/ai-agents": {
+    "owner": "rjmurillo",
+    "name": "ai-agents",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "niksavis/handily": {
+    "owner": "niksavis",
+    "name": "handily",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
