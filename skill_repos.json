@@ -44874,5 +44874,105 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "undefined-ui/second-brain-os": {
+        "owner": "undefined-ui",
+        "name": "second-brain-os",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hellosverre/claude-skins": {
+        "owner": "hellosverre",
+        "name": "claude-skins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "developer-overheid-nl/skills-developer-overheid-nl": {
+        "owner": "developer-overheid-nl",
+        "name": "skills-developer-overheid-nl",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pche-broken-artist/forge-of-thought": {
+        "owner": "pche-broken-artist",
+        "name": "forge-of-thought",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "junjiezhou1122/ideascientist-claude-code": {
+        "owner": "junjiezhou1122",
+        "name": "ideascientist-claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "youneedgreg/motion-studio": {
+        "owner": "youneedgreg",
+        "name": "motion-studio",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "timlaneseo-tech/unfayr-ref": {
+        "owner": "timlaneseo-tech",
+        "name": "unfayr-ref",
+        "branch": "main",
+        "enabled": true
+    },
+    "jiangqizheng/vaneform-mcp": {
+        "owner": "jiangqizheng",
+        "name": "vaneform-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "indranilbanerjee/socialforge-copy-adapter": {
+        "owner": "indranilbanerjee",
+        "name": "socialforge-copy-adapter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ap369/infra-skills": {
+        "owner": "ap369",
+        "name": "infra-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "masterpeteworld/claude-skills": {
+        "owner": "masterpeteworld",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "MehrdadNsr/multi-ai-delegation": {
+        "owner": "MehrdadNsr",
+        "name": "multi-ai-delegation",
+        "branch": "main",
+        "enabled": true
+    },
+    "MSliwa01/wwxd": {
+        "owner": "MSliwa01",
+        "name": "wwxd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ferhad24/seki-danisigi-skill": {
+        "owner": "ferhad24",
+        "name": "seki-danisigi-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "iamsikun/quill": {
+        "owner": "iamsikun",
+        "name": "quill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

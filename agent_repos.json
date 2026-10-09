@@ -6001,5 +6001,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "undefined-ui/second-brain-os": {
+    "owner": "undefined-ui",
+    "name": "second-brain-os",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "pche-broken-artist/forge-of-thought": {
+    "owner": "pche-broken-artist",
+    "name": "forge-of-thought",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "junjiezhou1122/ideascientist-claude-code": {
+    "owner": "junjiezhou1122",
+    "name": "ideascientist-claude-code",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rezzminator/tool-visibility-controller": {
+    "owner": "rezzminator",
+    "name": "tool-visibility-controller",
+    "branch": "develop",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

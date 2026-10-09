@@ -37027,5 +37027,104 @@
     "repoOwner": "bankbridge-money",
     "repoName": "bankbridge-plugin",
     "repoBranch": "main"
+  },
+  "undefined-ui/second-brain-os": {
+    "name": "undefined-ui/second-brain-os",
+    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "undefined-ui",
+    "repoName": "second-brain-os",
+    "repoBranch": "main"
+  },
+  "hellosverre/claude-skins": {
+    "name": "hellosverre/claude-skins",
+    "description": "Skins for Claude Code: tool rows with icons, diff, table and Mermaid chart cards, a usage band and fifteen themes. /skin swaps them live.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hellosverre",
+    "repoName": "claude-skins",
+    "repoBranch": "main"
+  },
+  "developer-overheid-nl/skills-developer-overheid-nl": {
+    "name": "developer-overheid-nl/skills-developer-overheid-nl",
+    "description": "Agent skills for the Dutch Government Developer Portal (developer.overheid.nl) knowledge base.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "developer-overheid-nl",
+    "repoName": "skills-developer-overheid-nl",
+    "repoBranch": "main"
+  },
+  "junjiezhou1122/ideascientist-claude-code": {
+    "name": "junjiezhou1122/ideascientist-claude-code",
+    "description": "Native Claude Code, Codex and Pi adaptations of IdeaScientist for automatic, evidence-grounded research ideation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "junjiezhou1122",
+    "repoName": "ideascientist-claude-code",
+    "repoBranch": "main"
+  },
+  "tanujarun/it-speaks": {
+    "name": "tanujarun/it-speaks",
+    "description": "It Speaks: a Claude Code mod that reads Claude's replies and your prompts aloud on request, with the local open-source Kokoro TTS voice.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tanujarun",
+    "repoName": "it-speaks",
+    "repoBranch": "main"
+  },
+  "rezzminator/tool-visibility-controller": {
+    "name": "rezzminator/tool-visibility-controller",
+    "description": "Claude Code plugin for per-agent tool visibility \u2014 hide and refuse subagents, skills, MCP and built-in tools per loop",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rezzminator",
+    "repoName": "tool-visibility-controller",
+    "repoBranch": "develop"
+  },
+  "arviaja/token-watch": {
+    "name": "arviaja/token-watch",
+    "description": "Claude Code mod: shows token use, plan limits and cache temperature of the sessions on this Mac",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arviaja",
+    "repoName": "token-watch",
+    "repoBranch": "main"
+  },
+  "timlaneseo-tech/unfayr-ref": {
+    "name": "timlaneseo-tech/unfayr-ref",
+    "description": "Ref, by unfayr. A free Claude skill that runs your marketing review and approval cycle. Ref keeps the review fair. You make the calls.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "timlaneseo-tech",
+    "repoName": "unfayr-ref",
+    "repoBranch": "main"
+  },
+  "MehrdadNsr/multi-ai-delegation": {
+    "name": "MehrdadNsr/multi-ai-delegation",
+    "description": "A Claude skill (plugin) that splits big jobs across your other AI chat sites, such as ChatGPT, Grok, Gemini, DeepSeek, Kimi, Qwen and Perplexity, through Claude in Chrome. You approve a plan with sites, cost and time...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MehrdadNsr",
+    "repoName": "multi-ai-delegation",
+    "repoBranch": "main"
+  },
+  "MSliwa01/wwxd": {
+    "name": "MSliwa01/wwxd",
+    "description": "What would X do? Turns a person's talks, podcasts and essays into a cited wiki your agent reasons from. Claude Code skill + CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MSliwa01",
+    "repoName": "wwxd",
+    "repoBranch": "main"
+  },
+  "iamsikun/quill": {
+    "name": "iamsikun/quill",
+    "description": "Academic-writing skill for AI agents (Claude Code, Codex, Gemini CLI, Cursor). Drafts and revises research papers, polishes prose, and responds to reviewers without changing your claims, numbers, notation, or citation...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iamsikun",
+    "repoName": "quill",
+    "repoBranch": "main"
   }
 }
