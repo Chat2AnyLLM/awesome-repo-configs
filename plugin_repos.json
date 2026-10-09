@@ -36883,5 +36883,122 @@
     "repoOwner": "mertkayacs",
     "repoName": "reevesagents-skill",
     "repoBranch": "master"
+  },
+  "openqodex/openqodex": {
+    "name": "openqodex/openqodex",
+    "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is g...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "openqodex",
+    "repoName": "openqodex",
+    "repoBranch": "main"
+  },
+  "usetrmnl/trmnl-agent-skills": {
+    "name": "usetrmnl/trmnl-agent-skills",
+    "description": "trmnl.com template writer agent's prompts and skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "usetrmnl",
+    "repoName": "trmnl-agent-skills",
+    "repoBranch": "main"
+  },
+  "nicodiansk/turboflow": {
+    "name": "nicodiansk/turboflow",
+    "description": "Opinionated engineering pipeline for Claude Code with 10 skills, 5 agents, 2 hooks. Replaces ad-hoc agent sprawl with brainstorm \u2192 story \u2192 plan \u2192 build \u2192 review \u2192 ship.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nicodiansk",
+    "repoName": "turboflow",
+    "repoBranch": "master"
+  },
+  "Ankitrai97/rai-claude-mods": {
+    "name": "Ankitrai97/rai-claude-mods",
+    "description": "Five free Claude Code mods: Simple Mode, Usage Tally, Context Handoff, Inbox Alerts and Codex Computer Use. Install with /plugin marketplace add Ankitrai97/rai-claude-mods",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ankitrai97",
+    "repoName": "rai-claude-mods",
+    "repoBranch": "main"
+  },
+  "Land-o-Clusters/sleight": {
+    "name": "Land-o-Clusters/sleight",
+    "description": "Let Claude Code drive Mac apps in the background through the computer-use engine bundled with the ChatGPT desktop app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Land-o-Clusters",
+    "repoName": "sleight",
+    "repoBranch": "main"
+  },
+  "HMarzban/claude-mod": {
+    "name": "HMarzban/claude-mod",
+    "description": "See what your next Claude Code message costs: a live band above the prompt with the prompt-cache countdown, the re-warm price, session cost, context and 5h/weekly usage limits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HMarzban",
+    "repoName": "claude-mod",
+    "repoBranch": "main"
+  },
+  "HagaiHen/podcast-wiki": {
+    "name": "HagaiHen/podcast-wiki",
+    "description": "Claude Code plugin that turns the podcasts you listen to on Spotify into a cited LLM wiki: one page per topic, every claim linked to its episode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HagaiHen",
+    "repoName": "podcast-wiki",
+    "repoBranch": "podcast-wiki"
+  },
+  "ownway18/adm-google-ads-skill": {
+    "name": "ownway18/adm-google-ads-skill",
+    "description": "Agent Skill and remote MCP server for Google Ads: reports, search terms and AI campaign drafts in Claude Code, Codex, Cursor and Windsurf.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ownway18",
+    "repoName": "adm-google-ads-skill",
+    "repoBranch": "main"
+  },
+  "tymoshenko-dmytro/claude-marketing-skills": {
+    "name": "tymoshenko-dmytro/claude-marketing-skills",
+    "description": "Claude Code marketing skills for growth teams: competitor research, ad library parser, Ahrefs SEO, GA4 reports, funnel screenshots, AI ad images, motion videos and a copy critic. Free plugin, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tymoshenko-dmytro",
+    "repoName": "claude-marketing-skills",
+    "repoBranch": "main"
+  },
+  "AIPris/ticket-to-merge": {
+    "name": "AIPris/ticket-to-merge",
+    "description": "Claude Code skill that autonomously turns open GitHub issues into reviewed, CI-green, squash-merged pull requests: a fresh Claude session per issue, an AI code review gate and CI auto-repair (Windows).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AIPris",
+    "repoName": "ticket-to-merge",
+    "repoBranch": "main"
+  },
+  "Batsuren02/mongolian-humanizer": {
+    "name": "Batsuren02/mongolian-humanizer",
+    "description": "Rewrite AI-generated Mongolian text so it reads like a native speaker wrote it. Agent skill for Claude Code, Codex, Cursor. \u0425\u0438\u0439\u043c\u044d\u043b \u043e\u044e\u0443\u043d\u044b \u043c\u043e\u043d\u0433\u043e\u043b \u0442\u0435\u043a\u0441\u0442\u0438\u0439\u0433 \u0445\u04af\u043d\u0438\u0439 \u0431\u0438\u0447\u0441\u044d\u043d \u043c\u044d\u0442 \u0431\u043e\u043b\u0433\u043e\u043d\u043e.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Batsuren02",
+    "repoName": "mongolian-humanizer",
+    "repoBranch": "main"
+  },
+  "sagaargroups/OpenWarehouse": {
+    "name": "sagaargroups/OpenWarehouse",
+    "description": "The Universal Open-Source Warehouse for AI Agents, Skills, MCP Servers & Plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sagaargroups",
+    "repoName": "OpenWarehouse",
+    "repoBranch": "main"
+  },
+  "sacredvalentin/who-made-the-call": {
+    "name": "sacredvalentin/who-made-the-call",
+    "description": "A decision ledger for work done with AI agents. It records every fork and who decided it, and it must not write a reason the person did not give.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sacredvalentin",
+    "repoName": "who-made-the-call",
+    "repoBranch": "main"
   }
 }

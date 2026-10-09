@@ -5980,5 +5980,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "nicodiansk/turboflow": {
+    "owner": "nicodiansk",
+    "name": "turboflow",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tymoshenko-dmytro/claude-marketing-skills": {
+    "owner": "tymoshenko-dmytro",
+    "name": "claude-marketing-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "volikablack/own-voice": {
+    "owner": "volikablack",
+    "name": "own-voice",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -44761,5 +44761,104 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "openqodex/openqodex": {
+        "owner": "openqodex",
+        "name": "openqodex",
+        "branch": "main",
+        "enabled": true
+    },
+    "usetrmnl/trmnl-agent-skills": {
+        "owner": "usetrmnl",
+        "name": "trmnl-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "starburst1977/apply-kit": {
+        "owner": "starburst1977",
+        "name": "apply-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "nicodiansk/turboflow": {
+        "owner": "nicodiansk",
+        "name": "turboflow",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Land-o-Clusters/sleight": {
+        "owner": "Land-o-Clusters",
+        "name": "sleight",
+        "branch": "main",
+        "enabled": true
+    },
+    "HagaiHen/podcast-wiki": {
+        "owner": "HagaiHen",
+        "name": "podcast-wiki",
+        "branch": "podcast-wiki",
+        "enabled": true
+    },
+    "ownway18/adm-google-ads-skill": {
+        "owner": "ownway18",
+        "name": "adm-google-ads-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tymoshenko-dmytro/claude-marketing-skills": {
+        "owner": "tymoshenko-dmytro",
+        "name": "claude-marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "volikablack/own-voice": {
+        "owner": "volikablack",
+        "name": "own-voice",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AIPris/ticket-to-merge": {
+        "owner": "AIPris",
+        "name": "ticket-to-merge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Batsuren02/mongolian-humanizer": {
+        "owner": "Batsuren02",
+        "name": "mongolian-humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sagaargroups/OpenWarehouse": {
+        "owner": "sagaargroups",
+        "name": "OpenWarehouse",
+        "branch": "main",
+        "enabled": true
+    },
+    "cernetman/agent-skills": {
+        "owner": "cernetman",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sewox/Discovered-Skills": {
+        "owner": "sewox",
+        "name": "Discovered-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sacredvalentin/who-made-the-call": {
+        "owner": "sacredvalentin",
+        "name": "who-made-the-call",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
