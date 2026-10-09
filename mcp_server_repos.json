@@ -177,5 +177,14 @@
     "enabled": true,
     "serverName": "io.github.negm17111995/maqami-travel",
     "note": "Hotel and flight search and booking on MAQAMI (3M+ hotels). Hosted MCP: https://mcp.maqami.co/ (Streamable HTTP, no API key). Local stdio bridge: npx -y maqami-travel. Canonical metadata is in server.json."
+  },
+  "allxsmith/bestax": {
+    "owner": "allxsmith",
+    "name": "bestax",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.allxsmith/bestax-mcp",
+    "subPath": "bestax-mcp",
+    "note": "Props, working examples, --bulma-* CSS variables and Agent Skills for Bestax, React components for Bulma v1. Local stdio, offline, no API key. Package: bestax-mcp (npx -y bestax-mcp@1). MIT."
   }
 }

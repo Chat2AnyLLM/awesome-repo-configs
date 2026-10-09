@@ -36721,5 +36721,14 @@
     "repoOwner": "koopycat",
     "repoName": "claude-code-plugins",
     "repoBranch": "main"
+  },
+  "allxsmith/bestax-skills": {
+    "name": "bestax-skills",
+    "description": "The bestax plugin: seven Agent Skills for building React apps with Bestax, a component library for Bulma v1 (forms, layouts, theming, icons, CSS size, migration), plus the bestax-mcp server pinned to an exact version.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "allxsmith",
+    "repoName": "bestax-skills",
+    "repoBranch": "main"
   }
 }

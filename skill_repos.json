@@ -44639,5 +44639,12 @@
         "name": "claude-skills",
         "branch": "main",
         "enabled": true
+    },
+    "allxsmith/bestax": {
+        "owner": "allxsmith",
+        "name": "bestax",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
