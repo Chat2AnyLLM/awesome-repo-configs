@@ -1,4 +1,11 @@
 {
+    "kubec/abuzzhive.com": {
+        "owner": "kubec",
+        "name": "abuzzhive.com",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "cloudishai/skills": {
         "owner": "cloudishai",
         "name": "skills",
