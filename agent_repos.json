@@ -5973,5 +5973,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kyle-chalmers/streamsnow": {
+    "owner": "kyle-chalmers",
+    "name": "streamsnow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

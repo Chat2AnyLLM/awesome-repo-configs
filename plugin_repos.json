@@ -36730,5 +36730,131 @@
     "repoOwner": "allxsmith",
     "repoName": "bestax-skills",
     "repoBranch": "main"
+  },
+  "techhorizonlabs/thl-open": {
+    "name": "techhorizonlabs/thl-open",
+    "description": "AI-visibility engineering, the open way: a Claude Code GEO/AI-search audit suite, two original tools (agent-readiness-scan + audit-report-kit), and the THL method that ties them together.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "techhorizonlabs",
+    "repoName": "thl-open",
+    "repoBranch": "main"
+  },
+  "CodeForBreakfast/beady-eye": {
+    "name": "CodeForBreakfast/beady-eye",
+    "description": "One unblinking eye over all your beads trackers. Shows the trees of work and the agents on them, wakes an agent when a bead it waits on changes, and settles pull-request waits from GitHub.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CodeForBreakfast",
+    "repoName": "beady-eye",
+    "repoBranch": "main"
+  },
+  "preset-io/agent-skills": {
+    "name": "preset-io/agent-skills",
+    "description": "Agent skills for Preset, Apache Superset and Superset MCP \u2014 `sup` CLI, HTTP/SDK and MCP workflows from a single source.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "preset-io",
+    "repoName": "agent-skills",
+    "repoBranch": "master"
+  },
+  "jgwill/miadi-orchestration-kit": {
+    "name": "jgwill/miadi-orchestration-kit",
+    "description": "The agent-host side of the Miadi Factory: Claude Code plugins, host-neutral skills and apt packages for Chronicle episodes, session capture and restore, and witnessed review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jgwill",
+    "repoName": "miadi-orchestration-kit",
+    "repoBranch": "main"
+  },
+  "OnurGumus/codebase-video": {
+    "name": "OnurGumus/codebase-video",
+    "description": "Turn a codebase into a fact-checked narrated video. A Claude Code plugin: one agent reads the code, fresh agents verify every claim, then the video is made locally.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OnurGumus",
+    "repoName": "codebase-video",
+    "repoBranch": "main"
+  },
+  "ramiejleh/DefyAtrophy": {
+    "name": "ramiejleh/DefyAtrophy",
+    "description": "Claude Code plugins that keep you in the loop while AI writes the code: type or write the solution yourself line by line, walk through any code, and review PRs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ramiejleh",
+    "repoName": "DefyAtrophy",
+    "repoBranch": "main"
+  },
+  "kyle-chalmers/streamsnow": {
+    "name": "kyle-chalmers/streamsnow",
+    "description": "Build, govern, and ship Streamlit-in-Snowflake apps with Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kyle-chalmers",
+    "repoName": "streamsnow",
+    "repoBranch": "main"
+  },
+  "KyongSik-Yoon/cc-desktop-mod": {
+    "name": "KyongSik-Yoon/cc-desktop-mod",
+    "description": "Claude Code plugin (mod) that makes the Claude Code terminal UI look like the Claude desktop app: prompt bubbles, markdown tables, mermaid diagrams, folded tool calls, subagent cards, diff pane and context meter.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KyongSik-Yoon",
+    "repoName": "cc-desktop-mod",
+    "repoBranch": "main"
+  },
+  "benpaternostro/claude-usage-band": {
+    "name": "benpaternostro/claude-usage-band",
+    "description": "Your Claude usage, where you can see it",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "benpaternostro",
+    "repoName": "claude-usage-band",
+    "repoBranch": "main"
+  },
+  "ElirazKed/claude-code-pr-watch": {
+    "name": "ElirazKed/claude-code-pr-watch",
+    "description": "Claude Code mod: a live pane of the GitHub PRs a session opens or pushes to \u2014 CI, review, conflicts, merge \u2014 with one poller shared by every session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ElirazKed",
+    "repoName": "claude-code-pr-watch",
+    "repoBranch": "main"
+  },
+  "tc3oliver/claude-team-kit": {
+    "name": "tc3oliver/claude-team-kit",
+    "description": "Native agent teams. Under control. Hard worker limits, live team visibility, and portable configuration for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tc3oliver",
+    "repoName": "claude-team-kit",
+    "repoBranch": "main"
+  },
+  "flowmux-ai/claude-token-panel": {
+    "name": "flowmux-ai/claude-token-panel",
+    "description": "A Claude Code mod that shows how many tokens each prompt used and what it cost.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "flowmux-ai",
+    "repoName": "claude-token-panel",
+    "repoBranch": "main"
+  },
+  "AntonBronnfjell/tooling-agent-skill-markdown_html-design-system": {
+    "name": "AntonBronnfjell/tooling-agent-skill-markdown_html-design-system",
+    "description": "Agent skill that decides and builds a complete, accessible HTML/CSS design system (306 components, DTCG tokens, themes) \u2014 installs into Claude Code, Codex, Cursor, Copilot, Gemini CLI, Windsurf, Cline, Kiro and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AntonBronnfjell",
+    "repoName": "tooling-agent-skill-markdown_html-design-system",
+    "repoBranch": "main"
+  },
+  "matryoshka-paradigms/business-frameworks": {
+    "name": "matryoshka-paradigms/business-frameworks",
+    "description": "Agent Skill for Business Frameworks: decision frameworks for value, cash flow, cost of capital and growth in a business under $50M revenue. Free top layer; paid nodes $0.02\u2013$0.05 over x402 (USDC on Base), paid only wi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matryoshka-paradigms",
+    "repoName": "business-frameworks",
+    "repoBranch": "main"
   }
 }

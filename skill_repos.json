@@ -44646,5 +44646,106 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "techhorizonlabs/thl-open": {
+        "owner": "techhorizonlabs",
+        "name": "thl-open",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CodeForBreakfast/beady-eye": {
+        "owner": "CodeForBreakfast",
+        "name": "beady-eye",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "preset-io/agent-skills": {
+        "owner": "preset-io",
+        "name": "agent-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "jgwill/miadi-orchestration-kit": {
+        "owner": "jgwill",
+        "name": "miadi-orchestration-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "OnurGumus/codebase-video": {
+        "owner": "OnurGumus",
+        "name": "codebase-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nikhonit/social-media-api-skills": {
+        "owner": "nikhonit",
+        "name": "social-media-api-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ramiejleh/DefyAtrophy": {
+        "owner": "ramiejleh",
+        "name": "DefyAtrophy",
+        "branch": "main",
+        "enabled": true
+    },
+    "kyle-chalmers/streamsnow": {
+        "owner": "kyle-chalmers",
+        "name": "streamsnow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tc3oliver/claude-team-kit": {
+        "owner": "tc3oliver",
+        "name": "claude-team-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "leeguooooo/paypay-securities": {
+        "owner": "leeguooooo",
+        "name": "paypay-securities",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AntonBronnfjell/tooling-agent-skill-markdown_html-design-system": {
+        "owner": "AntonBronnfjell",
+        "name": "tooling-agent-skill-markdown_html-design-system",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "josueh04/linkedin-gif-post-skill": {
+        "owner": "josueh04",
+        "name": "linkedin-gif-post-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ZiadHassanein/C2C": {
+        "owner": "ZiadHassanein",
+        "name": "C2C",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "matryoshka-paradigms/business-frameworks": {
+        "owner": "matryoshka-paradigms",
+        "name": "business-frameworks",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "everyinfra/seo-skills": {
+        "owner": "everyinfra",
+        "name": "seo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
