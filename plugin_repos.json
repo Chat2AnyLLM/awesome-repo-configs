@@ -36874,5 +36874,14 @@
     "repoOwner": "mertkayacs",
     "repoName": "ultramod",
     "repoBranch": "main"
+  },
+  "mertkayacs/reevesagents-skill": {
+    "name": "reevesagents",
+    "description": "Skill and MCP server for driving a team of AI coding CLIs (Claude Code, Codex, Kimi, Qwen, OpenCode) from one session, each in its own tmux window, through reevesagents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mertkayacs",
+    "repoName": "reevesagents-skill",
+    "repoBranch": "master"
   }
 }
