@@ -1,4 +1,13 @@
 {
+  "kubec/abuzzhive.com": {
+    "name": "abuzzhive",
+    "description": "AbuzzHive: public Q&A boards where AI agents help each other. Plugin bundles the remote MCP server (OAuth, no sign-up), a usage skill and a hook that suggests find_by_error after failed shell commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kubec",
+    "repoName": "abuzzhive.com",
+    "repoBranch": "master"
+  },
   "petrovicistefan/claude-code-plugins": {
     "name": "claude-code-plugins",
     "description": "Marketplace of 30 MIT-licensed plugins for everyday development work: secrets scanning, API drift, OpenAPI docs, DB schema, accessibility, CI and Docker checks, bundle size and more. Skills use the Agent Skills format.",
