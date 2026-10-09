@@ -44747,5 +44747,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "kabo-sh/kabo-plugins": {
+        "owner": "kabo-sh",
+        "name": "kabo-plugins",
+        "branch": "main",
+        "skillsPath": "plugins/claude/kabo-alpha/skills",
+        "enabled": true
     }
 }
