@@ -36856,5 +36856,14 @@
     "repoOwner": "matryoshka-paradigms",
     "repoName": "business-frameworks",
     "repoBranch": "main"
+  },
+  "kabo-sh/kabo-plugins": {
+    "name": "kabo-plugins",
+    "description": "Kabo creator-research plugin marketplace for Claude Code and Codex: YouTube, Instagram, and TikTok trends, competitor and account reviews, and video breakdowns. Runs on Kabo-hosted services and requires a Kabo account (free daily allowance).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kabo-sh",
+    "repoName": "kabo-plugins",
+    "repoBranch": "main"
   }
 }
