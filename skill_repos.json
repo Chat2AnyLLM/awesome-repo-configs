@@ -44867,5 +44867,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "bankbridge-money/bankbridge-plugin": {
+        "owner": "bankbridge-money",
+        "name": "bankbridge-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

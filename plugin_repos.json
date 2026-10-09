@@ -37018,5 +37018,14 @@
     "repoOwner": "dominicrico",
     "repoName": "jev-router",
     "repoBranch": "main"
+  },
+  "bankbridge-money/bankbridge-plugin": {
+    "name": "bankbridge",
+    "description": "BankBridge: ask Claude about your own bank accounts, card transactions and investments. Plugin bundles the hosted read-only MCP server (OAuth sign-in, paid per connected bank, US banks), 19 slash commands (budget draft, subscriptions, monthly report, tax prep) and a usage skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bankbridge-money",
+    "repoName": "bankbridge-plugin",
+    "repoBranch": "main"
   }
 }
