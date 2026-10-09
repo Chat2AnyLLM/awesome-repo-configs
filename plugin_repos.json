@@ -37009,5 +37009,14 @@
     "repoOwner": "sacredvalentin",
     "repoName": "who-made-the-call",
     "repoBranch": "main"
+  },
+  "dominicrico/jev-router": {
+    "name": "dominicrico/jev-router",
+    "description": "Claude Code mod that asks TypeSafe Jev which Claude model and reasoning effort each prompt, step and subagent needs, with an effort cap, a prompt-cache guard and a status band above the prompt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dominicrico",
+    "repoName": "jev-router",
+    "repoBranch": "main"
   }
 }
