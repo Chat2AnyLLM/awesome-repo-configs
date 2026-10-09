@@ -44754,5 +44754,12 @@
         "branch": "main",
         "skillsPath": "plugins/claude/kabo-alpha/skills",
         "enabled": true
+    },
+    "mertkayacs/reevesagents-skill": {
+        "owner": "mertkayacs",
+        "name": "reevesagents-skill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
