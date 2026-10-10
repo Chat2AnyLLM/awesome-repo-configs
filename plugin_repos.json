@@ -37378,5 +37378,104 @@
     "repoOwner": "vibecodedapps-official",
     "repoName": "reimagine-code",
     "repoBranch": "main"
+  },
+  "fatihaydost/brand-identity-skill": {
+    "name": "fatihaydost/brand-identity-skill",
+    "description": "A Claude Code skill that designs a brand identity as one system: logo, typography and colour palette built together from one brief, measured, compared as identity cards, and delivered as a brand guidelines kit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fatihaydost",
+    "repoName": "brand-identity-skill",
+    "repoBranch": "main"
+  },
+  "wrg32786/aigent-os": {
+    "name": "wrg32786/aigent-os",
+    "description": "Claude Code harness that refreshes its own context instead of compacting: at a threshold it writes a verified capsule, runs /clear, and resumes in a fresh session. Memory is plain markdown in git, readable with git lo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wrg32786",
+    "repoName": "aigent-os",
+    "repoBranch": "master"
+  },
+  "gregdotca/ccmod-the-machine": {
+    "name": "gregdotca/ccmod-the-machine",
+    "description": "A Claude Code mod that restyles it as The Machine from Person of Interest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gregdotca",
+    "repoName": "ccmod-the-machine",
+    "repoBranch": "main"
+  },
+  "ibrahimkobeissy/claude-mods": {
+    "name": "ibrahimkobeissy/claude-mods",
+    "description": "Open-source mods for Claude Code: panes, status lines, toasts, tool guards and slash commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ibrahimkobeissy",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "nvxtien/context-slice": {
+    "name": "nvxtien/context-slice",
+    "description": "Reduce the context before sending it to the LLM",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nvxtien",
+    "repoName": "context-slice",
+    "repoBranch": "main"
+  },
+  "Instant-Expert/skills": {
+    "name": "Instant-Expert/skills",
+    "description": "Agent Skills from Instant Expert: let any AI agent ask real human experts (executives, operators, domain specialists) for a written answer or a short call. OpenClaw, Claude Code and more; free test mode, no account.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Instant-Expert",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "schneidermilanistvan-hash/claude-code-account-switch-recovery": {
+    "name": "schneidermilanistvan-hash/claude-code-account-switch-recovery",
+    "description": "Get back Claude Code sessions, sidebar folders, routines and published artifacts after switching Claude plan, account or workspace (e.g. Max to Team). Guide + agent skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "schneidermilanistvan-hash",
+    "repoName": "claude-code-account-switch-recovery",
+    "repoBranch": "main"
+  },
+  "shironigun/claude-marketplace": {
+    "name": "shironigun/claude-marketplace",
+    "description": "A Claude Code plugin marketplace \u2014 QA & release-engineering plugins (skills, agents, MCP servers). Flagship: qa-engineering, one orchestrator for the whole QA loop (story \u2192 test cases \u2192 publish \u2192 automate \u2192 bug), huma...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shironigun",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "Victormartinsilva/MODS-CLAUDECODE": {
+    "name": "Victormartinsilva/MODS-CLAUDECODE",
+    "description": "Marketplace de mods do Claude Code com instala\u00e7\u00e3o em um passo e guia em v\u00eddeo em portugu\u00eas",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Victormartinsilva",
+    "repoName": "MODS-CLAUDECODE",
+    "repoBranch": "main"
+  },
+  "Egrn/claude-code-mutedit": {
+    "name": "Egrn/claude-code-mutedit",
+    "description": "Hey, Muted it! Ditch the diff cut the riff, no more edits less of credits",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Egrn",
+    "repoName": "claude-code-mutedit",
+    "repoBranch": "main"
+  },
+  "AH-Merii/claude-plugins": {
+    "name": "AH-Merii/claude-plugins",
+    "description": "Claude Code skills and mods by AH-Merii",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AH-Merii",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }

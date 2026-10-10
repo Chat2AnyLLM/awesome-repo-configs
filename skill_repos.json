@@ -45198,5 +45198,127 @@
         "name": "solaris-dev-shop",
         "branch": "main",
         "enabled": true
+    },
+    "fatihaydost/brand-identity-skill": {
+        "owner": "fatihaydost",
+        "name": "brand-identity-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wrg32786/aigent-os": {
+        "owner": "wrg32786",
+        "name": "aigent-os",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thmsgo18/latex-forge-skill": {
+        "owner": "thmsgo18",
+        "name": "latex-forge-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "capsrock/ios-simulator-automation-skill": {
+        "owner": "capsrock",
+        "name": "ios-simulator-automation-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shimo4228/jsonld-knowledge-graph": {
+        "owner": "shimo4228",
+        "name": "jsonld-knowledge-graph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/agent-observability-patterns": {
+        "owner": "shimo4228",
+        "name": "agent-observability-patterns",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Harungokc/eticaret-agentlari": {
+        "owner": "Harungokc",
+        "name": "eticaret-agentlari",
+        "branch": "main",
+        "enabled": true
+    },
+    "noderaven/parallel-lanes": {
+        "owner": "noderaven",
+        "name": "parallel-lanes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shimo4228/code-and-llm-collaboration": {
+        "owner": "shimo4228",
+        "name": "code-and-llm-collaboration",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/agent-adoption-triage": {
+        "owner": "shimo4228",
+        "name": "agent-adoption-triage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shimo4228/llm-agent-security-principles": {
+        "owner": "shimo4228",
+        "name": "llm-agent-security-principles",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nvxtien/context-slice": {
+        "owner": "nvxtien",
+        "name": "context-slice",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Instant-Expert/skills": {
+        "owner": "Instant-Expert",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "predictionmarketspicks/skills": {
+        "owner": "predictionmarketspicks",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vishalguptax/agent-engineering-kit": {
+        "owner": "vishalguptax",
+        "name": "agent-engineering-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "schneidermilanistvan-hash/claude-code-account-switch-recovery": {
+        "owner": "schneidermilanistvan-hash",
+        "name": "claude-code-account-switch-recovery",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shironigun/claude-marketplace": {
+        "owner": "shironigun",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "AH-Merii/claude-plugins": {
+        "owner": "AH-Merii",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }
