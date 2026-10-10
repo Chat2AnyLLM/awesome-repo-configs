@@ -45059,5 +45059,138 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "feitangyuan/onetake": {
+        "owner": "feitangyuan",
+        "name": "onetake",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Grit-77/done-is-a-claim": {
+        "owner": "Grit-77",
+        "name": "done-is-a-claim",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pinto-notes/pinto-notes": {
+        "owner": "pinto-notes",
+        "name": "pinto-notes",
+        "branch": "main",
+        "enabled": true
+    },
+    "aicodedecode/awesome-muse-skills": {
+        "owner": "aicodedecode",
+        "name": "awesome-muse-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "nicholyx/ai-skills": {
+        "owner": "nicholyx",
+        "name": "ai-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kvrancic/oneshot-video": {
+        "owner": "kvrancic",
+        "name": "oneshot-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hirebalzac/cli": {
+        "owner": "hirebalzac",
+        "name": "cli",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "andreeeeaaaaas/skills": {
+        "owner": "andreeeeaaaaas",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "duryno/Slicelytics-public": {
+        "owner": "duryno",
+        "name": "Slicelytics-public",
+        "branch": "main",
+        "enabled": true
+    },
+    "inamprotocol/inam-protocol": {
+        "owner": "inamprotocol",
+        "name": "inam-protocol",
+        "branch": "main",
+        "enabled": true
+    },
+    "syedmuhdahmad/Alchemist-QA": {
+        "owner": "syedmuhdahmad",
+        "name": "Alchemist-QA",
+        "branch": "main",
+        "enabled": true
+    },
+    "topoftheblock/citation-worthy-skill": {
+        "owner": "topoftheblock",
+        "name": "citation-worthy-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mayankjain1717/flow-scoper": {
+        "owner": "mayankjain1717",
+        "name": "flow-scoper",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TangentialSolutions/hey-axi": {
+        "owner": "TangentialSolutions",
+        "name": "hey-axi",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ansh-saran-sharma/codestory": {
+        "owner": "ansh-saran-sharma",
+        "name": "codestory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shwetankg07/legal-radar": {
+        "owner": "shwetankg07",
+        "name": "legal-radar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "c2pa-design/skills": {
+        "owner": "c2pa-design",
+        "name": "skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hu3rror/my-skills": {
+        "owner": "hu3rror",
+        "name": "my-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bowen31337/comprehension-ladder": {
+        "owner": "bowen31337",
+        "name": "comprehension-ladder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vibecodedapps-official/reimagine-code": {
+        "owner": "vibecodedapps-official",
+        "name": "reimagine-code",
+        "branch": "main",
+        "enabled": true
     }
 }

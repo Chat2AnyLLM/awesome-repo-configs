@@ -37288,5 +37288,95 @@
     "repoOwner": "MohammedSaud404",
     "repoName": "rtl-terminal",
     "repoBranch": "main"
+  },
+  "pinto-notes/pinto-notes": {
+    "name": "pinto-notes/pinto-notes",
+    "description": "Pinto Notes: end-to-end encrypted notes for iPhone and Mac that ChatGPT and Claude can read and edit. Formerly Amber Notes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pinto-notes",
+    "repoName": "pinto-notes",
+    "repoBranch": "main"
+  },
+  "nicholyx/ai-skills": {
+    "name": "nicholyx/ai-skills",
+    "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nicholyx",
+    "repoName": "ai-skills",
+    "repoBranch": "main"
+  },
+  "kvrancic/oneshot-video": {
+    "name": "kvrancic/oneshot-video",
+    "description": "One-shot AI video studio for Claude Code, Codex and Cursor. Raw footage in: a finished edit, captioned clips, or a promo from a brief. Local on a Mac; hands the timeline back to Premiere, Final Cut and Resolve.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kvrancic",
+    "repoName": "oneshot-video",
+    "repoBranch": "main"
+  },
+  "andreeeeaaaaas/skills": {
+    "name": "andreeeeaaaaas/skills",
+    "description": "Agent skills for Claude Code, Codex and other agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andreeeeaaaaas",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "duryno/Slicelytics-public": {
+    "name": "duryno/Slicelytics-public",
+    "description": "Agent skill for Claude Code, Codex & Cursor: visualise, explore and compare JSON, NDJSON, CSV and TOON data in Slicelytics. Engage with the Slicelytics community through issues, discussions, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "duryno",
+    "repoName": "Slicelytics-public",
+    "repoBranch": "main"
+  },
+  "inamprotocol/inam-protocol": {
+    "name": "inamprotocol/inam-protocol",
+    "description": "Verify before your agent pays: x402 payments only reach agents whose wallet and countersigned work history check out. Open receipts + reputation for AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inamprotocol",
+    "repoName": "inam-protocol",
+    "repoBranch": "main"
+  },
+  "syedmuhdahmad/Alchemist-QA": {
+    "name": "syedmuhdahmad/Alchemist-QA",
+    "description": "A QA company for Claude Code: test analysis, design, automation, and reporting with open-source tools, aligned with the ISTQB syllabi.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "syedmuhdahmad",
+    "repoName": "Alchemist-QA",
+    "repoBranch": "main"
+  },
+  "shwetankg07/legal-radar": {
+    "name": "shwetankg07/legal-radar",
+    "description": "A Claude Code skill that keeps products built for Indian users out of legal trouble: DPDP, CERT-In, the 2026 AI-labelling rules, CCPA dark patterns, e-commerce, RBI payments, TRAI DLT and the online gaming ban. Writes...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shwetankg07",
+    "repoName": "legal-radar",
+    "repoBranch": "main"
+  },
+  "c2pa-design/skills": {
+    "name": "c2pa-design/skills",
+    "description": "Agent skills for C2PA Content Credentials: check files and URLs, track every asset in a repo, catch lost provenance. Claude Code, Codex, Cursor, Gemini CLI, Copilot",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "c2pa-design",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "vibecodedapps-official/reimagine-code": {
+    "name": "vibecodedapps-official/reimagine-code",
+    "description": "Claude Code and Codex plugins: ccx hands work to the Codex CLI, ccx-loop runs a plan-to-publish loop, cca audits pull requests before merge, repo-docs keeps agent instructions correct.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vibecodedapps-official",
+    "repoName": "reimagine-code",
+    "repoBranch": "main"
   }
 }
