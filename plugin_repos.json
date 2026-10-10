@@ -37270,5 +37270,14 @@
     "repoOwner": "Benjamin-M-N",
     "repoName": "research-squad",
     "repoBranch": "main"
+  },
+  "MohammedSaud404/rtl-terminal": {
+    "name": "MohammedSaud404/rtl-terminal",
+    "description": "Right-to-left layout for Arabic, Hebrew, Persian and Urdu in the Claude Code terminal (Windows Terminal, conhost, VS Code's integrated terminal). A Claude Code mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MohammedSaud404",
+    "repoName": "rtl-terminal",
+    "repoBranch": "main"
   }
 }
