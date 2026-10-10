@@ -6029,5 +6029,19 @@
     "branch": "develop",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "adityaarsharma/youtube-marketing-skills": {
+    "owner": "adityaarsharma",
+    "name": "youtube-marketing-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Benjamin-M-N/research-squad": {
+    "owner": "Benjamin-M-N",
+    "name": "research-squad",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

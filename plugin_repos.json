@@ -37126,5 +37126,149 @@
     "repoOwner": "iamsikun",
     "repoName": "quill",
     "repoBranch": "main"
+  },
+  "tong-wang/auto-mdp-solver": {
+    "name": "tong-wang/auto-mdp-solver",
+    "description": "Formalize a verbal dynamic-decision problem into an MDP, then train and interpret a deployable RL policy \u2014 as Claude Code skills with executable gates between stages",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tong-wang",
+    "repoName": "auto-mdp-solver",
+    "repoBranch": "main"
+  },
+  "gregdotca/claude-mods": {
+    "name": "gregdotca/claude-mods",
+    "description": "Claude Code mods by Greg Chetcuti. Includes the-machine, which restyles Claude Code as The Machine from Person of Interest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gregdotca",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "Fazzani/claude-mods": {
+    "name": "Fazzani/claude-mods",
+    "description": "Claude Mods",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fazzani",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "CodyAMaughan/meme-factory": {
+    "name": "CodyAMaughan/meme-factory",
+    "description": "Fresh from the factory. A Claude Code mod: ask for a meme, keep working. Drafts cook in a side panel; pick, remix, approve and post to Slack.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CodyAMaughan",
+    "repoName": "meme-factory",
+    "repoBranch": "main"
+  },
+  "PLeonLopes/polaris-marketplace": {
+    "name": "PLeonLopes/polaris-marketplace",
+    "description": "Polaris: a personal Claude Code marketplace with skills, agents, commands, hooks and MCP servers, packaged as installable plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PLeonLopes",
+    "repoName": "polaris-marketplace",
+    "repoBranch": "main"
+  },
+  "Kingyoungmins/cowork-sync": {
+    "name": "Kingyoungmins/cowork-sync",
+    "description": "Claude Code plugin that keeps the working tree of one git branch in sync between teammates' clones, through your own private git remote. No server. v0.1.1-preview: use it on a test repository only. Source-available (F...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kingyoungmins",
+    "repoName": "cowork-sync",
+    "repoBranch": "main"
+  },
+  "philarete173/claude_mods": {
+    "name": "philarete173/claude_mods",
+    "description": "Live session-stats side pane for the Claude desktop app's Code tab: context, cost, git changes, turn stats, subagents, log.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "philarete173",
+    "repoName": "claude_mods",
+    "repoBranch": "main"
+  },
+  "vayaan-labs/plugins": {
+    "name": "vayaan-labs/plugins",
+    "description": "Vayaan Labs plugins for coding agents: add the catalogue once, then install any of our plugins by name",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vayaan-labs",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "devohmycode/ccmods": {
+    "name": "devohmycode/ccmods",
+    "description": "Claude Code mods written as function hooks, and the marketplace that offers them. dash: the session's dashboard in one pane.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devohmycode",
+    "repoName": "ccmods",
+    "repoBranch": "main"
+  },
+  "jimmysteinmetz/b-sides": {
+    "name": "jimmysteinmetz/b-sides",
+    "description": "Small mods for Claude Code, like new slash commands and side panes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jimmysteinmetz",
+    "repoName": "b-sides",
+    "repoBranch": "main"
+  },
+  "hcslomeu/skills": {
+    "name": "hcslomeu/skills",
+    "description": "Plugin catalogue for the agent skills published by @hcslomeu",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hcslomeu",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "aseem-upadhyay/qol-mods": {
+    "name": "aseem-upadhyay/qol-mods",
+    "description": "Small add-ons that make Claude Code nicer to use and help newcomers get good at it faster. Each one fixes a small annoyance or builds a good habit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aseem-upadhyay",
+    "repoName": "qol-mods",
+    "repoBranch": "main"
+  },
+  "EdgeKits/skills": {
+    "name": "EdgeKits/skills",
+    "description": "Free agent skills from EdgeKits, packaged as Claude plugins: a Telegram bot security audit, selling access to private GitHub repos, and more. For Claude Code, Cowork, Cursor and OpenCode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EdgeKits",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "talhayme/claude-plugins": {
+    "name": "talhayme/claude-plugins",
+    "description": "Claude Code plugins built around one idea: AI tooling should be measurable",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "talhayme",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "zebrapuma/claude-plugins": {
+    "name": "zebrapuma/claude-plugins",
+    "description": "Claude Code plugin marketplace by ZebraPuma Services: zps-* plugins for project management, prioritization and delivery.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zebrapuma",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Benjamin-M-N/research-squad": {
+    "name": "Benjamin-M-N/research-squad",
+    "description": "Claude Code plugin that finds local businesses without a website, verifies and scores them as leads, and prepares the mockup, ROI and proposal to win them as clients \u2014 plus a research squad for market analysis, statis...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Benjamin-M-N",
+    "repoName": "research-squad",
+    "repoBranch": "main"
   }
 }

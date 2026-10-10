@@ -44974,5 +44974,90 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "adityaarsharma/youtube-marketing-skills": {
+        "owner": "adityaarsharma",
+        "name": "youtube-marketing-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Youtube-Transcript-Dev/Youtube-Transcript-API": {
+        "owner": "Youtube-Transcript-Dev",
+        "name": "Youtube-Transcript-API",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lcy362/chrome-sidecar": {
+        "owner": "lcy362",
+        "name": "chrome-sidecar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ChenYiming-aaa/better-trip-planner": {
+        "owner": "ChenYiming-aaa",
+        "name": "better-trip-planner",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tong-wang/auto-mdp-solver": {
+        "owner": "tong-wang",
+        "name": "auto-mdp-solver",
+        "branch": "main",
+        "enabled": true
+    },
+    "barbarabasquill/ai-powered-abm-command-center": {
+        "owner": "barbarabasquill",
+        "name": "ai-powered-abm-command-center",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "elfovo/agent-chain-doctor": {
+        "owner": "elfovo",
+        "name": "agent-chain-doctor",
+        "branch": "main",
+        "enabled": true
+    },
+    "aimaoshi/flutter_riverpod_foundation": {
+        "owner": "aimaoshi",
+        "name": "flutter_riverpod_foundation",
+        "branch": "main",
+        "enabled": true
+    },
+    "PLeonLopes/polaris-marketplace": {
+        "owner": "PLeonLopes",
+        "name": "polaris-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "hcslomeu/skills": {
+        "owner": "hcslomeu",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EdgeKits/skills": {
+        "owner": "EdgeKits",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "talhayme/claude-plugins": {
+        "owner": "talhayme",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Benjamin-M-N/research-squad": {
+        "owner": "Benjamin-M-N",
+        "name": "research-squad",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
