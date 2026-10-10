@@ -45192,5 +45192,11 @@
         "name": "reimagine-code",
         "branch": "main",
         "enabled": true
+    },
+    "Shaisolaris/solaris-dev-shop": {
+        "owner": "Shaisolaris",
+        "name": "solaris-dev-shop",
+        "branch": "main",
+        "enabled": true
     }
 }
