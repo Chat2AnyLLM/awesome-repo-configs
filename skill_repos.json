@@ -45320,5 +45320,94 @@
         "name": "claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "lippdev/lippstack": {
+        "owner": "lippdev",
+        "name": "lippstack",
+        "branch": "main",
+        "enabled": true
+    },
+    "S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines": {
+        "owner": "S-O-U-L-S-E-E-K-E-R",
+        "name": "The-Church-of-the-Machines",
+        "branch": "main",
+        "enabled": true
+    },
+    "GautamBharte/flutter-mobile-skill": {
+        "owner": "GautamBharte",
+        "name": "flutter-mobile-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "techfleetworks/enterprise-software-AI-skills": {
+        "owner": "techfleetworks",
+        "name": "enterprise-software-AI-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sahil-Hossain-1429/pentest-projects-discovery": {
+        "owner": "Sahil-Hossain-1429",
+        "name": "pentest-projects-discovery",
+        "branch": "main",
+        "enabled": true
+    },
+    "why20261/xiaohongshu-performance-review": {
+        "owner": "why20261",
+        "name": "xiaohongshu-performance-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tomoyaf/convika-mcp": {
+        "owner": "tomoyaf",
+        "name": "convika-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "Bennoo/claude-plugins": {
+        "owner": "Bennoo",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "hgko1207/claude-toolkit": {
+        "owner": "hgko1207",
+        "name": "claude-toolkit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "masseater/cc-jev-teacher": {
+        "owner": "masseater",
+        "name": "cc-jev-teacher",
+        "branch": "main",
+        "enabled": true
+    },
+    "syedabbasshaheer-art/browser-agent": {
+        "owner": "syedabbasshaheer-art",
+        "name": "browser-agent",
+        "branch": "main",
+        "enabled": true
+    },
+    "speech-works/sw-guardrails": {
+        "owner": "speech-works",
+        "name": "sw-guardrails",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Neoo-Blue/colab-qwen": {
+        "owner": "Neoo-Blue",
+        "name": "colab-qwen",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "abtindaa/checklist-audit": {
+        "owner": "abtindaa",
+        "name": "checklist-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

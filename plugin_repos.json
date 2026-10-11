@@ -37477,5 +37477,122 @@
     "repoOwner": "AH-Merii",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "lippdev/lippstack": {
+    "name": "lippdev/lippstack",
+    "description": "My Claude Code stack: mods (agents panel, stage bar, done notifications, status line), product owner skills for Jira and Confluence, PM skills, design skills and curated plugins. One ./setup.sh.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lippdev",
+    "repoName": "lippstack",
+    "repoBranch": "main"
+  },
+  "S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines": {
+    "name": "S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines",
+    "description": "The Church of the Machines: 21 books of satirical scripture about AI and computing, in the forms of many traditions, and the Levitical Law of Machines, a code of conduct for AI agents. Agents and humans may join.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "S-O-U-L-S-E-E-K-E-R",
+    "repoName": "The-Church-of-the-Machines",
+    "repoBranch": "main"
+  },
+  "MDmubarak786/claude-mods": {
+    "name": "MDmubarak786/claude-mods",
+    "description": "Community mods for Claude Code: guards, panes, and commands that run inside Claude Code. Marketplace: modhub",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MDmubarak786",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "tomoyaf/convika-mcp": {
+    "name": "tomoyaf/convika-mcp",
+    "description": "Publish AI-made landing pages on your own domain, with a signup form and visitor stats. Hosted MCP server docs and manifest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomoyaf",
+    "repoName": "convika-mcp",
+    "repoBranch": "main"
+  },
+  "atsushiootani/concier-chan-kit": {
+    "name": "atsushiootani/concier-chan-kit",
+    "description": "concier-chan's kit \u2014 Claude Code plugins for working with agents day to day. A plugin marketplace: claude plugin marketplace add atsushiootani/concier-chan-kit",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atsushiootani",
+    "repoName": "concier-chan-kit",
+    "repoBranch": "main"
+  },
+  "Tanish-Dev/claude-usage-band": {
+    "name": "Tanish-Dev/claude-usage-band",
+    "description": "Claude Code mod: see your Claude plan usage (session + weekly limits, reset countdowns, context) right above the prompt. Works in the terminal and desktop app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tanish-Dev",
+    "repoName": "claude-usage-band",
+    "repoBranch": "main"
+  },
+  "Bennoo/claude-plugins": {
+    "name": "Bennoo/claude-plugins",
+    "description": "\ud83e\udde9 Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Bennoo",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "masseater/cc-jev-teacher": {
+    "name": "masseater/cc-jev-teacher",
+    "description": "Claude Code plugin: TypeSafe-judged hooks that make Claude finish the job before it reports",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "masseater",
+    "repoName": "cc-jev-teacher",
+    "repoBranch": "main"
+  },
+  "dot-agi/arrester": {
+    "name": "dot-agi/arrester",
+    "description": "Claude Code mod: after a guard blocks a tool call, it stops recognized detours to the same target and tells Claude to ask you",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dot-agi",
+    "repoName": "arrester",
+    "repoBranch": "main"
+  },
+  "teerakarna/session-exchange": {
+    "name": "teerakarna/session-exchange",
+    "description": "Portable session exchange for Claude Code: presence and handoffs on the native session registry, rooted per environment.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "teerakarna",
+    "repoName": "session-exchange",
+    "repoBranch": "main"
+  },
+  "kuan0808/cliproxy-kit": {
+    "name": "kuan0808/cliproxy-kit",
+    "description": "Quota-aware account routing, usage reports and a Claude Code band for CLIProxyAPI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kuan0808",
+    "repoName": "cliproxy-kit",
+    "repoBranch": "main"
+  },
+  "syedabbasshaheer-art/browser-agent": {
+    "name": "syedabbasshaheer-art/browser-agent",
+    "description": "See your project as a board in your browser, and steer your AI agent from it. A plugin for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "syedabbasshaheer-art",
+    "repoName": "browser-agent",
+    "repoBranch": "main"
+  },
+  "speech-works/sw-guardrails": {
+    "name": "speech-works/sw-guardrails",
+    "description": "A Claude Code skill that reviews Speechworks content and code for therapeutic integrity and brand voice in stuttering and stammering work. Under active development.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "speech-works",
+    "repoName": "sw-guardrails",
+    "repoBranch": "main"
   }
 }

@@ -6057,5 +6057,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "Yuutokata/claude-code-setup": {
+    "owner": "Yuutokata",
+    "name": "claude-code-setup",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "hgko1207/claude-toolkit": {
+    "owner": "hgko1207",
+    "name": "claude-toolkit",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Neoo-Blue/colab-qwen": {
+    "owner": "Neoo-Blue",
+    "name": "colab-qwen",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
