@@ -46468,5 +46468,12 @@
         "name": "agentic-system-core",
         "branch": "main",
         "enabled": true
+    },
+    "zachbrown29/lintel-marketing-playbooks": {
+        "owner": "zachbrown29",
+        "name": "lintel-marketing-playbooks",
+        "branch": "main",
+        "skillsPath": ".",
+        "enabled": true
     }
 }
