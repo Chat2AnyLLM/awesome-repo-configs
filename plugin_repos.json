@@ -42931,5 +42931,14 @@
     "repoOwner": "MinimalOne",
     "repoName": "lobe-forge",
     "repoBranch": "main"
+  },
+  "CalebAnderson-Coder/ai-agency-os-starter": {
+    "name": "ai-agency-os-starter",
+    "description": "Five client-ops skills for agencies and freelancers: one isolated workspace per client (voice, approved claims, scope, log), a scope guard that checks requests against SCOPE.md and drafts change orders without sending them, a value-based quote check, an offer builder and cold email sequences. Claude Code, Codex. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CalebAnderson-Coder",
+    "repoName": "ai-agency-os-starter",
+    "repoBranch": "main"
   }
 }
