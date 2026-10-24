@@ -50728,5 +50728,12 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "CalebAnderson-Coder/ai-agency-os-starter": {
+        "owner": "CalebAnderson-Coder",
+        "name": "ai-agency-os-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
