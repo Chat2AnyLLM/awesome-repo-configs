@@ -45082,5 +45082,23 @@
     "repoOwner": "connormatthewdouglas",
     "repoName": "agent-work-stack-deals",
     "repoBranch": "main"
+  },
+  "Jeffallan/claude-skills": {
+    "name": "Jeffallan/claude-skills",
+    "description": "Full-stack development skill pack: 67 skills covering languages, backend and frontend frameworks, infrastructure, DevOps, security and testing, plus 9 project workflow commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jeffallan",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Jeffallan/writing-with-agents": {
+    "name": "Jeffallan/writing-with-agents",
+    "description": "Writing skills based on Betty Flowers' Madman, Architect, Carpenter, Judge method, with SEO, a quality rubric, content strategy and a human-voice rewrite pass.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jeffallan",
+    "repoName": "writing-with-agents",
+    "repoBranch": "main"
   }
 }
