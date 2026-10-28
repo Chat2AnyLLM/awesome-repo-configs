@@ -1,4 +1,13 @@
 {
+  "777genius/agent-notifications": {
+    "name": "Agent Notifications",
+    "description": "Desktop and webhook notifications for Claude Code and other coding agents on macOS, Linux and Windows. Claude/Codex also support sounds and click-to-focus; supported events vary by agent. GPL-3.0-or-later.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "777genius",
+    "repoName": "agent-notifications",
+    "repoBranch": "main"
+  },
   "eurafaeldecarvalho/aplica": {
     "name": "aplica",
     "description": "Aplica: config-driven job search for Claude Code. Scores public job postings against your profile, flags likely ghost jobs, and applies in your own logged-in Chrome with your real data, under daily caps. Never invents answers, pays or uploads documents. Needs a paid Claude plan and Claude in Chrome; job boards may limit automated accounts. MIT.",
