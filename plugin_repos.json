@@ -44983,5 +44983,104 @@
     "repoOwner": "pqgventures",
     "repoName": "superpowers-mcp",
     "repoBranch": "main"
+  },
+  "vargHQ/skills": {
+    "name": "vargHQ/skills",
+    "description": "AI agent skills for video, image, speech & music generation. Works with Claude Code, Cursor, Windsurf, OpenCode, ClawHub.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vargHQ",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "breferrari/xcrew": {
+    "name": "breferrari/xcrew",
+    "description": "Apple's Xcode MCP, Sentry's MobileBuildMCP and Sosumi, set up to work together for iOS projects in Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "breferrari",
+    "repoName": "xcrew",
+    "repoBranch": "main"
+  },
+  "aaroncohn/openspec-conductor-powerups": {
+    "name": "aaroncohn/openspec-conductor-powerups",
+    "description": "Opinionated Claude Code skills for OpenSpec inside Conductor: start a batch of parallel explorations, babysit them to production, check workspaces are safe to archive.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaroncohn",
+    "repoName": "openspec-conductor-powerups",
+    "repoBranch": "main"
+  },
+  "nik110403/provenote": {
+    "name": "nik110403/provenote",
+    "description": "Turn a reading list into source-grounded notes, check a draft against them, and build a paper.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nik110403",
+    "repoName": "provenote",
+    "repoBranch": "main"
+  },
+  "avivgerz-hue/glowup-ui": {
+    "name": "avivgerz-hue/glowup-ui",
+    "description": "An open-source design skill for AI coding agents. Create beautiful apps, transform existing UIs, and refine designs without breaking functionality.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avivgerz-hue",
+    "repoName": "glowup-ui",
+    "repoBranch": "main"
+  },
+  "omnigami-ai/skills": {
+    "name": "omnigami-ai/skills",
+    "description": "The omnigami catalogue: free and paid skills for Claude Code and other agents, each in its own repository. Add it once, then install any skill by name.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "omnigami-ai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "bitranox/lib_log_rich": {
+    "name": "bitranox/lib_log_rich",
+    "description": "bitranox/lib_log_rich \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitranox",
+    "repoName": "lib_log_rich",
+    "repoBranch": "master"
+  },
+  "pforret/claude-plugins": {
+    "name": "pforret/claude-plugins",
+    "description": "Claude plugins by @pforret: fodo",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pforret",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "ferhan/claude-conversations": {
+    "name": "ferhan/claude-conversations",
+    "description": "ferhan/claude-conversations \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ferhan",
+    "repoName": "claude-conversations",
+    "repoBranch": "main"
+  },
+  "sabind/ponderly": {
+    "name": "sabind/ponderly",
+    "description": "This plugin helps you write code like a seasoned engineer, even if you don't know all the best practices.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sabind",
+    "repoName": "ponderly",
+    "repoBranch": "main"
+  },
+  "connormatthewdouglas/agent-work-stack-deals": {
+    "name": "connormatthewdouglas/agent-work-stack-deals",
+    "description": "Agent work-stack deals page + query helpers (smoke test)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "connormatthewdouglas",
+    "repoName": "agent-work-stack-deals",
+    "repoBranch": "main"
   }
 }

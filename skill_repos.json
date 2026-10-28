@@ -52675,8 +52675,159 @@
         "skillsPath": "skills",
         "enabled": true
     },
-  "alexyc9381/vc-roundtable-skill": {"owner": "alexyc9381", "name": "vc-roundtable-skill", "branch": "main", "skillsPath": "skills", "enabled": true},
-  "alexyc9381/captain-skill": {"owner": "alexyc9381", "name": "captain-skill", "branch": "main", "skillsPath": "skills", "enabled": true},
-  "alexyc9381/client-room-skill": {"owner": "alexyc9381", "name": "client-room-skill", "branch": "main", "skillsPath": "skills", "enabled": true},
-  "Jeffallan/writing-with-agents": {"owner": "Jeffallan", "name": "writing-with-agents", "branch": "main", "skillsPath": "plugin/skills", "enabled": true}
+    "alexyc9381/vc-roundtable-skill": {
+        "owner": "alexyc9381",
+        "name": "vc-roundtable-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/captain-skill": {
+        "owner": "alexyc9381",
+        "name": "captain-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/client-room-skill": {
+        "owner": "alexyc9381",
+        "name": "client-room-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jeffallan/writing-with-agents": {
+        "owner": "Jeffallan",
+        "name": "writing-with-agents",
+        "branch": "main",
+        "skillsPath": "plugin/skills",
+        "enabled": true
+    },
+    "smashburger-dev/socratic-workshop": {
+        "owner": "smashburger-dev",
+        "name": "socratic-workshop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vargHQ/skills": {
+        "owner": "vargHQ",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "randomonkey05/SolidCraft-Agent-Skills": {
+        "owner": "randomonkey05",
+        "name": "SolidCraft-Agent-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "breferrari/xcrew": {
+        "owner": "breferrari",
+        "name": "xcrew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aaroncohn/openspec-conductor-powerups": {
+        "owner": "aaroncohn",
+        "name": "openspec-conductor-powerups",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nik110403/provenote": {
+        "owner": "nik110403",
+        "name": "provenote",
+        "branch": "main",
+        "enabled": true
+    },
+    "avivgerz-hue/glowup-ui": {
+        "owner": "avivgerz-hue",
+        "name": "glowup-ui",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bitranox/lib_log_rich": {
+        "owner": "bitranox",
+        "name": "lib_log_rich",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pforret/claude-plugins": {
+        "owner": "pforret",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "linfan190190-Zero/Zero002-video-download": {
+        "owner": "linfan190190-Zero",
+        "name": "Zero002-video-download",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DanB13/article-forge": {
+        "owner": "DanB13",
+        "name": "article-forge",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "vargHQ/code2video-templates": {
+        "owner": "vargHQ",
+        "name": "code2video-templates",
+        "branch": "master",
+        "enabled": true
+    },
+    "sabind/ponderly": {
+        "owner": "sabind",
+        "name": "ponderly",
+        "branch": "main",
+        "enabled": true
+    },
+    "parker-lauren/event-debrief": {
+        "owner": "parker-lauren",
+        "name": "event-debrief",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "parker-lauren/event-contact-list": {
+        "owner": "parker-lauren",
+        "name": "event-contact-list",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "parker-lauren/event-vetting": {
+        "owner": "parker-lauren",
+        "name": "event-vetting",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "connormatthewdouglas/agent-work-stack-deals": {
+        "owner": "connormatthewdouglas",
+        "name": "agent-work-stack-deals",
+        "branch": "main",
+        "enabled": true
+    },
+    "thisisfaizi/Elementor-MCP-Skill": {
+        "owner": "thisisfaizi",
+        "name": "Elementor-MCP-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thisisfaizi/Video-Editing-Skill": {
+        "owner": "thisisfaizi",
+        "name": "Video-Editing-Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    }
 }
