@@ -52677,5 +52677,6 @@
     },
   "alexyc9381/vc-roundtable-skill": {"owner": "alexyc9381", "name": "vc-roundtable-skill", "branch": "main", "skillsPath": "skills", "enabled": true},
   "alexyc9381/captain-skill": {"owner": "alexyc9381", "name": "captain-skill", "branch": "main", "skillsPath": "skills", "enabled": true},
-  "alexyc9381/client-room-skill": {"owner": "alexyc9381", "name": "client-room-skill", "branch": "main", "skillsPath": "skills", "enabled": true}
+  "alexyc9381/client-room-skill": {"owner": "alexyc9381", "name": "client-room-skill", "branch": "main", "skillsPath": "skills", "enabled": true},
+  "Jeffallan/writing-with-agents": {"owner": "Jeffallan", "name": "writing-with-agents", "branch": "main", "skillsPath": "plugin/skills", "enabled": true}
 }
