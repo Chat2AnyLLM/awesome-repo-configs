@@ -52928,5 +52928,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "budna-marketplace/recommerce": {
+        "owner": "budna-marketplace",
+        "name": "recommerce",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
