@@ -53055,5 +53055,47 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "build-with-ai-hq/llm-cost-reduction": {
+        "owner": "build-with-ai-hq",
+        "name": "llm-cost-reduction",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "build-with-ai-hq/secure-llm-apps": {
+        "owner": "build-with-ai-hq",
+        "name": "secure-llm-apps",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "build-with-ai-hq/llm-observability-stack": {
+        "owner": "build-with-ai-hq",
+        "name": "llm-observability-stack",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "build-with-ai-hq/mcp-gateway-best-practices": {
+        "owner": "build-with-ai-hq",
+        "name": "mcp-gateway-best-practices",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "build-with-ai-hq/ai-coding-agent-governance": {
+        "owner": "build-with-ai-hq",
+        "name": "ai-coding-agent-governance",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "build-with-ai-hq/agent-skills-for-teams": {
+        "owner": "build-with-ai-hq",
+        "name": "agent-skills-for-teams",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
