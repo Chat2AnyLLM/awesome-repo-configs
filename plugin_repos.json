@@ -45199,5 +45199,95 @@
     "repoOwner": "UlyssesLeoLee",
     "repoName": "MAGOS",
     "repoBranch": "main"
+  },
+  "daveebbelaar/bama": {
+    "name": "daveebbelaar/bama",
+    "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "daveebbelaar",
+    "repoName": "bama",
+    "repoBranch": "main"
+  },
+  "xobotyi/cc-foundry": {
+    "name": "xobotyi/cc-foundry",
+    "description": "Claude Code plugins its author uses every day: coding, commit, planning, and writing discipline, plus Go, JavaScript/TypeScript, PHP, Python, Rust, frontend, backend, Grafana, CLI, and infrastructure skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xobotyi",
+    "repoName": "cc-foundry",
+    "repoBranch": "master"
+  },
+  "RDEL-Group/compound-knowledge-work": {
+    "name": "RDEL-Group/compound-knowledge-work",
+    "description": "A Claude Code plugin for knowledge work \u2014 spec-driven phased execution with compounding institutional knowledge",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RDEL-Group",
+    "repoName": "compound-knowledge-work",
+    "repoBranch": "main"
+  },
+  "mathijs-oord/vink-plugin": {
+    "name": "mathijs-oord/vink-plugin",
+    "description": "Claude Code plugin for Dutch freelancers (ZZP'ers): invoices, receipts, quarterly VAT returns (BTW-aangifte) and year-end figures in plain CSV files.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mathijs-oord",
+    "repoName": "vink-plugin",
+    "repoBranch": "main"
+  },
+  "Procesio-Externals/procesio-cli": {
+    "name": "Procesio-Externals/procesio-cli",
+    "description": "Lets your own AI assistant build, run, validate and audit PROCESIO processes, forms and documents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Procesio-Externals",
+    "repoName": "procesio-cli",
+    "repoBranch": "main"
+  },
+  "ku5ic/claude-kit": {
+    "name": "ku5ic/claude-kit",
+    "description": "Guard hooks, context injection, and review skills for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ku5ic",
+    "repoName": "claude-kit",
+    "repoBranch": "main"
+  },
+  "erensrtky/cogit": {
+    "name": "erensrtky/cogit",
+    "description": "Git remembers what changed. cogit remembers why. A Claude Code plugin that records every message you send as a thought commit and links your commits to the decisions behind them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erensrtky",
+    "repoName": "cogit",
+    "repoBranch": "main"
+  },
+  "qqq1212341/picture-diary": {
+    "name": "qqq1212341/picture-diary",
+    "description": "Your coding agent keeps a picture diary of what it wasted today \u2014 and only lessons that stop the mistakes stay in CLAUDE.md",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qqq1212341",
+    "repoName": "picture-diary",
+    "repoBranch": "main"
+  },
+  "Eugen24/fullstack-sync": {
+    "name": "Eugen24/fullstack-sync",
+    "description": "Claude Code plugin that keeps your app and backend API in sync: detects and fixes endpoint/contract drift (Flutter + FastAPI, stack-agnostic)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Eugen24",
+    "repoName": "fullstack-sync",
+    "repoBranch": "master"
+  },
+  "DamianoCeka/tokyn": {
+    "name": "DamianoCeka/tokyn",
+    "description": "Il linguaggio per agenti IA che Claude scrive al posto del Python: in Claude Code \u221269% di costo e \u221254% di token, con i programmi provati dal tuo Claude Code senza chiave API. Sintassi Python, agenti e output struttura...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DamianoCeka",
+    "repoName": "tokyn",
+    "repoBranch": "main"
   }
 }

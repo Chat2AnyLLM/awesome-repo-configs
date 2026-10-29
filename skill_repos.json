@@ -52935,5 +52935,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "majiayu000/claude-skill-registry": {
+        "owner": "majiayu000",
+        "name": "claude-skill-registry",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "daveebbelaar/bama": {
+        "owner": "daveebbelaar",
+        "name": "bama",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AIPMAndy/LivePPT": {
+        "owner": "AIPMAndy",
+        "name": "LivePPT",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AIPMAndy/youzi-trading-skill": {
+        "owner": "AIPMAndy",
+        "name": "youzi-trading-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AIPMAndy/PPTskill": {
+        "owner": "AIPMAndy",
+        "name": "PPTskill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xobotyi/cc-foundry": {
+        "owner": "xobotyi",
+        "name": "cc-foundry",
+        "branch": "master",
+        "enabled": true
+    },
+    "YahyaLendani/opus-tuner-claude-skill": {
+        "owner": "YahyaLendani",
+        "name": "opus-tuner-claude-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RDEL-Group/compound-knowledge-work": {
+        "owner": "RDEL-Group",
+        "name": "compound-knowledge-work",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mathijs-oord/vink-plugin": {
+        "owner": "mathijs-oord",
+        "name": "vink-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Procesio-Externals/procesio-cli": {
+        "owner": "Procesio-Externals",
+        "name": "procesio-cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "ku5ic/claude-kit": {
+        "owner": "ku5ic",
+        "name": "claude-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "erensrtky/cogit": {
+        "owner": "erensrtky",
+        "name": "cogit",
+        "branch": "main",
+        "enabled": true
+    },
+    "networmix/skills": {
+        "owner": "networmix",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "qqq1212341/picture-diary": {
+        "owner": "qqq1212341",
+        "name": "picture-diary",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sheptalo/py_clean_template": {
+        "owner": "sheptalo",
+        "name": "py_clean_template",
+        "branch": "main",
+        "enabled": true
+    },
+    "Eugen24/fullstack-sync": {
+        "owner": "Eugen24",
+        "name": "fullstack-sync",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DamianoCeka/tokyn": {
+        "owner": "DamianoCeka",
+        "name": "tokyn",
+        "branch": "main",
+        "enabled": true
     }
 }
