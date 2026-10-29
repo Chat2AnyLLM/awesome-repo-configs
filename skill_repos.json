@@ -53048,5 +53048,12 @@
         "name": "tokyn",
         "branch": "main",
         "enabled": true
+    },
+    "TheBestCo/bestprice-mcp": {
+        "owner": "TheBestCo",
+        "name": "bestprice-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
