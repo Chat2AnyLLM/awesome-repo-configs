@@ -52829,5 +52829,104 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "praneybehl/llm-wiki-plugin": {
+        "owner": "praneybehl",
+        "name": "llm-wiki-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arturogarrido/claudinho": {
+        "owner": "arturogarrido",
+        "name": "claudinho",
+        "branch": "main",
+        "enabled": true
+    },
+    "kakao/prevue": {
+        "owner": "kakao",
+        "name": "prevue",
+        "branch": "main",
+        "enabled": true
+    },
+    "MySwallow/mockplus-context": {
+        "owner": "MySwallow",
+        "name": "mockplus-context",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chartergroup/topopt": {
+        "owner": "chartergroup",
+        "name": "topopt",
+        "branch": "main",
+        "enabled": true
+    },
+    "sjoon21/Tractus": {
+        "owner": "sjoon21",
+        "name": "Tractus",
+        "branch": "main",
+        "enabled": true
+    },
+    "thameema/memnos": {
+        "owner": "thameema",
+        "name": "memnos",
+        "branch": "master",
+        "enabled": true
+    },
+    "runkids/agents-context-router": {
+        "owner": "runkids",
+        "name": "agents-context-router",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gufranco/claude-engineering-rules": {
+        "owner": "gufranco",
+        "name": "claude-engineering-rules",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chadixearth/graphyloop": {
+        "owner": "chadixearth",
+        "name": "graphyloop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lstebner/recipe-driven-development": {
+        "owner": "lstebner",
+        "name": "recipe-driven-development",
+        "branch": "main",
+        "enabled": true
+    },
+    "why20261/douyin-video-extract-copywriter": {
+        "owner": "why20261",
+        "name": "douyin-video-extract-copywriter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "codyhxyz/create-claude-plugin": {
+        "owner": "codyhxyz",
+        "name": "create-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saksham10arora-dotcom/everything-claude-codex": {
+        "owner": "saksham10arora-dotcom",
+        "name": "everything-claude-codex",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UlyssesLeoLee/MAGOS": {
+        "owner": "UlyssesLeoLee",
+        "name": "MAGOS",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

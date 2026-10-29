@@ -6932,5 +6932,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "arturogarrido/claudinho": {
+    "owner": "arturogarrido",
+    "name": "claudinho",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "chartergroup/topopt": {
+    "owner": "chartergroup",
+    "name": "topopt",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "thameema/memnos": {
+    "owner": "thameema",
+    "name": "memnos",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gufranco/claude-engineering-rules": {
+    "owner": "gufranco",
+    "name": "claude-engineering-rules",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "chadixearth/graphyloop": {
+    "owner": "chadixearth",
+    "name": "graphyloop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

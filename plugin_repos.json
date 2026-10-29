@@ -45100,5 +45100,104 @@
     "repoOwner": "Jeffallan",
     "repoName": "writing-with-agents",
     "repoBranch": "main"
+  },
+  "praneybehl/llm-wiki-plugin": {
+    "name": "praneybehl/llm-wiki-plugin",
+    "description": "Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin \u2014 turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "praneybehl",
+    "repoName": "llm-wiki-plugin",
+    "repoBranch": "main"
+  },
+  "arturogarrido/claudinho": {
+    "name": "arturogarrido/claudinho",
+    "description": "\u26bd Live football(soccer) scores, fixtures and standings for the competition you follow (World Cup, Premier League, LALIGA, Champions League and 12 more) in your terminal, your Claude Code and Cursor CLI statusline, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arturogarrido",
+    "repoName": "claudinho",
+    "repoBranch": "main"
+  },
+  "kakao/prevue": {
+    "name": "kakao/prevue",
+    "description": "Your agent finally sees the UI it builds. Compose Previews in your browser, redrawn a second after every save \u2014 no Android Studio, no build.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kakao",
+    "repoName": "prevue",
+    "repoBranch": "main"
+  },
+  "chartergroup/topopt": {
+    "name": "chartergroup/topopt",
+    "description": "Topology optimization for 3D printing, as an MCP server for Claude, Codex, Cursor and other AI agents. Loads and regions in, a lighter printable STL out.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chartergroup",
+    "repoName": "topopt",
+    "repoBranch": "main"
+  },
+  "sjoon21/Tractus": {
+    "name": "sjoon21/Tractus",
+    "description": "Local AI meeting notes for Mac \u2014 on-device Korean & English transcription, summaries, search, and MCP for Claude Code. \ub9e5 \ub85c\uceec \ud68c\uc758\ub85d\u00b7\uc74c\uc131 \ud14d\uc2a4\ud2b8 \ubcc0\ud658",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjoon21",
+    "repoName": "Tractus",
+    "repoBranch": "main"
+  },
+  "thameema/memnos": {
+    "name": "thameema/memnos",
+    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default). MCP server, REST API & Python SDK.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thameema",
+    "repoName": "memnos",
+    "repoBranch": "master"
+  },
+  "runkids/agents-context-router": {
+    "name": "runkids/agents-context-router",
+    "description": "\ud83e\udded Keep AGENTS.md lean. Route coding agents to task-specific docs with byte budgets and integrity checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "runkids",
+    "repoName": "agents-context-router",
+    "repoBranch": "main"
+  },
+  "gufranco/claude-engineering-rules": {
+    "name": "gufranco/claude-engineering-rules",
+    "description": "Opinionated engineering config for Claude Code: 47 always-on rules, 141 on-demand standards, 42 slash-command skills, 91 runtime hooks, 18 custom agents, 42 MCP servers, and an 889-item review checklist across 71 cate...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gufranco",
+    "repoName": "claude-engineering-rules",
+    "repoBranch": "main"
+  },
+  "chadixearth/graphyloop": {
+    "name": "chadixearth/graphyloop",
+    "description": "One-command agentic workflow kit for AI coding agents: Workflow v3, a 25-agent squad, persistent memory, 70 Agent Skills and an MCP server for Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Oh My Pi and DeepSeek Ha...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chadixearth",
+    "repoName": "graphyloop",
+    "repoBranch": "main"
+  },
+  "codyhxyz/create-claude-plugin": {
+    "name": "codyhxyz/create-claude-plugin",
+    "description": "A Claude plugin that ships Claude plugins. From ~/.claude/ to claude-plugins-official in a few prompts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codyhxyz",
+    "repoName": "create-claude-plugin",
+    "repoBranch": "main"
+  },
+  "UlyssesLeoLee/MAGOS": {
+    "name": "UlyssesLeoLee/MAGOS",
+    "description": "Skills that let multiple AI agents develop one Git repo in parallel: branch/worktree isolation, dependency-aware planning, merge queue, gated integration, safe cleanup. For Claude Code, Codex, Cursor, Hermes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UlyssesLeoLee",
+    "repoName": "MAGOS",
+    "repoBranch": "main"
   }
 }
