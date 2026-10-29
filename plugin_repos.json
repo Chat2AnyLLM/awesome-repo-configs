@@ -45298,5 +45298,122 @@
     "repoOwner": "TheBestCo",
     "repoName": "bestprice-mcp",
     "repoBranch": "main"
+  },
+  "vawe-hq/vawe": {
+    "name": "vawe-hq/vawe",
+    "description": "Write one HTML page, get an mp4. Open-source HTML to video framework for coding agents like Claude Code and Codex. A free Remotion alternative.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vawe-hq",
+    "repoName": "vawe",
+    "repoBranch": "main"
+  },
+  "sara-star-quant/presence": {
+    "name": "sara-star-quant/presence",
+    "description": "Per-repo memory, outcome telemetry, and a calibrated-confidence gate for Claude Code, with MCP and AGENTS.md projections so other AI coding tools can read its context. Notes survive sessions; success claims need test...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sara-star-quant",
+    "repoName": "presence",
+    "repoBranch": "main"
+  },
+  "course-code-framework/coursecode": {
+    "name": "course-code-framework/coursecode",
+    "description": "Open-source course authoring framework for Claude Code, Codex, and MCP-capable AI tools. Build, preview, and test SCORM 1.2, SCORM 2004, cmi5, and LTI 1.3 courses.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "course-code-framework",
+    "repoName": "coursecode",
+    "repoBranch": "main"
+  },
+  "bromso/singularskills": {
+    "name": "bromso/singularskills",
+    "description": "A plugin that adds an agentic skills framework, with MCP's and a meta prompting processes. Inspired by \"Superpowers\", \"Get shit done\" & \"Figma Console MCP\", but not just for development or design; but for all aspect w...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bromso",
+    "repoName": "singularskills",
+    "repoBranch": "main"
+  },
+  "tomek-i/narrate-plugin": {
+    "name": "tomek-i/narrate-plugin",
+    "description": "Generate narrated walkthrough videos of a web app. Scripts the demo, records the browser, speaks each step with TTS, outputs one MP4. Claude Code plugin or standalone CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomek-i",
+    "repoName": "narrate-plugin",
+    "repoBranch": "main"
+  },
+  "bitranox/lib_layered_config": {
+    "name": "bitranox/lib_layered_config",
+    "description": "Cross-platform layered configuration loader for Python",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitranox",
+    "repoName": "lib_layered_config",
+    "repoBranch": "master"
+  },
+  "AlexWaha/agentry": {
+    "name": "AlexWaha/agentry",
+    "description": "Claude Code plugin that turns AI agents into a gated dev team: 31 role subagents (architect, devs, QA, reviewer) run a deterministic plan, implement, test, review pipeline. Each stage advances only when your real buil...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AlexWaha",
+    "repoName": "agentry",
+    "repoBranch": "main"
+  },
+  "PeterWar/Agentic-Eclipse-Library": {
+    "name": "PeterWar/Agentic-Eclipse-Library",
+    "description": "Agentic Eclipse Library: local eclipse calibration, stacking, corona filters and motion analysis. Codex plugin, Python tools and research notes. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PeterWar",
+    "repoName": "Agentic-Eclipse-Library",
+    "repoBranch": "main"
+  },
+  "MaximeRumpler/Make_PPTX": {
+    "name": "MaximeRumpler/Make_PPTX",
+    "description": "Make PPTX: agent skills that turn your notes into a finished PowerPoint deck. Make Clean PPTX is available; Make Style and Make Colors are in preparation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MaximeRumpler",
+    "repoName": "Make_PPTX",
+    "repoBranch": "main"
+  },
+  "infinity20dragon-lab/tapreel": {
+    "name": "infinity20dragon-lab/tapreel",
+    "description": "Narrated how-to videos of any web app: record the real app, add a natural local voice, and get a captioned film. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "infinity20dragon-lab",
+    "repoName": "tapreel",
+    "repoBranch": "main"
+  },
+  "brainfoods-studio/llmgraph-agent-plugin": {
+    "name": "brainfoods-studio/llmgraph-agent-plugin",
+    "description": "The truth layer for coding agents: labelled caller answers and a stop check. Plugin and setup files; engine closed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brainfoods-studio",
+    "repoName": "llmgraph-agent-plugin",
+    "repoBranch": "main"
+  },
+  "EmirhanYAZICI/reelsmith": {
+    "name": "EmirhanYAZICI/reelsmith",
+    "description": "Reelsmith: agent skill that turns a voiceover, scene clips, a script and a logo into a finished Instagram Reel. Local Whisper captions, HyperFrames edit, moving logo watermark, 30 fps. Claude Code, Cursor, Codex, Open...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EmirhanYAZICI",
+    "repoName": "reelsmith",
+    "repoBranch": "main"
+  },
+  "AryanAliPro/jawdrop": {
+    "name": "AryanAliPro/jawdrop",
+    "description": "Jawdrop: the $1 Billion Prize website designer. An agent skill for award-level, fully custom websites. One-command install for Claude Code, Codex, Cursor, Antigravity and 70+ agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AryanAliPro",
+    "repoName": "jawdrop",
+    "repoBranch": "main"
   }
 }

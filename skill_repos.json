@@ -53097,5 +53097,105 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Drix10/ai-resources": {
+        "owner": "Drix10",
+        "name": "ai-resources",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pedrojaques99/visant-skills-public": {
+        "owner": "pedrojaques99",
+        "name": "visant-skills-public",
+        "branch": "main",
+        "enabled": true
+    },
+    "vawe-hq/vawe": {
+        "owner": "vawe-hq",
+        "name": "vawe",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sara-star-quant/presence": {
+        "owner": "sara-star-quant",
+        "name": "presence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "course-code-framework/coursecode": {
+        "owner": "course-code-framework",
+        "name": "coursecode",
+        "branch": "main",
+        "enabled": true
+    },
+    "bromso/singularskills": {
+        "owner": "bromso",
+        "name": "singularskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tomek-i/narrate-plugin": {
+        "owner": "tomek-i",
+        "name": "narrate-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "bitranox/lib_layered_config": {
+        "owner": "bitranox",
+        "name": "lib_layered_config",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AlexWaha/agentry": {
+        "owner": "AlexWaha",
+        "name": "agentry",
+        "branch": "main",
+        "enabled": true
+    },
+    "PeterWar/Agentic-Eclipse-Library": {
+        "owner": "PeterWar",
+        "name": "Agentic-Eclipse-Library",
+        "branch": "main",
+        "enabled": true
+    },
+    "infinity20dragon-lab/tapreel": {
+        "owner": "infinity20dragon-lab",
+        "name": "tapreel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brainfoods-studio/llmgraph-agent-plugin": {
+        "owner": "brainfoods-studio",
+        "name": "llmgraph-agent-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tom-surge/ai-ad-editor": {
+        "owner": "tom-surge",
+        "name": "ai-ad-editor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "EmirhanYAZICI/reelsmith": {
+        "owner": "EmirhanYAZICI",
+        "name": "reelsmith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AryanAliPro/jawdrop": {
+        "owner": "AryanAliPro",
+        "name": "jawdrop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
