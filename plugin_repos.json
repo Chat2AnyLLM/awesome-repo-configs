@@ -45289,5 +45289,14 @@
     "repoOwner": "DamianoCeka",
     "repoName": "tokyn",
     "repoBranch": "main"
+  },
+  "TheBestCo/bestprice-mcp": {
+    "name": "BestPrice",
+    "description": "Official BestPrice.gr plugin: read-only shopping decisions, product search, Greek merchant offers with delivered totals, and price history via a keyless remote MCP server. Apache-2.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TheBestCo",
+    "repoName": "bestprice-mcp",
+    "repoBranch": "main"
   }
 }
