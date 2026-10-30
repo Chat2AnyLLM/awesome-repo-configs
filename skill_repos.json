@@ -53197,5 +53197,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "marcusaguiarmaciel-cmd/cato-plugin": {
+        "owner": "marcusaguiarmaciel-cmd",
+        "name": "cato-plugin",
+        "branch": "main",
+        "skillsPath": "plugin/skills",
+        "enabled": true
     }
 }

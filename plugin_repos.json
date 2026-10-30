@@ -45415,5 +45415,15 @@
     "repoOwner": "AryanAliPro",
     "repoName": "jawdrop",
     "repoBranch": "main"
+  },
+  "marcusaguiarmaciel-cmd/cato-plugin": {
+    "name": "CATO: Claude Adaptive Token Optimizer",
+    "description": "Cut Claude Code token costs by 35-80% with prompt-cache TTL tracking, pre-read structural indexing, noisy CLI pruning, and multi-session subagent ledger. Zero Python, 100% local.",
+    "enabled": true,
+    "type": "plugin",
+    "pluginPath": "plugin",
+    "repoOwner": "marcusaguiarmaciel-cmd",
+    "repoName": "cato-plugin",
+    "repoBranch": "main"
   }
 }
