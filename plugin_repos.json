@@ -45425,5 +45425,104 @@
     "repoOwner": "marcusaguiarmaciel-cmd",
     "repoName": "cato-plugin",
     "repoBranch": "main"
+  },
+  "eric861129/Workflow-skill-router": {
+    "name": "eric861129/Workflow-skill-router",
+    "description": "Route Claude Code and Codex work through one lead Skill per phase. Your workflow as config, every route inspectable. Plugin + MCP or standalone Skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eric861129",
+    "repoName": "Workflow-skill-router",
+    "repoBranch": "main"
+  },
+  "gorock007/jarvis": {
+    "name": "gorock007/jarvis",
+    "description": "Jarvis: one lead agent you talk to, a fleet of workers that builds. Runs in Superset or tmux, with Claude Code, Codex, OpenCode or any agent CLI as workers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gorock007",
+    "repoName": "jarvis",
+    "repoBranch": "main"
+  },
+  "dheerajjha/reviewer": {
+    "name": "dheerajjha/reviewer",
+    "description": "Review your coding agent's changes like a pull request \u2014 locally, with inline comments and threaded follow-ups, then hand the marked-up review back to the agent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dheerajjha",
+    "repoName": "reviewer",
+    "repoBranch": "main"
+  },
+  "aldo01/scar-tissue": {
+    "name": "aldo01/scar-tissue",
+    "description": "Agent skill that makes Claude Code, Codex, and Cursor write and review backend code like the engineer who gets paged at 3am. 90 reliability and security rules.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aldo01",
+    "repoName": "scar-tissue",
+    "repoBranch": "main"
+  },
+  "fib7/acf-tools": {
+    "name": "fib7/acf-tools",
+    "description": "Claude Code plugins that let agents plan, build and land code in your git repository. You approve what gets built, and you push what lands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fib7",
+    "repoName": "acf-tools",
+    "repoBranch": "main"
+  },
+  "devkindhq/studio-marketplace": {
+    "name": "devkindhq/studio-marketplace",
+    "description": "Agency marketplace is main skill sets of people and workflows in a BAU agency.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devkindhq",
+    "repoName": "studio-marketplace",
+    "repoBranch": "main"
+  },
+  "HighwayofLife/agent-kaizen": {
+    "name": "HighwayofLife/agent-kaizen",
+    "description": "Continuous improvement for AI coding agents: a Claude Code plugin that audits token usage, trims context, routes work to the right model, and checks that each change paid off.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HighwayofLife",
+    "repoName": "agent-kaizen",
+    "repoBranch": "main"
+  },
+  "annotant/annotant": {
+    "name": "annotant/annotant",
+    "description": "Turn feedback on a running frontend app into code changes, with Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "annotant",
+    "repoName": "annotant",
+    "repoBranch": "main"
+  },
+  "getmarrow/plugins": {
+    "name": "getmarrow/plugins",
+    "description": "Marrow AI plugins for Claude Code, Codex and Cursor. Free for Claude Code with no account or key: stops force-pushes to protected branches and production deploys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getmarrow",
+    "repoName": "plugins",
+    "repoBranch": "master"
+  },
+  "Kjubikstronk/slop-free": {
+    "name": "Kjubikstronk/slop-free",
+    "description": "A Claude Code skill for AI-assisted pull requests that maintainers actually want to merge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kjubikstronk",
+    "repoName": "slop-free",
+    "repoBranch": "main"
+  },
+  "kayquer/deai-text": {
+    "name": "kayquer/deai-text",
+    "description": "Skill do Claude Code que remove padr\u00f5es de escrita de IA de textos em portugu\u00eas (PT-BR) e ingl\u00eas: cita cada padr\u00e3o com o ID da regra, reescreve e rel\u00ea. Tamb\u00e9m roda como system prompt em qualquer LLM. \u00b7 Removes AI writ...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kayquer",
+    "repoName": "deai-text",
+    "repoBranch": "main"
   }
 }

@@ -53204,5 +53204,114 @@
         "branch": "main",
         "skillsPath": "plugin/skills",
         "enabled": true
+    },
+    "eric861129/Workflow-skill-router": {
+        "owner": "eric861129",
+        "name": "Workflow-skill-router",
+        "branch": "main",
+        "enabled": true
+    },
+    "OutOfAmine/hype-reel": {
+        "owner": "OutOfAmine",
+        "name": "hype-reel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MatsuriMW/ai-character-design-skill": {
+        "owner": "MatsuriMW",
+        "name": "ai-character-design-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "gorock007/jarvis": {
+        "owner": "gorock007",
+        "name": "jarvis",
+        "branch": "main",
+        "enabled": true
+    },
+    "dheerajjha/reviewer": {
+        "owner": "dheerajjha",
+        "name": "reviewer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ekajaya740/skills": {
+        "owner": "ekajaya740",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "aldo01/scar-tissue": {
+        "owner": "aldo01",
+        "name": "scar-tissue",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "robosushie/brix": {
+        "owner": "robosushie",
+        "name": "brix",
+        "branch": "main",
+        "enabled": true
+    },
+    "CatsMansion/pet-asset-keying": {
+        "owner": "CatsMansion",
+        "name": "pet-asset-keying",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-crawler-guaikei": {
+        "owner": "why20261",
+        "name": "douyin-crawler-guaikei",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fib7/acf-tools": {
+        "owner": "fib7",
+        "name": "acf-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "devkindhq/studio-marketplace": {
+        "owner": "devkindhq",
+        "name": "studio-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "HighwayofLife/agent-kaizen": {
+        "owner": "HighwayofLife",
+        "name": "agent-kaizen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "annotant/annotant": {
+        "owner": "annotant",
+        "name": "annotant",
+        "branch": "main",
+        "enabled": true
+    },
+    "getmarrow/plugins": {
+        "owner": "getmarrow",
+        "name": "plugins",
+        "branch": "master",
+        "enabled": true
+    },
+    "Kjubikstronk/slop-free": {
+        "owner": "Kjubikstronk",
+        "name": "slop-free",
+        "branch": "main",
+        "enabled": true
+    },
+    "kayquer/deai-text": {
+        "owner": "kayquer",
+        "name": "deai-text",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
