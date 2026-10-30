@@ -45623,5 +45623,95 @@
     "repoOwner": "yw0nam",
     "repoName": "any-subagent",
     "repoBranch": "main"
+  },
+  "hokupod/kyoso": {
+    "name": "hokupod/kyoso",
+    "description": "Kyo-so (Kyoso / \u5354\u594f) is an MCP-native, ACP-powered multi-agent review gate for AI coding workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hokupod",
+    "repoName": "kyoso",
+    "repoBranch": "main"
+  },
+  "diagridio/catalyst-ai": {
+    "name": "diagridio/catalyst-ai",
+    "description": "Durable execution for AI agents and workflows: Claude Code plugin, agent skills and remote MCP server for building, running and debugging Dapr Workflows and Durable Agents on Diagrid Catalyst. Also works in Codex and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "diagridio",
+    "repoName": "catalyst-ai",
+    "repoBranch": "main"
+  },
+  "benomite/brigade": {
+    "name": "benomite/brigade",
+    "description": "Protocole de travail multi-agents pour Claude Code : PO, Manager, Dev, Designer sur un backlog GitHub",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "benomite",
+    "repoName": "brigade",
+    "repoBranch": "main"
+  },
+  "itgenius-au/skills-library": {
+    "name": "itgenius-au/skills-library",
+    "description": "Public Claude Code skills from itGenius: the full dev process from idea to deploy, multi-model review, session and repo hygiene, executive summaries, checked PDFs, copy humanizing, a daily morning brief, and a guide t...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itgenius-au",
+    "repoName": "skills-library",
+    "repoBranch": "main"
+  },
+  "devkindhq/github-seo-skill": {
+    "name": "devkindhq/github-seo-skill",
+    "description": "Agent Skill for GitHub SEO: repo audit, search-ready README, pre-publish scan, MCP registry listings.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devkindhq",
+    "repoName": "github-seo-skill",
+    "repoBranch": "main"
+  },
+  "moraneus/preview-first": {
+    "name": "moraneus/preview-first",
+    "description": "Look before you build. A Claude Code skill that shows your web design directions (palette, type, components, motion, device frames) in the browser before any code is written.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moraneus",
+    "repoName": "preview-first",
+    "repoBranch": "main"
+  },
+  "gmdkaio/kstack": {
+    "name": "gmdkaio/kstack",
+    "description": "A small workflow stack for Claude Code: one entry skill, commit and close-out, per-project setup, a reviewer agent and a few principles. Inspired by pstack.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gmdkaio",
+    "repoName": "kstack",
+    "repoBranch": "main"
+  },
+  "veeva-ai/claude-plugins": {
+    "name": "veeva-ai/claude-plugins",
+    "description": "Veeva Claude Plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "veeva-ai",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "ikoro-labs/forge": {
+    "name": "ikoro-labs/forge",
+    "description": "Plugin Claude Code : l'usine logicielle agentique, de l'id\u00e9e \u00e0 la PR fusionn\u00e9e, et la marketplace ikoro-labs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ikoro-labs",
+    "repoName": "forge",
+    "repoBranch": "main"
+  },
+  "jaylooloomi/i-want-to-duck-meeting": {
+    "name": "jaylooloomi/i-want-to-duck-meeting",
+    "description": "\ud83c\udf99\ufe0f Local Google Meet & Microsoft Teams meeting recorder + AI notes for Claude Code & Codex \u2014 real-time transcripts, dual-lane audio, bilingual translation & structured summaries.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jaylooloomi",
+    "repoName": "i-want-to-duck-meeting",
+    "repoBranch": "master"
   }
 }

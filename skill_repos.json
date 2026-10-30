@@ -53433,5 +53433,122 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "modulestf/modulestf": {
+        "owner": "modulestf",
+        "name": "modulestf",
+        "branch": "master",
+        "enabled": true
+    },
+    "Mahanaicoach/competitor-x-ray": {
+        "owner": "Mahanaicoach",
+        "name": "competitor-x-ray",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mahanaicoach/alex-hormozi-coach": {
+        "owner": "Mahanaicoach",
+        "name": "alex-hormozi-coach",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mahanaicoach/content-repurposer": {
+        "owner": "Mahanaicoach",
+        "name": "content-repurposer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hokupod/kyoso": {
+        "owner": "hokupod",
+        "name": "kyoso",
+        "branch": "main",
+        "enabled": true
+    },
+    "diagridio/catalyst-ai": {
+        "owner": "diagridio",
+        "name": "catalyst-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "benomite/brigade": {
+        "owner": "benomite",
+        "name": "brigade",
+        "branch": "main",
+        "enabled": true
+    },
+    "zachbrown29/lintel-marketing-playbooks": {
+        "owner": "zachbrown29",
+        "name": "lintel-marketing-playbooks",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jd0425/email-manager": {
+        "owner": "jd0425",
+        "name": "email-manager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "itgenius-au/skills-library": {
+        "owner": "itgenius-au",
+        "name": "skills-library",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devkindhq/github-seo-skill": {
+        "owner": "devkindhq",
+        "name": "github-seo-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "moraneus/preview-first": {
+        "owner": "moraneus",
+        "name": "preview-first",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dmamulashvili/dotnet-agent-kit": {
+        "owner": "dmamulashvili",
+        "name": "dotnet-agent-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "gmdkaio/kstack": {
+        "owner": "gmdkaio",
+        "name": "kstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EdwardAF-IT/claude-skills": {
+        "owner": "EdwardAF-IT",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "veeva-ai/claude-plugins": {
+        "owner": "veeva-ai",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ikoro-labs/forge": {
+        "owner": "ikoro-labs",
+        "name": "forge",
+        "branch": "main",
+        "enabled": true
+    },
+    "jaylooloomi/i-want-to-duck-meeting": {
+        "owner": "jaylooloomi",
+        "name": "i-want-to-duck-meeting",
+        "branch": "master",
+        "enabled": true
     }
 }

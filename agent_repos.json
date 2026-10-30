@@ -7023,5 +7023,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "benomite/brigade": {
+    "owner": "benomite",
+    "name": "brigade",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gmdkaio/kstack": {
+    "owner": "gmdkaio",
+    "name": "kstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
