@@ -7016,5 +7016,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "bsrikumar855-dot/ClaudeCODE-Autonomous-skills": {
+    "owner": "bsrikumar855-dot",
+    "name": "ClaudeCODE-Autonomous-skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

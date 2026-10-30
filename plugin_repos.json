@@ -45524,5 +45524,104 @@
     "repoOwner": "kayquer",
     "repoName": "deai-text",
     "repoBranch": "main"
+  },
+  "career-ops-hq/career-ops": {
+    "name": "career-ops-hq/career-ops",
+    "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It h...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "career-ops-hq",
+    "repoName": "career-ops",
+    "repoBranch": "main"
+  },
+  "bitranox/pve-bindsnap": {
+    "name": "bitranox/pve-bindsnap",
+    "description": "Re-enable Proxmox snapshots for LXC containers with bind/device mounts",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitranox",
+    "repoName": "pve-bindsnap",
+    "repoBranch": "main"
+  },
+  "ilan-uzan/app-store-preflight": {
+    "name": "ilan-uzan/app-store-preflight",
+    "description": "Catch App Store rejections before Apple does: a Claude Code skill + multi-agent workflow that checks your app against every App Review Guideline and App Store Connect requirement (1,772 checks quoted verbatim from App...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilan-uzan",
+    "repoName": "app-store-preflight",
+    "repoBranch": "main"
+  },
+  "Jsolee/jsolee-kit": {
+    "name": "Jsolee/jsolee-kit",
+    "description": "Workflow, house rules, references and mods so Claude Code stops shipping the AI-made look.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jsolee",
+    "repoName": "jsolee-kit",
+    "repoBranch": "main"
+  },
+  "tedliou/whetstone": {
+    "name": "tedliou/whetstone",
+    "description": "Ted's sharpened fork of mattpocock/skills. GitHub-only, zero-footprint Claude Code skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tedliou",
+    "repoName": "whetstone",
+    "repoBranch": "main"
+  },
+  "GiovanBelle/ghosted": {
+    "name": "GiovanBelle/ghosted",
+    "description": "Stop paying for context you no longer need. A Claude Code plugin that frees context on task switches (\u221270% measured).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GiovanBelle",
+    "repoName": "ghosted",
+    "repoBranch": "main"
+  },
+  "tetriz-ai/agentic-workflow-kit": {
+    "name": "tetriz-ai/agentic-workflow-kit",
+    "description": "Skills and hooks for Claude Code and Codex: review mid-change, ship pull requests, plan in slices, drain issue queues.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tetriz-ai",
+    "repoName": "agentic-workflow-kit",
+    "repoBranch": "main"
+  },
+  "KemalHub/cargo-belt": {
+    "name": "KemalHub/cargo-belt",
+    "description": "Clawd runs a conveyor belt in a hard hat while Claude works. A pixel-art Claude Code mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KemalHub",
+    "repoName": "cargo-belt",
+    "repoBranch": "main"
+  },
+  "ika100/sdlc-foundry": {
+    "name": "ika100/sdlc-foundry",
+    "description": "An agentic SDLC platform: Claude Code agents, slash commands and Copier templates from idea to Kubernetes (GitOps, secrets, Postgres, OpenTelemetry, Kyverno).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ika100",
+    "repoName": "sdlc-foundry",
+    "repoBranch": "main"
+  },
+  "MikaelJohnAndersson/glance-statusline": {
+    "name": "MikaelJohnAndersson/glance-statusline",
+    "description": "A Claude Code status line plugin: repo, context and usage limits at a glance",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MikaelJohnAndersson",
+    "repoName": "glance-statusline",
+    "repoBranch": "main"
+  },
+  "yw0nam/any-subagent": {
+    "name": "yw0nam/any-subagent",
+    "description": "Run Codex, opencode, pi and other coding-agent CLIs as background subagents from Claude Code. Each conversation has a name, so follow-ups keep their context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yw0nam",
+    "repoName": "any-subagent",
+    "repoBranch": "main"
   }
 }

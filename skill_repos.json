@@ -53313,5 +53313,125 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "career-ops-hq/career-ops": {
+        "owner": "career-ops-hq",
+        "name": "career-ops",
+        "branch": "main",
+        "enabled": true
+    },
+    "op7418/guizang-social-card-skill": {
+        "owner": "op7418",
+        "name": "guizang-social-card-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bitranox/pve-bindsnap": {
+        "owner": "bitranox",
+        "name": "pve-bindsnap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IsWaFF/kompas3d-skill": {
+        "owner": "IsWaFF",
+        "name": "kompas3d-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "ilan-uzan/app-store-preflight": {
+        "owner": "ilan-uzan",
+        "name": "app-store-preflight",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jsolee/jsolee-kit": {
+        "owner": "Jsolee",
+        "name": "jsolee-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tedliou/whetstone": {
+        "owner": "tedliou",
+        "name": "whetstone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GiovanBelle/ghosted": {
+        "owner": "GiovanBelle",
+        "name": "ghosted",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xuzi-06/report-3d-showcase": {
+        "owner": "xuzi-06",
+        "name": "report-3d-showcase",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MicTx/enterprise-frontend": {
+        "owner": "MicTx",
+        "name": "enterprise-frontend",
+        "branch": "main",
+        "enabled": true
+    },
+    "bsrikumar855-dot/ClaudeCODE-Autonomous-skills": {
+        "owner": "bsrikumar855-dot",
+        "name": "ClaudeCODE-Autonomous-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "tetriz-ai/agentic-workflow-kit": {
+        "owner": "tetriz-ai",
+        "name": "agentic-workflow-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "haiggoh/no-hidden-changes": {
+        "owner": "haiggoh",
+        "name": "no-hidden-changes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ika100/sdlc-foundry": {
+        "owner": "ika100",
+        "name": "sdlc-foundry",
+        "branch": "main",
+        "enabled": true
+    },
+    "MikaelJohnAndersson/glance-statusline": {
+        "owner": "MikaelJohnAndersson",
+        "name": "glance-statusline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yw0nam/any-subagent": {
+        "owner": "yw0nam",
+        "name": "any-subagent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "drkostas/3d-card": {
+        "owner": "drkostas",
+        "name": "3d-card",
+        "branch": "main",
+        "enabled": true
+    },
+    "simplifiers/ai-slop-checker": {
+        "owner": "simplifiers",
+        "name": "ai-slop-checker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
