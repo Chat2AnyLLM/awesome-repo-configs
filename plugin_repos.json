@@ -45830,5 +45830,113 @@
     "repoOwner": "shadowX4fox",
     "repoName": "solutions-architect-skills",
     "repoBranch": "main"
+  },
+  "Apertur3/headroom": {
+    "name": "Apertur3/headroom",
+    "description": "Fuel gauge for AI coding agents: reads real plan limits, answers go, wait or reroute.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Apertur3",
+    "repoName": "headroom",
+    "repoBranch": "master"
+  },
+  "antoine-tena/ion-repo": {
+    "name": "antoine-tena/ion-repo",
+    "description": "Claude Code's workshop: start every new project, and rescue every old one, like a senior engineer would \u2014 even if you're not one.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "antoine-tena",
+    "repoName": "ion-repo",
+    "repoBranch": "develop"
+  },
+  "fabiandistler/agents": {
+    "name": "fabiandistler/agents",
+    "description": "Agent skills, custom agents and tooling",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fabiandistler",
+    "repoName": "agents",
+    "repoBranch": "main"
+  },
+  "mralexivy/AutoMode": {
+    "name": "mralexivy/AutoMode",
+    "description": "Automatic model and effort router for Claude Code. A free plugin that picks Haiku, Sonnet or Opus for each prompt, adds risk floors and a review workflow, and shows cache and context state. No key, no server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mralexivy",
+    "repoName": "AutoMode",
+    "repoBranch": "main"
+  },
+  "Sibhimanyu/rasanai": {
+    "name": "Sibhimanyu/rasanai",
+    "description": "AI video director for Claude Code: pick one of three complete films and Claude designs, animates and renders it. Launch films, explainers, reels from your footage, motion graphics. Built on HyperFrames. Formerly Rasa...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sibhimanyu",
+    "repoName": "rasanai",
+    "repoBranch": "master"
+  },
+  "aichatwatch/aicw-skills": {
+    "name": "aichatwatch/aicw-skills",
+    "description": "Agent skills for AI search optimization (GEO, AEO): audit and fix your website's content, JSON-LD and crawler access, then check how ChatGPT, Claude, Gemini and Perplexity mention your brand. Plugin for Claude Code an...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aichatwatch",
+    "repoName": "aicw-skills",
+    "repoBranch": "main"
+  },
+  "TrialAndTemper/cech": {
+    "name": "TrialAndTemper/cech",
+    "description": "Composable Expertise & Context Hub. A guild of open agent skills - from engineering standards to brand identity. Authored once, shared across tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TrialAndTemper",
+    "repoName": "cech",
+    "repoBranch": "main"
+  },
+  "vaibhavmalik/claude-skills": {
+    "name": "vaibhavmalik/claude-skills",
+    "description": "Claude Code skills for getting PRs merged and describing them for strangers: babysit-pr, pr-description",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vaibhavmalik",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "HarryHeYu/skills-arsenal": {
+    "name": "HarryHeYu/skills-arsenal",
+    "description": "Four agent skills (SKILL.md) wrapping battle-tested local CLIs \u2014 repo archaeology, binary anatomy, disk usage, screen OCR. Works in ZCode & Claude Code. Installable as a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HarryHeYu",
+    "repoName": "skills-arsenal",
+    "repoBranch": "main"
+  },
+  "pironjulien/NexusSystem": {
+    "name": "pironjulien/NexusSystem",
+    "description": "Claude Code plugin marketplace: your Android phone, Windows desktop apps and real Chrome, in the background (MCP servers from PyPI via uvx)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pironjulien",
+    "repoName": "NexusSystem",
+    "repoBranch": "main"
+  },
+  "franndeli/writing-coach": {
+    "name": "franndeli/writing-coach",
+    "description": "\u270d\ufe0f AI writing coach that turns your voice notes into LinkedIn posts and blog articles. It changes the structure, never your words. Agent Skill for Claude Code, Codex, Cursor, Pi & more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "franndeli",
+    "repoName": "writing-coach",
+    "repoBranch": "main"
+  },
+  "kcayme/k-agents": {
+    "name": "kcayme/k-agents",
+    "description": "Handy agents for effective, secured, and quality full-stack development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kcayme",
+    "repoName": "k-agents",
+    "repoBranch": "master"
   }
 }

@@ -53685,5 +53685,104 @@
         "name": "solutions-architect-skills",
         "branch": "main",
         "enabled": true
+    },
+    "Apertur3/headroom": {
+        "owner": "Apertur3",
+        "name": "headroom",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "prithivrajmu/asd-ste100": {
+        "owner": "prithivrajmu",
+        "name": "asd-ste100",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "antoine-tena/ion-repo": {
+        "owner": "antoine-tena",
+        "name": "ion-repo",
+        "branch": "develop",
+        "enabled": true
+    },
+    "fabiandistler/agents": {
+        "owner": "fabiandistler",
+        "name": "agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "Frank-Masciopinto/ironheights": {
+        "owner": "Frank-Masciopinto",
+        "name": "ironheights",
+        "branch": "main",
+        "enabled": true
+    },
+    "mralexivy/AutoMode": {
+        "owner": "mralexivy",
+        "name": "AutoMode",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Sibhimanyu/rasanai": {
+        "owner": "Sibhimanyu",
+        "name": "rasanai",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aichatwatch/aicw-skills": {
+        "owner": "aichatwatch",
+        "name": "aicw-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TrialAndTemper/cech": {
+        "owner": "TrialAndTemper",
+        "name": "cech",
+        "branch": "main",
+        "enabled": true
+    },
+    "vaibhavmalik/claude-skills": {
+        "owner": "vaibhavmalik",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "HarryHeYu/skills-arsenal": {
+        "owner": "HarryHeYu",
+        "name": "skills-arsenal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pironjulien/NexusSystem": {
+        "owner": "pironjulien",
+        "name": "NexusSystem",
+        "branch": "main",
+        "enabled": true
+    },
+    "franndeli/writing-coach": {
+        "owner": "franndeli",
+        "name": "writing-coach",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "haiggoh/resume-interrupted": {
+        "owner": "haiggoh",
+        "name": "resume-interrupted",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kcayme/k-agents": {
+        "owner": "kcayme",
+        "name": "k-agents",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

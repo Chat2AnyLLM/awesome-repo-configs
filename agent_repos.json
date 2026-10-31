@@ -7044,5 +7044,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "fabiandistler/agents": {
+    "owner": "fabiandistler",
+    "name": "agents",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "mralexivy/AutoMode": {
+    "owner": "mralexivy",
+    "name": "AutoMode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Sibhimanyu/rasanai": {
+    "owner": "Sibhimanyu",
+    "name": "rasanai",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "kcayme/k-agents": {
+    "owner": "kcayme",
+    "name": "k-agents",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
