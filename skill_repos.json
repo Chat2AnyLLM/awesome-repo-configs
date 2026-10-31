@@ -53550,5 +53550,12 @@
         "name": "i-want-to-duck-meeting",
         "branch": "master",
         "enabled": true
+    },
+    "techjobs-vn/skills": {
+        "owner": "techjobs-vn",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
