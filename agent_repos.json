@@ -7044,5 +7044,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "cerredz/vidbyte-memory": {
+    "owner": "cerredz",
+    "name": "vidbyte-memory",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

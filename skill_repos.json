@@ -53685,5 +53685,12 @@
         "name": "solutions-architect-skills",
         "branch": "main",
         "enabled": true
+    },
+    "cerredz/vidbyte-memory": {
+        "owner": "cerredz",
+        "name": "vidbyte-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

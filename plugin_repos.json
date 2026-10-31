@@ -45830,5 +45830,14 @@
     "repoOwner": "shadowX4fox",
     "repoName": "solutions-architect-skills",
     "repoBranch": "main"
+  },
+  "cerredz/vidbyte-memory": {
+    "name": "cerredz/vidbyte-memory",
+    "description": "Correction-driven memory for coding agents: each correction becomes a Markdown fact, a pytest test or verifier, and a git commit; a Stop hook keeps the turn from ending while tests fail.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cerredz",
+    "repoName": "vidbyte-memory",
+    "repoBranch": "main"
   }
 }
