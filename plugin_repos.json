@@ -45713,5 +45713,14 @@
     "repoOwner": "jaylooloomi",
     "repoName": "i-want-to-duck-meeting",
     "repoBranch": "master"
+  },
+  "techjobs-vn/skills": {
+    "name": "techjobs-vn/skills",
+    "description": "Vietnam tech job search for agents: search techjobs.vn via its MCP server, score JDs against your CV before applying, and check offers Gross/Net with 2026 tax rules. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "techjobs-vn",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }
