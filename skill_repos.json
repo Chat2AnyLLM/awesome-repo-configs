@@ -53557,5 +53557,133 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "fcakyon/labrat": {
+        "owner": "fcakyon",
+        "name": "labrat",
+        "branch": "main",
+        "enabled": true
+    },
+    "akseolabs-seo/cinematic-ui": {
+        "owner": "akseolabs-seo",
+        "name": "cinematic-ui",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dheerajponnaganti/thenwise": {
+        "owner": "dheerajponnaganti",
+        "name": "thenwise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bayshores/godspeed": {
+        "owner": "bayshores",
+        "name": "godspeed",
+        "branch": "main",
+        "enabled": true
+    },
+    "syedishaq7262-svg/crypto-trader-skill": {
+        "owner": "syedishaq7262-svg",
+        "name": "crypto-trader-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "christianpasinrey/patterns-and-refactoring": {
+        "owner": "christianpasinrey",
+        "name": "patterns-and-refactoring",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cairn-agent/clawprint-cli": {
+        "owner": "cairn-agent",
+        "name": "clawprint-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-searchs-pro": {
+        "owner": "why20261",
+        "name": "douyin-searchs-pro",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sagarkonkanagaon-netizenk/deja": {
+        "owner": "sagarkonkanagaon-netizenk",
+        "name": "deja",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "marwanm7moud/watch-video": {
+        "owner": "marwanm7moud",
+        "name": "watch-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "owoevan-dev/refinish-skill": {
+        "owner": "owoevan-dev",
+        "name": "refinish-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "liuzheng6621/frontend-fidelity": {
+        "owner": "liuzheng6621",
+        "name": "frontend-fidelity",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jinjin20220405/guitar-playalong-simulator": {
+        "owner": "jinjin20220405",
+        "name": "guitar-playalong-simulator",
+        "branch": "main",
+        "enabled": true
+    },
+    "Royo-Qiao/github-repo-seo": {
+        "owner": "Royo-Qiao",
+        "name": "github-repo-seo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Stock-Compass/stock-compass-plugin": {
+        "owner": "Stock-Compass",
+        "name": "stock-compass-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JittoJoseph/seo-skills": {
+        "owner": "JittoJoseph",
+        "name": "seo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Soumik766/Inkgraph": {
+        "owner": "Soumik766",
+        "name": "Inkgraph",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NJ-Burrito/Business-Wrap": {
+        "owner": "NJ-Burrito",
+        "name": "Business-Wrap",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shadowX4fox/solutions-architect-skills": {
+        "owner": "shadowX4fox",
+        "name": "solutions-architect-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

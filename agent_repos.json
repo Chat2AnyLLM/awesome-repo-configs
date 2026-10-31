@@ -7037,5 +7037,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "shadowX4fox/solutions-architect-skills": {
+    "owner": "shadowX4fox",
+    "name": "solutions-architect-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -45722,5 +45722,113 @@
     "repoOwner": "techjobs-vn",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "fcakyon/labrat": {
+    "name": "fcakyon/labrat",
+    "description": "PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fcakyon",
+    "repoName": "labrat",
+    "repoBranch": "main"
+  },
+  "dheerajponnaganti/thenwise": {
+    "name": "dheerajponnaganti/thenwise",
+    "description": "Thenwise: a local memory of your past Claude Code work, searchable by date and link.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dheerajponnaganti",
+    "repoName": "thenwise",
+    "repoBranch": "main"
+  },
+  "syedishaq7262-svg/crypto-trader-skill": {
+    "name": "syedishaq7262-svg/crypto-trader-skill",
+    "description": "18 Claude skills for crypto day trading on Binance, Bybit and Hyperliquid: what's moving today and why, setups with their real records, a card on any coin, an idea lab for your own ideas, every trade planned, sized an...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "syedishaq7262-svg",
+    "repoName": "crypto-trader-skill",
+    "repoBranch": "main"
+  },
+  "christianpasinrey/patterns-and-refactoring": {
+    "name": "christianpasinrey/patterns-and-refactoring",
+    "description": "A standalone Claude Code skill that forces a deliberate design decision before code is written, and a test-backed process before code is restructured. 8 pattern catalogues + 66 refactoring techniques + 22 code smells.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "christianpasinrey",
+    "repoName": "patterns-and-refactoring",
+    "repoBranch": "main"
+  },
+  "sagarkonkanagaon-netizenk/deja": {
+    "name": "sagarkonkanagaon-netizenk/deja",
+    "description": "Memory for Claude Code and Codex that never debugs the same bug twice. Zero deps, no daemon, no extra model calls.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sagarkonkanagaon-netizenk",
+    "repoName": "deja",
+    "repoBranch": "main"
+  },
+  "marwanm7moud/watch-video": {
+    "name": "marwanm7moud/watch-video",
+    "description": "Let Claude watch videos: timestamped transcript, scene-selected keyframes, exact frames and OCR. Local, no API keys. MCP server + skill + Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marwanm7moud",
+    "repoName": "watch-video",
+    "repoBranch": "main"
+  },
+  "owoevan-dev/refinish-skill": {
+    "name": "owoevan-dev/refinish-skill",
+    "description": "Re-finish character art and backgrounds in 37 styles by code: anime cel, watercolour, woodblock, screentone, pixel and more. The drawing stays; only the finish changes, taking the generic AI look off generated art. An...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "owoevan-dev",
+    "repoName": "refinish-skill",
+    "repoBranch": "main"
+  },
+  "Stock-Compass/stock-compass-plugin": {
+    "name": "Stock-Compass/stock-compass-plugin",
+    "description": "Stock Compass for AI apps: MCP connector, a skill covering all of Stock Compass (works with any AI), and a one-step Claude plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Stock-Compass",
+    "repoName": "stock-compass-plugin",
+    "repoBranch": "main"
+  },
+  "JittoJoseph/seo-skills": {
+    "name": "JittoJoseph/seo-skills",
+    "description": "SEO skills for Claude Code, Codex and Cursor. Audit any site from its URL: see what crawlers can actually read and what to fix first. Free, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JittoJoseph",
+    "repoName": "seo-skills",
+    "repoBranch": "main"
+  },
+  "jenul-ferdinand/skills": {
+    "name": "jenul-ferdinand/skills",
+    "description": "Claude Code plugin marketplace for my Agent Skills: cashew-skill and etoro-skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jenul-ferdinand",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "NJ-Burrito/Business-Wrap": {
+    "name": "NJ-Burrito/Business-Wrap",
+    "description": "Bilingual requirements document generator (Arabic RTL + English LTR). Turn a process model or a walk through a live e-service into an SRS you edit on the page that prints, then export PDF + DOCX. Claude Code plugin +...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NJ-Burrito",
+    "repoName": "Business-Wrap",
+    "repoBranch": "main"
+  },
+  "shadowX4fox/solutions-architect-skills": {
+    "name": "shadowX4fox/solutions-architect-skills",
+    "description": "Claude Code plugins for solutions architects: from requirements to a versioned ARCHITECTURE.md, ADRs, risk analyses and a dev handoff kit \u2014 every gate checked by code. Explore it in 3D with Alia, or serve it to your I...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shadowX4fox",
+    "repoName": "solutions-architect-skills",
+    "repoBranch": "main"
   }
 }
