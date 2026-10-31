@@ -53784,5 +53784,111 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Beakpoint-Insights/roost": {
+        "owner": "Beakpoint-Insights",
+        "name": "roost",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "teranos/ground": {
+        "owner": "teranos",
+        "name": "ground",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "cerredz/vidbyte-memory": {
+        "owner": "cerredz",
+        "name": "vidbyte-memory",
+        "branch": "main",
+        "enabled": true
+    },
+    "MaximeRumpler/Make_Colors_PPTX": {
+        "owner": "MaximeRumpler",
+        "name": "Make_Colors_PPTX",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guilhermebkel/scenec": {
+        "owner": "guilhermebkel",
+        "name": "scenec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Blakeem/aipromptguide-workflows": {
+        "owner": "Blakeem",
+        "name": "aipromptguide-workflows",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "3nchiridion/foldsmith": {
+        "owner": "3nchiridion",
+        "name": "foldsmith",
+        "branch": "main",
+        "enabled": true
+    },
+    "kinlab-ai/kin-plugin": {
+        "owner": "kinlab-ai",
+        "name": "kin-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "enterprise-agent-skills/enterprise-agent-skills": {
+        "owner": "enterprise-agent-skills",
+        "name": "enterprise-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "keppy/charmnomicon": {
+        "owner": "keppy",
+        "name": "charmnomicon",
+        "branch": "main",
+        "enabled": true
+    },
+    "oarthurbg/orchestra": {
+        "owner": "oarthurbg",
+        "name": "orchestra",
+        "branch": "main",
+        "enabled": true
+    },
+    "danbaruka/claude-code-ai-video": {
+        "owner": "danbaruka",
+        "name": "claude-code-ai-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "muneebsajjad/demo-reel": {
+        "owner": "muneebsajjad",
+        "name": "demo-reel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "KaranO-Dev/one-take-skill": {
+        "owner": "KaranO-Dev",
+        "name": "one-take-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dtthaison/app-screenshots-pro-skill": {
+        "owner": "dtthaison",
+        "name": "app-screenshots-pro-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "e1dred/agent-skills": {
+        "owner": "e1dred",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

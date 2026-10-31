@@ -45938,5 +45938,122 @@
     "repoOwner": "kcayme",
     "repoName": "k-agents",
     "repoBranch": "master"
+  },
+  "rbartoli/agent-usage-guard": {
+    "name": "rbartoli/agent-usage-guard",
+    "description": "A Claude Code mod that holds subagent fan-out, heavy-context prompts and retry loops before they spend your usage window. It reads your plan's usage, counts agents across every session, and asks in Claude Code's own d...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rbartoli",
+    "repoName": "agent-usage-guard",
+    "repoBranch": "main"
+  },
+  "Beakpoint-Insights/roost": {
+    "name": "Beakpoint-Insights/roost",
+    "description": "Spec-driven development that doesn't stop at the code: coding agents take an idea to release, and you make the calls.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Beakpoint-Insights",
+    "repoName": "roost",
+    "repoBranch": "main"
+  },
+  "cerredz/vidbyte-memory": {
+    "name": "cerredz/vidbyte-memory",
+    "description": "Correction-driven memory for coding agents: a GitHub template where each correction becomes a slim fact, a pytest test and a commit. No API key, no database, no service. For Claude Code and any agent that reads AGENTS...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cerredz",
+    "repoName": "vidbyte-memory",
+    "repoBranch": "main"
+  },
+  "castus/pixpal": {
+    "name": "castus/pixpal",
+    "description": "A pixel-art friend above your prompt that shows what Claude is doing, and how it feels about it",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "castus",
+    "repoName": "pixpal",
+    "repoBranch": "main"
+  },
+  "natansalvadorligabo/claude-usage-meter": {
+    "name": "natansalvadorligabo/claude-usage-meter",
+    "description": "Claude Code footer meter for context, session and weekly usage with a daily budget",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "natansalvadorligabo",
+    "repoName": "claude-usage-meter",
+    "repoBranch": "main"
+  },
+  "Blakeem/aipromptguide-workflows": {
+    "name": "Blakeem/aipromptguide-workflows",
+    "description": "AI Prompt Guide (aipromptguide.com) - Claude Code Plugin with production grade dynamic workflows and supporting tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Blakeem",
+    "repoName": "aipromptguide-workflows",
+    "repoBranch": "main"
+  },
+  "3nchiridion/foldsmith": {
+    "name": "3nchiridion/foldsmith",
+    "description": "Claude Code skill and plugin for iPhone Duo: hands-free migration with measured layout patterns, proven in every pose on the simulator. Not affiliated with Apple.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "3nchiridion",
+    "repoName": "foldsmith",
+    "repoBranch": "main"
+  },
+  "kinlab-ai/kin-plugin": {
+    "name": "kinlab-ai/kin-plugin",
+    "description": "Kin for Claude Code, Codex and Gemini CLI: one connector for every account, with your rules and approvals.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kinlab-ai",
+    "repoName": "kin-plugin",
+    "repoBranch": "main"
+  },
+  "enterprise-agent-skills/enterprise-agent-skills": {
+    "name": "enterprise-agent-skills/enterprise-agent-skills",
+    "description": "Vendor-neutral Agent Skills and plugins for enterprise platforms (SAP, Microsoft, Salesforce), with acceptance criteria and credential-free tests for every skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enterprise-agent-skills",
+    "repoName": "enterprise-agent-skills",
+    "repoBranch": "main"
+  },
+  "keppy/charmnomicon": {
+    "name": "keppy/charmnomicon",
+    "description": "A public book of small web apps made by AI agents and humans for each other. MCP at charmnomicon.com/mcp",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "keppy",
+    "repoName": "charmnomicon",
+    "repoBranch": "main"
+  },
+  "oarthurbg/orchestra": {
+    "name": "oarthurbg/orchestra",
+    "description": "Many voices. One composition. A Claude Code plugin for running one project with an orchestrator session and parallel workstream sessions: spec first, risk-proportional reviews, handoff notes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oarthurbg",
+    "repoName": "orchestra",
+    "repoBranch": "main"
+  },
+  "danbaruka/claude-code-ai-video": {
+    "name": "danbaruka/claude-code-ai-video",
+    "description": "A Claude Code skill (ai-video) that turns one small JSON file into a short vertical video \u2014 TikTok, Reels, Shorts \u2014 in a clean animated white style: voice, word-synced captions, 16 scenes, real logos, MP4. Very few to...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "danbaruka",
+    "repoName": "claude-code-ai-video",
+    "repoBranch": "main"
+  },
+  "dtthaison/app-screenshots-pro-skill": {
+    "name": "dtthaison/app-screenshots-pro-skill",
+    "description": "Claude Code skill: App Store & Google Play screenshots from your codebase \u2014 captions in every language, CSS device frames, 41 layouts, panoramas, every store size.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dtthaison",
+    "repoName": "app-screenshots-pro-skill",
+    "repoBranch": "main"
   }
 }
