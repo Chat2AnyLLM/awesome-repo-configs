@@ -46289,5 +46289,104 @@
     "repoOwner": "ruinosus",
     "repoName": "chalk-talk",
     "repoBranch": "main"
+  },
+  "laaielichter/Reverseport": {
+    "name": "laaielichter/Reverseport",
+    "description": "Reverse engineer anything. Port it anywhere. One CLI and MCP server that lets any coding agent take apart apps, games, binaries and websites \u2014 and port them to Godot, Unity, Unreal, three.js or any language.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "laaielichter",
+    "repoName": "Reverseport",
+    "repoBranch": "main"
+  },
+  "celishq/trails": {
+    "name": "celishq/trails",
+    "description": "Teach your AI once, not every day. Your corrections become patterns that Claude Code, Codex and Cursor keep: a CLAUDE.md and skills that write themselves.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "celishq",
+    "repoName": "trails",
+    "repoBranch": "main"
+  },
+  "umararshad4/honey-stack": {
+    "name": "umararshad4/honey-stack",
+    "description": "Always-on workflow layer for Claude Code and Codex: right-sized tasks, smallest complete change, proof before done, plus RSI that learns from every session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "umararshad4",
+    "repoName": "honey-stack",
+    "repoBranch": "main"
+  },
+  "askads/claude-plugins": {
+    "name": "askads/claude-plugins",
+    "description": "Claude Code plugin marketplace by Ask Ads: Yandex Direct, VK Ads, Yandex Metrica and Wordstat MCP servers, including a remote read-only Yandex Direct connector with Yandex OAuth, for Claude Code and Claude Desktop",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "askads",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "dextsamu/gdpr-sentinel": {
+    "name": "dextsamu/gdpr-sentinel",
+    "description": "Skill per agenti AI (Claude, Codex, Antigravity) per la valutazione tecnica GDPR/ePrivacy sul trattamento reale: mappa dei trattamenti, matrice di controlli A\u2013N, domande per DPO e legale. Non dichiara mai conformit\u00e0....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dextsamu",
+    "repoName": "gdpr-sentinel",
+    "repoBranch": "main"
+  },
+  "roomi-fields/roomis-grillhouse": {
+    "name": "roomi-fields/roomis-grillhouse",
+    "description": "An elephant\u2013goldfish framework for building with Claude Code agents: a grill settles the architecture, fresh agents write tests, code and review each ticket.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "roomi-fields",
+    "repoName": "roomis-grillhouse",
+    "repoBranch": "main"
+  },
+  "QDHShamiro/Wisply": {
+    "name": "QDHShamiro/Wisply",
+    "description": "AI agents drive your real browser and every Windows app as a few lines of text instead of screenshots (~97% fewer tokens per page). Claude Code + Codex plugin, MCP server for any client.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QDHShamiro",
+    "repoName": "Wisply",
+    "repoBranch": "main"
+  },
+  "Ments123/dmd-costs-mcp": {
+    "name": "Ments123/dmd-costs-mcp",
+    "description": "Free, read-only legal costs tools for England and Wales as a remote MCP server: CPR deadlines, detailed assessment, Part 36, fixed costs, court fees, interest. By DMD Costs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ments123",
+    "repoName": "dmd-costs-mcp",
+    "repoBranch": "main"
+  },
+  "factline-dev/factline-skills": {
+    "name": "factline-dev/factline-skills",
+    "description": "Agent skills (SKILL.md) that check before an agent acts: invoices before paying, new counterparties, x402 payments, Dutch address and vehicle facts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "factline-dev",
+    "repoName": "factline-skills",
+    "repoBranch": "main"
+  },
+  "MaximeRumpler/Make_Style_PPTX": {
+    "name": "MaximeRumpler/Make_Style_PPTX",
+    "description": "Make Style PPTX: agent skill that gives a clean PowerPoint deck another look (new card shapes, staggered or arced layouts, quiet backgrounds) with the same content. Part of the Make PPTX set. Preview.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MaximeRumpler",
+    "repoName": "Make_Style_PPTX",
+    "repoBranch": "main"
+  },
+  "larsmagnus/dev": {
+    "name": "larsmagnus/dev",
+    "description": "Dev setup, scripts, and Claude Code toolkit",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "larsmagnus",
+    "repoName": "dev",
+    "repoBranch": "main"
   }
 }

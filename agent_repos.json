@@ -7107,5 +7107,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "laaielichter/Reverseport": {
+    "owner": "laaielichter",
+    "name": "Reverseport",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "umararshad4/honey-stack": {
+    "owner": "umararshad4",
+    "name": "honey-stack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "larsmagnus/dev": {
+    "owner": "larsmagnus",
+    "name": "dev",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

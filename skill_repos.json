@@ -54109,5 +54109,113 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "laaielichter/Reverseport": {
+        "owner": "laaielichter",
+        "name": "Reverseport",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "celishq/trails": {
+        "owner": "celishq",
+        "name": "trails",
+        "branch": "main",
+        "enabled": true
+    },
+    "umararshad4/honey-stack": {
+        "owner": "umararshad4",
+        "name": "honey-stack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "askads/claude-plugins": {
+        "owner": "askads",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "dextsamu/gdpr-sentinel": {
+        "owner": "dextsamu",
+        "name": "gdpr-sentinel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "grcmana/grcskills": {
+        "owner": "grcmana",
+        "name": "grcskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "roomi-fields/roomis-grillhouse": {
+        "owner": "roomi-fields",
+        "name": "roomis-grillhouse",
+        "branch": "main",
+        "enabled": true
+    },
+    "QDHShamiro/Wisply": {
+        "owner": "QDHShamiro",
+        "name": "Wisply",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ments123/dmd-costs-mcp": {
+        "owner": "Ments123",
+        "name": "dmd-costs-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "factline-dev/factline-skills": {
+        "owner": "factline-dev",
+        "name": "factline-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MaximeRumpler/Make_Style_PPTX": {
+        "owner": "MaximeRumpler",
+        "name": "Make_Style_PPTX",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sataker/trello-claude-code": {
+        "owner": "Sataker",
+        "name": "trello-claude-code",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thibaud-sanchez/fusion360-bambu-print-skill": {
+        "owner": "thibaud-sanchez",
+        "name": "fusion360-bambu-print-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "larsmagnus/dev": {
+        "owner": "larsmagnus",
+        "name": "dev",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "frostney/known-good-route": {
+        "owner": "frostney",
+        "name": "known-good-route",
+        "branch": "main",
+        "enabled": true
+    },
+    "swimchicken777/reshield": {
+        "owner": "swimchicken777",
+        "name": "reshield",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
