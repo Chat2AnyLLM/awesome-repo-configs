@@ -54004,5 +54004,110 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "JoxoAI/joxo": {
+        "owner": "JoxoAI",
+        "name": "joxo",
+        "branch": "main",
+        "enabled": true
+    },
+    "skateddu/claude-code-python-setup": {
+        "owner": "skateddu",
+        "name": "claude-code-python-setup",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "mankidev/codixel": {
+        "owner": "mankidev",
+        "name": "codixel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "suntianc/paseo-matt-workloop": {
+        "owner": "suntianc",
+        "name": "paseo-matt-workloop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cogvera-labs/next-expo-supabase-agent-harness": {
+        "owner": "cogvera-labs",
+        "name": "next-expo-supabase-agent-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "2104178150-ai/megaphone": {
+        "owner": "2104178150-ai",
+        "name": "megaphone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "harsh-aghara/underhood": {
+        "owner": "harsh-aghara",
+        "name": "underhood",
+        "branch": "main",
+        "enabled": true
+    },
+    "ronitgupta43-ops/country-skills": {
+        "owner": "ronitgupta43-ops",
+        "name": "country-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "its-magdy/design-twin": {
+        "owner": "its-magdy",
+        "name": "design-twin",
+        "branch": "main",
+        "enabled": true
+    },
+    "slyf0xx97/cutify-ui": {
+        "owner": "slyf0xx97",
+        "name": "cutify-ui",
+        "branch": "main",
+        "enabled": true
+    },
+    "zhouwei713/popup-carousel-book": {
+        "owner": "zhouwei713",
+        "name": "popup-carousel-book",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dextsamu/appsec-sentinel": {
+        "owner": "dextsamu",
+        "name": "appsec-sentinel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "BSSE23047/plugweight": {
+        "owner": "BSSE23047",
+        "name": "plugweight",
+        "branch": "main",
+        "enabled": true
+    },
+    "prasadm1022/hades-vault": {
+        "owner": "prasadm1022",
+        "name": "hades-vault",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tedix-hq/tedix-plugins": {
+        "owner": "tedix-hq",
+        "name": "tedix-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ruinosus/chalk-talk": {
+        "owner": "ruinosus",
+        "name": "chalk-talk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

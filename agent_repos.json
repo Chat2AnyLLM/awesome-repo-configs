@@ -7093,5 +7093,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "skateddu/claude-code-python-setup": {
+    "owner": "skateddu",
+    "name": "claude-code-python-setup",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "prasadm1022/hades-vault": {
+    "owner": "prasadm1022",
+    "name": "hades-vault",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

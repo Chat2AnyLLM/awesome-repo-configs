@@ -46181,5 +46181,113 @@
     "repoOwner": "opslane",
     "repoName": "macbox-agent",
     "repoBranch": "main"
+  },
+  "JoxoAI/joxo": {
+    "name": "JoxoAI/joxo",
+    "description": "Team workspace for AI coding agents: your Claude Code, Codex, Cursor, Gemini CLI and OpenCode agents share one project, task board and handoffs. Desktop, iPhone and MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JoxoAI",
+    "repoName": "joxo",
+    "repoBranch": "main"
+  },
+  "BekirEfeoglu/proof-of-green": {
+    "name": "BekirEfeoglu/proof-of-green",
+    "description": "Blocks Claude Code and Codex from ending a turn when code changed and no test passed after the last change.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BekirEfeoglu",
+    "repoName": "proof-of-green",
+    "repoBranch": "main"
+  },
+  "cogvera-labs/next-expo-supabase-agent-harness": {
+    "name": "cogvera-labs/next-expo-supabase-agent-harness",
+    "description": "A CLI that scaffolds a Next.js and Expo monorepo on Supabase, with Claude Code hooks that send the agent back to work when a check fails.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cogvera-labs",
+    "repoName": "next-expo-supabase-agent-harness",
+    "repoBranch": "main"
+  },
+  "Marius-Adam/claude-files-pane": {
+    "name": "Marius-Adam/claude-files-pane",
+    "description": "A file explorer for Claude Code: see what Claude reads, edits and commits, live, in a VS Code-style file tree beside your chat.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Marius-Adam",
+    "repoName": "claude-files-pane",
+    "repoBranch": "main"
+  },
+  "2104178150-ai/megaphone": {
+    "name": "2104178150-ai/megaphone",
+    "description": "Launch your open-source project: readiness score, rule-checked posts for HN, Reddit, V2EX, \u5c0f\u7ea2\u4e66 & more, launch tracking \u00b7 \u5f00\u6e90\u9879\u76ee\u53d1\u5e03\u4f53\u68c0\u4e0e\u63a8\u5e7f",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2104178150-ai",
+    "repoName": "megaphone",
+    "repoBranch": "main"
+  },
+  "harsh-aghara/underhood": {
+    "name": "harsh-aghara/underhood",
+    "description": "Don't vibe-skim the code. See how it actually works under the hood and where it can break.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "harsh-aghara",
+    "repoName": "underhood",
+    "repoBranch": "main"
+  },
+  "ronitgupta43-ops/country-skills": {
+    "name": "ronitgupta43-ops/country-skills",
+    "description": "AI skills for money, jobs and creators, country by country: taxes, investing, resumes, interviews, content and brand deals. Canada \ud83c\udde8\ud83c\udde6 India \ud83c\uddee\ud83c\uddf3 USA \ud83c\uddfa\ud83c\uddf8. Works with Claude, Codex, Gemini, Cursor and Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ronitgupta43-ops",
+    "repoName": "country-skills",
+    "repoBranch": "main"
+  },
+  "its-magdy/design-twin": {
+    "name": "its-magdy/design-twin",
+    "description": "Figma \u2192 code with Claude Code, on the free Figma plan, with nothing leaving your machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "its-magdy",
+    "repoName": "design-twin",
+    "repoBranch": "main"
+  },
+  "slyf0xx97/cutify-ui": {
+    "name": "slyf0xx97/cutify-ui",
+    "description": "Claude Code skill for cute, pixel-art, game-like UI. Claude builds landing pages, prototypes and animated process flows in React, Next.js or plain HTML, in six themes. Free and MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slyf0xx97",
+    "repoName": "cutify-ui",
+    "repoBranch": "main"
+  },
+  "dextsamu/appsec-sentinel": {
+    "name": "dextsamu/appsec-sentinel",
+    "description": "Skill per agenti AI (Claude, Codex, Antigravity) per assessment di sicurezza applicativa e cloud: regole di ingaggio, test dimostrabili, finding strutturati e copertura con denominatori reali. In italiano, per PA e pi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dextsamu",
+    "repoName": "appsec-sentinel",
+    "repoBranch": "main"
+  },
+  "tedix-hq/tedix-plugins": {
+    "name": "tedix-hq/tedix-plugins",
+    "description": "Connect Claude Code, Codex, and other AI assistants to Tedix for shared tasks, project knowledge, decisions, and results.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tedix-hq",
+    "repoName": "tedix-plugins",
+    "repoBranch": "main"
+  },
+  "ruinosus/chalk-talk": {
+    "name": "ruinosus/chalk-talk",
+    "description": "A skill that makes Claude explain an idea by drawing it: a hand-drawn lesson that draws itself, chapter by chapter, in one HTML file.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ruinosus",
+    "repoName": "chalk-talk",
+    "repoBranch": "main"
   }
 }
