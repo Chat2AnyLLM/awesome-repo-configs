@@ -7079,5 +7079,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "softzer0/opscrew": {
+    "owner": "softzer0",
+    "name": "opscrew",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "algibbawi-m/trust-but-verify": {
+    "owner": "algibbawi-m",
+    "name": "trust-but-verify",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -46064,5 +46064,113 @@
     "repoOwner": "civai-technologies",
     "repoName": "nova-catalog-mcp-plugins-by-nova-civai",
     "repoBranch": "main"
+  },
+  "hua695/MathModeling-Skills-Arsenal": {
+    "name": "hua695/MathModeling-Skills-Arsenal",
+    "description": "\u9762\u5411\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684 AI Agent \u6280\u80fd\u96c6\uff1a\u8bfb\u9898\u5efa\u6a21\u3001\u6c42\u89e3\u3001\u53ef\u89c6\u5316\u3001\u8bba\u6587\u5199\u4f5c\u4e0e\u7ec8\u7a3f\u8bc4\u5ba1\u300235 skills for CUMCM / MCM / ICM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hua695",
+    "repoName": "MathModeling-Skills-Arsenal",
+    "repoBranch": "main"
+  },
+  "Hambaobao/hambaobao-skills": {
+    "name": "Hambaobao/hambaobao-skills",
+    "description": "A collection of Agent Skills for AI coding assistants. Compatible with Claude Code and OpenClaw.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hambaobao",
+    "repoName": "hambaobao-skills",
+    "repoBranch": "main"
+  },
+  "Quinnod345/ponder": {
+    "name": "Quinnod345/ponder",
+    "description": "Convergent deliberation loop for coding agents: multi-pass, coverage-gated, append-only ledger review and planning. Claude Code, Codex, OpenClaw.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Quinnod345",
+    "repoName": "ponder",
+    "repoBranch": "main"
+  },
+  "anotb/second-line-financial-services": {
+    "name": "anotb/second-line-financial-services",
+    "description": "Claude plugins for second-line financial-services work: GRC, regulatory change, AI/model risk, third-party risk, compliance testing, risk reporting, financial crime, consumer compliance \u2014 across banking, insurance, ca...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anotb",
+    "repoName": "second-line-financial-services",
+    "repoBranch": "main"
+  },
+  "softzer0/opscrew": {
+    "name": "softzer0/opscrew",
+    "description": "The ops crew you didn't hire: open-source AI agents that take your app from a GitHub repo to a hardened production deployment on your own cloud.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "softzer0",
+    "repoName": "opscrew",
+    "repoBranch": "main"
+  },
+  "algibbawi-m/trust-but-verify": {
+    "name": "algibbawi-m/trust-but-verify",
+    "description": "Trust the AI, but verify. Four skills for people who build with Claude Code or Codex but don't read the code: a safe, sized way to change software, a fresh review before changes ship, a whole-app audit, and a design r...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "algibbawi-m",
+    "repoName": "trust-but-verify",
+    "repoBranch": "main"
+  },
+  "LemurDaniel/Infrastructure-as-Skills-Azure": {
+    "name": "LemurDaniel/Infrastructure-as-Skills-Azure",
+    "description": "Claude Code plugin for Azure infrastructure as Terraform or Bicep: an interview turns the decisions each resource forces into a spec, rendered onto Azure Verified Modules with tests, diagram and decision document",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LemurDaniel",
+    "repoName": "Infrastructure-as-Skills-Azure",
+    "repoBranch": "master"
+  },
+  "gbottari/context-cues": {
+    "name": "gbottari/context-cues",
+    "description": "Just-in-time rules for Claude Code: each one fires once, at the command or edit it is about.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gbottari",
+    "repoName": "context-cues",
+    "repoBranch": "main"
+  },
+  "MHermand/SaiyanMod": {
+    "name": "MHermand/SaiyanMod",
+    "description": "Claude Code mod: a subagents progress bar with mascots per model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MHermand",
+    "repoName": "SaiyanMod",
+    "repoBranch": "main"
+  },
+  "M1nu0x0/claude-safe-zsh": {
+    "name": "M1nu0x0/claude-safe-zsh",
+    "description": "Makes the Bash tool's zsh read Claude's bash-style commands like bash: unmatched globs, word splitting, = words. Workaround for anthropics/claude-code#103027. KR/EN/JP README",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "M1nu0x0",
+    "repoName": "claude-safe-zsh",
+    "repoBranch": "main"
+  },
+  "sabnmali/net-yanit": {
+    "name": "sabnmali/net-yanit",
+    "description": "Claude i\u00e7in T\u00fcrk\u00e7e net yan\u0131t sistemi: sonu\u00e7 \u00f6nce, bilgi kayb\u0131 yok. Claude Code plugin + claude.ai skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sabnmali",
+    "repoName": "net-yanit",
+    "repoBranch": "main"
+  },
+  "akshay-diwadkar/first-four-hours": {
+    "name": "akshay-diwadkar/first-four-hours",
+    "description": "Give me six hours to chop down a tree, and I will spend the first four sharpening the axe.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akshay-diwadkar",
+    "repoName": "first-four-hours",
+    "repoBranch": "main"
   }
 }

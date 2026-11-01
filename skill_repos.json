@@ -53890,5 +53890,112 @@
         "name": "agent-skills",
         "branch": "main",
         "enabled": true
+    },
+    "hua695/MathModeling-Skills-Arsenal": {
+        "owner": "hua695",
+        "name": "MathModeling-Skills-Arsenal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Hambaobao/hambaobao-skills": {
+        "owner": "Hambaobao",
+        "name": "hambaobao-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Quinnod345/ponder": {
+        "owner": "Quinnod345",
+        "name": "ponder",
+        "branch": "main",
+        "enabled": true
+    },
+    "anotb/second-line-financial-services": {
+        "owner": "anotb",
+        "name": "second-line-financial-services",
+        "branch": "main",
+        "enabled": true
+    },
+    "softzer0/opscrew": {
+        "owner": "softzer0",
+        "name": "opscrew",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "algibbawi-m/trust-but-verify": {
+        "owner": "algibbawi-m",
+        "name": "trust-but-verify",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "glichtenthal/agent-skills": {
+        "owner": "glichtenthal",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "alexliyu7352/for-you-skills": {
+        "owner": "alexliyu7352",
+        "name": "for-you-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LemurDaniel/Infrastructure-as-Skills-Azure": {
+        "owner": "LemurDaniel",
+        "name": "Infrastructure-as-Skills-Azure",
+        "branch": "master",
+        "enabled": true
+    },
+    "gbottari/context-cues": {
+        "owner": "gbottari",
+        "name": "context-cues",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ponomr/voice-dna-builder": {
+        "owner": "ponomr",
+        "name": "voice-dna-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/kuaishou-creator-screening": {
+        "owner": "why20261",
+        "name": "kuaishou-creator-screening",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sabnmali/net-yanit": {
+        "owner": "sabnmali",
+        "name": "net-yanit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "akshay-diwadkar/first-four-hours": {
+        "owner": "akshay-diwadkar",
+        "name": "first-four-hours",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ryanbihai/haola-checkup-mcp": {
+        "owner": "ryanbihai",
+        "name": "haola-checkup-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/kuaishou-video-search": {
+        "owner": "why20261",
+        "name": "kuaishou-video-search",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
