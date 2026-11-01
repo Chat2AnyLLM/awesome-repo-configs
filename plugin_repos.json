@@ -45833,7 +45833,7 @@
   },
   "cerredz/vidbyte-memory": {
     "name": "cerredz/vidbyte-memory",
-    "description": "Correction-driven memory for coding agents: each correction becomes a Markdown fact, a pytest test or verifier, and a git commit; a Stop hook keeps the turn from ending while tests fail.",
+    "description": "Correction-driven memory for coding agents: corrections become Markdown facts, pytest tests or verifiers where a check can be written, and git commits; a Stop hook blocks the end of a turn up to 5 times while tests fail.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "cerredz",
