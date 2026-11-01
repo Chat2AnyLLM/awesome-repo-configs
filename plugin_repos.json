@@ -46172,5 +46172,14 @@
     "repoOwner": "akshay-diwadkar",
     "repoName": "first-four-hours",
     "repoBranch": "main"
+  },
+  "opslane/macbox-agent": {
+    "name": "macbox",
+    "description": "A real Mac for your coding agent: build, test, run, and tap through iOS apps on the iOS simulator, from any machine, including Linux and cloud sandboxes. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "opslane",
+    "repoName": "macbox-agent",
+    "repoBranch": "main"
   }
 }
