@@ -46055,5 +46055,14 @@
     "repoOwner": "dtthaison",
     "repoName": "app-screenshots-pro-skill",
     "repoBranch": "main"
+  },
+  "civai-technologies/nova-catalog-mcp-plugins-by-nova-civai": {
+    "name": "Nova by CIVAI",
+    "description": "Official Claude Code plugin marketplace for the Nova agent catalog by CIVAI Technologies: 24 hosted Streamable HTTP MCP servers covering research, documents and slides, spreadsheets, email and messaging, browser automation, code execution, publishing and lead discovery. Each plugin prompts for a Nova API key. Listing repo MIT; the hosted servers themselves are proprietary.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "civai-technologies",
+    "repoName": "nova-catalog-mcp-plugins-by-nova-civai",
+    "repoBranch": "main"
   }
 }
