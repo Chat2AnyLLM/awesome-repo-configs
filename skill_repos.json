@@ -53997,5 +53997,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "opslane/macbox-agent": {
+        "owner": "opslane",
+        "name": "macbox-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
