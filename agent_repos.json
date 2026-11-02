@@ -7128,5 +7128,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "baney75/myelinate": {
+    "owner": "baney75",
+    "name": "myelinate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

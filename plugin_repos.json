@@ -46388,5 +46388,86 @@
     "repoOwner": "larsmagnus",
     "repoName": "dev",
     "repoBranch": "main"
+  },
+  "vzoha/dejiny-domu-skill": {
+    "name": "vzoha/dejiny-domu-skill",
+    "description": "Skill pro Claude Code: d\u011bjiny domu a vesnice z \u010desk\u00fdch archiv\u016f a web s \u010dasovou osou (\u010desky)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vzoha",
+    "repoName": "dejiny-domu-skill",
+    "repoBranch": "master"
+  },
+  "2389-research/simmer": {
+    "name": "2389-research/simmer",
+    "description": "Iterative artifact refinement with investigation-first judge board - constructs problem-specific judges that read the code, understand the problem, and propose evidence-based improvements",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "simmer",
+    "repoBranch": "main"
+  },
+  "2389-research/review-squad": {
+    "name": "2389-research/review-squad",
+    "description": "Dispatch panels of specialized subagents to review projects \u2014 expert audits, first-impression personas, task-completion flows, and pedantic nitpicks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "2389-research",
+    "repoName": "review-squad",
+    "repoBranch": "main"
+  },
+  "paprika3d/paprika3d": {
+    "name": "paprika3d/paprika3d",
+    "description": "Three.js MCP server and Claude Code plugin: screenshot, play, test and profile the three.js pages your coding agent builds.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paprika3d",
+    "repoName": "paprika3d",
+    "repoBranch": "main"
+  },
+  "baney75/myelinate": {
+    "name": "baney75/myelinate",
+    "description": "Open-source Claude Code plugin and agent skill suite that makes Claude a Socratic tutor: 14 skills for course tutoring, homework coaching, tests and grading, notes review, labs, flashcards and study plans. Honest, not...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "baney75",
+    "repoName": "myelinate",
+    "repoBranch": "main"
+  },
+  "jieliapp/jieli-plugins": {
+    "name": "jieliapp/jieli-plugins",
+    "description": "Plugins for syncing AI coding sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jieliapp",
+    "repoName": "jieli-plugins",
+    "repoBranch": "main"
+  },
+  "PoPs9444/conso-bar": {
+    "name": "PoPs9444/conso-bar",
+    "description": "The usage panel for Claude Code: rate limits, context, costs and live agents, in your language",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PoPs9444",
+    "repoName": "conso-bar",
+    "repoBranch": "main"
+  },
+  "21prnv/mapcast": {
+    "name": "21prnv/mapcast",
+    "description": "Animated map videos for explainers and Shorts: highlight countries and states on satellite or paper maps, globe dive, camera flights. CLI, MCP server and AI skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "21prnv",
+    "repoName": "mapcast",
+    "repoBranch": "main"
+  },
+  "Xyloforge/claude-game-skills": {
+    "name": "Xyloforge/claude-game-skills",
+    "description": "Claude Code skills for building polished, fast web games: game feel, camera, sound, animation, balance bots, UI, mobile and phone performance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Xyloforge",
+    "repoName": "claude-game-skills",
+    "repoBranch": "main"
   }
 }

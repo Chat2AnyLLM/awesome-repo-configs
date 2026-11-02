@@ -54217,5 +54217,143 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "caru-ini/stack-diagram": {
+        "owner": "caru-ini",
+        "name": "stack-diagram",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nokonoko1203/agent-settings": {
+        "owner": "nokonoko1203",
+        "name": "agent-settings",
+        "branch": "main",
+        "enabled": true
+    },
+    "2389-research/landing-page-design": {
+        "owner": "2389-research",
+        "name": "landing-page-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vzoha/dejiny-domu-skill": {
+        "owner": "vzoha",
+        "name": "dejiny-domu-skill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/simmer": {
+        "owner": "2389-research",
+        "name": "simmer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/summarize-meetings": {
+        "owner": "2389-research",
+        "name": "summarize-meetings",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/review-squad": {
+        "owner": "2389-research",
+        "name": "review-squad",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/building-multiagent-systems": {
+        "owner": "2389-research",
+        "name": "building-multiagent-systems",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/worldview-synthesis": {
+        "owner": "2389-research",
+        "name": "worldview-synthesis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/fresh-eyes-review": {
+        "owner": "2389-research",
+        "name": "fresh-eyes-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "paprika3d/paprika3d": {
+        "owner": "paprika3d",
+        "name": "paprika3d",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "baney75/myelinate": {
+        "owner": "baney75",
+        "name": "myelinate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/ceo-personal-os": {
+        "owner": "2389-research",
+        "name": "ceo-personal-os",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/xtool": {
+        "owner": "2389-research",
+        "name": "xtool",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lucianumm/AuditorProcessual": {
+        "owner": "lucianumm",
+        "name": "AuditorProcessual",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jieliapp/jieli-plugins": {
+        "owner": "jieliapp",
+        "name": "jieli-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "2389-research/scenario-testing": {
+        "owner": "2389-research",
+        "name": "scenario-testing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "21prnv/mapcast": {
+        "owner": "21prnv",
+        "name": "mapcast",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Xyloforge/claude-game-skills": {
+        "owner": "Xyloforge",
+        "name": "claude-game-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2389-research/documentation-audit": {
+        "owner": "2389-research",
+        "name": "documentation-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
