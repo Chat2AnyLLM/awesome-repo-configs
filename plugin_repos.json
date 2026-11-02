@@ -14861,6 +14861,15 @@
     "repoName": "frappe-workflow",
     "repoBranch": "main"
   },
+  "blockvectra/mcp": {
+    "name": "BlockVectra",
+    "description": "Claude Code marketplace with hosted EVM RPC/docs MCP and an RPC skill; docs/discovery are keyless, public RPC policy is chain-specific, and data/account tools need an API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blockvectra",
+    "repoName": "mcp",
+    "repoBranch": "main"
+  },
   "blueclover22/mw_agent_kit": {
     "name": "blueclover22/mw_agent_kit",
     "description": "Development plugin kit used in Claude Code",
