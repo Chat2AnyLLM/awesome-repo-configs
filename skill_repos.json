@@ -54362,5 +54362,99 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "backnotprop/pstack": {
+        "owner": "backnotprop",
+        "name": "pstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "denysdovhan/skills": {
+        "owner": "denysdovhan",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mhfed/vn-law-check": {
+        "owner": "mhfed",
+        "name": "vn-law-check",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "octozaur/shelfie": {
+        "owner": "octozaur",
+        "name": "shelfie",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "id-andyyy/LabAI": {
+        "owner": "id-andyyy",
+        "name": "LabAI",
+        "branch": "main",
+        "enabled": true
+    },
+    "Novin3dp/claude-KiCad-pcb-designer-skill": {
+        "owner": "Novin3dp",
+        "name": "claude-KiCad-pcb-designer-skill",
+        "branch": "claude/wonderful-noether-tswpeg",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ralvarez-ai/ralvaskills": {
+        "owner": "ralvarez-ai",
+        "name": "ralvaskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andreischuaste12-ctrl/frontend-designer-konvert": {
+        "owner": "andreischuaste12-ctrl",
+        "name": "frontend-designer-konvert",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yolo-labz/speckit-plugins": {
+        "owner": "yolo-labz",
+        "name": "speckit-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "zoo3323/usage-statusline": {
+        "owner": "zoo3323",
+        "name": "usage-statusline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sivang/sivan-claude-plugins": {
+        "owner": "sivang",
+        "name": "sivan-claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "laaielichter/Godotwright": {
+        "owner": "laaielichter",
+        "name": "Godotwright",
+        "branch": "main",
+        "enabled": true
+    },
+    "88lin/gzh-skill-kit": {
+        "owner": "88lin",
+        "name": "gzh-skill-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Shalaby-VBS/tube-scholar": {
+        "owner": "Shalaby-VBS",
+        "name": "tube-scholar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

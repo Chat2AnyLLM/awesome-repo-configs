@@ -46478,5 +46478,131 @@
     "repoOwner": "Xyloforge",
     "repoName": "claude-game-skills",
     "repoBranch": "main"
+  },
+  "denysdovhan/skills": {
+    "name": "denysdovhan/skills",
+    "description": "A collection of custom skills for my workflows with AI-agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "denysdovhan",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "mhfed/vn-law-check": {
+    "name": "mhfed/vn-law-check",
+    "description": "Audit ph\u00e1p l\u00fd website theo lu\u1eadt Vi\u1ec7t Nam (BVDLCN 91/2025, TM\u0110T 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mhfed",
+    "repoName": "vn-law-check",
+    "repoBranch": "main"
+  },
+  "sezaakgun/cc-pr-tracker": {
+    "name": "sezaakgun/cc-pr-tracker",
+    "description": "Watch GitHub PRs from a Claude Code session: merge state, review and required checks above the prompt, with alerts when they change",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sezaakgun",
+    "repoName": "cc-pr-tracker",
+    "repoBranch": "main"
+  },
+  "octozaur/shelfie": {
+    "name": "octozaur/shelfie",
+    "description": "Automatic artifact log for Claude Code \u2014 every file, page and server Claude makes, with dates, descriptions and change history, on one page.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "octozaur",
+    "repoName": "shelfie",
+    "repoBranch": "main"
+  },
+  "Novin3dp/claude-KiCad-pcb-designer-skill": {
+    "name": "Novin3dp/claude-KiCad-pcb-designer-skill",
+    "description": "AI-agent-powered KiCad PCB design automation: Python schematics, intelligent placement, negotiated-congestion autorouting, routing repair, DDR/differential-pair tuning, DRC/ERC verification, interactive review, and ma...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Novin3dp",
+    "repoName": "claude-KiCad-pcb-designer-skill",
+    "repoBranch": "claude/wonderful-noether-tswpeg"
+  },
+  "ambervdberg/smartcompact": {
+    "name": "ambervdberg/smartcompact",
+    "description": "A Claude Code mod that picks a good moment to compact to keep the context window small.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ambervdberg",
+    "repoName": "smartcompact",
+    "repoBranch": "main"
+  },
+  "yolo-labz/speckit-plugins": {
+    "name": "yolo-labz/speckit-plugins",
+    "description": "Spec-Driven Development plugin for Claude Code (derivative of github/spec-kit)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yolo-labz",
+    "repoName": "speckit-plugins",
+    "repoBranch": "main"
+  },
+  "lukas-hinterleitner/claude-code": {
+    "name": "lukas-hinterleitner/claude-code",
+    "description": "Claude Code plugins: usage-meter shows context, rate limits, cost and tokens under the prompt; haiku-reader sends large file reads to a Haiku subagent to save tokens. Install via /plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lukas-hinterleitner",
+    "repoName": "claude-code",
+    "repoBranch": "main"
+  },
+  "zoo3323/usage-statusline": {
+    "name": "zoo3323/usage-statusline",
+    "description": "A status line for Claude Code: Claude and Codex usage gauges and a context gauge. Installs as a plugin; you choose what it shows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zoo3323",
+    "repoName": "usage-statusline",
+    "repoBranch": "main"
+  },
+  "sivang/sivan-claude-plugins": {
+    "name": "sivang/sivan-claude-plugins",
+    "description": "Claude Code plugins for developer productivity \u2014 session management and automated website auditing",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sivang",
+    "repoName": "sivan-claude-plugins",
+    "repoBranch": "main"
+  },
+  "Gogi213/role-play-vibing": {
+    "name": "Gogi213/role-play-vibing",
+    "description": "\u041a\u043e\u043c\u0430\u043d\u0434\u0430 \u0418\u0418-\u0440\u043e\u043b\u0435\u0439 \u0434\u043b\u044f Claude Code: CEO, \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c, \u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u0438 \u0421\u0443\u0434\u044c\u044f \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u043f\u043e \u0442\u0438\u043a\u0435\u0442\u0430\u043c \u2014 \u0434\u0438\u0441\u043f\u0435\u0442\u0447\u0435\u0440, \u0441\u0442\u043e\u0440\u043e\u0436 \u0438 \u0448\u0438\u043d\u0430 \u0441\u043e\u0431\u044b\u0442\u0438\u0439 \u0434\u0435\u0440\u0436\u0430\u0442 \u0440\u0430\u0431\u043e\u0442\u0443 \u0431\u0435\u0437 \u043f\u0440\u043e\u0441\u0442\u043e\u0435\u0432.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Gogi213",
+    "repoName": "role-play-vibing",
+    "repoBranch": "main"
+  },
+  "smyrna-pergamum/Claude-Code-Fallback": {
+    "name": "smyrna-pergamum/Claude-Code-Fallback",
+    "description": "Keep Claude Code working when your Claude limit is reached: a local proxy that falls back to free AI APIs, your own APIs and local models (Ollama, LM Studio, llama.cpp), plus CC Desk, a desktop app with API key and mo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smyrna-pergamum",
+    "repoName": "Claude-Code-Fallback",
+    "repoBranch": "main"
+  },
+  "laaielichter/Godotwright": {
+    "name": "laaielichter/Godotwright",
+    "description": "MCP server, CLI and Claude Code plugin that make Claude Code, Codex, Cursor and any coding agent better at Godot 4: offline Godot 4.7 API, AAA GDScript review, headless checks and tests, Godot 3 to 4 migration, and 3D...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "laaielichter",
+    "repoName": "Godotwright",
+    "repoBranch": "main"
+  },
+  "Shalaby-VBS/tube-scholar": {
+    "name": "Shalaby-VBS/tube-scholar",
+    "description": "Turn any YouTube video into a bilingual (Arabic/English) study guide: timestamped explanation, 5-minute summary, animated concept visuals, scenario quiz and spaced-repetition flashcards. A Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Shalaby-VBS",
+    "repoName": "tube-scholar",
+    "repoBranch": "main"
   }
 }

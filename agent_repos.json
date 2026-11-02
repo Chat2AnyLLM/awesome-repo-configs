@@ -7135,5 +7135,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "backnotprop/pstack": {
+    "owner": "backnotprop",
+    "name": "pstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Gogi213/role-play-vibing": {
+    "owner": "Gogi213",
+    "name": "role-play-vibing",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
