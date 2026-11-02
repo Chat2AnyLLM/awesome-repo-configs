@@ -54355,5 +54355,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "zozo123/ariflow-swfactory": {
+        "owner": "zozo123",
+        "name": "ariflow-swfactory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
