@@ -46730,5 +46730,14 @@
     "repoOwner": "TestOptim-AI",
     "repoName": "testoptim-mcp",
     "repoBranch": "main"
+  },
+  "selan-ai/whatishipped": {
+    "name": "whatishipped",
+    "description": "A Claude Code skill that recreates a mobile app's UI as it ships: every screen, state, component and journey of an iOS or Android app, drawn from its code and checked against the app's own screenshots.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "selan-ai",
+    "repoName": "whatishipped",
+    "repoBranch": "main"
   }
 }

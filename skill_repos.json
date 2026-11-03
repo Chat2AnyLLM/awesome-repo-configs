@@ -54569,5 +54569,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "selan-ai/whatishipped": {
+        "owner": "selan-ai",
+        "name": "whatishipped",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
