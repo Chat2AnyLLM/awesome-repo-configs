@@ -7149,5 +7149,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "painhardcore/pstack": {
+    "owner": "painhardcore",
+    "name": "pstack",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Badhon-00/MDCP": {
+    "owner": "Badhon-00",
+    "name": "MDCP",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "andres-fu/dope-tdd": {
+    "owner": "andres-fu",
+    "name": "dope-tdd",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

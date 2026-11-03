@@ -54456,5 +54456,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "SpeedPainterOrg/explainer-video": {
+        "owner": "SpeedPainterOrg",
+        "name": "explainer-video",
+        "branch": "main",
+        "enabled": true
+    },
+    "memtomem/memtomem": {
+        "owner": "memtomem",
+        "name": "memtomem",
+        "branch": "main",
+        "enabled": true
+    },
+    "oLucasAguilar/pii-tokens": {
+        "owner": "oLucasAguilar",
+        "name": "pii-tokens",
+        "branch": "main",
+        "enabled": true
+    },
+    "painhardcore/pstack": {
+        "owner": "painhardcore",
+        "name": "pstack",
+        "branch": "master",
+        "enabled": true
+    },
+    "Badhon-00/MDCP": {
+        "owner": "Badhon-00",
+        "name": "MDCP",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andres-fu/dope-tdd": {
+        "owner": "andres-fu",
+        "name": "dope-tdd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "2392496291/lecture-notes-to-obsidian": {
+        "owner": "2392496291",
+        "name": "lecture-notes-to-obsidian",
+        "branch": "main",
+        "enabled": true
+    },
+    "wufangci/README": {
+        "owner": "wufangci",
+        "name": "README",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ChaseSunstrom/sampo": {
+        "owner": "ChaseSunstrom",
+        "name": "sampo",
+        "branch": "main",
+        "enabled": true
+    },
+    "aaroncohn/babysitter": {
+        "owner": "aaroncohn",
+        "name": "babysitter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "getpaidskills/skills": {
+        "owner": "getpaidskills",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CadenceUX/cadenceux-fms-security-skill": {
+        "owner": "CadenceUX",
+        "name": "cadenceux-fms-security-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DavidLadislau-dev/sargento-rea": {
+        "owner": "DavidLadislau-dev",
+        "name": "sargento-rea",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "okracomputer/skills": {
+        "owner": "okracomputer",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SnazzyGaz/creative-director": {
+        "owner": "SnazzyGaz",
+        "name": "creative-director",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "arkyu2077/transcreva-mcp": {
+        "owner": "arkyu2077",
+        "name": "transcreva-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

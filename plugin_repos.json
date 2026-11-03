@@ -46604,5 +46604,113 @@
     "repoOwner": "Shalaby-VBS",
     "repoName": "tube-scholar",
     "repoBranch": "main"
+  },
+  "SpeedPainterOrg/explainer-video": {
+    "name": "SpeedPainterOrg/explainer-video",
+    "description": "Codex plugin for turning text, URLs, and documents into narrated hand-drawn explainer videos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SpeedPainterOrg",
+    "repoName": "explainer-video",
+    "repoBranch": "main"
+  },
+  "memtomem/memtomem": {
+    "name": "memtomem/memtomem",
+    "description": "Markdown-first, long-term memory infrastructure for AI agents. Hybrid BM25 + semantic search across markdown/code files via MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "memtomem",
+    "repoName": "memtomem",
+    "repoBranch": "main"
+  },
+  "oLucasAguilar/pii-tokens": {
+    "name": "oLucasAguilar/pii-tokens",
+    "description": "Claude Code plugin: swaps Brazilian personal data (CPF, CNPJ, email, phone) for reversible tokens before Claude reads it",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oLucasAguilar",
+    "repoName": "pii-tokens",
+    "repoBranch": "main"
+  },
+  "painhardcore/pstack": {
+    "name": "painhardcore/pstack",
+    "description": "Portable coding-agent workflows adapted from Cursor\u2019s pstack for Codex, Claude Code, and OpenCode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "painhardcore",
+    "repoName": "pstack",
+    "repoBranch": "master"
+  },
+  "Badhon-00/MDCP": {
+    "name": "Badhon-00/MDCP",
+    "description": "Portable developer skills, Claude Code plugins, MCP workflows, and AI coding-agent tools for Claude, Codex, ChatGPT, Gemini, Cursor, and Windsurf.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Badhon-00",
+    "repoName": "MDCP",
+    "repoBranch": "main"
+  },
+  "andres-fu/dope-tdd": {
+    "name": "andres-fu/dope-tdd",
+    "description": "Keeps Claude Code test-first and proves each test catches its change: refuses edits to untested code, then undoes the change and reruns the test.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andres-fu",
+    "repoName": "dope-tdd",
+    "repoBranch": "main"
+  },
+  "ChaseSunstrom/sampo": {
+    "name": "ChaseSunstrom/sampo",
+    "description": "The Artifact.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ChaseSunstrom",
+    "repoName": "sampo",
+    "repoBranch": "main"
+  },
+  "aaroncohn/babysitter": {
+    "name": "aaroncohn/babysitter",
+    "description": "Opinionated Claude Code skills for OpenSpec inside Conductor: start a batch of parallel explorations, babysit them to production, check workspaces are safe to archive.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aaroncohn",
+    "repoName": "babysitter",
+    "repoBranch": "main"
+  },
+  "getpaidskills/skills": {
+    "name": "getpaidskills/skills",
+    "description": "Free MIT Agent Skills for Claude Code, Codex & Cursor: pre-launch site audit, legal pages, OG share images, AGENTS.md starter.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getpaidskills",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "DavidLadislau-dev/sargento-rea": {
+    "name": "DavidLadislau-dev/sargento-rea",
+    "description": "A chief-of-staff Claude that commands a squad of agents to study and reverse-engineer software, with contributed recipes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DavidLadislau-dev",
+    "repoName": "sargento-rea",
+    "repoBranch": "main"
+  },
+  "okracomputer/skills": {
+    "name": "okracomputer/skills",
+    "description": "Agent skills for OkraPDF \u2014 PDF extraction, document chat, structured data extraction",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "okracomputer",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "arkyu2077/transcreva-mcp": {
+    "name": "arkyu2077/transcreva-mcp",
+    "description": "Portuguese audio & video transcription (transcreva.net): MCP server, CLI & Agent Skill with speaker diarization and TXT/SRT/VTT/DOCX export.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arkyu2077",
+    "repoName": "transcreva-mcp",
+    "repoBranch": "main"
   }
 }
