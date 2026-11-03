@@ -7170,5 +7170,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "JeongJaeSoon/agent-skills": {
+    "owner": "JeongJaeSoon",
+    "name": "agent-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "prograsec/brain-and-hands": {
+    "owner": "prograsec",
+    "name": "brain-and-hands",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "morikaglobal/claude_code_csvqualitychecker_en": {
+    "owner": "morikaglobal",
+    "name": "claude_code_csvqualitychecker_en",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

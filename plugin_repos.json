@@ -46739,5 +46739,95 @@
     "repoOwner": "selan-ai",
     "repoName": "whatishipped",
     "repoBranch": "main"
+  },
+  "likaku/Mck-ppt-design-skill": {
+    "name": "likaku/Mck-ppt-design-skill",
+    "description": "Consulting firm-style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. \u9ea6\u9eb8\u98ce\u683cPPT\u8bbe\u8ba1\u7cfb\u7edf\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "likaku",
+    "repoName": "Mck-ppt-design-skill",
+    "repoBranch": "main"
+  },
+  "vmc-inner-circle/k-style-ui-ux": {
+    "name": "vmc-inner-circle/k-style-ui-ux",
+    "description": "PRD \ud55c \uc7a5\uc73c\ub85c \ud55c\uad6d \uc571 \uc2a4\ud0c0\uc77c \ubaa8\ubc14\uc77c \ud654\uba74 \ucd08\uc548\uc744 15\ubd84 \uc548\ud30e\uc5d0 \ub9cc\ub4dc\ub294 Claude Code\u00b7Codex \ud50c\ub7ec\uadf8\uc778",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vmc-inner-circle",
+    "repoName": "k-style-ui-ux",
+    "repoBranch": "main"
+  },
+  "zutrue/zuverse": {
+    "name": "zutrue/zuverse",
+    "description": "Reverse-engineer any video ad and remake it shot for shot with a new person, voice and brand. Built for Claude Code, runs on Zurelay.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zutrue",
+    "repoName": "zuverse",
+    "repoBranch": "main"
+  },
+  "JeongJaeSoon/agent-skills": {
+    "name": "JeongJaeSoon/agent-skills",
+    "description": "Claude Code plugin: skills, agents and hooks that take work from a ticket to a merged PR, with a human in charge of the decisions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JeongJaeSoon",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "Vumb-VibeCoder/ai-anti-overrefusal-skills": {
+    "name": "Vumb-VibeCoder/ai-anti-overrefusal-skills",
+    "description": "Vumb-VibeCoder/ai-anti-overrefusal-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Vumb-VibeCoder",
+    "repoName": "ai-anti-overrefusal-skills",
+    "repoBranch": "main"
+  },
+  "vvhybe/skills": {
+    "name": "vvhybe/skills",
+    "description": "Agent skills for shipping real work. site-upgrade turns a website into one its owner is proud to show: true claims, a design from the brand's own material, verified in a real browser, shipped as PRs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vvhybe",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "caglarv/claude-project-kit": {
+    "name": "caglarv/claude-project-kit",
+    "description": "now-kit for Claude Code: a project skeleton with NOW.md, standing rules, hooks and a /close-out routine",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "caglarv",
+    "repoName": "claude-project-kit",
+    "repoBranch": "main"
+  },
+  "KhoaaTran/session-band": {
+    "name": "KhoaaTran/session-band",
+    "description": "Claude Code mod: band above the prompt and an activity pane (requests, tool calls, subagents)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KhoaaTran",
+    "repoName": "session-band",
+    "repoBranch": "main"
+  },
+  "kuldeep-jadeja/claude-handoff-plugin": {
+    "name": "kuldeep-jadeja/claude-handoff-plugin",
+    "description": "Claude Code plugin: save a handoff before /clear; the next session loads it automatically.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kuldeep-jadeja",
+    "repoName": "claude-handoff-plugin",
+    "repoBranch": "main"
+  },
+  "prograsec/brain-and-hands": {
+    "name": "prograsec/brain-and-hands",
+    "description": "Claude Code plugin: Opus as the brain, Sonnet and Haiku as the hands. Model-pinned subagents and a delegation skill that cut token cost and context bloat.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "prograsec",
+    "repoName": "brain-and-hands",
+    "repoBranch": "main"
   }
 }

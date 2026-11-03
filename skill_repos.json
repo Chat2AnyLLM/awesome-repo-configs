@@ -54576,5 +54576,119 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "likaku/Mck-ppt-design-skill": {
+        "owner": "likaku",
+        "name": "Mck-ppt-design-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vmc-inner-circle/k-style-ui-ux": {
+        "owner": "vmc-inner-circle",
+        "name": "k-style-ui-ux",
+        "branch": "main",
+        "enabled": true
+    },
+    "ai-freer/fortune-skill": {
+        "owner": "ai-freer",
+        "name": "fortune-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Xiangyu-Ge/sci-writing-geors": {
+        "owner": "Xiangyu-Ge",
+        "name": "sci-writing-geors",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zutrue/zuverse": {
+        "owner": "zutrue",
+        "name": "zuverse",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "kubai087/kubai-icons": {
+        "owner": "kubai087",
+        "name": "kubai-icons",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "GuruDevvv/my-claude-skills": {
+        "owner": "GuruDevvv",
+        "name": "my-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "bitnormie01/build-system": {
+        "owner": "bitnormie01",
+        "name": "build-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "JeongJaeSoon/agent-skills": {
+        "owner": "JeongJaeSoon",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Vumb-VibeCoder/ai-anti-overrefusal-skills": {
+        "owner": "Vumb-VibeCoder",
+        "name": "ai-anti-overrefusal-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vvhybe/skills": {
+        "owner": "vvhybe",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Good-Intention/gongyong-hwpx": {
+        "owner": "Good-Intention",
+        "name": "gongyong-hwpx",
+        "branch": "main",
+        "enabled": true
+    },
+    "caglarv/claude-project-kit": {
+        "owner": "caglarv",
+        "name": "claude-project-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kuldeep-jadeja/claude-handoff-plugin": {
+        "owner": "kuldeep-jadeja",
+        "name": "claude-handoff-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "titouannwtt/claude-tools": {
+        "owner": "titouannwtt",
+        "name": "claude-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "prograsec/brain-and-hands": {
+        "owner": "prograsec",
+        "name": "brain-and-hands",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "morikaglobal/claude_code_csvqualitychecker_en": {
+        "owner": "morikaglobal",
+        "name": "claude_code_csvqualitychecker_en",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
