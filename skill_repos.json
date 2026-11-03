@@ -54690,5 +54690,12 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "azmartone67/dchub-mcp-server": {
+        "owner": "azmartone67",
+        "name": "dchub-mcp-server",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
