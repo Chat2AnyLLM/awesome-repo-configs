@@ -292,5 +292,13 @@
     "enabled": true,
     "serverName": "cloud.dchub/mcp-server",
     "note": "Hosted MCP (streamable HTTP): https://dchub.cloud/mcp, 94 tools. Live data center, power grid, energy and fiber data for data-center site selection, with an as-of timestamp and citation line on answers. Free tier needs no key. MIT. Canonical metadata is in server.json."
+  },
+  "robinfaraj/postel-mcp": {
+    "owner": "robinfaraj",
+    "name": "postel-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "app.postel/postel",
+    "note": "Hosted MCP (streamable HTTP): https://www.postel.app/api/mcp, 17 tools, OAuth 2.1 or API key. Find posts going viral in your niche, write your version in your own voice, and schedule it to X, LinkedIn, Bluesky and Mastodon. Viral post research works without an account. Canonical metadata is in server.json."
   }
 }

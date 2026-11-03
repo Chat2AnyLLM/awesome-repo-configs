@@ -34717,7 +34717,7 @@
   },
   "robinfaraj/postel-mcp": {
     "name": "postel",
-    "description": "Draft, schedule and publish X (Twitter) and LinkedIn posts in your own voice from Claude, Cursor and other MCP clients.",
+    "description": "Find what's going viral in your niche, write your version in your own voice, and schedule it to X, LinkedIn, Bluesky and Mastodon. A remote MCP server plus a writing skill for Claude Code.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "robinfaraj",
