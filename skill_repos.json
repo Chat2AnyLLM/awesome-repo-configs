@@ -54562,5 +54562,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "TestOptim-AI/testoptim-mcp": {
+        "owner": "TestOptim-AI",
+        "name": "testoptim-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

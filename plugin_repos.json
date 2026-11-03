@@ -46721,5 +46721,14 @@
     "repoOwner": "shimo4228",
     "repoName": "harness-stocktake",
     "repoBranch": "main"
+  },
+  "TestOptim-AI/testoptim-mcp": {
+    "name": "testoptim",
+    "description": "Run AI QA tests on your web app from your coding agent, read the bugs they find, and re-test what you changed. Installs the testoptim-qa skill and connects the hosted TestOptim MCP server. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TestOptim-AI",
+    "repoName": "testoptim-mcp",
+    "repoBranch": "main"
   }
 }
