@@ -54704,5 +54704,12 @@
         "branch": "main",
         "skillsPath": "plugins/factlot/skills",
         "enabled": true
+    },
+    "robinfaraj/postel-mcp": {
+        "owner": "robinfaraj",
+        "name": "postel-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
