@@ -54697,5 +54697,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "9mp96ygnbk-alt/factlot": {
+        "owner": "9mp96ygnbk-alt",
+        "name": "factlot",
+        "branch": "main",
+        "skillsPath": "plugins/factlot/skills",
+        "enabled": true
     }
 }
