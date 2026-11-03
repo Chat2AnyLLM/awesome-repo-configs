@@ -54711,5 +54711,133 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ddkbs/sketchy": {
+        "owner": "ddkbs",
+        "name": "sketchy",
+        "branch": "main",
+        "enabled": true
+    },
+    "leodavincs/kalem": {
+        "owner": "leodavincs",
+        "name": "kalem",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Lykhoyda/QaReN": {
+        "owner": "Lykhoyda",
+        "name": "QaReN",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Abhiindigloo/EvalHarness": {
+        "owner": "Abhiindigloo",
+        "name": "EvalHarness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jcombs-pointblue/dirxml-designer-workspace": {
+        "owner": "jcombs-pointblue",
+        "name": "dirxml-designer-workspace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DoctorMozg/claude-pipelines": {
+        "owner": "DoctorMozg",
+        "name": "claude-pipelines",
+        "branch": "master",
+        "enabled": true
+    },
+    "sachingulati/claude-statusline": {
+        "owner": "sachingulati",
+        "name": "claude-statusline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "murathany7/reel-studio": {
+        "owner": "murathany7",
+        "name": "reel-studio",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "sinaida-space/walk-on-a-slide-side": {
+        "owner": "sinaida-space",
+        "name": "walk-on-a-slide-side",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vSkyfall/fresh-clone": {
+        "owner": "vSkyfall",
+        "name": "fresh-clone",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "amirimi/decipher": {
+        "owner": "amirimi",
+        "name": "decipher",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "makigjuro/cloud-app-blueprint": {
+        "owner": "makigjuro",
+        "name": "cloud-app-blueprint",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ablation-Lab/video-review-tool": {
+        "owner": "Ablation-Lab",
+        "name": "video-review-tool",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lodebar2026/BibleSkill": {
+        "owner": "lodebar2026",
+        "name": "BibleSkill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "szilikaroly/claude-skills": {
+        "owner": "szilikaroly",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ccromp/marcora-mcp": {
+        "owner": "ccromp",
+        "name": "marcora-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "AlanBacker/audio-flyover-geolocation": {
+        "owner": "AlanBacker",
+        "name": "audio-flyover-geolocation",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rajbharti06/showrunner-agent-skills": {
+        "owner": "Rajbharti06",
+        "name": "showrunner-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kkfir13/valuedge-stock-research-skill": {
+        "owner": "kkfir13",
+        "name": "valuedge-stock-research-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

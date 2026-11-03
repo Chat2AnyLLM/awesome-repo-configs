@@ -46847,5 +46847,95 @@
     "repoOwner": "9mp96ygnbk-alt",
     "repoName": "factlot",
     "repoBranch": "main"
+  },
+  "Lykhoyda/QaReN": {
+    "name": "Lykhoyda/QaReN",
+    "description": "A QA engineer for your coding agent. It tests each React Native change on a simulator and tells you PASS or FAIL, with video proof.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lykhoyda",
+    "repoName": "QaReN",
+    "repoBranch": "main"
+  },
+  "Abhiindigloo/EvalHarness": {
+    "name": "Abhiindigloo/EvalHarness",
+    "description": "Model Finder: find the cheapest AI model that passes your own tests. MCP server + Agent Skills for model audits, evals, cheapest-first routing and local model sizing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Abhiindigloo",
+    "repoName": "EvalHarness",
+    "repoBranch": "main"
+  },
+  "jcombs-pointblue/dirxml-designer-workspace": {
+    "name": "jcombs-pointblue/dirxml-designer-workspace",
+    "description": "Claude skill for reading NetIQ/OpenText IDM Designer workspaces",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jcombs-pointblue",
+    "repoName": "dirxml-designer-workspace",
+    "repoBranch": "main"
+  },
+  "DoctorMozg/claude-pipelines": {
+    "name": "DoctorMozg/claude-pipelines",
+    "description": "Claude Code pipelines, agents, skills for development",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DoctorMozg",
+    "repoName": "claude-pipelines",
+    "repoBranch": "master"
+  },
+  "sachingulati/claude-statusline": {
+    "name": "sachingulati/claude-statusline",
+    "description": "Claude Code status line showing 5-hour and weekly rate limits for all your Claude accounts at once.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sachingulati",
+    "repoName": "claude-statusline",
+    "repoBranch": "main"
+  },
+  "murathany7/reel-studio": {
+    "name": "murathany7/reel-studio",
+    "description": "Agency-quality marketing reels, ads and posts made by Claude Code. Free and open source, no per-video fees. HTML on one clock \u2192 MP4.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "murathany7",
+    "repoName": "reel-studio",
+    "repoBranch": "main"
+  },
+  "amirimi/decipher": {
+    "name": "amirimi/decipher",
+    "description": "Rewrites agent-written specs, PRs, and reports into plain English, gist first, with one question that checks you still follow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amirimi",
+    "repoName": "decipher",
+    "repoBranch": "main"
+  },
+  "makigjuro/cloud-app-blueprint": {
+    "name": "makigjuro/cloud-app-blueprint",
+    "description": "A reference architecture for cloud web apps, and the Claude Code toolkit that builds and ships it. First blueprint: .NET + React on Azure Container Apps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "makigjuro",
+    "repoName": "cloud-app-blueprint",
+    "repoBranch": "main"
+  },
+  "ccromp/marcora-mcp": {
+    "name": "ccromp/marcora-mcp",
+    "description": "Marcora is the context layer for go-to-market teams: your positioning, brand voice, and product facts in one source of truth that your AI tools read from.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ccromp",
+    "repoName": "marcora-mcp",
+    "repoBranch": "main"
+  },
+  "Rajbharti06/showrunner-agent-skills": {
+    "name": "Rajbharti06/showrunner-agent-skills",
+    "description": "24 Agent Skills that ask what you want to make, for whom and where, then plan, write and check content for YouTube, Instagram, TikTok, LinkedIn and more. Agent Skills format, no dependencies, never posts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rajbharti06",
+    "repoName": "showrunner-agent-skills",
+    "repoBranch": "main"
   }
 }
