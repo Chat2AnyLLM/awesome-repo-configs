@@ -46712,5 +46712,14 @@
     "repoOwner": "arkyu2077",
     "repoName": "transcreva-mcp",
     "repoBranch": "main"
+  },
+  "shimo4228/harness-stocktake": {
+    "name": "harness-stocktake",
+    "description": "Audits your whole Claude Code harness (skills, rules, agents, hooks, CLAUDE.md, ADRs) for stale, contradictory or duplicated content, and changes only what you approve.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "harness-stocktake",
+    "repoBranch": "main"
   }
 }
