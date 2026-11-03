@@ -46838,5 +46838,14 @@
     "repoOwner": "azmartone67",
     "repoName": "dchub-mcp-server",
     "repoBranch": "main"
+  },
+  "9mp96ygnbk-alt/factlot": {
+    "name": "factlot",
+    "description": "FactLot: commercial real estate skills (loan sizing, lease economics, CAM, ASC 842, returns, hotel metrics, Texas protest deadline) that call audited calculators through the free hosted FactLot MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "9mp96ygnbk-alt",
+    "repoName": "factlot",
+    "repoBranch": "main"
   }
 }
