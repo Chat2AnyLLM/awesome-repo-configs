@@ -284,5 +284,13 @@
     "enabled": true,
     "serverName": "com.getyoutubetranscript/youtube-transcript-and-youtube-search",
     "note": "Hosted MCP (streamable HTTP): https://getyoutubetranscript.com/api/mcp. Needs an OAuth sign-in or an API key. YouTube transcripts with timestamps, caption languages, YouTube and in-channel search, channel and playlist video lists. MIT. Canonical metadata is in server.json."
+  },
+  "azmartone67/dchub-mcp-server": {
+    "owner": "azmartone67",
+    "name": "dchub-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "cloud.dchub/mcp-server",
+    "note": "Hosted MCP (streamable HTTP): https://dchub.cloud/mcp, 94 tools. Live data center, power grid, energy and fiber data for data-center site selection, with an as-of timestamp and citation line on answers. Free tier needs no key. MIT. Canonical metadata is in server.json."
   }
 }

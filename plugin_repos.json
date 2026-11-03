@@ -46829,5 +46829,14 @@
     "repoOwner": "prograsec",
     "repoName": "brain-and-hands",
     "repoBranch": "main"
+  },
+  "azmartone67/dchub-mcp-server": {
+    "name": "dchub",
+    "description": "DC Hub: live, cited data center, power grid, energy and fiber data for site selection, as a Claude Code plugin (remote MCP server plus workflow skills for site screens, time-to-power memos and market comparisons).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "azmartone67",
+    "repoName": "dchub-mcp-server",
+    "repoBranch": "main"
   }
 }
