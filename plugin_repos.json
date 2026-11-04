@@ -47045,5 +47045,113 @@
     "repoOwner": "blauersamtt",
     "repoName": "feedback-desk",
     "repoBranch": "main"
+  },
+  "mochistudio-vn/kitviet": {
+    "name": "mochistudio-vn/kitviet",
+    "description": "\ud83c\uddfb\ud83c\uddf3 Kit Vi\u1ec7t \u2013 B\u1ed9 AI Agent ti\u1ebfng Vi\u1ec7t cho 20 ngh\u1ec1: k\u1ebf to\u00e1n, nh\u00e2n s\u1ef1, x\u00e2y d\u1ef1ng, y t\u1ebf, ph\u00e1p l\u00fd... 340+ skill & 130+ tr\u1ee3 l\u00fd ch\u1ea1y tr\u00ean Claude Desktop, Claude Code v\u00e0 ChatGPT Codex. Xu\u1ea5t Word/Excel/PDF/PowerPoint \u0111\u00fang th\u1ec3 t...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mochistudio-vn",
+    "repoName": "kitviet",
+    "repoBranch": "main"
+  },
+  "finolabs/finolabs-vibecode": {
+    "name": "finolabs/finolabs-vibecode",
+    "description": "One engineering practice for AI coding agents: routing, delegation, review gates and verification for Claude Code, Codex and Antigravity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "finolabs",
+    "repoName": "finolabs-vibecode",
+    "repoBranch": "main"
+  },
+  "kheif/quiver": {
+    "name": "kheif/quiver",
+    "description": "Skill manager for AI coding assistants: one library of agent skills, served over MCP to Claude Code, Codex, Cursor and others, in layers, with always-on skills in every session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kheif",
+    "repoName": "quiver",
+    "repoBranch": "main"
+  },
+  "fainir/frugal": {
+    "name": "fainir/frugal",
+    "description": "Your agent never pays full price by accident. A skill + tiny hook for Claude Code, Codex, Cursor and co.: before anything is bought, subscribed to or upgraded, it finds free tiers, programs, verified promo codes and c...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fainir",
+    "repoName": "frugal",
+    "repoBranch": "main"
+  },
+  "trickstack/agent-review-inbox": {
+    "name": "trickstack/agent-review-inbox",
+    "description": "Teaches your AI coding sessions to record clips of what they built and post them, with questions, to one page on your machine. You answer OK, Redo or pick an option, and the session acts on it. A live board shows what...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trickstack",
+    "repoName": "agent-review-inbox",
+    "repoBranch": "main"
+  },
+  "weoifgiljb/lesson-plan-design": {
+    "name": "weoifgiljb/lesson-plan-design",
+    "description": "Agent plugin that drafts Chinese vocational-school lesson plans from one prompt: three-dimensional objectives, eight-step classroom flow, rule validation, adversarial pedagogical review, DOCX export. \u4e2d\u6587\u6559\u6848\u751f\u6210 \u00b7 \u5907\u8bfe \u00b7 \u6559\u5b66\u8bbe...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "weoifgiljb",
+    "repoName": "lesson-plan-design",
+    "repoBranch": "main"
+  },
+  "dacrypt/xiao": {
+    "name": "dacrypt/xiao",
+    "description": "Control a Xiaomi Robot Vacuum X20+ via the xiao CLI. Agent-ready: AGENTS.md, llms.txt, SKILL.md, --json output, canonical exit codes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dacrypt",
+    "repoName": "xiao",
+    "repoBranch": "main"
+  },
+  "nordic-financial-news/nfn-plugin": {
+    "name": "nordic-financial-news/nfn-plugin",
+    "description": "Plugin to connect Claude Code to the Nordic Financial News MCP server over OAuth.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nordic-financial-news",
+    "repoName": "nfn-plugin",
+    "repoBranch": "main"
+  },
+  "Gihonix/production-ready-skill": {
+    "name": "Gihonix/production-ready-skill",
+    "description": "Go live with confidence: Claude Code skills that scan your AI-built app, find gaps with proof, review business logic, price from competitor data, give a computed Ready/Almost/Not-yet verdict, fix safely, and plan laun...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Gihonix",
+    "repoName": "production-ready-skill",
+    "repoBranch": "main"
+  },
+  "octooking-byte/claude-usage-clock": {
+    "name": "octooking-byte/claude-usage-clock",
+    "description": "A desktop mechanical clock for Claude Code: 5-hour limit, weekly limit and conversation size at a glance. Windows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "octooking-byte",
+    "repoName": "claude-usage-clock",
+    "repoBranch": "main"
+  },
+  "aberoham/agy-cc": {
+    "name": "aberoham/agy-cc",
+    "description": "Claude Code plugin that hands review, planning and rescue work to Google's Antigravity CLI (agy) as isolated background jobs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aberoham",
+    "repoName": "agy-cc",
+    "repoBranch": "main"
+  },
+  "tundra-east/tundra": {
+    "name": "tundra-east/tundra",
+    "description": "Claude Code plugin marketplace: an issue-to-PR pipeline, adversarial plan and code review, test authoring with independent verification, and everyday developer tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tundra-east",
+    "repoName": "tundra",
+    "repoBranch": "main"
   }
 }

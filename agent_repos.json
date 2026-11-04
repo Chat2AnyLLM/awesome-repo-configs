@@ -7205,5 +7205,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "finolabs/finolabs-vibecode": {
+    "owner": "finolabs",
+    "name": "finolabs-vibecode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

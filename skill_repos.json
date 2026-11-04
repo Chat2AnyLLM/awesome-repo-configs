@@ -54954,5 +54954,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Fractera/web4-node-starter-kit": {
+        "owner": "Fractera",
+        "name": "web4-node-starter-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "bloom-directory/bloom": {
+        "owner": "bloom-directory",
+        "name": "bloom",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mochistudio-vn/kitviet": {
+        "owner": "mochistudio-vn",
+        "name": "kitviet",
+        "branch": "main",
+        "enabled": true
+    },
+    "havascxistanbul/ste-prompt-fixer": {
+        "owner": "havascxistanbul",
+        "name": "ste-prompt-fixer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "finolabs/finolabs-vibecode": {
+        "owner": "finolabs",
+        "name": "finolabs-vibecode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kheif/quiver": {
+        "owner": "kheif",
+        "name": "quiver",
+        "branch": "main",
+        "enabled": true
+    },
+    "wuciyouci/interior-design-skill": {
+        "owner": "wuciyouci",
+        "name": "interior-design-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bolvein-firex/scraping-skills": {
+        "owner": "bolvein-firex",
+        "name": "scraping-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fainir/frugal": {
+        "owner": "fainir",
+        "name": "frugal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "trickstack/agent-review-inbox": {
+        "owner": "trickstack",
+        "name": "agent-review-inbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "weoifgiljb/lesson-plan-design": {
+        "owner": "weoifgiljb",
+        "name": "lesson-plan-design",
+        "branch": "main",
+        "enabled": true
+    },
+    "dacrypt/xiao": {
+        "owner": "dacrypt",
+        "name": "xiao",
+        "branch": "main",
+        "enabled": true
+    },
+    "nordic-financial-news/nfn-plugin": {
+        "owner": "nordic-financial-news",
+        "name": "nfn-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Gihonix/production-ready-skill": {
+        "owner": "Gihonix",
+        "name": "production-ready-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "octooking-byte/claude-usage-clock": {
+        "owner": "octooking-byte",
+        "name": "claude-usage-clock",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aberoham/agy-cc": {
+        "owner": "aberoham",
+        "name": "agy-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "tundra-east/tundra": {
+        "owner": "tundra-east",
+        "name": "tundra",
+        "branch": "main",
+        "enabled": true
     }
 }
