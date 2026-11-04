@@ -55074,5 +55074,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "anombyte93/prd-taskmaster": {
+        "owner": "anombyte93",
+        "name": "prd-taskmaster",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beyondtahir/beyondseo": {
+        "owner": "beyondtahir",
+        "name": "beyondseo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kulykivska/claude-plugins": {
+        "owner": "kulykivska",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "david-d2c2/motion-promo-reels": {
+        "owner": "david-d2c2",
+        "name": "motion-promo-reels",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ryanduguid/australian-accounting-skills": {
+        "owner": "ryanduguid",
+        "name": "australian-accounting-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "arriba-tools/speedy-gonzales": {
+        "owner": "arriba-tools",
+        "name": "speedy-gonzales",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "findot-ai/career-ai-skills": {
+        "owner": "findot-ai",
+        "name": "career-ai-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "royber34/life_os": {
+        "owner": "royber34",
+        "name": "life_os",
+        "branch": "main",
+        "enabled": true
+    },
+    "fuck-algorithm/leetcode-skills": {
+        "owner": "fuck-algorithm",
+        "name": "leetcode-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "globalanomalyindex/metadump": {
+        "owner": "globalanomalyindex",
+        "name": "metadump",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "machineroom-dev/animated-diagram": {
+        "owner": "machineroom-dev",
+        "name": "animated-diagram",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FabianCornejo/econometric-skills": {
+        "owner": "FabianCornejo",
+        "name": "econometric-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "xavier-thomas/diagram-lint": {
+        "owner": "xavier-thomas",
+        "name": "diagram-lint",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "killerwolf/skills": {
+        "owner": "killerwolf",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ruslantrachuk/dark-factory": {
+        "owner": "ruslantrachuk",
+        "name": "dark-factory",
+        "branch": "main",
+        "enabled": true
+    },
+    "Khaymah/sabry-claude-kit": {
+        "owner": "Khaymah",
+        "name": "sabry-claude-kit",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -47153,5 +47153,113 @@
     "repoOwner": "tundra-east",
     "repoName": "tundra",
     "repoBranch": "main"
+  },
+  "anombyte93/prd-taskmaster": {
+    "name": "anombyte93/prd-taskmaster",
+    "description": "Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task graph, evidence-gated execution.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anombyte93",
+    "repoName": "prd-taskmaster",
+    "repoBranch": "main"
+  },
+  "kulykivska/claude-plugins": {
+    "name": "kulykivska/claude-plugins",
+    "description": "Nineteen Claude Code plugins I run every day across a Python backend, a React web app, a SwiftUI client and an ML pipeline: SDLC and ML skills, per-stack reviewer subagents, blocking safety hooks, content and SEO agen...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kulykivska",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "ryanduguid/australian-accounting-skills": {
+    "name": "ryanduguid/australian-accounting-skills",
+    "description": "Australian tax and accounting agent skills for Claude Code and Codex: BAS, FBT, Division 7A, trusts, payroll and practice compliance, with primary sources and human review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ryanduguid",
+    "repoName": "australian-accounting-skills",
+    "repoBranch": "main"
+  },
+  "arriba-tools/speedy-gonzales": {
+    "name": "arriba-tools/speedy-gonzales",
+    "description": "Claude commands that speed up everyday dev workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arriba-tools",
+    "repoName": "speedy-gonzales",
+    "repoBranch": "main"
+  },
+  "fuck-algorithm/leetcode-skills": {
+    "name": "fuck-algorithm/leetcode-skills",
+    "description": "Claude Code plugin that turns LeetCode problems into interactive, animated algorithm visualization websites.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fuck-algorithm",
+    "repoName": "leetcode-skills",
+    "repoBranch": "main"
+  },
+  "majidkabir/pii-mask": {
+    "name": "majidkabir/pii-mask",
+    "description": "Claude Code plugin that keeps personal data on your machine. A local AI model swaps names, emails, phone numbers, IBANs and ID numbers for placeholders before anything reaches Claude, and puts the real values back in...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "majidkabir",
+    "repoName": "pii-mask",
+    "repoBranch": "main"
+  },
+  "globalanomalyindex/metadump": {
+    "name": "globalanomalyindex/metadump",
+    "description": "treat AI like a search engine: a claude code plugin that turns a prompt into a meta dump, one big self-indexing JSON chest of keywords, anti-keywords, descriptions and sources any skill can search",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "globalanomalyindex",
+    "repoName": "metadump",
+    "repoBranch": "main"
+  },
+  "FabianCornejo/econometric-skills": {
+    "name": "FabianCornejo/econometric-skills",
+    "description": "Econometric agent skill for Claude (consultant, teacher, reviewer): regression diagnostics, causal inference (DAGs, DiD with covariates, Goodman-Bacon, RD, synthetic control, double ML), CATE, power, MLE, wild bootstr...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FabianCornejo",
+    "repoName": "econometric-skills",
+    "repoBranch": "main"
+  },
+  "killerwolf/skills": {
+    "name": "killerwolf/skills",
+    "description": "Claude Code skills, installable one at a time from a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "killerwolf",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "ruslantrachuk/dark-factory": {
+    "name": "ruslantrachuk/dark-factory",
+    "description": "Dark factory harness for Claude Code: scaffolds the full SDLC \u2014 requirements, build, review, accepted-only releases, prod monitor, on-call \u2014 held to the rules by hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ruslantrachuk",
+    "repoName": "dark-factory",
+    "repoBranch": "main"
+  },
+  "RenshuTanz/compute-screener": {
+    "name": "RenshuTanz/compute-screener",
+    "description": "Free daily GPU rental price index (H100, H200, A100, B200, B300, RTX PRO 6000) and AI token price index. Website, MCP connector for Claude and ChatGPT, CC BY 4.0 data.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RenshuTanz",
+    "repoName": "compute-screener",
+    "repoBranch": "main"
+  },
+  "Khaymah/sabry-claude-kit": {
+    "name": "Khaymah/sabry-claude-kit",
+    "description": "Khaymah/sabry-claude-kit \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Khaymah",
+    "repoName": "sabry-claude-kit",
+    "repoBranch": "main"
   }
 }

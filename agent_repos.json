@@ -7212,5 +7212,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "anombyte93/prd-taskmaster": {
+    "owner": "anombyte93",
+    "name": "prd-taskmaster",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Khaymah/sabry-claude-kit": {
+    "owner": "Khaymah",
+    "name": "sabry-claude-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
