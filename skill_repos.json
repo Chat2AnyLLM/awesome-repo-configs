@@ -55067,5 +55067,12 @@
         "name": "tundra",
         "branch": "main",
         "enabled": true
+    },
+    "InkRoom-AI/inkroom-prompts": {
+        "owner": "InkRoom-AI",
+        "name": "inkroom-prompts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
