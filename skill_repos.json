@@ -54839,5 +54839,120 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "yanstd888/humanizer-lint": {
+        "owner": "yanstd888",
+        "name": "humanizer-lint",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AbdullaAlzarooni/ultimate-real-estate-calculator": {
+        "owner": "AbdullaAlzarooni",
+        "name": "ultimate-real-estate-calculator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "posteyai/skills": {
+        "owner": "posteyai",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SionVerhoef/twincat-st": {
+        "owner": "SionVerhoef",
+        "name": "twincat-st",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Apa73ch/claude-code-alarm": {
+        "owner": "Apa73ch",
+        "name": "claude-code-alarm",
+        "branch": "main",
+        "enabled": true
+    },
+    "SummerPain/pick-pages": {
+        "owner": "SummerPain",
+        "name": "pick-pages",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "heardlabs/claude-code-tts": {
+        "owner": "heardlabs",
+        "name": "claude-code-tts",
+        "branch": "main",
+        "enabled": true
+    },
+    "maumoya/adhd-status": {
+        "owner": "maumoya",
+        "name": "adhd-status",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nohseongmin/claude-skill-finder": {
+        "owner": "nohseongmin",
+        "name": "claude-skill-finder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "visotalk/visotalk": {
+        "owner": "visotalk",
+        "name": "visotalk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IMYin/chinese-human-voice": {
+        "owner": "IMYin",
+        "name": "chinese-human-voice",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "swimakaswim/claude-kit": {
+        "owner": "swimakaswim",
+        "name": "claude-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShiJianXi/molt": {
+        "owner": "ShiJianXi",
+        "name": "molt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GastonGelhorn/jevmate": {
+        "owner": "GastonGelhorn",
+        "name": "jevmate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "namiq-ai/lattice-scan": {
+        "owner": "namiq-ai",
+        "name": "lattice-scan",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vegardjorg/ravenseat": {
+        "owner": "vegardjorg",
+        "name": "ravenseat",
+        "branch": "main",
+        "enabled": true
+    },
+    "blauersamtt/feedback-desk": {
+        "owner": "blauersamtt",
+        "name": "feedback-desk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -46937,5 +46937,113 @@
     "repoOwner": "Rajbharti06",
     "repoName": "showrunner-agent-skills",
     "repoBranch": "main"
+  },
+  "posteyai/skills": {
+    "name": "posteyai/skills",
+    "description": "Postey MCP server and agent skills. Draft, schedule and publish social posts to nine platforms from any AI agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "posteyai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Apa73ch/claude-code-alarm": {
+    "name": "Apa73ch/claude-code-alarm",
+    "description": "A loud, full-screen alarm for Claude Code on Windows: know the moment a task finishes or needs your permission.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Apa73ch",
+    "repoName": "claude-code-alarm",
+    "repoBranch": "main"
+  },
+  "SummerPain/pick-pages": {
+    "name": "SummerPain/pick-pages",
+    "description": "Claude Code skills for pick pages: browse numbered takes as a tree, mark them, send back a pick line. /pick-page, /pick-enhance, /pick-expand.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SummerPain",
+    "repoName": "pick-pages",
+    "repoBranch": "main"
+  },
+  "heardlabs/claude-code-tts": {
+    "name": "heardlabs/claude-code-tts",
+    "description": "Text-to-speech for Claude Code and Codex, by Heard (heard.dev): a free, open-source (MIT) /say skill that reads a short summary aloud. Built-in voice, no API key, no account.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heardlabs",
+    "repoName": "claude-code-tts",
+    "repoBranch": "main"
+  },
+  "maumoya/adhd-status": {
+    "name": "maumoya/adhd-status",
+    "description": "ADHD-friendly status board skill for Claude Code and AI agents. Say STATUS, get one tiny table and one clickable next step. Measured: eval score 0.96 vs 0.50 without the skill, 35% less spend per STATUS. Free, open so...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maumoya",
+    "repoName": "adhd-status",
+    "repoBranch": "main"
+  },
+  "nohseongmin/claude-skill-finder": {
+    "name": "nohseongmin/claude-skill-finder",
+    "description": "Look before you build. A Claude Code skill that finds the skill or repo that already exists - installed skills, a verified vendor catalog, community indexes, then live GitHub - on a three-search budget.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nohseongmin",
+    "repoName": "claude-skill-finder",
+    "repoBranch": "main"
+  },
+  "swimakaswim/claude-kit": {
+    "name": "swimakaswim/claude-kit",
+    "description": "Ali's Claude Code building setup in one install: a routing playbook plus every plugin it routes to.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "swimakaswim",
+    "repoName": "claude-kit",
+    "repoBranch": "main"
+  },
+  "ShiJianXi/molt": {
+    "name": "ShiJianXi/molt",
+    "description": "Claude Code plugin: hand work from a cloud session (Claude Code on the web, claude.ai/code) to a local Claude Desktop or Remote Control session and get the result back",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShiJianXi",
+    "repoName": "molt",
+    "repoBranch": "main"
+  },
+  "GastonGelhorn/jevmate": {
+    "name": "GastonGelhorn/jevmate",
+    "description": "A fast decision layer for coding agents: Jev ranks files, picks tests, sorts failures and reviews diffs, so the expensive model reads only what matters. CLI, MCP server and Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GastonGelhorn",
+    "repoName": "jevmate",
+    "repoBranch": "main"
+  },
+  "namiq-ai/lattice-scan": {
+    "name": "namiq-ai/lattice-scan",
+    "description": "Match CISA-exploited CVEs, via Lattice, against what is installed on this host. Prints evidence for a person to read.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "namiq-ai",
+    "repoName": "lattice-scan",
+    "repoBranch": "main"
+  },
+  "vegardjorg/ravenseat": {
+    "name": "vegardjorg/ravenseat",
+    "description": "Your Claude Code agents keep building. You make the decisions. A local-first work queue that runs parallel agents in isolated worktrees, checks their work with your own gates, and keeps the project moving across sessi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vegardjorg",
+    "repoName": "ravenseat",
+    "repoBranch": "main"
+  },
+  "blauersamtt/feedback-desk": {
+    "name": "blauersamtt/feedback-desk",
+    "description": "Claude Code skill: a private feedback board on claude.ai that Claude works through. Reports with screenshots and PDFs, status, one chat thread per report.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blauersamtt",
+    "repoName": "feedback-desk",
+    "repoBranch": "main"
   }
 }

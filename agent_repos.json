@@ -7198,5 +7198,12 @@
     "branch": "master",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "GastonGelhorn/jevmate": {
+    "owner": "GastonGelhorn",
+    "name": "jevmate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
