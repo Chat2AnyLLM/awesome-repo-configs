@@ -7226,5 +7226,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "100FOUNTS/job-harness": {
+    "owner": "100FOUNTS",
+    "name": "job-harness",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

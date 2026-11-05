@@ -47261,5 +47261,131 @@
     "repoOwner": "Khaymah",
     "repoName": "sabry-claude-kit",
     "repoBranch": "main"
+  },
+  "JoahanMorales/upiixia-agentic-kit": {
+    "name": "JoahanMorales/upiixia-agentic-kit",
+    "description": "Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JoahanMorales",
+    "repoName": "upiixia-agentic-kit",
+    "repoBranch": "main"
+  },
+  "bislink360/semantic-markdown": {
+    "name": "bislink360/semantic-markdown",
+    "description": "Semantic Markdown (.smd): Markdown for developers, PMs and AI agents \u2014 callouts, colors, diagrams, decisions, risks, APIs, KPIs. VS Code extension, CLI and agent skills with token-efficient agent views.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bislink360",
+    "repoName": "semantic-markdown",
+    "repoBranch": "main"
+  },
+  "himoose/aeo-skills": {
+    "name": "himoose/aeo-skills",
+    "description": "AEO skills for Claude and ChatGPT by Hi, Moose. Answer engine optimization (AEO), also called generative engine optimization      (GEO) or AI SEO: AI search visibility dashboards, reports and to-do lists from your Hi,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "himoose",
+    "repoName": "aeo-skills",
+    "repoBranch": "main"
+  },
+  "oumi-ai/weights-lab": {
+    "name": "oumi-ai/weights-lab",
+    "description": "Agent skill for weight-space programming: edit LLM weights",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oumi-ai",
+    "repoName": "weights-lab",
+    "repoBranch": "main"
+  },
+  "veragao0101-cmd/butler-skill": {
+    "name": "veragao0101-cmd/butler-skill",
+    "description": "\u7ed9\u4e2a\u4eba\u5de5\u4f5c\u8005\u7684 Super-agent\uff1a\u501f\u9274 DeepSeek Router\u2013Worker \u67b6\u6784\u7684 Claude Code \u7ba1\u5bb6 skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "veragao0101-cmd",
+    "repoName": "butler-skill",
+    "repoBranch": "main"
+  },
+  "fn2ai/fn2-skill": {
+    "name": "fn2ai/fn2-skill",
+    "description": "Ask FN2 AI anything about public markets from Claude Code, Codex, or Pi, then put the good questions on a schedule. Dependency-free Python skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fn2ai",
+    "repoName": "fn2-skill",
+    "repoBranch": "main"
+  },
+  "100FOUNTS/job-harness": {
+    "name": "100FOUNTS/job-harness",
+    "description": "Claude Code plugin for job seekers in Australia: finds jobs, ranks them, prepares honest CVs and letters.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "100FOUNTS",
+    "repoName": "job-harness",
+    "repoBranch": "main"
+  },
+  "u6vu06Ou/parallel-guard": {
+    "name": "u6vu06Ou/parallel-guard",
+    "description": "A Claude Code plugin that blocks new subagent spawns when too many are already running or the machine is low on free memory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "u6vu06Ou",
+    "repoName": "parallel-guard",
+    "repoBranch": "main"
+  },
+  "u6vu06Ou/learned-rules": {
+    "name": "u6vu06Ou/learned-rules",
+    "description": "A Claude Code plugin that journals real tool failures and starts every new conversation with a curated, budgeted rules index.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "u6vu06Ou",
+    "repoName": "learned-rules",
+    "repoBranch": "main"
+  },
+  "u6vu06Ou/auto-compact": {
+    "name": "u6vu06Ou/auto-compact",
+    "description": "Claude Code mod: compact idle conversations before the prompt cache expires; status line shows when it last compacted",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "u6vu06Ou",
+    "repoName": "auto-compact",
+    "repoBranch": "main"
+  },
+  "lz-freedom/cc-hud-lite": {
+    "name": "lz-freedom/cc-hud-lite",
+    "description": "A light HUD for the Claude Code terminal: status line, task list, next-step card, context details and image previews",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lz-freedom",
+    "repoName": "cc-hud-lite",
+    "repoBranch": "main"
+  },
+  "iamalisson/jit-speckit": {
+    "name": "iamalisson/jit-speckit",
+    "description": "\u26a1 Spec Kit without the workflow friction. Streamlines tasks, branches, PRs, and security checks right from your prompt. A Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iamalisson",
+    "repoName": "jit-speckit",
+    "repoBranch": "main"
+  },
+  "mertdurukan/agenchestra": {
+    "name": "mertdurukan/agenchestra",
+    "description": "Cost-ladder multi-agent orchestration for Claude Code: cheapest-tier workers, an independent reviewer, parallel waves and a live panel.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mertdurukan",
+    "repoName": "agenchestra",
+    "repoBranch": "main"
+  },
+  "twikey/twikey-aiskills-paymentprocessanalysis": {
+    "name": "twikey/twikey-aiskills-paymentprocessanalysis",
+    "description": "Payment Hours by Twikey: free AI skills that show how many hours a month your company spends on getting paid, step by step. Claude Code and claude.ai.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "twikey",
+    "repoName": "twikey-aiskills-paymentprocessanalysis",
+    "repoBranch": "main"
   }
 }

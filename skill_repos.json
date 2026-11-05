@@ -55180,5 +55180,111 @@
         "name": "sabry-claude-kit",
         "branch": "main",
         "enabled": true
+    },
+    "JoahanMorales/upiixia-agentic-kit": {
+        "owner": "JoahanMorales",
+        "name": "upiixia-agentic-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "AdilShamim8/ARES": {
+        "owner": "AdilShamim8",
+        "name": "ARES",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bislink360/semantic-markdown": {
+        "owner": "bislink360",
+        "name": "semantic-markdown",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "SIRIUSONE-TECH/skills": {
+        "owner": "SIRIUSONE-TECH",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "himoose/aeo-skills": {
+        "owner": "himoose",
+        "name": "aeo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oumi-ai/weights-lab": {
+        "owner": "oumi-ai",
+        "name": "weights-lab",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bjschnell/Valkyrie": {
+        "owner": "bjschnell",
+        "name": "Valkyrie",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "veragao0101-cmd/butler-skill": {
+        "owner": "veragao0101-cmd",
+        "name": "butler-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "fn2ai/fn2-skill": {
+        "owner": "fn2ai",
+        "name": "fn2-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cuixianfeng/cxf-skill": {
+        "owner": "cuixianfeng",
+        "name": "cxf-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "100FOUNTS/job-harness": {
+        "owner": "100FOUNTS",
+        "name": "job-harness",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "hieuday88/claude-image": {
+        "owner": "hieuday88",
+        "name": "claude-image",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kaitondt/ai-pack": {
+        "owner": "kaitondt",
+        "name": "ai-pack",
+        "branch": "main",
+        "enabled": true
+    },
+    "iamalisson/jit-speckit": {
+        "owner": "iamalisson",
+        "name": "jit-speckit",
+        "branch": "main",
+        "enabled": true
+    },
+    "mertdurukan/agenchestra": {
+        "owner": "mertdurukan",
+        "name": "agenchestra",
+        "branch": "main",
+        "enabled": true
+    },
+    "twikey/twikey-aiskills-paymentprocessanalysis": {
+        "owner": "twikey",
+        "name": "twikey-aiskills-paymentprocessanalysis",
+        "branch": "main",
+        "enabled": true
     }
 }
