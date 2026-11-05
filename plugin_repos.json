@@ -47387,5 +47387,14 @@
     "repoOwner": "twikey",
     "repoName": "twikey-aiskills-paymentprocessanalysis",
     "repoBranch": "main"
+  },
+  "mesmerlord/lurkapi-claude-plugin": {
+    "name": "lurkapi-claude-plugin",
+    "description": "LurkAPI: social media research skills (brand lurks, ad library teardowns across Meta, Google, LinkedIn and TikTok, Reddit research, creator vetting, video transcripts, demand research) and LurkAPI's hosted MCP server for public posts, profiles, comments, transcripts and ads from 16 platforms. Paid per call, with 100 free credits at signup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mesmerlord",
+    "repoName": "lurkapi-claude-plugin",
+    "repoBranch": "main"
   }
 }

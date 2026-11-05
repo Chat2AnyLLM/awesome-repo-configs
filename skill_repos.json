@@ -55286,5 +55286,12 @@
         "name": "twikey-aiskills-paymentprocessanalysis",
         "branch": "main",
         "enabled": true
+    },
+    "mesmerlord/lurkapi-claude-plugin": {
+        "owner": "mesmerlord",
+        "name": "lurkapi-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
