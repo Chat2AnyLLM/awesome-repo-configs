@@ -47396,5 +47396,113 @@
     "repoOwner": "mesmerlord",
     "repoName": "lurkapi-claude-plugin",
     "repoBranch": "main"
+  },
+  "wesammustafa/Claude-Code-Quest": {
+    "name": "wesammustafa/Claude-Code-Quest",
+    "description": "Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wesammustafa",
+    "repoName": "Claude-Code-Quest",
+    "repoBranch": "main"
+  },
+  "whobot-ai/skills": {
+    "name": "whobot-ai/skills",
+    "description": "WhoBot \u547c\u6ce2\u7279\u5b98\u65b9 Agent Skills\uff1aAI \u7535\u8bdd\u6570\u5b57\u5458\u5de5\uff08whobot-phonecall-skill\uff09\u7b49\uff0c\u9002\u914d Claude Code\u3001Codex\u3001OpenClaw\u3001WorkBuddy\u3001Cursor | Official agent skills by WhoBot",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "whobot-ai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "vadympetryshyn/effort-pilot": {
+    "name": "vadympetryshyn/effort-pilot",
+    "description": "Spend 20\u201350% fewer tokens and get responses ~1.5\u00d7 faster in Claude Code: automatic reasoning effort for every turn \u2014 xhigh for plans, medium for building, low for questions and trivial tasks like git commits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vadympetryshyn",
+    "repoName": "effort-pilot",
+    "repoBranch": "main"
+  },
+  "PodcastAPI/skills": {
+    "name": "PodcastAPI/skills",
+    "description": "Skills for teaching agents how to build with the Podcast API",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PodcastAPI",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "anormlylee/claude-orchestrator-brain": {
+    "name": "anormlylee/claude-orchestrator-brain",
+    "description": "\u8ba9\u4e00\u4e2a Claude Code \u4f1a\u8bdd\u5f53\u4e3b\u8111\uff1a\u6d3e\u6d3b\u3001\u72ec\u7acb\u9a8c\u6536\u3001\u5408\u5165\u3001\u8bb0\u8d26\uff0c\u8c03\u5ea6\u591a\u4e2a\u5e76\u884c\u5f00\u53d1\u4f1a\u8bdd\uff08\u975e\u5b98\u65b9\uff09",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anormlylee",
+    "repoName": "claude-orchestrator-brain",
+    "repoBranch": "main"
+  },
+  "DepressionCenter/agentprise": {
+    "name": "DepressionCenter/agentprise",
+    "description": "Make AI agents portable across Copilot, Gemini, Claude, and ChatGPT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DepressionCenter",
+    "repoName": "agentprise",
+    "repoBranch": "main"
+  },
+  "PolaronQuasi/codex-subagents-for-claude-code": {
+    "name": "PolaronQuasi/codex-subagents-for-claude-code",
+    "description": "Run OpenAI Codex as Claude Code subagents: parallel GPT tasks, persistent conversations, isolated Git worktrees, live steering, and durable results.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PolaronQuasi",
+    "repoName": "codex-subagents-for-claude-code",
+    "repoBranch": "main"
+  },
+  "amanpal3/Dr-SKILLs": {
+    "name": "amanpal3/Dr-SKILLs",
+    "description": "Reusable Al developer skills, plugins, MCP tools, and rules for Google Antigravity, Claude Code, Cursor, and Codex CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amanpal3",
+    "repoName": "Dr-SKILLs",
+    "repoBranch": "main"
+  },
+  "VajraSarpa/rupa": {
+    "name": "VajraSarpa/rupa",
+    "description": "Renderer layer for Claude Code: Markdown in, themed HTML/PDF/DOCX out, with verification",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VajraSarpa",
+    "repoName": "rupa",
+    "repoBranch": "main"
+  },
+  "bikemeardsley/thicken": {
+    "name": "bikemeardsley/thicken",
+    "description": "Turn photos of a real object into a 3D model (GLB) at its real size and its metadata as JSON. What it knows about each kind of object lives in a profile (contribute more!). Library, CLI, and MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bikemeardsley",
+    "repoName": "thicken",
+    "repoBranch": "main"
+  },
+  "sawbuck-ai/reins": {
+    "name": "sawbuck-ai/reins",
+    "description": "Sawbuck for Claude Code, with Codex support in beta: a deterministic, zero-LLM check re-proves each win from the agent's source edits alone, so a test that went green by editing the test, grader, or config is sent back.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sawbuck-ai",
+    "repoName": "reins",
+    "repoBranch": "master"
+  },
+  "guy34/feature-mixer-skill": {
+    "name": "guy34/feature-mixer-skill",
+    "description": "A Claude skill that reverse-engineers several apps, lets you pick the features you want, and builds one tested app from them. It checks compatibility, scans sources for security risks, and verifies test results agains...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guy34",
+    "repoName": "feature-mixer-skill",
+    "repoBranch": "main"
   }
 }

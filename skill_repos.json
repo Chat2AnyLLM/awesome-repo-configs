@@ -55293,5 +55293,123 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "wesammustafa/Claude-Code-Quest": {
+        "owner": "wesammustafa",
+        "name": "Claude-Code-Quest",
+        "branch": "main",
+        "enabled": true
+    },
+    "voidmobcom/voidmob-mcp": {
+        "owner": "voidmobcom",
+        "name": "voidmob-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HeiGeAi/HeiGe-PPT": {
+        "owner": "HeiGeAi",
+        "name": "HeiGe-PPT",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "whobot-com/openclaw-whobot-skill": {
+        "owner": "whobot-com",
+        "name": "openclaw-whobot-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "whobot-ai/skills": {
+        "owner": "whobot-ai",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PodcastAPI/skills": {
+        "owner": "PodcastAPI",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wrg32786/aigent-design-system": {
+        "owner": "wrg32786",
+        "name": "aigent-design-system",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anormlylee/claude-orchestrator-brain": {
+        "owner": "anormlylee",
+        "name": "claude-orchestrator-brain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DepressionCenter/agentprise": {
+        "owner": "DepressionCenter",
+        "name": "agentprise",
+        "branch": "main",
+        "enabled": true
+    },
+    "PolaronQuasi/codex-subagents-for-claude-code": {
+        "owner": "PolaronQuasi",
+        "name": "codex-subagents-for-claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "pyxl-dev/remote-login": {
+        "owner": "pyxl-dev",
+        "name": "remote-login",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Anshkaliya18/Sherpa": {
+        "owner": "Anshkaliya18",
+        "name": "Sherpa",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "amanpal3/Dr-SKILLs": {
+        "owner": "amanpal3",
+        "name": "Dr-SKILLs",
+        "branch": "main",
+        "enabled": true
+    },
+    "cccskills/skills": {
+        "owner": "cccskills",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "VajraSarpa/rupa": {
+        "owner": "VajraSarpa",
+        "name": "rupa",
+        "branch": "main",
+        "enabled": true
+    },
+    "bikemeardsley/thicken": {
+        "owner": "bikemeardsley",
+        "name": "thicken",
+        "branch": "main",
+        "enabled": true
+    },
+    "sawbuck-ai/reins": {
+        "owner": "sawbuck-ai",
+        "name": "reins",
+        "branch": "master",
+        "enabled": true
+    },
+    "guy34/feature-mixer-skill": {
+        "owner": "guy34",
+        "name": "feature-mixer-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
