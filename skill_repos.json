@@ -55524,5 +55524,109 @@
         "name": "claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "SallyRS/video-director": {
+        "owner": "SallyRS",
+        "name": "video-director",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "insightflo/edu-deck-skills": {
+        "owner": "insightflo",
+        "name": "edu-deck-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Noam-Marom/academic-students": {
+        "owner": "Noam-Marom",
+        "name": "academic-students",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "commonpost/thunderbird-mcp": {
+        "owner": "commonpost",
+        "name": "thunderbird-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "PerDiemInc/gantrix": {
+        "owner": "PerDiemInc",
+        "name": "gantrix",
+        "branch": "main",
+        "enabled": true
+    },
+    "F0rger123/CLAUDE-SEO-GOD-MODE": {
+        "owner": "F0rger123",
+        "name": "CLAUDE-SEO-GOD-MODE",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UpIceLabs/casper": {
+        "owner": "UpIceLabs",
+        "name": "casper",
+        "branch": "main",
+        "enabled": true
+    },
+    "DnsQueen/orcinus-skills": {
+        "owner": "DnsQueen",
+        "name": "orcinus-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arm-pz/skill-to-mod": {
+        "owner": "arm-pz",
+        "name": "skill-to-mod",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omni-ping/upublish.skill": {
+        "owner": "omni-ping",
+        "name": "upublish.skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chris8510/pixie": {
+        "owner": "chris8510",
+        "name": "pixie",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ViniciusNoetzold/mine-blockreel-skill-": {
+        "owner": "ViniciusNoetzold",
+        "name": "mine-blockreel-skill-",
+        "branch": "main",
+        "enabled": true
+    },
+    "Nawii99/arsenal-piezas": {
+        "owner": "Nawii99",
+        "name": "arsenal-piezas",
+        "branch": "main",
+        "enabled": true
+    },
+    "nicolas-diez/decision-canvas": {
+        "owner": "nicolas-diez",
+        "name": "decision-canvas",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vslipchenko/ai": {
+        "owner": "vslipchenko",
+        "name": "ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "rx4u/samepage": {
+        "owner": "rx4u",
+        "name": "samepage",
+        "branch": "main",
+        "enabled": true
     }
 }

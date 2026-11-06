@@ -47603,5 +47603,122 @@
     "repoOwner": "surface-ai-code",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "SallyRS/video-director": {
+    "name": "SallyRS/video-director",
+    "description": "Claude Code skill that directs short videos from brief to render: design options, storyboard, motion spec, HyperFrames build and render checks. Rules measured from 59 films; 8 video types, 57 animation styles.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SallyRS",
+    "repoName": "video-director",
+    "repoBranch": "main"
+  },
+  "Noam-Marom/academic-students": {
+    "name": "Noam-Marom/academic-students",
+    "description": "A complete study toolkit for AI assistants \u2014 Claude, Codex, Gemini CLI, Cursor, Copilot: assignment coaching, honest professor-style grade estimates, academic writing, exam prep, lecture notes, study planning and Mood...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Noam-Marom",
+    "repoName": "academic-students",
+    "repoBranch": "main"
+  },
+  "commonpost/thunderbird-mcp": {
+    "name": "commonpost/thunderbird-mcp",
+    "description": "Community continuation of thunderbird-mcp: MCP server and Thunderbird add-on that let AI assistants work with your mail. Not affiliated with the original author.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "commonpost",
+    "repoName": "thunderbird-mcp",
+    "repoBranch": "main"
+  },
+  "F0rger123/CLAUDE-SEO-GOD-MODE": {
+    "name": "F0rger123/CLAUDE-SEO-GOD-MODE",
+    "description": "SEO plugin for Claude Code: site audits, technical and local SEO, Google Search Console, Bing, schema and AI search (GEO/AEO) checks. Skills plus an MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "F0rger123",
+    "repoName": "CLAUDE-SEO-GOD-MODE",
+    "repoBranch": "main"
+  },
+  "UpIceLabs/casper": {
+    "name": "UpIceLabs/casper",
+    "description": "\ud83d\udc7b The friendly ghost in your git. Your AI said done \u2014 Casper makes it prove it. Claim-evidence hooks + a verdict ledger for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UpIceLabs",
+    "repoName": "casper",
+    "repoBranch": "main"
+  },
+  "DnsQueen/orcinus-skills": {
+    "name": "DnsQueen/orcinus-skills",
+    "description": "ORCINUS \u2014 one integrated companion for building software with a coding agent, from raw idea to publish. Verification-first 0\u2013100 lifecycle skills for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DnsQueen",
+    "repoName": "orcinus-skills",
+    "repoBranch": "main"
+  },
+  "arm-pz/skill-to-mod": {
+    "name": "arm-pz/skill-to-mod",
+    "description": "Agent skill that checks whether a skill should become a Claude Code mod, then builds the plugin: your skill stays unchanged, a thin trigger such as run before git push is added, and the result is validated, tested and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arm-pz",
+    "repoName": "skill-to-mod",
+    "repoBranch": "main"
+  },
+  "omni-ping/upublish.skill": {
+    "name": "omni-ping/upublish.skill",
+    "description": "upublish gives everything your AI agent builds a permanent home at your own address: real multi-page sites, free, from any agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "omni-ping",
+    "repoName": "upublish.skill",
+    "repoBranch": "main"
+  },
+  "lumi-collective/uptick": {
+    "name": "lumi-collective/uptick",
+    "description": "A Claude Code mod that lists updates for Claude Code, plugins, skills and Homebrew, and runs one only after you confirm the exact command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lumi-collective",
+    "repoName": "uptick",
+    "repoBranch": "main"
+  },
+  "ViniciusNoetzold/mine-blockreel-skill-": {
+    "name": "ViniciusNoetzold/mine-blockreel-skill-",
+    "description": "Make Minecraft-style animations, skins and texture packs from a prompt. Rendered in code, no video model. A Claude Code plugin with 3 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ViniciusNoetzold",
+    "repoName": "mine-blockreel-skill-",
+    "repoBranch": "main"
+  },
+  "Nawii99/arsenal-piezas": {
+    "name": "Nawii99/arsenal-piezas",
+    "description": "4.659 piezas en espa\u00f1ol para Claude Code: skills, comandos, subagentes, prompts y recetas, en 99 plugins por temas",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nawii99",
+    "repoName": "arsenal-piezas",
+    "repoBranch": "main"
+  },
+  "vslipchenko/ai": {
+    "name": "vslipchenko/ai",
+    "description": "Standalone plugins and skills for AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vslipchenko",
+    "repoName": "ai",
+    "repoBranch": "main"
+  },
+  "rx4u/samepage": {
+    "name": "rx4u/samepage",
+    "description": "Your AI tools forget. samepage doesn't. One shared working context for Claude, Codex, Gemini CLI, Copilot, Cursor and Windsurf, in a private GitHub repo you own.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rx4u",
+    "repoName": "samepage",
+    "repoBranch": "main"
   }
 }

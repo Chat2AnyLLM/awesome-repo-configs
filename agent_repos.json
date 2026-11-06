@@ -7254,5 +7254,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "DnsQueen/orcinus-skills": {
+    "owner": "DnsQueen",
+    "name": "orcinus-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
