@@ -47504,5 +47504,104 @@
     "repoOwner": "guy34",
     "repoName": "feature-mixer-skill",
     "repoBranch": "main"
+  },
+  "rudderlabs/rudder-agent-skills": {
+    "name": "rudderlabs/rudder-agent-skills",
+    "description": "Claude Code plugin marketplace & agent skills for RudderStack \u2014 instrument events, design tracking plans & data graphs, write transformations, build Profiles, and drive the CLI, MCP server, and Terraform provider from...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rudderlabs",
+    "repoName": "rudder-agent-skills",
+    "repoBranch": "main"
+  },
+  "0toshigami/claude-desktop-themes": {
+    "name": "0toshigami/claude-desktop-themes",
+    "description": "Themes and live ASCII wallpapers for Claude Desktop",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0toshigami",
+    "repoName": "claude-desktop-themes",
+    "repoBranch": "main"
+  },
+  "Anish-Reddy-K/diagrammer": {
+    "name": "Anish-Reddy-K/diagrammer",
+    "description": "Claude Code skill and Python CLI for generating clean blueprint-style SVG diagrams from JSON specs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Anish-Reddy-K",
+    "repoName": "diagrammer",
+    "repoBranch": "master"
+  },
+  "sanghyun-io/sanghyun-skills": {
+    "name": "sanghyun-io/sanghyun-skills",
+    "description": "Personal Claude Code skills as a plugin marketplace: plan-subdivider, api-flow-diagram, multi-hypothesis, session-handoff, skill-scaffolder, slack-thread-to-plan, team-launch",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sanghyun-io",
+    "repoName": "sanghyun-skills",
+    "repoBranch": "main"
+  },
+  "Siririn77/i-have-autism": {
+    "name": "Siririn77/i-have-autism",
+    "description": "A coding-agent skill that writes literally, names every implicit step, and holds code to readability, maintainability and correctness. A/B measured.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Siririn77",
+    "repoName": "i-have-autism",
+    "repoBranch": "main"
+  },
+  "StudioObsidienne/kinan-orchestre": {
+    "name": "StudioObsidienne/kinan-orchestre",
+    "description": "A Claude Code plugin designed to reduce token consumption: each task goes to the cheapest model able to complete it, and a judge checks the result.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "StudioObsidienne",
+    "repoName": "kinan-orchestre",
+    "repoBranch": "main"
+  },
+  "HwangSlater/ui-design-director": {
+    "name": "HwangSlater/ui-design-director",
+    "description": "\uac19\uc740 \ubd84\uc57c \uc2e4\uc81c \uc0ac\uc774\ud2b8\ub97c \ub098\ub780\ud788 \ubcf4\uace0 \ud558\ub098\ub97c \ubc14\ud0d5\uc73c\ub85c \uace8\ub77c, \uadf8 \uc9dc\uc784\uacfc \ub9c8\uac10\uc744 \uc7ac\uc11c \uc6b0\ub9ac \ud648\ud398\uc774\uc9c0\ub85c \uc62e\uaca8 \uc9d3\ub294 Claude Code\u00b7Codex \ub514\uc790\uc778 \uc2a4\ud0ac",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HwangSlater",
+    "repoName": "ui-design-director",
+    "repoBranch": "main"
+  },
+  "fabio-bergmann/seo-geo-skills": {
+    "name": "fabio-bergmann/seo-geo-skills",
+    "description": "Agentic SEO and GEO skills for Claude Code, Codex, Cursor and Gemini CLI: get found on Google and named in AI answers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fabio-bergmann",
+    "repoName": "seo-geo-skills",
+    "repoBranch": "main"
+  },
+  "yahya-tamur/claude-latex-check": {
+    "name": "yahya-tamur/claude-latex-check",
+    "description": "fixes Claude Code LaTeX rendering",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yahya-tamur",
+    "repoName": "claude-latex-check",
+    "repoBranch": "main"
+  },
+  "arslanrakh/skills": {
+    "name": "arslanrakh/skills",
+    "description": "Frontier skills for autonomous agent work: short, sharp principles for smart models, so agents get further with less of you. Built on the best current methods and tested on real agents. For Claude Code, Codex, Grok, C...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arslanrakh",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "surface-ai-code/claude-plugins": {
+    "name": "surface-ai-code/claude-plugins",
+    "description": "Claude Code plugin for Surface AI: test and personalize your site's pages from Claude Code. Adds the Surface MCP server and skills to set up surfaces, manage variants and check results.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "surface-ai-code",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }

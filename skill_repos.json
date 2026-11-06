@@ -55411,5 +55411,118 @@
         "name": "feature-mixer-skill",
         "branch": "main",
         "enabled": true
+    },
+    "rudderlabs/rudder-agent-skills": {
+        "owner": "rudderlabs",
+        "name": "rudder-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "0toshigami/claude-desktop-themes": {
+        "owner": "0toshigami",
+        "name": "claude-desktop-themes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Anish-Reddy-K/diagrammer": {
+        "owner": "Anish-Reddy-K",
+        "name": "diagrammer",
+        "branch": "master",
+        "enabled": true
+    },
+    "sanghyun-io/sanghyun-skills": {
+        "owner": "sanghyun-io",
+        "name": "sanghyun-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Siririn77/i-have-autism": {
+        "owner": "Siririn77",
+        "name": "i-have-autism",
+        "branch": "main",
+        "enabled": true
+    },
+    "StudioObsidienne/kinan-orchestre": {
+        "owner": "StudioObsidienne",
+        "name": "kinan-orchestre",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dipaksavaliya/mac-dev-cleanup": {
+        "owner": "dipaksavaliya",
+        "name": "mac-dev-cleanup",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Gitputout/doc2screen": {
+        "owner": "Gitputout",
+        "name": "doc2screen",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Nael-Nathanael/onetake-videogen": {
+        "owner": "Nael-Nathanael",
+        "name": "onetake-videogen",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nainishshafi/developer-productivity-skills": {
+        "owner": "nainishshafi",
+        "name": "developer-productivity-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "HwangSlater/ui-design-director": {
+        "owner": "HwangSlater",
+        "name": "ui-design-director",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/xiaohongshu-yunying-zhushou": {
+        "owner": "why20261",
+        "name": "xiaohongshu-yunying-zhushou",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fabio-bergmann/seo-geo-skills": {
+        "owner": "fabio-bergmann",
+        "name": "seo-geo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Binbin-miao/workbuddy-expert-team": {
+        "owner": "Binbin-miao",
+        "name": "workbuddy-expert-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yahya-tamur/claude-latex-check": {
+        "owner": "yahya-tamur",
+        "name": "claude-latex-check",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arslanrakh/skills": {
+        "owner": "arslanrakh",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "surface-ai-code/claude-plugins": {
+        "owner": "surface-ai-code",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

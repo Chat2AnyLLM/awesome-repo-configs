@@ -7240,5 +7240,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "StudioObsidienne/kinan-orchestre": {
+    "owner": "StudioObsidienne",
+    "name": "kinan-orchestre",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Binbin-miao/workbuddy-expert-team": {
+    "owner": "Binbin-miao",
+    "name": "workbuddy-expert-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
