@@ -55524,12 +55524,5 @@
         "name": "claude-plugins",
         "branch": "main",
         "enabled": true
-    },
-    "waynehamadi/datacircle": {
-        "owner": "waynehamadi",
-        "name": "datacircle",
-        "branch": "main",
-        "skillsPath": "skills",
-        "enabled": true
     }
 }
