@@ -300,5 +300,12 @@
     "enabled": true,
     "serverName": "app.postel/postel",
     "note": "Hosted MCP (streamable HTTP): https://www.postel.app/api/mcp, 17 tools, OAuth 2.1 or API key. Find posts going viral in your niche, write your version in your own voice, and schedule it to X, LinkedIn, Bluesky and Mastodon. Viral post research works without an account. Canonical metadata is in server.json."
+  },
+  "waynehamadi/datacircle": {
+    "owner": "waynehamadi",
+    "name": "datacircle",
+    "branch": "main",
+    "enabled": true,
+    "note": "Hosted MCP (streamable HTTP): https://api.datacircle.dev/mcp, 2 tools, no key. Find the best GTM APIs: list_apis lists them, search_plans finds their plans by API, provider or price."
   }
 }
