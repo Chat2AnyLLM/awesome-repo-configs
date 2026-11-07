@@ -47720,5 +47720,113 @@
     "repoOwner": "rx4u",
     "repoName": "samepage",
     "repoBranch": "main"
+  },
+  "Sen-CaPoo/engram": {
+    "name": "Sen-CaPoo/engram",
+    "description": "\u8b93 Claude \u5728\u6bcf\u4e00\u53f0\u96fb\u8166\u90fd\u8a18\u5f97\u4f60\uff1aClaude Code \u8a18\u61b6\u7684\u8de8\u88dd\u7f6e\u540c\u6b65\u3001\u6574\u7406\u8207\u5fa9\u539f\u3002\u8a18\u61b6\u5b58\u5728\u4f60\u81ea\u5df1\u7684 GitHub \u79c1\u4eba repo\uff08Windows 11\uff09",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sen-CaPoo",
+    "repoName": "engram",
+    "repoBranch": "main"
+  },
+  "mnema-work/mnema": {
+    "name": "mnema-work/mnema",
+    "description": "Signed, append-only decision records for AI coding agents: an MCP server and CLI that hand your team's decisions to Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode and other MCP hosts, hold the edits a rule gove...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mnema-work",
+    "repoName": "mnema",
+    "repoBranch": "main"
+  },
+  "publicwww-com/publicwww-mcp": {
+    "name": "publicwww-com/publicwww-mcp",
+    "description": "PublicWWW MCP server: search the source code of hundreds of millions of websites from Claude, ChatGPT, Cursor, VS Code, Gemini CLI and other AI assistants",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "publicwww-com",
+    "repoName": "publicwww-mcp",
+    "repoBranch": "main"
+  },
+  "JanSzewczyk/claude-plugins": {
+    "name": "JanSzewczyk/claude-plugins",
+    "description": "Claude Code marketplace of skills and agents for TypeScript, React, Next.js, Python, Firebase and Tailwind \u2014 layered plugins for testing, code review, API architecture, Git workflow and plugin authoring.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JanSzewczyk",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "jackzhaojin/ai-builder-kit": {
+    "name": "jackzhaojin/ai-builder-kit",
+    "description": "Skills, plugins and hooks for Claude Code, Codex and any Agent Skills agent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jackzhaojin",
+    "repoName": "ai-builder-kit",
+    "repoBranch": "main"
+  },
+  "slasher-bot/slasher": {
+    "name": "slasher-bot/slasher",
+    "description": "Slasher: Human in the Loop harness. By the Eventide Project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "slasher-bot",
+    "repoName": "slasher",
+    "repoBranch": "master"
+  },
+  "nninkovic95/clawd-band": {
+    "name": "nninkovic95/clawd-band",
+    "description": "Animated Clawd + weekly/5-hour usage bars and reset countdowns above the Claude Code prompt (a Claude Code mod)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nninkovic95",
+    "repoName": "clawd-band",
+    "repoBranch": "main"
+  },
+  "enhki/claude-mods": {
+    "name": "enhki/claude-mods",
+    "description": "Small Claude Code mods for the terminal and the desktop app",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enhki",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "Marceux-Croix/Claudeopticon": {
+    "name": "Marceux-Croix/Claudeopticon",
+    "description": "A process monitoring and ticket system for Claude Code: your todo as a live ticket board you can hand to Claude, with each of Claude's steps and each agent linked to tickets and fully tracked.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Marceux-Croix",
+    "repoName": "Claudeopticon",
+    "repoBranch": "main"
+  },
+  "georgeracu/sdd-skills": {
+    "name": "georgeracu/sdd-skills",
+    "description": "Spec-driven development skills for coding agents, with quality gates that block and an audit trail that stays.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "georgeracu",
+    "repoName": "sdd-skills",
+    "repoBranch": "main"
+  },
+  "pko89403/grounded-expert": {
+    "name": "pko89403/grounded-expert",
+    "description": "Agent skill for Claude Code (also Codex and Antigravity, experimental): answers from official specs, docs and papers, with an exact quote for every checkable claim, not from memory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pko89403",
+    "repoName": "grounded-expert",
+    "repoBranch": "main"
+  },
+  "hemal08ce094/EnhancementSkill": {
+    "name": "hemal08ce094/EnhancementSkill",
+    "description": "Human touch for SwiftUI apps: one skill + package that understands who your app is for and applies DesignSkills, Drawably, Thinking Orbs, Bot Avatars and Impeccable as one editorial-grade direction.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hemal08ce094",
+    "repoName": "EnhancementSkill",
+    "repoBranch": "main"
   }
 }

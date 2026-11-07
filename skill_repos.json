@@ -55628,5 +55628,132 @@
         "name": "samepage",
         "branch": "main",
         "enabled": true
+    },
+    "JuneYaooo/teacher-to-skills": {
+        "owner": "JuneYaooo",
+        "name": "teacher-to-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Sen-CaPoo/engram": {
+        "owner": "Sen-CaPoo",
+        "name": "engram",
+        "branch": "main",
+        "enabled": true
+    },
+    "apissaj/humanizer-id": {
+        "owner": "apissaj",
+        "name": "humanizer-id",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mnema-work/mnema": {
+        "owner": "mnema-work",
+        "name": "mnema",
+        "branch": "main",
+        "enabled": true
+    },
+    "publicwww-com/publicwww-mcp": {
+        "owner": "publicwww-com",
+        "name": "publicwww-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JanSzewczyk/claude-plugins": {
+        "owner": "JanSzewczyk",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Maxwbh/oracle-skills-ptbr": {
+        "owner": "Maxwbh",
+        "name": "oracle-skills-ptbr",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aditya-vermax/skills": {
+        "owner": "aditya-vermax",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jackzhaojin/ai-builder-kit": {
+        "owner": "jackzhaojin",
+        "name": "ai-builder-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "slasher-bot/slasher": {
+        "owner": "slasher-bot",
+        "name": "slasher",
+        "branch": "master",
+        "enabled": true
+    },
+    "slasher-bot/journal": {
+        "owner": "slasher-bot",
+        "name": "journal",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "georgeracu/sdd-skills": {
+        "owner": "georgeracu",
+        "name": "sdd-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ccai40359-wq/video-watch": {
+        "owner": "ccai40359-wq",
+        "name": "video-watch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Maxwbh/oracle-26ai-helper-ptbr": {
+        "owner": "Maxwbh",
+        "name": "oracle-26ai-helper-ptbr",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "salespeak-ai/inbox-envoy": {
+        "owner": "salespeak-ai",
+        "name": "inbox-envoy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pko89403/grounded-expert": {
+        "owner": "pko89403",
+        "name": "grounded-expert",
+        "branch": "main",
+        "enabled": true
+    },
+    "tunguyen1993/kintsugi-harness": {
+        "owner": "tunguyen1993",
+        "name": "kintsugi-harness",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "mikezamayias/agent-skills": {
+        "owner": "mikezamayias",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hemal08ce094/EnhancementSkill": {
+        "owner": "hemal08ce094",
+        "name": "EnhancementSkill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
