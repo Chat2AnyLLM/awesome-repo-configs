@@ -7261,5 +7261,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kchojn/claude-code-tradecraft": {
+    "owner": "kchojn",
+    "name": "claude-code-tradecraft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

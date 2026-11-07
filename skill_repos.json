@@ -55755,5 +55755,104 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "aldefy/compose-skill": {
+        "owner": "aldefy",
+        "name": "compose-skill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Vladimir-Human/ru-marketplace-mcp": {
+        "owner": "Vladimir-Human",
+        "name": "ru-marketplace-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ovid/paad": {
+        "owner": "Ovid",
+        "name": "paad",
+        "branch": "main",
+        "enabled": true
+    },
+    "aws-samples/sample-apex-skills": {
+        "owner": "aws-samples",
+        "name": "sample-apex-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Abdulkader-Safi/AI-Writing-Rules": {
+        "owner": "Abdulkader-Safi",
+        "name": "AI-Writing-Rules",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CreativesLibrary/oss-launch": {
+        "owner": "CreativesLibrary",
+        "name": "oss-launch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "justfinethanku/LEJ-output-fixer": {
+        "owner": "justfinethanku",
+        "name": "LEJ-output-fixer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dlportel/agent-station": {
+        "owner": "dlportel",
+        "name": "agent-station",
+        "branch": "main",
+        "enabled": true
+    },
+    "amramos/game-ai-sdlc": {
+        "owner": "amramos",
+        "name": "game-ai-sdlc",
+        "branch": "main",
+        "enabled": true
+    },
+    "Lindenjefferson/foreman": {
+        "owner": "Lindenjefferson",
+        "name": "foreman",
+        "branch": "main",
+        "enabled": true
+    },
+    "morpheasgr/livebridge-ableton-mcp": {
+        "owner": "morpheasgr",
+        "name": "livebridge-ableton-mcp",
+        "branch": "fork",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "kchojn/claude-code-tradecraft": {
+        "owner": "kchojn",
+        "name": "claude-code-tradecraft",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DylanMerigaud/trimwrit": {
+        "owner": "DylanMerigaud",
+        "name": "trimwrit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AngeloDotNet/claude-config": {
+        "owner": "AngeloDotNet",
+        "name": "claude-config",
+        "branch": "main",
+        "enabled": true
+    },
+    "NicatAv/orchestrate-skill": {
+        "owner": "NicatAv",
+        "name": "orchestrate-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

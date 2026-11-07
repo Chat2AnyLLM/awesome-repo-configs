@@ -47828,5 +47828,131 @@
     "repoOwner": "hemal08ce094",
     "repoName": "EnhancementSkill",
     "repoBranch": "main"
+  },
+  "aldefy/compose-skill": {
+    "name": "aldefy/compose-skill",
+    "description": "Jetpack Compose Agent Skill \u2014 AI-powered coding guidance with actual androidx/androidx source code receipts. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, Copilot, Windsurf, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aldefy",
+    "repoName": "compose-skill",
+    "repoBranch": "master"
+  },
+  "Vladimir-Human/ru-marketplace-mcp": {
+    "name": "Vladimir-Human/ru-marketplace-mcp",
+    "description": "\u0414\u0432\u0435\u043d\u0430\u0434\u0446\u0430\u0442\u044c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a \u0420\u0424 \u0438 \u041a\u0438\u0442\u0430\u044f (11 \u043c\u0430\u0440\u043a\u0435\u0442\u043f\u043b\u0435\u0439\u0441\u043e\u0432 + \u0426\u0438\u0430\u043d) \u043a\u0430\u043a MCP-\u0441\u0435\u0440\u0432\u0435\u0440\u044b \u0438 15 Agent Skills: Wildberries, Ozon, \u042f\u043d\u0434\u0435\u043a\u0441 \u041c\u0430\u0440\u043a\u0435\u0442, \u0414\u0435\u0442\u0441\u043a\u0438\u0439 \u043c\u0438\u0440, \u0410\u0432\u0438\u0442\u043e, AliExpress, Taobao, \u041c\u0435\u0433\u0430\u043c\u0430\u0440\u043a\u0435\u0442, Lamoda, DNS, \u0421\u0438\u0442\u0438\u043b\u0438\u043d\u043a, \u0426\u0438\u0430\u043d. \u0421\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Vladimir-Human",
+    "repoName": "ru-marketplace-mcp",
+    "repoBranch": "main"
+  },
+  "Ovid/paad": {
+    "name": "Ovid/paad",
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ovid",
+    "repoName": "paad",
+    "repoBranch": "main"
+  },
+  "Abdulkader-Safi/AI-Writing-Rules": {
+    "name": "Abdulkader-Safi/AI-Writing-Rules",
+    "description": "Claude Code plugin that stops Claude writing like an AI. 29 researched patterns, loaded every session and checked on every file write.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Abdulkader-Safi",
+    "repoName": "AI-Writing-Rules",
+    "repoBranch": "main"
+  },
+  "justfinethanku/LEJ-output-fixer": {
+    "name": "justfinethanku/LEJ-output-fixer",
+    "description": "Make Claude readable again. Three ready-made output styles for Claude Code, plus a picker command. Works in the terminal and the Desktop app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justfinethanku",
+    "repoName": "LEJ-output-fixer",
+    "repoBranch": "main"
+  },
+  "dlportel/agent-station": {
+    "name": "dlportel/agent-station",
+    "description": "Lets Claude Code agents in different repos work together: each knows the others, proposes work to them and gets their answers back, with your approval for every step",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dlportel",
+    "repoName": "agent-station",
+    "repoBranch": "main"
+  },
+  "ysb3996-blip/oops": {
+    "name": "ysb3996-blip/oops",
+    "description": "Copy the last shell command and its output to the clipboard as a paste-ready block, or let Claude Code read it",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ysb3996-blip",
+    "repoName": "oops",
+    "repoBranch": "main"
+  },
+  "amramos/game-ai-sdlc": {
+    "name": "amramos/game-ai-sdlc",
+    "description": "An AI-assisted development lifecycle for games, packaged as Claude Code plugins: from a GDD interview to an itch.io release, with the owner's judgment as the gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "amramos",
+    "repoName": "game-ai-sdlc",
+    "repoBranch": "main"
+  },
+  "hoangnv1301/Office-Anything": {
+    "name": "hoangnv1301/Office-Anything",
+    "description": "A Claude Code plugin for hiring and firing AI agents. Each gets a desk, a browser, and limits that are enforced, not suggested.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hoangnv1301",
+    "repoName": "Office-Anything",
+    "repoBranch": "main"
+  },
+  "Lindenjefferson/foreman": {
+    "name": "Lindenjefferson/foreman",
+    "description": "Claude Code plugin: a small multi-agent dev team (manager, dev, reviewer, qa) in short test-first cycles, with a delivery ledger and a local gate",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lindenjefferson",
+    "repoName": "foreman",
+    "repoBranch": "main"
+  },
+  "kchojn/claude-code-tradecraft": {
+    "name": "kchojn/claude-code-tradecraft",
+    "description": "Claude Code plugin: a delegation-first lead, a two-stage PR review, a review watcher, and the sourced rules behind them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kchojn",
+    "repoName": "claude-code-tradecraft",
+    "repoBranch": "main"
+  },
+  "DylanMerigaud/trimwrit": {
+    "name": "DylanMerigaud/trimwrit",
+    "description": "A harness rule enters with a test, and leaves when the test passes without it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DylanMerigaud",
+    "repoName": "trimwrit",
+    "repoBranch": "main"
+  },
+  "AngeloDotNet/claude-config": {
+    "name": "AngeloDotNet/claude-config",
+    "description": "Starting repository for new projects developed with Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AngeloDotNet",
+    "repoName": "claude-config",
+    "repoBranch": "main"
+  },
+  "NicatAv/orchestrate-skill": {
+    "name": "NicatAv/orchestrate-skill",
+    "description": "Claude Code skill: clarify a big task, split it into parallel desktop sessions, supervise them with a live dashboard",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NicatAv",
+    "repoName": "orchestrate-skill",
+    "repoBranch": "main"
   }
 }
