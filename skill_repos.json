@@ -55854,5 +55854,112 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "alchaincyf/huashu-mac-use": {
+        "owner": "alchaincyf",
+        "name": "huashu-mac-use",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucasmartins-ai/lcc": {
+        "owner": "lucasmartins-ai",
+        "name": "lcc",
+        "branch": "main",
+        "enabled": true
+    },
+    "thomascasali/memoteca": {
+        "owner": "thomascasali",
+        "name": "memoteca",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "theoutlines/subscription-skills": {
+        "owner": "theoutlines",
+        "name": "subscription-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sky-access/skyaccess-mcp": {
+        "owner": "sky-access",
+        "name": "skyaccess-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "flisk-sh/run-my-agents": {
+        "owner": "flisk-sh",
+        "name": "run-my-agents",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "T-Celor/the-dam": {
+        "owner": "T-Celor",
+        "name": "the-dam",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iamalisson/landspec": {
+        "owner": "iamalisson",
+        "name": "landspec",
+        "branch": "main",
+        "enabled": true
+    },
+    "inreels-ai/inreels-skills": {
+        "owner": "inreels-ai",
+        "name": "inreels-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "malkreide/sentimentkit": {
+        "owner": "malkreide",
+        "name": "sentimentkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alalanet/skills": {
+        "owner": "alalanet",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alex20-create/claude-template-skill": {
+        "owner": "alex20-create",
+        "name": "claude-template-skill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alex20-create/thinking-skills": {
+        "owner": "alex20-create",
+        "name": "thinking-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Worker1245/vibecoding-security": {
+        "owner": "Worker1245",
+        "name": "vibecoding-security",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "omnigami-ai/skill-finder": {
+        "owner": "omnigami-ai",
+        "name": "skill-finder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alex26262/ChecklistBuilderForSchoolCamps": {
+        "owner": "alex26262",
+        "name": "ChecklistBuilderForSchoolCamps",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

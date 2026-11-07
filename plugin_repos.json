@@ -47954,5 +47954,104 @@
     "repoOwner": "NicatAv",
     "repoName": "orchestrate-skill",
     "repoBranch": "main"
+  },
+  "lucasmartins-ai/lcc": {
+    "name": "lucasmartins-ai/lcc",
+    "description": "Compact coding-agent context without summarizing it away. Verbatim, offline, with a receipt and recall for every cut. CLI, MCP server, Claude Code plugin. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucasmartins-ai",
+    "repoName": "lcc",
+    "repoBranch": "main"
+  },
+  "theoutlines/subscription-skills": {
+    "name": "theoutlines/subscription-skills",
+    "description": "Claude plugin with 8 skills for subscription-app monetization: 2026 benchmarks (RevenueCat, Adapty, FunnelFox), pricing, paywall teardown, A/B tests and App Store / Google Play checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theoutlines",
+    "repoName": "subscription-skills",
+    "repoBranch": "main"
+  },
+  "sky-access/skyaccess-mcp": {
+    "name": "sky-access/skyaccess-mcp",
+    "description": "Hosted SkyAccess MCP server for private jet empty legs: search 5,000+ live empty leg flights, charter price estimates and booking links. No account or API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sky-access",
+    "repoName": "skyaccess-mcp",
+    "repoBranch": "main"
+  },
+  "imtripleq/tabpulse": {
+    "name": "imtripleq/tabpulse",
+    "description": "See which Claude Code sessions are working, waiting on you, or done, on your Ghostty tabs and macOS menu bar.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "imtripleq",
+    "repoName": "tabpulse",
+    "repoBranch": "main"
+  },
+  "ZalaVijaysinh/skilltrust": {
+    "name": "ZalaVijaysinh/skilltrust",
+    "description": "What every AI agent skill can do to your machine, in plain English \u2014 trending skills with trust scores for Claude Code, Codex, Antigravity, Cursor, Copilot, Gemini CLI and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ZalaVijaysinh",
+    "repoName": "skilltrust",
+    "repoBranch": "main"
+  },
+  "flisk-sh/run-my-agents": {
+    "name": "flisk-sh/run-my-agents",
+    "description": "Claude Code. Simplified. No server, no keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "flisk-sh",
+    "repoName": "run-my-agents",
+    "repoBranch": "main"
+  },
+  "T-Celor/the-dam": {
+    "name": "T-Celor/the-dam",
+    "description": "Spend fewer tokens in Claude Code without losing a line: lossless output compression, a local code graph, a loop guard and lazy-senior-dev rules, in one Rust-powered plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "T-Celor",
+    "repoName": "the-dam",
+    "repoBranch": "main"
+  },
+  "iamalisson/landspec": {
+    "name": "iamalisson/landspec",
+    "description": "\u26a1 Spec Kit without the workflow friction. Streamlines tasks, branches, PRs, and security checks right from your prompt. A Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iamalisson",
+    "repoName": "landspec",
+    "repoBranch": "main"
+  },
+  "jagnyesh/field-guide": {
+    "name": "jagnyesh/field-guide",
+    "description": "A Claude Code mod that teaches new developers what the agent is doing: context, tool loop, tests, and compaction.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jagnyesh",
+    "repoName": "field-guide",
+    "repoBranch": "main"
+  },
+  "junkerderprovinz/tillertouch": {
+    "name": "junkerderprovinz/tillertouch",
+    "description": "A second look at your coding assistant's replies: sends a reply back when it leaves a gap open, asks for approval without showing what to approve, or skips a clearly better way. For Claude Code, Codex CLI, Gemini CLI,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "junkerderprovinz",
+    "repoName": "tillertouch",
+    "repoBranch": "main"
+  },
+  "alalanet/skills": {
+    "name": "alalanet/skills",
+    "description": "Agent Skills and the alalanet-guard Claude Code plugin: check packages, MCP servers and skills before install, x402 endpoints before paying. Signed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alalanet",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }

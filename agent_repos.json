@@ -7268,5 +7268,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "thomascasali/memoteca": {
+    "owner": "thomascasali",
+    "name": "memoteca",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "T-Celor/the-dam": {
+    "owner": "T-Celor",
+    "name": "the-dam",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iamalisson/landspec": {
+    "owner": "iamalisson",
+    "name": "landspec",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
