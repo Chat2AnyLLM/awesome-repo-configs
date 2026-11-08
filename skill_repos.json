@@ -55961,5 +55961,144 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Anbu-00001/Anamnesis": {
+        "owner": "Anbu-00001",
+        "name": "Anamnesis",
+        "branch": "main",
+        "enabled": true
+    },
+    "taxueseek/plugin-fast-adapt": {
+        "owner": "taxueseek",
+        "name": "plugin-fast-adapt",
+        "branch": "main",
+        "enabled": true
+    },
+    "JiamingShi-JsPhys/web-forager": {
+        "owner": "JiamingShi-JsPhys",
+        "name": "web-forager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "paulieb89/bouch-plugins": {
+        "owner": "paulieb89",
+        "name": "bouch-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "jazielcarballo/web-security-audit": {
+        "owner": "jazielcarballo",
+        "name": "web-security-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Johnson-Jia/ziwei-bazi-reading": {
+        "owner": "Johnson-Jia",
+        "name": "ziwei-bazi-reading",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "iswalterwu/dev-circuit-ultra": {
+        "owner": "iswalterwu",
+        "name": "dev-circuit-ultra",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dcefferty/OpenGEO": {
+        "owner": "dcefferty",
+        "name": "OpenGEO",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "nrfitriazim/claude-context-kit": {
+        "owner": "nrfitriazim",
+        "name": "claude-context-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "financeailab/skills-financas-br": {
+        "owner": "financeailab",
+        "name": "skills-financas-br",
+        "branch": "main",
+        "enabled": true
+    },
+    "LinktoDM/linktodm-dm-automation-skill": {
+        "owner": "LinktoDM",
+        "name": "linktodm-dm-automation-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mcz070321/katil-skill": {
+        "owner": "Mcz070321",
+        "name": "katil-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "hellochenhuayu/browser-operator-skill": {
+        "owner": "hellochenhuayu",
+        "name": "browser-operator-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "KILN-skills/kiln": {
+        "owner": "KILN-skills",
+        "name": "kiln",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/pro-skills": {
+        "owner": "omnigami-ai",
+        "name": "pro-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BigRedT/legible": {
+        "owner": "BigRedT",
+        "name": "legible",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "japanverify/jpverify-skills": {
+        "owner": "japanverify",
+        "name": "jpverify-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "schemity/skills": {
+        "owner": "schemity",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "longwave-ai-lab/skill-commercialization-factory": {
+        "owner": "longwave-ai-lab",
+        "name": "skill-commercialization-factory",
+        "branch": "main",
+        "enabled": true
+    },
+    "longwave-ai-lab/agentic-workflow-os": {
+        "owner": "longwave-ai-lab",
+        "name": "agentic-workflow-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "stlahxm/podium": {
+        "owner": "stlahxm",
+        "name": "podium",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

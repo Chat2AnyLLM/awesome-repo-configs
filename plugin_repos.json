@@ -48053,5 +48053,95 @@
     "repoOwner": "alalanet",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "Anbu-00001/Anamnesis": {
+    "name": "Anbu-00001/Anamnesis",
+    "description": "A local CLI for logging predictions before the outcome and checking whether your \"80% sure\" comes true 80% of the time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Anbu-00001",
+    "repoName": "Anamnesis",
+    "repoBranch": "main"
+  },
+  "taxueseek/plugin-fast-adapt": {
+    "name": "taxueseek/plugin-fast-adapt",
+    "description": "DSH \u63d2\u4ef6\u5347\u7ea7\u9002\u914d\u4e0e\u7834\u574f\u6027\u53d8\u66f4\u6838\u67e5\uff0c\u517c\u4e94\u5f62\u6001\u63d2\u4ef6\u811a\u624b\u67b6\u4e0e\u5bbf\u4e3b\u542f\u52a8\u8bca\u65ad\uff1b\u53ef\u4f5c\u4e3a Claude Code / Agent Skills \u6280\u80fd\u5b89\u88c5\uff0c\u96f6\u5916\u90e8\u4f9d\u8d56",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "taxueseek",
+    "repoName": "plugin-fast-adapt",
+    "repoBranch": "main"
+  },
+  "JiamingShi-JsPhys/web-forager": {
+    "name": "JiamingShi-JsPhys/web-forager",
+    "description": "Clean-room, robots-aware web information gathering toolkit for agents and analysts. Search 360/Bing/Sogou, read Bilibili, Zhihu, Xiaohongshu, Weibo and other public sites as Markdown, and browse with resumable session...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JiamingShi-JsPhys",
+    "repoName": "web-forager",
+    "repoBranch": "main"
+  },
+  "paulieb89/bouch-plugins": {
+    "name": "paulieb89/bouch-plugins",
+    "description": "Claude Code plugins for UK professionals \u2014 property investors, solicitors, and business owners. Real Land Registry, Rightmove, legislation.gov.uk, and Companies House data.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paulieb89",
+    "repoName": "bouch-plugins",
+    "repoBranch": "main"
+  },
+  "financeailab/skills-financas-br": {
+    "name": "financeailab/skills-financas-br",
+    "description": "Ferramentas de IA gr\u00e1tis e abertas para a tesouraria brasileira (skills para Claude). Finance AI Lab.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "financeailab",
+    "repoName": "skills-financas-br",
+    "repoBranch": "main"
+  },
+  "drint-io/drint-mcp": {
+    "name": "drint-io/drint-mcp",
+    "description": "Drint MCP server: packaging dielines (FEFCO/ECMA) and 3D box & bag mockups in your AI chat. Hosted at https://drint.io/mcp",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drint-io",
+    "repoName": "drint-mcp",
+    "repoBranch": "main"
+  },
+  "BigRedT/legible": {
+    "name": "BigRedT/legible",
+    "description": "A skill for Claude Code and Codex that makes shell commands readable and adds a clear summary after every tool call.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BigRedT",
+    "repoName": "legible",
+    "repoBranch": "main"
+  },
+  "japanverify/jpverify-skills": {
+    "name": "japanverify/jpverify-skills",
+    "description": "Agent skills + Claude Code plugin for JPVerify: verify Japanese companies (\u6cd5\u4eba\u756a\u53f7) and invoice T-numbers, OCR Japanese invoices/receipts/business cards, addresses, JP PINT e-invoices. Pay per call: API key or x402.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "japanverify",
+    "repoName": "jpverify-skills",
+    "repoBranch": "main"
+  },
+  "schemity/skills": {
+    "name": "schemity/skills",
+    "description": "Agent skills for designing database schemas the way a senior engineer would: explicit decisions on keys, deletes and constraints, and migrations that are safe on live tables. PostgreSQL, MySQL, SQL Server, SQLite, Coc...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "schemity",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "stlahxm/podium": {
+    "name": "stlahxm/podium",
+    "description": "A Claude Code plugin that keeps many sessions organized: one sidebar section per workstream, one session per task, context kept in files. Plain-sentence requests, no commands to memorize.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stlahxm",
+    "repoName": "podium",
+    "repoBranch": "main"
   }
 }
