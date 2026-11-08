@@ -1,4 +1,22 @@
 {
+  "Hyde-and-Larkin/product-marketing-toolkit": {
+    "name": "Product Marketing Toolkit",
+    "description": "Product marketing skills for AI agents: competitive intel, positioning review, claims audit, launch readiness, enablement, messaging, battlecards and discovery. CC-BY-4.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hyde-and-Larkin",
+    "repoName": "product-marketing-toolkit",
+    "repoBranch": "main"
+  },
+  "Hyde-and-Larkin/product-marketing-interview-kit": {
+    "name": "Product Marketing Interview Kit",
+    "description": "Interview prep for product marketing roles: role decoding, company briefs, story bank, round prep, mock interviews, offer review and debriefs. CC-BY-4.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hyde-and-Larkin",
+    "repoName": "product-marketing-interview-kit",
+    "repoBranch": "main"
+  },
   "777genius/agent-notifications": {
     "name": "Agent Notifications",
     "description": "Desktop and webhook notifications for Claude Code and other coding agents on macOS, Linux and Windows. Claude/Codex also support sounds and click-to-focus; supported events vary by agent. GPL-3.0-or-later.",
