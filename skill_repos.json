@@ -1,4 +1,18 @@
 {
+    "Hyde-and-Larkin/product-marketing-toolkit": {
+        "owner": "Hyde-and-Larkin",
+        "name": "product-marketing-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Hyde-and-Larkin/product-marketing-interview-kit": {
+        "owner": "Hyde-and-Larkin",
+        "name": "product-marketing-interview-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "lambdasec/skills": {
         "owner": "lambdasec",
         "name": "skills",
