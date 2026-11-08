@@ -56100,5 +56100,121 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "tance-mang/chinese-webnovel-skills": {
+        "owner": "tance-mang",
+        "name": "chinese-webnovel-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dvdsosa/scientific-writing-skills": {
+        "owner": "dvdsosa",
+        "name": "scientific-writing-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "avivgerz-hue/vibe-shield": {
+        "owner": "avivgerz-hue",
+        "name": "vibe-shield",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "humbleteam/design-review": {
+        "owner": "humbleteam",
+        "name": "design-review",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "msolecki/developer-os": {
+        "owner": "msolecki",
+        "name": "developer-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "aymardkouakou/claude-gh-skills": {
+        "owner": "aymardkouakou",
+        "name": "claude-gh-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qiaeru/skill-project-instructions": {
+        "owner": "qiaeru",
+        "name": "skill-project-instructions",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qiaeru/skill-human-prose": {
+        "owner": "qiaeru",
+        "name": "skill-human-prose",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "decwap/video-edit": {
+        "owner": "decwap",
+        "name": "video-edit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SionVerhoef/twincat-motion": {
+        "owner": "SionVerhoef",
+        "name": "twincat-motion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "m0ch1m0ch1/openshift-skills": {
+        "owner": "m0ch1m0ch1",
+        "name": "openshift-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "xhqing/TeamToolkit": {
+        "owner": "xhqing",
+        "name": "TeamToolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "OrenSegal/signal-scout": {
+        "owner": "OrenSegal",
+        "name": "signal-scout",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KonstantinStarovoytov/kitden": {
+        "owner": "KonstantinStarovoytov",
+        "name": "kitden",
+        "branch": "main",
+        "enabled": true
+    },
+    "sidrat2612/shark-tank-skill": {
+        "owner": "sidrat2612",
+        "name": "shark-tank-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adaptlypost/claude-plugin": {
+        "owner": "adaptlypost",
+        "name": "claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eduardragea/termquilt": {
+        "owner": "eduardragea",
+        "name": "termquilt",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

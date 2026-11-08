@@ -7289,5 +7289,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "sidrat2612/shark-tank-skill": {
+    "owner": "sidrat2612",
+    "name": "shark-tank-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

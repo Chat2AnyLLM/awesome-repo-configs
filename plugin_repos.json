@@ -48143,5 +48143,113 @@
     "repoOwner": "stlahxm",
     "repoName": "podium",
     "repoBranch": "main"
+  },
+  "tance-mang/chinese-webnovel-skills": {
+    "name": "tance-mang/chinese-webnovel-skills",
+    "description": "\u4e2d\u6587\u7f51\u6587\u5199\u4f5c\u5de5\u5177\u5305 \u00b7 Chinese web-novel writing toolkit (23 skills) \u2014 a Claude Code plugin, also works in ChatGPT / DeepSeek / Gemini",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tance-mang",
+    "repoName": "chinese-webnovel-skills",
+    "repoBranch": "main"
+  },
+  "dvdsosa/scientific-writing-skills": {
+    "name": "dvdsosa/scientific-writing-skills",
+    "description": "Six Claude Agent Skills for scientific writing, distilled from Stanford's Writing in the Sciences (Kristin Sainani). Edit prose, structure an IMRaD manuscript, run the writing process, handle peer review, draft grants...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dvdsosa",
+    "repoName": "scientific-writing-skills",
+    "repoBranch": "master"
+  },
+  "msolecki/developer-os": {
+    "name": "msolecki/developer-os",
+    "description": "Claude Code plugin: an Obsidian vault as the agent's long-term memory, plus engineering rules, skills, agents and safety hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "msolecki",
+    "repoName": "developer-os",
+    "repoBranch": "main"
+  },
+  "DuongVuIT/skill-theo-nganh": {
+    "name": "DuongVuIT/skill-theo-nganh",
+    "description": "\ud83e\uddf0 87 plugin Claude Code ch\u1ecdn l\u1ecdc, chia 13 nh\u00f3m ng\u00e0nh: x\u00e2y d\u1ef1ng & BIM, ph\u1ea7n m\u1ec1m, \u0111i\u1ec7n t\u1eed, design, marketing, t\u00e0i ch\u00ednh, ph\u00e1p l\u00fd, y khoa, d\u01b0\u1ee3c, qu\u1ea3n l\u00fd\u2026 M\u00f4 t\u1ea3 ti\u1ebfng Vi\u1ec7t, c\u00e0i b\u1eb1ng m\u1ed9t l\u1ec7nh.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DuongVuIT",
+    "repoName": "skill-theo-nganh",
+    "repoBranch": "main"
+  },
+  "aymardkouakou/claude-gh-skills": {
+    "name": "aymardkouakou/claude-gh-skills",
+    "description": "Claude Code skills for traceable, GitHub-driven development: issues in Projects and epics, change traceability (ISO 27001/9001/12207, ITIL, SOC 2), security and payment checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aymardkouakou",
+    "repoName": "claude-gh-skills",
+    "repoBranch": "main"
+  },
+  "qiaeru/skill-project-instructions": {
+    "name": "qiaeru/skill-project-instructions",
+    "description": "Claude Code plugin that optimizes a project's CLAUDE.md or AGENTS.md to be short, specific, and free of duplication, following Anthropic's memory and best-practice guidance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qiaeru",
+    "repoName": "skill-project-instructions",
+    "repoBranch": "main"
+  },
+  "qiaeru/skill-human-prose": {
+    "name": "qiaeru/skill-human-prose",
+    "description": "Claude Code plugin that removes AI writing tells from US-English and French prose, or flags them without rewriting, in drafts, edits, reviews, UI strings, and locale files.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qiaeru",
+    "repoName": "skill-human-prose",
+    "repoBranch": "main"
+  },
+  "decwap/video-edit": {
+    "name": "decwap/video-edit",
+    "description": "Claude Code skill: turn raw talking-head footage into a polished 9:16 reel, with a pop-out face panel, captions, B-roll and sound effects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "decwap",
+    "repoName": "video-edit",
+    "repoBranch": "main"
+  },
+  "OrenSegal/signal-scout": {
+    "name": "OrenSegal/signal-scout",
+    "description": "Claude Code skill: give it a startup's URL, get a shortlist of likely first customers, each backed by a public source it checked",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OrenSegal",
+    "repoName": "signal-scout",
+    "repoBranch": "main"
+  },
+  "KonstantinStarovoytov/kitden": {
+    "name": "KonstantinStarovoytov/kitden",
+    "description": "Your AI coding tools, under one roof. See and share the MCP servers, plugins and skills that Claude Code, Codex and Cursor load.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KonstantinStarovoytov",
+    "repoName": "kitden",
+    "repoBranch": "main"
+  },
+  "sidrat2612/shark-tank-skill": {
+    "name": "sidrat2612/shark-tank-skill",
+    "description": "Pitch your startup to an AI Shark Tank panel in Claude Code: 5 investor sub-agents grill you, make offers or go out, and score your deal. US and India panels.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sidrat2612",
+    "repoName": "shark-tank-skill",
+    "repoBranch": "main"
+  },
+  "adaptlypost/claude-plugin": {
+    "name": "adaptlypost/claude-plugin",
+    "description": "AdaptlyPost plugin for Claude Code and Hermes Agent: post to 14 social media platforms and read analytics",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adaptlypost",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
   }
 }
