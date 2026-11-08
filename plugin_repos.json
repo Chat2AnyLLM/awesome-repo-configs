@@ -48269,5 +48269,113 @@
     "repoOwner": "adaptlypost",
     "repoName": "claude-plugin",
     "repoBranch": "main"
+  },
+  "camoa/claude-skills": {
+    "name": "camoa/claude-skills",
+    "description": "Claude Code plugin marketplace: AIDA, a spec-driven, test-first development process for AI coding agents, plus plugins for Drupal contribution, code quality audits, paper testing, plugin checks, brand content and dev...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "camoa",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "GeiserX/sstack": {
+    "name": "GeiserX/sstack",
+    "description": "Skills for Claude Code and Codex: durable goal loops, parallel review, research, investigation and implementation, and research grounded in your own knowledge base",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GeiserX",
+    "repoName": "sstack",
+    "repoBranch": "main"
+  },
+  "georgesmomo/mock-interview": {
+    "name": "georgesmomo/mock-interview",
+    "description": "Realistic mock job interview for any job, run by your AI agent (Claude Code, Codex, Cursor, Gemini CLI). Live research, real follow-ups, honest score /10 and report.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "georgesmomo",
+    "repoName": "mock-interview",
+    "repoBranch": "main"
+  },
+  "rmyndharis/ydaa": {
+    "name": "rmyndharis/ydaa",
+    "description": "Yes, and don't ask again",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rmyndharis",
+    "repoName": "ydaa",
+    "repoBranch": "main"
+  },
+  "Minh42/seomatic-mcp": {
+    "name": "Minh42/seomatic-mcp",
+    "description": "SEOmatic's AI SEO agents as a hosted MCP server: Search Console, keywords, local rank tracking, Google Business Profile and AI-visibility data in Claude, ChatGPT, Gemini, Cursor or Cline, plus approval-gated fixes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Minh42",
+    "repoName": "seomatic-mcp",
+    "repoBranch": "main"
+  },
+  "georgesmomo/devops-mock-interview": {
+    "name": "georgesmomo/devops-mock-interview",
+    "description": "DevOps / SRE / platform engineer mock interview skill for AI agents: live production incidents, system design, Kubernetes, Terraform, honest score /10 and report.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "georgesmomo",
+    "repoName": "devops-mock-interview",
+    "repoBranch": "main"
+  },
+  "NatikChhabra/claude-arsenal": {
+    "name": "NatikChhabra/claude-arsenal",
+    "description": "Ten Claude Code plugins from projects I use every day: a design standard with checkers, a YouTube pipeline, video editing, study, music, legal prep and working rules with safety hooks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NatikChhabra",
+    "repoName": "claude-arsenal",
+    "repoBranch": "main"
+  },
+  "Moonwalker1307/PdfPecker.Skills": {
+    "name": "Moonwalker1307/PdfPecker.Skills",
+    "description": "Agent Skills and a Claude Code plugin that let AI agents make and check PDFs with PdfPecker: HTML or Markdown to PDF, page previews, text extraction and merging. No browser to install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Moonwalker1307",
+    "repoName": "PdfPecker.Skills",
+    "repoBranch": "main"
+  },
+  "stylusnexus/agent-plugins": {
+    "name": "stylusnexus/agent-plugins",
+    "description": "Skill packs for Claude Code and Codex, installable into ~77 agents via the Skills CLI: shipping, reviews, hardening, releases, product strategy, go-to-market. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stylusnexus",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "ramonk2o/storymaker": {
+    "name": "ramonk2o/storymaker",
+    "description": "Claude skills for creative work that plan the piece with you \u2014 what it says, what goes in, how it holds attention \u2014 before making it. Starting with presentations.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ramonk2o",
+    "repoName": "storymaker",
+    "repoBranch": "main"
+  },
+  "tarioch/llm-finetune-skills": {
+    "name": "tarioch/llm-finetune-skills",
+    "description": "Claude Code skills for fine-tuning LLMs locally: Unsloth LoRA training and Ollama packaging",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tarioch",
+    "repoName": "llm-finetune-skills",
+    "repoBranch": "main"
+  },
+  "atokim4/vibe-preflight": {
+    "name": "atokim4/vibe-preflight",
+    "description": "Agent Skill + zero-dependency scanner: 6 pre-launch security checks for Supabase + Stripe apps (RLS, service_role, NEXT_PUBLIC_ secrets, Stripe webhooks, .env in git)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "atokim4",
+    "repoName": "vibe-preflight",
+    "repoBranch": "main"
   }
 }

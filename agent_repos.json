@@ -7296,5 +7296,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "igormcsouza/gru": {
+    "owner": "igormcsouza",
+    "name": "gru",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

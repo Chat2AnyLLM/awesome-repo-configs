@@ -56230,5 +56230,117 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "camoa/claude-skills": {
+        "owner": "camoa",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "GeiserX/sstack": {
+        "owner": "GeiserX",
+        "name": "sstack",
+        "branch": "main",
+        "enabled": true
+    },
+    "shrugg0/blueprint-maker": {
+        "owner": "shrugg0",
+        "name": "blueprint-maker",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "georgesmomo/mock-interview": {
+        "owner": "georgesmomo",
+        "name": "mock-interview",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Minh42/seomatic-mcp": {
+        "owner": "Minh42",
+        "name": "seomatic-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "georgesmomo/devops-mock-interview": {
+        "owner": "georgesmomo",
+        "name": "devops-mock-interview",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ruthless-coder-ai/womenai-weekly-news": {
+        "owner": "ruthless-coder-ai",
+        "name": "womenai-weekly-news",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NatikChhabra/claude-arsenal": {
+        "owner": "NatikChhabra",
+        "name": "claude-arsenal",
+        "branch": "main",
+        "enabled": true
+    },
+    "Moonwalker1307/PdfPecker.Skills": {
+        "owner": "Moonwalker1307",
+        "name": "PdfPecker.Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "stylusnexus/agent-plugins": {
+        "owner": "stylusnexus",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "igormcsouza/gru": {
+        "owner": "igormcsouza",
+        "name": "gru",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SionVerhoef/twincat-scope": {
+        "owner": "SionVerhoef",
+        "name": "twincat-scope",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ramonk2o/storymaker": {
+        "owner": "ramonk2o",
+        "name": "storymaker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tarioch/llm-finetune-skills": {
+        "owner": "tarioch",
+        "name": "llm-finetune-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alex20-create/session-routines": {
+        "owner": "alex20-create",
+        "name": "session-routines",
+        "branch": "main",
+        "enabled": true
+    },
+    "Safiullah-Rahu/claude-video-skills": {
+        "owner": "Safiullah-Rahu",
+        "name": "claude-video-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "atokim4/vibe-preflight": {
+        "owner": "atokim4",
+        "name": "vibe-preflight",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
