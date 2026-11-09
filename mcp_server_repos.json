@@ -307,5 +307,13 @@
     "branch": "main",
     "enabled": true,
     "note": "Hosted MCP (streamable HTTP): https://api.datacircle.dev/mcp, 2 tools, no key. Find the best GTM APIs: list_apis lists them, search_plans finds their plans by API, provider or price."
+  },
+  "Frank-Masciopinto/ironheights": {
+    "owner": "Frank-Masciopinto",
+    "name": "ironheights",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.Frank-Masciopinto/ironheights",
+    "note": "Local stdio MCP (npx -y ironheights mcp). Checks an agent skill before install: A-F grade, findings, drift and threat model; reads files as data, never runs them. No key, runs locally, no telemetry. Apache-2.0. Canonical metadata is in server.json."
   }
 }

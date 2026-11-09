@@ -48485,5 +48485,14 @@
     "repoOwner": "F0rger123",
     "repoName": "ultimate-claude-code-trading-skills",
     "repoBranch": "main"
+  },
+  "Frank-Masciopinto/ironheights": {
+    "name": "ironheights",
+    "description": "Ironheights: open-source pre-install security check for agent skills and plugins. Statically scans a skill folder for pipe-to-shell installs, encoded payloads, credential reads, persistence and prompt-injection text without executing it; A-F grade plus findings. Apache-2.0, local, no telemetry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Frank-Masciopinto",
+    "repoName": "ironheights",
+    "repoBranch": "main"
   }
 }
