@@ -1,4 +1,13 @@
 {
+  "dooly6276/claude-bulkhead": {
+    "name": "Bulkhead",
+    "description": "PreToolUse hooks that keep parallel Claude Code sessions on one machine from colliding: kill-guard, port-guard, memory-guard, checkout-guard, disk-guard and orphan-reaper, plus bulkhead scan to replay past transcripts. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dooly6276",
+    "repoName": "claude-bulkhead",
+    "repoBranch": "main"
+  },
   "Hyde-and-Larkin/product-marketing-toolkit": {
     "name": "Product Marketing Toolkit",
     "description": "Product marketing skills for AI agents: competitive intel, positioning review, claims audit, launch readiness, enablement, messaging, battlecards and discovery. CC-BY-4.0.",
