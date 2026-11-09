@@ -48502,7 +48502,6 @@
     "type": "marketplace",
     "repoOwner": "zhanggangyi1224",
     "repoName": "legwise",
-    "repoBranch": "main",
-    "pluginPath": "plugins/legwise"
+    "repoBranch": "main"
   }
 }
