@@ -1,4 +1,13 @@
 {
+  "hinty-eu/smart-glasses-skills": {
+    "name": "Smart Glasses Skills",
+    "description": "Agent skills for building apps on smart glasses across brands: Even Realities G2, Meta Ray-Ban Display, Rokid, Vuzix Z100, audio-only glasses and USB-C display glasses. Choosing a target, text on each display, input, audio, live captions, testing without hardware and publishing. Apache-2.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hinty-eu",
+    "repoName": "smart-glasses-skills",
+    "repoBranch": "main"
+  },
   "dooly6276/claude-bulkhead": {
     "name": "Bulkhead",
     "description": "PreToolUse hooks that keep parallel Claude Code sessions on one machine from colliding: kill-guard, port-guard, memory-guard, checkout-guard, disk-guard and orphan-reaper, plus bulkhead scan to replay past transcripts. MIT.",
