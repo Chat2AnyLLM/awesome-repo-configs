@@ -56466,5 +56466,105 @@
         "branch": "main",
         "skillsPath": "plugins/legwise/skills",
         "enabled": true
+    },
+    "pqthangv/AutoInternshipClaude": {
+        "owner": "pqthangv",
+        "name": "AutoInternshipClaude",
+        "branch": "main",
+        "enabled": true
+    },
+    "efoltyn/market-search": {
+        "owner": "efoltyn",
+        "name": "market-search",
+        "branch": "main",
+        "enabled": true
+    },
+    "abhimanyusingh-gh/Arkon": {
+        "owner": "abhimanyusingh-gh",
+        "name": "Arkon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kan1z0rofficial/ai-job-finder-skill": {
+        "owner": "kan1z0rofficial",
+        "name": "ai-job-finder-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mategog/dev-team": {
+        "owner": "mategog",
+        "name": "dev-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "provenwork/nobluff": {
+        "owner": "provenwork",
+        "name": "nobluff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexandre-darmon/ai-pm-skills": {
+        "owner": "alexandre-darmon",
+        "name": "ai-pm-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chindris-mihai-alexandru/cv-witness": {
+        "owner": "chindris-mihai-alexandru",
+        "name": "cv-witness",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "macek166/synproof-syntropy": {
+        "owner": "macek166",
+        "name": "synproof-syntropy",
+        "branch": "main",
+        "enabled": true
+    },
+    "filipwojda/regards-skill": {
+        "owner": "filipwojda",
+        "name": "regards-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EllenSyuu/JobVeyra": {
+        "owner": "EllenSyuu",
+        "name": "JobVeyra",
+        "branch": "main",
+        "enabled": true
+    },
+    "evrenverse/agent-skills": {
+        "owner": "evrenverse",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LLM-preneur/skills": {
+        "owner": "LLM-preneur",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "xycu/agent-smith": {
+        "owner": "xycu",
+        "name": "agent-smith",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "yftzeng/ant-peer-review-skill": {
+        "owner": "yftzeng",
+        "name": "ant-peer-review-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

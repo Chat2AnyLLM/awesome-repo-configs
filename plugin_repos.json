@@ -48503,5 +48503,122 @@
     "repoOwner": "zhanggangyi1224",
     "repoName": "legwise",
     "repoBranch": "main"
+  },
+  "efoltyn/market-search": {
+    "name": "efoltyn/market-search",
+    "description": "Live markets for your AI: Kalshi + Polymarket odds, stocks, options, bonds, FRED, SEC filings and central banks on one timeseries axis. Local Rust MCP server, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "efoltyn",
+    "repoName": "market-search",
+    "repoBranch": "main"
+  },
+  "abhimanyusingh-gh/Arkon": {
+    "name": "abhimanyusingh-gh/Arkon",
+    "description": "Evidence-backed engineering standards for Claude Code \u2014 every rule graded against real PR review findings, including the claims the data disproved.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abhimanyusingh-gh",
+    "repoName": "Arkon",
+    "repoBranch": "main"
+  },
+  "kan1z0rofficial/ai-job-finder-skill": {
+    "name": "kan1z0rofficial/ai-job-finder-skill",
+    "description": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u044b\u0439 AI-\u0441\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u0440\u0430\u0431\u043e\u0442\u044b: \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0438 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443, \u043e\u043f\u044b\u0442\u0443 \u0438 \u0444\u043e\u0440\u043c\u0430\u0442\u0443 (\u043e\u0444\u0438\u0441/\u0443\u0434\u0430\u043b\u0451\u043d\u043a\u0430/\u0432\u0430\u0445\u0442\u0430). \u0420\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 Claude, GPT, Codex, OpenClaw \u0438 \u0442.\u0434",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kan1z0rofficial",
+    "repoName": "ai-job-finder-skill",
+    "repoBranch": "main"
+  },
+  "mategog/dev-team": {
+    "name": "mategog/dev-team",
+    "description": "Claude Code plugin: an AI dev team of 9 subagents (product, design, frontend, backend, QA, code review, marketing, finance)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mategog",
+    "repoName": "dev-team",
+    "repoBranch": "main"
+  },
+  "provenwork/nobluff": {
+    "name": "provenwork/nobluff",
+    "description": "Your coding agent stops saying \"done\" until it's proven. Skill pack for Claude Code, Codex and Cursor (formerly Procureur).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "provenwork",
+    "repoName": "nobluff",
+    "repoBranch": "main"
+  },
+  "alexandre-darmon/ai-pm-skills": {
+    "name": "alexandre-darmon/ai-pm-skills",
+    "description": "Evals as evidence: tested Agent Skills for AI product managers in regulated companies",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexandre-darmon",
+    "repoName": "ai-pm-skills",
+    "repoBranch": "main"
+  },
+  "chindris-mihai-alexandru/cv-witness": {
+    "name": "chindris-mihai-alexandru/cv-witness",
+    "description": "Agent skill for drafting and reviewing CVs from verified experience. Candidate-led wording, phrase-overlap review and local PDF tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chindris-mihai-alexandru",
+    "repoName": "cv-witness",
+    "repoBranch": "main"
+  },
+  "filipwojda/regards-skill": {
+    "name": "filipwojda/regards-skill",
+    "description": "Art direction for coding agents from live research on regards.design: real website sections searched for each brief, with what each one gives. A fork of tasteskill v2 (MIT).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "filipwojda",
+    "repoName": "regards-skill",
+    "repoBranch": "main"
+  },
+  "EllenSyuu/JobVeyra": {
+    "name": "EllenSyuu/JobVeyra",
+    "description": "Open-source job-search engine: discover roles in the regions you choose, score each with evidence, prepare honest applications, submit only what you approve, and learn from the outcomes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EllenSyuu",
+    "repoName": "JobVeyra",
+    "repoBranch": "main"
+  },
+  "evrenverse/agent-skills": {
+    "name": "evrenverse/agent-skills",
+    "description": "Claude Code and Codex plugin for working with paseo agents: handoff, spawn, takeover, second opinions, run profiling.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "evrenverse",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "Hadeva-Dev/dawnmere": {
+    "name": "Hadeva-Dev/dawnmere",
+    "description": "Tell one AI, they all know: one memory on your Mac, shared by Claude Code, Codex and Cursor over MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hadeva-Dev",
+    "repoName": "dawnmere",
+    "repoBranch": "main"
+  },
+  "LLM-preneur/skills": {
+    "name": "LLM-preneur/skills",
+    "description": "Agent skills, Claude Code plugins and MCP servers for Vela Partners' apps. ArtifactSend: share docs, decks, HTML and Claude artifacts as tracked links and data rooms.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LLM-preneur",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "xycu/agent-smith": {
+    "name": "xycu/agent-smith",
+    "description": "Agent orchestrating AI SDLC workflows (10xDevs + OpenSpec)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xycu",
+    "repoName": "agent-smith",
+    "repoBranch": "main"
   }
 }
