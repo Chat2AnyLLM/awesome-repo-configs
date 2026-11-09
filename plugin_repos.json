@@ -48494,5 +48494,14 @@
     "repoOwner": "Frank-Masciopinto",
     "repoName": "ironheights",
     "repoBranch": "main"
+  },
+  "zhanggangyi1224/legwise": {
+    "name": "legwise",
+    "description": "Legwise: plan, check and repair multi-day road trips. Multiple-choice intake, OpenStreetMap road distances, a deterministic checker for sunset, fuel range, opening hours and bookings, and PDF or Markdown reports. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zhanggangyi1224",
+    "repoName": "legwise",
+    "repoBranch": "main"
   }
 }
