@@ -56459,5 +56459,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "mesmerlord/admakeai-agent-skills": {
+        "owner": "mesmerlord",
+        "name": "admakeai-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -48494,5 +48494,14 @@
     "repoOwner": "Frank-Masciopinto",
     "repoName": "ironheights",
     "repoBranch": "main"
+  },
+  "mesmerlord/admakeai-claude-plugin": {
+    "name": "admakeai-claude-plugin",
+    "description": "AdMakeAI: an ad creative skill and AdMakeAI's hosted MCP server for designing Meta ad images and copy, UGC-style video ads, researching competitors' live ads in the Meta Ad Library, and drafting and reporting on Meta campaigns. 30 free credits at signup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mesmerlord",
+    "repoName": "admakeai-claude-plugin",
+    "repoBranch": "main"
   }
 }
