@@ -7303,5 +7303,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "wraith-proxy/wraith-skills": {
+    "owner": "wraith-proxy",
+    "name": "wraith-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "paavu/flowdeck-mod": {
+    "owner": "paavu",
+    "name": "flowdeck-mod",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "KaterinaLupacheva/skills": {
+    "owner": "KaterinaLupacheva",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

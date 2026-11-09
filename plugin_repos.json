@@ -48386,5 +48386,104 @@
     "repoOwner": "atokim4",
     "repoName": "vibe-preflight",
     "repoBranch": "main"
+  },
+  "AbdulrahmanMasoud/comprende": {
+    "name": "AbdulrahmanMasoud/comprende",
+    "description": "AI writes the code. Comprende makes sure you understand it",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AbdulrahmanMasoud",
+    "repoName": "comprende",
+    "repoBranch": "main"
+  },
+  "erkamyaman/jev-enforce": {
+    "name": "erkamyaman/jev-enforce",
+    "description": "\ud83d\udccf Claude Code plugin that makes Claude follow your AGENTS.md: every reply and edit checked by TypeSafe Jev \u2705",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erkamyaman",
+    "repoName": "jev-enforce",
+    "repoBranch": "main"
+  },
+  "aoreshkov/oracle-forms-mcp": {
+    "name": "aoreshkov/oracle-forms-mcp",
+    "description": "MCP server that exposes Oracle Forms modules (.fmb/.mmb/.pll/.olb) \u2014 blocks, triggers, PL/SQL, object XML \u2014 to AI assistants for legacy modernization and code review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aoreshkov",
+    "repoName": "oracle-forms-mcp",
+    "repoBranch": "main"
+  },
+  "SimakovIgor/pixel-buddy": {
+    "name": "SimakovIgor/pixel-buddy",
+    "description": "\ud83d\udc23 A pixel pet for Claude Code: it lives in your footer, eats what your work drops, levels up and earns rare trophies. Ship code, feed your buddy.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SimakovIgor",
+    "repoName": "pixel-buddy",
+    "repoBranch": "main"
+  },
+  "hany202507/finance-ai-skills": {
+    "name": "hany202507/finance-ai-skills",
+    "description": "\ud55c\uad6d \ud68c\uacc4\uc0ac \u00b7 \uc138\ubb34\uc0ac\uc6a9 Claude Code \uc2a4\ud0ac(\uc624\ud508\uc18c\uc2a4). \ubc95\uc778\uc138 \u00b7 \ubd80\uac00\uc138 \u00b7 \uc591\ub3c4\uc18c\ub4dd\uc138 \u00b7 \uc6d0\ucc9c\uc138 \uc2e0\uace0 \uac80\ud1a0, \ud604\uae08\ud750\ub984\ud45c \u00b7 \ub9ac\uc2a4 \u00b7 \uacb0\uc0b0, \uc678\ubd80\uac10\uc0ac JET \u00b7 DART DSD \ud478\ud305. Claude Code skills for Korean accounting, tax and audit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hany202507",
+    "repoName": "finance-ai-skills",
+    "repoBranch": "main"
+  },
+  "wraith-proxy/wraith-skills": {
+    "name": "wraith-proxy/wraith-skills",
+    "description": "Agents don't hesitate before prod. wraith is the ghost that does. Skills and agents for data and infrastructure engineering on GCP: dbt, BigQuery, Cloud Run, Terraform, ODCS data contracts and ontologies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wraith-proxy",
+    "repoName": "wraith-skills",
+    "repoBranch": "main"
+  },
+  "binay-py/claude-skills": {
+    "name": "binay-py/claude-skills",
+    "description": "22 tested Claude Code skills: audit leaked secrets, undo shell commands, sandbox, block hallucinated packages, cut token usage, QA and deploy websites, package itch.io games, write proposals, make thumbnails.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "binay-py",
+    "repoName": "claude-skills",
+    "repoBranch": "master"
+  },
+  "v1nvn/agentic": {
+    "name": "v1nvn/agentic",
+    "description": "Claude Code plugins: work tracking, statusline lab, token-usage panes, GLM quota, readability + local-LLM MCP servers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "v1nvn",
+    "repoName": "agentic",
+    "repoBranch": "main"
+  },
+  "paavu/flowdeck-mod": {
+    "name": "paavu/flowdeck-mod",
+    "description": "Claude mod: orchestrate subagents, route each task to the right model, and keep a live record of every task, cost and handoff note.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paavu",
+    "repoName": "flowdeck-mod",
+    "repoBranch": "main"
+  },
+  "ji-hun-git/how-to-use-ai": {
+    "name": "ji-hun-git/how-to-use-ai",
+    "description": "Stop AI from misunderstanding you, skipping things, making things up and just agreeing. Evidence-based guide, 10 tested Agent Skills and drop-in rules for Claude Code, Codex, Cursor, Copilot and chat apps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ji-hun-git",
+    "repoName": "how-to-use-ai",
+    "repoBranch": "main"
+  },
+  "F0rger123/ultimate-claude-code-trading-skills": {
+    "name": "F0rger123/ultimate-claude-code-trading-skills",
+    "description": "Claude Code skills + a zero-install Python engine for honest crypto perp trading: walk-forward backtests with real costs, forward/paper testing, a promotion ladder, self-learning, always-on guardrails, gated live trad...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "F0rger123",
+    "repoName": "ultimate-claude-code-trading-skills",
+    "repoBranch": "main"
   }
 }

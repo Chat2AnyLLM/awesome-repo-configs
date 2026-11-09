@@ -56342,5 +56342,122 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "AbdulrahmanMasoud/comprende": {
+        "owner": "AbdulrahmanMasoud",
+        "name": "comprende",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aoreshkov/oracle-forms-mcp": {
+        "owner": "aoreshkov",
+        "name": "oracle-forms-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "hany202507/finance-ai-skills": {
+        "owner": "hany202507",
+        "name": "finance-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yihouzenmeban/trail-running-pace": {
+        "owner": "yihouzenmeban",
+        "name": "trail-running-pace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ariana-dot-dev/cloud-sandbox-vm-skills": {
+        "owner": "ariana-dot-dev",
+        "name": "cloud-sandbox-vm-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wraith-proxy/wraith-skills": {
+        "owner": "wraith-proxy",
+        "name": "wraith-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "laghab/claude-job-hunt": {
+        "owner": "laghab",
+        "name": "claude-job-hunt",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "binay-py/claude-skills": {
+        "owner": "binay-py",
+        "name": "claude-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-hot-title-creation": {
+        "owner": "why20261",
+        "name": "douyin-hot-title-creation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "v1nvn/agentic": {
+        "owner": "v1nvn",
+        "name": "agentic",
+        "branch": "main",
+        "enabled": true
+    },
+    "paavu/flowdeck-mod": {
+        "owner": "paavu",
+        "name": "flowdeck-mod",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "w-avw/youtube-transcript-skill": {
+        "owner": "w-avw",
+        "name": "youtube-transcript-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "georgebnov/sendable": {
+        "owner": "georgebnov",
+        "name": "sendable",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wuxutian2-bot/douyin-downloader": {
+        "owner": "wuxutian2-bot",
+        "name": "douyin-downloader",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ji-hun-git/how-to-use-ai": {
+        "owner": "ji-hun-git",
+        "name": "how-to-use-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "KaterinaLupacheva/skills": {
+        "owner": "KaterinaLupacheva",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "F0rger123/ultimate-claude-code-trading-skills": {
+        "owner": "F0rger123",
+        "name": "ultimate-claude-code-trading-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
