@@ -11208,8 +11208,8 @@
     "repoBranch": "main"
   },
   "jpantsjoha/ai-native-developer-experience": {
-    "name": "join-the-team",
-    "description": "Team operating model for hybrid human+AI delivery with drift-checked authority, risk, evidence, review, and completion guardrails.",
+    "name": "devex-charter",
+    "description": "DevEx Charter (formerly join-the-team): one delivery contract for humans and AI agents, with drift-checked authority, risk, evidence, review, and completion guardrails.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "jpantsjoha",
