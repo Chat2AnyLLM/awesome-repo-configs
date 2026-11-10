@@ -2,7 +2,7 @@
 
 Please do not update `README.md` directly to add a repo entry.
 
-`awesome-repo-configs` is the **single source of truth** for the Chat2AnyLLM `awesome-*` family. All downstream aggregators (`awesome-claude-agents`, `awesome-claude-plugins`, `awesome-claude-skills`, `awesome-prompts`, `awesome-mcp-servers`) read their repo lists from this repo's JSON files.
+`awesome-repo-configs` is the central configuration hub for the Chat2AnyLLM `awesome-*` family. The Claude catalog generators consume their repo lists here; the prompt and MCP configurations are indices for external tooling.
 
 To submit a valid config update for https://github.com/Chat2AnyLLM/awesome-repo-configs, update the appropriate JSON file instead:
 
@@ -11,7 +11,8 @@ To submit a valid config update for https://github.com/Chat2AnyLLM/awesome-repo-
 - `skill_repos.json` — Claude Code skills (repos with `SKILL.md` layouts)
 - `instruction_repos.json` — Instruction / docs repos consumed by code-agent-manager (e.g. `anthropics/claude-code`)
 - `prompt_repos.json` — Prompt collections consumed by `awesome-prompts` (e.g. `Chat2AnyLLM/awesome-prompts` `dist/prompts.json`)
-- `mcp_server_repos.json` — MCP server source repos consumed by `awesome-mcp-servers`
+- `mcp_server_repos.json` — MCP server source repository index for external tooling
+- `related_lists.json` — related lists and directories shown by `awesome-claude-skills`
 
 Before opening or updating your pull request:
 
@@ -32,7 +33,18 @@ Before opening or updating your pull request:
    - `plugin_repos.json`: uses `repoOwner`/`repoName`/`repoBranch` instead of `owner`/`name`/`branch`, plus `type`, `description`, `pluginPath`, `aliases`, `catalogFile`
    - `skill_repos.json`: `skillsPath`, `catalogFile`
    - `instruction_repos.json`, `prompt_repos.json`: `catalogFile`
-   - `mcp_server_repos.json`: `serverName`, `subPath`, `note`
+    - `mcp_server_repos.json`: `serverName`, `subPath`, `note`
+   Related lists use a separate schema and can point to websites as well as repositories:
+   ```json
+   {
+     "example": {
+       "name": "Example",
+       "url": "https://example.com",
+       "description": "A related directory.",
+       "enabled": true
+     }
+   }
+   ```
 3. Run:
 
    ```bash

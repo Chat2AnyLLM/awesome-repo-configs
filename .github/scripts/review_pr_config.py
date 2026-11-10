@@ -16,6 +16,7 @@ CONFIG_FILES = {
     "instruction_repos.json": "instruction",
     "prompt_repos.json": "prompt",
     "mcp_server_repos.json": "mcp_server",
+    "related_lists.json": "related_list",
 }
 COMMENT_MARKER = "<!-- awesome-repo-configs-pr-review -->"
 API_URL = os.environ.get("GITHUB_API_URL", "https://api.github.com")
@@ -80,6 +81,23 @@ def validate_entry_schema(config_file, key, entry):
 
     if not isinstance(entry, dict):
         return [f"`{key}` must be an object."], warnings
+
+    if kind == "related_list":
+        for field in ("name", "url", "description"):
+            if not isinstance(entry.get(field), str) or not entry[field].strip():
+                errors.append(f"`{key}.{field}` must be a non-empty string.")
+        url = entry.get("url")
+        if isinstance(url, str) and url.strip():
+            try:
+                parsed = urllib.parse.urlsplit(url)
+                valid_url = parsed.scheme in {"http", "https"} and bool(parsed.hostname)
+            except ValueError:
+                valid_url = False
+            if not valid_url:
+                errors.append(f"`{key}.url` must be an HTTP(S) URL.")
+        if not isinstance(entry.get("enabled"), bool):
+            errors.append(f"`{key}.enabled` must be a boolean.")
+        return errors, warnings
 
     if kind == "plugin":
         required_strings = ["name", "description", "type", "repoOwner", "repoName"]
@@ -387,6 +405,10 @@ def review_pull_request(repository, pr_number, token):
             errors.extend(f"`{config_file}` {error}" for error in schema_errors)
             warnings.extend(f"`{config_file}` {warning}" for warning in schema_warnings)
             if schema_errors:
+                continue
+
+            # Related links can point to websites, not only GitHub repositories.
+            if CONFIG_FILES[config_file] == "related_list":
                 continue
 
             owner, repo_name, branch = entry_repo_fields(config_file, entry)

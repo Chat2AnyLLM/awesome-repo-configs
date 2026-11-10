@@ -1,4 +1,162 @@
 {
+  "emirmrkaljevic/behave": {
+    "owner": "emirmrkaljevic",
+    "name": "behave",
+    "branch": "main",
+    "enabled": true,
+    "note": "Go CLI and MCP server for recording CLI behavior as golden tests and comparing implementations. MIT."
+  },
+  "jobspipe/mcp": {
+    "owner": "jobspipe",
+    "name": "mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "dev.jobspipe/mcp",
+    "note": "Hosted job-posting search from ATS feeds and job boards: https://mcp.jobspipe.dev/mcp. Supports OAuth or an API key."
+  },
+  "vaneform/vaneform-mcp": {
+    "owner": "vaneform",
+    "name": "vaneform-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.jiangqizheng/vaneform-mcp",
+    "note": "Hosted website traffic analytics MCP: https://vaneform.com/mcp. The registry metadata specifies an API key; hosted service is proprietary."
+  },
+  "SudoAI-App/statorigin-mcp": {
+    "owner": "SudoAI-App",
+    "name": "statorigin-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "org.statorigin/statorigin",
+    "note": "Read-only hosted search of sourced industry statistics: https://statorigin.org/mcp. No authentication. Repository contains documentation and registry metadata, not the hosted server implementation."
+  },
+  "GeminiGeorge22/gov-tenders-mcp": {
+    "owner": "GeminiGeorge22",
+    "name": "gov-tenders-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.GeminiGeorge22/gov-tenders-mcp",
+    "note": "Local stdio MCP for public-sector tenders, grants, awards and council meetings; forwards to hosted Apify tools and requires an Apify token. MIT."
+  },
+  "GeminiGeorge22/ats-jobs-mcp": {
+    "owner": "GeminiGeorge22",
+    "name": "ats-jobs-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.GeminiGeorge22/ats-jobs-mcp",
+    "note": "Local stdio MCP for job postings from Ashby, Greenhouse, Lever and SmartRecruiters; forwards to hosted Apify tools and requires an Apify token. MIT."
+  },
+  "GeminiGeorge22/etsy-sales-mcp": {
+    "owner": "GeminiGeorge22",
+    "name": "etsy-sales-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.GeminiGeorge22/etsy-sales-mcp",
+    "note": "Local stdio MCP for Etsy search and shop sales data; forwards to hosted Apify tools and requires an Apify token. MIT."
+  },
+  "seifip/kilobat-cli": {
+    "owner": "seifip",
+    "name": "kilobat-cli",
+    "branch": "main",
+    "enabled": true,
+    "note": "Local stdio MCP for macOS network diagnostics. Requires macOS 14+; some Wi-Fi data also requires permissions and a separate proprietary app. GPL-3.0-only."
+  },
+  "GeminiGeorge22/sports-odds-mcp": {
+    "owner": "GeminiGeorge22",
+    "name": "sports-odds-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.GeminiGeorge22/sports-odds-api",
+    "note": "Hosted sports odds MCP via Apify: https://mcp.apify.com?tools=publicrecords/sports-odds-api. Uses Apify OAuth or a token; repository contains client documentation and registry metadata."
+  },
+  "kasovy/neverapply-mcp": {
+    "owner": "kasovy",
+    "name": "neverapply-mcp",
+    "branch": "main",
+    "enabled": true,
+    "note": "Hosted job-search and application MCP: https://neverapply.co/mcp. OAuth 2.1; application actions require user approval. Repository contains client plugin manifests and skills."
+  },
+  "nuanu-ai/agent-payment-node": {
+    "owner": "nuanu-ai",
+    "name": "agent-payment-node",
+    "branch": "main",
+    "enabled": true,
+    "note": "Local macOS Apple Silicon CLI and stdio MCP payment runtime with x402 support. Signing requires foreground owner approval; network and third-party fees may apply. MIT."
+  },
+  "yumaheymans/carejobs-mcp": {
+    "owner": "yumaheymans",
+    "name": "carejobs-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "now.carejobs/healthcare-jobs",
+    "note": "Read-only hosted MCP for US healthcare job postings and employer-posted pay: https://carejobs.now/api/mcp. No API key; public repository is MIT."
+  },
+  "blockvectra/mcp": {
+    "owner": "blockvectra",
+    "name": "mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.blockvectra/docs",
+    "note": "Public client configuration and documentation for BlockVectra's hosted MCP. Endpoint: https://docs.blockvectra.com/mcp. Some account and data tools require an API key; send_raw_transaction can broadcast signed transactions."
+  },
+  "loootai/looot-mcp": {
+    "owner": "loootai",
+    "name": "looot-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ai.looot/looot",
+    "note": "Hosted business-data and enrichment MCP: https://api.looot.ai/mcp. OAuth or API key; prepaid pay-per-call service without a free tier."
+  },
+  "estevecastells/invokely-mcp-connector": {
+    "owner": "estevecastells",
+    "name": "invokely-mcp-connector",
+    "branch": "main",
+    "enabled": true,
+    "note": "Local Node.js stdio adapter for Invokely's hosted statistics MCP. MIT applies to the connector, not the hosted backend; an API key is optional for trial access."
+  },
+  "lognorm/lognorm-mcp": {
+    "owner": "lognorm",
+    "name": "lognorm-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.lognorm/lognorm",
+    "note": "Hosted SEO and AI-visibility MCP: https://lognorm.com/api/mcp. Requires an account and OAuth; hosted service is proprietary, while the public documentation and skill repository is MIT."
+  },
+  "Aident-AI/aident-skill": {
+    "owner": "Aident-AI",
+    "name": "aident-skill",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ai.aident/loadout",
+    "subPath": "mcp-registry",
+    "note": "Aident Loadout connects agents to apps and actions through a hosted MCP: https://loadout.aident.ai/mcp. Registry metadata is in mcp-registry/server.json."
+  },
+  "commentkeyword/agent-toolkit": {
+    "owner": "commentkeyword",
+    "name": "agent-toolkit",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.commentkeyword/mcp",
+    "subPath": "server",
+    "note": "Dependency-free Node stdio MCP server for CommentKeyword: create and manage Instagram comment-to-DM keyword automations (create_keyword, update_keyword, list_keywords, get_keyword, delete_keyword, list_agents). Install pinned: npx -y github:commentkeyword/agent-toolkit#v0.2.0; MCPB bundle in release v0.2.0, in the official MCP Registry. Needs a CommentKeyword API token. MIT."
+  },
+  "NicksAdvisory/lintelly-hr-deutschland": {
+    "owner": "NicksAdvisory",
+    "name": "lintelly-hr-deutschland",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.lintelly/hr-deutschland",
+    "subPath": "packages/mcp",
+    "note": "TypeScript MCP server for German employment law (38 read-only tools, calculation and official source in every answer). Remote https://hr.lintelly.com/mcp (Streamable HTTP, no auth), npm @lintelly/hr-deutschland, in the official MCP Registry. MIT."
+  },
+  "DarkWorldCoder/market-mirror": {
+    "owner": "DarkWorldCoder",
+    "name": "market-mirror",
+    "branch": "main",
+    "enabled": true,
+    "subPath": "plugin/skills/market-mirror/scripts",
+    "note": "Local stdio MCP server (Python) that tests ads, prices, emails and sales pitches on simulated buyers and returns a go / iterate / no-go report. Not in the official MCP registry yet. AGPL-3.0."
+  },
   "contextstream/mcp-server": {
     "owner": "contextstream",
     "name": "mcp-server",
@@ -243,5 +401,51 @@
     "enabled": true,
     "serverName": "io.github.daniel3303/equibles",
     "note": "Stock market and financial data for AI agents: SEC filings, financial statements, earnings call transcripts, insider and congressional trades, 13F holdings, options and macro data. Hosted MCP: https://mcp.equibles.com/mcp (Streamable HTTP, OAuth or API key, needs an Equibles account, free plan of 100 requests a day). Canonical metadata is in server.json. Docs: https://equibles.com/docs/mcp"
+  },
+  "jack-reson8/toolkb-mcp": {
+    "owner": "jack-reson8",
+    "name": "toolkb-mcp",
+    "branch": "main",
+    "enabled": true,
+    "note": "Local MCP server (npx, stdio) that turns links into clean Markdown: web pages, YouTube transcripts and playlists, App Store reviews. No API key, no account."
+  },
+  "tubeagentkit/youtube-mcp": {
+    "owner": "tubeagentkit",
+    "name": "youtube-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.getyoutubetranscript/youtube-transcript-and-youtube-search",
+    "note": "Hosted MCP (streamable HTTP): https://getyoutubetranscript.com/api/mcp. Needs an OAuth sign-in or an API key. YouTube transcripts with timestamps, caption languages, YouTube and in-channel search, channel and playlist video lists. MIT. Canonical metadata is in server.json."
+  },
+  "azmartone67/dchub-mcp-server": {
+    "owner": "azmartone67",
+    "name": "dchub-mcp-server",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "cloud.dchub/mcp-server",
+    "note": "Hosted MCP (streamable HTTP): https://dchub.cloud/mcp, 94 tools. Live data center, power grid, energy and fiber data for data-center site selection, with an as-of timestamp and citation line on answers. Free tier needs no key. MIT. Canonical metadata is in server.json."
+  },
+  "robinfaraj/postel-mcp": {
+    "owner": "robinfaraj",
+    "name": "postel-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "app.postel/postel",
+    "note": "Hosted MCP (streamable HTTP): https://www.postel.app/api/mcp, 17 tools, OAuth 2.1 or API key. Find posts going viral in your niche, write your version in your own voice, and schedule it to X, LinkedIn, Bluesky and Mastodon. Viral post research works without an account. Canonical metadata is in server.json."
+  },
+  "waynehamadi/datacircle": {
+    "owner": "waynehamadi",
+    "name": "datacircle",
+    "branch": "main",
+    "enabled": true,
+    "note": "Hosted MCP (streamable HTTP): https://api.datacircle.dev/mcp, 2 tools, no key. Find the best GTM APIs: list_apis lists them, search_plans finds their plans by API, provider or price."
+  },
+  "Frank-Masciopinto/ironheights": {
+    "owner": "Frank-Masciopinto",
+    "name": "ironheights",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.Frank-Masciopinto/ironheights",
+    "note": "Local stdio MCP (npx -y ironheights mcp). Checks an agent skill before install: A-F grade, findings, drift and threat model; reads files as data, never runs them. No key, runs locally, no telemetry. Apache-2.0. Canonical metadata is in server.json."
   }
 }
