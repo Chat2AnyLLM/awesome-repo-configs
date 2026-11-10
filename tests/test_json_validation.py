@@ -10,11 +10,19 @@ import json
 import sys
 from pathlib import Path
 
+def reject_duplicate_keys(pairs):
+    result = {}
+    for key, value in pairs:
+        if key in result:
+            raise ValueError(f"duplicate key: {key}")
+        result[key] = value
+    return result
+
 def validate_json_file(file_path):
     """Validate JSON syntax and return parsed data"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+            data = json.load(f, object_pairs_hook=reject_duplicate_keys)
         return True, data, None
     except json.JSONDecodeError as e:
         return False, None, f"JSON syntax error: {e}"
@@ -43,7 +51,8 @@ def main():
         'skill_repos.json',
         'instruction_repos.json',
         'prompt_repos.json',
-        'mcp_server_repos.json'
+        'mcp_server_repos.json',
+        'related_lists.json'
     ]
 
     all_valid = True

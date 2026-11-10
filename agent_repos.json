@@ -7324,5 +7324,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mategog/dev-team": {
+    "owner": "mategog",
+    "name": "dev-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "xycu/agent-smith": {
+    "owner": "xycu",
+    "name": "agent-smith",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

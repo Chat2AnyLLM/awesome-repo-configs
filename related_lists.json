@@ -1,0 +1,20 @@
+{
+  "awesome-claude-code-hooks": {
+    "name": "loqimean/awesome-claude-code-hooks",
+    "url": "https://github.com/loqimean/awesome-claude-code-hooks",
+    "description": "Curated list of Claude Code hooks for extending and automating Claude Code workflows.",
+    "enabled": true
+  },
+  "awesome-ai-agents": {
+    "name": "ianwieds/awesome-ai-agents",
+    "url": "https://github.com/ianwieds/awesome-ai-agents",
+    "description": "Curated list of AI agent frameworks, coding agents, browser agents, tools and platforms.",
+    "enabled": true
+  },
+  "agenthub": {
+    "name": "AgentHub",
+    "url": "https://myagenthub.cn",
+    "description": "Chinese directory of MCP servers and agent skills with one-click install for Cursor, Claude Code, VS Code and Trae.",
+    "enabled": true
+  }
+}

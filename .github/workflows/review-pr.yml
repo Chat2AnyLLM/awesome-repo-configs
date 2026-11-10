@@ -8,6 +8,7 @@ on:
       - 'plugin_repos.json'
       - 'skill_repos.json'
       - 'mcp_server_repos.json'
+      - 'related_lists.json'
       - '.github/scripts/review_pr_config.py'
   workflow_dispatch:
     inputs:
