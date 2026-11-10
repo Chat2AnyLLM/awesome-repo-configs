@@ -56699,5 +56699,11 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "korey2028-prog/resume-claim-guard": {
+        "owner": "korey2028-prog",
+        "name": "resume-claim-guard",
+        "branch": "main",
+        "enabled": true
     }
 }
