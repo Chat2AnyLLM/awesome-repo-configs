@@ -1,4 +1,13 @@
 {
+  "mesmerlord/admakeai-claude-plugin": {
+    "name": "admakeai-claude-plugin",
+    "description": "AdMakeAI: an ad creative skill and AdMakeAI's hosted MCP server for designing Meta ad images and copy, UGC-style video ads, researching competitors' live ads in the Meta Ad Library, and drafting and reporting on Meta campaigns. 30 free credits at signup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mesmerlord",
+    "repoName": "admakeai-claude-plugin",
+    "repoBranch": "main"
+  },
   "hinty-eu/smart-glasses-skills": {
     "name": "Smart Glasses Skills",
     "description": "Agent skills for building apps on smart glasses across brands: Even Realities G2, Meta Ray-Ban Display, Rokid, Vuzix Z100, audio-only glasses and USB-C display glasses. Choosing a target, text on each display, input, audio, live captions, testing without hardware and publishing. Apache-2.0.",

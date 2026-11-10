@@ -1,4 +1,11 @@
 {
+    "mesmerlord/admakeai-agent-skills": {
+        "owner": "mesmerlord",
+        "name": "admakeai-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "hinty-eu/smart-glasses-skills": {
         "owner": "hinty-eu",
         "name": "smart-glasses-skills",
