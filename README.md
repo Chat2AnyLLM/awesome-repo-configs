@@ -10,6 +10,7 @@ Central configuration hub for the **Chat2AnyLLM `awesome-*` family**. This repo 
 | `instruction_repos.json` | `code-agent-manager` | Instruction / docs repos |
 | `prompt_repos.json` | `code-agent-manager` | Pointer to the canonical prompt collection (`Chat2AnyLLM/awesome-prompts` `dist/prompts.json`) |
 | `mcp_server_repos.json` | external tooling / discovery | Registry index of MCP server source repos derived from `awesome-mcp-servers` |
+| `related_lists.json` | `awesome-claude-skills` | Related lists and directories shown in the skills catalog |
 
 Downstream Claude-Code repos (`awesome-claude-{agents,plugins,skills}`) pull these JSON files directly from `main` via raw.githubusercontent.com and treat this repo as their **only** source. A push to `main` here fan-out-dispatches a `config-updated` event to each of those repos so they regenerate their README / aggregate output.
 

@@ -6211,5 +6211,1132 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kennedykjj/shipfloor": {
+    "owner": "kennedykjj",
+    "name": "shipfloor",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "nourhelmi/crew": {
+    "owner": "nourhelmi",
+    "name": "crew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Dani777rtg/shipwright": {
+    "owner": "Dani777rtg",
+    "name": "shipwright",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "VeryGoodOpenSource/vgv-ffca-plugin": {
+    "owner": "VeryGoodOpenSource",
+    "name": "vgv-ffca-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gagoar/pr-brief": {
+    "owner": "gagoar",
+    "name": "pr-brief",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ilya-kozyrev/delamain": {
+    "owner": "ilya-kozyrev",
+    "name": "delamain",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "dominodatalab/domino-ai-plugin": {
+    "owner": "dominodatalab",
+    "name": "domino-ai-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ronnasayd/aipp": {
+    "owner": "Ronnasayd",
+    "name": "aipp",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "EvanBatten/pstack-for-cc": {
+    "owner": "EvanBatten",
+    "name": "pstack-for-cc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tuyenht/Bearingkit": {
+    "owner": "tuyenht",
+    "name": "Bearingkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "neurawork-git/n8n-autopilot": {
+    "owner": "neurawork-git",
+    "name": "n8n-autopilot",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rezzminator/effort-live-control": {
+    "owner": "rezzminator",
+    "name": "effort-live-control",
+    "branch": "develop",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "maxwellmattryan/forge": {
+    "owner": "maxwellmattryan",
+    "name": "forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ehnruiz/claude-skills": {
+    "owner": "ehnruiz",
+    "name": "claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "MarcoZorn/adhd-mode": {
+    "owner": "MarcoZorn",
+    "name": "adhd-mode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "PickleBoxer/pickle": {
+    "owner": "PickleBoxer",
+    "name": "pickle",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ikalus1988/MisakaNet": {
+    "owner": "Ikalus1988",
+    "name": "MisakaNet",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rishichawda/sensei": {
+    "owner": "rishichawda",
+    "name": "sensei",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "awahids/noskill": {
+    "owner": "awahids",
+    "name": "noskill",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "aranculleton/last-job-search": {
+    "owner": "aranculleton",
+    "name": "last-job-search",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "robert-botto/skipwatch": {
+    "owner": "robert-botto",
+    "name": "skipwatch",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "exaltedo2/agent-crew": {
+    "owner": "exaltedo2",
+    "name": "agent-crew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Spectree-Tecnologia/spectree-invoker": {
+    "owner": "Spectree-Tecnologia",
+    "name": "spectree-invoker",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mabualsoud/loop-board": {
+    "owner": "mabualsoud",
+    "name": "loop-board",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Adityaraj0421/naksha-studio": {
+    "owner": "Adityaraj0421",
+    "name": "naksha-studio",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Sagargupta16/orrery": {
+    "owner": "Sagargupta16",
+    "name": "orrery",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "zeikar/pianoize": {
+    "owner": "zeikar",
+    "name": "pianoize",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "matheus-rib1108/meu-kit-claude-code": {
+    "owner": "matheus-rib1108",
+    "name": "meu-kit-claude-code",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "JonathanBeck1/claude-studio-toolkit": {
+    "owner": "JonathanBeck1",
+    "name": "claude-studio-toolkit",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "phantanphatdgteam-gif/snagon-dev-mods": {
+    "owner": "phantanphatdgteam-gif",
+    "name": "snagon-dev-mods",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lunati228/CLI-Subagents": {
+    "owner": "lunati228",
+    "name": "CLI-Subagents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kadenkobashigawa/kstack": {
+    "owner": "kadenkobashigawa",
+    "name": "kstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "matthewprice/otto": {
+    "owner": "matthewprice",
+    "name": "otto",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "anhermon/pstack-claude": {
+    "owner": "anhermon",
+    "name": "pstack-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "nickyjacobs/DutchQuill-AI": {
+    "owner": "nickyjacobs",
+    "name": "DutchQuill-AI",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ashlrai/ashlr-plugin": {
+    "owner": "ashlrai",
+    "name": "ashlr-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "enekesabel/dev-flow": {
+    "owner": "enekesabel",
+    "name": "dev-flow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mikeparcewski/wicked-garden": {
+    "owner": "mikeparcewski",
+    "name": "wicked-garden",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "lamxy/agent-prompt-rules-system": {
+    "owner": "lamxy",
+    "name": "agent-prompt-rules-system",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iadr-dev/greenlight": {
+    "owner": "iadr-dev",
+    "name": "greenlight",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "adityareddy-dev/deskstudio": {
+    "owner": "adityareddy-dev",
+    "name": "deskstudio",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DevelopersGlobal/ai-agent-skills": {
+    "owner": "DevelopersGlobal",
+    "name": "ai-agent-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "robo311/devflow": {
+    "owner": "robo311",
+    "name": "devflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "acus9345/haiku-delegate": {
+    "owner": "acus9345",
+    "name": "haiku-delegate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Kimeur/duology": {
+    "owner": "Kimeur",
+    "name": "duology",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "gideon-e/claude-5-optimizer": {
+    "owner": "gideon-e",
+    "name": "claude-5-optimizer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "edwinidrus/dragonhoard": {
+    "owner": "edwinidrus",
+    "name": "dragonhoard",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "aylee1024/lord-claude": {
+    "owner": "aylee1024",
+    "name": "lord-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tuanxminhxgi/agent-tools": {
+    "owner": "tuanxminhxgi",
+    "name": "agent-tools",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "trustmybot/plugin": {
+    "owner": "trustmybot",
+    "name": "plugin",
+    "branch": "dev",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "oneafrikan/the-grid": {
+    "owner": "oneafrikan",
+    "name": "the-grid",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "renzrollon/interlock": {
+    "owner": "renzrollon",
+    "name": "interlock",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bostonaholic/skills": {
+    "owner": "bostonaholic",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "alegauss/polyweave": {
+    "owner": "alegauss",
+    "name": "polyweave",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "gabrielbsandim/task-funnel": {
+    "owner": "gabrielbsandim",
+    "name": "task-funnel",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "skrypka-mark/stem": {
+    "owner": "skrypka-mark",
+    "name": "stem",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "FSPR2005/kit-pedroza": {
+    "owner": "FSPR2005",
+    "name": "kit-pedroza",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "EngSharaqi/sharaqi-workflow": {
+    "owner": "EngSharaqi",
+    "name": "sharaqi-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ethanyang9512/ai-analyst-workbench": {
+    "owner": "Ethanyang9512",
+    "name": "ai-analyst-workbench",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "shinpr/rashomon": {
+    "owner": "shinpr",
+    "name": "rashomon",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "MangroveTechnologies/mangrove-agent": {
+    "owner": "MangroveTechnologies",
+    "name": "mangrove-agent",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "lehcode/claudelegate": {
+    "owner": "lehcode",
+    "name": "claudelegate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ali5ter/obsidian-project-assistant": {
+    "owner": "ali5ter",
+    "name": "obsidian-project-assistant",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "crafts69guy/orchestra": {
+    "owner": "crafts69guy",
+    "name": "orchestra",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ali5ter/claude-cli-ux-skill": {
+    "owner": "ali5ter",
+    "name": "claude-cli-ux-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "siddik-web/wp-block-theme-converter": {
+    "owner": "siddik-web",
+    "name": "wp-block-theme-converter",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iamphduc/claude-pod": {
+    "owner": "iamphduc",
+    "name": "claude-pod",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "cph0r/veridic": {
+    "owner": "cph0r",
+    "name": "veridic",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "StartupBros-com/memory-dream": {
+    "owner": "StartupBros-com",
+    "name": "memory-dream",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DoddleHQ/doddle-seo-geo-skills": {
+    "owner": "DoddleHQ",
+    "name": "doddle-seo-geo-skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Sumonta056/claude-storehouse": {
+    "owner": "Sumonta056",
+    "name": "claude-storehouse",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rustcircle/c101": {
+    "owner": "rustcircle",
+    "name": "c101",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "tammai/sdlc": {
+    "owner": "tammai",
+    "name": "sdlc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "codecycle-plugin/codecycle": {
+    "owner": "codecycle-plugin",
+    "name": "codecycle",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "justyk99/smartuse": {
+    "owner": "justyk99",
+    "name": "smartuse",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "google/elephant-goldfish-model": {
+    "owner": "google",
+    "name": "elephant-goldfish-model",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ovich/swarmstorm": {
+    "owner": "Ovich",
+    "name": "swarmstorm",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "fattain-naime/engineering-docs": {
+    "owner": "fattain-naime",
+    "name": "engineering-docs",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iadr-dev/kotlin-claude-workflow": {
+    "owner": "iadr-dev",
+    "name": "kotlin-claude-workflow",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Sylad/cadence": {
+    "owner": "Sylad",
+    "name": "cadence",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rhawk117/cc-terraform-harness": {
+    "owner": "rhawk117",
+    "name": "cc-terraform-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Horace-Maxwell/UI-Evaluator": {
+    "owner": "Horace-Maxwell",
+    "name": "UI-Evaluator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "NoobyGains/godmode": {
+    "owner": "NoobyGains",
+    "name": "godmode",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "MaximeRumpler/Make_Clean_PPTX": {
+    "owner": "MaximeRumpler",
+    "name": "Make_Clean_PPTX",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "oborchers/fractional-cto": {
+    "owner": "oborchers",
+    "name": "fractional-cto",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rmolinajr/MolBytes.Scaffold": {
+    "owner": "rmolinajr",
+    "name": "MolBytes.Scaffold",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "monaccode/astromesh-leia": {
+    "owner": "monaccode",
+    "name": "astromesh-leia",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "StartupBros-com/hov-stack": {
+    "owner": "StartupBros-com",
+    "name": "hov-stack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bibi8bi/claude-escort": {
+    "owner": "bibi8bi",
+    "name": "claude-escort",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gaia-harness/gaia": {
+    "owner": "gaia-harness",
+    "name": "gaia",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "christopherkenny/skills": {
+    "owner": "christopherkenny",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kyle-chalmers/ticketwright": {
+    "owner": "kyle-chalmers",
+    "name": "ticketwright",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ayeo-io/compass": {
+    "owner": "ayeo-io",
+    "name": "compass",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tizonai/hyperui": {
+    "owner": "tizonai",
+    "name": "hyperui",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "guavovic/launch-audit": {
+    "owner": "guavovic",
+    "name": "launch-audit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "pvjbuilds/delegate-router": {
+    "owner": "pvjbuilds",
+    "name": "delegate-router",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Cadasto/pgsql-coding-plugin": {
+    "owner": "Cadasto",
+    "name": "pgsql-coding-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "magery-ai/triz-skill": {
+    "owner": "magery-ai",
+    "name": "triz-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rehan-remade/universal-modder": {
+    "owner": "rehan-remade",
+    "name": "universal-modder",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "aidevs-pt/devs-ai-skills": {
+    "owner": "aidevs-pt",
+    "name": "devs-ai-skills",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "MichaelYcJo/AgenticSeal": {
+    "owner": "MichaelYcJo",
+    "name": "AgenticSeal",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "frankbria/codeframe": {
+    "owner": "frankbria",
+    "name": "codeframe",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ritesh-firodiya/canon-cli": {
+    "owner": "ritesh-firodiya",
+    "name": "canon-cli",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "arturogarrido/claudinho": {
+    "owner": "arturogarrido",
+    "name": "claudinho",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "chartergroup/topopt": {
+    "owner": "chartergroup",
+    "name": "topopt",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "thameema/memnos": {
+    "owner": "thameema",
+    "name": "memnos",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gufranco/claude-engineering-rules": {
+    "owner": "gufranco",
+    "name": "claude-engineering-rules",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "chadixearth/graphyloop": {
+    "owner": "chadixearth",
+    "name": "graphyloop",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "RDEL-Group/compound-knowledge-work": {
+    "owner": "RDEL-Group",
+    "name": "compound-knowledge-work",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Procesio-Externals/procesio-cli": {
+    "owner": "Procesio-Externals",
+    "name": "procesio-cli",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ku5ic/claude-kit": {
+    "owner": "ku5ic",
+    "name": "claude-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sara-star-quant/presence": {
+    "owner": "sara-star-quant",
+    "name": "presence",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "AlexWaha/agentry": {
+    "owner": "AlexWaha",
+    "name": "agentry",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "HighwayofLife/agent-kaizen": {
+    "owner": "HighwayofLife",
+    "name": "agent-kaizen",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "annotant/annotant": {
+    "owner": "annotant",
+    "name": "annotant",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bsrikumar855-dot/ClaudeCODE-Autonomous-skills": {
+    "owner": "bsrikumar855-dot",
+    "name": "ClaudeCODE-Autonomous-skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "benomite/brigade": {
+    "owner": "benomite",
+    "name": "brigade",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gmdkaio/kstack": {
+    "owner": "gmdkaio",
+    "name": "kstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "shadowX4fox/solutions-architect-skills": {
+    "owner": "shadowX4fox",
+    "name": "solutions-architect-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "fabiandistler/agents": {
+    "owner": "fabiandistler",
+    "name": "agents",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "mralexivy/AutoMode": {
+    "owner": "mralexivy",
+    "name": "AutoMode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Sibhimanyu/rasanai": {
+    "owner": "Sibhimanyu",
+    "name": "rasanai",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "kcayme/k-agents": {
+    "owner": "kcayme",
+    "name": "k-agents",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "cerredz/vidbyte-memory": {
+    "owner": "cerredz",
+    "name": "vidbyte-memory",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "softzer0/opscrew": {
+    "owner": "softzer0",
+    "name": "opscrew",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "algibbawi-m/trust-but-verify": {
+    "owner": "algibbawi-m",
+    "name": "trust-but-verify",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "skateddu/claude-code-python-setup": {
+    "owner": "skateddu",
+    "name": "claude-code-python-setup",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "prasadm1022/hades-vault": {
+    "owner": "prasadm1022",
+    "name": "hades-vault",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "laaielichter/Reverseport": {
+    "owner": "laaielichter",
+    "name": "Reverseport",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "umararshad4/honey-stack": {
+    "owner": "umararshad4",
+    "name": "honey-stack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "larsmagnus/dev": {
+    "owner": "larsmagnus",
+    "name": "dev",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "baney75/myelinate": {
+    "owner": "baney75",
+    "name": "myelinate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "backnotprop/pstack": {
+    "owner": "backnotprop",
+    "name": "pstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Gogi213/role-play-vibing": {
+    "owner": "Gogi213",
+    "name": "role-play-vibing",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "painhardcore/pstack": {
+    "owner": "painhardcore",
+    "name": "pstack",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Badhon-00/MDCP": {
+    "owner": "Badhon-00",
+    "name": "MDCP",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "andres-fu/dope-tdd": {
+    "owner": "andres-fu",
+    "name": "dope-tdd",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "JeongJaeSoon/agent-skills": {
+    "owner": "JeongJaeSoon",
+    "name": "agent-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "prograsec/brain-and-hands": {
+    "owner": "prograsec",
+    "name": "brain-and-hands",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "morikaglobal/claude_code_csvqualitychecker_en": {
+    "owner": "morikaglobal",
+    "name": "claude_code_csvqualitychecker_en",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "DoctorMozg/claude-pipelines": {
+    "owner": "DoctorMozg",
+    "name": "claude-pipelines",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "GastonGelhorn/jevmate": {
+    "owner": "GastonGelhorn",
+    "name": "jevmate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "finolabs/finolabs-vibecode": {
+    "owner": "finolabs",
+    "name": "finolabs-vibecode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "anombyte93/prd-taskmaster": {
+    "owner": "anombyte93",
+    "name": "prd-taskmaster",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Khaymah/sabry-claude-kit": {
+    "owner": "Khaymah",
+    "name": "sabry-claude-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "100FOUNTS/job-harness": {
+    "owner": "100FOUNTS",
+    "name": "job-harness",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "PolaronQuasi/codex-subagents-for-claude-code": {
+    "owner": "PolaronQuasi",
+    "name": "codex-subagents-for-claude-code",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "StudioObsidienne/kinan-orchestre": {
+    "owner": "StudioObsidienne",
+    "name": "kinan-orchestre",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Binbin-miao/workbuddy-expert-team": {
+    "owner": "Binbin-miao",
+    "name": "workbuddy-expert-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DnsQueen/orcinus-skills": {
+    "owner": "DnsQueen",
+    "name": "orcinus-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kchojn/claude-code-tradecraft": {
+    "owner": "kchojn",
+    "name": "claude-code-tradecraft",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "thomascasali/memoteca": {
+    "owner": "thomascasali",
+    "name": "memoteca",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "T-Celor/the-dam": {
+    "owner": "T-Celor",
+    "name": "the-dam",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iamalisson/landspec": {
+    "owner": "iamalisson",
+    "name": "landspec",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sidrat2612/shark-tank-skill": {
+    "owner": "sidrat2612",
+    "name": "shark-tank-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "igormcsouza/gru": {
+    "owner": "igormcsouza",
+    "name": "gru",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "wraith-proxy/wraith-skills": {
+    "owner": "wraith-proxy",
+    "name": "wraith-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "paavu/flowdeck-mod": {
+    "owner": "paavu",
+    "name": "flowdeck-mod",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "KaterinaLupacheva/skills": {
+    "owner": "KaterinaLupacheva",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mategog/dev-team": {
+    "owner": "mategog",
+    "name": "dev-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "xycu/agent-smith": {
+    "owner": "xycu",
+    "name": "agent-smith",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

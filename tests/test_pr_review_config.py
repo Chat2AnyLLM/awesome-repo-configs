@@ -14,6 +14,29 @@ SPEC.loader.exec_module(REVIEW)
 
 
 class ReviewPrConfigTests(unittest.TestCase):
+    def test_related_list_schema_accepts_website(self):
+        entry = {"name": "AgentHub", "url": "https://myagenthub.cn", "description": "Directory", "enabled": True}
+        errors, warnings = REVIEW.validate_entry_schema("related_lists.json", "agenthub", entry)
+        self.assertEqual([], errors)
+        self.assertEqual([], warnings)
+
+    def test_related_list_schema_rejects_invalid_entries(self):
+        entry = {"name": "", "url": "javascript:alert(1)", "description": "Directory", "enabled": "yes"}
+        errors, _ = REVIEW.validate_entry_schema("related_lists.json", "bad", entry)
+        self.assertTrue(any(".name" in error for error in errors))
+        self.assertTrue(any(".url" in error for error in errors))
+        self.assertTrue(any(".enabled" in error for error in errors))
+
+    def test_related_list_review_does_not_query_github_repository(self):
+        pr = {"head": {"repo": {"full_name": "owner/repo"}, "sha": "head"}, "base": {"sha": "base"}}
+        entries = '{"agenthub": {"name": "AgentHub", "url": "https://myagenthub.cn", "description": "Directory", "enabled": true}}'
+        with mock.patch.object(REVIEW, "api_request", return_value=(200, pr)) as request, \
+             mock.patch.object(REVIEW, "paginated", return_value=[{"filename": "related_lists.json"}]), \
+             mock.patch.object(REVIEW, "get_file_text", side_effect=[entries, None]):
+            errors, warnings, checked, files = REVIEW.review_pull_request("owner/repo", 1, "token")
+        self.assertEqual(([], [], 1, ["related_lists.json"]), (errors, warnings, checked, files))
+        self.assertEqual(1, request.call_count)
+
     def test_get_file_text_falls_back_to_git_blob_for_large_files(self):
         contents = {"encoding": "none", "git_url": "https://api.github.test/blob/sha"}
         blob = {"encoding": "base64", "content": "aGVsbG8="}

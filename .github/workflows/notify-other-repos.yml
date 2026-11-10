@@ -10,6 +10,7 @@ on:
       - 'instruction_repos.json'
       - 'prompt_repos.json'
       - 'mcp_server_repos.json'
+      - 'related_lists.json'
   workflow_dispatch:
 
 jobs:
