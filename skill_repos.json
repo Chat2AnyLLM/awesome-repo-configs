@@ -1,4 +1,11 @@
 {
+    "hinty-eu/smart-glasses-skills": {
+        "owner": "hinty-eu",
+        "name": "smart-glasses-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "Hyde-and-Larkin/product-marketing-toolkit": {
         "owner": "Hyde-and-Larkin",
         "name": "product-marketing-toolkit",
