@@ -48737,5 +48737,95 @@
     "repoOwner": "godavidgpg",
     "repoName": "fresh-eyes",
     "repoBranch": "main"
+  },
+  "vid-io/vidiq-mcp": {
+    "name": "vid-io/vidiq-mcp",
+    "description": "Official vidIQ MCP plugin. Grow on YouTube, Instagram & TikTok.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vid-io",
+    "repoName": "vidiq-mcp",
+    "repoBranch": "main"
+  },
+  "systemoperators/claude-plugins": {
+    "name": "systemoperators/claude-plugins",
+    "description": "Claude Code plugins by System Operator - alto.index, tinydot, and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "systemoperators",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "andrey1souza/gated-delivery": {
+    "name": "andrey1souza/gated-delivery",
+    "description": "A Claude Code plugin that turns a ticket into small, checked pull requests. Scripts and CI enforce the rules, a fresh-context reviewer checks each slice, and a person merges. Gate it. Slice it. Prove it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andrey1souza",
+    "repoName": "gated-delivery",
+    "repoBranch": "main"
+  },
+  "devkindhq/routineos": {
+    "name": "devkindhq/routineos",
+    "description": "Self-improving framework for Claude routines (Claude Code scheduled tasks): typed settings, linter, templates, approval gates, mobile Desk. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devkindhq",
+    "repoName": "routineos",
+    "repoBranch": "main"
+  },
+  "badblli/agent-crew": {
+    "name": "badblli/agent-crew",
+    "description": "Claude Code plugin: make Claude Code the tech lead of a crew of coding agents (Claude, Codex, Gemini) with a live crew board.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "badblli",
+    "repoName": "agent-crew",
+    "repoBranch": "main"
+  },
+  "lendtrain/mortgage": {
+    "name": "lendtrain/mortgage",
+    "description": "The first mortgage refinancing pricing plugin for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lendtrain",
+    "repoName": "mortgage",
+    "repoBranch": "main"
+  },
+  "razamit/PromotionVideoEngine": {
+    "name": "razamit/PromotionVideoEngine",
+    "description": "Claude Code plugin: make vertical cartoon story shorts (TikTok, Shorts, Reels) that promote your app, with the real app on screen. Remotion + three.js.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "razamit",
+    "repoName": "PromotionVideoEngine",
+    "repoBranch": "main"
+  },
+  "ViniciusNoetzold/mine-blockreel-skill": {
+    "name": "ViniciusNoetzold/mine-blockreel-skill",
+    "description": "Make Minecraft-style animations, skins and texture packs from a prompt. Rendered in code, no video model. A Claude Code plugin with 3 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ViniciusNoetzold",
+    "repoName": "mine-blockreel-skill",
+    "repoBranch": "main"
+  },
+  "sawady/hub": {
+    "name": "sawady/hub",
+    "description": "Engineering hub for Claude Code: contract-first cross-repo features, parallel agents in worktrees, progress.md as source of truth",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sawady",
+    "repoName": "hub",
+    "repoBranch": "main"
+  },
+  "smyrna-pergamum/web-design-skills": {
+    "name": "smyrna-pergamum/web-design-skills",
+    "description": "Web Design Skills: a library of AI web design skills for Claude. Each teaches a complete visual style, with a live reference site, screenshots and copy-ready components.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smyrna-pergamum",
+    "repoName": "web-design-skills",
+    "repoBranch": "main"
   }
 }

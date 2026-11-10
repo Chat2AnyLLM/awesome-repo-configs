@@ -7366,5 +7366,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "vid-io/vidiq-mcp": {
+    "owner": "vid-io",
+    "name": "vidiq-mcp",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "m3taz-ahmed/aizee": {
+    "owner": "m3taz-ahmed",
+    "name": "aizee",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

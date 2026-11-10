@@ -56705,5 +56705,125 @@
         "name": "resume-claim-guard",
         "branch": "main",
         "enabled": true
+    },
+    "vid-io/vidiq-mcp": {
+        "owner": "vid-io",
+        "name": "vidiq-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "systemoperators/claude-plugins": {
+        "owner": "systemoperators",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "m3taz-ahmed/aizee": {
+        "owner": "m3taz-ahmed",
+        "name": "aizee",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RealTask/MAX-DESIGN": {
+        "owner": "RealTask",
+        "name": "MAX-DESIGN",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "williamhorschak-dev/wisconsin-legal-ai-skills": {
+        "owner": "williamhorschak-dev",
+        "name": "wisconsin-legal-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andrey1souza/gated-delivery": {
+        "owner": "andrey1souza",
+        "name": "gated-delivery",
+        "branch": "main",
+        "enabled": true
+    },
+    "devkindhq/routineos": {
+        "owner": "devkindhq",
+        "name": "routineos",
+        "branch": "main",
+        "enabled": true
+    },
+    "badblli/agent-crew": {
+        "owner": "badblli",
+        "name": "agent-crew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lendtrain/mortgage": {
+        "owner": "lendtrain",
+        "name": "mortgage",
+        "branch": "main",
+        "enabled": true
+    },
+    "razamit/PromotionVideoEngine": {
+        "owner": "razamit",
+        "name": "PromotionVideoEngine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ViniciusNoetzold/mine-blockreel-skill": {
+        "owner": "ViniciusNoetzold",
+        "name": "mine-blockreel-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "TusharB-07/depvet": {
+        "owner": "TusharB-07",
+        "name": "depvet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jubscodes/claude-memory-graph": {
+        "owner": "jubscodes",
+        "name": "claude-memory-graph",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sawady/hub": {
+        "owner": "sawady",
+        "name": "hub",
+        "branch": "main",
+        "enabled": true
+    },
+    "grvmon/sniper-seo-geo-aeo": {
+        "owner": "grvmon",
+        "name": "sniper-seo-geo-aeo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "annderson8/dashboard-3d": {
+        "owner": "annderson8",
+        "name": "dashboard-3d",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chulo-rulo/llm-integration-audit-java": {
+        "owner": "chulo-rulo",
+        "name": "llm-integration-audit-java",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "smyrna-pergamum/web-design-skills": {
+        "owner": "smyrna-pergamum",
+        "name": "web-design-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
