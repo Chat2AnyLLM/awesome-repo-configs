@@ -48647,5 +48647,95 @@
     "repoOwner": "CalebAnderson-Coder",
     "repoName": "ai-agency-os-starter",
     "repoBranch": "main"
+  },
+  "MiaoQichuan/new-litigation-visualization": {
+    "name": "MiaoQichuan/new-litigation-visualization",
+    "description": "\u628a\u6cd5\u5f8b\u753b\u51fa\u6765 \u00b7 \u7ed9\u6cd5\u5f8b\u4eba\u7684\u8bc9\u8bbc\u53ef\u89c6\u5316\u5de5\u5177\u96c6\uff1a\u91cd\u753b\u8bc9\u8bbc\u56fe\u3001\u8bfb\u6750\u6599\u753b\u65f6\u95f4\u8f74\u3001\u5ead\u524d\u4e09\u5927\u6cd5\u5b9d\uff08\u5927\u4e8b\u8bb0\u8868\u3001\u5ead\u5ba1\u5bf9\u6297\u56fe\u3001\u6cd5\u5f8b\u5173\u7cfb\u56fe\uff09\uff0c\u4ee5\u53ca\u6cd5\u5f8b\u56fe\u8868\u5927\u5e08\u4e0e\u6cd5\u5f8b\u8bfe\u4ef6\u5927\u5e08\u3002\u4e03\u4e2a\u6a21\u5757\uff0cClaude Code\u3001Codex\u3001DeepSeek Harness \u7b49\u901a\u7528\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MiaoQichuan",
+    "repoName": "new-litigation-visualization",
+    "repoBranch": "main"
+  },
+  "solanabr/safe-ai-skill": {
+    "name": "solanabr/safe-ai-skill",
+    "description": "Security firewall and supply-chain verifier for Claude Code / Codex / Agent skills and MCPs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "solanabr",
+    "repoName": "safe-ai-skill",
+    "repoBranch": "main"
+  },
+  "aykyusuf/crew-chief": {
+    "name": "aykyusuf/crew-chief",
+    "description": "Difficulty-based subagent routing for Claude Code: tiered Haiku/Sonnet/Opus agents, escalation, read-only guard, plain-language overrides.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aykyusuf",
+    "repoName": "crew-chief",
+    "repoBranch": "main"
+  },
+  "ManeeshJupalle/claude-build-crew": {
+    "name": "ManeeshJupalle/claude-build-crew",
+    "description": "Claude Code plugin: agents plan, build, review and ship; code gates decide what merges. macOS, Linux and Windows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ManeeshJupalle",
+    "repoName": "claude-build-crew",
+    "repoBranch": "main"
+  },
+  "RemiPelloux/kill-my-idea": {
+    "name": "RemiPelloux/kill-my-idea",
+    "description": "\u2620\ufe0f Claude Code plugin that tries to kill your startup idea with sourced research: score /100, GO / PIVOT / NO-GO, market metrics (TAM, CAC, LTV), country analysis, roast mode. Stop building things nobody wants.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RemiPelloux",
+    "repoName": "kill-my-idea",
+    "repoBranch": "main"
+  },
+  "maumoya/skill-forger-e2e": {
+    "name": "maumoya/skill-forger-e2e",
+    "description": "Ship an agent skill end to end: scaffold, lint, evals, a 0-100 readiness score (also a GitHub Action), retrofit, live install test, header and trust badges, signed releases and launch. For Claude Code plugin authors....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maumoya",
+    "repoName": "skill-forger-e2e",
+    "repoBranch": "main"
+  },
+  "lthphuw/cv-kit": {
+    "name": "lthphuw/cv-kit",
+    "description": "Claude Code plugin for computer-vision engineers: test-first Python, C++ and Go with agents sized to the task, sourced model research, strict review, architecture figures and clean commits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lthphuw",
+    "repoName": "cv-kit",
+    "repoBranch": "main"
+  },
+  "thisiskurubaran/WriteLikeHuman": {
+    "name": "thisiskurubaran/WriteLikeHuman",
+    "description": "A Claude skill that makes everyday writing sound like a real person wrote it. Emails, letters, posts, Word, PDF, Excel and slides, in English and 30+ languages. Free and open source.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thisiskurubaran",
+    "repoName": "WriteLikeHuman",
+    "repoBranch": "main"
+  },
+  "maumoya/SignalForge": {
+    "name": "maumoya/SignalForge",
+    "description": "Agent skill and Python CLI that finds which videos beat their own creator's normal, then tests your pre-registered title and hook rules across creators. Offline, no tracking, no runtime dependencies. Outputs evidence,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maumoya",
+    "repoName": "SignalForge",
+    "repoBranch": "main"
+  },
+  "godavidgpg/fresh-eyes": {
+    "name": "godavidgpg/fresh-eyes",
+    "description": "Agent skill that QAs UI/UX the way a first-time human sees it: screenshot-first blind reading, then verify with Playwright. Grounded in HCI research + unslop design lens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "godavidgpg",
+    "repoName": "fresh-eyes",
+    "repoBranch": "main"
   }
 }

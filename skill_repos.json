@@ -56585,5 +56585,119 @@
         "name": "ai-agency-os-starter",
         "branch": "main",
         "enabled": true
+    },
+    "dominikmartn/hue": {
+        "owner": "dominikmartn",
+        "name": "hue",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MiaoQichuan/new-litigation-visualization": {
+        "owner": "MiaoQichuan",
+        "name": "new-litigation-visualization",
+        "branch": "main",
+        "enabled": true
+    },
+    "alirezarezvani/gaios": {
+        "owner": "alirezarezvani",
+        "name": "gaios",
+        "branch": "dev",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "geyadawang-boop/humanize-writing": {
+        "owner": "geyadawang-boop",
+        "name": "humanize-writing",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "solanabr/safe-ai-skill": {
+        "owner": "solanabr",
+        "name": "safe-ai-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "aykyusuf/crew-chief": {
+        "owner": "aykyusuf",
+        "name": "crew-chief",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-record-organizer": {
+        "owner": "why20261",
+        "name": "douyin-record-organizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Pupfish-LLC/model-picker": {
+        "owner": "Pupfish-LLC",
+        "name": "model-picker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RemiPelloux/kill-my-idea": {
+        "owner": "RemiPelloux",
+        "name": "kill-my-idea",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "denysm/wiki-kit": {
+        "owner": "denysm",
+        "name": "wiki-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "jad-fahmi/infounder": {
+        "owner": "jad-fahmi",
+        "name": "infounder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maumoya/skill-forger-e2e": {
+        "owner": "maumoya",
+        "name": "skill-forger-e2e",
+        "branch": "main",
+        "enabled": true
+    },
+    "lthphuw/cv-kit": {
+        "owner": "lthphuw",
+        "name": "cv-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thisiskurubaran/WriteLikeHuman": {
+        "owner": "thisiskurubaran",
+        "name": "WriteLikeHuman",
+        "branch": "main",
+        "enabled": true
+    },
+    "conft2k/skill-aws-arch-diagram": {
+        "owner": "conft2k",
+        "name": "skill-aws-arch-diagram",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "maumoya/SignalForge": {
+        "owner": "maumoya",
+        "name": "SignalForge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "godavidgpg/fresh-eyes": {
+        "owner": "godavidgpg",
+        "name": "fresh-eyes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

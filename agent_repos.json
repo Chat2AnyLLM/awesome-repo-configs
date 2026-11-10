@@ -7338,5 +7338,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "aykyusuf/crew-chief": {
+    "owner": "aykyusuf",
+    "name": "crew-chief",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ManeeshJupalle/claude-build-crew": {
+    "owner": "ManeeshJupalle",
+    "name": "claude-build-crew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "denysm/wiki-kit": {
+    "owner": "denysm",
+    "name": "wiki-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lthphuw/cv-kit": {
+    "owner": "lthphuw",
+    "name": "cv-kit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
