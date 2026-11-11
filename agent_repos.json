@@ -7380,5 +7380,33 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "andryorelabs/emet": {
+    "owner": "andryorelabs",
+    "name": "emet",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sam-ash-cy/sams-agentic-workflow": {
+    "owner": "sam-ash-cy",
+    "name": "sams-agentic-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "nerdkim/korean-rewrite": {
+    "owner": "nerdkim",
+    "name": "korean-rewrite",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "VasulenkoIllia/claude-code-base": {
+    "owner": "VasulenkoIllia",
+    "name": "claude-code-base",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

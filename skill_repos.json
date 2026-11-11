@@ -56846,5 +56846,106 @@
         "branch": "main",
         "skillsPath": "plugins/genaya/skills",
         "enabled": true
+    },
+    "aaaronmiller/create-viral-content": {
+        "owner": "aaaronmiller",
+        "name": "create-viral-content",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "andryorelabs/emet": {
+        "owner": "andryorelabs",
+        "name": "emet",
+        "branch": "main",
+        "enabled": true
+    },
+    "wmzspace/claude-motion-skills": {
+        "owner": "wmzspace",
+        "name": "claude-motion-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "benjaminthomas/spec-driven-dev": {
+        "owner": "benjaminthomas",
+        "name": "spec-driven-dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "mppyxx/claude-power-pack": {
+        "owner": "mppyxx",
+        "name": "claude-power-pack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sam-ash-cy/sams-agentic-workflow": {
+        "owner": "sam-ash-cy",
+        "name": "sams-agentic-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cestercian/claude-playbook-skills": {
+        "owner": "cestercian",
+        "name": "claude-playbook-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wiatrek-kevin-s/columbus": {
+        "owner": "wiatrek-kevin-s",
+        "name": "columbus",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Soe-Reh/soes-skills": {
+        "owner": "Soe-Reh",
+        "name": "soes-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nerdkim/korean-rewrite": {
+        "owner": "nerdkim",
+        "name": "korean-rewrite",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mohanad-Ramadan/ui-tuning-lab": {
+        "owner": "Mohanad-Ramadan",
+        "name": "ui-tuning-lab",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "webdevnerdstuff/claude-marketplace": {
+        "owner": "webdevnerdstuff",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "VasulenkoIllia/claude-code-base": {
+        "owner": "VasulenkoIllia",
+        "name": "claude-code-base",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LuzianMe/myco-notes": {
+        "owner": "LuzianMe",
+        "name": "myco-notes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "99tests/mcp-server": {
+        "owner": "99tests",
+        "name": "mcp-server",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

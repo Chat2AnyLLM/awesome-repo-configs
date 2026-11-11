@@ -48854,5 +48854,104 @@
     "repoOwner": "genaya-app",
     "repoName": "genaya-claude-plugins",
     "repoBranch": "main"
+  },
+  "andryorelabs/emet": {
+    "name": "andryorelabs/emet",
+    "description": "Spec to merge on one approval: parallel workers in isolated worktrees, a review per wave, CI green before merge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andryorelabs",
+    "repoName": "emet",
+    "repoBranch": "main"
+  },
+  "boxdawn/guard": {
+    "name": "boxdawn/guard",
+    "description": "Claude Code plugin that blocks dangerous Bash and PowerShell commands before they run",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "boxdawn",
+    "repoName": "guard",
+    "repoBranch": "main"
+  },
+  "wmzspace/claude-motion-skills": {
+    "name": "wmzspace/claude-motion-skills",
+    "description": "Claude skills that make things move: animated native PPTX, 1080p60 kinetic-cut videos, and step-by-step animated explainer pages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wmzspace",
+    "repoName": "claude-motion-skills",
+    "repoBranch": "main"
+  },
+  "benjaminthomas/spec-driven-dev": {
+    "name": "benjaminthomas/spec-driven-dev",
+    "description": "Spec-driven feature pipeline + SEO/GEO skill, packaged as portable Agent Skills for Claude Code, Codex CLI, Cursor, and Antigravity",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "benjaminthomas",
+    "repoName": "spec-driven-dev",
+    "repoBranch": "main"
+  },
+  "sam-ash-cy/sams-agentic-workflow": {
+    "name": "sam-ash-cy/sams-agentic-workflow",
+    "description": "Make your coding agent prove it's done: risk-tiered routing, a verification gate and hook-enforced guardrails for Claude Code. 45+ features, all switchable globally or per project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sam-ash-cy",
+    "repoName": "sams-agentic-workflow",
+    "repoBranch": "main"
+  },
+  "cestercian/claude-playbook-skills": {
+    "name": "cestercian/claude-playbook-skills",
+    "description": "Agent skills based on Anthropic's published Claude guidance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cestercian",
+    "repoName": "claude-playbook-skills",
+    "repoBranch": "main"
+  },
+  "Soe-Reh/soes-skills": {
+    "name": "Soe-Reh/soes-skills",
+    "description": "Build + PM workflow skills for Claude Code: interview, spec, build, critic, launch, learn. Blind-tested against popular skill packs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Soe-Reh",
+    "repoName": "soes-skills",
+    "repoBranch": "main"
+  },
+  "lucas-saldanha-werneck/claude-plugins": {
+    "name": "lucas-saldanha-werneck/claude-plugins",
+    "description": "Claude Code plugins: Claude checks its own work and learns from your corrections; sessions survive restarts and /clear, get archived before deletion, and open from your phone or a terminal; side panes for assumptions...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucas-saldanha-werneck",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "webdevnerdstuff/claude-marketplace": {
+    "name": "webdevnerdstuff/claude-marketplace",
+    "description": "WebDevNerdStuff's Claude Code mods and skills in one plugin marketplace: add it once, install any of them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "webdevnerdstuff",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "LuzianMe/myco-notes": {
+    "name": "LuzianMe/myco-notes",
+    "description": "Myco Notes: linked, versioned, secret-free project notes for you and your AI agents. Method, starter tree, tools and an agent skill (Claude Code, Codex, others).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LuzianMe",
+    "repoName": "myco-notes",
+    "repoBranch": "main"
+  },
+  "99tests/mcp-server": {
+    "name": "99tests/mcp-server",
+    "description": "Order human-run real-device app tests from your coding agent; verified bugs return as fix prompts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "99tests",
+    "repoName": "mcp-server",
+    "repoBranch": "main"
   }
 }
