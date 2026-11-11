@@ -48845,5 +48845,14 @@
     "repoOwner": "smyrna-pergamum",
     "repoName": "web-design-skills",
     "repoBranch": "main"
+  },
+  "genaya-app/genaya-claude-plugins": {
+    "name": "genaya",
+    "description": "Genaya: ask Genaya AI about your own business from Claude (today's schedule, who owes you, revenue, calls, clients and your team), answered from your Genaya records, and prepare changes such as a task or a reschedule that run only after you confirm. Nine skills plus the Genaya MCP connector. MIT; needs a Genaya account.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "genaya-app",
+    "repoName": "genaya-claude-plugins",
+    "repoBranch": "main"
   }
 }
