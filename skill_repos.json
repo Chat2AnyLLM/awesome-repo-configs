@@ -56947,5 +56947,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "phuryn/product-engineering": {
+        "owner": "phuryn",
+        "name": "product-engineering",
+        "branch": "main",
+        "enabled": true
+    },
+    "LvvUP/academic-writing-assistant": {
+        "owner": "LvvUP",
+        "name": "academic-writing-assistant",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "faisalkhanzemi/insta-edits-for-claude": {
+        "owner": "faisalkhanzemi",
+        "name": "insta-edits-for-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ahmtsahin/deutsch-loop": {
+        "owner": "ahmtsahin",
+        "name": "deutsch-loop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chekrizh/Interactive-Map-Builder": {
+        "owner": "chekrizh",
+        "name": "Interactive-Map-Builder",
+        "branch": "main",
+        "enabled": true
+    },
+    "maxvotek/boxerbook-skill": {
+        "owner": "maxvotek",
+        "name": "boxerbook-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "erenthedeveloper0/form-and-force": {
+        "owner": "erenthedeveloper0",
+        "name": "form-and-force",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "buchbend/lore": {
+        "owner": "buchbend",
+        "name": "lore",
+        "branch": "main",
+        "enabled": true
+    },
+    "bendusz/bstack": {
+        "owner": "bendusz",
+        "name": "bstack",
+        "branch": "main",
+        "enabled": true
+    },
+    "Yudeweb/app-factory": {
+        "owner": "Yudeweb",
+        "name": "app-factory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lucas-saldanha-werneck/op-secrets": {
+        "owner": "lucas-saldanha-werneck",
+        "name": "op-secrets",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Yesterday-AI/ytstack": {
+        "owner": "Yesterday-AI",
+        "name": "ytstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "treeleaves30760/pixelcanvas": {
+        "owner": "treeleaves30760",
+        "name": "pixelcanvas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aivisibilitycensus/geo-skills": {
+        "owner": "aivisibilitycensus",
+        "name": "geo-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "luchtan-GIT/m4r-data": {
+        "owner": "luchtan-GIT",
+        "name": "m4r-data",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "xhqing/agents-infra": {
+        "owner": "xhqing",
+        "name": "agents-infra",
+        "branch": "main",
+        "enabled": true
     }
 }

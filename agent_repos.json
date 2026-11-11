@@ -7408,5 +7408,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Yudeweb/app-factory": {
+    "owner": "Yudeweb",
+    "name": "app-factory",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Yesterday-AI/ytstack": {
+    "owner": "Yesterday-AI",
+    "name": "ytstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

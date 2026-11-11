@@ -48953,5 +48953,113 @@
     "repoOwner": "99tests",
     "repoName": "mcp-server",
     "repoBranch": "main"
+  },
+  "phuryn/product-engineering": {
+    "name": "phuryn/product-engineering",
+    "description": "44 agent skills from shipping three live products: decide what to build, build it with Claude Code or Codex, have a second model review it, release it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phuryn",
+    "repoName": "product-engineering",
+    "repoBranch": "main"
+  },
+  "faisalkhanzemi/insta-edits-for-claude": {
+    "name": "faisalkhanzemi/insta-edits-for-claude",
+    "description": "Instagram Edits for Mac + Claude Code: plugin and MCP server that gives Claude the full 274-tool editor. Let Claude edit your Reels: beat cuts, captions, transitions, export.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "faisalkhanzemi",
+    "repoName": "insta-edits-for-claude",
+    "repoBranch": "main"
+  },
+  "ahmtsahin/deutsch-loop": {
+    "name": "ahmtsahin/deutsch-loop",
+    "description": "A German tutor for Claude Code and Codex that remembers your mistakes and brings each one back in a new sentence until it stops. Local memory, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ahmtsahin",
+    "repoName": "deutsch-loop",
+    "repoBranch": "main"
+  },
+  "chekrizh/Interactive-Map-Builder": {
+    "name": "chekrizh/Interactive-Map-Builder",
+    "description": "Understand unfamiliar codebases. Explore the architecture, follow execution flows, and drill down to the source - all in interactive map.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chekrizh",
+    "repoName": "Interactive-Map-Builder",
+    "repoBranch": "main"
+  },
+  "maxvotek/boxerbook-skill": {
+    "name": "maxvotek/boxerbook-skill",
+    "description": "Boxing for Claude: live, cited boxing answers (records, fight nights, results, rankings) from the open Boxerbook database. Agent Skill + Claude Code plugin + remote MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maxvotek",
+    "repoName": "boxerbook-skill",
+    "repoBranch": "main"
+  },
+  "erenthedeveloper0/form-and-force": {
+    "name": "erenthedeveloper0/form-and-force",
+    "description": "A Claude Code plugin & Agent Skill for original, Awwwards-inspired digital experiences\u2014creative direction, bespoke UI, motion engineering, anti-slop audits, and repository-aware implementation. Free & MIT-licensed! \u2728",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erenthedeveloper0",
+    "repoName": "form-and-force",
+    "repoBranch": "main"
+  },
+  "buchbend/lore": {
+    "name": "buchbend/lore",
+    "description": "Workflow and knowledge layer for teams coding with Claude Code. Each session starts with \u22645k chars of repo-scoped context, follows one workflow (orient \u2192 grill \u2192 epic \u2192 build \u2192 document), and files every fact where it...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "buchbend",
+    "repoName": "lore",
+    "repoBranch": "main"
+  },
+  "bendusz/bstack": {
+    "name": "bendusz/bstack",
+    "description": "A Project/Product Manager skill for Claude Code: Claude orchestrates delivery \u2014 discover, plan, sign-off, then build/review/ship via subagents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bendusz",
+    "repoName": "bstack",
+    "repoBranch": "main"
+  },
+  "lucas-saldanha-werneck/op-secrets": {
+    "name": "lucas-saldanha-werneck/op-secrets",
+    "description": "Save a secret: a small window opens that Claude cannot see, you paste there, it lands in 1Password. Read it back: any item in your vault loads into Claude with one fingerprint check, names only, never the values. Keys...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucas-saldanha-werneck",
+    "repoName": "op-secrets",
+    "repoBranch": "main"
+  },
+  "Yesterday-AI/ytstack": {
+    "name": "Yesterday-AI/ytstack",
+    "description": "An opinionated OS for AI coding agents. Plan like a PM, execute like a senior eng. -- Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Yesterday-AI",
+    "repoName": "ytstack",
+    "repoBranch": "main"
+  },
+  "nickycdk/jeeves": {
+    "name": "nickycdk/jeeves",
+    "description": "Claude Code plugin for long tasks: before the context fills, it saves a verified handover, clears the conversation and continues the task in a fresh one. Local only, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nickycdk",
+    "repoName": "jeeves",
+    "repoBranch": "main"
+  },
+  "aivisibilitycensus/geo-skills": {
+    "name": "aivisibilitycensus/geo-skills",
+    "description": "9 open Claude skills for GEO / AEO: check if AI search can read a page, collect and analyze how often AI engines name a brand (with confidence ranges), plus schema parity, AI crawler log checks and migration guards. F...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aivisibilitycensus",
+    "repoName": "geo-skills",
+    "repoBranch": "main"
   }
 }
