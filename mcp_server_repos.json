@@ -1,4 +1,12 @@
 {
+  "clipugc/ClipUGC-CLI": {
+    "owner": "clipugc",
+    "name": "ClipUGC-CLI",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.clipugc/clipugc",
+    "note": "Makes UGC videos for mobile apps with an AI influencer who keeps the same face. Local stdio (npx -y clipugc mcp, API key) or hosted Streamable HTTP at https://clipugc.com/mcp with OAuth. MIT. Canonical metadata is in server.json."
+  },
   "emirmrkaljevic/behave": {
     "owner": "emirmrkaljevic",
     "name": "behave",
