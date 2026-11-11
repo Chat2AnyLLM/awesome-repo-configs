@@ -1,4 +1,13 @@
 {
+  "clipugc/ClipUGC-CLI": {
+    "name": "ClipUGC-CLI",
+    "description": "ClipUGC: skills for making UGC videos for mobile apps with an AI influencer who keeps the same face. ugc-director plans the video (archetypes, hooks, casting, prompts), persona-account and story-runner run ongoing AI creator accounts, and the clipugc skill drives the CLI to make clips and merge an app screen recording and a hook. MIT; free credits to try.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clipugc",
+    "repoName": "ClipUGC-CLI",
+    "repoBranch": "main"
+  },
   "mesmerlord/admakeai-claude-plugin": {
     "name": "admakeai-claude-plugin",
     "description": "AdMakeAI: an ad creative skill and AdMakeAI's hosted MCP server for designing Meta ad images and copy, UGC-style video ads, researching competitors' live ads in the Meta Ad Library, and drafting and reporting on Meta campaigns. 30 free credits at signup.",

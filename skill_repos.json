@@ -1,4 +1,11 @@
 {
+    "clipugc/ClipUGC-CLI": {
+        "owner": "clipugc",
+        "name": "ClipUGC-CLI",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "mesmerlord/admakeai-agent-skills": {
         "owner": "mesmerlord",
         "name": "admakeai-agent-skills",
