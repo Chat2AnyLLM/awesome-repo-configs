@@ -56839,5 +56839,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "genaya-app/genaya-claude-plugins": {
+        "owner": "genaya-app",
+        "name": "genaya-claude-plugins",
+        "branch": "main",
+        "skillsPath": "plugins/genaya/skills",
+        "enabled": true
     }
 }
