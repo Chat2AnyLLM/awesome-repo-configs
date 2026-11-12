@@ -57175,5 +57175,98 @@
         "name": "evoskill-for-email-marketing",
         "branch": "main",
         "enabled": true
+    },
+    "A-cat-with-carrots/OnlyShot": {
+        "owner": "A-cat-with-carrots",
+        "name": "OnlyShot",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Sunghwan0112/spritecast": {
+        "owner": "Sunghwan0112",
+        "name": "spritecast",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "codenotary/agentmon-live": {
+        "owner": "codenotary",
+        "name": "agentmon-live",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Kinprove/genealogy-research-recipes": {
+        "owner": "Kinprove",
+        "name": "genealogy-research-recipes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "costory-io/costory-finops-mcp-skills": {
+        "owner": "costory-io",
+        "name": "costory-finops-mcp-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "subsquid-labs/portal-mcp-server": {
+        "owner": "subsquid-labs",
+        "name": "portal-mcp-server",
+        "branch": "main",
+        "enabled": true
+    },
+    "erickb336/sage-stack": {
+        "owner": "erickb336",
+        "name": "sage-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "nshopik/dream-team": {
+        "owner": "nshopik",
+        "name": "dream-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AffPapa/papa-seo": {
+        "owner": "AffPapa",
+        "name": "papa-seo",
+        "branch": "main",
+        "enabled": true
+    },
+    "joseomagodoads-bot/ultra-skills": {
+        "owner": "joseomagodoads-bot",
+        "name": "ultra-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JinChengZ18/resume-grill": {
+        "owner": "JinChengZ18",
+        "name": "resume-grill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "diblaze/solo": {
+        "owner": "diblaze",
+        "name": "solo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "1AngelMicka/quality-pack": {
+        "owner": "1AngelMicka",
+        "name": "quality-pack",
+        "branch": "main",
+        "enabled": true
+    },
+    "Leon-S-7211/insight-charts": {
+        "owner": "Leon-S-7211",
+        "name": "insight-charts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

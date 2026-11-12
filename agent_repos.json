@@ -7436,5 +7436,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "nshopik/dream-team": {
+    "owner": "nshopik",
+    "name": "dream-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "joseomagodoads-bot/ultra-skills": {
+    "owner": "joseomagodoads-bot",
+    "name": "ultra-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "diblaze/solo": {
+    "owner": "diblaze",
+    "name": "solo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

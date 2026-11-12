@@ -49178,5 +49178,131 @@
     "repoOwner": "IsraelWebDev",
     "repoName": "funkbox",
     "repoBranch": "main"
+  },
+  "Canary-ECAD/eplan-mcp": {
+    "name": "Canary-ECAD/eplan-mcp",
+    "description": "MCP server for EPLAN Electric P8: ~200 tools to drive EPLAN from Claude Code, Codex, Cursor or any MCP client (actions, scripts, live DataModel, exports). Includes the eplan-tools plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Canary-ECAD",
+    "repoName": "eplan-mcp",
+    "repoBranch": "main"
+  },
+  "Sunghwan0112/spritecast": {
+    "name": "Sunghwan0112/spritecast",
+    "description": "Claude Code plugin: game sprites at your game's exact camera angle, drawn in your art style - props, 8-direction walking characters, characters seated on your own chairs (3D-guided)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sunghwan0112",
+    "repoName": "spritecast",
+    "repoBranch": "main"
+  },
+  "codenotary/agentmon-live": {
+    "name": "codenotary/agentmon-live",
+    "description": "See what Claude Code and its subagents are really doing, live in your browser or beside the chat: what it costs, how close you are to your limits, when it needs you, and a check of its work before it says done. 6 lang...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codenotary",
+    "repoName": "agentmon-live",
+    "repoBranch": "main"
+  },
+  "Kinprove/genealogy-research-recipes": {
+    "name": "Kinprove/genealogy-research-recipes",
+    "description": "Fact-checked genealogy research recipes for AI agents: DNA evidence and record searches.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kinprove",
+    "repoName": "genealogy-research-recipes",
+    "repoBranch": "main"
+  },
+  "costory-io/costory-finops-mcp-skills": {
+    "name": "costory-io/costory-finops-mcp-skills",
+    "description": "FinOps harness MCP for platform teams. Bills normalized in BigQuery and allocated to teams. Build on it, or try it next to your tool. Read-only on cloud. Starter from $300/month, 30-day free trial.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "costory-io",
+    "repoName": "costory-finops-mcp-skills",
+    "repoBranch": "main"
+  },
+  "subsquid-labs/portal-mcp-server": {
+    "name": "subsquid-labs/portal-mcp-server",
+    "description": "MCP server exposing SQD Portal blockchain data to AI agents and Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "subsquid-labs",
+    "repoName": "portal-mcp-server",
+    "repoBranch": "main"
+  },
+  "erickb336/sage-stack": {
+    "name": "erickb336/sage-stack",
+    "description": "sage-stack: a multi-agent development stack for Claude Code and Codex. Your session becomes a chief of staff, and a team of agents designs, builds, reviews and tests each change, with the rules held in code. You answe...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erickb336",
+    "repoName": "sage-stack",
+    "repoBranch": "main"
+  },
+  "nshopik/dream-team": {
+    "name": "nshopik/dream-team",
+    "description": "The team you always wanted to work with: a small crew of agents that plans, builds, reviews and ships your project with you, from spec to release.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nshopik",
+    "repoName": "dream-team",
+    "repoBranch": "main"
+  },
+  "LlomenYT/code-viewer-claude-mod": {
+    "name": "LlomenYT/code-viewer-claude-mod",
+    "description": "Code Viewer Mod on Claude Code cli. Designed for developers who don\u2019t want to open the IDE",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LlomenYT",
+    "repoName": "code-viewer-claude-mod",
+    "repoBranch": "main"
+  },
+  "JinChengZ18/resume-grill": {
+    "name": "JinChengZ18/resume-grill",
+    "description": "An Agent Skill for grilling resumes: turn a resume or CV into technical interview questions, model answers and a printable scorecard. Works with Claude Code, Codex. \u7b80\u5386\u62f7\u6253 Agent Skill\uff1a\u5582\u8fdb\u4e00\u4efd\u6216\u591a\u4efd\u7b80\u5386\uff0c\u4ea7\u51fa\u9762\u8bd5\u6307\u5357\u3001\u53ef\u6253\u5370\u8bc4\u5206\u5361\u548c\u653b\u9632\u95ee\u7b54\u5361\u7247\uff0c\u9644\u9010\u95ee\u793a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JinChengZ18",
+    "repoName": "resume-grill",
+    "repoBranch": "main"
+  },
+  "rome2o/tokenpower-claude": {
+    "name": "rome2o/tokenpower-claude",
+    "description": "Claude plugin marketplace: nine mods that cut token cost with cheaper models, caching and handoffs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rome2o",
+    "repoName": "tokenpower-claude",
+    "repoBranch": "main"
+  },
+  "diblaze/solo": {
+    "name": "diblaze/solo",
+    "description": "Gated plan \u2192 execute \u2192 pr-ready workflow for Claude Code: OpenSpec changes, model-fit subagents, review before every PR.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "diblaze",
+    "repoName": "solo",
+    "repoBranch": "main"
+  },
+  "1AngelMicka/quality-pack": {
+    "name": "1AngelMicka/quality-pack",
+    "description": "Plugins Claude Code pour construire et auditer des projets web sur 27 domaines qualit\u00e9, avec une note sur 10. FR/EN.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "1AngelMicka",
+    "repoName": "quality-pack",
+    "repoBranch": "main"
+  },
+  "Leon-S-7211/insight-charts": {
+    "name": "Leon-S-7211/insight-charts",
+    "description": "\u7814\u62a5\u7ea7\u56fe\u8868 Agent Skill\uff1a\u4e24\u5957\u4e3b\u9898\u3001\u4e03\u4e2a matplotlib \u753b\u6cd5\u3001\u653e\u56fe\u65f6\u673a\u4e0e\u6807\u9898\u5199\u6cd5\u3002Claude Code \u63d2\u4ef6 + DeepSeek Harness \u63d2\u4ef6\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Leon-S-7211",
+    "repoName": "insight-charts",
+    "repoBranch": "main"
   }
 }
