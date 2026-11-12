@@ -1,4 +1,13 @@
 {
+  "Toolbox-POD/toolbox-pod-mcp": {
+    "name": "toolbox-pod-mcp",
+    "description": "Toolbox POD: a Claude Code plugin marketplace whose toolbox-pod plugin connects Toolbox POD's hosted MCP server (https://mcp.toolboxpod.com/mcp, OAuth sign-in, no API key) to design custom tees and hoodies, see mockups, and order prints made and shipped from Utah, with a link to pay on toolboxpod.com. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Toolbox-POD",
+    "repoName": "toolbox-pod-mcp",
+    "repoBranch": "main"
+  },
   "wensity/skills": {
     "name": "Wensity Design Skills",
     "description": "Free design skills for AI coding agents: typography, layout and spacing, and UX writing. They teach the agent to set type with a system, space and align UI on a 4px scale, and write interface copy that does not sound generated. MIT.",
