@@ -49304,5 +49304,14 @@
     "repoOwner": "Leon-S-7211",
     "repoName": "insight-charts",
     "repoBranch": "main"
+  },
+  "video-db/skills": {
+    "name": "videodb-skills",
+    "description": "VideoDB: video skills for agents. Summarize a video, find any moment by what is said or shown, cut clips, add subtitles, monitor live streams. Plugin for Claude Code, skills for Codex and Cursor, with the hosted VideoDB MCP server. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "video-db",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }
