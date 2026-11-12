@@ -1,4 +1,12 @@
 {
+  "Toolbox-POD/toolbox-pod-mcp": {
+    "owner": "Toolbox-POD",
+    "name": "toolbox-pod-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.toolboxpod/mcp",
+    "note": "Design custom tees and hoodies, see mockups, and order prints made and shipped from Utah. Hosted only: Streamable HTTP at https://mcp.toolboxpod.com/mcp with OAuth; the repo holds server.json and connection files, not the server source. MIT."
+  },
   "HoneyVid/cli": {
     "owner": "HoneyVid",
     "name": "cli",
