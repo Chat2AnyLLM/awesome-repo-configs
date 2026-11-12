@@ -1,4 +1,13 @@
 {
+  "wavegrain/wavegrain-mcp": {
+    "name": "wavegrain-mcp",
+    "description": "Wavegrain: a Claude Code plugin marketplace whose wavegrain plugin connects the hosted Wavegrain MCP server (https://wavegrain.com/api/mcp) and a skill to make, edit, schedule and post TikTok slideshows and Instagram carousels for a brand. Needs a Wavegrain account. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wavegrain",
+    "repoName": "wavegrain-mcp",
+    "repoBranch": "main"
+  },
   "Toolbox-POD/toolbox-pod-mcp": {
     "name": "toolbox-pod-mcp",
     "description": "Toolbox POD: a Claude Code plugin marketplace whose toolbox-pod plugin connects Toolbox POD's hosted MCP server (https://mcp.toolboxpod.com/mcp, OAuth sign-in, no API key) to design custom tees and hoodies, see mockups, and order prints made and shipped from Utah, with a link to pay on toolboxpod.com. MIT.",

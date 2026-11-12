@@ -1,4 +1,12 @@
 {
+  "wavegrain/wavegrain-mcp": {
+    "owner": "wavegrain",
+    "name": "wavegrain-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.wavegrain/mcp",
+    "note": "Make, schedule and post TikTok slideshows and Instagram carousels for a brand. Hosted only: Streamable HTTP at https://wavegrain.com/api/mcp with OAuth or an access key; the repo holds server.json and connection files, not the server source. MIT."
+  },
   "Toolbox-POD/toolbox-pod-mcp": {
     "owner": "Toolbox-POD",
     "name": "toolbox-pod-mcp",
