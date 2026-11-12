@@ -3,7 +3,7 @@
         "owner": "HoneyVid",
         "name": "skills",
         "branch": "main",
-        "skillsPath": ".",
+        "skillsPath": "skills",
         "enabled": true
     },
     "wensity/skills": {
