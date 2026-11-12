@@ -1,4 +1,12 @@
 {
+  "HoneyVid/cli": {
+    "owner": "HoneyVid",
+    "name": "cli",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "ai.honeyvid/honeyvid",
+    "note": "Official HoneyVid CLI, skills and MCP Registry server.json for the hosted HoneyVid MCP server (Streamable HTTP at https://honeyvid.ai/mcp, OAuth 2.1, no API key): trending AI video templates and Kling/Veo/Seedance video and image generation, paid credits quoted before each run. CLI is MIT."
+  },
   "clipugc/ClipUGC-CLI": {
     "owner": "clipugc",
     "name": "ClipUGC-CLI",
