@@ -1,4 +1,11 @@
 {
+    "wavegrain/wavegrain-mcp": {
+        "owner": "wavegrain",
+        "name": "wavegrain-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "HoneyVid/skills": {
         "owner": "HoneyVid",
         "name": "skills",
