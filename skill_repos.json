@@ -57268,5 +57268,87 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "rsaryev/tokendoctor": {
+        "owner": "rsaryev",
+        "name": "tokendoctor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ClickHouse/loom": {
+        "owner": "ClickHouse",
+        "name": "loom",
+        "branch": "main",
+        "enabled": true
+    },
+    "akshaypimprikar/pragma": {
+        "owner": "akshaypimprikar",
+        "name": "pragma",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "localixai/localix-marketplace": {
+        "owner": "localixai",
+        "name": "localix-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "drknowhow/ConciseClaude": {
+        "owner": "drknowhow",
+        "name": "ConciseClaude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "productweaver/productweaver-plugin": {
+        "owner": "productweaver",
+        "name": "productweaver-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "asarelcastellanos/claude-workbench": {
+        "owner": "asarelcastellanos",
+        "name": "claude-workbench",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrBogomips/skills": {
+        "owner": "MrBogomips",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "swarm-routing/skills": {
+        "owner": "swarm-routing",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kostya-epifanov/claude-gantry": {
+        "owner": "kostya-epifanov",
+        "name": "claude-gantry",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mnmnsyf/game-art-workflow": {
+        "owner": "mnmnsyf",
+        "name": "game-art-workflow",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jchapuis/drawing-skill": {
+        "owner": "jchapuis",
+        "name": "drawing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

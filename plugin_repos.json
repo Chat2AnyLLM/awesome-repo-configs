@@ -49313,5 +49313,149 @@
     "repoOwner": "video-db",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "rsaryev/tokendoctor": {
+    "name": "rsaryev/tokendoctor",
+    "description": "Claude Code plugin: see where your tokens go, audit your setup against the docs, and tune settings with an approved diff",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rsaryev",
+    "repoName": "tokendoctor",
+    "repoBranch": "main"
+  },
+  "ClickHouse/loom": {
+    "name": "ClickHouse/loom",
+    "description": "Data plane for AI agents with shared memory, document search and code intelligence. Plugins for Claude Code and Codex, an MCP server and SDKs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ClickHouse",
+    "repoName": "loom",
+    "repoBranch": "main"
+  },
+  "akshaypimprikar/pragma": {
+    "name": "akshaypimprikar/pragma",
+    "description": "Claude Code skill pipeline for iOS: spec, plan, feature, gates, review and release, with CI checks and a guard hook. Install with /plugin install pragma@pragma.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akshaypimprikar",
+    "repoName": "pragma",
+    "repoBranch": "main"
+  },
+  "localixai/localix-marketplace": {
+    "name": "localixai/localix-marketplace",
+    "description": "Localix Studio's own plugins and mini apps: a Claude Code marketplace and a mini app catalog",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "localixai",
+    "repoName": "localix-marketplace",
+    "repoBranch": "main"
+  },
+  "localixai/localix-community": {
+    "name": "localixai/localix-community",
+    "description": "Mini apps and plugins people publish, listed for Localix Studio and Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "localixai",
+    "repoName": "localix-community",
+    "repoBranch": "main"
+  },
+  "drknowhow/ConciseClaude": {
+    "name": "drknowhow/ConciseClaude",
+    "description": "Claude Code plugin that gets to the point: answer-first replies in plain sentences, depth on request, safety steps never cut. Opus replies 67% shorter, 24% cheaper (benchmarked).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "drknowhow",
+    "repoName": "ConciseClaude",
+    "repoBranch": "main"
+  },
+  "productweaver/productweaver-plugin": {
+    "name": "productweaver/productweaver-plugin",
+    "description": "Free, open-source plugin for Claude, ChatGPT and Codex, and GitHub Copilot: it helps deciding what to build by turning customer interview transcripts into a maintainable knowledge base and visual insights, with every...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "productweaver",
+    "repoName": "productweaver-plugin",
+    "repoBranch": "main"
+  },
+  "asarelcastellanos/claude-workbench": {
+    "name": "asarelcastellanos/claude-workbench",
+    "description": "My Claude Code setup: skills for plain writing, clean git and strict TypeScript, mods that shape how Claude Code works, and a process for shipping changes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asarelcastellanos",
+    "repoName": "claude-workbench",
+    "repoBranch": "main"
+  },
+  "bishtashish708/compact-diff": {
+    "name": "bishtashish708/compact-diff",
+    "description": "Claude Code plugin: see what /compact and auto-compaction dropped from your session, and re-inject the critical pieces.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bishtashish708",
+    "repoName": "compact-diff",
+    "repoBranch": "main"
+  },
+  "MrBogomips/skills": {
+    "name": "MrBogomips/skills",
+    "description": "Simple, general-purpose agent skills for any coding agent. Install with the skills CLI or as a Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MrBogomips",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "swarm-routing/skills": {
+    "name": "swarm-routing/skills",
+    "description": "The swarm-routing org's agent skills: one Claude Code plugin (swarm-routing) and plain Agent Skills for any agent (npx skills add swarm-routing/skills). Each skill is a procedure over a script in swarm-routing/.github...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "swarm-routing",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "arandevcode/claude-mods": {
+    "name": "arandevcode/claude-mods",
+    "description": "Claude Code mods by arandevcode: thinking glow and quota panel",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arandevcode",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "kostya-epifanov/claude-gantry": {
+    "name": "kostya-epifanov/claude-gantry",
+    "description": "A worktree-to-PR workflow for Claude Code. One chain of phase skills \u2014 plan, grill, implement, review, ship \u2014 run by hand, supervised, or unattended, with a gate the model cannot skip.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kostya-epifanov",
+    "repoName": "claude-gantry",
+    "repoBranch": "master"
+  },
+  "ideshun/claude-code-mods": {
+    "name": "ideshun/claude-code-mods",
+    "description": "Categorized Claude Code plugins, mods, skills and agents for Claude Desktop workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ideshun",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "carlocontaldi/claude-goon": {
+    "name": "carlocontaldi/claude-goon",
+    "description": "Claude Goon - go on, Claude. Puts your sessions back to work when the limit resets.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "carlocontaldi",
+    "repoName": "claude-goon",
+    "repoBranch": "main"
+  },
+  "jchapuis/drawing-skill": {
+    "name": "jchapuis/drawing-skill",
+    "description": "Claude draws by hand, one mark at a time, on a real tldraw canvas: measuring, blocking in, colour, ink, with each stage checked. No image model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jchapuis",
+    "repoName": "drawing-skill",
+    "repoBranch": "main"
   }
 }

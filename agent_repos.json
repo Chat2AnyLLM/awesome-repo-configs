@@ -7457,5 +7457,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ClickHouse/loom": {
+    "owner": "ClickHouse",
+    "name": "loom",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "kostya-epifanov/claude-gantry": {
+    "owner": "kostya-epifanov",
+    "name": "claude-gantry",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ideshun/claude-code-mods": {
+    "owner": "ideshun",
+    "name": "claude-code-mods",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
