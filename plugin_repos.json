@@ -49061,5 +49061,104 @@
     "repoOwner": "aivisibilitycensus",
     "repoName": "geo-skills",
     "repoBranch": "main"
+  },
+  "alexeyw/lot-map": {
+    "name": "alexeyw/lot-map",
+    "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexeyw",
+    "repoName": "lot-map",
+    "repoBranch": "main"
+  },
+  "devallibus/shiplog": {
+    "name": "devallibus/shiplog",
+    "description": "SUPERCHARGE AI-assisted development by using Git. Cross-model review gates, evidence-linked closure, verification profiles, model-tier routing, artifact envelopes, and provenance signing \u2014 all from a single skill for...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devallibus",
+    "repoName": "shiplog",
+    "repoBranch": "master"
+  },
+  "inhotel-io/govisit-toolkit": {
+    "name": "inhotel-io/govisit-toolkit",
+    "description": "Portable GoVisit Agent Skills for Claude Code, Codex, GitHub Copilot, Cursor and compatible assistants, with native plugins and travel integration resources.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inhotel-io",
+    "repoName": "govisit-toolkit",
+    "repoBranch": "main"
+  },
+  "BarzinL/barzins-cc-improvements": {
+    "name": "BarzinL/barzins-cc-improvements",
+    "description": "Token-efficiency, better outputs, and more autonomy in Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BarzinL",
+    "repoName": "barzins-cc-improvements",
+    "repoBranch": "main"
+  },
+  "mozuraa/claude-skills": {
+    "name": "mozuraa/claude-skills",
+    "description": "Biblioteca das minhas Claude Skills, por categorias e instal\u00e1vel como plugin do Claude Code \u2014 est\u00fadios de websites e apps (idear, criar, diagnosticar), ideias e programa\u00e7\u00e3o",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mozuraa",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "rsaryev/llx-plugin": {
+    "name": "rsaryev/llx-plugin",
+    "description": "Add Claude Code plugin support to any agent: load plugins and run their skills, commands, agents and hooks through ports your host implements.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rsaryev",
+    "repoName": "llx-plugin",
+    "repoBranch": "main"
+  },
+  "getpharon/pharon": {
+    "name": "getpharon/pharon",
+    "description": "Claude Code plugin, CLI and GitHub Action for Pharon: alerts you when a compromised package, exploited vulnerability, vendor breach or end-of-life date reaches your stack. Your code stays on your machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getpharon",
+    "repoName": "pharon",
+    "repoBranch": "main"
+  },
+  "lucas-saldanha-werneck/lucas-tools": {
+    "name": "lucas-saldanha-werneck/lucas-tools",
+    "description": "Claude Code plugins: Claude checks its own work and learns from your corrections; sessions survive restarts and /clear, get archived before deletion, and open from your phone or a terminal; side panes for assumptions...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucas-saldanha-werneck",
+    "repoName": "lucas-tools",
+    "repoBranch": "main"
+  },
+  "blazephoenixxyz-crypto/blazephoenix-mcp": {
+    "name": "blazephoenixxyz-crypto/blazephoenix-mcp",
+    "description": "MCP server docs: on-chain DEX aggregator tools for AI agents \u2014 quotes computed by the on-chain Quoter, signable calldata, provable staking solvency. Remote at blazephoenix.xyz/mcp, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blazephoenixxyz-crypto",
+    "repoName": "blazephoenix-mcp",
+    "repoBranch": "main"
+  },
+  "SrProfessional/Huddle": {
+    "name": "SrProfessional/Huddle",
+    "description": "Huddle: Decision-led development for teams coding with AI. A Claude Code plugin for GitHub and GitLab.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SrProfessional",
+    "repoName": "Huddle",
+    "repoBranch": "main"
+  },
+  "IsraelWebDev/funkbox": {
+    "name": "IsraelWebDev/funkbox",
+    "description": "Make funky shader loops, posters, FastSD images and 9:16 product video ads with Claude, on your own computer. One MCP server + Claude Code plugin. No cloud, no accounts, no NVIDIA GPU.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IsraelWebDev",
+    "repoName": "funkbox",
+    "repoBranch": "main"
   }
 }

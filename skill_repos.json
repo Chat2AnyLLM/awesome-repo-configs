@@ -57053,5 +57053,113 @@
         "name": "agents-infra",
         "branch": "main",
         "enabled": true
+    },
+    "vibeeval/vibecosystem": {
+        "owner": "vibeeval",
+        "name": "vibecosystem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devallibus/shiplog": {
+        "owner": "devallibus",
+        "name": "shiplog",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "daochild/agents-config": {
+        "owner": "daochild",
+        "name": "agents-config",
+        "branch": "main",
+        "enabled": true
+    },
+    "aryehlev/PeerHarness": {
+        "owner": "aryehlev",
+        "name": "PeerHarness",
+        "branch": "main",
+        "enabled": true
+    },
+    "tammo1007/alyn": {
+        "owner": "tammo1007",
+        "name": "alyn",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "inhotel-io/govisit-toolkit": {
+        "owner": "inhotel-io",
+        "name": "govisit-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "BarzinL/barzins-cc-improvements": {
+        "owner": "BarzinL",
+        "name": "barzins-cc-improvements",
+        "branch": "main",
+        "enabled": true
+    },
+    "shioo-gis/gis-kit": {
+        "owner": "shioo-gis",
+        "name": "gis-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mozuraa/claude-skills": {
+        "owner": "mozuraa",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "souleyFall/visite-claude-code": {
+        "owner": "souleyFall",
+        "name": "visite-claude-code",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rsaryev/llx-plugin": {
+        "owner": "rsaryev",
+        "name": "llx-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "getpharon/pharon": {
+        "owner": "getpharon",
+        "name": "pharon",
+        "branch": "main",
+        "enabled": true
+    },
+    "blazephoenixxyz-crypto/blazephoenix-mcp": {
+        "owner": "blazephoenixxyz-crypto",
+        "name": "blazephoenix-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "SrProfessional/Huddle": {
+        "owner": "SrProfessional",
+        "name": "Huddle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IsraelWebDev/funkbox": {
+        "owner": "IsraelWebDev",
+        "name": "funkbox",
+        "branch": "main",
+        "enabled": true
+    },
+    "Setynus/kr-council-skill": {
+        "owner": "Setynus",
+        "name": "kr-council-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "qzxcle/evoskill-for-email-marketing": {
+        "owner": "qzxcle",
+        "name": "evoskill-for-email-marketing",
+        "branch": "main",
+        "enabled": true
     }
 }
