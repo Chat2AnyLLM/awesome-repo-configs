@@ -49619,5 +49619,113 @@
     "repoOwner": "kqw8",
     "repoName": "chinese-epub-typo-fixer",
     "repoBranch": "main"
+  },
+  "bigohofone/paper-figure-skill": {
+    "name": "bigohofone/paper-figure-skill",
+    "description": "Claude Code skill for publication-ready matplotlib and seaborn figures, sized for NeurIPS, ICML, ICLR, CVPR and ACL papers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bigohofone",
+    "repoName": "paper-figure-skill",
+    "repoBranch": "main"
+  },
+  "causa-prima-ai/scribo-skill": {
+    "name": "causa-prima-ai/scribo-skill",
+    "description": "Scribo Claude/Codex skill \u2014 generate EN 16931-compliant e-invoices (ZUGFeRD, XRechnung, US plain PDF; Factur-X, Facturae, Peppol BIS UBL coming soon) via the public Scribo HTTP API",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "causa-prima-ai",
+    "repoName": "scribo-skill",
+    "repoBranch": "main"
+  },
+  "almoretti/martech-ai-skills-and-tools": {
+    "name": "almoretti/martech-ai-skills-and-tools",
+    "description": "Martech AI Skills and Tools \u2014 Claude skills & read-only CLIs for the marketing-technology stack (martech teardown, Google Ads, Microsoft Ads, Google Merchant Center).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "almoretti",
+    "repoName": "martech-ai-skills-and-tools",
+    "repoBranch": "main"
+  },
+  "addsumtech/topic-to-video": {
+    "name": "addsumtech/topic-to-video",
+    "description": "One sentence in, a finished explainer video out. A Claude Code / Codex skill: it researches the topic or reads your slides, writes and voices the script, designs every shot in code (Remotion, HTML, Blender), and rende...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "addsumtech",
+    "repoName": "topic-to-video",
+    "repoBranch": "main"
+  },
+  "opscrew-hub/opscrew": {
+    "name": "opscrew-hub/opscrew",
+    "description": "The ops crew you didn't hire: open-source AI agents that take your app from a GitHub repo to a hardened production deployment on your own cloud.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "opscrew-hub",
+    "repoName": "opscrew",
+    "repoBranch": "main"
+  },
+  "jindraregal/analyse-bottleneck": {
+    "name": "jindraregal/analyse-bottleneck",
+    "description": "Where did your Claude Code agent's time go? Reads local transcripts, shows tests, builds, deploys, polling, model time and waiting for you in an HTML report, and suggests fixes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jindraregal",
+    "repoName": "analyse-bottleneck",
+    "repoBranch": "main"
+  },
+  "JanGradkowski/ui-ux-review-judge": {
+    "name": "JanGradkowski/ui-ux-review-judge",
+    "description": "A Claude Code skill: an honest, read-only judge scores your page out of 10 while Claude fixes it, until 9/10.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JanGradkowski",
+    "repoName": "ui-ux-review-judge",
+    "repoBranch": "main"
+  },
+  "msFoma/foma-skills": {
+    "name": "msFoma/foma-skills",
+    "description": "\ud83e\udde9 17 lightweight skills for Claude Code: shape \u2192 plan \u2192 build \u2192 test \u2192 review \u2192 commit. Asks first, writes after your ok. Docs: EN \u00b7 RU",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "msFoma",
+    "repoName": "foma-skills",
+    "repoBranch": "main"
+  },
+  "mmarusyk/examen": {
+    "name": "mmarusyk/examen",
+    "description": "A one-plugin marketplace for Claude Code that hosts examen, a response-format protocol. Start a message with a one-letter tag and a colon, and Claude answers in exactly that format and nothing else",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mmarusyk",
+    "repoName": "examen",
+    "repoBranch": "main"
+  },
+  "Borcioo/rigger-claude-code": {
+    "name": "Borcioo/rigger-claude-code",
+    "description": "Rigger: a Claude Code plugin marketplace and agent harness - working rules, skills, subagents, hooks and guardrails, lessons learned, context guards",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Borcioo",
+    "repoName": "rigger-claude-code",
+    "repoBranch": "main"
+  },
+  "vadimgaidai/react-harness": {
+    "name": "vadimgaidai/react-harness",
+    "description": "React Harness for Claude Code: convention skills plus a structure plugin (feature folders or Feature-Sliced Design) make Claude write React applications in one structure on a plain request, with manual spec-driven sta...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vadimgaidai",
+    "repoName": "react-harness",
+    "repoBranch": "main"
+  },
+  "SRGSSR/agent-skills": {
+    "name": "SRGSSR/agent-skills",
+    "description": "Agent Skills and Claude Code plugins. project-phase makes coding agents work the way your project's phase needs (prototype, production, maintenance); work-journal lets any agent, model or human resume work from a per-...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SRGSSR",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
   }
 }

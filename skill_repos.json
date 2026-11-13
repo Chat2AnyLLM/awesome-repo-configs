@@ -57464,5 +57464,110 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "bigohofone/paper-figure-skill": {
+        "owner": "bigohofone",
+        "name": "paper-figure-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "coolxeo/grok-bot-skills": {
+        "owner": "coolxeo",
+        "name": "grok-bot-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "causa-prima-ai/scribo-skill": {
+        "owner": "causa-prima-ai",
+        "name": "scribo-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "almoretti/martech-ai-skills-and-tools": {
+        "owner": "almoretti",
+        "name": "martech-ai-skills-and-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "addsumtech/topic-to-video": {
+        "owner": "addsumtech",
+        "name": "topic-to-video",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "opscrew-hub/opscrew": {
+        "owner": "opscrew-hub",
+        "name": "opscrew",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ronnikc/agent-os-protocol": {
+        "owner": "ronnikc",
+        "name": "agent-os-protocol",
+        "branch": "main",
+        "enabled": true
+    },
+    "jindraregal/analyse-bottleneck": {
+        "owner": "jindraregal",
+        "name": "analyse-bottleneck",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "makeev/alphai-claude-skills": {
+        "owner": "makeev",
+        "name": "alphai-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BeedoElOmda/Beedo-Trade": {
+        "owner": "BeedoElOmda",
+        "name": "Beedo-Trade",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JanGradkowski/ui-ux-review-judge": {
+        "owner": "JanGradkowski",
+        "name": "ui-ux-review-judge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "msFoma/foma-skills": {
+        "owner": "msFoma",
+        "name": "foma-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mmarusyk/examen": {
+        "owner": "mmarusyk",
+        "name": "examen",
+        "branch": "main",
+        "enabled": true
+    },
+    "Borcioo/rigger-claude-code": {
+        "owner": "Borcioo",
+        "name": "rigger-claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "vadimgaidai/react-harness": {
+        "owner": "vadimgaidai",
+        "name": "react-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "SRGSSR/agent-skills": {
+        "owner": "SRGSSR",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
     }
 }
