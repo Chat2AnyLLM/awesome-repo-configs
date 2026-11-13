@@ -57350,5 +57350,112 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "ouxxyy/ouba-classmate": {
+        "owner": "ouxxyy",
+        "name": "ouba-classmate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shannonbay/Quarterdeck": {
+        "owner": "shannonbay",
+        "name": "Quarterdeck",
+        "branch": "main",
+        "enabled": true
+    },
+    "lsall357357/startup-problem-finder": {
+        "owner": "lsall357357",
+        "name": "startup-problem-finder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "looki-ai/looki-plugin": {
+        "owner": "looki-ai",
+        "name": "looki-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BadKid90s/aionforge": {
+        "owner": "BadKid90s",
+        "name": "aionforge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shasan7774bs23/agentic-qa-autopilot": {
+        "owner": "shasan7774bs23",
+        "name": "agentic-qa-autopilot",
+        "branch": "main",
+        "enabled": true
+    },
+    "OthmanAdi/bookmark-bookshelf": {
+        "owner": "OthmanAdi",
+        "name": "bookmark-bookshelf",
+        "branch": "main",
+        "enabled": true
+    },
+    "phanvietanh102/apex-twin-suite": {
+        "owner": "phanvietanh102",
+        "name": "apex-twin-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PanQiWei/pqw-skills": {
+        "owner": "PanQiWei",
+        "name": "pqw-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RIJUDEVx/agent-skills": {
+        "owner": "RIJUDEVx",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jonaskahn/specwright": {
+        "owner": "jonaskahn",
+        "name": "specwright",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zdraveski/project-memory": {
+        "owner": "zdraveski",
+        "name": "project-memory",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hxxnn/codemap": {
+        "owner": "hxxnn",
+        "name": "codemap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Othereum/agent-desk": {
+        "owner": "Othereum",
+        "name": "agent-desk",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guofengli1214-cmd/ai-novel-editor-skills": {
+        "owner": "guofengli1214-cmd",
+        "name": "ai-novel-editor-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kqw8/chinese-epub-typo-fixer": {
+        "owner": "kqw8",
+        "name": "chinese-epub-typo-fixer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

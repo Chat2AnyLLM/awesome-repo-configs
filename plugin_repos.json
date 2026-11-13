@@ -49466,5 +49466,140 @@
     "repoOwner": "ngqhuy-dev",
     "repoName": "claude-marketplace",
     "repoBranch": "main"
+  },
+  "ouxxyy/ouba-classmate": {
+    "name": "ouxxyy/ouba-classmate",
+    "description": "\u4e00\u884c\u5b89\u88c5\u7684\u4e2d\u6587\u6c42\u804c Agent Skills \u5957\u4ef6\uff08\u5c97\u4f4d\u641c\u7d22/\u7b80\u5386\u5339\u914d/\u9762\u8bd5\u966a\u7ec3/\u67e5\u516c\u53f8\uff09+\u300a\u4e2d\u6587 AI \u6c42\u804c Skill \u516c\u5f00\u6a2a\u8bc4\u300b\u6570\u636e\u3002Claude Code\u00b7Codex\u00b7MCP",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ouxxyy",
+    "repoName": "ouba-classmate",
+    "repoBranch": "main"
+  },
+  "shannonbay/Quarterdeck": {
+    "name": "shannonbay/Quarterdeck",
+    "description": "A persistent captain's mate for Claude Code: give it goals like \"keep my inbox under control\" and it works on them in the background on a schedule, asks you to approve actions from a pane beside your chat or your phon...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shannonbay",
+    "repoName": "Quarterdeck",
+    "repoBranch": "main"
+  },
+  "sakebomb/mcp-recall": {
+    "name": "sakebomb/mcp-recall",
+    "description": "Compresses MCP and Bash tool output for Claude Code and keeps full results in SQLite with full-text search for retrieval.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sakebomb",
+    "repoName": "mcp-recall",
+    "repoBranch": "main"
+  },
+  "looki-ai/looki-plugin": {
+    "name": "looki-ai/looki-plugin",
+    "description": "Looki MCP Plugin for AI assistants",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "looki-ai",
+    "repoName": "looki-plugin",
+    "repoBranch": "main"
+  },
+  "BadKid90s/aionforge": {
+    "name": "BadKid90s/aionforge",
+    "description": "\u5973\u88c5\u7535\u5546 AI \u51fa\u56fe\u63d2\u4ef6\uff1a\u5370\u82b1\u63d0\u53d6 / \u6362\u88c5 / \u88c2\u53d8 / \u6574\u5957\u4e0a\u67b6\u56fe\u3002\u652f\u6301 Claude Code\u3001Grok Build\u3001Codex",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BadKid90s",
+    "repoName": "aionforge",
+    "repoBranch": "main"
+  },
+  "shasan7774bs23/agentic-qa-autopilot": {
+    "name": "shasan7774bs23/agentic-qa-autopilot",
+    "description": "Agentic QA autopilot for Claude Code. Set up once for all your projects; then /qa-functional TICKET reads the Jira ticket, turns its acceptance criteria into numbered rules, plans the tests, runs them live in a browse...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shasan7774bs23",
+    "repoName": "agentic-qa-autopilot",
+    "repoBranch": "main"
+  },
+  "ac0033/skills": {
+    "name": "ac0033/skills",
+    "description": "\u9762\u5411 Claude Code\u3001Codex\u3001DeepSeek Harness \u53ca\u5176\u4ed6 Agent \u7684\u5de5\u5177\u4e0e\u63d2\u4ef6\u96c6\u5408\u3002\u5404\u5de5\u5177\u72ec\u7acb\u7ef4\u62a4\u3001\u6309\u9700\u5b89\u88c5\uff0c\u6db5\u76d6\u4ea7\u54c1\u8bbe\u8ba1\u3001\u8f6f\u4ef6\u5de5\u7a0b\u4e0e\u4ea4\u4ed8\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ac0033",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "OthmanAdi/bookmark-bookshelf": {
+    "name": "OthmanAdi/bookmark-bookshelf",
+    "description": "3D bookmark manager: saved links as books on a draggable shelf. Import browser bookmarks, read saved text, share a reading list. Local-first, no account, vanilla TypeScript, with a Claude Code skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OthmanAdi",
+    "repoName": "bookmark-bookshelf",
+    "repoBranch": "main"
+  },
+  "phanvietanh102/apex-twin-suite": {
+    "name": "phanvietanh102/apex-twin-suite",
+    "description": "\ud83d\ude80 Stop letting AI build the wrong thing fast or patch workspaces blindly. Twin-Engine AI Suite (Greenfield A-to-Z Builder + Root-Vision Forensic Reviewer) with Pros/Cons Decision Matrix, 6-Role C-Suite Red-Team & Pyth...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phanvietanh102",
+    "repoName": "apex-twin-suite",
+    "repoBranch": "main"
+  },
+  "PanQiWei/pqw-skills": {
+    "name": "PanQiWei/pqw-skills",
+    "description": "Agent skills for large changes: a define-then-deliver dev flow with handoff, slices and thinking models for Claude Code, Codex, Cursor, Kimi Code, DSH and other coding agents. \u7ed9 coding agent \u7684\u5355\u4f1a\u8bdd\u7814\u53d1\u6d41\u6280\u80fd\u96c6",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PanQiWei",
+    "repoName": "pqw-skills",
+    "repoBranch": "main"
+  },
+  "jonaskahn/specwright": {
+    "name": "jonaskahn/specwright",
+    "description": "\ud83e\uddd1\u200d\ud83d\udcbb Turning ideas into testable specs and implementation-ready work for human and agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jonaskahn",
+    "repoName": "specwright",
+    "repoBranch": "main"
+  },
+  "zdraveski/project-memory": {
+    "name": "zdraveski/project-memory",
+    "description": "Persistent memory for Claude Code: picks up where you left off, keeps a local journal of every session, and brings lost notes back. Local-first, no account.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zdraveski",
+    "repoName": "project-memory",
+    "repoBranch": "master"
+  },
+  "hxxnn/codemap": {
+    "name": "hxxnn/codemap",
+    "description": "Claude Code plugin that maps your codebase into architecture diagrams, dependency graphs, mindmaps and an onboarding guide",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hxxnn",
+    "repoName": "codemap",
+    "repoBranch": "main"
+  },
+  "Othereum/agent-desk": {
+    "name": "Othereum/agent-desk",
+    "description": "A Claude Code plugin that remembers what you were working on yesterday: per-task state, decisions and findings, kept as plain Markdown.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Othereum",
+    "repoName": "agent-desk",
+    "repoBranch": "main"
+  },
+  "kqw8/chinese-epub-typo-fixer": {
+    "name": "kqw8/chinese-epub-typo-fixer",
+    "description": "Fix OCR typos in Chinese EPUB books.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kqw8",
+    "repoName": "chinese-epub-typo-fixer",
+    "repoBranch": "main"
   }
 }
