@@ -1,4 +1,11 @@
 {
+    "bereach-ai/linkedin-prospecting-skills": {
+        "owner": "bereach-ai",
+        "name": "linkedin-prospecting-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "wavegrain/wavegrain-mcp": {
         "owner": "wavegrain",
         "name": "wavegrain-mcp",

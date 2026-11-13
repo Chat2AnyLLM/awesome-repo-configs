@@ -1,4 +1,22 @@
 {
+  "bereach-ai/bereach-claude-plugin": {
+    "name": "bereach-claude-plugin",
+    "description": "BeReach: a Claude Code plugin marketplace whose bereach plugin connects the hosted BeReach MCP server (https://mcp.bereach.ai/mcp, Streamable HTTP, OAuth sign-in, no API key). Describe your ideal customer in one sentence, or paste a LinkedIn post, and BeReach finds the people who match and helps you write the first message. Free trial. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bereach-ai",
+    "repoName": "bereach-claude-plugin",
+    "repoBranch": "main"
+  },
+  "bereach-ai/linkedin-prospecting-skills": {
+    "name": "linkedin-prospecting-skills",
+    "description": "BeReach skills: a Claude Code plugin marketplace with 6 skills for LinkedIn prospecting and cold email: find the right people, sort them into personas, learn your voice, write invitations, first messages and follow-ups, measure acceptance and replies at 7 days. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bereach-ai",
+    "repoName": "linkedin-prospecting-skills",
+    "repoBranch": "main"
+  },
   "wavegrain/wavegrain-mcp": {
     "name": "wavegrain-mcp",
     "description": "Wavegrain: a Claude Code plugin marketplace whose wavegrain plugin connects the hosted Wavegrain MCP server (https://wavegrain.com/api/mcp) and a skill to make, edit, schedule and post TikTok slideshows and Instagram carousels for a brand. Needs a Wavegrain account. MIT.",

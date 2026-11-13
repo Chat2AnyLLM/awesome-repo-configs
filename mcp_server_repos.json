@@ -1,4 +1,12 @@
 {
+  "bereach-ai/bereach-claude-plugin": {
+    "owner": "bereach-ai",
+    "name": "bereach-claude-plugin",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.benjaminb10/bereach",
+    "note": "Find people and companies from a one-sentence description, read a profile, see who reacts to a post, find work emails and prepare first messages. Hosted only: Streamable HTTP at https://mcp.bereach.ai/mcp with OAuth; the repo holds server.json and connection files, not the server source. MIT."
+  },
   "wavegrain/wavegrain-mcp": {
     "owner": "wavegrain",
     "name": "wavegrain-mcp",
