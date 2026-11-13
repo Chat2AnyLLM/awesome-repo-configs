@@ -49457,5 +49457,14 @@
     "repoOwner": "jchapuis",
     "repoName": "drawing-skill",
     "repoBranch": "main"
+  },
+  "ngqhuy-dev/claude-marketplace": {
+    "name": "ngqhuy-dev/claude-marketplace",
+    "description": "Curated Claude Code plugins for Flutter & React Native \u2014 pinned to upstream SHAs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ngqhuy-dev",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
   }
 }
