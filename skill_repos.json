@@ -57694,5 +57694,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "leadsets/leadsets-skills": {
+        "owner": "leadsets",
+        "name": "leadsets-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
