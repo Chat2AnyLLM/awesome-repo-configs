@@ -1,4 +1,11 @@
 {
+    "benjaminb10/viewlify-mcp": {
+        "owner": "benjaminb10",
+        "name": "viewlify-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "klingai-tech/claude-plugin": {
         "owner": "klingai-tech",
         "name": "claude-plugin",

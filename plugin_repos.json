@@ -1,4 +1,13 @@
 {
+  "benjaminb10/viewlify-mcp": {
+    "name": "viewlify-mcp",
+    "description": "Viewlify: a Claude Code plugin marketplace whose viewlify plugin connects the hosted Viewlify MCP server (https://viewlify.app/api/mcp, Streamable HTTP) and three skills built on public TikTok data: find the videos that really break out in a niche and why, get video ideas modeled on real breakouts, and a weekly trend brief of rising formats, hashtags and sounds. Freemium. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "benjaminb10",
+    "repoName": "viewlify-mcp",
+    "repoBranch": "main"
+  },
   "sipkigroup/witness": {
     "name": "witness",
     "description": "Deus Witness: a Claude Code plugin marketplace whose deus-witness plugin holds risky tool calls until you approve them with a passkey (hosted witness by Sipki LLC or self-run); signed receipts verifiable offline. Apache-2.0.",
