@@ -1,4 +1,22 @@
 {
+  "klingai-tech/claude-plugin": {
+    "name": "kling-ai",
+    "description": "Official Kling AI Claude plugin marketplace for global users. Connects the hosted OAuth MCP service at https://kling.ai/mcp/plugin for image and video creation; generation uses account credits. The repository contains the plugin client, not the hosted server source.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "klingai-tech",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
+  "klingai-tech/claude-plugin-cn": {
+    "name": "kling-ai-cn",
+    "description": "Official Kling AI Claude plugin marketplace for China users. Connects the hosted OAuth MCP service at https://klingai.com/mcp/plugin for image and video creation; generation uses account credits. The repository contains the plugin client, not the hosted server source.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "klingai-tech",
+    "repoName": "claude-plugin-cn",
+    "repoBranch": "main"
+  },
   "bereach-ai/bereach-claude-plugin": {
     "name": "bereach-claude-plugin",
     "description": "BeReach: a Claude Code plugin marketplace whose bereach plugin connects the hosted BeReach MCP server (https://mcp.bereach.ai/mcp, Streamable HTTP, OAuth sign-in, no API key). Describe your ideal customer in one sentence, or paste a LinkedIn post, and BeReach finds the people who match and helps you write the first message. Free trial. MIT.",
