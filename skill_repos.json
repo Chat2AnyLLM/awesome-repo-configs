@@ -57810,5 +57810,115 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "alchaincyf/darwin-skill": {
+        "owner": "alchaincyf",
+        "name": "darwin-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "BrianRWagner/ai-marketing-claude-code-skills": {
+        "owner": "BrianRWagner",
+        "name": "ai-marketing-claude-code-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "gapmiss/obsidian-plugin-skill": {
+        "owner": "gapmiss",
+        "name": "obsidian-plugin-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Fusengine/claude-plugins": {
+        "owner": "Fusengine",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "maxoliverbr/vcupid-plugin": {
+        "owner": "maxoliverbr",
+        "name": "vcupid-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "achisolomon/open-software-factory": {
+        "owner": "achisolomon",
+        "name": "open-software-factory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JasmyLab-JANCTION/janction-render": {
+        "owner": "JasmyLab-JANCTION",
+        "name": "janction-render",
+        "branch": "main",
+        "enabled": true
+    },
+    "eph5xx/surfskills.surf": {
+        "owner": "eph5xx",
+        "name": "surfskills.surf",
+        "branch": "main",
+        "enabled": true
+    },
+    "erclx/canon": {
+        "owner": "erclx",
+        "name": "canon",
+        "branch": "main",
+        "enabled": true
+    },
+    "livmo-public/exit-engineering": {
+        "owner": "livmo-public",
+        "name": "exit-engineering",
+        "branch": "main",
+        "enabled": true
+    },
+    "oliveiracarlosadv/InteligenciaClaude": {
+        "owner": "oliveiracarlosadv",
+        "name": "InteligenciaClaude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jograh/teach-me-everything": {
+        "owner": "Jograh",
+        "name": "teach-me-everything",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eduardoghi/fl-studio-skills": {
+        "owner": "eduardoghi",
+        "name": "fl-studio-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GabrieleDattile/agent-superpowers": {
+        "owner": "GabrieleDattile",
+        "name": "agent-superpowers",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "muend/orchestration-skills": {
+        "owner": "muend",
+        "name": "orchestration-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maximlukyanovich/work-agent-tools": {
+        "owner": "maximlukyanovich",
+        "name": "work-agent-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "R0drig0V1/claude-code-multi-agent": {
+        "owner": "R0drig0V1",
+        "name": "claude-code-multi-agent",
+        "branch": "main",
+        "enabled": true
     }
 }

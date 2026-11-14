@@ -7506,5 +7506,26 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "achisolomon/open-software-factory": {
+    "owner": "achisolomon",
+    "name": "open-software-factory",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "noambrand/ai-time-estimator": {
+    "owner": "noambrand",
+    "name": "ai-time-estimator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "muend/orchestration-skills": {
+    "owner": "muend",
+    "name": "orchestration-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

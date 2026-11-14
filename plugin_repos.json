@@ -50006,5 +50006,104 @@
     "repoOwner": "moxclaw",
     "repoName": "fork-skill",
     "repoBranch": "main"
+  },
+  "Fusengine/claude-plugins": {
+    "name": "Fusengine/claude-plugins",
+    "description": "Redefining development through cognitive automation and collaborative agent systems.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fusengine",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "maxoliverbr/vcupid-plugin": {
+    "name": "maxoliverbr/vcupid-plugin",
+    "description": "Claude Code plugin \u2014 AI fundraising toolkit: VC pipeline, fund matching, partner profiling, outreach, pitch prep, debriefs, and term sheet analysis",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maxoliverbr",
+    "repoName": "vcupid-plugin",
+    "repoBranch": "main"
+  },
+  "achisolomon/open-software-factory": {
+    "name": "achisolomon/open-software-factory",
+    "description": "Open-source Claude Code plugin: a team of AI agents (product manager, architect, developer, QA, security, DevOps, FinOps) that builds software through review and approval gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "achisolomon",
+    "repoName": "open-software-factory",
+    "repoBranch": "main"
+  },
+  "JasmyLab-JANCTION/janction-render": {
+    "name": "JasmyLab-JANCTION/janction-render",
+    "description": "Cloud GPU rendering for Blender scenes and 3D models (GLB/FBX/USD/STL) for AI agents: MCP server, HTTP API, CLI. Product shots, turntables, animations from Claude, ChatGPT, Codex, Cursor. Free to start (100 JPY with n...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JasmyLab-JANCTION",
+    "repoName": "janction-render",
+    "repoBranch": "main"
+  },
+  "dimka3553/claudopus": {
+    "name": "dimka3553/claudopus",
+    "description": "Claude Code, with eight arms: one chat runs many jobs at once, with a panel showing each. macOS",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dimka3553",
+    "repoName": "claudopus",
+    "repoBranch": "main"
+  },
+  "noambrand/ai-time-estimator": {
+    "name": "noambrand/ai-time-estimator",
+    "description": "Ask Claude Code how long a task will take and get an answer in AI time, measured from your own transcripts. Scores itself after every task.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "noambrand",
+    "repoName": "ai-time-estimator",
+    "repoBranch": "main"
+  },
+  "erclx/canon": {
+    "name": "erclx/canon",
+    "description": "Runs your agent's work and keeps its code good, on one setup for every repo",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erclx",
+    "repoName": "canon",
+    "repoBranch": "main"
+  },
+  "eduardoghi/fl-studio-skills": {
+    "name": "eduardoghi/fl-studio-skills",
+    "description": "Skills and helper scripts for producing music in FL Studio with Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eduardoghi",
+    "repoName": "fl-studio-skills",
+    "repoBranch": "main"
+  },
+  "GabrieleDattile/agent-superpowers": {
+    "name": "GabrieleDattile/agent-superpowers",
+    "description": "Production-grade agent skills & cursor rules for autonomous AI coding. Red-team fuzzing, RED-to-GREEN TDD, and context compression for Claude Code, Cursor & MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GabrieleDattile",
+    "repoName": "agent-superpowers",
+    "repoBranch": "main"
+  },
+  "maximlukyanovich/work-agent-tools": {
+    "name": "maximlukyanovich/work-agent-tools",
+    "description": "Claude Code plugins for a team on Jira and GitHub or GitLab: workflow commands written for each project, from the board to the merge, each ending with the next prompt ready to paste; reviews that check their findings...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maximlukyanovich",
+    "repoName": "work-agent-tools",
+    "repoBranch": "main"
+  },
+  "R0drig0V1/claude-code-multi-agent": {
+    "name": "R0drig0V1/claude-code-multi-agent",
+    "description": "Claude Code plugin for parallel multi-agent development: one integrator owns main, other sessions work in git worktrees",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "R0drig0V1",
+    "repoName": "claude-code-multi-agent",
+    "repoBranch": "main"
   }
 }
