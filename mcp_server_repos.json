@@ -1,4 +1,12 @@
 {
+  "benjaminb10/viewlify-mcp": {
+    "owner": "benjaminb10",
+    "name": "viewlify-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.benjaminb10/viewlify",
+    "note": "Public TikTok data for AI agents: videos that beat their creator's usual views, trending videos, hashtags and sounds by niche. Hosted only: Streamable HTTP at https://viewlify.app/api/mcp; three tools answer without a key, an API key unlocks full search. The repo holds server.json, connection files and the viewlify npm CLI, not the server source. MIT."
+  },
   "bereach-ai/bereach-claude-plugin": {
     "owner": "bereach-ai",
     "name": "bereach-claude-plugin",
