@@ -57701,5 +57701,107 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "marcosnovo/unslop-design": {
+        "owner": "marcosnovo",
+        "name": "unslop-design",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cjh-solver/MathModeling-Skills-Arsenal": {
+        "owner": "cjh-solver",
+        "name": "MathModeling-Skills-Arsenal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Tanmay-Ts/driving-seat": {
+        "owner": "Tanmay-Ts",
+        "name": "driving-seat",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "synaptiai/agent-capability-standard": {
+        "owner": "synaptiai",
+        "name": "agent-capability-standard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "roke22/pisha": {
+        "owner": "roke22",
+        "name": "pisha",
+        "branch": "main",
+        "enabled": true
+    },
+    "anilcancakir/ai": {
+        "owner": "anilcancakir",
+        "name": "ai",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "karefined-eng/information-is-beautiful-skill": {
+        "owner": "karefined-eng",
+        "name": "information-is-beautiful-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "reddygopalkrishna/trading-skills": {
+        "owner": "reddygopalkrishna",
+        "name": "trading-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "laaielichter/Stashpad": {
+        "owner": "laaielichter",
+        "name": "Stashpad",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "quiqqe/fill-me-in": {
+        "owner": "quiqqe",
+        "name": "fill-me-in",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shandar/memory-map": {
+        "owner": "shandar",
+        "name": "memory-map",
+        "branch": "main",
+        "enabled": true
+    },
+    "ERunnn/decision-card-first": {
+        "owner": "ERunnn",
+        "name": "decision-card-first",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MBotirjonDev/flutter-senior-review": {
+        "owner": "MBotirjonDev",
+        "name": "flutter-senior-review",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Traction-AI-Labs/skills": {
+        "owner": "Traction-AI-Labs",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "moxclaw/fork-skill": {
+        "owner": "moxclaw",
+        "name": "fork-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

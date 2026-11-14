@@ -49871,5 +49871,131 @@
     "repoOwner": "jpablodrexler",
     "repoName": "backlog-kit",
     "repoBranch": "main"
+  },
+  "marcosnovo/unslop-design": {
+    "name": "marcosnovo/unslop-design",
+    "description": "An agent skill (Claude Code, Codex, Cursor, Copilot, Gemini CLI...) that makes your app or site stop looking AI-generated: 64 numbered design fixes, scripts that score your UI from 0 to 100 (example: 26 \u2192 100), and a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marcosnovo",
+    "repoName": "unslop-design",
+    "repoBranch": "main"
+  },
+  "cjh-solver/MathModeling-Skills-Arsenal": {
+    "name": "cjh-solver/MathModeling-Skills-Arsenal",
+    "description": "\u9762\u5411\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684 AI Agent \u6280\u80fd\u96c6\uff1a\u8bfb\u9898\u5efa\u6a21\u3001\u6c42\u89e3\u3001\u53ef\u89c6\u5316\u3001\u8bba\u6587\u5199\u4f5c\u4e0e\u7ec8\u7a3f\u8bc4\u5ba1\u300235 skills for CUMCM / MCM / ICM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cjh-solver",
+    "repoName": "MathModeling-Skills-Arsenal",
+    "repoBranch": "main"
+  },
+  "synaptiai/agent-capability-standard": {
+    "name": "synaptiai/agent-capability-standard",
+    "description": "Agent Capability Standard is an open specification for composable AI agent capabilities. It defines 36 atomic capabilities across 9 cognitive layers, a type-safe workflow DSL, and grounded world modeling with trust-aw...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "synaptiai",
+    "repoName": "agent-capability-standard",
+    "repoBranch": "main"
+  },
+  "roke22/pisha": {
+    "name": "roke22/pisha",
+    "description": "Teams of AI coding agents (Claude Code, Codex CLI, Grok CLI), each led by a coordinator, on any of your machines. A self-hosted dashboard with an inbox for your decisions, task boards synced with GitHub and a web term...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "roke22",
+    "repoName": "pisha",
+    "repoBranch": "main"
+  },
+  "pedrovelasquez9/review-radar": {
+    "name": "pedrovelasquez9/review-radar",
+    "description": "Claude Code mod: a review pane that shows, with their diff, only the changes that need a human (business logic, architecture, data, secrets, third parties). The rest goes to the PR.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pedrovelasquez9",
+    "repoName": "review-radar",
+    "repoBranch": "main"
+  },
+  "anilcancakir/ai": {
+    "name": "anilcancakir/ai",
+    "description": "AI coding skills for Flutter: Wind UI, the Magic Framework and the dowel dev tooling, served to Claude Code, Cursor, Gemini CLI, OpenCode and more from one registry. Install with npx skills add anilcancakir/ai.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anilcancakir",
+    "repoName": "ai",
+    "repoBranch": "master"
+  },
+  "karefined-eng/information-is-beautiful-skill": {
+    "name": "karefined-eng/information-is-beautiful-skill",
+    "description": "Beautiful, honest data visualization as an Agent Skill \u2014 five laws, a chart matcher, a 25-point beauty audit. For Claude Code, Codex, Cursor & friends. Fan tribute, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karefined-eng",
+    "repoName": "information-is-beautiful-skill",
+    "repoBranch": "main"
+  },
+  "reddygopalkrishna/trading-skills": {
+    "name": "reddygopalkrishna/trading-skills",
+    "description": "Free, open-source trading skills for AI agents (Claude Code, Codex, Cursor, Gemini CLI). 21 skills, any market, any broker, zero API keys: analysis, patterns, F&O, screener, risk gate, backtests, journal, paper + live...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "reddygopalkrishna",
+    "repoName": "trading-skills",
+    "repoBranch": "main"
+  },
+  "laaielichter/Stashpad": {
+    "name": "laaielichter/Stashpad",
+    "description": "Local memory for AI coding agents: plain Markdown notes with sources, a review queue for agent writes, and handoffs that survive compaction. MCP server, CLI and Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "laaielichter",
+    "repoName": "Stashpad",
+    "repoBranch": "main"
+  },
+  "jinhuang712/i-am-overwhelmed": {
+    "name": "jinhuang712/i-am-overwhelmed",
+    "description": "Overwhelmed by replies? Here's the cure! \u6211\u8fc7\u8f7d\u4e86\uff01",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jinhuang712",
+    "repoName": "i-am-overwhelmed",
+    "repoBranch": "master"
+  },
+  "quiqqe/fill-me-in": {
+    "name": "quiqqe/fill-me-in",
+    "description": "Claude Code plugin: answers you can understand without having watched the agent work. /fill-me-in re-explains unclear answers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "quiqqe",
+    "repoName": "fill-me-in",
+    "repoBranch": "main"
+  },
+  "shandar/memory-map": {
+    "name": "shandar/memory-map",
+    "description": "A complete memory loop for Claude \u2014 snapshot, recall, and prune project context across sessions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shandar",
+    "repoName": "memory-map",
+    "repoBranch": "main"
+  },
+  "Traction-AI-Labs/skills": {
+    "name": "Traction-AI-Labs/skills",
+    "description": "Plugins for Claude Code, Codex, Grok and the Claude app: reading pages, decision pages and call scripts; two-model review of code and of plans; persona walks of prototypes; drafts rewritten to read like a person wrote...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Traction-AI-Labs",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "moxclaw/fork-skill": {
+    "name": "moxclaw/fork-skill",
+    "description": "Fork: AI agents share what they're building, test what others built, and improve together. Skill, Claude Code plugin, Gemini extension and MCP for fork.zone.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moxclaw",
+    "repoName": "fork-skill",
+    "repoBranch": "main"
   }
 }

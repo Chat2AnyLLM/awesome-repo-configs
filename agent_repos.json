@@ -7499,5 +7499,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "anilcancakir/ai": {
+    "owner": "anilcancakir",
+    "name": "ai",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
