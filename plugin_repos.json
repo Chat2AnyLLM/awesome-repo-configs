@@ -49754,5 +49754,122 @@
     "repoOwner": "SRGSSR",
     "repoName": "agent-skills",
     "repoBranch": "main"
+  },
+  "Agoragentic/agoragentic-integrations": {
+    "name": "Agoragentic/agoragentic-integrations",
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, wallets, SDKs, and examples for execute-first routing, governed handoffs, and receipt-aware agent...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Agoragentic",
+    "repoName": "agoragentic-integrations",
+    "repoBranch": "main"
+  },
+  "EditAtlas/skills": {
+    "name": "EditAtlas/skills",
+    "description": "Agent skills for video editing with EditAtlas: transcribe with Whisper, sound-design a video, break down a reference edit, and hand over an editable copy for EditAtlas Studio. For Claude Code, Claude apps and other ag...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EditAtlas",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Julian-dev28/pathiel": {
+    "name": "Julian-dev28/pathiel",
+    "description": "AI trading agent for Hyperliquid: Claude trades perps through MCP with an exact stop and target on every order, 3x / 1% risk by default, oil and metals desk briefs. Free Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Julian-dev28",
+    "repoName": "pathiel",
+    "repoBranch": "main"
+  },
+  "finolabs/vietnamizer": {
+    "name": "finolabs/vietnamizer",
+    "description": "Bi\u00ean t\u1eadp ti\u1ebfng Vi\u1ec7t cho Claude Code, Codex v\u00e0 Antigravity: s\u1eeda b\u1ea3n nh\u00e1p AI v\u00e0 b\u1ea3n d\u1ecbch s\u00e1t, gi\u1eef nguy\u00ean \u00fd, d\u1eef ki\u1ec7n v\u00e0 gi\u1ecdng ng\u01b0\u1eddi vi\u1ebft.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "finolabs",
+    "repoName": "vietnamizer",
+    "repoBranch": "main"
+  },
+  "mustafaakmese/agentmart-plugins": {
+    "name": "mustafaakmese/agentmart-plugins",
+    "description": "AgentMart plugins for Claude Code, Codex, Cursor, VS Code, Gemini CLI and Antigravity: ready parts and utilities for AI agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mustafaakmese",
+    "repoName": "agentmart-plugins",
+    "repoBranch": "main"
+  },
+  "Tracetoon/tracetoon": {
+    "name": "Tracetoon/tracetoon",
+    "description": "PRs with receipts. And comics. Tracetoon turns your coding agent's session logs into a pull request where every claim is checked against what actually ran, with a comic on top.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tracetoon",
+    "repoName": "tracetoon",
+    "repoBranch": "main"
+  },
+  "haritel97/fillprompt": {
+    "name": "haritel97/fillprompt",
+    "description": "Free AI prompt library: 9,500+ ready-to-copy image, video and text prompts with sample results, plus an MCP server and Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "haritel97",
+    "repoName": "fillprompt",
+    "repoBranch": "main"
+  },
+  "keenskills/skills": {
+    "name": "keenskills/skills",
+    "description": "Agent skills for Claude Code, Codex, Cursor and Gemini CLI: read a web page as data instead of a screenshot, draw print-ready architecture diagrams, write client design documents in Word.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "keenskills",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "ychampion/ystack": {
+    "name": "ychampion/ystack",
+    "description": "The power-user stack for AI coding agents: mods, skills, subagents and setup for Claude Code, Codex and OpenCode. Your rules enforced as code, not hoped for in a prompt; long sessions that stay fast and cheap. One-lin...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ychampion",
+    "repoName": "ystack",
+    "repoBranch": "main"
+  },
+  "lukekh/indulgence": {
+    "name": "lukekh/indulgence",
+    "description": "\ud835\udd16\ud835\udd2c\ud835\udd1f\ud835\udd1e\ud835\udd29\ud835\udd21 \ud835\udd21\ud835\udd1e\ud835\udd30 \ud835\udd17\ud835\udd2c\ud835\udd28\ud835\udd22\ud835\udd2b \ud835\udd26\ud835\udd2a \ud835\udd0e\ud835\udd2c\ud835\udd2b\ud835\udd31\ud835\udd22\ud835\udd35\ud835\udd31 \ud835\udd28\ud835\udd29\ud835\udd26\ud835\udd2b\ud835\udd24\ud835\udd31, \ud835\udd21\ud835\udd26\ud835\udd22 \ud835\udd16\ud835\udd22\ud835\udd22\ud835\udd29\ud835\udd22 \ud835\udd1e\ud835\udd32\ud835\udd30 \ud835\udd21\ud835\udd22\ud835\udd2a \ud835\udd09\ud835\udd22\ud835\udd24\ud835\udd22\ud835\udd23\ud835\udd22\ud835\udd32\ud835\udd22\ud835\udd2f \ud835\udd30\ud835\udd2d\ud835\udd2f\ud835\udd26\ud835\udd2b\ud835\udd24\ud835\udd31.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lukekh",
+    "repoName": "indulgence",
+    "repoBranch": "main"
+  },
+  "iboss21/animatedwebs-claude": {
+    "name": "iboss21/animatedwebs-claude",
+    "description": "Official Animated Webs (AnimatedWebs) plugin for Claude Code: 1,500+ animated website templates, cinematic video backgrounds, UI components and design systems through a 22-tool MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iboss21",
+    "repoName": "animatedwebs-claude",
+    "repoBranch": "main"
+  },
+  "gpavan1992/artha-skill": {
+    "name": "gpavan1992/artha-skill",
+    "description": "The open-source Claude skills for Indian investors: real fund NAVs, NSE/BSE prices, fundamentals, news, screener, overlap and tax estimates",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gpavan1992",
+    "repoName": "artha-skill",
+    "repoBranch": "main"
+  },
+  "jpablodrexler/backlog-kit": {
+    "name": "jpablodrexler/backlog-kit",
+    "description": "Claude Code skills that take features and bugs from a plain-markdown backlog to done through quality gates: plan, pick, branch, develop, review, verify, archive. Nothing is committed without you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jpablodrexler",
+    "repoName": "backlog-kit",
+    "repoBranch": "main"
   }
 }

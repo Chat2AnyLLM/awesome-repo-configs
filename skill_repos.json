@@ -57583,5 +57583,116 @@
         "name": "agent-skills",
         "branch": "main",
         "enabled": true
+    },
+    "UnderleveledBuilder/awesome-social-media-skills": {
+        "owner": "UnderleveledBuilder",
+        "name": "awesome-social-media-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UnderleveledBuilder/awesome-seo-geo-skills": {
+        "owner": "UnderleveledBuilder",
+        "name": "awesome-seo-geo-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Agoragentic/agoragentic-integrations": {
+        "owner": "Agoragentic",
+        "name": "agoragentic-integrations",
+        "branch": "main",
+        "enabled": true
+    },
+    "EditAtlas/skills": {
+        "owner": "EditAtlas",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Julian-dev28/pathiel": {
+        "owner": "Julian-dev28",
+        "name": "pathiel",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "finolabs/vietnamizer": {
+        "owner": "finolabs",
+        "name": "vietnamizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "UnderleveledBuilder/awesome-story-skills": {
+        "owner": "UnderleveledBuilder",
+        "name": "awesome-story-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mustafaakmese/agentmart-plugins": {
+        "owner": "mustafaakmese",
+        "name": "agentmart-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tracetoon/tracetoon": {
+        "owner": "Tracetoon",
+        "name": "tracetoon",
+        "branch": "main",
+        "enabled": true
+    },
+    "haritel97/fillprompt": {
+        "owner": "haritel97",
+        "name": "fillprompt",
+        "branch": "main",
+        "enabled": true
+    },
+    "stilwellc/text2print": {
+        "owner": "stilwellc",
+        "name": "text2print",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "keenskills/skills": {
+        "owner": "keenskills",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ychampion/ystack": {
+        "owner": "ychampion",
+        "name": "ystack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lukekh/indulgence": {
+        "owner": "lukekh",
+        "name": "indulgence",
+        "branch": "main",
+        "enabled": true
+    },
+    "iboss21/animatedwebs-claude": {
+        "owner": "iboss21",
+        "name": "animatedwebs-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "gpavan1992/artha-skill": {
+        "owner": "gpavan1992",
+        "name": "artha-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jpablodrexler/backlog-kit": {
+        "owner": "jpablodrexler",
+        "name": "backlog-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
