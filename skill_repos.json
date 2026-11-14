@@ -1,4 +1,18 @@
 {
+    "klingai-tech/claude-plugin": {
+        "owner": "klingai-tech",
+        "name": "claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "klingai-tech/claude-plugin-cn": {
+        "owner": "klingai-tech",
+        "name": "claude-plugin-cn",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "bereach-ai/linkedin-prospecting-skills": {
         "owner": "bereach-ai",
         "name": "linkedin-prospecting-skills",
