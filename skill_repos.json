@@ -58027,5 +58027,132 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "anhnx000/viet-nhu-nguoi": {
+        "owner": "anhnx000",
+        "name": "viet-nhu-nguoi",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "krisyangdev/motionboard": {
+        "owner": "krisyangdev",
+        "name": "motionboard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "avalonreset/cto-legends": {
+        "owner": "avalonreset",
+        "name": "cto-legends",
+        "branch": "main",
+        "enabled": true
+    },
+    "xuanji-astro/xuanji-skill": {
+        "owner": "xuanji-astro",
+        "name": "xuanji-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AVGVSTVS96/comet-kvm-plugin": {
+        "owner": "AVGVSTVS96",
+        "name": "comet-kvm-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mhmdsdqi87-cloud/TEKA_raast": {
+        "owner": "mhmdsdqi87-cloud",
+        "name": "TEKA_raast",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "krzysztofgibert/pr-viz-skill": {
+        "owner": "krzysztofgibert",
+        "name": "pr-viz-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "byby325/code-to-figma-ui-states": {
+        "owner": "byby325",
+        "name": "code-to-figma-ui-states",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fatih255/tabcrew": {
+        "owner": "fatih255",
+        "name": "tabcrew",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "oantuneshenriqueo/morning-newspaper": {
+        "owner": "oantuneshenriqueo",
+        "name": "morning-newspaper",
+        "branch": "main",
+        "enabled": true
+    },
+    "calven-ai/calven-migrate-from-crayon": {
+        "owner": "calven-ai",
+        "name": "calven-migrate-from-crayon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Darkgoatie/big-project-manager-skill": {
+        "owner": "Darkgoatie",
+        "name": "big-project-manager-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shio-vinyl/gis-kit": {
+        "owner": "shio-vinyl",
+        "name": "gis-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Memolok/Claude-plugin": {
+        "owner": "Memolok",
+        "name": "Claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OnourImpram/autofusion": {
+        "owner": "OnourImpram",
+        "name": "autofusion",
+        "branch": "main",
+        "enabled": true
+    },
+    "jlu1023/learning-stack": {
+        "owner": "jlu1023",
+        "name": "learning-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "nicolelivingston/job-search-kit": {
+        "owner": "nicolelivingston",
+        "name": "job-search-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "goshtasb/OpenCouncil": {
+        "owner": "goshtasb",
+        "name": "OpenCouncil",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zobaerio/zobvia": {
+        "owner": "zobaerio",
+        "name": "zobvia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

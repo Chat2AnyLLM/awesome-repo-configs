@@ -7541,5 +7541,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Memolok/Claude-plugin": {
+    "owner": "Memolok",
+    "name": "Claude-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

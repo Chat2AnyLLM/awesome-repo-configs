@@ -50222,5 +50222,95 @@
     "repoOwner": "agentprinter",
     "repoName": "skill",
     "repoBranch": "main"
+  },
+  "anhnx000/viet-nhu-nguoi": {
+    "name": "anhnx000/viet-nhu-nguoi",
+    "description": "Vi\u1ebft nh\u01b0 ng\u01b0\u1eddi (human voice, Vietnamese humanizer). Skill cho Claude Code, Codex, Cursor: nh\u1edd AI vi\u1ebft ti\u1ebfng Vi\u1ec7t m\u00e0 \u0111\u1ecdc l\u00ean v\u1eabn ra gi\u1ecdng ng\u01b0\u1eddi. B\u1ecf v\u0103n d\u1ecbch, gi\u1ecdng c\u00f4ng v\u0103n, l\u1eddi chatbot, s\u1ed1 li\u1ec7u gi\u1eef nguy\u00ean. K\u00e8m b\u1ed9 ki\u1ec3m...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anhnx000",
+    "repoName": "viet-nhu-nguoi",
+    "repoBranch": "main"
+  },
+  "krisyangdev/motionboard": {
+    "name": "krisyangdev/motionboard",
+    "description": "Make launch videos and motion graphics with Claude Code or Codex: free HyperFrames skill + 38 shot recipes (match cut, logo reveal, kinetic typography, liquid glass effect).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "krisyangdev",
+    "repoName": "motionboard",
+    "repoBranch": "main"
+  },
+  "AVGVSTVS96/comet-kvm-plugin": {
+    "name": "AVGVSTVS96/comet-kvm-plugin",
+    "description": "give coding agents eyes and hands on a physical computer: display, keyboard, mouse, and ATX power through GL.iNet Comet KVMs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AVGVSTVS96",
+    "repoName": "comet-kvm-plugin",
+    "repoBranch": "main"
+  },
+  "byby325/code-to-figma-ui-states": {
+    "name": "byby325/code-to-figma-ui-states",
+    "description": "Claude Code / Codex plugin: every UI state of a feature (loading, empty, error) from your code to one Figma board, plus the edge cases nobody handled",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "byby325",
+    "repoName": "code-to-figma-ui-states",
+    "repoBranch": "main"
+  },
+  "harmyderoman/plan-progress": {
+    "name": "harmyderoman/plan-progress",
+    "description": "A Claude Code mod that shows where Claude is in a task while it works.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "harmyderoman",
+    "repoName": "plan-progress",
+    "repoBranch": "main"
+  },
+  "Memolok/Claude-plugin": {
+    "name": "Memolok/Claude-plugin",
+    "description": "Memolok is the Decision Record platform. It records decisions as Memolok Decision Records: structured, immutable entries capturing the need, the alternatives, and the reasoning behind a choice. Plugin for Claude and C...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Memolok",
+    "repoName": "Claude-plugin",
+    "repoBranch": "main"
+  },
+  "OnourImpram/autofusion": {
+    "name": "OnourImpram/autofusion",
+    "description": "Claude Code-first cross-model review: executed checks where applicable, unresolved disagreement kept in a metadata-only receipt. For researchers, engineers and heavy agent users.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OnourImpram",
+    "repoName": "autofusion",
+    "repoBranch": "main"
+  },
+  "jlu1023/learning-stack": {
+    "name": "jlu1023/learning-stack",
+    "description": "A Socratic tutor plugin for Claude Code: learn from your own notes, in Obsidian or any folder of PDFs, slides and Markdown, with spaced retrieval quizzes and roadmaps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jlu1023",
+    "repoName": "learning-stack",
+    "repoBranch": "main"
+  },
+  "nicolelivingston/job-search-kit": {
+    "name": "nicolelivingston/job-search-kit",
+    "description": "A job-search system you install on your own computer: daily board checks, fit scoring, a local tracker, and a Claude plugin that builds tailored resumes from your own evidence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nicolelivingston",
+    "repoName": "job-search-kit",
+    "repoBranch": "main"
+  },
+  "goshtasb/OpenCouncil": {
+    "name": "goshtasb/OpenCouncil",
+    "description": "Three AIs argue over your spec until they agree. Then one ships it: tested, gated, as a PR. It never says done when it isn't.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "goshtasb",
+    "repoName": "OpenCouncil",
+    "repoBranch": "main"
   }
 }
