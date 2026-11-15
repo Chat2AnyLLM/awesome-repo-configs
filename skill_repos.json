@@ -1,4 +1,11 @@
 {
+    "hlibsuslov/telegram-bot-ui": {
+        "owner": "hlibsuslov",
+        "name": "telegram-bot-ui",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
     "benjaminb10/viewlify-mcp": {
         "owner": "benjaminb10",
         "name": "viewlify-mcp",
