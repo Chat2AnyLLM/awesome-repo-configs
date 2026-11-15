@@ -7527,5 +7527,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mvrks-inc/nolang-plugin": {
+    "owner": "mvrks-inc",
+    "name": "nolang-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "SammyBJames/Waterfall": {
+    "owner": "SammyBJames",
+    "name": "Waterfall",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -50105,5 +50105,122 @@
     "repoOwner": "R0drig0V1",
     "repoName": "claude-code-multi-agent",
     "repoBranch": "main"
+  },
+  "l0z4n0-a1/skill-anthropic-grade-optimizer": {
+    "name": "l0z4n0-a1/skill-anthropic-grade-optimizer",
+    "description": "Audits Claude-directing artifacts (CLAUDE.md, SKILL.md, subagent, hook, MCP, prompts, api_config) against 189 cited Anthropic rules across 11 dimensions. Cite or stay silent. Voice drift trumps score.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "l0z4n0-a1",
+    "repoName": "skill-anthropic-grade-optimizer",
+    "repoBranch": "main"
+  },
+  "PeanutGT/NutsSkills": {
+    "name": "PeanutGT/NutsSkills",
+    "description": "PeanutGT \u7684 Claude Skills \u5408\u96c6\uff1a\u8003\u8a66\u8907\u7fd2 PDF\u3001\u672c\u6a5f\u751f\u6210 BGM\u3001\u8edf\u9ad4\u5de5\u7a0b\u6d41\u7a0b\u3002\u652f\u63f4 Claude.ai\u3001Claude Code\u3001Codex",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PeanutGT",
+    "repoName": "NutsSkills",
+    "repoBranch": "main"
+  },
+  "diaryofamademan/skills": {
+    "name": "diaryofamademan/skills",
+    "description": "Open agent skills by Ian Balina (@diaryofamademan): playbooks AI agents can run end to end \u2014 fundraising, first-principles thinking, game theory for decisions, founder communications, writing in your own voice, fixing...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "diaryofamademan",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "nocashflow/claude-cyberpunk-themes": {
+    "name": "nocashflow/claude-cyberpunk-themes",
+    "description": "Claude Code themes: 7 animated pixel-art cyberpunk themes for the Claude Code desktop app. Install once, switch with /neon.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nocashflow",
+    "repoName": "claude-cyberpunk-themes",
+    "repoBranch": "main"
+  },
+  "mvrks-inc/nolang-plugin": {
+    "name": "mvrks-inc/nolang-plugin",
+    "description": "NoLang (AI video generation) for AI agents: Claude Code / Codex plugin, CLI and MCP connector",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mvrks-inc",
+    "repoName": "nolang-plugin",
+    "repoBranch": "main"
+  },
+  "vibesenpai/vibesenpai": {
+    "name": "vibesenpai/vibesenpai",
+    "description": "Discover how your agents failed you. A Claude Code plugin that reads your local sessions and shows where the agent went wrong, with a fix you can apply.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vibesenpai",
+    "repoName": "vibesenpai",
+    "repoBranch": "main"
+  },
+  "boqo-ai/boqo-plugins": {
+    "name": "boqo-ai/boqo-plugins",
+    "description": "boqo, the autonomous AI agent for social media, for Claude Code: find videos, make captioned vertical clips, schedule and auto-post to TikTok, Instagram and YouTube. Plugin + remote MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "boqo-ai",
+    "repoName": "boqo-plugins",
+    "repoBranch": "main"
+  },
+  "UNKNOWNREM/chibi-theme-for-claude-code": {
+    "name": "UNKNOWNREM/chibi-theme-for-claude-code",
+    "description": "A chibi companion for the Claude Code desktop app that changes picture with what Claude is doing. Q \u7248\u5c0f\u4eba\uff0c\u4f9d\u72c0\u614b\u81ea\u52d5\u63db\u5716\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UNKNOWNREM",
+    "repoName": "chibi-theme-for-claude-code",
+    "repoBranch": "main"
+  },
+  "SammyBJames/Waterfall": {
+    "name": "SammyBJames/Waterfall",
+    "description": "A Claude Code plugin for plan-first development with skeptical, proportionate code review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SammyBJames",
+    "repoName": "Waterfall",
+    "repoBranch": "main"
+  },
+  "tia-forge/tiaforge-plugins": {
+    "name": "tia-forge/tiaforge-plugins",
+    "description": "TIA Portal MCP server bundle for AI clients \u2014 WorkBuddy / CodeBuddy / DSH / Claude Code / Cursor / pi / Doubao: skills + slash commands + MCP gateway for Siemens PLC engineering automation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tia-forge",
+    "repoName": "tiaforge-plugins",
+    "repoBranch": "main"
+  },
+  "ronedgecomb/anything": {
+    "name": "ronedgecomb/anything",
+    "description": "Opinionated, lightweight agent skills for pretty much anything.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ronedgecomb",
+    "repoName": "anything",
+    "repoBranch": "main"
+  },
+  "techkwon/chiikawa": {
+    "name": "techkwon/chiikawa",
+    "description": "Chiikawa (\u3061\u3044\u304b\u308f) fan mod for Claude Code: Hachiware conducts, and the friends take on tasks and talk them over. English, \ud55c\uad6d\uc5b4, \u65e5\u672c\u8a9e (unofficial fan mod)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "techkwon",
+    "repoName": "chiikawa",
+    "repoBranch": "main"
+  },
+  "agentprinter/skill": {
+    "name": "agentprinter/skill",
+    "description": "Agent skill and Claude Code plugin: send a real letter or postcard to a US address. No account or API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agentprinter",
+    "repoName": "skill",
+    "repoBranch": "main"
   }
 }

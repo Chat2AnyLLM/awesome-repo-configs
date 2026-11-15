@@ -57920,5 +57920,105 @@
         "name": "claude-code-multi-agent",
         "branch": "main",
         "enabled": true
+    },
+    "alchaincyf/nuwa-skill": {
+        "owner": "alchaincyf",
+        "name": "nuwa-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "l0z4n0-a1/skill-anthropic-grade-optimizer": {
+        "owner": "l0z4n0-a1",
+        "name": "skill-anthropic-grade-optimizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PeanutGT/NutsSkills": {
+        "owner": "PeanutGT",
+        "name": "NutsSkills",
+        "branch": "main",
+        "enabled": true
+    },
+    "diaryofamademan/skills": {
+        "owner": "diaryofamademan",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "mvrks-inc/nolang-plugin": {
+        "owner": "mvrks-inc",
+        "name": "nolang-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "boqo-ai/boqo-plugins": {
+        "owner": "boqo-ai",
+        "name": "boqo-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mdharastani-pixel/claude-code-multi-agent-orchestrator": {
+        "owner": "mdharastani-pixel",
+        "name": "claude-code-multi-agent-orchestrator",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SammyBJames/Waterfall": {
+        "owner": "SammyBJames",
+        "name": "Waterfall",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tia-forge/tiaforge-plugins": {
+        "owner": "tia-forge",
+        "name": "tiaforge-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ronedgecomb/anything": {
+        "owner": "ronedgecomb",
+        "name": "anything",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ambergargrish-ca/zero-to-live": {
+        "owner": "ambergargrish-ca",
+        "name": "zero-to-live",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lululu811/zettaranc-perspective": {
+        "owner": "lululu811",
+        "name": "zettaranc-perspective",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HuaHua-Technophile/qoder-conversation-manager": {
+        "owner": "HuaHua-Technophile",
+        "name": "qoder-conversation-manager",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "agentprinter/skill": {
+        "owner": "agentprinter",
+        "name": "skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bmc-marshall/choosewell": {
+        "owner": "bmc-marshall",
+        "name": "choosewell",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
