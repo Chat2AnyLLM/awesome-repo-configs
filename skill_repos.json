@@ -58154,5 +58154,123 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "testdino-hq/playwright-skill": {
+        "owner": "testdino-hq",
+        "name": "playwright-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "muaaz9329/cheap-ag": {
+        "owner": "muaaz9329",
+        "name": "cheap-ag",
+        "branch": "main",
+        "enabled": true
+    },
+    "skulitom/Pixelbolt": {
+        "owner": "skulitom",
+        "name": "Pixelbolt",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sysevol-ai/CodeNib": {
+        "owner": "sysevol-ai",
+        "name": "CodeNib",
+        "branch": "main",
+        "enabled": true
+    },
+    "fadwen/ai-powershell-standards": {
+        "owner": "fadwen",
+        "name": "ai-powershell-standards",
+        "branch": "main",
+        "enabled": true
+    },
+    "MarioZZJ/cc-notify-hooks": {
+        "owner": "MarioZZJ",
+        "name": "cc-notify-hooks",
+        "branch": "main",
+        "enabled": true
+    },
+    "pohcee/dcmnorm": {
+        "owner": "pohcee",
+        "name": "dcmnorm",
+        "branch": "main",
+        "enabled": true
+    },
+    "Keeno-Corp/paprika3d": {
+        "owner": "Keeno-Corp",
+        "name": "paprika3d",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "luomufanye-cloud/luomu-cad": {
+        "owner": "luomufanye-cloud",
+        "name": "luomu-cad",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "THARAGESHWARAN-SATHYAMOORTHY/mitre-attack-skill": {
+        "owner": "THARAGESHWARAN-SATHYAMOORTHY",
+        "name": "mitre-attack-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "postoncehq/facebook-mcp": {
+        "owner": "postoncehq",
+        "name": "facebook-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ar9av/framesmith": {
+        "owner": "Ar9av",
+        "name": "framesmith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ayanlin1688/Minimax-H3-Tiktok-skill": {
+        "owner": "Ayanlin1688",
+        "name": "Minimax-H3-Tiktok-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yhk1m/dangto-design": {
+        "owner": "yhk1m",
+        "name": "dangto-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "postoncehq/bluesky-mcp": {
+        "owner": "postoncehq",
+        "name": "bluesky-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omer-chandna/brag-more": {
+        "owner": "omer-chandna",
+        "name": "brag-more",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anurag-rivora/product-brain-starter": {
+        "owner": "anurag-rivora",
+        "name": "product-brain-starter",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "kartikjain-dev/craftsman": {
+        "owner": "kartikjain-dev",
+        "name": "craftsman",
+        "branch": "main",
+        "enabled": true
     }
 }

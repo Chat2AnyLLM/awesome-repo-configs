@@ -7548,5 +7548,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "luomufanye-cloud/luomu-cad": {
+    "owner": "luomufanye-cloud",
+    "name": "luomu-cad",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

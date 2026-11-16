@@ -50312,5 +50312,113 @@
     "repoOwner": "goshtasb",
     "repoName": "OpenCouncil",
     "repoBranch": "main"
+  },
+  "muaaz9329/cheap-ag": {
+    "name": "muaaz9329/cheap-ag",
+    "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "muaaz9329",
+    "repoName": "cheap-ag",
+    "repoBranch": "main"
+  },
+  "skulitom/Pixelbolt": {
+    "name": "skulitom/Pixelbolt",
+    "description": "Agent-first pixel art and animation toolkit. JSON recipes to PNG, APNG and sprite atlases via CLI, MCP server and local studio. Zero dependencies. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skulitom",
+    "repoName": "Pixelbolt",
+    "repoBranch": "main"
+  },
+  "sysevol-ai/CodeNib": {
+    "name": "sysevol-ai/CodeNib",
+    "description": "Find source context and trace calls across languages in Claude Code, Codex and other MCP agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sysevol-ai",
+    "repoName": "CodeNib",
+    "repoBranch": "main"
+  },
+  "MarioZZJ/cc-notify-hooks": {
+    "name": "MarioZZJ/cc-notify-hooks",
+    "description": "Agent \u7b49\u5f85\u54cd\u5e94\u901a\u77e5\u63d2\u4ef6\uff08\u652f\u6301Claude Code\u3001ChatGPT CodeX\u3001DeepSeek Harness\uff09 \u2014 11 \u4e2a\u6e20\u9053\uff0c\u77ed\u901a\u77e5\u5373\u65f6\u89e6\u8fbe\uff0c\u957f\u901a\u77e5\u5f02\u6b65\u515c\u5e95\u3002\u4eba\u53ef\u4ee5\u95f2\u7740\uff0cAgent \u4e0d\u53ef\u4ee5\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MarioZZJ",
+    "repoName": "cc-notify-hooks",
+    "repoBranch": "main"
+  },
+  "pohcee/dcmnorm": {
+    "name": "pohcee/dcmnorm",
+    "description": "A CLI and SDK to normalize and generally work with DICOM, built in Rust, and packaged with multiple language bindings.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pohcee",
+    "repoName": "dcmnorm",
+    "repoBranch": "main"
+  },
+  "Keeno-Corp/paprika3d": {
+    "name": "Keeno-Corp/paprika3d",
+    "description": "Three.js MCP server and Claude Code plugin: screenshot, play, test and profile the three.js pages your coding agent builds.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Keeno-Corp",
+    "repoName": "paprika3d",
+    "repoBranch": "main"
+  },
+  "THARAGESHWARAN-SATHYAMOORTHY/mitre-attack-skill": {
+    "name": "THARAGESHWARAN-SATHYAMOORTHY/mitre-attack-skill",
+    "description": "Claude skill for MITRE ATT&CK: map incidents to techniques, validate IDs against live data, detection coverage, Navigator layers, emulation plans.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "THARAGESHWARAN-SATHYAMOORTHY",
+    "repoName": "mitre-attack-skill",
+    "repoBranch": "main"
+  },
+  "postoncehq/facebook-mcp": {
+    "name": "postoncehq/facebook-mcp",
+    "description": "Facebook MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Facebook Page posts, photos and Reels through Facebook's official API. No scraping, no developer app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "facebook-mcp",
+    "repoBranch": "main"
+  },
+  "Ar9av/framesmith": {
+    "name": "Ar9av/framesmith",
+    "description": "Motion-graphics & video skills for AI agents (Claude Code, Codex, Cursor): brief in, MP4 out. Product promos, animated spec sheets, kinetic typography, glitch/brutalist visuals, gpt-image-2 assets. Deterministic Pytho...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ar9av",
+    "repoName": "framesmith",
+    "repoBranch": "main"
+  },
+  "yhk1m/dangto-design": {
+    "name": "yhk1m/dangto-design",
+    "description": "\ub2f9\uadfc\uacfc \ud1a0\uc2a4 \uc911\uc2ec\uc758 \ud55c\uad6d \uc81c\ud488 UI \ub514\uc790\uc778 \uc2a4\ud0ac (Claude Code)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yhk1m",
+    "repoName": "dangto-design",
+    "repoBranch": "main"
+  },
+  "postoncehq/bluesky-mcp": {
+    "name": "postoncehq/bluesky-mcp",
+    "description": "Bluesky MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Bluesky posts with images and video through Bluesky's official API (AT Protocol), connected with a revocable app password. No scraping, no...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "bluesky-mcp",
+    "repoBranch": "main"
+  },
+  "kartikjain-dev/craftsman": {
+    "name": "kartikjain-dev/craftsman",
+    "description": "Agent-discipline toolkit for Claude Code \u2014 minimal-diff coding, root-cause debugging, recurring-bug detection, and honest completion. Installable plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kartikjain-dev",
+    "repoName": "craftsman",
+    "repoBranch": "main"
   }
 }
