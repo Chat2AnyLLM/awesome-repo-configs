@@ -45055,6 +45055,13 @@
         "skillsPath": "skills",
         "enabled": true
     },
+    "gettaskhold/taskhold-plugin": {
+        "owner": "gettaskhold",
+        "name": "taskhold-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "undefined-ui/second-brain-os": {
         "owner": "undefined-ui",
         "name": "second-brain-os",
