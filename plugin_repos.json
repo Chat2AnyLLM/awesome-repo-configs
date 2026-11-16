@@ -37379,6 +37379,15 @@
     "repoName": "bankbridge-plugin",
     "repoBranch": "main"
   },
+  "gettaskhold/taskhold-plugin": {
+    "name": "taskhold",
+    "description": "Taskhold: a task list you share with your coding agents. Plugin bundles the hosted MCP server (OAuth sign-in, paid, 7-day trial) and skills for live progress, asking when blocked and turning TODOs into tasks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gettaskhold",
+    "repoName": "taskhold-plugin",
+    "repoBranch": "main"
+  },
   "undefined-ui/second-brain-os": {
     "name": "undefined-ui/second-brain-os",
     "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
