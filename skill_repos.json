@@ -58384,5 +58384,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "runlater-app/runlater-plugin": {
+        "owner": "runlater-app",
+        "name": "runlater-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -50546,5 +50546,14 @@
     "repoOwner": "Guhan-SenSam",
     "repoName": "claude-terrarium",
     "repoBranch": "main"
+  },
+  "runlater-app/runlater-plugin": {
+    "name": "runlater",
+    "description": "RunLater: schedule HTTP requests from Claude Code, once at an exact time or on a cron schedule, with retries and a log of every run. Plugin bundles the hosted RunLater MCP server (OAuth sign-in, 9 tools; paid plans with a 14-day trial) and a usage skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "runlater-app",
+    "repoName": "runlater-plugin",
+    "repoBranch": "main"
   }
 }
