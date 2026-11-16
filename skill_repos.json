@@ -58279,5 +58279,110 @@
         "name": "craftsman",
         "branch": "main",
         "enabled": true
+    },
+    "vonarmen-wq/forward-deployed-selling": {
+        "owner": "vonarmen-wq",
+        "name": "forward-deployed-selling",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "whystrohm/shotkit": {
+        "owner": "whystrohm",
+        "name": "shotkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "uk-agents/uk-legal-plugins": {
+        "owner": "uk-agents",
+        "name": "uk-legal-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "hyprh/self-starter": {
+        "owner": "hyprh",
+        "name": "self-starter",
+        "branch": "main",
+        "enabled": true
+    },
+    "sebasgc0399/odd-workspace-template": {
+        "owner": "sebasgc0399",
+        "name": "odd-workspace-template",
+        "branch": "main",
+        "enabled": true
+    },
+    "pugyy/dw-harness": {
+        "owner": "pugyy",
+        "name": "dw-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "pueo-labs/primr": {
+        "owner": "pueo-labs",
+        "name": "primr",
+        "branch": "main",
+        "enabled": true
+    },
+    "MMhaidra/edit-reel": {
+        "owner": "MMhaidra",
+        "name": "edit-reel",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ContentWriterco/Compabase-MCP": {
+        "owner": "ContentWriterco",
+        "name": "Compabase-MCP",
+        "branch": "main",
+        "enabled": true
+    },
+    "Alirezaaliniya/reel-motion-edit": {
+        "owner": "Alirezaaliniya",
+        "name": "reel-motion-edit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tgardner18/optitech-nextjs": {
+        "owner": "tgardner18",
+        "name": "optitech-nextjs",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ljaaskela/velk": {
+        "owner": "ljaaskela",
+        "name": "velk",
+        "branch": "main",
+        "enabled": true
+    },
+    "ocepkejepintu-droid/claude-launch": {
+        "owner": "ocepkejepintu-droid",
+        "name": "claude-launch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Romain-LM-Dev/claude-skills-and-team-for-every-project": {
+        "owner": "Romain-LM-Dev",
+        "name": "claude-skills-and-team-for-every-project",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ethan-blackburn/harness-hospital": {
+        "owner": "ethan-blackburn",
+        "name": "harness-hospital",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mfakharealam/claude-code-engineering-skills": {
+        "owner": "mfakharealam",
+        "name": "claude-code-engineering-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

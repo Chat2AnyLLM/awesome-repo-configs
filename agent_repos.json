@@ -7555,5 +7555,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "vonarmen-wq/forward-deployed-selling": {
+    "owner": "vonarmen-wq",
+    "name": "forward-deployed-selling",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Romain-LM-Dev/claude-skills-and-team-for-every-project": {
+    "owner": "Romain-LM-Dev",
+    "name": "claude-skills-and-team-for-every-project",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "mfakharealam/claude-code-engineering-skills": {
+    "owner": "mfakharealam",
+    "name": "claude-code-engineering-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

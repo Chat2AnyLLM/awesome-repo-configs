@@ -50438,5 +50438,113 @@
     "repoOwner": "kartikjain-dev",
     "repoName": "craftsman",
     "repoBranch": "main"
+  },
+  "vonarmen-wq/forward-deployed-selling": {
+    "name": "vonarmen-wq/forward-deployed-selling",
+    "description": "Forward Deployed Selling: the enterprise sales doctrine for the AI era, as a Claude Code plugin. Thirteen /fds commands, enforcing hooks, reviewing agents, typed records, evals.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vonarmen-wq",
+    "repoName": "forward-deployed-selling",
+    "repoBranch": "main"
+  },
+  "Arjun0014/project-sentinel": {
+    "name": "Arjun0014/project-sentinel",
+    "description": "Mission control for long Claude Code runs: context and run progress at a glance, Autopilot handoffs, guardrails and a calm activity view, in the terminal and Claude Desktop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Arjun0014",
+    "repoName": "project-sentinel",
+    "repoBranch": "main"
+  },
+  "whystrohm/shotkit": {
+    "name": "whystrohm/shotkit",
+    "description": "AI storyboard skill for Claude Code. One line of brief, or a folder of your own footage, becomes a board with every shot planned, prompted and checked. Frames and clips with your own fal.ai key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "whystrohm",
+    "repoName": "shotkit",
+    "repoBranch": "main"
+  },
+  "uk-agents/uk-legal-plugins": {
+    "name": "uk-agents/uk-legal-plugins",
+    "description": "UK jurisdiction legal plugins for Claude Code and Cowork \u2014 employment, commercial, corporate, IP, privacy, regulatory, litigation, AI governance, and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uk-agents",
+    "repoName": "uk-legal-plugins",
+    "repoBranch": "main"
+  },
+  "hyprh/self-starter": {
+    "name": "hyprh/self-starter",
+    "description": "Standing jobs & local 0-token event triggers for Claude Code, Codex, Google Antigravity, OpenCode & ZCode. Watch PRs, CI, logs, GPUs & APIs; wake your agent only when it happens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hyprh",
+    "repoName": "self-starter",
+    "repoBranch": "main"
+  },
+  "sebasgc0399/odd-workspace-template": {
+    "name": "sebasgc0399/odd-workspace-template",
+    "description": "Plugin para Claude Code, Codex CLI y gentle-shell: lo que aprendes en un proyecto se vuelve chequeos que corren solos (hooks por capa, writers con compuerta y revisi\u00f3n con recibo atado al diff)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sebasgc0399",
+    "repoName": "odd-workspace-template",
+    "repoBranch": "main"
+  },
+  "pugyy/dw-harness": {
+    "name": "pugyy/dw-harness",
+    "description": "Claude Code plugin + CLI for data warehouse AI: SQL lint, table contracts, key-level reconciliation, acceptance evidence. MaxCompute, StarRocks, Hive, Spark.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pugyy",
+    "repoName": "dw-harness",
+    "repoBranch": "main"
+  },
+  "pueo-labs/primr": {
+    "name": "pueo-labs/primr",
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pueo-labs",
+    "repoName": "primr",
+    "repoBranch": "main"
+  },
+  "ContentWriterco/Compabase-MCP": {
+    "name": "ContentWriterco/Compabase-MCP",
+    "description": "Polish Companies MCP Server \u2014 3M+ entities from KRS and CEIDG, financials, people, and public registries for Claude, Cursor, and AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ContentWriterco",
+    "repoName": "Compabase-MCP",
+    "repoBranch": "main"
+  },
+  "tgardner18/optitech-nextjs": {
+    "name": "tgardner18/optitech-nextjs",
+    "description": "Optimizely CMS site framework using the official JS SDK written in NextJS",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tgardner18",
+    "repoName": "optitech-nextjs",
+    "repoBranch": "main"
+  },
+  "Romain-LM-Dev/claude-skills-and-team-for-every-project": {
+    "name": "Romain-LM-Dev/claude-skills-and-team-for-every-project",
+    "description": "Claude Code agent team (orchestrator, task-matched models, token savings) and skills importable into claude.ai",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Romain-LM-Dev",
+    "repoName": "claude-skills-and-team-for-every-project",
+    "repoBranch": "main"
+  },
+  "Guhan-SenSam/claude-terrarium": {
+    "name": "Guhan-SenSam/claude-terrarium",
+    "description": "Mods for Claude Code: a pixel-art world behind your session that storms while Claude works and advances from the Stone Age to sci-fi as the context fills, plus a pixel system monitor, turn receipts and pinned replies",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Guhan-SenSam",
+    "repoName": "claude-terrarium",
+    "repoBranch": "main"
   }
 }
