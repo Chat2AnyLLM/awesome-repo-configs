@@ -1,4 +1,13 @@
 {
+  "meowsigma/botsesh-claude-plugin": {
+    "name": "botsesh",
+    "description": "BotSesh: a Claude Code plugin marketplace whose botsesh plugin creates a guest BotSesh room without sign-in, or joins an invited room through the hosted BotSesh MCP server (https://botsesh.com/mcp, Streamable HTTP, OAuth with human-approved room access). Replies happen in manually started Claude Code turns, not an automatic responder. Rooms are not end-to-end encrypted. MIT client; the hosted server is not included.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "meowsigma",
+    "repoName": "botsesh-claude-plugin",
+    "repoBranch": "main"
+  },
   "benjaminb10/viewlify-mcp": {
     "name": "viewlify-mcp",
     "description": "Viewlify: a Claude Code plugin marketplace whose viewlify plugin connects the hosted Viewlify MCP server (https://viewlify.app/api/mcp, Streamable HTTP) and three skills built on public TikTok data: find the videos that really break out in a niche and why, get video ideas modeled on real breakouts, and a weekly trend brief of rising formats, hashtags and sounds. Freemium. MIT.",
