@@ -58514,5 +58514,105 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Innei/ryugi": {
+        "owner": "Innei",
+        "name": "ryugi",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "laulauraluo/looks-good-to-ai": {
+        "owner": "laulauraluo",
+        "name": "looks-good-to-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nocodehack/nocodehack-roblox-engine": {
+        "owner": "nocodehack",
+        "name": "nocodehack-roblox-engine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chrisallenlane/claude-swe-workflows": {
+        "owner": "chrisallenlane",
+        "name": "claude-swe-workflows",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tusharsrivastava/shark-skills": {
+        "owner": "tusharsrivastava",
+        "name": "shark-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexgorby/claude-skills": {
+        "owner": "alexgorby",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "iamajmeena/pro-motion-editor-skill": {
+        "owner": "iamajmeena",
+        "name": "pro-motion-editor-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "IAmTheParsifal/Low-Poly-Modeling-Skill": {
+        "owner": "IAmTheParsifal",
+        "name": "Low-Poly-Modeling-Skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "openfabriq/openfabriq": {
+        "owner": "openfabriq",
+        "name": "openfabriq",
+        "branch": "main",
+        "enabled": true
+    },
+    "somebox/pcb-kit": {
+        "owner": "somebox",
+        "name": "pcb-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JacobPEvans-ai/claude-code-plugins": {
+        "owner": "JacobPEvans-ai",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ggreing/do-it-all-claude-code": {
+        "owner": "ggreing",
+        "name": "do-it-all-claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "zapier/awesome-zaps": {
+        "owner": "zapier",
+        "name": "awesome-zaps",
+        "branch": "main",
+        "enabled": true
+    },
+    "karolkozer/agentwhy": {
+        "owner": "karolkozer",
+        "name": "agentwhy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "saad-git-007/claude-skills": {
+        "owner": "saad-git-007",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

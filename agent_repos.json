@@ -7611,5 +7611,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "chrisallenlane/claude-swe-workflows": {
+    "owner": "chrisallenlane",
+    "name": "claude-swe-workflows",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tusharsrivastava/shark-skills": {
+    "owner": "tusharsrivastava",
+    "name": "shark-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

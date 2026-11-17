@@ -50717,5 +50717,122 @@
     "repoOwner": "kosa8ai",
     "repoName": "kosa8-claude-plugin",
     "repoBranch": "main"
+  },
+  "Innei/ryugi": {
+    "name": "Innei/ryugi",
+    "description": "Ryugi (ryoo-ghee) \u2014 artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install artifacts only, or th...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Innei",
+    "repoName": "ryugi",
+    "repoBranch": "main"
+  },
+  "laulauraluo/looks-good-to-ai": {
+    "name": "laulauraluo/looks-good-to-ai",
+    "description": "Agent Skill for reviewing AI-written PRs in Claude Code, Codex, Copilot, Cursor and Gemini CLI: catch bugs, align context, own the sign-off.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "laulauraluo",
+    "repoName": "looks-good-to-ai",
+    "repoBranch": "main"
+  },
+  "nocodehack/nocodehack-roblox-engine": {
+    "name": "nocodehack/nocodehack-roblox-engine",
+    "description": "Claude Code skill that makes animated Roblox-style Shorts from one line: story, animation, camera, sound. Free.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nocodehack",
+    "repoName": "nocodehack-roblox-engine",
+    "repoBranch": "main"
+  },
+  "chrisallenlane/claude-swe-workflows": {
+    "name": "chrisallenlane/claude-swe-workflows",
+    "description": "Software Engineering workflows for Claude Code (MIRROR)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chrisallenlane",
+    "repoName": "claude-swe-workflows",
+    "repoBranch": "master"
+  },
+  "tusharsrivastava/shark-skills": {
+    "name": "tusharsrivastava/shark-skills",
+    "description": "Running Claude Code like an engineering team: one operator, parallel lanes, audited merges.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tusharsrivastava",
+    "repoName": "shark-skills",
+    "repoBranch": "main"
+  },
+  "alexgorby/claude-skills": {
+    "name": "alexgorby/claude-skills",
+    "description": "alexgorby/claude-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexgorby",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "openfabriq/openfabriq": {
+    "name": "openfabriq/openfabriq",
+    "description": "Your AI software factory, as code: agents that triage, implement, review and fix your GitHub repository, described in readable files and run with Claude Code on your machine or your team's server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "openfabriq",
+    "repoName": "openfabriq",
+    "repoBranch": "main"
+  },
+  "somebox/pcb-kit": {
+    "name": "somebox/pcb-kit",
+    "description": "Shared KiCad workflow tooling: checks, release files, schematic building, agent skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "somebox",
+    "repoName": "pcb-kit",
+    "repoBranch": "main"
+  },
+  "JacobPEvans-ai/claude-code-plugins": {
+    "name": "JacobPEvans-ai/claude-code-plugins",
+    "description": "My custom claude code (hopefully agentsmd soon) plugins for when I've scoured the interwebs and all the existing CC marketplaces but couldn't find anything good enough.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JacobPEvans-ai",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "radekwojpl2/session-observer": {
+    "name": "radekwojpl2/session-observer",
+    "description": "Claude Code plugin: live local dashboard of everything happening in your sessions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "radekwojpl2",
+    "repoName": "session-observer",
+    "repoBranch": "main"
+  },
+  "ggreing/do-it-all-claude-code": {
+    "name": "ggreing/do-it-all-claude-code",
+    "description": "Do It All Claude Code: a Claude Code plugin and local daemon that size up each request and hand the work to cheaper subagents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ggreing",
+    "repoName": "do-it-all-claude-code",
+    "repoBranch": "main"
+  },
+  "karolkozer/agentwhy": {
+    "name": "karolkozer/agentwhy",
+    "description": "Why your AI agent reached for your secrets - from Claude Code and Codex transcripts",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karolkozer",
+    "repoName": "agentwhy",
+    "repoBranch": "main"
+  },
+  "paul-van-cotthem/claude-convo-color": {
+    "name": "paul-van-cotthem/claude-convo-color",
+    "description": "The Convo Color plug-in for the Claude desktop app (Code tab) lets you set the background color of each local session, or give a whole folder one color. Also, a colored indicator bar above the prompt box shows which L...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paul-van-cotthem",
+    "repoName": "claude-convo-color",
+    "repoBranch": "main"
   }
 }
