@@ -58391,5 +58391,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "getrunheed/runheed-plugin": {
+        "owner": "getrunheed",
+        "name": "runheed-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
