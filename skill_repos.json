@@ -58500,5 +58500,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "doronp/nogpu-mcp": {
+        "owner": "doronp",
+        "name": "nogpu-mcp",
+        "branch": "main",
+        "skillsPath": "plugin/skills",
+        "enabled": true
     }
 }
