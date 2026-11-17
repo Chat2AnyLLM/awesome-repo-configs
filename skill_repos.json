@@ -58405,5 +58405,100 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Li-Evan/BloomTutor": {
+        "owner": "Li-Evan",
+        "name": "BloomTutor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jaredchu/context-docs": {
+        "owner": "jaredchu",
+        "name": "context-docs",
+        "branch": "main",
+        "enabled": true
+    },
+    "off-grid-ai/skills": {
+        "owner": "off-grid-ai",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sktjgudals/fable-5-2-prompting": {
+        "owner": "sktjgudals",
+        "name": "fable-5-2-prompting",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kele-dev/Claude-Orchestrator-Skill": {
+        "owner": "kele-dev",
+        "name": "Claude-Orchestrator-Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-music-generator-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-music-generator-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "finolabs/vibecode": {
+        "owner": "finolabs",
+        "name": "vibecode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Trooper-code/Trooper-s-Coordinator-Skills": {
+        "owner": "Trooper-code",
+        "name": "Trooper-s-Coordinator-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ekko237/imagegen-swarm": {
+        "owner": "Ekko237",
+        "name": "imagegen-swarm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RyanNorouzi/synchrobuilder": {
+        "owner": "RyanNorouzi",
+        "name": "synchrobuilder",
+        "branch": "main",
+        "enabled": true
+    },
+    "chuonglife/lesson-video-producer-skill": {
+        "owner": "chuonglife",
+        "name": "lesson-video-producer-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "eternitydevzz/kit-creador-maestria": {
+        "owner": "eternitydevzz",
+        "name": "kit-creador-maestria",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guidodinello/claude-dotfiles": {
+        "owner": "guidodinello",
+        "name": "claude-dotfiles",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "JQ-WCoding/devkit": {
+        "owner": "JQ-WCoding",
+        "name": "devkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

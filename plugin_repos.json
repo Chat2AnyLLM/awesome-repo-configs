@@ -50573,5 +50573,131 @@
     "repoOwner": "MindCraftersGroup",
     "repoName": "sprout-claude-plugin",
     "repoBranch": "main"
+  },
+  "Li-Evan/BloomTutor": {
+    "name": "Li-Evan/BloomTutor",
+    "description": "Open-source AI tutor for personalized learning: Socratic, adaptive lessons to learn anything. Claude Code skill + self-hosted web app. Bloom 2 Sigma \u00b7 \u5f00\u6e90 AI \u5bb6\u6559",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Li-Evan",
+    "repoName": "BloomTutor",
+    "repoBranch": "main"
+  },
+  "jaredchu/context-docs": {
+    "name": "jaredchu/context-docs",
+    "description": "Agent skills for Codex and Claude Code that preserve project context, decisions and next steps across AI sessions in plain Markdown.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jaredchu",
+    "repoName": "context-docs",
+    "repoBranch": "main"
+  },
+  "off-grid-ai/skills": {
+    "name": "off-grid-ai/skills",
+    "description": "Stop babysitting your AI. 49 free skills that make Claude Code, Codex, Cursor and 60+ agents build, test and ship like a senior team.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "off-grid-ai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "leonasdev/copy-buttons": {
+    "name": "leonasdev/copy-buttons",
+    "description": "Claude Code copy buttons: copy a reply, a code block or a table with one click",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leonasdev",
+    "repoName": "copy-buttons",
+    "repoBranch": "main"
+  },
+  "sktjgudals/fable-5-2-prompting": {
+    "name": "sktjgudals/fable-5-2-prompting",
+    "description": "Unofficial agent skill for auditing and tuning prompts, CLAUDE.md files, skills, and harnesses for Claude Fable 5.2. Based on Anthropic's prompting guide.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sktjgudals",
+    "repoName": "fable-5-2-prompting",
+    "repoBranch": "main"
+  },
+  "kele-dev/Claude-Orchestrator-Skill": {
+    "name": "kele-dev/Claude-Orchestrator-Skill",
+    "description": "Claude Code plugin for token-saving multi-agent orchestration: Opus plans and verifies, Haiku executes, Sonnet escalates. Includes parallel team mode, autopilot, checkpoints, and self-maintained project lessons.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kele-dev",
+    "repoName": "Claude-Orchestrator-Skill",
+    "repoBranch": "main"
+  },
+  "kenawak/clausper": {
+    "name": "kenawak/clausper",
+    "description": "Clausper: a voice mod for Claude Code. Hear what Claude did, say what's next.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kenawak",
+    "repoName": "clausper",
+    "repoBranch": "main"
+  },
+  "beatra-ai/ai-music-generator-skill": {
+    "name": "beatra-ai/ai-music-generator-skill",
+    "description": "AI music generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a theme, lyrics, scene, or reference audio into songs, instrumentals, BGM, and soundtracks you can review and revise. AI\u97f3...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "beatra-ai",
+    "repoName": "ai-music-generator-skill",
+    "repoBranch": "main"
+  },
+  "finolabs/vibecode": {
+    "name": "finolabs/vibecode",
+    "description": "One engineering practice for AI coding agents: routing, delegation, review gates and verification for Claude Code, Codex and Antigravity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "finolabs",
+    "repoName": "vibecode",
+    "repoBranch": "main"
+  },
+  "Ekko237/imagegen-swarm": {
+    "name": "Ekko237/imagegen-swarm",
+    "description": "Use every AI image quota you already pay for, all at once: a Claude Code / Codex skill that runs Codex, Grok, Gemini, Jimeng, Muse and Lovart in parallel on one image queue. Most engines need no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ekko237",
+    "repoName": "imagegen-swarm",
+    "repoBranch": "main"
+  },
+  "GladLuter/Alethite": {
+    "name": "GladLuter/Alethite",
+    "description": "Claude Code plugin: see the price of a send before you pay it, hand off to a clean chat, keep memory of past chats. Windows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GladLuter",
+    "repoName": "Alethite",
+    "repoBranch": "master"
+  },
+  "RyanNorouzi/synchrobuilder": {
+    "name": "RyanNorouzi/synchrobuilder",
+    "description": "Multiplayer Claude Code for teams on any laptop. Audits your project for what breaks on Linux or Windows, and lets each teammate's Claude see what the others touch. No server, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RyanNorouzi",
+    "repoName": "synchrobuilder",
+    "repoBranch": "main"
+  },
+  "eternitydevzz/kit-creador-maestria": {
+    "name": "eternitydevzz/kit-creador-maestria",
+    "description": "Crea skills de Claude que funcionan y publ\u00edcalas en GitHub para que cualquiera las instale con un comando",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eternitydevzz",
+    "repoName": "kit-creador-maestria",
+    "repoBranch": "main"
+  },
+  "JQ-WCoding/devkit": {
+    "name": "JQ-WCoding/devkit",
+    "description": "Team dev kit Claude Code plugin: analyze, implement, verify, commit, push, PR/MR",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JQ-WCoding",
+    "repoName": "devkit",
+    "repoBranch": "main"
   }
 }

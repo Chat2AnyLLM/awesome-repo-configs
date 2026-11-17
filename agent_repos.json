@@ -7576,5 +7576,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kele-dev/Claude-Orchestrator-Skill": {
+    "owner": "kele-dev",
+    "name": "Claude-Orchestrator-Skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "finolabs/vibecode": {
+    "owner": "finolabs",
+    "name": "vibecode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "guidodinello/claude-dotfiles": {
+    "owner": "guidodinello",
+    "name": "claude-dotfiles",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "JQ-WCoding/devkit": {
+    "owner": "JQ-WCoding",
+    "name": "devkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
