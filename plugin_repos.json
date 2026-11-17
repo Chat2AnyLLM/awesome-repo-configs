@@ -50699,5 +50699,14 @@
     "repoOwner": "JQ-WCoding",
     "repoName": "devkit",
     "repoBranch": "main"
+  },
+  "doronp/nogpu-mcp": {
+    "name": "nogpu",
+    "description": "NoGPU: a Claude Code plugin marketplace (by the NoGPU author) whose nogpu plugin bundles one skill and the nogpu MCP server. The skill finds an app's recurring LLM classification or routing call, extracts past decisions locally, and only after you say yes uploads them to nogpu.dev for a free report on how many a small CPU model can take alone. Keeping the model: $99 one-time. Uploads deleted within 24 hours (24 hours after payment if bought). MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "doronp",
+    "repoName": "nogpu-mcp",
+    "repoBranch": "main"
   }
 }
