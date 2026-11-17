@@ -50564,5 +50564,14 @@
     "repoOwner": "getrunheed",
     "repoName": "runheed-plugin",
     "repoBranch": "main"
+  },
+  "MindCraftersGroup/sprout-claude-plugin": {
+    "name": "sprout-finance",
+    "description": "Sprout: a Claude Code plugin marketplace whose sprout-finance plugin bundles the hosted Sprout MCP server (https://api-sprout.mindcrafters.group/mcp, OAuth sign-in; paid after a 3-day trial) for read-only questions about your own US and Canadian bank and card accounts via Plaid: spending, cash flow, subscriptions and unusual charges. Cannot move money. MIT client; the hosted server is not included.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MindCraftersGroup",
+    "repoName": "sprout-claude-plugin",
+    "repoBranch": "main"
   }
 }
