@@ -50555,5 +50555,14 @@
     "repoOwner": "runlater-app",
     "repoName": "runlater-plugin",
     "repoBranch": "main"
+  },
+  "getrunheed/runheed-plugin": {
+    "name": "runheed",
+    "description": "Runheed: error tracking your coding agent can read. Plugin bundles the hosted MCP server (OAuth sign-in, paid, 7-day trial) and a skill for reading production errors, fixing them and marking them resolved.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getrunheed",
+    "repoName": "runheed-plugin",
+    "repoBranch": "main"
   }
 }
