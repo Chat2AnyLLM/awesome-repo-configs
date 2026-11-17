@@ -50708,5 +50708,14 @@
     "repoOwner": "doronp",
     "repoName": "nogpu-mcp",
     "repoBranch": "main"
+  },
+  "kosa8ai/kosa8-claude-plugin": {
+    "name": "kosa8",
+    "description": "kosa8: a Claude Code plugin marketplace (by the kosa8 team) whose kosa8 plugin runs untrusted or agent-written code in sealed microVM sandboxes. It bundles the kosa8 MCP server, the kosa8-sandbox skill, two subagents and commands for sandbox, checkpoint, rewind, explore (fork) and status. Needs the commercial kosa8 CLI (macOS, Linux, Windows via WSL2) or a kosa8 Cloud key; plans from $29/month. Plugin MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kosa8ai",
+    "repoName": "kosa8-claude-plugin",
+    "repoBranch": "main"
   }
 }

@@ -58507,5 +58507,12 @@
         "branch": "main",
         "skillsPath": "plugin/skills",
         "enabled": true
+    },
+    "kosa8ai/kosa8-claude-plugin": {
+        "owner": "kosa8ai",
+        "name": "kosa8-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
