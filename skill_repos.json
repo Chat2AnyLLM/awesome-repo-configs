@@ -58398,5 +58398,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "MindCraftersGroup/sprout-claude-plugin": {
+        "owner": "MindCraftersGroup",
+        "name": "sprout-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
