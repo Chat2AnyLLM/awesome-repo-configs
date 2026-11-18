@@ -50897,5 +50897,14 @@
     "repoOwner": "cweeperde",
     "repoName": "claude-skills",
     "repoBranch": "main"
+  },
+  "jchsoft/mcptask-claude-plugin": {
+    "name": "mcptask",
+    "description": "mcptask: a Claude Code plugin marketplace for mcptask.online. The mcptask plugin connects Claude to the mcptask.online task queue (remote MCP, OAuth) and adds a workflow skill: pick up the next task, create well-formed tasks, declare blockers, log progress and time. Needs a mcptask.online account (30-day free trial). MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jchsoft",
+    "repoName": "mcptask-claude-plugin",
+    "repoBranch": "main"
   }
 }
