@@ -58757,5 +58757,111 @@
         "name": "claude-skills",
         "branch": "main",
         "enabled": true
+    },
+    "funboy322/avoid-ai-design": {
+        "owner": "funboy322",
+        "name": "avoid-ai-design",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rewrite-rs/skills": {
+        "owner": "rewrite-rs",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Archibald0/circle-claude-plugin": {
+        "owner": "Archibald0",
+        "name": "circle-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "Abdk4Moura/xats-setup": {
+        "owner": "Abdk4Moura",
+        "name": "xats-setup",
+        "branch": "main",
+        "enabled": true
+    },
+    "adrianhaj/bogusz": {
+        "owner": "adrianhaj",
+        "name": "bogusz",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "brunobaco/baco-sdd": {
+        "owner": "brunobaco",
+        "name": "baco-sdd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "branch-docs/ai": {
+        "owner": "branch-docs",
+        "name": "ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dev-Wesley-13/git-parity": {
+        "owner": "Dev-Wesley-13",
+        "name": "git-parity",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ehtesham1981/light-harness": {
+        "owner": "ehtesham1981",
+        "name": "light-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "routinerun/routinerun": {
+        "owner": "routinerun",
+        "name": "routinerun",
+        "branch": "main",
+        "enabled": true
+    },
+    "Saurabhzz9/tethertrace": {
+        "owner": "Saurabhzz9",
+        "name": "tethertrace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MKeSkills/make-claude-behave": {
+        "owner": "MKeSkills",
+        "name": "make-claude-behave",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "struqapp/struq-design": {
+        "owner": "struqapp",
+        "name": "struq-design",
+        "branch": "main",
+        "enabled": true
+    },
+    "hraness/product-skills": {
+        "owner": "hraness",
+        "name": "product-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "shubham001312/imutechz-skills": {
+        "owner": "shubham001312",
+        "name": "imutechz-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hebertsb/diagramas-uml-ea": {
+        "owner": "hebertsb",
+        "name": "diagramas-uml-ea",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -7639,5 +7639,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "adrianhaj/bogusz": {
+    "owner": "adrianhaj",
+    "name": "bogusz",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "brunobaco/baco-sdd": {
+    "owner": "brunobaco",
+    "name": "baco-sdd",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -50906,5 +50906,122 @@
     "repoOwner": "jchsoft",
     "repoName": "mcptask-claude-plugin",
     "repoBranch": "main"
+  },
+  "rewrite-rs/skills": {
+    "name": "rewrite-rs/skills",
+    "description": "The most comprehensive agent skills for writing real, idiomatic Rust and porting code from other languages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rewrite-rs",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Archibald0/circle-claude-plugin": {
+    "name": "Archibald0/circle-claude-plugin",
+    "description": "Write the plan. orchestre plays it through. A Claude Code plugin that runs a long dev plan with a team of agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Archibald0",
+    "repoName": "circle-claude-plugin",
+    "repoBranch": "main"
+  },
+  "Abdk4Moura/xats-setup": {
+    "name": "Abdk4Moura/xats-setup",
+    "description": "One inbox shared by Claude Code, Codex, OpenCode and Pi. Local daemon, no account, per-session identities that outlive a session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Abdk4Moura",
+    "repoName": "xats-setup",
+    "repoBranch": "main"
+  },
+  "adrianhaj/bogusz": {
+    "name": "adrianhaj/bogusz",
+    "description": "Claude Code plugin that tests your project like a senior QA engineer: it reads the code, plans the tests, runs the narrowest ones and reports only what the evidence shows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adrianhaj",
+    "repoName": "bogusz",
+    "repoBranch": "main"
+  },
+  "brunobaco/baco-sdd": {
+    "name": "brunobaco/baco-sdd",
+    "description": "BACO-SDD: da ideia \u00e0 entrega verificada, com a spec como contrato e um motor que confere as provas. Skill (Agent Skills) para Claude Code, Codex e outras IAs, com plugin completo para o Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brunobaco",
+    "repoName": "baco-sdd",
+    "repoBranch": "main"
+  },
+  "Dev-Wesley-13/git-parity": {
+    "name": "Dev-Wesley-13/git-parity",
+    "description": "Keep local and remote git branches in parity across all your repositories, from one command in Claude Code, Codex or Antigravity (Gemini).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dev-Wesley-13",
+    "repoName": "git-parity",
+    "repoBranch": "main"
+  },
+  "ehtesham1981/light-harness": {
+    "name": "ehtesham1981/light-harness",
+    "description": "A gated Claude Code plugin that runs several AI-built stories in parallel, each planned, tested first and independently reviewed. Leaves nothing in your repo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ehtesham1981",
+    "repoName": "light-harness",
+    "repoBranch": "main"
+  },
+  "routinerun/routinerun": {
+    "name": "routinerun/routinerun",
+    "description": "The parts of Routine Run others build on: the method, help, the API, MCP, the skill, and catalogues. Issues welcome.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "routinerun",
+    "repoName": "routinerun",
+    "repoBranch": "main"
+  },
+  "MKeSkills/make-claude-behave": {
+    "name": "MKeSkills/make-claude-behave",
+    "description": "Claude Code plugin that turns each mistake into an enforced check, saving tokens and time on repeated runs and fixes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MKeSkills",
+    "repoName": "make-claude-behave",
+    "repoBranch": "master"
+  },
+  "struqapp/struq-design": {
+    "name": "struqapp/struq-design",
+    "description": "Struq is a free, open-source design skill for Claude Code, Cursor, Codex and other AI coding tools: your AI settles the direction, type, colour and motion before it builds, so your site looks studio-made, not AI-made....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "struqapp",
+    "repoName": "struq-design",
+    "repoBranch": "main"
+  },
+  "hraness/product-skills": {
+    "name": "hraness/product-skills",
+    "description": "Skills and small open-source helpers for Dawn, Yaptake, Textmock and Sponge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hraness",
+    "repoName": "product-skills",
+    "repoBranch": "main"
+  },
+  "shubham001312/imutechz-skills": {
+    "name": "shubham001312/imutechz-skills",
+    "description": "Agent skills that do the whole job and check their own work: video creation, scroll motion graphics and more. For Claude Code and any SKILL.md agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shubham001312",
+    "repoName": "imutechz-skills",
+    "repoBranch": "main"
+  },
+  "hebertsb/diagramas-uml-ea": {
+    "name": "hebertsb/diagramas-uml-ea",
+    "description": "Skill para Claude Code: diagramas UML, ICONIX y de navegaci\u00f3n web en Sparx Enterprise Architect (.eapx editable).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hebertsb",
+    "repoName": "diagramas-uml-ea",
+    "repoBranch": "main"
   }
 }
