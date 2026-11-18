@@ -50834,5 +50834,68 @@
     "repoOwner": "paul-van-cotthem",
     "repoName": "claude-convo-color",
     "repoBranch": "main"
+  },
+  "video-db/pair-programmer": {
+    "name": "video-db/pair-programmer",
+    "description": "Pair Programmer for Claude Code, Codex and Cursor",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "video-db",
+    "repoName": "pair-programmer",
+    "repoBranch": "main"
+  },
+  "BenAIOS/benai-skills": {
+    "name": "BenAIOS/benai-skills",
+    "description": "BenAIOS/benai-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BenAIOS",
+    "repoName": "benai-skills",
+    "repoBranch": "develop"
+  },
+  "defog-ai/factiq-plugin": {
+    "name": "defog-ai/factiq-plugin",
+    "description": "Real-time economy+finance database for AI agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "defog-ai",
+    "repoName": "factiq-plugin",
+    "repoBranch": "main"
+  },
+  "Abdoul-sudo/worklog": {
+    "name": "Abdoul-sudo/worklog",
+    "description": "Claude Code mod to automatically track time, tokens and API price for each project, with a yearly activity heatmap and 8 themes to choose from.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Abdoul-sudo",
+    "repoName": "worklog",
+    "repoBranch": "master"
+  },
+  "ringku1/claude-mama": {
+    "name": "ringku1/claude-mama",
+    "description": "mama: a goal-based work loop skill for Claude Code \u2014 research, one batch of questions, a wide parallel plan, build \u2192 verify \u2192 fix until every criterion has evidence",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ringku1",
+    "repoName": "claude-mama",
+    "repoBranch": "main"
+  },
+  "LeongJinZhou/ai-company": {
+    "name": "LeongJinZhou/ai-company",
+    "description": "Personal AI software company kit for Claude Code: handbook, rules, staff agents, skills and plugin set",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LeongJinZhou",
+    "repoName": "ai-company",
+    "repoBranch": "main"
+  },
+  "cweeperde/claude-skills": {
+    "name": "cweeperde/claude-skills",
+    "description": "Skills I wrote for Claude, installable as a Claude Code plugin marketplace or as zips for claude.ai.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cweeperde",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
   }
 }

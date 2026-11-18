@@ -58614,5 +58614,148 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "alchaincyf/huashu-art-motion": {
+        "owner": "alchaincyf",
+        "name": "huashu-art-motion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "adhiprib/humanizer-indonesia": {
+        "owner": "adhiprib",
+        "name": "humanizer-indonesia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "video-db/pair-programmer": {
+        "owner": "video-db",
+        "name": "pair-programmer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BenAIOS/benai-skills": {
+        "owner": "BenAIOS",
+        "name": "benai-skills",
+        "branch": "develop",
+        "enabled": true
+    },
+    "defog-ai/factiq-plugin": {
+        "owner": "defog-ai",
+        "name": "factiq-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nishkarsh-shah/prompt-master": {
+        "owner": "nishkarsh-shah",
+        "name": "prompt-master",
+        "branch": "main",
+        "enabled": true
+    },
+    "shariefabdelmonem/interactive-html-presentation": {
+        "owner": "shariefabdelmonem",
+        "name": "interactive-html-presentation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Manimater/manimater-components": {
+        "owner": "Manimater",
+        "name": "manimater-components",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mun1to/SiteIndex": {
+        "owner": "Mun1to",
+        "name": "SiteIndex",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "VioletScar-Hui/cc-tackle": {
+        "owner": "VioletScar-Hui",
+        "name": "cc-tackle",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lageyun/web-deploy": {
+        "owner": "lageyun",
+        "name": "web-deploy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mun1to/Galsas": {
+        "owner": "Mun1to",
+        "name": "Galsas",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Mun1to/SpanishCaveMan": {
+        "owner": "Mun1to",
+        "name": "SpanishCaveMan",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Mun1to/SmartDefaults": {
+        "owner": "Mun1to",
+        "name": "SmartDefaults",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Mun1to/Diretto": {
+        "owner": "Mun1to",
+        "name": "Diretto",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ringku1/claude-mama": {
+        "owner": "ringku1",
+        "name": "claude-mama",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sixwei2025/talking-head-video-skill": {
+        "owner": "sixwei2025",
+        "name": "talking-head-video-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HelloYeew/dotnet-skill": {
+        "owner": "HelloYeew",
+        "name": "dotnet-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "praisethebit/skills": {
+        "owner": "praisethebit",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LeongJinZhou/ai-company": {
+        "owner": "LeongJinZhou",
+        "name": "ai-company",
+        "branch": "main",
+        "enabled": true
+    },
+    "cweeperde/claude-skills": {
+        "owner": "cweeperde",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

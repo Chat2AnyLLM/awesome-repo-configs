@@ -7625,5 +7625,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "BenAIOS/benai-skills": {
+    "owner": "BenAIOS",
+    "name": "benai-skills",
+    "branch": "develop",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "praisethebit/skills": {
+    "owner": "praisethebit",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
