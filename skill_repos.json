@@ -1,4 +1,11 @@
 {
+    "nilesh-0608/nc-world-forge": {
+        "owner": "nilesh-0608",
+        "name": "nc-world-forge",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
     "hlibsuslov/telegram-bot-ui": {
         "owner": "hlibsuslov",
         "name": "telegram-bot-ui",
