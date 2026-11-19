@@ -1,4 +1,13 @@
 {
+  "nilesh-0608/nc-world-forge": {
+    "name": "nc-world-forge",
+    "description": "World Forge: a Claude Code plugin marketplace whose nc-world-forge skill interviews you about a world, then builds it as one self-contained procedural WebGPU HTML file on a bundled engine and checks it against a ten-gate visual protocol. No image, model or audio files; the world is generated from mathematics when the page opens. Ships a reference world that renders on install. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nilesh-0608",
+    "repoName": "nc-world-forge",
+    "repoBranch": "master"
+  },
   "meowsigma/botsesh-claude-plugin": {
     "name": "botsesh",
     "description": "BotSesh: a Claude Code plugin marketplace whose botsesh plugin creates a guest BotSesh room without sign-in, or joins an invited room through the hosted BotSesh MCP server (https://botsesh.com/mcp, Streamable HTTP, OAuth with human-approved room access). Replies happen in manually started Claude Code turns, not an automatic responder. Rooms are not end-to-end encrypted. MIT client; the hosted server is not included.",
