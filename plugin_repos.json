@@ -51023,5 +51023,95 @@
     "repoOwner": "hebertsb",
     "repoName": "diagramas-uml-ea",
     "repoBranch": "main"
+  },
+  "fblgit/artifacts-done-properly": {
+    "name": "fblgit/artifacts-done-properly",
+    "description": "Great work deserves a second life, Bring it in, Make it reusable and Keep the gain. The iteration ends. The value stays. Your next project starts further ahead, powered by ArtifactDataProtocol",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fblgit",
+    "repoName": "artifacts-done-properly",
+    "repoBranch": "main"
+  },
+  "DeliciousBuding/codex-browser-bridge": {
+    "name": "DeliciousBuding/codex-browser-bridge",
+    "description": "MCP server and CLI for reusing a local Chromium browser session (Browser Use) and Codex cua_repl (Computer Use).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DeliciousBuding",
+    "repoName": "codex-browser-bridge",
+    "repoBranch": "main"
+  },
+  "Sivan757/dsh-agent-plugins-market": {
+    "name": "Sivan757/dsh-agent-plugins-market",
+    "description": "Skills and extensions manager for DeepSeek Harness (DSH). Install Claude Code, Codex, Cursor and Kimi plugin repositories as they are, without waiting for a DSH port.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sivan757",
+    "repoName": "dsh-agent-plugins-market",
+    "repoBranch": "main"
+  },
+  "archid21/whatsnext": {
+    "name": "archid21/whatsnext",
+    "description": "A shared plan, check-offs and resumable task progress for every coding agent in a project",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "archid21",
+    "repoName": "whatsnext",
+    "repoBranch": "main"
+  },
+  "vulcanshen/ccdrawu": {
+    "name": "vulcanshen/ccdrawu",
+    "description": "A sidebar and a status line for Claude Code: usage limits, context, model, cost, git and session stats beside the transcript or under the prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vulcanshen",
+    "repoName": "ccdrawu",
+    "repoBranch": "main"
+  },
+  "StalkC/stalkchain-plugin": {
+    "name": "StalkC/stalkchain-plugin",
+    "description": "StalkChain crypto research plugin for Claude Code, ChatGPT, Codex, Cursor and Hermes. MCP tools for wallet PnL, token safety and smart-money flows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "StalkC",
+    "repoName": "stalkchain-plugin",
+    "repoBranch": "main"
+  },
+  "blowhorn-ai/blowhorn-mcp": {
+    "name": "blowhorn-ai/blowhorn-mcp",
+    "description": "Blowhorn MCP server launcher and listings: let your AI assistant draft and schedule posts with Blowhorn",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "blowhorn-ai",
+    "repoName": "blowhorn-mcp",
+    "repoBranch": "master"
+  },
+  "Arin117Kaushik/claude-work-panel": {
+    "name": "Arin117Kaushik/claude-work-panel",
+    "description": "Live /work panel for Claude Code: progress bar, phase checklist, focus timer. Built for ADHD brains that lose track of what the agent is doing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Arin117Kaushik",
+    "repoName": "claude-work-panel",
+    "repoBranch": "main"
+  },
+  "bouob/sysadmin-skills": {
+    "name": "bouob/sysadmin-skills",
+    "description": "ITIL 4-based IT operations skills for Claude Code \u2014 incident response, change management with CAB review, and status communication.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bouob",
+    "repoName": "sysadmin-skills",
+    "repoBranch": "main"
+  },
+  "AdinathChaudhari/i-cant-draw": {
+    "name": "AdinathChaudhari/i-cant-draw",
+    "description": "Turn a rough idea into a ready-to-paste image-generation prompt for ChatGPT (GPT Image) or Gemini (Nano Banana) \u2014 a Claude Code skill that writes the prompt, not the image.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AdinathChaudhari",
+    "repoName": "i-cant-draw",
+    "repoBranch": "main"
   }
 }

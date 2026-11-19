@@ -58863,5 +58863,127 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "lowdevco/Clip-Forge": {
+        "owner": "lowdevco",
+        "name": "Clip-Forge",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fblgit/artifacts-done-properly": {
+        "owner": "fblgit",
+        "name": "artifacts-done-properly",
+        "branch": "main",
+        "enabled": true
+    },
+    "DeliciousBuding/codex-browser-bridge": {
+        "owner": "DeliciousBuding",
+        "name": "codex-browser-bridge",
+        "branch": "main",
+        "enabled": true
+    },
+    "JL-GUO/skill-siphon": {
+        "owner": "JL-GUO",
+        "name": "skill-siphon",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Sivan757/dsh-agent-plugins-market": {
+        "owner": "Sivan757",
+        "name": "dsh-agent-plugins-market",
+        "branch": "main",
+        "enabled": true
+    },
+    "archid21/whatsnext": {
+        "owner": "archid21",
+        "name": "whatsnext",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pucilpet/crawlgraph-mcp": {
+        "owner": "pucilpet",
+        "name": "crawlgraph-mcp",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "habinsong/K-Fable-Opus-Claude-Astra-Sol-GPT-md": {
+        "owner": "habinsong",
+        "name": "K-Fable-Opus-Claude-Astra-Sol-GPT-md",
+        "branch": "main",
+        "enabled": true
+    },
+    "OrrrGE/autoDemoRecordingSkill": {
+        "owner": "OrrrGE",
+        "name": "autoDemoRecordingSkill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fx-studio/fx-sdlc-lab": {
+        "owner": "fx-studio",
+        "name": "fx-sdlc-lab",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "wrg32786/aigent-talking-head": {
+        "owner": "wrg32786",
+        "name": "aigent-talking-head",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "StalkC/stalkchain-plugin": {
+        "owner": "StalkC",
+        "name": "stalkchain-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "blowhorn-ai/blowhorn-mcp": {
+        "owner": "blowhorn-ai",
+        "name": "blowhorn-mcp",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bouob/sysadmin-skills": {
+        "owner": "bouob",
+        "name": "sysadmin-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tiagocardosobezerra/deidara": {
+        "owner": "tiagocardosobezerra",
+        "name": "deidara",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tiagocardosobezerra/vegapunk": {
+        "owner": "tiagocardosobezerra",
+        "name": "vegapunk",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AdinathChaudhari/i-cant-draw": {
+        "owner": "AdinathChaudhari",
+        "name": "i-cant-draw",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Xdabier/read-only-reddit-old-claude-skill-chrome-extension": {
+        "owner": "Xdabier",
+        "name": "read-only-reddit-old-claude-skill-chrome-extension",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
