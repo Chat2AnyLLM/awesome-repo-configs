@@ -51122,5 +51122,113 @@
     "repoOwner": "AdinathChaudhari",
     "repoName": "i-cant-draw",
     "repoBranch": "main"
+  },
+  "FutureRootsDE/legal-audit-de": {
+    "name": "FutureRootsDE/legal-audit-de",
+    "description": "Claude Code plugin for German/EU legal audits (DSGVO, TDDDG, UWG, AI Act, etc.). Not legal advice.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FutureRootsDE",
+    "repoName": "legal-audit-de",
+    "repoBranch": "main"
+  },
+  "afel6/section-team": {
+    "name": "afel6/section-team",
+    "description": "Claude Code plugin: a supervisor plus specialist AI agents, an Opus review gate on all code, saved reports and a Team Board",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "afel6",
+    "repoName": "section-team",
+    "repoBranch": "main"
+  },
+  "AxGord/claude-workflow": {
+    "name": "AxGord/claude-workflow",
+    "description": "Workflows for Claude Code agents \u2014 state machines, gates, a task queue, a shared thread pool and a live map",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AxGord",
+    "repoName": "claude-workflow",
+    "repoBranch": "master"
+  },
+  "buggerlogger/duckky-swarm": {
+    "name": "buggerlogger/duckky-swarm",
+    "description": "Claude Code subagents on the exact model you name (Opus 4.6, Opus 5.5...), with proof of the model they ran on: a live swarm view (Clawd or Duckky Ducks), forks onto another model, effort control, refusal reports and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "buggerlogger",
+    "repoName": "duckky-swarm",
+    "repoBranch": "main"
+  },
+  "Alexandre-LPZ/arpent": {
+    "name": "Alexandre-LPZ/arpent",
+    "description": "L'immobilier fran\u00e7ais avec les donn\u00e9es publiques - plugin Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Alexandre-LPZ",
+    "repoName": "arpent",
+    "repoBranch": "main"
+  },
+  "its-magdy/evalup": {
+    "name": "its-magdy/evalup",
+    "description": "A Claude Code plugin that measures what your LLM chat or agent app gets wrong, and which prompt to fix.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "its-magdy",
+    "repoName": "evalup",
+    "repoBranch": "main"
+  },
+  "heykriskay/skills": {
+    "name": "heykriskay/skills",
+    "description": "This is my personal Claude Code setup, the skills I use every day. Some I wrote myself, and others I adapted from open-source sets and trimmed to fit how I work. Together they take a feature from idea \u2192 spec \u2192 plan \u2192...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heykriskay",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "0exp/daiver-prompt-view": {
+    "name": "0exp/daiver-prompt-view",
+    "description": "A Claude Code mod that shows what your session is doing: a status line under the prompt with live agents, usage limits and git state, a framed chat with copy buttons, and a pane with your prompt history.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0exp",
+    "repoName": "daiver-prompt-view",
+    "repoBranch": "main"
+  },
+  "pvjbuilds/crab-buddy": {
+    "name": "pvjbuilds/crab-buddy",
+    "description": "An animated pixel-art Claude crab for Claude Code: it acts out what Claude is doing above your prompt. 31 moods, 122 takes plus calendar scenes, pet it, desktop app and terminal, light and dark, 0 tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pvjbuilds",
+    "repoName": "crab-buddy",
+    "repoBranch": "main"
+  },
+  "omer-yehuda/plugins": {
+    "name": "omer-yehuda/plugins",
+    "description": "Curated Claude Code plugin marketplace: Army (multi-agent orchestration with specialist units, safety gates) and Toon Shorts (animated cartoon short creator with Hebrew RTL captions).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "omer-yehuda",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "ctrlpi/claude-plugins": {
+    "name": "ctrlpi/claude-plugins",
+    "description": "Claude plugins for Raspberry Pi, Pico and ESP32: control GPIO, manage boards over USB, and work with Pis over SSH.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ctrlpi",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "musahyderr/mainseat": {
+    "name": "musahyderr/mainseat",
+    "description": "Opus-level results at Sonnet prices for Claude Code, with a senior engineer's discipline: minimal diffs, reuse before rewrite, self-verified changes, learned rules, secrets kept out. Sonnet builds, Haiku reads, Opus p...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "musahyderr",
+    "repoName": "mainseat",
+    "repoBranch": "main"
   }
 }

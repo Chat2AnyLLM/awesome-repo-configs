@@ -58992,5 +58992,88 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "kjagsadvisors/keeran.ai": {
+        "owner": "kjagsadvisors",
+        "name": "keeran.ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "FutureRootsDE/legal-audit-de": {
+        "owner": "FutureRootsDE",
+        "name": "legal-audit-de",
+        "branch": "main",
+        "enabled": true
+    },
+    "afel6/section-team": {
+        "owner": "afel6",
+        "name": "section-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Numina-Technologies/mcp": {
+        "owner": "Numina-Technologies",
+        "name": "mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AxGord/claude-workflow": {
+        "owner": "AxGord",
+        "name": "claude-workflow",
+        "branch": "master",
+        "enabled": true
+    },
+    "Alexandre-LPZ/arpent": {
+        "owner": "Alexandre-LPZ",
+        "name": "arpent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nyxandro/owner-decisions-skill": {
+        "owner": "nyxandro",
+        "name": "owner-decisions-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "its-magdy/evalup": {
+        "owner": "its-magdy",
+        "name": "evalup",
+        "branch": "main",
+        "enabled": true
+    },
+    "heykriskay/skills": {
+        "owner": "heykriskay",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "0exp/daiver-prompt-view": {
+        "owner": "0exp",
+        "name": "daiver-prompt-view",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omer-yehuda/plugins": {
+        "owner": "omer-yehuda",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ctrlpi/claude-plugins": {
+        "owner": "ctrlpi",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "musahyderr/mainseat": {
+        "owner": "musahyderr",
+        "name": "mainseat",
+        "branch": "main",
+        "enabled": true
     }
 }

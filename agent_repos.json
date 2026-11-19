@@ -7667,5 +7667,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "FutureRootsDE/legal-audit-de": {
+    "owner": "FutureRootsDE",
+    "name": "legal-audit-de",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "afel6/section-team": {
+    "owner": "afel6",
+    "name": "section-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "AxGord/claude-workflow": {
+    "owner": "AxGord",
+    "name": "claude-workflow",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "heykriskay/skills": {
+    "owner": "heykriskay",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "musahyderr/mainseat": {
+    "owner": "musahyderr",
+    "name": "mainseat",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
