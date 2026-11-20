@@ -1,4 +1,11 @@
 {
+    "questionpunk/research-skills": {
+        "owner": "questionpunk",
+        "name": "research-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "nilesh-0608/nc-world-forge": {
         "owner": "nilesh-0608",
         "name": "nc-world-forge",
