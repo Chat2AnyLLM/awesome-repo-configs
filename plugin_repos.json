@@ -51230,5 +51230,122 @@
     "repoOwner": "musahyderr",
     "repoName": "mainseat",
     "repoBranch": "main"
+  },
+  "archid21/rightsize": {
+    "name": "archid21/rightsize",
+    "description": "Make every Claude token count. rightsize picks the right model and effort for each prompt, while keeping cache and context costs low. It learns how you work and gets better over time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "archid21",
+    "repoName": "rightsize",
+    "repoBranch": "main"
+  },
+  "culiops/culiops-skills": {
+    "name": "culiops/culiops-skills",
+    "description": "Claude Code skills for SRE, DevOps and FinOps on AWS and Kubernetes: incident RCA, Terraform/Helm pre-flight checks, safe IaC changes, AWS cost investigation, service   discovery and runbooks. Read-only by default, ev...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "culiops",
+    "repoName": "culiops-skills",
+    "repoBranch": "main"
+  },
+  "SkylitAI/skylit-mcp": {
+    "name": "SkylitAI/skylit-mcp",
+    "description": "Connect any AI client or agent framework to Skylit: options flow, volatility, dealer positioning and dark pool data over MCP. Client guides, Claude Code plugin, Gemini CLI extension, agent skill, examples.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SkylitAI",
+    "repoName": "skylit-mcp",
+    "repoBranch": "main"
+  },
+  "chrisjo-dev/mockup-canvas": {
+    "name": "chrisjo-dev/mockup-canvas",
+    "description": "Claude Code and Codex skill: AI agents draw HTML mockups, you review them on a local Figma-like canvas. Python only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chrisjo-dev",
+    "repoName": "mockup-canvas",
+    "repoBranch": "main"
+  },
+  "negimatare/negima-mochi": {
+    "name": "negimatare/negima-mochi",
+    "description": "Claude Code plugins for planning, test-driven development and code review.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "negimatare",
+    "repoName": "negima-mochi",
+    "repoBranch": "main"
+  },
+  "nigelng/nng-kit": {
+    "name": "nigelng/nng-kit",
+    "description": "Agentic workflow kit: a Claude Code plugin marketplace with idea-to-shipped lifecycle skills, plan delegation to headless Cursor, Antigravity and Devin CLIs, and cross-surface session handoff.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nigelng",
+    "repoName": "nng-kit",
+    "repoBranch": "main"
+  },
+  "Olbrain/alchemist-plugin": {
+    "name": "Olbrain/alchemist-plugin",
+    "description": "Describe an AI agent in plain words; your coding agent builds, tests and puts it live. Plugin + MCP server for Claude Code, Codex, Cursor, Antigravity, GitHub Copilot and claude.ai.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Olbrain",
+    "repoName": "alchemist-plugin",
+    "repoBranch": "main"
+  },
+  "thaithienvanid/open-prototype": {
+    "name": "thaithienvanid/open-prototype",
+    "description": "Design UI prototypes as plain HTML, from a first draft to a reviewed design ready to build. Every screen and state in one viewer, with review rounds kept beside the design. A skill and plugin for Claude Code, Codex, O...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thaithienvanid",
+    "repoName": "open-prototype",
+    "repoBranch": "main"
+  },
+  "jbknick/architecture-visualization-cc-plugin": {
+    "name": "jbknick/architecture-visualization-cc-plugin",
+    "description": "Claude Code plugin: codebase map, function index and reuse guard for TypeScript monorepos, with 2D and 3D explorer views",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jbknick",
+    "repoName": "architecture-visualization-cc-plugin",
+    "repoBranch": "main"
+  },
+  "mcmadsen/lean-agent": {
+    "name": "mcmadsen/lean-agent",
+    "description": "Token-frugal orchestration for Claude Code: a front-desk session that hands work to cheap worker agents, one Remote Control session per thread, budgets, reviews and shared memory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mcmadsen",
+    "repoName": "lean-agent",
+    "repoBranch": "main"
+  },
+  "pushprove-max/conveyor-belt": {
+    "name": "pushprove-max/conveyor-belt",
+    "description": "Issue-to-merged-commit automation for Claude Code: one issue, one card, built, reviewed, tested, landed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pushprove-max",
+    "repoName": "conveyor-belt",
+    "repoBranch": "main"
+  },
+  "matzkoh/pairvoice": {
+    "name": "matzkoh/pairvoice",
+    "description": "Claude Code \u306e\u8fd4\u4e8b\u3092\u3001\u3072\u3068\u8a00\u306e\u65e5\u672c\u8a9e\u306b\u3057\u3066\u8aad\u307f\u4e0a\u3052\u308b\uff08\u30ed\u30fc\u30ab\u30eb\u5b8c\u7d50\u30fbApple Silicon\uff09",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matzkoh",
+    "repoName": "pairvoice",
+    "repoBranch": "main"
+  },
+  "kent010341/no-crap": {
+    "name": "kent010341/no-crap",
+    "description": "A Claude marketplace of plugins to stop Claude from talking crap.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kent010341",
+    "repoName": "no-crap",
+    "repoBranch": "master"
   }
 }

@@ -59075,5 +59075,115 @@
         "name": "mainseat",
         "branch": "main",
         "enabled": true
+    },
+    "kaomei/stickman-video-director": {
+        "owner": "kaomei",
+        "name": "stickman-video-director",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kothari-nikunj/nock": {
+        "owner": "kothari-nikunj",
+        "name": "nock",
+        "branch": "main",
+        "enabled": true
+    },
+    "culiops/culiops-skills": {
+        "owner": "culiops",
+        "name": "culiops-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SkylitAI/skylit-mcp": {
+        "owner": "SkylitAI",
+        "name": "skylit-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "chrisjo-dev/mockup-canvas": {
+        "owner": "chrisjo-dev",
+        "name": "mockup-canvas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sanqiuyef/office-writer-skill": {
+        "owner": "sanqiuyef",
+        "name": "office-writer-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/tiktok-user-insight": {
+        "owner": "why20261",
+        "name": "tiktok-user-insight",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "williamcolegithub/plain-spoken-american": {
+        "owner": "williamcolegithub",
+        "name": "plain-spoken-american",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/tiktok-record-organizer": {
+        "owner": "why20261",
+        "name": "tiktok-record-organizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "negimatare/negima-mochi": {
+        "owner": "negimatare",
+        "name": "negima-mochi",
+        "branch": "main",
+        "enabled": true
+    },
+    "nigelng/nng-kit": {
+        "owner": "nigelng",
+        "name": "nng-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Olbrain/alchemist-plugin": {
+        "owner": "Olbrain",
+        "name": "alchemist-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "thaithienvanid/open-prototype": {
+        "owner": "thaithienvanid",
+        "name": "open-prototype",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jbknick/architecture-visualization-cc-plugin": {
+        "owner": "jbknick",
+        "name": "architecture-visualization-cc-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "mcmadsen/lean-agent": {
+        "owner": "mcmadsen",
+        "name": "lean-agent",
+        "branch": "main",
+        "enabled": true
+    },
+    "matzkoh/pairvoice": {
+        "owner": "matzkoh",
+        "name": "pairvoice",
+        "branch": "main",
+        "enabled": true
+    },
+    "kent010341/no-crap": {
+        "owner": "kent010341",
+        "name": "no-crap",
+        "branch": "master",
+        "enabled": true
     }
 }
