@@ -51464,5 +51464,14 @@
     "repoOwner": "droiddevgeeks",
     "repoName": "cc-sessions",
     "repoBranch": "main"
+  },
+  "HalberdLLC/dank-meme-sounds": {
+    "name": "dankmachine",
+    "description": "dankmachine: a Claude Code plugin marketplace (by Halberd LLC) whose dank-meme-sounds plugin bundles the dank-meme-sounds MCP server (38,000+ meme sound effects: find a reaction sound for a moment, search, live trending, play_sound on your speakers) and the meme-sounds skill. Free, no API key. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HalberdLLC",
+    "repoName": "dank-meme-sounds",
+    "repoBranch": "main"
   }
 }

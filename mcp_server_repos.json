@@ -511,5 +511,13 @@
     "enabled": true,
     "serverName": "io.github.editmamei/editmamei-photoshop-mcp",
     "note": "AI photo editing in Photoshop and GIMP. Let AI do the parts of the edit you don't want to, layer by layer with real tools, and keep the final touches for yourself. No regenerated image, just a layered file. A desktop MCP server for Claude and other MCP-compatible AI apps, on Mac, Windows and Linux."
+  },
+  "HalberdLLC/dank-meme-sounds": {
+    "owner": "HalberdLLC",
+    "name": "dank-meme-sounds",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.dankmachine/dank-meme-sounds",
+    "note": "Local stdio MCP (npx -y dank-meme-sounds, adds play_sound for playback on macOS, Windows and Linux) and remote Streamable HTTP at https://dankmachine.com/mcp (no auth). 38,000+ meme sound effects: find a reaction sound for a moment, search by name, mood or use case, live trending. Read-only, free, no API key. MIT. Canonical metadata is in server.json."
   }
 }
