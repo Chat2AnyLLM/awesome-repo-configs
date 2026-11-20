@@ -59300,5 +59300,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "VladislavKorzh/trayui": {
+        "owner": "VladislavKorzh",
+        "name": "trayui",
+        "branch": "main",
+        "skillsPath": "system/dist/skills",
+        "enabled": true
     }
 }

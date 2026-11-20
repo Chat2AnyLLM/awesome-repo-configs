@@ -51473,5 +51473,14 @@
     "repoOwner": "HalberdLLC",
     "repoName": "dank-meme-sounds",
     "repoBranch": "main"
+  },
+  "VladislavKorzh/trayui": {
+    "name": "trayui",
+    "description": "Tray UI: a Claude Code plugin marketplace whose trayui plugin is one skill that builds and fixes web pages and app screens with Tray UI, an MIT-licensed design system in plain HTML and CSS (108 components, 64 blocks, 118 icons and 10 themes, plus the typed React components in trayui-react). It ships every page of the docs as Markdown and a markup checker that the agent runs on the pages it writes. No account, key or server. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VladislavKorzh",
+    "repoName": "trayui",
+    "repoBranch": "main"
   }
 }
