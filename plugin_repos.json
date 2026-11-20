@@ -1,4 +1,13 @@
 {
+  "questionpunk/research-skills": {
+    "name": "research-skills",
+    "description": "research-skills: a Claude Code plugin marketplace of Agent Skills for survey design and analysis, including questionnaire wording checks, sample size, screeners, Van Westendorp and Gabor-Granger pricing, MaxDiff and conjoint, NPS, CSAT and CES, Likert and UX scales, crosstabs, weighting, data cleaning and open-ended coding. Skills that compute results use standard-library Python scripts with tests. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "questionpunk",
+    "repoName": "research-skills",
+    "repoBranch": "main"
+  },
   "nilesh-0608/nc-world-forge": {
     "name": "nc-world-forge",
     "description": "World Forge: a Claude Code plugin marketplace whose nc-world-forge skill interviews you about a world, then builds it as one self-contained procedural WebGPU HTML file on a bundled engine and checks it against a ten-gate visual protocol. No image, model or audio files; the world is generated from mathematics when the page opens. Ships a reference world that renders on install. MIT.",
