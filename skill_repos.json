@@ -59293,5 +59293,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "HalberdLLC/dank-meme-sounds": {
+        "owner": "HalberdLLC",
+        "name": "dank-meme-sounds",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
