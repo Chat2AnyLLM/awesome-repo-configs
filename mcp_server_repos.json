@@ -503,5 +503,13 @@
     "enabled": true,
     "serverName": "io.github.kosa8ai/kosa8",
     "note": "Local stdio MCP (kosa8 mcp serve, needs the kosa8 CLI) and remote Streamable HTTP at https://api.kosa8.com/mcp (kosa8 Cloud API key as Bearer). Creates sealed microVM sandboxes for agents: run commands, move files, checkpoint, rewind and fork. Commercial (plans from $29/month); repo MIT. Canonical metadata is in server.json."
+  },
+  "editmamei/editmamei": {
+    "owner": "editmamei",
+    "name": "editmamei",
+    "branch": "dev",
+    "enabled": true,
+    "serverName": "io.github.editmamei/editmamei-photoshop-mcp",
+    "note": "AI photo editing in Photoshop and GIMP. Let AI do the parts of the edit you don't want to, layer by layer with real tools, and keep the final touches for yourself. No regenerated image, just a layered file. A desktop MCP server for Claude and other MCP-compatible AI apps, on Mac, Windows and Linux."
   }
 }
