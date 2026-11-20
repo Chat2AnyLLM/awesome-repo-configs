@@ -51356,5 +51356,113 @@
     "repoOwner": "kent010341",
     "repoName": "no-crap",
     "repoBranch": "master"
+  },
+  "obsidianmd/obsidian-skills": {
+    "name": "obsidianmd/obsidian-skills",
+    "description": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "obsidianmd",
+    "repoName": "obsidian-skills",
+    "repoBranch": "main"
+  },
+  "nirholas/cryptocurrency.cv": {
+    "name": "nirholas/cryptocurrency.cv",
+    "description": "Free crypto news API aggregating 300+ sources with REST, RSS, search, sentiment and an MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nirholas",
+    "repoName": "cryptocurrency.cv",
+    "repoBranch": "main"
+  },
+  "smartworldarafath/REA_Skill": {
+    "name": "smartworldarafath/REA_Skill",
+    "description": "REA (Reverse Engineer Anything) skills: 21 agent skills + 500 prompts for Claude Code, Codex, Cursor & Antigravity. Recover lost source code, decompile binaries/APKs, security audits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "smartworldarafath",
+    "repoName": "REA_Skill",
+    "repoBranch": "main"
+  },
+  "vedant-shah/clawd-hq": {
+    "name": "vedant-shah/clawd-hq",
+    "description": "A chief of staff for Claude Code, with a live pixel-art office. You talk to Clawd; he hires specialists from your installed helpers and runs them in the background",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vedant-shah",
+    "repoName": "clawd-hq",
+    "repoBranch": "main"
+  },
+  "UserJot/userjot-plugin": {
+    "name": "UserJot/userjot-plugin",
+    "description": "UserJot plugin and MCP server config for Claude, ChatGPT and other AI assistants: customer support, feedback, roadmap, changelog and help center.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UserJot",
+    "repoName": "userjot-plugin",
+    "repoBranch": "main"
+  },
+  "tirandagan/agentic-paper-reviewer": {
+    "name": "tirandagan/agentic-paper-reviewer",
+    "description": "Claude Code plugin that writes a grounded, ICLR-style referee report on your research paper, with an arXiv-backed novelty check and every weakness tied to a quote or an arXiv ID. Independent re-implementation of the p...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tirandagan",
+    "repoName": "agentic-paper-reviewer",
+    "repoBranch": "main"
+  },
+  "FUSEis/emet-plugin": {
+    "name": "FUSEis/emet-plugin",
+    "description": "Plugins that send AI agent traces to Emet for accuracy assurance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FUSEis",
+    "repoName": "emet-plugin",
+    "repoBranch": "main"
+  },
+  "makavli/fewturns": {
+    "name": "makavli/fewturns",
+    "description": "A Claude Code skill that trims what every request carries and the requests a task takes. One skill, no hooks, nothing collected.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "makavli",
+    "repoName": "fewturns",
+    "repoBranch": "main"
+  },
+  "arturl95/merit-aktiva-skills": {
+    "name": "arturl95/merit-aktiva-skills",
+    "description": "Merit Aktiva for AI agents: Claude Code skills for the Merit Aktiva API, Estonian bookkeeping, invoicing and VAT (KMD). By AlusLabs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arturl95",
+    "repoName": "merit-aktiva-skills",
+    "repoBranch": "main"
+  },
+  "courtney-chapman/tools-public": {
+    "name": "courtney-chapman/tools-public",
+    "description": "Collection of reusable AI plugins and offline tools for government contracting - including procurement and government property.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "courtney-chapman",
+    "repoName": "tools-public",
+    "repoBranch": "main"
+  },
+  "juanchaopan/dev-workflow": {
+    "name": "juanchaopan/dev-workflow",
+    "description": "Governed, human-in-the-loop software delivery for Claude Code: issue-driven brief, architecture, design, scaffolding, implementation, review, release and deployment, with every decision approved, CI-enforced gates and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "juanchaopan",
+    "repoName": "dev-workflow",
+    "repoBranch": "main"
+  },
+  "droiddevgeeks/cc-sessions": {
+    "name": "droiddevgeeks/cc-sessions",
+    "description": "Clean up Claude Code without losing work you forgot you had. See sessions, RAM, transcripts and /tmp scratchpads; delete safely with unpushed work saved first. Claude Code plugin + CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "droiddevgeeks",
+    "repoName": "cc-sessions",
+    "repoBranch": "main"
   }
 }

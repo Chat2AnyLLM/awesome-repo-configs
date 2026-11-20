@@ -7702,5 +7702,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "wxxb789/hoa": {
+    "owner": "wxxb789",
+    "name": "hoa",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tirandagan/agentic-paper-reviewer": {
+    "owner": "tirandagan",
+    "name": "agentic-paper-reviewer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "arturl95/merit-aktiva-skills": {
+    "owner": "arturl95",
+    "name": "merit-aktiva-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "toanpham2111/kio-agent-system": {
+    "owner": "toanpham2111",
+    "name": "kio-agent-system",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

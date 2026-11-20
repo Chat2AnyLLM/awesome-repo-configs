@@ -59192,5 +59192,106 @@
         "name": "no-crap",
         "branch": "master",
         "enabled": true
+    },
+    "obsidianmd/obsidian-skills": {
+        "owner": "obsidianmd",
+        "name": "obsidian-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "nirholas/cryptocurrency.cv": {
+        "owner": "nirholas",
+        "name": "cryptocurrency.cv",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "smartworldarafath/REA_Skill": {
+        "owner": "smartworldarafath",
+        "name": "REA_Skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "fourleafai/clover-public": {
+        "owner": "fourleafai",
+        "name": "clover-public",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UserJot/userjot-plugin": {
+        "owner": "UserJot",
+        "name": "userjot-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wxxb789/hoa": {
+        "owner": "wxxb789",
+        "name": "hoa",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tirandagan/agentic-paper-reviewer": {
+        "owner": "tirandagan",
+        "name": "agentic-paper-reviewer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FUSEis/emet-plugin": {
+        "owner": "FUSEis",
+        "name": "emet-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "tkxlab-ai/HandoffX": {
+        "owner": "tkxlab-ai",
+        "name": "HandoffX",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "makavli/fewturns": {
+        "owner": "makavli",
+        "name": "fewturns",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arturl95/merit-aktiva-skills": {
+        "owner": "arturl95",
+        "name": "merit-aktiva-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "courtney-chapman/tools-public": {
+        "owner": "courtney-chapman",
+        "name": "tools-public",
+        "branch": "main",
+        "enabled": true
+    },
+    "toanpham2111/kio-agent-system": {
+        "owner": "toanpham2111",
+        "name": "kio-agent-system",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "juanchaopan/dev-workflow": {
+        "owner": "juanchaopan",
+        "name": "dev-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "droiddevgeeks/cc-sessions": {
+        "owner": "droiddevgeeks",
+        "name": "cc-sessions",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
