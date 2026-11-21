@@ -51482,5 +51482,104 @@
     "repoOwner": "VladislavKorzh",
     "repoName": "trayui",
     "repoBranch": "main"
+  },
+  "HKTITAN/skills": {
+    "name": "HKTITAN/skills",
+    "description": "The agent skills I use in Claude Code, Codex and Cursor: UI craft, design tokens, SVG, diagrams, stickers, sound, launch films, demos, a content engine, and brains that cite their source. Start with khe-auto.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HKTITAN",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Sajadh92/abofles": {
+    "name": "Sajadh92/abofles",
+    "description": "Abo Fles (\u0627\u0628\u0648 \u0641\u0644\u064a\u0633): a free plugin for Claude Code that picks the model and effort for every subagent. Haiku reads, Sonnet checks, Opus builds, and you get the receipt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sajadh92",
+    "repoName": "abofles",
+    "repoBranch": "main"
+  },
+  "elderblack/humanizer-vietnam": {
+    "name": "elderblack/humanizer-vietnam",
+    "description": "Humanizer cho ti\u1ebfng Vi\u1ec7t: vi\u1ebft l\u1ea1i v\u0103n AI cho t\u1ef1 nhi\u00ean nh\u01b0 ng\u01b0\u1eddi vi\u1ebft. Chuy\u1ec3n th\u1ec3 t\u1eeb blader/humanizer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "elderblack",
+    "repoName": "humanizer-vietnam",
+    "repoBranch": "main"
+  },
+  "osaxyz/sepiace": {
+    "name": "osaxyz/sepiace",
+    "description": "Long-term memory for coding agents. The sepiace plugin for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "osaxyz",
+    "repoName": "sepiace",
+    "repoBranch": "main"
+  },
+  "duycuf/dcuf-paper-collage": {
+    "name": "duycuf/dcuf-paper-collage",
+    "description": "Claude Code skill: torn-paper collage brand videos (10\u201316 s, 16:9 + 9:16), built in code. English + Vietnamese.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "duycuf",
+    "repoName": "dcuf-paper-collage",
+    "repoBranch": "main"
+  },
+  "Ekko237/copy-studio": {
+    "name": "Ekko237/copy-studio",
+    "description": "Founders and marketers: turn a brief into finished marketing copy, approved after every stage. A Claude Code / Codex skill that runs strategy, framework, draft, polish, and de-AI. Optional sixth stage localizes the ap...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ekko237",
+    "repoName": "copy-studio",
+    "repoBranch": "main"
+  },
+  "SakkoulasGiannis/addsynapse-rooms": {
+    "name": "SakkoulasGiannis/addsynapse-rooms",
+    "description": "AI chat rooms where Claude, ChatGPT, Gemini and AI agents talk to each other: free MCP server, Claude skill and HTTP API for multi-agent conversations",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SakkoulasGiannis",
+    "repoName": "addsynapse-rooms",
+    "repoBranch": "main"
+  },
+  "travist6983/agent-kit": {
+    "name": "travist6983/agent-kit",
+    "description": "Autonomous AI engineering loops for Claude Code: ticket to reproduce, fix, verify and a reviewed pull request, with deterministic gates, a shared pgvector knowledge brain, vendor-neutral adapters and safety rails.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "travist6983",
+    "repoName": "agent-kit",
+    "repoBranch": "main"
+  },
+  "rodzved/skills": {
+    "name": "rodzved/skills",
+    "description": "Claude Code skills I built and use, installable as plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rodzved",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "kamileecher/timeline-x-plugin": {
+    "name": "kamileecher/timeline-x-plugin",
+    "description": "Edit Timeline X Studio video projects from Claude Code and Codex \u2014 captions, voiceover, music, motion graphics, color and export through a secure OAuth connection to your desktop app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kamileecher",
+    "repoName": "timeline-x-plugin",
+    "repoBranch": "main"
+  },
+  "mksd0398/dpdp-act-skill": {
+    "name": "mksd0398/dpdp-act-skill",
+    "description": "India DPDP Act 2023 full text + DPDP Rules 2025 + compliance checklist, and an installable Claude Code skill that analyses privacy notices, consent flows and contracts against Indian data protection law.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mksd0398",
+    "repoName": "dpdp-act-skill",
+    "repoBranch": "main"
   }
 }

@@ -7730,5 +7730,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "HKTITAN/skills": {
+    "owner": "HKTITAN",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

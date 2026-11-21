@@ -59307,5 +59307,125 @@
         "branch": "main",
         "skillsPath": "system/dist/skills",
         "enabled": true
+    },
+    "alchaincyf/huashu-design": {
+        "owner": "alchaincyf",
+        "name": "huashu-design",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tikoci/routeros-skills": {
+        "owner": "tikoci",
+        "name": "routeros-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "HKTITAN/skills": {
+        "owner": "HKTITAN",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yuzhang-ai/web-animation-skill": {
+        "owner": "yuzhang-ai",
+        "name": "web-animation-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Sajadh92/abofles": {
+        "owner": "Sajadh92",
+        "name": "abofles",
+        "branch": "main",
+        "enabled": true
+    },
+    "elderblack/humanizer-vietnam": {
+        "owner": "elderblack",
+        "name": "humanizer-vietnam",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Bndrwe/idea-generation": {
+        "owner": "Bndrwe",
+        "name": "idea-generation",
+        "branch": "main",
+        "enabled": true
+    },
+    "osaxyz/sepiace": {
+        "owner": "osaxyz",
+        "name": "sepiace",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gothicpixie/opendubstage": {
+        "owner": "gothicpixie",
+        "name": "opendubstage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "duycuf/dcuf-paper-collage": {
+        "owner": "duycuf",
+        "name": "dcuf-paper-collage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ekko237/copy-studio": {
+        "owner": "Ekko237",
+        "name": "copy-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SakkoulasGiannis/addsynapse-rooms": {
+        "owner": "SakkoulasGiannis",
+        "name": "addsynapse-rooms",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guaikei/xhs-matrix": {
+        "owner": "guaikei",
+        "name": "xhs-matrix",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "travist6983/agent-kit": {
+        "owner": "travist6983",
+        "name": "agent-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "rodzved/skills": {
+        "owner": "rodzved",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kamileecher/timeline-x-plugin": {
+        "owner": "kamileecher",
+        "name": "timeline-x-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "mksd0398/dpdp-act-skill": {
+        "owner": "mksd0398",
+        "name": "dpdp-act-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ashmitmittal/trip-map-skill": {
+        "owner": "ashmitmittal",
+        "name": "trip-map-skill",
+        "branch": "main",
+        "enabled": true
     }
 }
