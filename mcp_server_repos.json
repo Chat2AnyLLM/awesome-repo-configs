@@ -519,5 +519,13 @@
     "enabled": true,
     "serverName": "com.dankmachine/dank-meme-sounds",
     "note": "Local stdio MCP (npx -y dank-meme-sounds, adds play_sound for playback on macOS, Windows and Linux) and remote Streamable HTTP at https://dankmachine.com/mcp (no auth). 38,000+ meme sound effects: find a reaction sound for a moment, search by name, mood or use case, live trending. Read-only, free, no API key. MIT. Canonical metadata is in server.json."
+  },
+  "i2v-ai/i2v-mcp": {
+    "owner": "i2v-ai",
+    "name": "i2v-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.i2v-ai/mcp",
+    "note": "Image generation and text-to-video or image-to-video generation across 12 image and 16 video models. Hosted only: Streamable HTTP at https://i2v.ai/api/mcp with OAuth 2.1 (mcp:read / mcp:write), or a local stdio bridge through npx @i2v-ai/cli mcp. Every paid task is quoted in USD first and submitted with an explicit ceiling and an idempotency key. The repo holds server.json, connection files and llms-install.md, not the server source. MIT."
   }
 }

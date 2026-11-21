@@ -51581,5 +51581,14 @@
     "repoOwner": "mksd0398",
     "repoName": "dpdp-act-skill",
     "repoBranch": "main"
+  },
+  "i2v-ai/i2v-skills": {
+    "name": "i2v-skills",
+    "description": "i2v.ai: a Claude Code plugin marketplace for image and video generation. Two skills cover model discovery across 12 image and 16 video models, a live USD quote before any paid task, uploads, task recovery, saved assets, and backend integration of the i2v.ai media API. Ships the remote MCP server at https://i2v.ai/api/mcp and a bundled CLI. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "i2v-ai",
+    "repoName": "i2v-skills",
+    "repoBranch": "main"
   }
 }
