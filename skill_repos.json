@@ -59427,5 +59427,12 @@
         "name": "trip-map-skill",
         "branch": "main",
         "enabled": true
+    },
+    "i2v-ai/i2v-skills": {
+        "owner": "i2v-ai",
+        "name": "i2v-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
