@@ -59434,5 +59434,112 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "alchaincyf/huashu-motion": {
+        "owner": "alchaincyf",
+        "name": "huashu-motion",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "me2resh/apexyard": {
+        "owner": "me2resh",
+        "name": "apexyard",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "glebis/claude-skills": {
+        "owner": "glebis",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "0xS4N4TG/papercut-explainer": {
+        "owner": "0xS4N4TG",
+        "name": "papercut-explainer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rune-kit/rune": {
+        "owner": "Rune-kit",
+        "name": "rune",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lisresearchgroup/math-rsi": {
+        "owner": "lisresearchgroup",
+        "name": "math-rsi",
+        "branch": "main",
+        "enabled": true
+    },
+    "qualixar/brief2mp4": {
+        "owner": "qualixar",
+        "name": "brief2mp4",
+        "branch": "main",
+        "enabled": true
+    },
+    "AlexanderAbramovPav/youtube-advisor": {
+        "owner": "AlexanderAbramovPav",
+        "name": "youtube-advisor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LevyBytes/AI-SKILL-adobe-products": {
+        "owner": "LevyBytes",
+        "name": "AI-SKILL-adobe-products",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Peaky8linders/eu-ai-act-scanner": {
+        "owner": "Peaky8linders",
+        "name": "eu-ai-act-scanner",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LevyBytes/AI-SKILL-ableton-live": {
+        "owner": "LevyBytes",
+        "name": "AI-SKILL-ableton-live",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LevyBytes/AI-SKILL-blender": {
+        "owner": "LevyBytes",
+        "name": "AI-SKILL-blender",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "anhle9x/ai-worker": {
+        "owner": "anhle9x",
+        "name": "ai-worker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jordyfontoura/skills": {
+        "owner": "jordyfontoura",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ZazaGdev/AI-fun": {
+        "owner": "ZazaGdev",
+        "name": "AI-fun",
+        "branch": "main",
+        "enabled": true
+    },
+    "aiwalakapil/awk-studio": {
+        "owner": "aiwalakapil",
+        "name": "awk-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

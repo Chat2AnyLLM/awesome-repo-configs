@@ -7737,5 +7737,47 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "me2resh/apexyard": {
+    "owner": "me2resh",
+    "name": "apexyard",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "0xS4N4TG/papercut-explainer": {
+    "owner": "0xS4N4TG",
+    "name": "papercut-explainer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Rune-kit/rune": {
+    "owner": "Rune-kit",
+    "name": "rune",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "lisresearchgroup/math-rsi": {
+    "owner": "lisresearchgroup",
+    "name": "math-rsi",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "anhle9x/ai-worker": {
+    "owner": "anhle9x",
+    "name": "ai-worker",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "jordyfontoura/skills": {
+    "owner": "jordyfontoura",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

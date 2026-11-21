@@ -51590,5 +51590,77 @@
     "repoOwner": "i2v-ai",
     "repoName": "i2v-skills",
     "repoBranch": "main"
+  },
+  "me2resh/apexyard": {
+    "name": "me2resh/apexyard",
+    "description": "Your AI engineering org, governed. Ship agent-built code safely to production.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "me2resh",
+    "repoName": "apexyard",
+    "repoBranch": "main"
+  },
+  "glebis/claude-skills": {
+    "name": "glebis/claude-skills",
+    "description": "Collection of Agent skills for enhanced AI workflows",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "glebis",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Rune-kit/rune": {
+    "name": "Rune-kit/rune",
+    "description": "Less skills. Deeper connections. 67-skill engineering mesh for AI coding agents \u2014 TDD-first workflows, security gates and project memory. Native in Claude Code, Codex, Cursor, Grok Build and Gemini CLI; works in any A...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rune-kit",
+    "repoName": "rune",
+    "repoBranch": "master"
+  },
+  "qualixar/brief2mp4": {
+    "name": "qualixar/brief2mp4",
+    "description": "Text to motion graphics for Claude Code and Codex: write a brief, get a checked MP4. 82 art forms, from oil painting, Madhubani and manga to claymation, synthwave and silent film. Characters that talk, 2D explainers,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qualixar",
+    "repoName": "brief2mp4",
+    "repoBranch": "main"
+  },
+  "Peaky8linders/eu-ai-act-scanner": {
+    "name": "Peaky8linders/eu-ai-act-scanner",
+    "description": "Scan any codebase for EU AI Act (Regulation 2024/1689) compliance evidence and gaps. 14 analyzers, Claude Code plugin + library + CLI. Local-only static analysis.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Peaky8linders",
+    "repoName": "eu-ai-act-scanner",
+    "repoBranch": "main"
+  },
+  "anhle9x/ai-worker": {
+    "name": "anhle9x/ai-worker",
+    "description": "Measure AI cost and speed, from your whole team to every AI product you build; keep AI from leaking passwords or API keys; turn your team's SOPs into Claude skills. Claude Code plugin + self-hosted Python/SQLite server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anhle9x",
+    "repoName": "ai-worker",
+    "repoBranch": "main"
+  },
+  "sjsyrek/claude-plugins": {
+    "name": "sjsyrek/claude-plugins",
+    "description": "Claude Code plugin marketplace by Steven Syrek: design-council, red-team, compliance-panel and context-cleaning-crew.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sjsyrek",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "jordyfontoura/skills": {
+    "name": "jordyfontoura/skills",
+    "description": "Skills de engenharia em portugu\u00eas para agentes de c\u00f3digo (Claude Code e Codex): alinhar, especificar, implementar, revisar e provar.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jordyfontoura",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }
