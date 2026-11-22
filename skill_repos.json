@@ -59635,5 +59635,132 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Mira-AI-Tools/mira-skill": {
+        "owner": "Mira-AI-Tools",
+        "name": "mira-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "josevdr95new/opencode-team": {
+        "owner": "josevdr95new",
+        "name": "opencode-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "michael-ilic/solo-venturing": {
+        "owner": "michael-ilic",
+        "name": "solo-venturing",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sksareen/point": {
+        "owner": "sksareen",
+        "name": "point",
+        "branch": "master",
+        "enabled": true
+    },
+    "epilibre-design/spip-skills": {
+        "owner": "epilibre-design",
+        "name": "spip-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrPippi/MJP-Paper-Skills": {
+        "owner": "MrPippi",
+        "name": "MJP-Paper-Skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "melthond/sharpen": {
+        "owner": "melthond",
+        "name": "sharpen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OptimizerTeam/agent-skills": {
+        "owner": "OptimizerTeam",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "subtitulos-castellano/bajar-subtitulos-esp": {
+        "owner": "subtitulos-castellano",
+        "name": "bajar-subtitulos-esp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Stukongeluk/the-human-c-suite": {
+        "owner": "Stukongeluk",
+        "name": "the-human-c-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stellakamikaze/arturo": {
+        "owner": "stellakamikaze",
+        "name": "arturo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bobtat/claude-plugins": {
+        "owner": "bobtat",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "zeta92/atrezzo": {
+        "owner": "zeta92",
+        "name": "atrezzo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Nyxiflare/shelfscout": {
+        "owner": "Nyxiflare",
+        "name": "shelfscout",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Facta-Dev/ai-coding-playbook": {
+        "owner": "Facta-Dev",
+        "name": "ai-coding-playbook",
+        "branch": "main",
+        "enabled": true
+    },
+    "skillsforbots/grok-bot-skills": {
+        "owner": "skillsforbots",
+        "name": "grok-bot-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anubhav-qt/engineering-skills": {
+        "owner": "anubhav-qt",
+        "name": "engineering-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devnadeemashraf/engg-skills-suite": {
+        "owner": "devnadeemashraf",
+        "name": "engg-skills-suite",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joseantoniopastorrivera-dev/claude-code-skills": {
+        "owner": "joseantoniopastorrivera-dev",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "enabled": true
     }
 }

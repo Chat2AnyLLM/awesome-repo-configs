@@ -7793,5 +7793,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "josevdr95new/opencode-team": {
+    "owner": "josevdr95new",
+    "name": "opencode-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "stellakamikaze/arturo": {
+    "owner": "stellakamikaze",
+    "name": "arturo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

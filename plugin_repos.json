@@ -51806,5 +51806,95 @@
     "repoOwner": "internetdata",
     "repoName": "claude-plugin",
     "repoBranch": "main"
+  },
+  "Mira-AI-Tools/mira-skill": {
+    "name": "Mira-AI-Tools/mira-skill",
+    "description": "TikTok, Instagram Reels & YouTube video transcript skill + MCP connector for Claude and ChatGPT: transcript, on-screen text, structured extracts, video download",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mira-AI-Tools",
+    "repoName": "mira-skill",
+    "repoBranch": "main"
+  },
+  "michael-ilic/solo-venturing": {
+    "name": "michael-ilic/solo-venturing",
+    "description": "A personal shark tank for your app idea. An agent skill that coaches you from idea to a live app that earns money, with a go/pivot/kill verdict after every phase.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "michael-ilic",
+    "repoName": "solo-venturing",
+    "repoBranch": "main"
+  },
+  "sksareen/point": {
+    "name": "sksareen/point",
+    "description": "Talk less. Point more. Hold a key, talk, and circle: your AI agent gets your words plus a screenshot. On-device, open source, macOS.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sksareen",
+    "repoName": "point",
+    "repoBranch": "master"
+  },
+  "melthond/sharpen": {
+    "name": "melthond/sharpen",
+    "description": "You type \u201cfix the login thing.\u201d It knows which one.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "melthond",
+    "repoName": "sharpen",
+    "repoBranch": "main"
+  },
+  "Stukongeluk/the-human-c-suite": {
+    "name": "Stukongeluk/the-human-c-suite",
+    "description": "Agent skills for an empathic c-suite which actually acts like a human, prioritizes employee well-being and long term benefits for the company",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Stukongeluk",
+    "repoName": "the-human-c-suite",
+    "repoBranch": "main"
+  },
+  "stellakamikaze/arturo": {
+    "name": "stellakamikaze/arturo",
+    "description": "Arturo \u00e8 un harness per il lavoro della conoscenza, pensato per chi usa gi\u00e0 l'intelligenza artificiale in chat e non ha mai aperto un terminale.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stellakamikaze",
+    "repoName": "arturo",
+    "repoBranch": "main"
+  },
+  "bobtat/claude-plugins": {
+    "name": "bobtat/claude-plugins",
+    "description": "bobtat/claude-plugins \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bobtat",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "zeta92/atrezzo": {
+    "name": "zeta92/atrezzo",
+    "description": "API mocks built from application states: one seeded world, every endpoint a deterministic projection, verified against the real DOM. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zeta92",
+    "repoName": "atrezzo",
+    "repoBranch": "main"
+  },
+  "anubhav-qt/engineering-skills": {
+    "name": "anubhav-qt/engineering-skills",
+    "description": "Engineering habits for coding agents: a Claude Code plugin that plans before coding, asks one decision at a time, and proves its work with planted-bug testing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anubhav-qt",
+    "repoName": "engineering-skills",
+    "repoBranch": "main"
+  },
+  "joseantoniopastorrivera-dev/claude-code-skills": {
+    "name": "joseantoniopastorrivera-dev/claude-code-skills",
+    "description": "Personal Claude Code plugin marketplace: music library organizer, phase-based development with test plans and document sorting for git repos | Marketplace personal de plugins para Claude Code: organizar bibliotecas mu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joseantoniopastorrivera-dev",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
   }
 }
