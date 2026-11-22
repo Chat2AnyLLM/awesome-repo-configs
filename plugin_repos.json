@@ -51797,5 +51797,14 @@
     "repoOwner": "ChiefStarKid",
     "repoName": "kainosis",
     "repoBranch": "main"
+  },
+  "internetdata/claude-plugin": {
+    "name": "internetdata",
+    "description": "InternetData: a Claude Code plugin marketplace whose internetdata plugin looks up IP addresses, ASNs and domains through InternetData's hosted MCP server (location, network and company, VPN, proxy, Tor and hosting flags, DNS records, an AS's prefixes) and browses the IP databases your organization holds. Five skills, including screening a log or a list of signups. Signs in with a free InternetData account. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "internetdata",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
   }
 }
