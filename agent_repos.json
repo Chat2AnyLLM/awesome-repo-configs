@@ -7779,5 +7779,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "sinkytiger/day-trader-skill-kr": {
+    "owner": "sinkytiger",
+    "name": "day-trader-skill-kr",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "digitalscapemy/super-seo": {
+    "owner": "digitalscapemy",
+    "name": "super-seo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

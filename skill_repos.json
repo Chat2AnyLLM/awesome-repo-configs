@@ -59541,5 +59541,99 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Leonxlnx/cinetic": {
+        "owner": "Leonxlnx",
+        "name": "cinetic",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mgantlett/nomos": {
+        "owner": "mgantlett",
+        "name": "nomos",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sinkytiger/day-trader-skill-kr": {
+        "owner": "sinkytiger",
+        "name": "day-trader-skill-kr",
+        "branch": "main",
+        "enabled": true
+    },
+    "sant1jmnz/claude-code-kit": {
+        "owner": "sant1jmnz",
+        "name": "claude-code-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-yunying-zhushou": {
+        "owner": "why20261",
+        "name": "douyin-yunying-zhushou",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ngwgsang/paraphrase-everything": {
+        "owner": "ngwgsang",
+        "name": "paraphrase-everything",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dislop-ai/dislop": {
+        "owner": "dislop-ai",
+        "name": "dislop",
+        "branch": "main",
+        "enabled": true
+    },
+    "mudwing-chen/vsum": {
+        "owner": "mudwing-chen",
+        "name": "vsum",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Oreldm/chatserp": {
+        "owner": "Oreldm",
+        "name": "chatserp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jeff-Tian/agent-skills": {
+        "owner": "Jeff-Tian",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "bitvault-developers/bvt-skills": {
+        "owner": "bitvault-developers",
+        "name": "bvt-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "digitalscapemy/super-seo": {
+        "owner": "digitalscapemy",
+        "name": "super-seo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "filestar/filestar-agent": {
+        "owner": "filestar",
+        "name": "filestar-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ChiefStarKid/kainosis": {
+        "owner": "ChiefStarKid",
+        "name": "kainosis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
