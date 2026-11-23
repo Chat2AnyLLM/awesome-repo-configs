@@ -52022,5 +52022,14 @@
     "repoOwner": "cardene777",
     "repoName": "agent-shuriken",
     "repoBranch": "main"
+  },
+  "vpndetection-io/claude-plugin": {
+    "name": "vpndetection",
+    "description": "VPNDetection's Claude plugin: check IP addresses for VPNs, proxies, Tor, privacy relays, hosting and CDNs through its hosted MCP server, with skills for checking IPs and reviewing traffic. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vpndetection-io",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
   }
 }
