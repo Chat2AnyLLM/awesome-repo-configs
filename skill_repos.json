@@ -59880,5 +59880,116 @@
         "name": "agent-shuriken",
         "branch": "main",
         "enabled": true
+    },
+    "thoughtbot/the-process": {
+        "owner": "thoughtbot",
+        "name": "the-process",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mangools/seo-skills": {
+        "owner": "mangools",
+        "name": "seo-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "getsupertab/claude-marketplace": {
+        "owner": "getsupertab",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "PollyGlot/google-play-cli-skills": {
+        "owner": "PollyGlot",
+        "name": "google-play-cli-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omerbatutandogan/seekwide": {
+        "owner": "omerbatutandogan",
+        "name": "seekwide",
+        "branch": "main",
+        "enabled": true
+    },
+    "gfargo/pixelkiln": {
+        "owner": "gfargo",
+        "name": "pixelkiln",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BwL1289/ai-vc-skills": {
+        "owner": "BwL1289",
+        "name": "ai-vc-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "srezai-team/srezai-web-search-pro-skills": {
+        "owner": "srezai-team",
+        "name": "srezai-web-search-pro-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "depuschm/christian-guidelines": {
+        "owner": "depuschm",
+        "name": "christian-guidelines",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "serious-ai/claude-skills-starter": {
+        "owner": "serious-ai",
+        "name": "claude-skills-starter",
+        "branch": "main",
+        "enabled": true
+    },
+    "vksrtmd/mise-en-place": {
+        "owner": "vksrtmd",
+        "name": "mise-en-place",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jabbott-iii/Doctrina": {
+        "owner": "jabbott-iii",
+        "name": "Doctrina",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "localixai/agent-plugins": {
+        "owner": "localixai",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "localixai/agent-plugins-extended": {
+        "owner": "localixai",
+        "name": "agent-plugins-extended",
+        "branch": "main",
+        "enabled": true
+    },
+    "lucaOR/officina-claude": {
+        "owner": "lucaOR",
+        "name": "officina-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "makavli/fewkit": {
+        "owner": "makavli",
+        "name": "fewkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "moiz7-dev/claude-code-engineering-team": {
+        "owner": "moiz7-dev",
+        "name": "claude-code-engineering-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

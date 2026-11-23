@@ -52049,5 +52049,122 @@
     "repoOwner": "kkfir13",
     "repoName": "valuedge-claude-stock-research-plugin",
     "repoBranch": "main"
+  },
+  "thoughtbot/the-process": {
+    "name": "thoughtbot/the-process",
+    "description": "A collection of skills for software development and consulting with an emphasis on learning, communication, and client success. Trust the process.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thoughtbot",
+    "repoName": "the-process",
+    "repoBranch": "main"
+  },
+  "getsupertab/claude-marketplace": {
+    "name": "getsupertab/claude-marketplace",
+    "description": "Supertab\u2019s Claude Code plugin marketplace \u2014 TokenTab: live cost tracking and budgets for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "getsupertab",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "oojewale/ijapa": {
+    "name": "oojewale/ijapa",
+    "description": "Claude Code plugins that adapt to your project\u2019s conventions. First plugin: devcycle, a phase-gated dev workflow.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oojewale",
+    "repoName": "ijapa",
+    "repoBranch": "main"
+  },
+  "omerbatutandogan/seekwide": {
+    "name": "omerbatutandogan/seekwide",
+    "description": "Claude Code plugin for site audits you can re-run and trust: scripted SEO, Core Web Vitals, links, signs of a hacked site, images and video, with evidence for every finding, repeatable scores, a client-ready report an...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "omerbatutandogan",
+    "repoName": "seekwide",
+    "repoBranch": "main"
+  },
+  "BwL1289/ai-vc-skills": {
+    "name": "BwL1289/ai-vc-skills",
+    "description": "AI agent skills that help startup founders get ready to raise from VCs: exact deal math, a check of your ask, and adversarial reviews of your pitch and your deck's claims. A Claude Code plugin with an MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BwL1289",
+    "repoName": "ai-vc-skills",
+    "repoBranch": "main"
+  },
+  "srezai-team/srezai-web-search-pro-skills": {
+    "name": "srezai-team/srezai-web-search-pro-skills",
+    "description": "9 agent skills (SKILL.md) + zero-dependency CLI for AI agents: web search & news, scraping and full-page reading (PDF/Office), site maps and crawls, schema extraction, claim verification with quotes, deep research, Yo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "srezai-team",
+    "repoName": "srezai-web-search-pro-skills",
+    "repoBranch": "main"
+  },
+  "depuschm/christian-guidelines": {
+    "name": "depuschm/christian-guidelines",
+    "description": "Reference-first, ecumenical guidelines for Christian faith and life: rules where the churches agree, a guide to every book of the Bible including the deuterocanon, and what each church tradition teaches. Every rule ci...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "depuschm",
+    "repoName": "christian-guidelines",
+    "repoBranch": "main"
+  },
+  "serious-ai/claude-skills-starter": {
+    "name": "serious-ai/claude-skills-starter",
+    "description": "One GitHub repo for every Claude skill: Claude Code, claude.ai and Cowork install from it and update on every merged change. Plugin marketplace template with auto-versioning, a Vale voice check and prompt nudges.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serious-ai",
+    "repoName": "claude-skills-starter",
+    "repoBranch": "main"
+  },
+  "localixai/agent-plugins": {
+    "name": "localixai/agent-plugins",
+    "description": "agent-plugins: Claude Code plugin support for any agent, the implementation of Agent Plugins Extended",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "localixai",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "localixai/agent-plugins-extended": {
+    "name": "localixai/agent-plugins-extended",
+    "description": "Agent Plugins Extended: the Agent Plugins specification grown to the whole Claude Code plugin contract",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "localixai",
+    "repoName": "agent-plugins-extended",
+    "repoBranch": "main"
+  },
+  "lucaOR/officina-claude": {
+    "name": "lucaOR/officina-claude",
+    "description": "Claude Code plugins from the workshop, for developers who use Claude Code every day on real projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucaOR",
+    "repoName": "officina-claude",
+    "repoBranch": "main"
+  },
+  "makavli/fewkit": {
+    "name": "makavli/fewkit",
+    "description": "One front door to a lean Claude Code setup: CodeKickoff on day one, Fewturns every day after, Wavecheck before a release, Laneboard all the time.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "makavli",
+    "repoName": "fewkit",
+    "repoBranch": "main"
+  },
+  "moiz7-dev/claude-code-engineering-team": {
+    "name": "moiz7-dev/claude-code-engineering-team",
+    "description": "Claude Code engineering team (eng-team): an AI engineering team for Claude Code on GitHub. A skill and plugin with Manager, Designer, Developer and QA subagents, a QA gate, safe defaults and low token cost. Unofficial...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moiz7-dev",
+    "repoName": "claude-code-engineering-team",
+    "repoBranch": "main"
   }
 }

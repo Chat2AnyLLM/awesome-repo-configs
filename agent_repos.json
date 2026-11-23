@@ -7814,5 +7814,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "moiz7-dev/claude-code-engineering-team": {
+    "owner": "moiz7-dev",
+    "name": "claude-code-engineering-team",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
