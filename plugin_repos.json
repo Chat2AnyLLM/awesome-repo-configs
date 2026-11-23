@@ -52031,5 +52031,14 @@
     "repoOwner": "vpndetection-io",
     "repoName": "claude-plugin",
     "repoBranch": "main"
+  },
+  "kkfir13/valuedge-claude-stock-research-plugin": {
+    "name": "valuedge-stock-research",
+    "description": "Claude plugin for stock screening, valuations, fundamentals and signed-in portfolio research through the hosted ValuEdge MCP server. OAuth applies to metered and account tools; no brokerage trading.",
+    "enabled": true,
+    "type": "plugin",
+    "repoOwner": "kkfir13",
+    "repoName": "valuedge-claude-stock-research-plugin",
+    "repoBranch": "main"
   }
 }
