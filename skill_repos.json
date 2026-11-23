@@ -59762,5 +59762,12 @@
         "name": "claude-code-skills",
         "branch": "main",
         "enabled": true
+    },
+    "zColdWater/omniforge-skills": {
+        "owner": "zColdWater",
+        "name": "omniforge-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
