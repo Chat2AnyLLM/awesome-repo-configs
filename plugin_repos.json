@@ -51914,5 +51914,113 @@
     "repoOwner": "zColdWater",
     "repoName": "omniforge-skills",
     "repoBranch": "main"
+  },
+  "BretFisher/skills": {
+    "name": "BretFisher/skills",
+    "description": "My handcrafted agent skills for DevOps, CI/CD, and platforms",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BretFisher",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "808enzo/chappie": {
+    "name": "808enzo/chappie",
+    "description": "Lifecycle, CRM and retention marketing skills for AI agents: email, SMS, loyalty, win-back, segmentation. 35 Agent Skills with the steps, thresholds, timing, edge cases and failure modes a framework leaves to you. Che...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "808enzo",
+    "repoName": "chappie",
+    "repoBranch": "main"
+  },
+  "Timonwa/writing-skills": {
+    "name": "Timonwa/writing-skills",
+    "description": "Claude skills that help writers plan, write, edit and review documentation, blogs, newsletters and social posts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Timonwa",
+    "repoName": "writing-skills",
+    "repoBranch": "main"
+  },
+  "jandyx/muster": {
+    "name": "jandyx/muster",
+    "description": "Fan work out from Claude Code to Codex and other CLI agents in parallel, with a live pane for progress, tokens and cost.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jandyx",
+    "repoName": "muster",
+    "repoBranch": "main"
+  },
+  "bogworks/mash": {
+    "name": "bogworks/mash",
+    "description": "A distributed \"mail mesh\" (a \"mash\") for durable, signed mail between AI agent sessions. Each session gets an inbox on NATS that keeps mail until it is read and delivers it into Claude Code without polling or extra tu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bogworks",
+    "repoName": "mash",
+    "repoBranch": "main"
+  },
+  "orchesterra/cloud-drift-report": {
+    "name": "orchesterra/cloud-drift-report",
+    "description": "Open-source Terraform drift detection and driftctl alternative: read-only Terraform/OpenTofu and CloudFormation drift, plus AWS resources not in any IaC. CLI, GitHub Action, Claude and Cursor plugin. By OrchesTerra.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "orchesterra",
+    "repoName": "cloud-drift-report",
+    "repoBranch": "main"
+  },
+  "akootahq/seo-agent-skills": {
+    "name": "akootahq/seo-agent-skills",
+    "description": "Claude Code SEO and AEO/GEO skills that make the fix, not just the report: a free SEO and AI search audit, fixes as pull requests, each checked on the live site. With Agent Number 10: real ChatGPT, Claude, Perplexity,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "akootahq",
+    "repoName": "seo-agent-skills",
+    "repoBranch": "main"
+  },
+  "jaschadub/skill-formal-proofs": {
+    "name": "jaschadub/skill-formal-proofs",
+    "description": "Catch bugs your tests miss. Agent skills that turn the rules your code must keep into formal checks (TLA+), and flag when that code changes without a recheck. For Claude Code, Codex, and Pi.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jaschadub",
+    "repoName": "skill-formal-proofs",
+    "repoBranch": "main"
+  },
+  "rockdesk-io/rockdesk-skill": {
+    "name": "rockdesk-io/rockdesk-skill",
+    "description": "Let Claude Code, Codex, Gemini CLI, DeepSeek Harness and other agents operate your other computers through RockDesk, as a skill or an MCP server: shell, files, screenshots, mouse and keyboard, by machine ID. Needs the...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rockdesk-io",
+    "repoName": "rockdesk-skill",
+    "repoBranch": "main"
+  },
+  "cassiobotaro/skills": {
+    "name": "cassiobotaro/skills",
+    "description": "\ud83e\udde9 Agent Skills for software architecture, engineering, communication and learning. Also a Claude Code plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cassiobotaro",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Timonwa/engineering-skills": {
+    "name": "Timonwa/engineering-skills",
+    "description": "Claude skills that help developers build, review and ship web apps on Next.js, React and Firebase.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Timonwa",
+    "repoName": "engineering-skills",
+    "repoBranch": "main"
+  },
+  "cardene777/agent-shuriken": {
+    "name": "cardene777/agent-shuriken",
+    "description": "Careful plugins for Claude Code, Codex, and other coding agents: clean up accounts, compare tools, write explainers and docs, draw diagrams, secure dotfiles, rank tech debt, track repos, keep ports apart, set up proje...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cardene777",
+    "repoName": "agent-shuriken",
+    "repoBranch": "main"
   }
 }

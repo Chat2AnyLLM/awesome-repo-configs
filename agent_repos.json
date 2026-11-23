@@ -7807,5 +7807,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "BretFisher/skills": {
+    "owner": "BretFisher",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

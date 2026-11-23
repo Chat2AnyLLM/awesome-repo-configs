@@ -59769,5 +59769,116 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "hotcoffeeshake/tong-jincheng-skill": {
+        "owner": "hotcoffeeshake",
+        "name": "tong-jincheng-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "petekp/coordinator": {
+        "owner": "petekp",
+        "name": "coordinator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BretFisher/skills": {
+        "owner": "BretFisher",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ctskool/claude-edit": {
+        "owner": "ctskool",
+        "name": "claude-edit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "808enzo/chappie": {
+        "owner": "808enzo",
+        "name": "chappie",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Timonwa/writing-skills": {
+        "owner": "Timonwa",
+        "name": "writing-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jandyx/muster": {
+        "owner": "jandyx",
+        "name": "muster",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "parkjui92/doc-figure": {
+        "owner": "parkjui92",
+        "name": "doc-figure",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bogworks/mash": {
+        "owner": "bogworks",
+        "name": "mash",
+        "branch": "main",
+        "enabled": true
+    },
+    "orchesterra/cloud-drift-report": {
+        "owner": "orchesterra",
+        "name": "cloud-drift-report",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-trend-data-track": {
+        "owner": "why20261",
+        "name": "douyin-trend-data-track",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "akootahq/seo-agent-skills": {
+        "owner": "akootahq",
+        "name": "seo-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jaschadub/skill-formal-proofs": {
+        "owner": "jaschadub",
+        "name": "skill-formal-proofs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rockdesk-io/rockdesk-skill": {
+        "owner": "rockdesk-io",
+        "name": "rockdesk-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "cassiobotaro/skills": {
+        "owner": "cassiobotaro",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Timonwa/engineering-skills": {
+        "owner": "Timonwa",
+        "name": "engineering-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "cardene777/agent-shuriken": {
+        "owner": "cardene777",
+        "name": "agent-shuriken",
+        "branch": "main",
+        "enabled": true
     }
 }
