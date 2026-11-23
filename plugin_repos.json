@@ -1,4 +1,13 @@
 {
+  "ankurmans/vertov-screen-recorder": {
+    "name": "vertov",
+    "description": "Vertov's open-source Claude Code plugin connects to the hosted Vertov MCP server over Streamable HTTP. Sign in with OAuth to search your recordings, read transcripts and briefs, and upload video files to share.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ankurmans",
+    "repoName": "vertov-screen-recorder",
+    "repoBranch": "main"
+  },
   "questionpunk/research-skills": {
     "name": "research-skills",
     "description": "research-skills: a Claude Code plugin marketplace of Agent Skills for survey design and analysis, including questionnaire wording checks, sample size, screeners, Van Westendorp and Gabor-Granger pricing, MaxDiff and conjoint, NPS, CSAT and CES, Likert and UX scales, crosstabs, weighting, data cleaning and open-ended coding. Skills that compute results use standard-library Python scripts with tests. MIT.",
