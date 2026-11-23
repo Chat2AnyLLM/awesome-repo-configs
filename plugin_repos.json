@@ -51896,5 +51896,14 @@
     "repoOwner": "joseantoniopastorrivera-dev",
     "repoName": "claude-code-skills",
     "repoBranch": "main"
+  },
+  "sendbird/sendbird-plugins": {
+    "name": "sendbird",
+    "description": "Sendbird: the official Sendbird plugin marketplace for Claude Code and Codex. Its sendbird-client plugin adds Sendbird Chat (including authentication and sessions), UIKit and Calls to iOS, Android, React and React Native apps, writing code from Sendbird documentation and the SDK installed in the project. Its sendbird-cli plugin manages Sendbird apps and Chat resources through the Sendbird CLI. Apache-2.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sendbird",
+    "repoName": "sendbird-plugins",
+    "repoBranch": "main"
   }
 }
