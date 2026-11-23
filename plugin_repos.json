@@ -51905,5 +51905,14 @@
     "repoOwner": "sendbird",
     "repoName": "sendbird-plugins",
     "repoBranch": "main"
+  },
+  "zColdWater/omniforge-skills": {
+    "name": "omniforge-skills",
+    "description": "50 zero-dependency, read-only pre-launch audit skills & Claude Code plugin covering web/AI app security (Supabase RLS, Next.js CVE-2025-29927, Firebase rules, CSP/HSTS), SPF/DKIM/DMARC/BIMI/MTA-STS email DNS, 78-TLD domain & USPTO checks, and /llms.txt AI search visibility. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zColdWater",
+    "repoName": "omniforge-skills",
+    "repoBranch": "main"
   }
 }
