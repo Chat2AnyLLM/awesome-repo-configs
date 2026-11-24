@@ -7828,5 +7828,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Cynthia-wlan9509/offline-game-revival": {
+    "owner": "Cynthia-wlan9509",
+    "name": "offline-game-revival",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "AshtonAU/pear-plugin": {
+    "owner": "AshtonAU",
+    "name": "pear-plugin",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sheduxdev/beril": {
+    "owner": "sheduxdev",
+    "name": "beril",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Panza-Labs/floorboss": {
+    "owner": "Panza-Labs",
+    "name": "floorboss",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

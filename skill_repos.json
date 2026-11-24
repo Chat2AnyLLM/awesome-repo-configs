@@ -60091,5 +60091,101 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "Cynthia-wlan9509/offline-game-revival": {
+        "owner": "Cynthia-wlan9509",
+        "name": "offline-game-revival",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sokolovgit/kpi-thesis": {
+        "owner": "sokolovgit",
+        "name": "kpi-thesis",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rdoser13/free-claude-skills": {
+        "owner": "rdoser13",
+        "name": "free-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "b3sty191/b3sty-skill": {
+        "owner": "b3sty191",
+        "name": "b3sty-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "grishan0v/echolot": {
+        "owner": "grishan0v",
+        "name": "echolot",
+        "branch": "main",
+        "enabled": true
+    },
+    "AshtonAU/pear-plugin": {
+        "owner": "AshtonAU",
+        "name": "pear-plugin",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sheduxdev/beril": {
+        "owner": "sheduxdev",
+        "name": "beril",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "alkhatibdev/dpolens": {
+        "owner": "alkhatibdev",
+        "name": "dpolens",
+        "branch": "main",
+        "enabled": true
+    },
+    "candorsystems/candor-finance": {
+        "owner": "candorsystems",
+        "name": "candor-finance",
+        "branch": "main",
+        "enabled": true
+    },
+    "idosal/AgentPolyfill": {
+        "owner": "idosal",
+        "name": "AgentPolyfill",
+        "branch": "main",
+        "enabled": true
+    },
+    "ianpoley/magpie": {
+        "owner": "ianpoley",
+        "name": "magpie",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "thaleslaray/instagram-claude": {
+        "owner": "thaleslaray",
+        "name": "instagram-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "Alexandre-LPZ/intendance": {
+        "owner": "Alexandre-LPZ",
+        "name": "intendance",
+        "branch": "main",
+        "enabled": true
+    },
+    "gbertelliti-collab/claude-skills": {
+        "owner": "gbertelliti-collab",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Panza-Labs/floorboss": {
+        "owner": "Panza-Labs",
+        "name": "floorboss",
+        "branch": "main",
+        "enabled": true
     }
 }
