@@ -59991,5 +59991,105 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "serpro69/agentstakk": {
+        "owner": "serpro69",
+        "name": "agentstakk",
+        "branch": "master",
+        "enabled": true
+    },
+    "dotoridot/korean-humanizer": {
+        "owner": "dotoridot",
+        "name": "korean-humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "diagrid-labs/dapr-skills": {
+        "owner": "diagrid-labs",
+        "name": "dapr-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Heyvhuang/copybook-skills": {
+        "owner": "Heyvhuang",
+        "name": "copybook-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "anasAsh/Sibawayh": {
+        "owner": "anasAsh",
+        "name": "Sibawayh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stanesjenson11-lgtm/Folio---Claude-Design-Skill-For-Poster-Brochure-Magazine": {
+        "owner": "stanesjenson11-lgtm",
+        "name": "Folio---Claude-Design-Skill-For-Poster-Brochure-Magazine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Alynxiao/device-compliance-dossier": {
+        "owner": "Alynxiao",
+        "name": "device-compliance-dossier",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "diagridio/diagrid-ai": {
+        "owner": "diagridio",
+        "name": "diagrid-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fikrifirat/katip": {
+        "owner": "fikrifirat",
+        "name": "katip",
+        "branch": "main",
+        "enabled": true
+    },
+    "grcmana/grc-os": {
+        "owner": "grcmana",
+        "name": "grc-os",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "TheMattHub/claude-skills": {
+        "owner": "TheMattHub",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Beovulfo/herd-sdlc": {
+        "owner": "Beovulfo",
+        "name": "herd-sdlc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sycatle/senior-mode": {
+        "owner": "Sycatle",
+        "name": "senior-mode",
+        "branch": "main",
+        "enabled": true
+    },
+    "pronovahq/prompt-workflow-architecture": {
+        "owner": "pronovahq",
+        "name": "prompt-workflow-architecture",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yuzhang-zhong/roblox-style-video": {
+        "owner": "yuzhang-zhong",
+        "name": "roblox-style-video",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

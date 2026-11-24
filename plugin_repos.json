@@ -52166,5 +52166,131 @@
     "repoOwner": "moiz7-dev",
     "repoName": "claude-code-engineering-team",
     "repoBranch": "main"
+  },
+  "serpro69/agentstakk": {
+    "name": "serpro69/agentstakk",
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your agentic development workflows: mcp, configs, skills, agents and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "serpro69",
+    "repoName": "agentstakk",
+    "repoBranch": "master"
+  },
+  "dspv/caprock": {
+    "name": "dspv/caprock",
+    "description": "Agentic development environment: run Claude Code, Codex, OpenCode and Gemini CLI side by side, and follow every PR from agent to release with its cost. Desktop app for macOS, Windows and Linux, plus a Claude Code plug...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dspv",
+    "repoName": "caprock",
+    "repoBranch": "master"
+  },
+  "diagrid-labs/dapr-skills": {
+    "name": "diagrid-labs/dapr-skills",
+    "description": "A set of AI skills to speed up the creation of Dapr applications that use Workflow, Pub/Sub or Agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "diagrid-labs",
+    "repoName": "dapr-skills",
+    "repoBranch": "main"
+  },
+  "Heyvhuang/copybook-skills": {
+    "name": "Heyvhuang/copybook-skills",
+    "description": "Your coding agent picks the tip that fits the task. From @Voxyz_ai, in English and Chinese.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Heyvhuang",
+    "repoName": "copybook-skills",
+    "repoBranch": "main"
+  },
+  "anasAsh/Sibawayh": {
+    "name": "anasAsh/Sibawayh",
+    "description": "\u0633\u064a\u0628\u0648\u064a\u0647 \u00b7 An Agent Skill that makes AI agents write correct, natural Arabic and check it before answering. Claude Code plugin + dependency-free checker.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anasAsh",
+    "repoName": "Sibawayh",
+    "repoBranch": "main"
+  },
+  "stanesjenson11-lgtm/Folio---Claude-Design-Skill-For-Poster-Brochure-Magazine": {
+    "name": "stanesjenson11-lgtm/Folio---Claude-Design-Skill-For-Poster-Brochure-Magazine",
+    "description": "Claude Code plugin and Claude skill for print design: magazines, brochures, company profiles and posters for church services, Bible verses, sports and events. Print-ready PDF/PNG plus a Canva-editable HTML of every pa...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stanesjenson11-lgtm",
+    "repoName": "Folio---Claude-Design-Skill-For-Poster-Brochure-Magazine",
+    "repoBranch": "main"
+  },
+  "diagridio/diagrid-ai": {
+    "name": "diagridio/diagrid-ai",
+    "description": "Durable execution for AI agents and workflows: Claude Code plugin, agent skills and remote MCP server for building, running and debugging Dapr Workflows and Durable Agents on Diagrid Catalyst. Also works in Codex and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "diagridio",
+    "repoName": "diagrid-ai",
+    "repoBranch": "main"
+  },
+  "andriitk/cc-unibrow": {
+    "name": "andriitk/cc-unibrow",
+    "description": "Approve Claude Code from your MacBook notch: permission prompts, questions and finished turns from every session in one list.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andriitk",
+    "repoName": "cc-unibrow",
+    "repoBranch": "main"
+  },
+  "fikrifirat/katip": {
+    "name": "fikrifirat/katip",
+    "description": "Katip: on-device KVKK masking for Turkish legal documents. Browser app, Claude plugin, Turkish NER models and the KVKK-Bench benchmark.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fikrifirat",
+    "repoName": "katip",
+    "repoBranch": "main"
+  },
+  "TheMattHub/claude-skills": {
+    "name": "TheMattHub/claude-skills",
+    "description": "Claude Code plugin marketplace: skills for writing, document export, publishing repositories, shareable web pages, agent coordination, plant data and LLM integration, plus guides for people new to Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TheMattHub",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Beovulfo/herd-sdlc": {
+    "name": "Beovulfo/herd-sdlc",
+    "description": "Autopilot SDLC plugin for Claude Code: hand an agent a goal, get code plus runnable-check evidence. Stop gate included.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Beovulfo",
+    "repoName": "herd-sdlc",
+    "repoBranch": "main"
+  },
+  "Sycatle/senior-mode": {
+    "name": "Sycatle/senior-mode",
+    "description": "Claude Code plugin that makes AI-assisted coding work like a senior engineering team: framing, specs and ADRs, TDD, atomic commits, a GitHub Projects roadmap, required reviews and bounded autonomous agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sycatle",
+    "repoName": "senior-mode",
+    "repoBranch": "main"
+  },
+  "pronovahq/prompt-workflow-architecture": {
+    "name": "pronovahq/prompt-workflow-architecture",
+    "description": "Claude Code skill: interviews you to turn a rough task idea into a high-level prompt (outcome + guardrails + self-verification) and picks the execution mode \u2014 single agent, workflow, loop, or routine. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pronovahq",
+    "repoName": "prompt-workflow-architecture",
+    "repoBranch": "main"
+  },
+  "yuzhang-zhong/roblox-style-video": {
+    "name": "yuzhang-zhong/roblox-style-video",
+    "description": "Agent Skill to generate Roblox-style R6 and blocky avatar 9:16 short videos with locked proportions, storyboards, and model-specific prompts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yuzhang-zhong",
+    "repoName": "roblox-style-video",
+    "repoBranch": "main"
   }
 }
