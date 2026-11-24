@@ -1,4 +1,13 @@
 {
+  "kitedotnew/kite-agent-plugins": {
+    "name": "kite",
+    "description": "Kite: the official Kite plugin marketplace for Claude Code, Cursor and Codex. Its kite plugin connects your agent to Kite's hosted MCP server (https://kite.new/api/mcp, OAuth) and adds the Kite design skill, so the agent draws editable frames, text, components and auto layout in a Kite design file your team edits live.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kitedotnew",
+    "repoName": "kite-agent-plugins",
+    "repoBranch": "main"
+  },
   "ankurmans/vertov-screen-recorder": {
     "name": "vertov",
     "description": "Vertov's open-source Claude Code plugin connects to the hosted Vertov MCP server over Streamable HTTP. Sign in with OAuth to search your recordings, read transcripts and briefs, and upload video files to share.",
