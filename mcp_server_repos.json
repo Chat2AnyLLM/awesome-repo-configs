@@ -527,5 +527,12 @@
     "enabled": true,
     "serverName": "io.github.i2v-ai/mcp",
     "note": "Image generation and text-to-video or image-to-video generation across 12 image and 16 video models. Hosted only: Streamable HTTP at https://i2v.ai/api/mcp with OAuth 2.1 (mcp:read / mcp:write), or a local stdio bridge through npx @i2v-ai/cli mcp. Every paid task is quoted in USD first and submitted with an explicit ceiling and an idempotency key. The repo holds server.json, connection files and llms-install.md, not the server source. MIT."
+  },
+  "ZhuLinsen/alphasift": {
+    "owner": "ZhuLinsen",
+    "name": "alphasift",
+    "branch": "main",
+    "enabled": true,
+    "note": "Local stdio MCP server (alphasift-mcp, 14 read-only tools) and CLI for multi-market stock screening across CN, HK, US, JP, KR, TW and ETFs, with no-lookahead walk-forward / T+N pattern verification. Zero order-execution tools. Apache-2.0."
   }
 }

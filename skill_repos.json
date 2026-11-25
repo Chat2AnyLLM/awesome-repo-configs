@@ -60301,5 +60301,12 @@
         "branch": "main",
         "enabled": true,
         "skillsPath": "github-growth/skills"
+    },
+    "ZhuLinsen/alphasift": {
+        "owner": "ZhuLinsen",
+        "name": "alphasift",
+        "branch": "main",
+        "skillsPath": ".github/skills",
+        "enabled": true
     }
 }
