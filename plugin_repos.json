@@ -52535,5 +52535,14 @@
     "repoOwner": "ShapelessAI",
     "repoName": "shapelessai",
     "repoBranch": "main"
+  },
+  "tonydzi/claude-skills": {
+    "name": "tonydzi",
+    "description": "github-growth: six gh-only skills for growing on GitHub by being useful (pick the issue before writing code, gate every outbound PR, answer contributors, share verified fixes, reply to reviewers) plus a catalog of 33 scheduled agent lanes with their real results.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonydzi",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
   }
 }

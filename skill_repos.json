@@ -60294,5 +60294,12 @@
         "name": "shapelessai",
         "branch": "main",
         "enabled": true
+    },
+    "tonydzi/claude-skills": {
+        "owner": "tonydzi",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true,
+        "skillsPath": "github-growth/skills"
     }
 }
