@@ -52409,5 +52409,131 @@
     "repoOwner": "Panza-Labs",
     "repoName": "floorboss",
     "repoBranch": "main"
+  },
+  "chekusu/yobiru": {
+    "name": "chekusu/yobiru",
+    "description": "Let your agents talk: messages, data, files and wake-ups over Tailscale.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chekusu",
+    "repoName": "yobiru",
+    "repoBranch": "main"
+  },
+  "owoevan-dev/sfx-skill": {
+    "name": "owoevan-dev/sfx-skill",
+    "description": "An Agent Skill that designs original sound effects for games and apps as editable layers of synthesis and CC0 field recordings, then renders variants, levels the set and exports for game engines. No audio-generation m...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "owoevan-dev",
+    "repoName": "sfx-skill",
+    "repoBranch": "main"
+  },
+  "AwardTravelFinder/mcp": {
+    "name": "AwardTravelFinder/mcp",
+    "description": "Award Travel Finder MCP server \u2014 search award flight availability across 27 airlines and award-chart pricing for 23 loyalty programs from Claude, ChatGPT, Cursor, Grok and any MCP client.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AwardTravelFinder",
+    "repoName": "mcp",
+    "repoBranch": "main"
+  },
+  "bcanozgur/cc-side-context": {
+    "name": "bcanozgur/cc-side-context",
+    "description": "See what is eating your Claude Code context, and fix it in one key. A live side pane and a strip above the prompt, with one-key compact, handoff and guards.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bcanozgur",
+    "repoName": "cc-side-context",
+    "repoBranch": "main"
+  },
+  "MartinForReal/storymap-skill": {
+    "name": "MartinForReal/storymap-skill",
+    "description": "Claude Code skill: user story mapping (Patton style). Turns a goal, brief, or messy backlog into a sliced delivery plan. Plays well with Superpowers/gstack/GSD.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MartinForReal",
+    "repoName": "storymap-skill",
+    "repoBranch": "main"
+  },
+  "Khodour/agent-skill-ultimate-coding": {
+    "name": "Khodour/agent-skill-ultimate-coding",
+    "description": "Senior-engineer discipline for AI coding agents: task sizing, must-follow safety rules, and proof before done. Any language, any kind of code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Khodour",
+    "repoName": "agent-skill-ultimate-coding",
+    "repoBranch": "main"
+  },
+  "SeanLF/via-claude-code": {
+    "name": "SeanLF/via-claude-code",
+    "description": "Keep Claude Code as the lead and hand the work to Codex, Gemini (Antigravity), OpenCode or pi as native subagents on your own login, saving Claude's tokens and context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SeanLF",
+    "repoName": "via-claude-code",
+    "repoBranch": "main"
+  },
+  "d2a8k3u/adaptive-cognitive-memory": {
+    "name": "d2a8k3u/adaptive-cognitive-memory",
+    "description": "A Claude Code plugin that gives Claude a persistent cognitive memory",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "d2a8k3u",
+    "repoName": "adaptive-cognitive-memory",
+    "repoBranch": "main"
+  },
+  "Researchzy/Researchzy-academic-skills": {
+    "name": "Researchzy/Researchzy-academic-skills",
+    "description": "Agent skills for academic research: search 250M real papers, get lawful full text, read papers closely, build Paper Cards, review statistics and draft reviewer responses. For Claude Code, Codex, Cursor and any Agent S...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Researchzy",
+    "repoName": "Researchzy-academic-skills",
+    "repoBranch": "main"
+  },
+  "d2a8k3u/construct": {
+    "name": "d2a8k3u/construct",
+    "description": "Claude Code plugin marketplace: cross-project memory and a Slack board that drafts your replies",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "d2a8k3u",
+    "repoName": "construct",
+    "repoBranch": "main"
+  },
+  "yellowsand1/assaystone": {
+    "name": "yellowsand1/assaystone",
+    "description": "Acceptance contracts and deployment gates for AI agents: audit Claude Code and Codex sessions, verify with independent oracles, and gate shadow/canary/production with a hash-chained trail.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yellowsand1",
+    "repoName": "assaystone",
+    "repoBranch": "main"
+  },
+  "IbrahimHosseini/agentkit": {
+    "name": "IbrahimHosseini/agentkit",
+    "description": "Shareable Claude Code agents, multi-agent workflow and agent log for teams",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IbrahimHosseini",
+    "repoName": "agentkit",
+    "repoBranch": "main"
+  },
+  "koaling/been-there": {
+    "name": "koaling/been-there",
+    "description": "A Claude skill that checks your plan against companies that already tried it \u2014 who failed, who survived \u2014 and returns a verdict, a 48-hour test and a kill criterion. EN/ES.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "koaling",
+    "repoName": "been-there",
+    "repoBranch": "main"
+  },
+  "ShapelessAI/shapelessai": {
+    "name": "ShapelessAI/shapelessai",
+    "description": "The ShapelessAI agent surface: CLI, MCP server, API contract, Claude Code plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShapelessAI",
+    "repoName": "shapelessai",
+    "repoBranch": "main"
   }
 }

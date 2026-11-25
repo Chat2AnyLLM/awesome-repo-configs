@@ -60187,5 +60187,112 @@
         "name": "floorboss",
         "branch": "main",
         "enabled": true
+    },
+    "chekusu/yobiru": {
+        "owner": "chekusu",
+        "name": "yobiru",
+        "branch": "main",
+        "enabled": true
+    },
+    "Eliot5566/JEV-Paper-Radar": {
+        "owner": "Eliot5566",
+        "name": "JEV-Paper-Radar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "owoevan-dev/sfx-skill": {
+        "owner": "owoevan-dev",
+        "name": "sfx-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Luxvanyu/prompt-craft": {
+        "owner": "Luxvanyu",
+        "name": "prompt-craft",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "AwardTravelFinder/mcp": {
+        "owner": "AwardTravelFinder",
+        "name": "mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ayase0307/h3-combat-impact": {
+        "owner": "ayase0307",
+        "name": "h3-combat-impact",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MartinForReal/storymap-skill": {
+        "owner": "MartinForReal",
+        "name": "storymap-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Khodour/agent-skill-ultimate-coding": {
+        "owner": "Khodour",
+        "name": "agent-skill-ultimate-coding",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "d2a8k3u/adaptive-cognitive-memory": {
+        "owner": "d2a8k3u",
+        "name": "adaptive-cognitive-memory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FermainPariz/blindfleck": {
+        "owner": "FermainPariz",
+        "name": "blindfleck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Researchzy/Researchzy-academic-skills": {
+        "owner": "Researchzy",
+        "name": "Researchzy-academic-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yellowsand1/assaystone": {
+        "owner": "yellowsand1",
+        "name": "assaystone",
+        "branch": "main",
+        "enabled": true
+    },
+    "IbrahimHosseini/agentkit": {
+        "owner": "IbrahimHosseini",
+        "name": "agentkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "narayanwithme-gif/astrology-skill": {
+        "owner": "narayanwithme-gif",
+        "name": "astrology-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "koaling/been-there": {
+        "owner": "koaling",
+        "name": "been-there",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShapelessAI/shapelessai": {
+        "owner": "ShapelessAI",
+        "name": "shapelessai",
+        "branch": "main",
+        "enabled": true
     }
 }
