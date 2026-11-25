@@ -7863,5 +7863,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "gaurav0107/superhuman": {
+    "owner": "gaurav0107",
+    "name": "superhuman",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "olimorris/foreman": {
+    "owner": "olimorris",
+    "name": "foreman",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

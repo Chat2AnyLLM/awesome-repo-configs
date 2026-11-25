@@ -60308,5 +60308,97 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "nestjs/agent-skills": {
+        "owner": "nestjs",
+        "name": "agent-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "escoffier-labs/brigadestack": {
+        "owner": "escoffier-labs",
+        "name": "brigadestack",
+        "branch": "main",
+        "enabled": true
+    },
+    "greenstevester/fastlane-skill": {
+        "owner": "greenstevester",
+        "name": "fastlane-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aloilor/lean-coding-agent": {
+        "owner": "aloilor",
+        "name": "lean-coding-agent",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gaurav0107/superhuman": {
+        "owner": "gaurav0107",
+        "name": "superhuman",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Stellenbosch-Technologies/rhebok": {
+        "owner": "Stellenbosch-Technologies",
+        "name": "rhebok",
+        "branch": "main",
+        "enabled": true
+    },
+    "Jarryd-W-Hoffman/claude-code-plugins": {
+        "owner": "Jarryd-W-Hoffman",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "ejklock/active-collab-cli": {
+        "owner": "ejklock",
+        "name": "active-collab-cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "ssaaffaakk/every-corner-skills": {
+        "owner": "ssaaffaakk",
+        "name": "every-corner-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "crisnahine/claude-code-model-router": {
+        "owner": "crisnahine",
+        "name": "claude-code-model-router",
+        "branch": "main",
+        "enabled": true
+    },
+    "olimorris/foreman": {
+        "owner": "olimorris",
+        "name": "foreman",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OdysseyStack/oncewright": {
+        "owner": "OdysseyStack",
+        "name": "oncewright",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "solidvibes/solid-vibes": {
+        "owner": "solidvibes",
+        "name": "solid-vibes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sodam-ai/SoDam-Prompt-Eng": {
+        "owner": "sodam-ai",
+        "name": "SoDam-Prompt-Eng",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

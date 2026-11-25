@@ -52544,5 +52544,131 @@
     "repoOwner": "tonydzi",
     "repoName": "claude-skills",
     "repoBranch": "main"
+  },
+  "nestjs/agent-skills": {
+    "name": "nestjs/agent-skills",
+    "description": "Agent skills for Nest framework (node.js) \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nestjs",
+    "repoName": "agent-skills",
+    "repoBranch": "master"
+  },
+  "escoffier-labs/brigadestack": {
+    "name": "escoffier-labs/brigadestack",
+    "description": "BrigadeStack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, Orca, and T3 Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "escoffier-labs",
+    "repoName": "brigadestack",
+    "repoBranch": "main"
+  },
+  "greenstevester/fastlane-skill": {
+    "name": "greenstevester/fastlane-skill",
+    "description": "AI skill to setup and use fastlane to automate building and releasing your iOS and Android apps",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "greenstevester",
+    "repoName": "fastlane-skill",
+    "repoBranch": "main"
+  },
+  "gaurav0107/superhuman": {
+    "name": "gaurav0107/superhuman",
+    "description": "Autonomous open-source contribution agent for Claude Code & Codex. A multi-agent harness that picks an issue, writes the fix, scores its own pull request on a 10-dimension merge-probability rubric, and iterates until...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gaurav0107",
+    "repoName": "superhuman",
+    "repoBranch": "main"
+  },
+  "Stellenbosch-Technologies/rhebok": {
+    "name": "Stellenbosch-Technologies/rhebok",
+    "description": "Local retrieval and memory for AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Stellenbosch-Technologies",
+    "repoName": "rhebok",
+    "repoBranch": "main"
+  },
+  "Jarryd-W-Hoffman/claude-code-plugins": {
+    "name": "Jarryd-W-Hoffman/claude-code-plugins",
+    "description": "Claude Code plugins for reviewing and documenting code: a four-pass code review, migration safety, regression hunting from git history, change-impact maps, tests from findings, an orchestrator that runs what a change...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jarryd-W-Hoffman",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "ejklock/active-collab-cli": {
+    "name": "ejklock/active-collab-cli",
+    "description": "Unofficial ActiveCollab CLI, terminal UI (TUI) and MCP server: read tasks, log time and export hours from the terminal or from AI coding agents (Claude Code, Codex, OpenCode, Pi)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ejklock",
+    "repoName": "active-collab-cli",
+    "repoBranch": "main"
+  },
+  "ssaaffaakk/every-corner-skills": {
+    "name": "ssaaffaakk/every-corner-skills",
+    "description": "Make Claude Code work like a senior developer. It tours any codebase in plain English, interviews you before building so features land right the first time, and explains every risky command before you approve. 3 skill...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ssaaffaakk",
+    "repoName": "every-corner-skills",
+    "repoBranch": "main"
+  },
+  "crisnahine/claude-code-model-router": {
+    "name": "crisnahine/claude-code-model-router",
+    "description": "Model Router is a Claude Code plugin that routes subagents, teammates and workflow agents. Claude names each one's model and effort from a short table. The plugin holds them to your cap, fills in what is missing, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "crisnahine",
+    "repoName": "claude-code-model-router",
+    "repoBranch": "main"
+  },
+  "GoogleCloudPlatform/BigQuery-Agent-Analytics-Plugins": {
+    "name": "GoogleCloudPlatform/BigQuery-Agent-Analytics-Plugins",
+    "description": "Claude Code plugin and mod that stream coding-agent sessions to BigQuery in the BigQuery Agent Analytics agent_events schema, so you can observe, analyze, and evaluate coding-agent activity alongside your ADK agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GoogleCloudPlatform",
+    "repoName": "BigQuery-Agent-Analytics-Plugins",
+    "repoBranch": "main"
+  },
+  "olimorris/foreman": {
+    "name": "olimorris/foreman",
+    "description": "\ud83d\udc77\ud83c\udffc\u200d\u2642\ufe0f\ufe0f One agent runs the crew. You approve the PRs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "olimorris",
+    "repoName": "foreman",
+    "repoBranch": "main"
+  },
+  "OdysseyStack/oncewright": {
+    "name": "OdysseyStack/oncewright",
+    "description": "A Claude Code plugin built to get each change right the first time, and to carry long work from one session to the next by itself.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OdysseyStack",
+    "repoName": "oncewright",
+    "repoBranch": "main"
+  },
+  "solidvibes/solid-vibes": {
+    "name": "solidvibes/solid-vibes",
+    "description": "A setup for builders: Claude Code skills that take an app from idea to a reviewed, checked pull request, and keep it solid.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "solidvibes",
+    "repoName": "solid-vibes",
+    "repoBranch": "main"
+  },
+  "sodam-ai/SoDam-Prompt-Eng": {
+    "name": "sodam-ai/SoDam-Prompt-Eng",
+    "description": "AI \ucc98\uc74c \uc4f0\ub294 \ucd08\ubcf4\uc790\ub97c \uc704\ud55c \ud55c\uad6d\uc5b4 \uae00\uc4f0\uae30 \uc2a4\ud0ac \ubaa8\uc74c + \uc0c8 \uc2a4\ud0ac \uc9c1\uc811 \ub9cc\ub4e4\uae30 \u2014 Claude Code / Claude.ai / Codex \ud50c\ub7ec\uadf8\uc778 (Apache-2.0)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sodam-ai",
+    "repoName": "SoDam-Prompt-Eng",
+    "repoBranch": "main"
   }
 }
