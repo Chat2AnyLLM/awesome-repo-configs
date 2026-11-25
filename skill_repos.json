@@ -60301,5 +60301,12 @@
         "branch": "main",
         "enabled": true,
         "skillsPath": "github-growth/skills"
+    },
+    "santoshyadavdev/monorepo-doctor": {
+        "owner": "santoshyadavdev",
+        "name": "monorepo-doctor",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
