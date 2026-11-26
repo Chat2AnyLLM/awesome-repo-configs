@@ -60518,5 +60518,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "sieblyio/agent-skills": {
+        "owner": "sieblyio",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
