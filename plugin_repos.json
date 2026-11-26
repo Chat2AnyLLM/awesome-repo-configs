@@ -52670,5 +52670,14 @@
     "repoOwner": "sodam-ai",
     "repoName": "SoDam-Prompt-Eng",
     "repoBranch": "main"
+  },
+  "lotsofsounds/agent-skills": {
+    "name": "lotsofsounds",
+    "description": "Lots of Sounds: official Claude Code plugin marketplace and Agent Skills repository for finding and adding CC0 royalty-free sound effects, UI cues, game audio, and ambience via the hosted MCP server (https://api.lotsofsounds.com/mcp) and CLI. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lotsofsounds",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
   }
 }
