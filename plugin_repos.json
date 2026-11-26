@@ -52679,5 +52679,14 @@
     "repoOwner": "lotsofsounds",
     "repoName": "agent-skills",
     "repoBranch": "main"
+  },
+  "anchorcoteam/greenbar": {
+    "name": "greenbar",
+    "description": "greenbar: a Claude Code hooks plugin. Its Stop hook runs the repository's own test, type-check and lint commands when Claude tries to end a turn and blocks the stop while they fail; a PreToolUse guard blocks reading secret files, weakening tests and destructive git commands. Python standard library, no network calls. macOS and Linux. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anchorcoteam",
+    "repoName": "greenbar",
+    "repoBranch": "main"
   }
 }
