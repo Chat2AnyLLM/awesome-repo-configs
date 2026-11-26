@@ -60525,5 +60525,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Innei/artideck": {
+        "owner": "Innei",
+        "name": "artideck",
+        "branch": "main",
+        "enabled": true
+    },
+    "kinlace/parent-recap": {
+        "owner": "kinlace",
+        "name": "parent-recap",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonydzi/clawrush": {
+        "owner": "tonydzi",
+        "name": "clawrush",
+        "branch": "main",
+        "enabled": true
+    },
+    "milad-ahmd/agent-skills": {
+        "owner": "milad-ahmd",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "transatron/awesome-tron-agents": {
+        "owner": "transatron",
+        "name": "awesome-tron-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "Plokies-2/stata-research-guard": {
+        "owner": "Plokies-2",
+        "name": "stata-research-guard",
+        "branch": "main",
+        "enabled": true
+    },
+    "munvard/video-skill": {
+        "owner": "munvard",
+        "name": "video-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "launchstack-dev/storm-research": {
+        "owner": "launchstack-dev",
+        "name": "storm-research",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "workingBen/proofs": {
+        "owner": "workingBen",
+        "name": "proofs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fullmamasha/copywise": {
+        "owner": "fullmamasha",
+        "name": "copywise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ReceiptCal/receiptcal-plugin": {
+        "owner": "ReceiptCal",
+        "name": "receiptcal-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "s66lem/stool": {
+        "owner": "s66lem",
+        "name": "stool",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Samsiani/georgian-grammar": {
+        "owner": "Samsiani",
+        "name": "georgian-grammar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "northcrafto/lavis": {
+        "owner": "northcrafto",
+        "name": "lavis",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Hakoba/deslop": {
+        "owner": "Hakoba",
+        "name": "deslop",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "FelixJiashengFu/nmr-walkthrough": {
+        "owner": "FelixJiashengFu",
+        "name": "nmr-walkthrough",
+        "branch": "main",
+        "enabled": true
     }
 }

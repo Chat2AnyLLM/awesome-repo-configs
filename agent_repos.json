@@ -7884,5 +7884,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "transatron/awesome-tron-agents": {
+    "owner": "transatron",
+    "name": "awesome-tron-agents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

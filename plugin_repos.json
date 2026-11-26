@@ -52796,5 +52796,122 @@
     "repoOwner": "Parzival-Moksha",
     "repoName": "uploader",
     "repoBranch": "main"
+  },
+  "Innei/artideck": {
+    "name": "Innei/artideck",
+    "description": "Artideck \u2014 Artifacts for coding agents, made to decide with you. Your agent draws artboards, design docs, whiteboards, decks, and verify reports; you pick, comment, and pass right on the page.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Innei",
+    "repoName": "artideck",
+    "repoBranch": "main"
+  },
+  "kinlace/parent-recap": {
+    "name": "kinlace/parent-recap",
+    "description": "Parent Recap, by Kinlace: an evening email about your kids' school, club and parent-group messages, in each parent's language. Runs on your own Mac or Windows PC as a Claude Code / Codex plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kinlace",
+    "repoName": "parent-recap",
+    "repoBranch": "main"
+  },
+  "milad-ahmd/agent-skills": {
+    "name": "milad-ahmd/agent-skills",
+    "description": "\ud83e\uddf0 55 Agent Skills: resolve merge conflicts, guardrail your agent, TDD, fix architecture, polish UI, roast your GitHub, bisect bugs and catch AI slop. Tested, one-line install. Claude Code, Cline, Cursor, Codex",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "milad-ahmd",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "transatron/awesome-tron-agents": {
+    "name": "transatron/awesome-tron-agents",
+    "description": "Curated collection of AI agents, dev tools & analytics for building on TRON",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "transatron",
+    "repoName": "awesome-tron-agents",
+    "repoBranch": "main"
+  },
+  "Plokies-2/stata-research-guard": {
+    "name": "Plokies-2/stata-research-guard",
+    "description": "AI-written Stata that reads like a careful coauthor wrote it. Visible specifications, real command help, reviewed edits. Plugin for Codex and Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Plokies-2",
+    "repoName": "stata-research-guard",
+    "repoBranch": "main"
+  },
+  "munvard/video-skill": {
+    "name": "munvard/video-skill",
+    "description": "Type /video in Claude Code and get a launch film for your app: motion design or 3D, with sound, checked frame by frame.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "munvard",
+    "repoName": "video-skill",
+    "repoBranch": "main"
+  },
+  "workingBen/proofs": {
+    "name": "workingBen/proofs",
+    "description": "Claude Code skills that show their work: design reviews, visual QA, copy edits and decision pages to communicate visually with Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "workingBen",
+    "repoName": "proofs",
+    "repoBranch": "main"
+  },
+  "fullmamasha/copywise": {
+    "name": "fullmamasha/copywise",
+    "description": "A UX writing skill for clear interface copy, from button labels and error messages to onboarding and checkout.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fullmamasha",
+    "repoName": "copywise",
+    "repoBranch": "main"
+  },
+  "carlocontaldi/claude-portavoce": {
+    "name": "carlocontaldi/claude-portavoce",
+    "description": "Claude Portavoce - speaks for Claude while it can't. A token-free alert for your limit reset.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "carlocontaldi",
+    "repoName": "claude-portavoce",
+    "repoBranch": "main"
+  },
+  "ReceiptCal/receiptcal-plugin": {
+    "name": "ReceiptCal/receiptcal-plugin",
+    "description": "Open-source MCP plugin that brings your ReceiptCal food log into Claude Code, Codex and other AI assistants, with OAuth sign-in and approve-first changes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ReceiptCal",
+    "repoName": "receiptcal-plugin",
+    "repoBranch": "main"
+  },
+  "s66lem/stool": {
+    "name": "s66lem/stool",
+    "description": "STOOL is Tools for Orchestration and Optimizing Limits: progress bars, usage strip, agent cap and keep-warm for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "s66lem",
+    "repoName": "stool",
+    "repoBranch": "main"
+  },
+  "Samsiani/georgian-grammar": {
+    "name": "Samsiani/georgian-grammar",
+    "description": "Georgian (\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8) grammar skill for Claude and other AI agents: 128 rules for writing, correcting, translating and explaining Georgian text.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Samsiani",
+    "repoName": "georgian-grammar",
+    "repoBranch": "main"
+  },
+  "FelixJiashengFu/nmr-walkthrough": {
+    "name": "FelixJiashengFu/nmr-walkthrough",
+    "description": "Click-to-advance bilingual NMR walkthroughs: MCP server + Agent Skill, real sourced data only",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FelixJiashengFu",
+    "repoName": "nmr-walkthrough",
+    "repoBranch": "main"
   }
 }
