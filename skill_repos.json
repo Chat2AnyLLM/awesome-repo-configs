@@ -1,4 +1,11 @@
 {
+    "shivanshmehendiratta/groundsocial-skills": {
+        "owner": "shivanshmehendiratta",
+        "name": "groundsocial-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "questionpunk/research-skills": {
         "owner": "questionpunk",
         "name": "research-skills",
