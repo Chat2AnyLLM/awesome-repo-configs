@@ -527,5 +527,13 @@
     "enabled": true,
     "serverName": "io.github.i2v-ai/mcp",
     "note": "Image generation and text-to-video or image-to-video generation across 12 image and 16 video models. Hosted only: Streamable HTTP at https://i2v.ai/api/mcp with OAuth 2.1 (mcp:read / mcp:write), or a local stdio bridge through npx @i2v-ai/cli mcp. Every paid task is quoted in USD first and submitted with an explicit ceiling and an idempotency key. The repo holds server.json, connection files and llms-install.md, not the server source. MIT."
+  },
+  "lotsofsounds/lots-of-sounds-mcp": {
+    "owner": "lotsofsounds",
+    "name": "lots-of-sounds-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.lotsofsounds/mcp",
+    "note": "Search, inspect, and download CC0 royalty-free sound effects from Lots of Sounds. Hosted only: Streamable HTTP at https://api.lotsofsounds.com/mcp (browse_samples works without a key; search_sounds, get_sound, and download_sound require an x-api-key header). The repo holds client configs and setup guides. MIT."
   }
 }
