@@ -60407,5 +60407,116 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "mankidev/antialgorithm": {
+        "owner": "mankidev",
+        "name": "antialgorithm",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fahniazz/claude-shorts-skills": {
+        "owner": "fahniazz",
+        "name": "claude-shorts-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "huh7i5/AI-prompts-writing": {
+        "owner": "huh7i5",
+        "name": "AI-prompts-writing",
+        "branch": "main",
+        "enabled": true
+    },
+    "grotyx/Academic_writing_c_claudecode": {
+        "owner": "grotyx",
+        "name": "Academic_writing_c_claudecode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "finogeeks/finsafe": {
+        "owner": "finogeeks",
+        "name": "finsafe",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mategog/outfit": {
+        "owner": "mategog",
+        "name": "outfit",
+        "branch": "main",
+        "enabled": true
+    },
+    "cleanedweb/cleanedweb-mcp": {
+        "owner": "cleanedweb",
+        "name": "cleanedweb-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "Rasimoghlu/sarkhans-claude-starter": {
+        "owner": "Rasimoghlu",
+        "name": "sarkhans-claude-starter",
+        "branch": "main",
+        "enabled": true
+    },
+    "OnurSamett/tokenwise": {
+        "owner": "OnurSamett",
+        "name": "tokenwise",
+        "branch": "main",
+        "enabled": true
+    },
+    "reyschilling-ai/e-rechnung-de": {
+        "owner": "reyschilling-ai",
+        "name": "e-rechnung-de",
+        "branch": "main",
+        "enabled": true
+    },
+    "justhashim/ktu-exam-predictor": {
+        "owner": "justhashim",
+        "name": "ktu-exam-predictor",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "WindriseAI/wr-skills": {
+        "owner": "WindriseAI",
+        "name": "wr-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "IdeaFlowLaB/markdown-kanban": {
+        "owner": "IdeaFlowLaB",
+        "name": "markdown-kanban",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wrysmil/ai-builder-skills": {
+        "owner": "wrysmil",
+        "name": "ai-builder-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "flipsite/claude-plugin": {
+        "owner": "flipsite",
+        "name": "claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "AntonioCardenas/unmistakable": {
+        "owner": "AntonioCardenas",
+        "name": "unmistakable",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Parzival-Moksha/uploader": {
+        "owner": "Parzival-Moksha",
+        "name": "uploader",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

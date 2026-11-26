@@ -7877,5 +7877,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "OnurSamett/tokenwise": {
+    "owner": "OnurSamett",
+    "name": "tokenwise",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

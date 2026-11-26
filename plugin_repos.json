@@ -52688,5 +52688,113 @@
     "repoOwner": "anchorcoteam",
     "repoName": "greenbar",
     "repoBranch": "main"
+  },
+  "mankidev/antialgorithm": {
+    "name": "mankidev/antialgorithm",
+    "description": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mankidev",
+    "repoName": "antialgorithm",
+    "repoBranch": "main"
+  },
+  "grotyx/Academic_writing_c_claudecode": {
+    "name": "grotyx/Academic_writing_c_claudecode",
+    "description": "ManuWright: an evidence-bound medical manuscript engine for AI agents (Claude Code, Codex, Gemini). Plan-first gates, citations checked against your evidence ledger, numbers checked against your results, and a journal...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "grotyx",
+    "repoName": "Academic_writing_c_claudecode",
+    "repoBranch": "main"
+  },
+  "mategog/outfit": {
+    "name": "mategog/outfit",
+    "description": "Claude Code plugin: an AI dev team of 9 subagents (product, design, frontend, backend, QA, code review, marketing, finance)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mategog",
+    "repoName": "outfit",
+    "repoBranch": "main"
+  },
+  "cleanedweb/cleanedweb-mcp": {
+    "name": "cleanedweb/cleanedweb-mcp",
+    "description": "Hosted MCP server: find and run maintained REST APIs that return structured records from public websites",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cleanedweb",
+    "repoName": "cleanedweb-mcp",
+    "repoBranch": "main"
+  },
+  "Rasimoghlu/sarkhans-claude-starter": {
+    "name": "Rasimoghlu/sarkhans-claude-starter",
+    "description": "Guardrails, agents and rules for Claude Code \u2014 set up every project with one click.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rasimoghlu",
+    "repoName": "sarkhans-claude-starter",
+    "repoBranch": "main"
+  },
+  "vampy/claude-last-turn-diff": {
+    "name": "vampy/claude-last-turn-diff",
+    "description": "A Claude Code mod that shows what the last turn changed in one pane: a net diff per file, edits made by shell commands and builds included, earlier turns a pick away. Works in the terminal and the Desktop Code tab.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vampy",
+    "repoName": "claude-last-turn-diff",
+    "repoBranch": "main"
+  },
+  "OnurSamett/tokenwise": {
+    "name": "OnurSamett/tokenwise",
+    "description": "Open-source skill for Claude Code, Codex CLI and Gemini CLI that helps route coding tasks to suitable models and reasoning effort.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OnurSamett",
+    "repoName": "tokenwise",
+    "repoBranch": "main"
+  },
+  "WindriseAI/wr-skills": {
+    "name": "WindriseAI/wr-skills",
+    "description": "Windrise AI \u7684\u4e2d\u6587 AI Skills \u5408\u96c6",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WindriseAI",
+    "repoName": "wr-skills",
+    "repoBranch": "main"
+  },
+  "IdeaFlowLaB/markdown-kanban": {
+    "name": "IdeaFlowLaB/markdown-kanban",
+    "description": "A three-file Markdown kanban (backlog / doing / done) that lives in your repo and is versioned with your work, with hygiene rules that keep the board honest.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IdeaFlowLaB",
+    "repoName": "markdown-kanban",
+    "repoBranch": "main"
+  },
+  "flipsite/claude-plugin": {
+    "name": "flipsite/claude-plugin",
+    "description": "Claude Code plugin: make a WordPress site faster, better for SEO and easier to manage by moving it to Flipsite (MCP server + /migrate-to-flipsite)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "flipsite",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
+  "AntonioCardenas/unmistakable": {
+    "name": "AntonioCardenas/unmistakable",
+    "description": "Anti-slop frontend design skill for coding agents: bans purple gradients, neon glows, glass cards, heavy shadows, and mixed icon sets, keeps micrographics in one graphic language, with a 57-rule offline scanner, livin...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AntonioCardenas",
+    "repoName": "unmistakable",
+    "repoBranch": "main"
+  },
+  "Parzival-Moksha/uploader": {
+    "name": "Parzival-Moksha/uploader",
+    "description": "Your coding agents as characters in a 3D village you walk through and talk to (Claude Code, Hermes), on your own machine. Formerly oasis-lite.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Parzival-Moksha",
+    "repoName": "uploader",
+    "repoBranch": "main"
   }
 }
