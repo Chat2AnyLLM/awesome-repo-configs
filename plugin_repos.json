@@ -1,4 +1,13 @@
 {
+  "shivanshmehendiratta/groundsocial-skills": {
+    "name": "groundsocial-skills",
+    "description": "Groundsocial research skills: brand mention scans, competitor social audits, creator vetting, subreddit research, TikTok trend scans, YouTube transcript research and comment mining on public data from 80+ platforms, plus the Groundsocial MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shivanshmehendiratta",
+    "repoName": "groundsocial-skills",
+    "repoBranch": "main"
+  },
   "kitedotnew/kite-agent-plugins": {
     "name": "kite",
     "description": "Kite: the official Kite plugin marketplace for Claude Code, Cursor and Codex. Its kite plugin connects your agent to Kite's hosted MCP server (https://kite.new/api/mcp, OAuth) and adds the Kite design skill, so the agent draws editable frames, text, components and auto layout in a Kite design file your team edits live.",
