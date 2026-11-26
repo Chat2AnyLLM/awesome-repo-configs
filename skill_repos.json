@@ -60400,5 +60400,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Sayem-Ahmed-Shayeed/dl-research-library": {
+        "owner": "Sayem-Ahmed-Shayeed",
+        "name": "dl-research-library",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
