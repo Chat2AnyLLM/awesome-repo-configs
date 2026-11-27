@@ -60744,5 +60744,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
-    }
+    },
+  "Qonvert-Marketing-AI/qonvert-marketing-skills": {
+    "owner": "Qonvert-Marketing-AI",
+    "name": "qonvert-marketing-skills",
+    "branch": "main",
+    "skillsPath": "skills",
+    "enabled": true
+  }
 }
