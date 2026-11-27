@@ -52931,5 +52931,122 @@
     "repoOwner": "FelixJiashengFu",
     "repoName": "nmr-walkthrough",
     "repoBranch": "main"
+  },
+  "andreibesleaga/GABBE": {
+    "name": "andreibesleaga/GABBE",
+    "description": "Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit - development, all languages, agents, platforms, with Engineering Team & Experimental Cognitive Brain, Software Engineering & Architect...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andreibesleaga",
+    "repoName": "GABBE",
+    "repoBranch": "main"
+  },
+  "beatra-ai/ai-video-generator-skill": {
+    "name": "beatra-ai/ai-video-generator-skill",
+    "description": "AI video generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: generate, animate, edit, and extend short videos from text, images, or existing clips for ads, product stories, social posts,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "beatra-ai",
+    "repoName": "ai-video-generator-skill",
+    "repoBranch": "main"
+  },
+  "simoneriggi92/BreakTheWall": {
+    "name": "simoneriggi92/BreakTheWall",
+    "description": "Claude Code plugin: answer your agent's questions one at a time, then take apart the spec they lead to, line by line. Works with Matt Pocock's grilling skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "simoneriggi92",
+    "repoName": "BreakTheWall",
+    "repoBranch": "main"
+  },
+  "sports-data-hq/sportsdatahq-skills": {
+    "name": "sports-data-hq/sportsdatahq-skills",
+    "description": "89 Claude skills for nine sports: game previews, player props research, fantasy and DFS, college basketball, line movement, ratings and models, on live sports data.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sports-data-hq",
+    "repoName": "sportsdatahq-skills",
+    "repoBranch": "main"
+  },
+  "Zeraissh/stm32-gdb-mcp": {
+    "name": "Zeraissh/stm32-gdb-mcp",
+    "description": "MCP server that lets AI agents debug STM32 firmware on real hardware (GDB + OpenOCD/ST-Link/J-Link): HardFault triage, FreeRTOS, SWO/RTT, decoded structured results.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zeraissh",
+    "repoName": "stm32-gdb-mcp",
+    "repoBranch": "main"
+  },
+  "apex-engine-dev/apex-verify": {
+    "name": "apex-engine-dev/apex-verify",
+    "description": "Catch AI code changes that pass your tests but are wrong. A different model writes the missing checks, proves they can fail, and answers ready / not ready with evidence. CLI, Claude Code and Gemini CLI hooks, GitHub A...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "apex-engine-dev",
+    "repoName": "apex-verify",
+    "repoBranch": "main"
+  },
+  "ErkoRisthein/prisma-market-claude-skill": {
+    "name": "ErkoRisthein/prisma-market-claude-skill",
+    "description": "Claude Code plugin for grocery shopping at Estonian online stores (Selver, Barbora, Rimi): search, compare prices, nutrition, cart, delivery slots and orders over the stores' own APIs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ErkoRisthein",
+    "repoName": "prisma-market-claude-skill",
+    "repoBranch": "main"
+  },
+  "aunysillyme-dev/aunx-skills": {
+    "name": "aunysillyme-dev/aunx-skills",
+    "description": "Ten agent skills plus Decompose (npm: aunx-decompose), a Claude Code plugin and skill that splits a task into checked units and parallel waves. For Claude Code, Codex, Cursor, Gemini CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aunysillyme-dev",
+    "repoName": "aunx-skills",
+    "repoBranch": "main"
+  },
+  "scintle/scintle": {
+    "name": "scintle/scintle",
+    "description": "Your AI chats, turned into a history of your ideas, found on their own.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scintle",
+    "repoName": "scintle",
+    "repoBranch": "main"
+  },
+  "profax/claude-code-kit": {
+    "name": "profax/claude-code-kit",
+    "description": "Plugins for Claude Code in the terminal (image preview, file cards) and a status line with your limits",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "profax",
+    "repoName": "claude-code-kit",
+    "repoBranch": "main"
+  },
+  "trampo-framework/trampo": {
+    "name": "trampo-framework/trampo",
+    "description": "A toolbox your team builds for working with AI coding agents. People approve, and the knowledge stays with the team.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trampo-framework",
+    "repoName": "trampo",
+    "repoBranch": "main"
+  },
+  "pavelvod/lantern": {
+    "name": "pavelvod/lantern",
+    "description": "Claude Code plugin: brainstorm a big idea over many sessions as a round-based map. The agent leads, you answer in a web graph, fog turns into decisions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pavelvod",
+    "repoName": "lantern",
+    "repoBranch": "main"
+  },
+  "messagingme/messagingme-plugin": {
+    "name": "messagingme/messagingme-plugin",
+    "description": "Messaging Me for Claude Code: WhatsApp for your app, set up in one session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "messagingme",
+    "repoName": "messagingme-plugin",
+    "repoBranch": "main"
   }
 }

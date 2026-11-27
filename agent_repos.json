@@ -7891,5 +7891,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "andreibesleaga/GABBE": {
+    "owner": "andreibesleaga",
+    "name": "GABBE",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "aegntic/compound-engineering": {
+    "owner": "aegntic",
+    "name": "compound-engineering",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

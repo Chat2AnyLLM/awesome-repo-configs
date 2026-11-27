@@ -60645,5 +60645,104 @@
         "name": "nmr-walkthrough",
         "branch": "main",
         "enabled": true
+    },
+    "andreibesleaga/GABBE": {
+        "owner": "andreibesleaga",
+        "name": "GABBE",
+        "branch": "main",
+        "enabled": true
+    },
+    "SKYLARBUILDS/skylar-reading-compass": {
+        "owner": "SKYLARBUILDS",
+        "name": "skylar-reading-compass",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "beatra-ai/ai-video-generator-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-video-generator-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "simoneriggi92/BreakTheWall": {
+        "owner": "simoneriggi92",
+        "name": "BreakTheWall",
+        "branch": "main",
+        "enabled": true
+    },
+    "gntrs/workflow": {
+        "owner": "gntrs",
+        "name": "workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sports-data-hq/sportsdatahq-skills": {
+        "owner": "sports-data-hq",
+        "name": "sportsdatahq-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zeraissh/stm32-gdb-mcp": {
+        "owner": "Zeraissh",
+        "name": "stm32-gdb-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "apex-engine-dev/apex-verify": {
+        "owner": "apex-engine-dev",
+        "name": "apex-verify",
+        "branch": "main",
+        "enabled": true
+    },
+    "ErkoRisthein/prisma-market-claude-skill": {
+        "owner": "ErkoRisthein",
+        "name": "prisma-market-claude-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "aegntic/compound-engineering": {
+        "owner": "aegntic",
+        "name": "compound-engineering",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aunysillyme-dev/aunx-skills": {
+        "owner": "aunysillyme-dev",
+        "name": "aunx-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "scintle/scintle": {
+        "owner": "scintle",
+        "name": "scintle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "trampo-framework/trampo": {
+        "owner": "trampo-framework",
+        "name": "trampo",
+        "branch": "main",
+        "enabled": true
+    },
+    "pavelvod/lantern": {
+        "owner": "pavelvod",
+        "name": "lantern",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "messagingme/messagingme-plugin": {
+        "owner": "messagingme",
+        "name": "messagingme-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
