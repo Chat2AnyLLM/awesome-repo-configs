@@ -60638,5 +60638,12 @@
         "name": "nmr-walkthrough",
         "branch": "main",
         "enabled": true
+    },
+    "manalens/game-marketing-skills": {
+        "owner": "manalens",
+        "name": "game-marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
