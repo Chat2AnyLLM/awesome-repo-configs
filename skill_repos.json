@@ -60745,11 +60745,105 @@
         "skillsPath": "skills",
         "enabled": true
     },
-  "Qonvert-Marketing-AI/qonvert-marketing-skills": {
-    "owner": "Qonvert-Marketing-AI",
-    "name": "qonvert-marketing-skills",
-    "branch": "main",
-    "skillsPath": "skills",
-    "enabled": true
-  }
+    "Qonvert-Marketing-AI/qonvert-marketing-skills": {
+        "owner": "Qonvert-Marketing-AI",
+        "name": "qonvert-marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jakubcurik/nano-banana": {
+        "owner": "jakubcurik",
+        "name": "nano-banana",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AIPMAndy/DNASkill": {
+        "owner": "AIPMAndy",
+        "name": "DNASkill",
+        "branch": "main",
+        "enabled": true
+    },
+    "SimpleCalmAI/SimpleCalm-shared-skills": {
+        "owner": "SimpleCalmAI",
+        "name": "SimpleCalm-shared-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "pglejzer/kitvas": {
+        "owner": "pglejzer",
+        "name": "kitvas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "amralhorimy/fastapi-pro-skills": {
+        "owner": "amralhorimy",
+        "name": "fastapi-pro-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "saroo98/skill-security-auditor": {
+        "owner": "saroo98",
+        "name": "skill-security-auditor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jmedia65/ai-visibility-audit": {
+        "owner": "jmedia65",
+        "name": "ai-visibility-audit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "landim32/awesome-ai-skills": {
+        "owner": "landim32",
+        "name": "awesome-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tarek-zy/anti-slopware": {
+        "owner": "tarek-zy",
+        "name": "anti-slopware",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "novincode/creator-skills": {
+        "owner": "novincode",
+        "name": "creator-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Quaid5050/ai-engineering-skills": {
+        "owner": "Quaid5050",
+        "name": "ai-engineering-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "CodaColaLight/nightmill": {
+        "owner": "CodaColaLight",
+        "name": "nightmill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andrebras/tempo": {
+        "owner": "andrebras",
+        "name": "tempo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "low-earth-orbit/session-handoff": {
+        "owner": "low-earth-orbit",
+        "name": "session-handoff",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    }
 }

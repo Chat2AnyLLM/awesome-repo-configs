@@ -7905,5 +7905,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "RamonsDka/agent-youtube": {
+    "owner": "RamonsDka",
+    "name": "agent-youtube",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "pglejzer/kitvas": {
+    "owner": "pglejzer",
+    "name": "kitvas",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Vyrenbusiness-source/warmd": {
+    "owner": "Vyrenbusiness-source",
+    "name": "warmd",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "landim32/awesome-ai-skills": {
+    "owner": "landim32",
+    "name": "awesome-ai-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "CodaColaLight/nightmill": {
+    "owner": "CodaColaLight",
+    "name": "nightmill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

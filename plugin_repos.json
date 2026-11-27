@@ -53048,5 +53048,104 @@
     "repoOwner": "messagingme",
     "repoName": "messagingme-plugin",
     "repoBranch": "main"
+  },
+  "jakubcurik/nano-banana": {
+    "name": "jakubcurik/nano-banana",
+    "description": "Agent skill for generating and editing images with Google's Nano Banana (Gemini) models, with cost estimates and a prompting guide. Unofficial.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jakubcurik",
+    "repoName": "nano-banana",
+    "repoBranch": "main"
+  },
+  "SimpleCalmAI/SimpleCalm-shared-skills": {
+    "name": "SimpleCalmAI/SimpleCalm-shared-skills",
+    "description": "Skills and plugins we\u2019ve built at SimpleCalm AI, shared for you to use and adapt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SimpleCalmAI",
+    "repoName": "SimpleCalm-shared-skills",
+    "repoBranch": "main"
+  },
+  "pglejzer/kitvas": {
+    "name": "pglejzer/kitvas",
+    "description": "Claude Code plugin: build UI prototypes from your own design system, check them automatically, and edit them visually in a local studio.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pglejzer",
+    "repoName": "kitvas",
+    "repoBranch": "main"
+  },
+  "Vyrenbusiness-source/warmd": {
+    "name": "Vyrenbusiness-source/warmd",
+    "description": "Your coding agent waits less and reads less. Godot: no false green, red+green cache, gameplay sims with input replay, engine-checked lints, mutation tests, scene tree as text. Unity: tests 56 s to 3 s. VS Code status...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Vyrenbusiness-source",
+    "repoName": "warmd",
+    "repoBranch": "main"
+  },
+  "jmedia65/ai-visibility-audit": {
+    "name": "jmedia65/ai-visibility-audit",
+    "description": "Agent Skill that audits how visible a local service business is to ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews, and gives the five next fixes with evidence. Works in Claude Code, Codex and Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jmedia65",
+    "repoName": "ai-visibility-audit",
+    "repoBranch": "main"
+  },
+  "landim32/awesome-ai-skills": {
+    "name": "landim32/awesome-ai-skills",
+    "description": "Claude AI Skills repository",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "landim32",
+    "repoName": "awesome-ai-skills",
+    "repoBranch": "main"
+  },
+  "tarek-zy/anti-slopware": {
+    "name": "tarek-zy/anti-slopware",
+    "description": "Clean up AI-written code without breaking it. anti-slopware is a plugin that helps your coding agent produce higher-quality code. It removes duplication and dead code, simplifies logic and fixes unclear names, then pr...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tarek-zy",
+    "repoName": "anti-slopware",
+    "repoBranch": "main"
+  },
+  "novincode/creator-skills": {
+    "name": "novincode/creator-skills",
+    "description": "Agent Skills for making content that sounds human: story, hooks, scripts, storyboards, ElevenLabs voice direction, visuals, motion, color, sound, and the research behind them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "novincode",
+    "repoName": "creator-skills",
+    "repoBranch": "main"
+  },
+  "Quaid5050/ai-engineering-skills": {
+    "name": "Quaid5050/ai-engineering-skills",
+    "description": "Framework-agnostic skills and agents marketplace for the whole AI-assisted engineering lifecycle \u2014 idea to spec, design review before code, test-first build, review with a design pass, merge gates, release, incident....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Quaid5050",
+    "repoName": "ai-engineering-skills",
+    "repoBranch": "main"
+  },
+  "CodaColaLight/nightmill": {
+    "name": "CodaColaLight/nightmill",
+    "description": "Claude Code plugin: a lights-out development workflow driven by a GitHub project board. The maintainer sets Ready and Approved; agents write specs and implement stories in parallel worktree slots.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CodaColaLight",
+    "repoName": "nightmill",
+    "repoBranch": "main"
+  },
+  "andrebras/tempo": {
+    "name": "andrebras/tempo",
+    "description": "Claude Code plugin: keep Claude's questions in one place and answer them when it suits you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andrebras",
+    "repoName": "tempo",
+    "repoBranch": "main"
   }
 }
