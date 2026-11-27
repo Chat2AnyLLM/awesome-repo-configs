@@ -1,4 +1,13 @@
 {
+  "hayat-nextoriainfotech/social-media-skills": {
+    "name": "personaxpand",
+    "description": "PersonaXpand: a Claude Code plugin marketplace whose personaxpand-social-media-skills plugin drafts replies to comments and DMs in the owner's voice, sorts an inbox, and writes, plans and reports on posts from pasted text with no account. An optional hosted MCP connector (https://personaxpand.com/mcp, OAuth) sends or posts only after the user approves the exact text. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hayat-nextoriainfotech",
+    "repoName": "social-media-skills",
+    "repoBranch": "main"
+  },
   "shivanshmehendiratta/groundsocial-skills": {
     "name": "groundsocial-skills",
     "description": "Groundsocial research skills: brand mention scans, competitor social audits, creator vetting, subreddit research, TikTok trend scans, YouTube transcript research and comment mining on public data from 80+ platforms, plus the Groundsocial MCP server.",
