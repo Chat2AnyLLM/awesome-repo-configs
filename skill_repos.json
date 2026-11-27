@@ -1,4 +1,11 @@
 {
+    "hayat-nextoriainfotech/social-media-skills": {
+        "owner": "hayat-nextoriainfotech",
+        "name": "social-media-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "shivanshmehendiratta/groundsocial-skills": {
         "owner": "shivanshmehendiratta",
         "name": "groundsocial-skills",
