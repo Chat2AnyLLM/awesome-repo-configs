@@ -1,4 +1,13 @@
 {
+  "mlgxiii/skills": {
+    "name": "lastware",
+    "description": "Agent skills my co-founder Saf and I build on agentests. Start with agentests-audit: it reads your AGENTS.md, turns 5 to 7 rules into checks and replays your last 50 merged PRs, then lists every PR that broke a rule, the exact line, and who wrote it. Read-only, no API key. Also bref-ui and lastware-work plugins. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mlgxiii",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
   "weird94/datalens-scrape-skill": {
     "name": "scrape-skill",
     "description": "Claude Code plugin marketplace whose datalens-scrape plugin collects lists, tables and comment threads from web pages into CSV across pagination, infinite scroll, load-more and reply expansion; runs locally on Playwright, no API key. MIT.",
