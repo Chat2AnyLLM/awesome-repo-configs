@@ -1,4 +1,13 @@
 {
+  "weird94/datalens-scrape-skill": {
+    "name": "scrape-skill",
+    "description": "Claude Code plugin marketplace whose datalens-scrape plugin collects lists, tables and comment threads from web pages into CSV across pagination, infinite scroll, load-more and reply expansion; runs locally on Playwright, no API key. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "weird94",
+    "repoName": "datalens-scrape-skill",
+    "repoBranch": "main"
+  },
   "generalmachines/tote-plugin": {
     "name": "machine-commerce",
     "description": "Tote: a Claude Code plugin marketplace whose tote plugin remembers your sizes and taste so your AI finds products and deals that fit you, checks 90 days of price history to tell you if a sale is real, and saves items to lists or sets Deal Watch alerts. 8 skills, 4 commands, and a hosted MCP connector (https://tote.machinecommerce.co/mcp, OAuth, no API key). Free, never buys or pays. Website: https://tote.machinecommerce.co. Built by machinecommerce.co (https://machinecommerce.co)",
