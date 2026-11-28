@@ -1,4 +1,11 @@
 {
+    "weird94/datalens-scrape-skill": {
+        "owner": "weird94",
+        "name": "datalens-scrape-skill",
+        "branch": "main",
+        "skillsPath": "skill",
+        "enabled": true
+    },
     "hayat-nextoriainfotech/social-media-skills": {
         "owner": "hayat-nextoriainfotech",
         "name": "social-media-skills",
