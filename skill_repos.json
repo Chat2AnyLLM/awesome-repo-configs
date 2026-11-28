@@ -60852,5 +60852,101 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "erkamyaman/safe-anything": {
+        "owner": "erkamyaman",
+        "name": "safe-anything",
+        "branch": "main",
+        "enabled": true
+    },
+    "erkamyaman/unslop-anything": {
+        "owner": "erkamyaman",
+        "name": "unslop-anything",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonydzi/claude-bible": {
+        "owner": "tonydzi",
+        "name": "claude-bible",
+        "branch": "main",
+        "enabled": true
+    },
+    "gocortexio/skills": {
+        "owner": "gocortexio",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "riffkit/riffsheet": {
+        "owner": "riffkit",
+        "name": "riffsheet",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tuankiet358/omni-architect": {
+        "owner": "tuankiet358",
+        "name": "omni-architect",
+        "branch": "main",
+        "enabled": true
+    },
+    "soummyaanon/engineering-os": {
+        "owner": "soummyaanon",
+        "name": "engineering-os",
+        "branch": "main",
+        "enabled": true
+    },
+    "cyruspastelero/demo-studio": {
+        "owner": "cyruspastelero",
+        "name": "demo-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fabio-bergmann/ai-seo-skills": {
+        "owner": "fabio-bergmann",
+        "name": "ai-seo-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "cheliknagite/nucifera": {
+        "owner": "cheliknagite",
+        "name": "nucifera",
+        "branch": "main",
+        "enabled": true
+    },
+    "cxknotjj/chinese-novel-atlas": {
+        "owner": "cxknotjj",
+        "name": "chinese-novel-atlas",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Erriccc/jappa-labs": {
+        "owner": "Erriccc",
+        "name": "jappa-labs",
+        "branch": "main",
+        "enabled": true
+    },
+    "DoctorMozg/mozg-video-plugins": {
+        "owner": "DoctorMozg",
+        "name": "mozg-video-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "SaiSamardh7/swarmagents": {
+        "owner": "SaiSamardh7",
+        "name": "swarmagents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ReesMehorst/claude-mods": {
+        "owner": "ReesMehorst",
+        "name": "claude-mods",
+        "branch": "main",
+        "enabled": true
     }
 }

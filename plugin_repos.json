@@ -53165,5 +53165,140 @@
     "repoOwner": "andrebras",
     "repoName": "tempo",
     "repoBranch": "main"
+  },
+  "erkamyaman/safe-anything": {
+    "name": "erkamyaman/safe-anything",
+    "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erkamyaman",
+    "repoName": "safe-anything",
+    "repoBranch": "main"
+  },
+  "erkamyaman/unslop-anything": {
+    "name": "erkamyaman/unslop-anything",
+    "description": "Your app looks AI-generated. Vincent Van Gogh noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erkamyaman",
+    "repoName": "unslop-anything",
+    "repoBranch": "main"
+  },
+  "tonydzi/claude-bible": {
+    "name": "tonydzi/claude-bible",
+    "description": "Make Claude Code behave consistently across repos, sessions and humans: rules-as-files governance with precedence, declined-decisions journal, objection sparring. Sanitized from a live production system. Free, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tonydzi",
+    "repoName": "claude-bible",
+    "repoBranch": "main"
+  },
+  "gocortexio/skills": {
+    "name": "gocortexio/skills",
+    "description": "Portable skill bundles for doing cool still with the Palo Alto Networks Cortex Platform.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gocortexio",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "riffkit/riffsheet": {
+    "name": "riffkit/riffsheet",
+    "description": "Video breakdown for coding agents (Claude Code, Codex): your agent analyzes a short video shot by shot on your own machine, with cut, caption, loudness and word times measured. You get a riffsheet: what happens, why i...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "riffkit",
+    "repoName": "riffsheet",
+    "repoBranch": "main"
+  },
+  "soummyaanon/engineering-os": {
+    "name": "soummyaanon/engineering-os",
+    "description": "The operating system for your coding agent: 161 vetted skills, playbooks and attack-tested safety guards for Claude Code, Codex, Cursor and 70+ agents. Grade your setup with eos score. One command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soummyaanon",
+    "repoName": "engineering-os",
+    "repoBranch": "main"
+  },
+  "cyruspastelero/demo-studio": {
+    "name": "cyruspastelero/demo-studio",
+    "description": "Claude Code plugin that turns a goal into a finished product demo video: plans the story, records the real app with Playwright, cuts, narrates and hands off. Free and local.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cyruspastelero",
+    "repoName": "demo-studio",
+    "repoBranch": "main"
+  },
+  "fabio-bergmann/ai-seo-skills": {
+    "name": "fabio-bergmann/ai-seo-skills",
+    "description": "Agentic SEO and GEO skills for Claude Code, Codex, Cursor and Gemini CLI: get found on Google and named in AI answers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fabio-bergmann",
+    "repoName": "ai-seo-skills",
+    "repoBranch": "main"
+  },
+  "cheliknagite/nucifera": {
+    "name": "cheliknagite/nucifera",
+    "description": "Design skill for Claude Code: a precise dark Linear-grade style with a light Dusk theme, Cyrillic-ready typography and screen verification.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cheliknagite",
+    "repoName": "nucifera",
+    "repoBranch": "main"
+  },
+  "cxknotjj/chinese-novel-atlas": {
+    "name": "cxknotjj/chinese-novel-atlas",
+    "description": "\u628a\u4e00\u90e8\u957f\u7bc7\u7f51\u6587\u5c0f\u8bf4\u62c6\u6210\u53ef\u70b9\u51fb\u3001\u53ef\u67e5\u8be2\u7684\u4e16\u754c\u5730\u56fe\uff1a\u4eba\u7269\u5173\u7cfb\u56fe\u8c31 / \u8bbe\u5b9a\u767e\u79d1 / \u60c5\u8282\u65f6\u95f4\u7ebf\u3002Agent skill \u5957\u4ef6\uff0c\u652f\u6301\u767e\u4e07\u5b57\u7ea7\u957f\u7bc7\u3002Turn a novel into an explorable world.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cxknotjj",
+    "repoName": "chinese-novel-atlas",
+    "repoBranch": "master"
+  },
+  "surenganne/switchboard": {
+    "name": "surenganne/switchboard",
+    "description": "Pick the right Claude Code skill when several fit. Local router for skills and plugins: no network, no API keys, no telemetry.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "surenganne",
+    "repoName": "switchboard",
+    "repoBranch": "main"
+  },
+  "Erriccc/jappa-labs": {
+    "name": "Erriccc/jappa-labs",
+    "description": "Open-source lab building tools for west Africans in diaspora: managing idle land and houses back home, shipping, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Erriccc",
+    "repoName": "jappa-labs",
+    "repoBranch": "main"
+  },
+  "DoctorMozg/mozg-video-plugins": {
+    "name": "DoctorMozg/mozg-video-plugins",
+    "description": "Plugins for creating videos using generative models",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DoctorMozg",
+    "repoName": "mozg-video-plugins",
+    "repoBranch": "main"
+  },
+  "SaiSamardh7/swarmagents": {
+    "name": "SaiSamardh7/swarmagents",
+    "description": "Approval-gated multi-agent delivery team for Claude Code & Codex \u2014 one orchestrator, parallel specialist builders, independent QA and code-review gates",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SaiSamardh7",
+    "repoName": "swarmagents",
+    "repoBranch": "main"
+  },
+  "ReesMehorst/claude-mods": {
+    "name": "ReesMehorst/claude-mods",
+    "description": "Claude Code mods: usage-band (limits and cost) and github-pane (live PR/CI pane).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ReesMehorst",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
   }
 }
