@@ -50891,7 +50891,7 @@
   },
   "karolkozer/agentwhy": {
     "name": "karolkozer/agentwhy",
-    "description": "Why your AI agent reached for your secrets - from Claude Code and Codex transcripts",
+    "description": "Claude Code plugin that blocks the obvious reads of the private files you choose and says in the chat when your AI reads a private file. Its report shows what the AI read in each conversation. Runs locally, uploads nothing.",
     "enabled": true,
     "type": "marketplace",
     "repoOwner": "karolkozer",
